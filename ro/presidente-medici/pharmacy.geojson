@@ -1,0 +1,87 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/334026237",
+      "properties": {
+        "timestamp": "2023-11-23T17:57:41Z",
+        "version": 5,
+        "changeset": 144379221,
+        "addr:city": "Presidente Médici",
+        "addr:housenumber": "1437",
+        "addr:street": "Avenida 30 de Junho",
+        "amenity": "pharmacy",
+        "building": "commercial",
+        "name": "Drogaria Vicente",
+        "opening_hours": "Mo-Sa 08:00-20:00",
+        "id": "way/334026237"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -61.9020637,
+              -11.1710128
+            ],
+            [
+              -61.9020654,
+              -11.1711065
+            ],
+            [
+              -61.9019202,
+              -11.171109
+            ],
+            [
+              -61.9019186,
+              -11.1710153
+            ],
+            [
+              -61.9020637,
+              -11.1710128
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3410558041",
+      "properties": {
+        "timestamp": "2015-03-21T13:33:22Z",
+        "version": 1,
+        "changeset": 29634532,
+        "amenity": "pharmacy",
+        "name": "Farmácia Rondônia",
+        "id": "node/3410558041"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.9040348,
+          -11.1714037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7005944355",
+      "properties": {
+        "timestamp": "2019-11-24T11:37:46Z",
+        "version": 1,
+        "changeset": 77479796,
+        "amenity": "pharmacy",
+        "name": "Farmácia Santa Maria",
+        "id": "node/7005944355"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.9020578,
+          -11.1714574
+        ]
+      }
+    }
+  ]
+}

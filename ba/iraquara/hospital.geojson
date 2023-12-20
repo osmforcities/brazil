@@ -1,0 +1,74 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1049398629",
+      "properties": {
+        "timestamp": "2022-04-05T18:15:35Z",
+        "version": 1,
+        "changeset": 119355141,
+        "addr:street": "Rua José Paulo sousa Pinto",
+        "amenity": "hospital",
+        "emergency": "no",
+        "healthcare": "hospital",
+        "healthcare:speciality": "community;general",
+        "name": "UBS - Adalberto Sousa Félix",
+        "id": "way/1049398629"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.611165,
+              -12.2473874
+            ],
+            [
+              -41.6109853,
+              -12.2472013
+            ],
+            [
+              -41.6111033,
+              -12.2470781
+            ],
+            [
+              -41.6112937,
+              -12.2472668
+            ],
+            [
+              -41.611165,
+              -12.2473874
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5528674751",
+      "properties": {
+        "timestamp": "2020-02-14T23:37:30Z",
+        "version": 3,
+        "changeset": 81029192,
+        "addr:city": "Iraqaura",
+        "addr:housenumber": "86",
+        "addr:street": "Rua das Palmeiras",
+        "amenity": "hospital",
+        "contact:phone": "+55 75 3364 2140",
+        "email": "haciraquara@hotmail.com",
+        "healthcare": "hospital",
+        "name": "Hospital Américo Chagas",
+        "phone": "+55 75 3364 2112",
+        "id": "node/5528674751"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.6174055,
+          -12.2486603
+        ]
+      }
+    }
+  ]
+}

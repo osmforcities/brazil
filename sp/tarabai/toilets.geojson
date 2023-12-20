@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/7084299288",
+      "properties": {
+        "timestamp": "2019-12-25T17:53:23Z",
+        "version": 1,
+        "changeset": 78852996,
+        "access": "yes",
+        "amenity": "toilets",
+        "drinking_water": "no",
+        "fee": "no",
+        "female": "yes",
+        "male": "no",
+        "name": "Sanitário Feminino",
+        "operator": "Rede Prudentão",
+        "toilets:disposal": "flush",
+        "toilets:position": "seated",
+        "unisex": "no",
+        "wheelchair": "limited",
+        "id": "node/7084299288"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.5525533,
+          -22.3354693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7084299289",
+      "properties": {
+        "timestamp": "2019-12-25T17:53:23Z",
+        "version": 1,
+        "changeset": 78852996,
+        "access": "yes",
+        "amenity": "toilets",
+        "drinking_water": "no",
+        "fee": "no",
+        "female": "no",
+        "male": "yes",
+        "name": "Sanitário Masculino",
+        "operator": "Rede Prudentão",
+        "toilets:disposal": "flush",
+        "toilets:position": "seated;urinal",
+        "unisex": "no",
+        "wheelchair": "limited",
+        "id": "node/7084299289"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.5526184,
+          -22.3354036
+        ]
+      }
+    }
+  ]
+}

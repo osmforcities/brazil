@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/138173509",
+      "properties": {
+        "timestamp": "2016-05-24T23:49:10Z",
+        "version": 2,
+        "changeset": 39546862,
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "Hospital Geral de Cambuquira",
+        "id": "way/138173509"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -45.2924486,
+              -21.8579968
+            ],
+            [
+              -45.2922272,
+              -21.8579504
+            ],
+            [
+              -45.2923998,
+              -21.8572971
+            ],
+            [
+              -45.2926326,
+              -21.8573449
+            ],
+            [
+              -45.2925617,
+              -21.8575893
+            ],
+            [
+              -45.2926937,
+              -21.8576237
+            ],
+            [
+              -45.2926534,
+              -21.8577628
+            ],
+            [
+              -45.2925223,
+              -21.8577299
+            ],
+            [
+              -45.2924486,
+              -21.8579968
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5005304463",
+      "properties": {
+        "timestamp": "2019-03-10T17:10:20Z",
+        "version": 3,
+        "changeset": 67995047,
+        "amenity": "hospital",
+        "name": "Posto de Saúde Familiar",
+        "id": "node/5005304463"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.2915684,
+          -21.8582865
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/842029173",
+      "properties": {
+        "timestamp": "2023-09-01T01:01:12Z",
+        "version": 4,
+        "changeset": 140657590,
+        "addr:city": "Queluz",
+        "addr:housenumber": "65",
+        "addr:postcode": "12800-000",
+        "addr:street": "Ladeira Nossa Senhora de Fátima",
+        "addr:suburb": "Centro",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "Hospital Municipal de Queluz",
+        "operator:ref:vatin": "BR46670931000106",
+        "operator:type": "private",
+        "phone": "+55 12 3147 1560",
+        "ref:CNES": "2058340",
+        "id": "way/842029173"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.7733882,
+              -22.5382685
+            ],
+            [
+              -44.7733228,
+              -22.5385277
+            ],
+            [
+              -44.7732122,
+              -22.5385555
+            ],
+            [
+              -44.7731384,
+              -22.5388345
+            ],
+            [
+              -44.7727063,
+              -22.5387199
+            ],
+            [
+              -44.7725784,
+              -22.5385583
+            ],
+            [
+              -44.7726584,
+              -22.5384415
+            ],
+            [
+              -44.7729073,
+              -22.5382174
+            ],
+            [
+              -44.7730879,
+              -22.5382282
+            ],
+            [
+              -44.7733882,
+              -22.5382685
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11001473006",
+      "properties": {
+        "timestamp": "2023-06-23T10:56:31Z",
+        "version": 1,
+        "changeset": 137683566,
+        "addr:postcode": "12800000",
+        "addr:street": "Avenida José Messias de Paula França",
+        "amenity": "hospital",
+        "name": "E.S.F. da Figueira",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "phone": "(12) 3147-2639",
+        "id": "node/11001473006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.7897105,
+          -22.5490093
+        ]
+      }
+    }
+  ]
+}

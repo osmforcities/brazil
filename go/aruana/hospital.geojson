@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/281971961",
+      "properties": {
+        "timestamp": "2023-05-08T19:06:52Z",
+        "version": 2,
+        "changeset": 135866164,
+        "addr:postcode": "76710-000",
+        "addr:street": "Rua Vicente Ferreira Camelo",
+        "addr:suburb": "Centro",
+        "amenity": "hospital",
+        "email": "saude@aruana.go.gov.br",
+        "healthcare": "hospital",
+        "name": "Hospital Municipal Doutor Claret",
+        "operator:ref:vatin": "BR01067081000100",
+        "phone": "+55 62 3376 1846",
+        "ref:CNES": "2535963",
+        "id": "way/281971961"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.0810327,
+              -14.9269772
+            ],
+            [
+              -51.0809339,
+              -14.9273727
+            ],
+            [
+              -51.0805387,
+              -14.9272636
+            ],
+            [
+              -51.0806586,
+              -14.9268544
+            ],
+            [
+              -51.0810327,
+              -14.9269772
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2863409345",
+      "properties": {
+        "timestamp": "2016-06-15T02:22:30Z",
+        "version": 2,
+        "changeset": 40029597,
+        "amenity": "hospital",
+        "emergency": "no",
+        "id": "node/2863409345"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.0803898,
+          -14.9167909
+        ]
+      }
+    }
+  ]
+}

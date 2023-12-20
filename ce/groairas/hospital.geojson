@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1103336232",
+      "properties": {
+        "timestamp": "2022-10-13T01:42:13Z",
+        "version": 1,
+        "changeset": 127442105,
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "phone": "+55 88 3647-1607",
+        "wheelchair": "yes",
+        "id": "way/1103336232"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.3885815,
+              -3.915739
+            ],
+            [
+              -40.3887711,
+              -3.9159655
+            ],
+            [
+              -40.3886868,
+              -3.9160424
+            ],
+            [
+              -40.38849,
+              -3.9158147
+            ],
+            [
+              -40.3885815,
+              -3.915739
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4235542537",
+      "properties": {
+        "timestamp": "2022-10-13T01:42:13Z",
+        "version": 4,
+        "changeset": 127442105,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hospital Municipal de Groaíras",
+        "id": "node/4235542537"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.3886328,
+          -3.9158976
+        ]
+      }
+    }
+  ]
+}

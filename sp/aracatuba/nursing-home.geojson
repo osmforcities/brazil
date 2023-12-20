@@ -1,0 +1,145 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "relation/8522158",
+      "properties": {
+        "timestamp": "2018-12-22T02:15:54Z",
+        "version": 2,
+        "changeset": 65684192,
+        "addr:city": "Araçatuba",
+        "addr:housenumber": "621",
+        "addr:postcode": "16013-680",
+        "addr:street": "Rua Panorama",
+        "amenity": "nursing_home",
+        "capacity": "32",
+        "email": "larsaojoao@hotmail.com",
+        "name": "Lar São João",
+        "operator": "Comunidade Luso Brasileira de Aracatuba",
+        "phone": "+55 18 3624-7866",
+        "type": "multipolygon",
+        "id": "relation/8522158"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -50.4170802,
+              -21.2268711
+            ],
+            [
+              -50.4178134,
+              -21.2265224
+            ],
+            [
+              -50.4180661,
+              -21.2273005
+            ],
+            [
+              -50.4180754,
+              -21.2273294
+            ],
+            [
+              -50.4172018,
+              -21.2277458
+            ],
+            [
+              -50.4167933,
+              -21.2270075
+            ],
+            [
+              -50.4170802,
+              -21.2268711
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/201856096",
+      "properties": {
+        "timestamp": "2018-08-10T21:05:21Z",
+        "version": 3,
+        "changeset": 61552656,
+        "barrier": "wall",
+        "id": "way/201856096"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -50.4178134,
+            -21.2265224
+          ],
+          [
+            -50.4180661,
+            -21.2273005
+          ],
+          [
+            -50.4180754,
+            -21.2273294
+          ],
+          [
+            -50.4172018,
+            -21.2277458
+          ],
+          [
+            -50.4167933,
+            -21.2270075
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/615983372",
+      "properties": {
+        "timestamp": "2018-08-10T21:03:15Z",
+        "version": 1,
+        "changeset": 61552534,
+        "barrier": "wall",
+        "id": "way/615983372"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -50.4170802,
+            -21.2268711
+          ],
+          [
+            -50.4178134,
+            -21.2265224
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/615983374",
+      "properties": {
+        "timestamp": "2018-08-10T21:03:15Z",
+        "version": 1,
+        "changeset": 61552534,
+        "barrier": "wall",
+        "id": "way/615983374"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -50.4167933,
+            -21.2270075
+          ],
+          [
+            -50.4170802,
+            -21.2268711
+          ]
+        ]
+      }
+    }
+  ]
+}

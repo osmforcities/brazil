@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/999574534",
+      "properties": {
+        "timestamp": "2022-10-10T23:04:29Z",
+        "version": 2,
+        "changeset": 127326931,
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "covered": "no",
+        "id": "way/999574534"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.1760389,
+              -22.5102711
+            ],
+            [
+              -43.1760314,
+              -22.510284
+            ],
+            [
+              -43.1759172,
+              -22.5102275
+            ],
+            [
+              -43.1759255,
+              -22.5102152
+            ],
+            [
+              -43.1760389,
+              -22.5102711
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9961813615",
+      "properties": {
+        "timestamp": "2022-08-26T22:28:14Z",
+        "version": 2,
+        "changeset": 125425480,
+        "access": "customers",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "wall_loops",
+        "covered": "no",
+        "fee": "no",
+        "id": "node/9961813615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2027293,
+          -22.5338135
+        ]
+      }
+    }
+  ]
+}

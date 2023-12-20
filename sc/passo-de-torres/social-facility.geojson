@@ -1,0 +1,79 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1227592268",
+      "properties": {
+        "timestamp": "2023-12-02T14:34:55Z",
+        "version": 2,
+        "changeset": 144693805,
+        "addr:city": "Passo de Torres",
+        "addr:housenumber": "507",
+        "addr:postcode": "88980-000",
+        "addr:street": "Rua Antônio José Scheffer",
+        "addr:suburb": "Centro",
+        "amenity": "social_facility",
+        "building": "yes",
+        "name": "Apae Passo de Torres",
+        "operator": "Associação de Pais e Amigos dos Excepcionais",
+        "operator:short": "Apae",
+        "operator:type": "charitable",
+        "phone": "+55 48 3548-0637",
+        "social_facility": "day_care",
+        "social_facility:for": "disabled",
+        "source": "microsoft/BuildingFootprints",
+        "id": "way/1227592268"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.7199748,
+              -29.3214098
+            ],
+            [
+              -49.7198227,
+              -29.3214231
+            ],
+            [
+              -49.7198164,
+              -29.3213681
+            ],
+            [
+              -49.7198102,
+              -29.3213138
+            ],
+            [
+              -49.7199622,
+              -29.3213005
+            ],
+            [
+              -49.7199748,
+              -29.3214098
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10906082585",
+      "properties": {
+        "timestamp": "2023-12-02T14:34:55Z",
+        "version": 3,
+        "changeset": 144693805,
+        "entrance": "main",
+        "id": "node/10906082585"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.7198164,
+          -29.3213681
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1147338865",
+      "properties": {
+        "timestamp": "2023-02-18T12:09:28Z",
+        "version": 1,
+        "changeset": 132712387,
+        "access": "permissive",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "shed",
+        "building": "yes",
+        "covered": "yes",
+        "fee": "no",
+        "id": "way/1147338865"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -55.4899192,
+              -11.8621432
+            ],
+            [
+              -55.4898924,
+              -11.8621497
+            ],
+            [
+              -55.4898972,
+              -11.862125
+            ],
+            [
+              -55.4898915,
+              -11.862117
+            ],
+            [
+              -55.4898839,
+              -11.8621062
+            ],
+            [
+              -55.490269,
+              -11.8620102
+            ],
+            [
+              -55.4902745,
+              -11.8620316
+            ],
+            [
+              -55.4902847,
+              -11.8620716
+            ],
+            [
+              -55.4899234,
+              -11.8621598
+            ],
+            [
+              -55.4899192,
+              -11.8621432
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10676105557",
+      "properties": {
+        "timestamp": "2023-02-18T12:09:28Z",
+        "version": 1,
+        "changeset": 132712387,
+        "access": "permissive",
+        "barrier": "gate",
+        "wheelchair": "yes",
+        "id": "node/10676105557"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.4902745,
+          -11.8620316
+        ]
+      }
+    }
+  ]
+}

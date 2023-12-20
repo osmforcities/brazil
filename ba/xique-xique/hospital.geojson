@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/543223060",
+      "properties": {
+        "timestamp": "2017-11-28T04:52:18Z",
+        "version": 1,
+        "changeset": 54138815,
+        "addr:street": "Rua Erotides Nogueira",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hospital Julieta Viana",
+        "id": "way/543223060"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.7321004,
+              -10.8312331
+            ],
+            [
+              -42.7320911,
+              -10.8323316
+            ],
+            [
+              -42.7312223,
+              -10.8323437
+            ],
+            [
+              -42.731327,
+              -10.8312392
+            ],
+            [
+              -42.7321004,
+              -10.8312331
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7300292174",
+      "properties": {
+        "timestamp": "2020-03-16T21:15:46Z",
+        "version": 1,
+        "changeset": 82274510,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hospital Senhor do Bonfim",
+        "id": "node/7300292174"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.7213215,
+          -10.8199878
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/770911516",
+      "properties": {
+        "timestamp": "2020-02-08T20:46:47Z",
+        "version": 1,
+        "changeset": 80734109,
+        "amenity": "toilets",
+        "building": "yes",
+        "id": "way/770911516"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.390334,
+              -23.6768673
+            ],
+            [
+              -46.3903063,
+              -23.6769326
+            ],
+            [
+              -46.3901997,
+              -23.6768947
+            ],
+            [
+              -46.3902274,
+              -23.6768294
+            ],
+            [
+              -46.390334,
+              -23.6768673
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/297245743",
+      "properties": {
+        "timestamp": "2023-04-08T00:57:14Z",
+        "version": 3,
+        "changeset": 134636260,
+        "amenity": "toilets",
+        "id": "node/297245743"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4486467,
+          -23.7511078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7180321627",
+      "properties": {
+        "timestamp": "2020-02-03T04:16:27Z",
+        "version": 1,
+        "changeset": 80453593,
+        "access": "yes",
+        "amenity": "toilets",
+        "changing_table": "no",
+        "toilets:disposal": "flush",
+        "unisex": "yes",
+        "wheelchair": "no",
+        "id": "node/7180321627"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.3971352,
+          -23.7065904
+        ]
+      }
+    }
+  ]
+}

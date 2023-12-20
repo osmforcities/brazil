@@ -1,0 +1,81 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/943063241",
+      "properties": {
+        "timestamp": "2023-08-08T00:03:06Z",
+        "version": 3,
+        "changeset": 139587229,
+        "addr:housenumber": "188",
+        "addr:postcode": "15450-000",
+        "addr:street": "Avenida Romano Calil",
+        "addr:suburb": "Centro",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "Estratégia Saúde da Família Onda Verde",
+        "opening_hours": "Mo-Fr 07:00-20:00; Sa,Su,PH off",
+        "operator": "Secretaria de Saúde",
+        "operator:ref:vatin": "BR45148699000170",
+        "operator:type": "government",
+        "phone": "+55 17 3268 1344",
+        "ref": "CNES-2037025",
+        "ref:CNES": "2037025",
+        "id": "way/943063241"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.2951839,
+              -20.6080461
+            ],
+            [
+              -49.2952225,
+              -20.6081368
+            ],
+            [
+              -49.2951506,
+              -20.6081636
+            ],
+            [
+              -49.295112,
+              -20.608073
+            ],
+            [
+              -49.2951839,
+              -20.6080461
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3611760698",
+      "properties": {
+        "timestamp": "2021-05-15T00:25:55Z",
+        "version": 3,
+        "changeset": 104712426,
+        "addr:city": "Onda Verde",
+        "addr:housenumber": "261",
+        "addr:street": "Avenida Romano Calil",
+        "addr:suburb": "Centro",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Unidade Básica de Saúde da Família",
+        "id": "node/3611760698"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2949263,
+          -20.607942
+        ]
+      }
+    }
+  ]
+}

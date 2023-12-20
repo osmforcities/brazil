@@ -1,0 +1,93 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1211707106",
+      "properties": {
+        "timestamp": "2023-09-28T23:54:23Z",
+        "version": 1,
+        "changeset": 141890835,
+        "building": "yes",
+        "name": "CRVA",
+        "office": "government",
+        "id": "way/1211707106"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.9463485,
+              -29.4009909
+            ],
+            [
+              -51.9462736,
+              -29.4010648
+            ],
+            [
+              -51.9462049,
+              -29.401012
+            ],
+            [
+              -51.9461403,
+              -29.4010758
+            ],
+            [
+              -51.9460282,
+              -29.4009897
+            ],
+            [
+              -51.9461676,
+              -29.4008519
+            ],
+            [
+              -51.9463485,
+              -29.4009909
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4296613250",
+      "properties": {
+        "timestamp": "2017-05-12T19:05:49Z",
+        "version": 3,
+        "changeset": 48632386,
+        "government": "register_office",
+        "name": "Registro de Imóveis Thomas",
+        "office": "government",
+        "id": "node/4296613250"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.9461728,
+          -29.4010876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4296613251",
+      "properties": {
+        "timestamp": "2020-04-11T00:16:05Z",
+        "version": 4,
+        "changeset": 83385646,
+        "government": "transportation",
+        "name": "CRVA",
+        "office": "government",
+        "id": "node/4296613251"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.9462761,
+          -29.4010054
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/813770575",
+      "properties": {
+        "timestamp": "2023-05-13T23:29:11Z",
+        "version": 2,
+        "changeset": 136069174,
+        "addr:housenumber": "1015",
+        "addr:postcode": "75955-000",
+        "addr:street": "Avenida Goiânia",
+        "addr:suburb": "Centro",
+        "amenity": "hospital",
+        "building": "hospital",
+        "fax": "+55 62 547 1144",
+        "healthcare": "hospital",
+        "name": "Hospital São Lucas",
+        "phone": "+55 62 547 1144",
+        "ref:CNES": "2442701",
+        "ref:vatin": "BR02171767000109",
+        "id": "way/813770575"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.9927242,
+              -17.1382273
+            ],
+            [
+              -49.9924976,
+              -17.1385195
+            ],
+            [
+              -49.992397,
+              -17.1384516
+            ],
+            [
+              -49.9926183,
+              -17.1381607
+            ],
+            [
+              -49.9927242,
+              -17.1382273
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2437697356",
+      "properties": {
+        "timestamp": "2023-05-13T23:29:11Z",
+        "version": 3,
+        "changeset": 136069174,
+        "addr:postcode": "75955-000",
+        "addr:street": "Rua Simon Bolivar",
+        "addr:suburb": "Alto Da Primavera",
+        "amenity": "hospital",
+        "fax": "+55 64 547 1300",
+        "healthcare": "hospital",
+        "name": "Hospital Municipal de Indiara",
+        "operator:ref:vatin": "BR00005959000110",
+        "phone": "+55 64 547 1300",
+        "ref:CNES": "2343185",
+        "id": "node/2437697356"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.9899648,
+          -17.1479108
+        ]
+      }
+    }
+  ]
+}

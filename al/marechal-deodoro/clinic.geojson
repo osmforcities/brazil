@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/315014786",
+      "properties": {
+        "timestamp": "2019-10-10T17:21:51Z",
+        "version": 3,
+        "changeset": 75526393,
+        "access": "yes",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "id": "way/315014786"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -35.9068538,
+              -9.7204294
+            ],
+            [
+              -35.9066977,
+              -9.7207724
+            ],
+            [
+              -35.9063802,
+              -9.7207776
+            ],
+            [
+              -35.9065046,
+              -9.720316
+            ],
+            [
+              -35.9068538,
+              -9.7204294
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2838100690",
+      "properties": {
+        "timestamp": "2020-06-11T21:08:20Z",
+        "version": 2,
+        "changeset": 86534320,
+        "access": "yes",
+        "amenity": "clinic",
+        "name": "Programa de Saúde da Família",
+        "id": "node/2838100690"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.836752,
+          -9.7315835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9670626328",
+      "properties": {
+        "timestamp": "2022-04-16T17:49:13Z",
+        "version": 1,
+        "changeset": 119793379,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "UBS Recanto da Ilha",
+        "operator": "Sistema Único de Saúde",
+        "operator:short": "SUS",
+        "operator:wikidata": "Q7531056",
+        "operator:wikipedia": "pt:Sistema Único de Saúde",
+        "id": "node/9670626328"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.8302986,
+          -9.7266364
+        ]
+      }
+    }
+  ]
+}

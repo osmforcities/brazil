@@ -1,0 +1,162 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "relation/16804300",
+      "properties": {
+        "timestamp": "2023-12-09T18:09:07Z",
+        "version": 1,
+        "changeset": 144944033,
+        "addr:city": "Santa Cruz do Sul",
+        "addr:country": "BR",
+        "addr:housenumber": "19",
+        "addr:state": "Rio Grande do Sul",
+        "addr:street": "Rua Marechal Floriano",
+        "addr:suburb": "Centro",
+        "amenity": "library",
+        "historic": "building",
+        "name": "Biblioteca Pública Municipal Professora Elisa Gil Borowski",
+        "old_name": "Presídio Central",
+        "operator": "Prefeitura Municipal de Santa Cruz do Sul",
+        "start_date": "1910",
+        "type": "multipolygon",
+        "id": "relation/16804300"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -52.4281475,
+              -29.7114925
+            ],
+            [
+              -52.4281734,
+              -29.7114925
+            ],
+            [
+              -52.4281733,
+              -29.7115715
+            ],
+            [
+              -52.4279811,
+              -29.7115714
+            ],
+            [
+              -52.4279812,
+              -29.7113557
+            ],
+            [
+              -52.4280876,
+              -29.7113557
+            ],
+            [
+              -52.4280875,
+              -29.7114925
+            ],
+            [
+              -52.4281475,
+              -29.7114925
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/159269012",
+      "properties": {
+        "timestamp": "2023-09-18T02:41:25Z",
+        "version": 4,
+        "changeset": 141403137,
+        "amenity": "library",
+        "building": "yes",
+        "name": "Bloco 9",
+        "id": "way/159269012"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -52.4368291,
+              -29.697724
+            ],
+            [
+              -52.4368304,
+              -29.6978698
+            ],
+            [
+              -52.436834,
+              -29.6982557
+            ],
+            [
+              -52.4364808,
+              -29.698258
+            ],
+            [
+              -52.4364748,
+              -29.6981102
+            ],
+            [
+              -52.4363983,
+              -29.6981109
+            ],
+            [
+              -52.4364043,
+              -29.6982581
+            ],
+            [
+              -52.4360718,
+              -29.6982659
+            ],
+            [
+              -52.4360688,
+              -29.6979532
+            ],
+            [
+              -52.4363932,
+              -29.6979526
+            ],
+            [
+              -52.436398,
+              -29.6979918
+            ],
+            [
+              -52.4364804,
+              -29.6979894
+            ],
+            [
+              -52.436478,
+              -29.6977264
+            ],
+            [
+              -52.4368291,
+              -29.697724
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1738490876",
+      "properties": {
+        "timestamp": "2012-05-02T23:48:57Z",
+        "version": 2,
+        "changeset": 11484666,
+        "amenity": "library",
+        "name": "Biblioteca Central",
+        "id": "node/1738490876"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.4365335,
+          -29.6980265
+        ]
+      }
+    }
+  ]
+}

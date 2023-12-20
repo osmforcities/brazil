@@ -1,0 +1,103 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/7528967309",
+      "properties": {
+        "timestamp": "2021-06-13T16:28:01Z",
+        "version": 3,
+        "changeset": 106289421,
+        "addr:housenumber": "3893",
+        "addr:postcode": "97800-000",
+        "addr:street": "Rua Silva Jardim",
+        "amenity": "hospital",
+        "name": "Posto de Saúde ESF Trinta",
+        "opening_hours": "Mo-Fr 07:00-16:00",
+        "phone": "+55 55 3352-9382",
+        "id": "node/7528967309"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.97612,
+          -28.3998222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7528970557",
+      "properties": {
+        "timestamp": "2021-06-13T16:28:01Z",
+        "version": 2,
+        "changeset": 106289421,
+        "addr:housenumber": "1455",
+        "addr:street": "R. São João, 1455 - Centro, São Luiz Gonzaga - RS, 97800-000",
+        "amenity": "hospital",
+        "name": "ESF 11 Centro",
+        "opening_hours": "Mo-Fr 07:00-16:00",
+        "phone": "+55 55 3352-9381",
+        "id": "node/7528970557"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.9598999,
+          -28.4014492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7528971927",
+      "properties": {
+        "timestamp": "2020-05-17T14:05:05Z",
+        "version": 1,
+        "changeset": 85335969,
+        "addr:housenumber": "522",
+        "addr:street": "R. Benjamin Constant, 522 - Duque de Caxias, São Luiz Gonzaga - RS, 97800-000",
+        "amenity": "hospital",
+        "name": "ESF Posto de saúde bairro Duque de Caxias",
+        "opening_hours": "Mo-Fr 07:00-16:00",
+        "id": "node/7528971927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.9657326,
+          -28.393486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10856676993",
+      "properties": {
+        "timestamp": "2023-04-29T21:55:54Z",
+        "version": 1,
+        "changeset": 135519142,
+        "addr:city": "São Luiz Gonzaga",
+        "addr:housenumber": "1425",
+        "addr:street": "Rua General Portinho",
+        "addr:suburb": "Centro",
+        "amenity": "hospital",
+        "fixme": "Posição obtida do IEDE/RS, porém o endereço de casa abaixo está como 1692, e não 1425",
+        "healthcare": "hospital",
+        "name": "Sociedade Hospitalar São Luiz Gonzaga",
+        "ref:CNES": "2259893",
+        "ref:vatin": "BR97081756000144",
+        "source:addr": "DATASUS",
+        "source:geometry": "IEDE/RS",
+        "id": "node/10856676993"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.9628562,
+          -28.4069279
+        ]
+      }
+    }
+  ]
+}

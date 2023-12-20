@@ -1,0 +1,103 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/432566251",
+      "properties": {
+        "timestamp": "2023-05-01T19:00:47Z",
+        "version": 5,
+        "changeset": 135587421,
+        "addr:city": "Cerro Largo",
+        "addr:housenumber": "743",
+        "addr:street": "Rua 7 de Setembro",
+        "addr:suburb": "Centro",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hospital de Caridade Serro Azul",
+        "ref:CNES": "2259869",
+        "ref:vatin": "BR08636725000182",
+        "id": "way/432566251"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -54.7372397,
+              -28.1474901
+            ],
+            [
+              -54.7370932,
+              -28.1474996
+            ],
+            [
+              -54.7370808,
+              -28.1475715
+            ],
+            [
+              -54.7367565,
+              -28.1475902
+            ],
+            [
+              -54.7367379,
+              -28.1476225
+            ],
+            [
+              -54.7366568,
+              -28.1476242
+            ],
+            [
+              -54.7366257,
+              -28.1476239
+            ],
+            [
+              -54.7361682,
+              -28.1475788
+            ],
+            [
+              -54.736182,
+              -28.1473646
+            ],
+            [
+              -54.736383,
+              -28.1473562
+            ],
+            [
+              -54.7364067,
+              -28.1472072
+            ],
+            [
+              -54.73724,
+              -28.1472295
+            ],
+            [
+              -54.7372397,
+              -28.1474901
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10052207365",
+      "properties": {
+        "timestamp": "2022-09-25T20:27:13Z",
+        "version": 1,
+        "changeset": 126628966,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hospital de Caridade Serro Azul",
+        "id": "node/10052207365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.737183,
+          -28.1472942
+        ]
+      }
+    }
+  ]
+}

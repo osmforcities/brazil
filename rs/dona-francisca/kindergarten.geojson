@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "relation/6753974",
+      "properties": {
+        "timestamp": "2016-12-01T16:05:38Z",
+        "version": 1,
+        "changeset": 44089810,
+        "amenity": "kindergarten",
+        "name": "Creche Municipal",
+        "type": "multipolygon",
+        "id": "relation/6753974"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -53.3574603,
+              -29.6216262
+            ],
+            [
+              -53.357125,
+              -29.621976
+            ],
+            [
+              -53.3565698,
+              -29.6215959
+            ],
+            [
+              -53.3569212,
+              -29.6212322
+            ],
+            [
+              -53.3574603,
+              -29.6216262
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/457011205",
+      "properties": {
+        "timestamp": "2016-12-01T16:05:38Z",
+        "version": 1,
+        "changeset": 44089810,
+        "barrier": "fence",
+        "id": "way/457011205"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -53.357125,
+            -29.621976
+          ],
+          [
+            -53.3574603,
+            -29.6216262
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/457011206",
+      "properties": {
+        "timestamp": "2016-12-01T16:05:38Z",
+        "version": 1,
+        "changeset": 44089810,
+        "barrier": "wall",
+        "id": "way/457011206"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -53.3574603,
+            -29.6216262
+          ],
+          [
+            -53.3569212,
+            -29.6212322
+          ],
+          [
+            -53.3565698,
+            -29.6215959
+          ],
+          [
+            -53.357125,
+            -29.621976
+          ]
+        ]
+      }
+    }
+  ]
+}

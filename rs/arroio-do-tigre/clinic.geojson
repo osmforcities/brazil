@@ -1,0 +1,72 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1052165745",
+      "properties": {
+        "timestamp": "2022-04-16T00:32:31Z",
+        "version": 1,
+        "changeset": 119768939,
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "id": "way/1052165745"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -53.0547864,
+              -29.2608481
+            ],
+            [
+              -53.0548606,
+              -29.26092
+            ],
+            [
+              -53.0548057,
+              -29.2609563
+            ],
+            [
+              -53.0547336,
+              -29.2608845
+            ],
+            [
+              -53.0547864,
+              -29.2608481
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9669335930",
+      "properties": {
+        "timestamp": "2022-04-16T00:32:31Z",
+        "version": 1,
+        "changeset": 119768939,
+        "addr:city": "Arroio do Tigre",
+        "addr:postcode": "96950-000",
+        "addr:street": "Estrada Geral Vila Progresso",
+        "addr:suburb": "Vila Progresso",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Posto de saúde",
+        "opening_hours": "8h-11h 13h17h",
+        "wheelchair": "yes",
+        "id": "node/9669335930"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.0547966,
+          -29.2609005
+        ]
+      }
+    }
+  ]
+}

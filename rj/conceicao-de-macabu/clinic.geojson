@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1199626830",
+      "properties": {
+        "timestamp": "2023-08-18T21:26:29Z",
+        "version": 1,
+        "changeset": 140074847,
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "UBS Silvio Soares Tavares",
+        "operator": "Prefeitura",
+        "operator:type": "government",
+        "id": "way/1199626830"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.8222565,
+              -22.1236574
+            ],
+            [
+              -41.8222719,
+              -22.1237516
+            ],
+            [
+              -41.8221086,
+              -22.1237701
+            ],
+            [
+              -41.8220963,
+              -22.1236745
+            ],
+            [
+              -41.8222565,
+              -22.1236574
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6383822497",
+      "properties": {
+        "timestamp": "2019-04-04T16:31:07Z",
+        "version": 1,
+        "changeset": 68889886,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "operator": "Prefeitura Municipal",
+        "id": "node/6383822497"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.8670678,
+          -22.0894453
+        ]
+      }
+    }
+  ]
+}

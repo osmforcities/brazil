@@ -1,0 +1,121 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/284044036",
+      "properties": {
+        "timestamp": "2014-07-13T19:44:54Z",
+        "version": 2,
+        "changeset": 24127828,
+        "addr:city": "Lauro de Freitas",
+        "addr:street": "Rua São José",
+        "amenity": "clinic",
+        "building": "yes",
+        "name": "Climed",
+        "opening_hours": "08:00-17:00",
+        "wheelchair": "no",
+        "id": "way/284044036"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.316121,
+              -12.9026336
+            ],
+            [
+              -38.3162258,
+              -12.9028093
+            ],
+            [
+              -38.3161996,
+              -12.9028348
+            ],
+            [
+              -38.3161318,
+              -12.9028693
+            ],
+            [
+              -38.3160424,
+              -12.9028693
+            ],
+            [
+              -38.3159485,
+              -12.9026952
+            ],
+            [
+              -38.3160455,
+              -12.9026396
+            ],
+            [
+              -38.316121,
+              -12.9026336
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/946282696",
+      "properties": {
+        "timestamp": "2021-01-01T11:41:24Z",
+        "version": 4,
+        "changeset": 96766965,
+        "amenity": "clinic",
+        "emergency": "ambulance_station",
+        "healthcare": "clinic",
+        "name": "SAMU",
+        "source": "survey",
+        "id": "node/946282696"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.3029643,
+          -12.8717944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2614710487",
+      "properties": {
+        "timestamp": "2014-01-30T22:16:57Z",
+        "version": 3,
+        "changeset": 20291609,
+        "amenity": "clinic",
+        "name": "Clinica Santa Fé",
+        "id": "node/2614710487"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.3223112,
+          -12.8908626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4450315031",
+      "properties": {
+        "timestamp": "2016-10-16T12:09:07Z",
+        "version": 2,
+        "changeset": 42934816,
+        "amenity": "clinic",
+        "name": "Centro Médico de Villas",
+        "id": "node/4450315031"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.3137873,
+          -12.888834
+        ]
+      }
+    }
+  ]
+}

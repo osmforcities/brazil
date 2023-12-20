@@ -1,0 +1,109 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1111824297",
+      "properties": {
+        "timestamp": "2022-11-10T17:44:09Z",
+        "version": 2,
+        "changeset": 128744429,
+        "addr:city": "Iúna",
+        "addr:postcode": "29390-000",
+        "addr:street": "Avenida Prefeito Wellington Firmino do Carmo",
+        "addr:suburb": "Vale Verde",
+        "amenity": "social_facility",
+        "name": "Centro de Atendimento Educacional Especializado Arco-Íris - Apae",
+        "operator": "Associação de Pais e Amigos dos Excepcionais de Iúna - Apae",
+        "operator:type": "private",
+        "phone": "+55 28 3545 1609",
+        "social_facility": "day_care",
+        "id": "way/1111824297"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.5381837,
+              -20.3400929
+            ],
+            [
+              -41.5377997,
+              -20.3400949
+            ],
+            [
+              -41.537778,
+              -20.3387991
+            ],
+            [
+              -41.5381252,
+              -20.3387787
+            ],
+            [
+              -41.5381837,
+              -20.3400929
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3999139437",
+      "properties": {
+        "timestamp": "2023-02-02T15:57:14Z",
+        "version": 4,
+        "changeset": 132009182,
+        "addr:city": "Iúna",
+        "addr:postcode": "29390-000",
+        "addr:street": "Rua Poeta Michel Antônio",
+        "addr:suburb": "Centro",
+        "alt_name": "Centro de Referência de Assistência Social de Iúna",
+        "amenity": "social_facility",
+        "contact:phone": "(28) 3545-1292",
+        "name": "CRAS de Iúna",
+        "operator": "Município de Iúna",
+        "operator:type": "public",
+        "social_facility": "outreach",
+        "social_facility:for": "underprivileged",
+        "source": "IJSN",
+        "id": "node/3999139437"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.5318096,
+          -20.3487807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10174079952",
+      "properties": {
+        "timestamp": "2022-11-19T20:57:01Z",
+        "version": 2,
+        "changeset": 129138100,
+        "addr:city": "Iúna",
+        "addr:postcode": "29390-000",
+        "addr:street": "Rua Galaor Rios",
+        "addr:suburb": "Centro",
+        "amenity": "social_facility",
+        "email": "tutelar_iuna@hotmail.com",
+        "name": "Conselho Tutelar de Iúna",
+        "operator": "Município de Iúna",
+        "operator:type": "public",
+        "phone": "+55 28 3545 1191;+55 28 99989 6729",
+        "id": "node/10174079952"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.5340466,
+          -20.3495129
+        ]
+      }
+    }
+  ]
+}

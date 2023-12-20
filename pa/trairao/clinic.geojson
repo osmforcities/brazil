@@ -1,0 +1,97 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/493152632",
+      "properties": {
+        "timestamp": "2017-05-13T01:07:34Z",
+        "version": 1,
+        "changeset": 48638562,
+        "amenity": "clinic",
+        "name": "Posto de Saúde de Três Bueiros",
+        "id": "way/493152632"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -55.9502799,
+              -5.3148396
+            ],
+            [
+              -55.9501806,
+              -5.3148476
+            ],
+            [
+              -55.9501734,
+              -5.3147594
+            ],
+            [
+              -55.9502727,
+              -5.3147514
+            ],
+            [
+              -55.9502799,
+              -5.3148396
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11002568819",
+      "properties": {
+        "timestamp": "2023-06-24T02:39:38Z",
+        "version": 1,
+        "changeset": 137707593,
+        "amenity": "clinic",
+        "name": "UBS Areia II",
+        "official_name": "Unidade Basica de Saúde Areia II",
+        "operator": "Prefeitura Municipal de Trairão",
+        "postal_code": "68198-000",
+        "ref:CNES": "6285120",
+        "source": "IBGE; DataSUS",
+        "id": "node/11002568819"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.7420655,
+          -4.7049205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11002568854",
+      "properties": {
+        "timestamp": "2023-06-24T02:39:38Z",
+        "version": 1,
+        "changeset": 137707593,
+        "addr:city": "Trairão",
+        "addr:country": "BR",
+        "addr:district": "Pimental",
+        "addr:state": "Pará",
+        "amenity": "clinic",
+        "name": "UBS Maria Bibiana da Silva",
+        "official_name": "Unidade Basica de Saúde Maria Bibiana da Silva",
+        "opening_hours": "Mo-Fr 07:00-11:00",
+        "operator": "Prefeitura Municipal de Trairão",
+        "postal_code": "68198-000",
+        "ref:CNES": "7740158",
+        "source": "IBGE; DataSUS",
+        "id": "node/11002568854"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.2598462,
+          -4.5703285
+        ]
+      }
+    }
+  ]
+}

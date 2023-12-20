@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1203919885",
+      "properties": {
+        "timestamp": "2023-08-31T11:59:53Z",
+        "version": 1,
+        "changeset": 140632179,
+        "amenity": "pharmacy",
+        "building": "yes",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Roval",
+        "id": "way/1203919885"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -36.2065352,
+              -7.9527382
+            ],
+            [
+              -36.2065103,
+              -7.9528063
+            ],
+            [
+              -36.206291,
+              -7.9527277
+            ],
+            [
+              -36.2063159,
+              -7.9526595
+            ],
+            [
+              -36.2065352,
+              -7.9527382
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11158892249",
+      "properties": {
+        "timestamp": "2023-08-31T11:59:53Z",
+        "version": 1,
+        "changeset": 140632179,
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Roval",
+        "id": "node/11158892249"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.2064111,
+          -7.9527286
+        ]
+      }
+    }
+  ]
+}

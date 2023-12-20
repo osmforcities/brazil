@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/202131373",
+      "properties": {
+        "timestamp": "2014-06-24T15:09:52Z",
+        "version": 5,
+        "changeset": 23124891,
+        "addr:city": "São Pedro do Sul",
+        "addr:street": "BR-287",
+        "building": "yes",
+        "name": "Sítio Hotel",
+        "tourism": "hotel",
+        "id": "way/202131373"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -54.186292,
+              -29.6381293
+            ],
+            [
+              -54.1856051,
+              -29.6382453
+            ],
+            [
+              -54.1854978,
+              -29.6377652
+            ],
+            [
+              -54.1861847,
+              -29.6376492
+            ],
+            [
+              -54.186292,
+              -29.6381293
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1627791354",
+      "properties": {
+        "timestamp": "2012-02-11T03:39:08Z",
+        "version": 1,
+        "changeset": 10649307,
+        "name": "Hotel Santa Clara",
+        "tourism": "hotel",
+        "id": "node/1627791354"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.1774358,
+          -29.6168894
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "relation/4833558",
+      "properties": {
+        "timestamp": "2015-08-07T05:19:06Z",
+        "version": 2,
+        "changeset": 33170634,
+        "addr:housenumber": "472",
+        "addr:street": "Rua Gavião Peixoto",
+        "amenity": "nursing_home",
+        "loc_name": "Asilo",
+        "name": "Lar São Francisco de Assis",
+        "note": "\"Asilo\" é o nome pelo qual as pessoas conhecem",
+        "type": "multipolygon",
+        "id": "relation/4833558"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.1929577,
+              -21.8011011
+            ],
+            [
+              -48.1933411,
+              -21.7999222
+            ],
+            [
+              -48.1940437,
+              -21.8001036
+            ],
+            [
+              -48.1936705,
+              -21.8013498
+            ],
+            [
+              -48.1929457,
+              -21.8011377
+            ],
+            [
+              -48.1929577,
+              -21.8011011
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/217880906",
+      "properties": {
+        "timestamp": "2015-04-26T06:05:00Z",
+        "version": 3,
+        "changeset": 30491836,
+        "barrier": "wall",
+        "id": "way/217880906"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -48.1933411,
+            -21.7999222
+          ],
+          [
+            -48.1940437,
+            -21.8001036
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340560100",
+      "properties": {
+        "timestamp": "2015-08-07T05:19:32Z",
+        "version": 2,
+        "changeset": 33170634,
+        "barrier": "wall",
+        "id": "way/340560100"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -48.1933411,
+            -21.7999222
+          ],
+          [
+            -48.1929577,
+            -21.8011011
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/364449870",
+      "properties": {
+        "timestamp": "2015-08-07T05:18:04Z",
+        "version": 1,
+        "changeset": 33170634,
+        "barrier": "wall",
+        "id": "way/364449870"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -48.1929577,
+            -21.8011011
+          ],
+          [
+            -48.1929457,
+            -21.8011377
+          ]
+        ]
+      }
+    }
+  ]
+}

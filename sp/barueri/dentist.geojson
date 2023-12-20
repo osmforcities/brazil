@@ -1,0 +1,96 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1154825650",
+      "properties": {
+        "timestamp": "2023-08-07T19:30:55Z",
+        "version": 2,
+        "changeset": 139580703,
+        "addr:housenumber": "170",
+        "addr:street": "Rua Professor João da Mata e Luz",
+        "addr:suburb": "Centro",
+        "amenity": "dentist",
+        "building": "yes",
+        "contact:phone": "+55 11 4552 2006",
+        "healthcare": "dentist",
+        "name": "Centro Odontológico Implante BRasil",
+        "phone": "+55 11 4552 2005",
+        "id": "way/1154825650"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.8732719,
+              -23.5115709
+            ],
+            [
+              -46.8732514,
+              -23.5117003
+            ],
+            [
+              -46.8731572,
+              -23.5116878
+            ],
+            [
+              -46.8731777,
+              -23.5115584
+            ],
+            [
+              -46.8732719,
+              -23.5115709
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11136783859",
+      "properties": {
+        "timestamp": "2023-08-22T17:50:11Z",
+        "version": 1,
+        "changeset": 140240338,
+        "addr:street": "Avenida Henriqueta Mendes Guerra",
+        "addr:suburb": "Centro",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "Clinica Dentista do Povo",
+        "id": "node/11136783859"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.8778475,
+          -23.5114644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11152016762",
+      "properties": {
+        "timestamp": "2023-08-29T00:45:17Z",
+        "version": 1,
+        "changeset": 140516932,
+        "addr:street": "Rua Antônio Pereira Tendeiro",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "Oral Sin",
+        "phone": "+55 11 4199 4900",
+        "website": "https://www.oralsin.com.br/",
+        "id": "node/11152016762"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.8769702,
+          -23.5058673
+        ]
+      }
+    }
+  ]
+}

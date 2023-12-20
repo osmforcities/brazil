@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/818929520",
+      "properties": {
+        "timestamp": "2023-05-12T06:27:00Z",
+        "version": 3,
+        "changeset": 136002794,
+        "name": "Hotel Jaguary",
+        "tourism": "hotel",
+        "id": "way/818929520"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.9946705,
+              -22.7033335
+            ],
+            [
+              -46.9941167,
+              -22.7035599
+            ],
+            [
+              -46.993764,
+              -22.7036812
+            ],
+            [
+              -46.9935883,
+              -22.7032469
+            ],
+            [
+              -46.9943661,
+              -22.7029723
+            ],
+            [
+              -46.9946705,
+              -22.7033335
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9092803518",
+      "properties": {
+        "timestamp": "2021-09-14T23:54:34Z",
+        "version": 1,
+        "changeset": 111218183,
+        "addr:city": "Jaguariúna",
+        "addr:housenumber": "1800",
+        "addr:postcode": "13917-190",
+        "addr:street": "Avenida dos Ipês",
+        "addr:suburb": "Estância das Flores",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "FIT Transamerica Jaguariúna",
+        "source": "survey",
+        "tourism": "hotel",
+        "id": "node/9092803518"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.9987014,
+          -22.6992541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9147037943",
+      "properties": {
+        "timestamp": "2021-10-05T00:05:37Z",
+        "version": 1,
+        "changeset": 112098705,
+        "name": "Happy Inn Hotel",
+        "source": "survey",
+        "tourism": "hotel",
+        "id": "node/9147037943"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.9980676,
+          -22.6989425
+        ]
+      }
+    }
+  ]
+}

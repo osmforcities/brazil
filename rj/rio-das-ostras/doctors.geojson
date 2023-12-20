@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1214374292",
+      "properties": {
+        "timestamp": "2023-10-09T16:28:33Z",
+        "version": 1,
+        "changeset": 142357349,
+        "amenity": "doctors",
+        "building": "yes",
+        "healthcare": "doctor",
+        "healthcare:speciality": "naturopathy",
+        "name": "Boadecria",
+        "id": "way/1214374292"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.9175963,
+              -22.5109676
+            ],
+            [
+              -41.9175509,
+              -22.5109974
+            ],
+            [
+              -41.9174741,
+              -22.5108974
+            ],
+            [
+              -41.9175195,
+              -22.5108676
+            ],
+            [
+              -41.9175963,
+              -22.5109676
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10747626932",
+      "properties": {
+        "timestamp": "2023-03-20T05:06:27Z",
+        "version": 1,
+        "changeset": 133882203,
+        "amenity": "doctors",
+        "healthcare": "doctor",
+        "name": "Oxy Lagos Medicina Hiperbarica",
+        "id": "node/10747626932"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.9254353,
+          -22.5068151
+        ]
+      }
+    }
+  ]
+}

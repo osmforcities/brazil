@@ -1,0 +1,127 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/490929503",
+      "properties": {
+        "timestamp": "2023-10-22T17:17:22Z",
+        "version": 4,
+        "changeset": 142977588,
+        "addr:housenumber": "1900",
+        "addr:postcode": "95560-000",
+        "addr:street": "Rua Universitária",
+        "addr:suburb": "Parque do Balonismo",
+        "amenity": "university",
+        "loc_name": "Campus Universitário Torres",
+        "name": "Universidade Luterana do Brasil",
+        "operator": "ULBRA",
+        "phone": "+55 51 3626-2000",
+        "short_name": "Ulbra Torres",
+        "website": "https://www.ulbra.br/torres/",
+        "id": "way/490929503"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.752252,
+              -29.3312416
+            ],
+            [
+              -49.7519604,
+              -29.3367205
+            ],
+            [
+              -49.7475777,
+              -29.3329075
+            ],
+            [
+              -49.7484525,
+              -29.3321988
+            ],
+            [
+              -49.7492192,
+              -29.3328059
+            ],
+            [
+              -49.7507233,
+              -29.3328766
+            ],
+            [
+              -49.750794,
+              -29.3309893
+            ],
+            [
+              -49.7514076,
+              -29.3310913
+            ],
+            [
+              -49.7515094,
+              -29.3311099
+            ],
+            [
+              -49.752252,
+              -29.3312416
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1250513475",
+      "properties": {
+        "timestamp": "2021-05-03T05:20:13Z",
+        "version": 4,
+        "changeset": 104024826,
+        "barrier": "gate",
+        "id": "node/1250513475"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.7492192,
+          -29.3328059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4830979454",
+      "properties": {
+        "timestamp": "2021-05-03T05:37:59Z",
+        "version": 2,
+        "changeset": 104025929,
+        "barrier": "gate",
+        "id": "node/4830979454"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.7515094,
+          -29.3311099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4830979455",
+      "properties": {
+        "timestamp": "2021-05-03T05:37:59Z",
+        "version": 2,
+        "changeset": 104025929,
+        "barrier": "gate",
+        "id": "node/4830979455"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.7514076,
+          -29.3310913
+        ]
+      }
+    }
+  ]
+}

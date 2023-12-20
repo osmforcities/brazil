@@ -1,0 +1,113 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/778821936",
+      "properties": {
+        "timestamp": "2020-03-06T11:08:35Z",
+        "version": 1,
+        "changeset": 81864837,
+        "addr:city": "São Francisco do Sul",
+        "addr:street": "Rua Antônio da Silva",
+        "amenity": "social_facility",
+        "building": "yes",
+        "name": "Associação Comunitária Cristã São Paulo Apóstolo Lar dos Idosos",
+        "phone": "+55 47 3444-3629",
+        "social_facility": "nursing_home",
+        "social_facility:for": "senior",
+        "id": "way/778821936"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.6117875,
+              -26.2358403
+            ],
+            [
+              -48.6120859,
+              -26.2360003
+            ],
+            [
+              -48.6123295,
+              -26.2361327
+            ],
+            [
+              -48.6117419,
+              -26.23697
+            ],
+            [
+              -48.6114739,
+              -26.2369782
+            ],
+            [
+              -48.6111537,
+              -26.2374513
+            ],
+            [
+              -48.6108924,
+              -26.2378303
+            ],
+            [
+              -48.6107553,
+              -26.2377811
+            ],
+            [
+              -48.6107493,
+              -26.2373414
+            ],
+            [
+              -48.6109959,
+              -26.2370492
+            ],
+            [
+              -48.6117875,
+              -26.2358403
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3962540233",
+      "properties": {
+        "timestamp": "2016-01-23T22:56:56Z",
+        "version": 1,
+        "changeset": 36767397,
+        "barrier": "gate",
+        "id": "node/3962540233"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.6120859,
+          -26.2360003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8254696968",
+      "properties": {
+        "timestamp": "2023-01-23T17:49:47Z",
+        "version": 2,
+        "changeset": 131618162,
+        "amenity": "social_facility",
+        "name": "CRAS Majorca",
+        "social_facility": "outreach",
+        "social_facility:for": "underprivileged",
+        "id": "node/8254696968"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.5213602,
+          -26.2337509
+        ]
+      }
+    }
+  ]
+}

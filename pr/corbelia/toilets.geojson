@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/8294977906",
+      "properties": {
+        "timestamp": "2021-01-05T22:36:27Z",
+        "version": 1,
+        "changeset": 97008396,
+        "access": "customers",
+        "amenity": "toilets",
+        "drinking_water": "no",
+        "fee": "no",
+        "female": "yes",
+        "male": "no",
+        "toilets:position": "seated",
+        "unisex": "no",
+        "id": "node/8294977906"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.2913075,
+          -24.7858116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8294977907",
+      "properties": {
+        "timestamp": "2021-01-05T22:36:27Z",
+        "version": 1,
+        "changeset": 97008396,
+        "access": "customers",
+        "amenity": "toilets",
+        "drinking_water": "no",
+        "fee": "no",
+        "female": "no",
+        "male": "yes",
+        "toilets:disposal": "flush",
+        "toilets:position": "seated;urinal",
+        "unisex": "no",
+        "id": "node/8294977907"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.2912257,
+          -24.7859967
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/282102279",
+      "properties": {
+        "timestamp": "2021-03-14T21:48:38Z",
+        "version": 3,
+        "changeset": 101009047,
+        "addr:city": "São Miguel do Aleixo",
+        "addr:street": "Rua Paulo Barreto de Menezes",
+        "building": "yes",
+        "government": "public_service",
+        "name": "Unidade de Distribuição São Miguel do Aleixo (DESO)",
+        "office": "government",
+        "id": "way/282102279"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -37.3806055,
+              -10.3885294
+            ],
+            [
+              -37.3807578,
+              -10.3886941
+            ],
+            [
+              -37.3806714,
+              -10.3887721
+            ],
+            [
+              -37.3804405,
+              -10.3885172
+            ],
+            [
+              -37.38051,
+              -10.388453
+            ],
+            [
+              -37.3805895,
+              -10.3885408
+            ],
+            [
+              -37.3806055,
+              -10.3885294
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8518942697",
+      "properties": {
+        "timestamp": "2021-03-14T21:48:38Z",
+        "version": 1,
+        "changeset": 101009047,
+        "addr:city": "São Miguel do Aleixo",
+        "addr:street": "Rua Paulo Barreto de Menezes",
+        "description": "Escritório Comercial de São Miguel do Aleixo (DESO)",
+        "government": "public_service",
+        "name": "Unidade de Atendimento ao Cliente (DESO)",
+        "office": "government",
+        "id": "node/8518942697"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.3806492,
+          -10.3886784
+        ]
+      }
+    }
+  ]
+}

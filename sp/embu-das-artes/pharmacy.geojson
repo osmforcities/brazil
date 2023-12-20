@@ -1,0 +1,181 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/656957612",
+      "properties": {
+        "timestamp": "2023-03-09T11:55:34Z",
+        "version": 4,
+        "changeset": 133476002,
+        "addr:housenumber": "496",
+        "addr:postcode": "06803-000",
+        "addr:street": "Avenida Elias Yazbek",
+        "addr:suburb": "Tingidor",
+        "amenity": "pharmacy",
+        "brand": "Drogasil",
+        "brand:wikidata": "Q5308185",
+        "building": "yes",
+        "contact:phone": "+55 11 4704 4040",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Drogasil",
+        "opening_hours": "24/7",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:notes": "yes",
+        "phone": "+55 11 4704 4027",
+        "website": "https://www.drogasil.com.br/",
+        "wheelchair": "yes",
+        "id": "way/656957612"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.851937,
+              -23.6588713
+            ],
+            [
+              -46.8519548,
+              -23.6589213
+            ],
+            [
+              -46.8519147,
+              -23.6590032
+            ],
+            [
+              -46.8518806,
+              -23.658999
+            ],
+            [
+              -46.8517734,
+              -23.6589745
+            ],
+            [
+              -46.8518216,
+              -23.6588443
+            ],
+            [
+              -46.851937,
+              -23.6588713
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6153507842",
+      "properties": {
+        "timestamp": "2022-09-16T18:39:26Z",
+        "version": 3,
+        "changeset": 126274814,
+        "addr:housenumber": "708",
+        "addr:street": "Avenida Elias Yazbek",
+        "addr:suburb": "Tingidor",
+        "amenity": "pharmacy",
+        "brand": "Drogaria São Paulo",
+        "brand:wikidata": "Q5308184",
+        "brand:wikipedia": "en:Grupo DPSP",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Drogaria São Paulo",
+        "id": "node/6153507842"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.8516483,
+          -23.6565541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10030151933",
+      "properties": {
+        "timestamp": "2022-09-16T18:13:52Z",
+        "version": 1,
+        "changeset": 126274134,
+        "addr:housenumber": "1871",
+        "addr:postcode": "06803-000",
+        "addr:street": "Avenida Elias Yazbek",
+        "addr:suburb": "Tingidor",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Drogaria Prazeres",
+        "opening_hours": "24/7",
+        "website": "https://prazeresdrogaria.com.br/",
+        "id": "node/10030151933"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.8525234,
+          -23.6584707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10030204838",
+      "properties": {
+        "timestamp": "2022-09-16T18:53:19Z",
+        "version": 1,
+        "changeset": 126275118,
+        "addr:housenumber": "708",
+        "addr:street": "Avenida Elias Yazbek",
+        "addr:suburb": "Tingidor",
+        "amenity": "pharmacy",
+        "brand": "Drogaria São Paulo",
+        "brand:wikidata": "Q5308184",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Drogaria São Paulo",
+        "id": "node/10030204838"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.8513301,
+          -23.6567183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10039621011",
+      "properties": {
+        "timestamp": "2022-09-20T14:08:45Z",
+        "version": 1,
+        "changeset": 126425156,
+        "addr:housenumber": "1871",
+        "addr:postcode": "06803-000",
+        "addr:street": "Avenida Elias Yazbek",
+        "addr:suburb": "Cercado Grande",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Prazeres Drogaria",
+        "website": "https://prazeresdrogaria.com.br/home",
+        "id": "node/10039621011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.8482196,
+          -23.6483479
+        ]
+      }
+    }
+  ]
+}

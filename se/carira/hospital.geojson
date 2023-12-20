@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/351034481",
+      "properties": {
+        "timestamp": "2023-01-23T22:59:43Z",
+        "version": 2,
+        "changeset": 131627650,
+        "amenity": "hospital",
+        "building": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Hospital de Carira",
+        "id": "way/351034481"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -37.7028797,
+              -10.357724
+            ],
+            [
+              -37.7024963,
+              -10.3579356
+            ],
+            [
+              -37.7023965,
+              -10.3577884
+            ],
+            [
+              -37.7027924,
+              -10.3575676
+            ],
+            [
+              -37.7028797,
+              -10.357724
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3371122574",
+      "properties": {
+        "timestamp": "2015-02-24T23:41:49Z",
+        "version": 1,
+        "changeset": 29081720,
+        "amenity": "hospital",
+        "emergency": "no",
+        "name": "Maternidade Maria Neuza Alves Chagas",
+        "id": "node/3371122574"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.609566,
+          -10.3746951
+        ]
+      }
+    }
+  ]
+}

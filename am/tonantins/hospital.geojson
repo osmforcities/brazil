@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/770648825",
+      "properties": {
+        "timestamp": "2020-02-07T13:56:15Z",
+        "version": 1,
+        "changeset": 80694682,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "Hospital Frei Francisco",
+        "id": "way/770648825"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.7723323,
+              -2.8597416
+            ],
+            [
+              -67.7728833,
+              -2.8602034
+            ],
+            [
+              -67.7726405,
+              -2.8605439
+            ],
+            [
+              -67.7720801,
+              -2.8600821
+            ],
+            [
+              -67.7723323,
+              -2.8597416
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7193224707",
+      "properties": {
+        "timestamp": "2020-02-07T13:56:15Z",
+        "version": 1,
+        "changeset": 80694682,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hospital Frei Francisco",
+        "id": "node/7193224707"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.7722417,
+          -2.8600147
+        ]
+      }
+    }
+  ]
+}

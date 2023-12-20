@@ -1,0 +1,76 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/950212860",
+      "properties": {
+        "timestamp": "2021-06-04T00:05:14Z",
+        "version": 1,
+        "changeset": 105804696,
+        "addr:city": "Amarante",
+        "addr:postcode": "64400-000",
+        "addr:street": "Avenida Afrânio Filho",
+        "addr:suburb": "Balão",
+        "building": "yes",
+        "internet_access": "yes",
+        "internet_access:fee": "customers",
+        "name": "Pousada El Shaday",
+        "tourism": "hotel",
+        "id": "way/950212860"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.8427008,
+              -6.2443031
+            ],
+            [
+              -42.8425077,
+              -6.2441213
+            ],
+            [
+              -42.8426947,
+              -6.2439111
+            ],
+            [
+              -42.8429061,
+              -6.2440869
+            ],
+            [
+              -42.8427008,
+              -6.2443031
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8743729669",
+      "properties": {
+        "timestamp": "2023-10-12T18:36:00Z",
+        "version": 2,
+        "changeset": 142492736,
+        "addr:city": "Amarante",
+        "addr:postcode": "64400-000",
+        "addr:street": "Rua Zeca Correia",
+        "addr:suburb": "Cajueiro",
+        "internet_access": "yes",
+        "internet_access:fee": "customers",
+        "name": "Hotel Pousada Velho Monge",
+        "tourism": "hotel",
+        "id": "node/8743729669"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.8543382,
+          -6.2474431
+        ]
+      }
+    }
+  ]
+}

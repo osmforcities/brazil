@@ -1,0 +1,96 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "relation/7337512",
+      "properties": {
+        "timestamp": "2017-06-16T20:55:29Z",
+        "version": 1,
+        "changeset": 49601985,
+        "amenity": "kindergarten",
+        "max_age": "5 years 11 months",
+        "min_age": "0",
+        "source": "Bing;FNDE",
+        "type": "multipolygon",
+        "wheelchair": "yes",
+        "id": "relation/7337512"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -52.6932933,
+              -28.3906685
+            ],
+            [
+              -52.6933293,
+              -28.390665
+            ],
+            [
+              -52.6935204,
+              -28.3906506
+            ],
+            [
+              -52.6935845,
+              -28.3910064
+            ],
+            [
+              -52.6928543,
+              -28.3911121
+            ],
+            [
+              -52.6928123,
+              -28.3907262
+            ],
+            [
+              -52.6931098,
+              -28.3906873
+            ],
+            [
+              -52.6932933,
+              -28.3906685
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/501071773",
+      "properties": {
+        "timestamp": "2017-06-16T20:55:28Z",
+        "version": 1,
+        "changeset": 49601985,
+        "barrier": "wall",
+        "id": "way/501071773"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -52.6933293,
+            -28.390665
+          ],
+          [
+            -52.6935204,
+            -28.3906506
+          ],
+          [
+            -52.6935845,
+            -28.3910064
+          ],
+          [
+            -52.6928543,
+            -28.3911121
+          ],
+          [
+            -52.6928123,
+            -28.3907262
+          ]
+        ]
+      }
+    }
+  ]
+}

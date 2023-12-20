@@ -1,0 +1,104 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/935648650",
+      "properties": {
+        "timestamp": "2021-04-27T03:03:40Z",
+        "version": 1,
+        "changeset": 103667700,
+        "addr:housenumber": "719",
+        "addr:postcode": "17900-000",
+        "addr:street": "Rua 8 de Dezembro",
+        "addr:suburb": "Jardim Vera Cruz",
+        "amenity": "school",
+        "email": "e031264A@educacao.sp.gov.br",
+        "name": "Escola Estadual 9 de Julho",
+        "operator": "Secretaria da Educação do Estado de São Paulo",
+        "operator:type": "government",
+        "phone": "+55 18 3821 1813",
+        "ref": "INEP",
+        "source": "CADMEC 2017;INEP",
+        "id": "way/935648650"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.52579,
+              -21.4894879
+            ],
+            [
+              -51.5257193,
+              -21.4899641
+            ],
+            [
+              -51.5250425,
+              -21.4902178
+            ],
+            [
+              -51.5242816,
+              -21.4901771
+            ],
+            [
+              -51.5244331,
+              -21.4892717
+            ],
+            [
+              -51.52579,
+              -21.4894879
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9721528368",
+      "properties": {
+        "timestamp": "2022-05-06T21:07:49Z",
+        "version": 1,
+        "changeset": 120647283,
+        "addr:city": "Dracena",
+        "addr:housenumber": "Sn",
+        "addr:postcode": "17900-000",
+        "addr:street": "Rua Aristides Zanoni",
+        "amenity": "school",
+        "name": "Colégio Objetivo",
+        "id": "node/9721528368"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.5219271,
+          -21.4900704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9721528997",
+      "properties": {
+        "timestamp": "2022-05-06T21:36:07Z",
+        "version": 1,
+        "changeset": 120647945,
+        "addr:city": "Dracena",
+        "addr:housenumber": "262",
+        "addr:postcode": "17900-000",
+        "addr:street": "Rua Bezerra de Menezes",
+        "amenity": "school",
+        "name": "EMEFI Profº Moacir Simardi",
+        "id": "node/9721528997"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.5294517,
+          -21.478377
+        ]
+      }
+    }
+  ]
+}

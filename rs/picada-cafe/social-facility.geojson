@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1137107499",
+      "properties": {
+        "timestamp": "2023-02-01T23:13:11Z",
+        "version": 1,
+        "changeset": 131981630,
+        "amenity": "social_facility",
+        "social_facility": "group_home",
+        "social_facility:for": "senior",
+        "id": "way/1137107499"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.1522754,
+              -29.4681152
+            ],
+            [
+              -51.152239,
+              -29.4682571
+            ],
+            [
+              -51.1520143,
+              -29.4682602
+            ],
+            [
+              -51.1518055,
+              -29.4682833
+            ],
+            [
+              -51.151797,
+              -29.4681585
+            ],
+            [
+              -51.1522754,
+              -29.4681152
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10600142862",
+      "properties": {
+        "timestamp": "2023-02-01T23:13:11Z",
+        "version": 1,
+        "changeset": 131981630,
+        "amenity": "social_facility",
+        "social_facility": "nursing_home",
+        "social_facility:for": "senior",
+        "id": "node/10600142862"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1520957,
+          -29.4682063
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/304008293",
+      "properties": {
+        "timestamp": "2023-06-17T11:58:40Z",
+        "version": 4,
+        "changeset": 137444885,
+        "addr:city": "Vereda",
+        "addr:postcode": "45955-000",
+        "addr:street": "Avenida Antônio Carlos Magalhães",
+        "addr:suburb": "Centro",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "Hospital e Maternidade Ana Lúcia Magalhães",
+        "id": "way/304008293"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.0850569,
+              -17.2233023
+            ],
+            [
+              -40.0849783,
+              -17.2231738
+            ],
+            [
+              -40.0853486,
+              -17.2229671
+            ],
+            [
+              -40.0854272,
+              -17.2230956
+            ],
+            [
+              -40.0850569,
+              -17.2233023
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2478477722",
+      "properties": {
+        "timestamp": "2023-12-03T19:41:41Z",
+        "version": 4,
+        "changeset": 144730581,
+        "addr:street": "Rua Doze de Outubro",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Posto de Saúde da Família",
+        "id": "node/2478477722"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.2410597,
+          -16.9763972
+        ]
+      }
+    }
+  ]
+}

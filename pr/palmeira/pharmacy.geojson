@@ -1,0 +1,127 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/480889716",
+      "properties": {
+        "timestamp": "2017-03-30T19:31:40Z",
+        "version": 2,
+        "changeset": 47303202,
+        "amenity": "pharmacy",
+        "building": "yes",
+        "name": "FarmaWit",
+        "id": "way/480889716"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.8176895,
+              -25.4266016
+            ],
+            [
+              -49.8176447,
+              -25.4267063
+            ],
+            [
+              -49.8175334,
+              -25.4266676
+            ],
+            [
+              -49.8175781,
+              -25.4265628
+            ],
+            [
+              -49.8176895,
+              -25.4266016
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3667730827",
+      "properties": {
+        "timestamp": "2015-07-26T21:07:38Z",
+        "version": 1,
+        "changeset": 32897655,
+        "amenity": "pharmacy",
+        "name": "Farmácia Conceição",
+        "id": "node/3667730827"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.0032373,
+          -25.4231809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3667731126",
+      "properties": {
+        "timestamp": "2015-07-26T21:07:39Z",
+        "version": 1,
+        "changeset": 32897655,
+        "amenity": "pharmacy",
+        "name": "FarmaClin",
+        "id": "node/3667731126"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.0022751,
+          -25.4220569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000975723",
+      "properties": {
+        "timestamp": "2017-07-29T03:50:01Z",
+        "version": 1,
+        "changeset": 50662999,
+        "amenity": "pharmacy",
+        "name": "Farmácia Capraro",
+        "name:en": "Capraro Drugstore",
+        "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-12:00",
+        "id": "node/5000975723"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.9983486,
+          -25.4179253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000975724",
+      "properties": {
+        "timestamp": "2023-07-28T03:00:23Z",
+        "version": 2,
+        "changeset": 139113853,
+        "addr:street": "Praça Marechal Floriano Peixoto",
+        "amenity": "pharmacy",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Farmácia Rendifarma",
+        "name:en": "Rendifarma Drugstore",
+        "id": "node/5000975724"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.9993283,
+          -25.4179084
+        ]
+      }
+    }
+  ]
+}

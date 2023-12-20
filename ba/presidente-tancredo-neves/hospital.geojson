@@ -1,0 +1,102 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/972381636",
+      "properties": {
+        "timestamp": "2021-08-11T21:35:59Z",
+        "version": 1,
+        "changeset": 109538029,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "id": "way/972381636"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -39.4226039,
+              -13.4572563
+            ],
+            [
+              -39.4225687,
+              -13.4575043
+            ],
+            [
+              -39.4222445,
+              -13.4574607
+            ],
+            [
+              -39.4222594,
+              -13.4573559
+            ],
+            [
+              -39.4222063,
+              -13.4573487
+            ],
+            [
+              -39.4222205,
+              -13.4572493
+            ],
+            [
+              -39.4223358,
+              -13.4572648
+            ],
+            [
+              -39.4223573,
+              -13.4572231
+            ],
+            [
+              -39.4226039,
+              -13.4572563
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4638153189",
+      "properties": {
+        "timestamp": "2017-01-27T17:57:42Z",
+        "version": 1,
+        "changeset": 45569016,
+        "amenity": "hospital",
+        "name": "Posto médico",
+        "name:pt": "Posto médico",
+        "id": "node/4638153189"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.3624022,
+          -13.4594238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8999678949",
+      "properties": {
+        "timestamp": "2021-08-11T21:35:59Z",
+        "version": 1,
+        "changeset": 109538029,
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "maternity",
+        "name": "Hospital e Maternidade Municipal Luis Eduardo Magalhães",
+        "id": "node/8999678949"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.4224163,
+          -13.4573587
+        ]
+      }
+    }
+  ]
+}

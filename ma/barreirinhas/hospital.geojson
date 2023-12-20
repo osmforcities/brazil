@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/544966813",
+      "properties": {
+        "timestamp": "2017-12-06T08:21:46Z",
+        "version": 1,
+        "changeset": 54393449,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hospital Regional de Barreirinhas",
+        "id": "way/544966813"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.839269,
+              -2.771197
+            ],
+            [
+              -42.8397281,
+              -2.7719725
+            ],
+            [
+              -42.8391396,
+              -2.772348
+            ],
+            [
+              -42.8386836,
+              -2.7715355
+            ],
+            [
+              -42.839269,
+              -2.771197
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4278766110",
+      "properties": {
+        "timestamp": "2016-07-02T18:43:12Z",
+        "version": 1,
+        "changeset": 40445324,
+        "amenity": "hospital",
+        "source": "Bing;IBGE",
+        "id": "node/4278766110"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.8356226,
+          -2.727831
+        ]
+      }
+    }
+  ]
+}

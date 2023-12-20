@@ -1,0 +1,79 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1102756040",
+      "properties": {
+        "timestamp": "2022-10-11T03:10:07Z",
+        "version": 2,
+        "changeset": 127332015,
+        "addr:housenumber": "504",
+        "addr:postcode": "17300-000",
+        "addr:street": "Avenida Helcy Bueno Faulin",
+        "addr:suburb": "Jardim Marina",
+        "amenity": "school",
+        "name": "Escola Municipal de Ensino Fundamental e Educação Infantil  Oscar Novakoski",
+        "phone": "+55 14 3652 5009",
+        "ref": "INEP-35206222",
+        "religion": "none",
+        "short_name": "EMEFEI Oscar Novakoski",
+        "source": "INEP",
+        "id": "way/1102756040"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.3879264,
+              -22.3633472
+            ],
+            [
+              -48.3877786,
+              -22.3638847
+            ],
+            [
+              -48.3868705,
+              -22.3636641
+            ],
+            [
+              -48.3870291,
+              -22.3631526
+            ],
+            [
+              -48.3879264,
+              -22.3633472
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4717522172",
+      "properties": {
+        "timestamp": "2022-10-11T02:33:46Z",
+        "version": 2,
+        "changeset": 127331056,
+        "addr:housenumber": "37",
+        "addr:postcode": "17300-000",
+        "addr:street": "Praça da República",
+        "addr:suburb": "Centro",
+        "amenity": "school",
+        "name": "Colégio Idealista Professor Benedito Ortiz",
+        "operator:type": "private",
+        "ref": "INEP-35004247",
+        "source": "INEP",
+        "id": "node/4717522172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3856603,
+          -22.369592
+        ]
+      }
+    }
+  ]
+}

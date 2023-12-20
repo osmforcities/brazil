@@ -1,0 +1,112 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1157171272",
+      "properties": {
+        "timestamp": "2023-05-25T23:40:23Z",
+        "version": 2,
+        "changeset": 136562550,
+        "addr:city": "Nanuque",
+        "addr:housenumber": "50",
+        "addr:postcode": "39860-000",
+        "addr:street": "Rua São João Del Rey",
+        "addr:suburb": "Centro",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "Hospital e Maternidade Gecy Gomes",
+        "operator": "Hospital e Maternidade Gecy Gomes S.A.",
+        "operator:type": "private",
+        "phone": "+55 33 3621 4900",
+        "ref:CNES": "2109980",
+        "ref:vatin": "BR18873075000142",
+        "id": "way/1157171272"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.3496882,
+              -17.8384572
+            ],
+            [
+              -40.3493314,
+              -17.8386169
+            ],
+            [
+              -40.3491089,
+              -17.838136
+            ],
+            [
+              -40.3494676,
+              -17.8379831
+            ],
+            [
+              -40.3496882,
+              -17.8384572
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10764849043",
+      "properties": {
+        "timestamp": "2023-05-25T23:40:23Z",
+        "version": 4,
+        "changeset": 136562550,
+        "addr:city": "Nanuque",
+        "addr:housenumber": "369",
+        "addr:postcode": "39860-000",
+        "addr:street": "Rua Lambari",
+        "addr:suburb": "Centro",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Hospital e Pronto Socorro Municipal Renato Azeredo",
+        "operator": "Município de Nanuque",
+        "operator:ref:vatin": "BR18398974000130",
+        "phone": "+55 33 3621 4242",
+        "ref:CNES": "2211262",
+        "id": "node/10764849043"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.3451396,
+          -17.8414968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10764849044",
+      "properties": {
+        "timestamp": "2023-03-29T01:14:04Z",
+        "version": 2,
+        "changeset": 134241175,
+        "addr:city": "Nanuque",
+        "addr:housenumber": "357",
+        "addr:postcode": "39860-000",
+        "addr:street": "Rua Lambari",
+        "addr:suburb": "Centro",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Maternidade Risoleta Neves",
+        "id": "node/10764849044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.3450516,
+          -17.8414001
+        ]
+      }
+    }
+  ]
+}

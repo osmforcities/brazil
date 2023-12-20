@@ -1,0 +1,97 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/681881504",
+      "properties": {
+        "timestamp": "2022-03-14T03:00:15Z",
+        "version": 2,
+        "changeset": 118451579,
+        "amenity": "pharmacy",
+        "building": "yes",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Brasil Popular",
+        "id": "way/681881504"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.9278918,
+              -27.2865524
+            ],
+            [
+              -48.9278903,
+              -27.2866798
+            ],
+            [
+              -48.9277976,
+              -27.286679
+            ],
+            [
+              -48.9277988,
+              -27.2865822
+            ],
+            [
+              -48.9278311,
+              -27.2865825
+            ],
+            [
+              -48.9278314,
+              -27.2865518
+            ],
+            [
+              -48.9278918,
+              -27.2865524
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9576802311",
+      "properties": {
+        "timestamp": "2022-03-14T03:00:15Z",
+        "version": 1,
+        "changeset": 118451579,
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmácia São Virgílio",
+        "id": "node/9576802311"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.9308283,
+          -27.286189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9576802419",
+      "properties": {
+        "timestamp": "2022-03-14T03:00:15Z",
+        "version": 1,
+        "changeset": 118451579,
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farma Trento",
+        "id": "node/9576802419"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.9219113,
+          -27.2842689
+        ]
+      }
+    }
+  ]
+}

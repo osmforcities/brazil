@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/555168137",
+      "properties": {
+        "timestamp": "2018-01-23T11:40:14Z",
+        "version": 1,
+        "changeset": 55681160,
+        "addr:city": "Prudentópolis",
+        "addr:postcode": "84400000",
+        "addr:street": "Rua Doutor Osório Guimarães",
+        "addr:suburb": "centro",
+        "building": "yes",
+        "name": "Casa das Bicicletas",
+        "shop": "bicycle",
+        "id": "way/555168137"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -50.9835009,
+              -25.2094066
+            ],
+            [
+              -50.9838503,
+              -25.209556
+            ],
+            [
+              -50.9837532,
+              -25.209742
+            ],
+            [
+              -50.9834037,
+              -25.2095927
+            ],
+            [
+              -50.9835009,
+              -25.2094066
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2121219930",
+      "properties": {
+        "timestamp": "2018-01-23T11:40:16Z",
+        "version": 4,
+        "changeset": 55681160,
+        "name": "Casa das Bicicletas",
+        "service:bicycle:cleaning": "yes",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:second_hand": "yes",
+        "shop": "bicycle",
+        "id": "node/2121219930"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.9834788,
+          -25.2094989
+        ]
+      }
+    }
+  ]
+}

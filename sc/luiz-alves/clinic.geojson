@@ -1,0 +1,132 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/397319157",
+      "properties": {
+        "timestamp": "2023-04-11T22:43:01Z",
+        "version": 6,
+        "changeset": 134792964,
+        "access": "yes",
+        "addr:postcode": "89128-000",
+        "addr:street": "Estrada Geral Alto Máximo",
+        "addr:suburb": "Alto Máximo",
+        "amenity": "clinic",
+        "brand": "Sistema Único de Saúde",
+        "brand:short": "SUS",
+        "brand:wikidata": "Q7531056",
+        "brand:wikipedia": "pt:Sistema Único de Saúde",
+        "building": "yes",
+        "healthcare": "clinic",
+        "loc_name": "Posto de Saúde Alto Máximo",
+        "name": "Unidade de Saúde da Família Alto Máximo",
+        "old_name": "Posto de Saúde Alto Máximo",
+        "opening_hours": "Mo-Fr 07:00-16:00; Sa,Su,PH off",
+        "operator": "Prefeitura Municipal de Luiz Alves",
+        "operator:type": "government",
+        "ref:CNES": "2702657",
+        "short_name": "USF Alto Máximo",
+        "source": "CNES",
+        "id": "way/397319157"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.9184297,
+              -26.7549904
+            ],
+            [
+              -48.9183491,
+              -26.7550641
+            ],
+            [
+              -48.9182878,
+              -26.7550106
+            ],
+            [
+              -48.9183683,
+              -26.7549369
+            ],
+            [
+              -48.9184297,
+              -26.7549904
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1198132487",
+      "properties": {
+        "timestamp": "2023-08-15T20:39:18Z",
+        "version": 2,
+        "changeset": 139934400,
+        "amenity": "clinic",
+        "building": "yes",
+        "fixme": "Construído recentemente. Imagens aéreas desatualizadas.",
+        "healthcare": "clinic",
+        "name": "UBS Samuel José Kohler",
+        "id": "way/1198132487"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.9054087,
+              -26.7128642
+            ],
+            [
+              -48.9055674,
+              -26.713101
+            ],
+            [
+              -48.9053698,
+              -26.7132067
+            ],
+            [
+              -48.9052112,
+              -26.7129698
+            ],
+            [
+              -48.9054087,
+              -26.7128642
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11117042426",
+      "properties": {
+        "timestamp": "2023-08-15T15:42:06Z",
+        "version": 1,
+        "changeset": 139922003,
+        "addr:city": "Luiz Alves",
+        "addr:housenumber": "35",
+        "addr:postcode": "89128-000",
+        "addr:street": "Rua Erich Gielow",
+        "addr:suburb": "Centro",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Centro de Saúde Américo Luciani",
+        "operator": "Prefeitura Municipal de Luiz Alves",
+        "operator:type": "government_facility-public",
+        "phone": "+55 47 3377-8682",
+        "id": "node/11117042426"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.9299469,
+          -26.7230842
+        ]
+      }
+    }
+  ]
+}

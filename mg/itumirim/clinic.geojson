@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1045351627",
+      "properties": {
+        "timestamp": "2022-04-16T22:55:02Z",
+        "version": 2,
+        "changeset": 119800700,
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "id": "way/1045351627"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.8723185,
+              -21.3165843
+            ],
+            [
+              -44.8721737,
+              -21.3162754
+            ],
+            [
+              -44.8723932,
+              -21.3161797
+            ],
+            [
+              -44.872538,
+              -21.3164994
+            ],
+            [
+              -44.8723185,
+              -21.3165843
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4402699885",
+      "properties": {
+        "timestamp": "2022-03-28T19:25:07Z",
+        "version": 2,
+        "changeset": 119036582,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Posto de Saúde",
+        "operator": "Prefeitura Municipal de Itumirim",
+        "operator:type": "public",
+        "id": "node/4402699885"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.8723733,
+          -21.3164005
+        ]
+      }
+    }
+  ]
+}

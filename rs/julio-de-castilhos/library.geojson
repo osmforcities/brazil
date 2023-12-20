@@ -1,0 +1,79 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1207191208",
+      "properties": {
+        "timestamp": "2023-09-18T16:58:49Z",
+        "version": 2,
+        "changeset": 141434088,
+        "amenity": "library",
+        "building": "university",
+        "building:levels": "2",
+        "name": "Biblioteca",
+        "operator": "Instituto Federal Farroupilha - Campus Júlio de Castilhos",
+        "operator:type": "public/government",
+        "id": "way/1207191208"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -53.7112316,
+              -29.1840181
+            ],
+            [
+              -53.7114703,
+              -29.1843607
+            ],
+            [
+              -53.7114323,
+              -29.1843809
+            ],
+            [
+              -53.7113474,
+              -29.184426
+            ],
+            [
+              -53.7113121,
+              -29.1843757
+            ],
+            [
+              -53.7112966,
+              -29.1843531
+            ],
+            [
+              -53.7111087,
+              -29.1840833
+            ],
+            [
+              -53.7112316,
+              -29.1840181
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11200445806",
+      "properties": {
+        "timestamp": "2023-09-18T16:58:49Z",
+        "version": 1,
+        "changeset": 141434088,
+        "door": "yes",
+        "indoor": "door",
+        "id": "node/11200445806"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.7113121,
+          -29.1843757
+        ]
+      }
+    }
+  ]
+}

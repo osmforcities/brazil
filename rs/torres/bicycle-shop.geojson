@@ -1,0 +1,91 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1204928505",
+      "properties": {
+        "timestamp": "2023-09-15T17:24:05Z",
+        "version": 4,
+        "changeset": 141312965,
+        "addr:housenumber": "987",
+        "addr:street": "Avenida Bento Gonçalves",
+        "building": "retail",
+        "building:levels": "2",
+        "name": "Império da Bike",
+        "shop": "bicycle",
+        "id": "way/1204928505"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.733132,
+              -29.3347904
+            ],
+            [
+              -49.7330086,
+              -29.3345519
+            ],
+            [
+              -49.7330984,
+              -29.3345166
+            ],
+            [
+              -49.7332218,
+              -29.3347551
+            ],
+            [
+              -49.733132,
+              -29.3347904
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6407301785",
+      "properties": {
+        "timestamp": "2019-07-15T19:58:44Z",
+        "version": 2,
+        "changeset": 72279873,
+        "addr:housenumber": "1109",
+        "addr:street": "Avenida José Bonifácio",
+        "name": "Over Bike",
+        "phone": "+55 51 3626-1587",
+        "shop": "bicycle",
+        "id": "node/6407301785"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.7389289,
+          -29.3439059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6407768885",
+      "properties": {
+        "timestamp": "2019-04-15T22:11:18Z",
+        "version": 1,
+        "changeset": 69250848,
+        "addr:housenumber": "274",
+        "addr:street": "Rua José Luiz de Freitas",
+        "name": "For Bike",
+        "shop": "bicycle",
+        "id": "node/6407768885"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.7313208,
+          -29.3383209
+        ]
+      }
+    }
+  ]
+}

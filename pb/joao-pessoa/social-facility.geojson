@@ -1,0 +1,88 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/546470086",
+      "properties": {
+        "timestamp": "2017-12-13T02:13:10Z",
+        "version": 1,
+        "changeset": 54583602,
+        "amenity": "social_facility",
+        "name": "CRAS",
+        "id": "way/546470086"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -34.8401958,
+              -7.1065235
+            ],
+            [
+              -34.8403837,
+              -7.1066428
+            ],
+            [
+              -34.8403283,
+              -7.1067406
+            ],
+            [
+              -34.8401159,
+              -7.1066421
+            ],
+            [
+              -34.8401958,
+              -7.1065235
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6568228915",
+      "properties": {
+        "timestamp": "2019-06-24T16:40:09Z",
+        "version": 1,
+        "changeset": 71568484,
+        "amenity": "social_facility",
+        "name": "Banco de Leite Humano Zilda Arns",
+        "social_facility": "food_bank",
+        "social_facility:for": "child",
+        "id": "node/6568228915"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.8755017,
+          -7.1267408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6568228916",
+      "properties": {
+        "timestamp": "2019-06-24T16:40:09Z",
+        "version": 1,
+        "changeset": 71568484,
+        "addr:street": "Avenida Coremas",
+        "amenity": "social_facility",
+        "name": "Casa Mãe Bebê",
+        "note": "Corrigir localização",
+        "social_facility": "assisted_living",
+        "social_facility:for": "underprivileged",
+        "id": "node/6568228916"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.8762527,
+          -7.126999
+        ]
+      }
+    }
+  ]
+}

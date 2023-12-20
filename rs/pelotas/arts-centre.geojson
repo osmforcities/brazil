@@ -1,0 +1,130 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "relation/7258356",
+      "properties": {
+        "timestamp": "2017-05-19T01:20:02Z",
+        "version": 1,
+        "changeset": 48807228,
+        "addr:city": "Pelotas",
+        "addr:housenumber": "2",
+        "addr:street": "Praça Coronel Pedro Osorio",
+        "addr:suburb": "Centro",
+        "alt_name": "Casarão 2",
+        "amenity": "arts_centre",
+        "building": "yes",
+        "historic": "building",
+        "name": "Centro Cultural Adail Bento Costa",
+        "operator": "Prefeitura Municipal de Pelotas",
+        "start_date": "1830",
+        "type": "multipolygon",
+        "id": "relation/7258356"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -52.340259,
+              -31.7707083
+            ],
+            [
+              -52.3403323,
+              -31.7708898
+            ],
+            [
+              -52.3399211,
+              -31.7710099
+            ],
+            [
+              -52.3398478,
+              -31.7708284
+            ],
+            [
+              -52.340259,
+              -31.7707083
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/494546926",
+      "properties": {
+        "timestamp": "2023-10-24T19:30:25Z",
+        "version": 5,
+        "changeset": 143080552,
+        "addr:city": "Pelotas",
+        "addr:housenumber": "810",
+        "addr:postcode": "96010-300",
+        "addr:street": "Rua Dom Pedro II",
+        "addr:suburb": "Centro",
+        "amenity": "arts_centre",
+        "building": "yes",
+        "historic": "building",
+        "name": "Instituto João Simões Lopes Neto",
+        "opening_hours": "Mo-Fr 09:00-18:00",
+        "phone": "+55 53 3027-1865",
+        "website": "https://www.joaosimoeslopesneto.com.br/",
+        "id": "way/494546926"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -52.3426716,
+              -31.7731959
+            ],
+            [
+              -52.3427667,
+              -31.7733926
+            ],
+            [
+              -52.3426915,
+              -31.7734188
+            ],
+            [
+              -52.3426505,
+              -31.7733341
+            ],
+            [
+              -52.3425891,
+              -31.7733556
+            ],
+            [
+              -52.342535,
+              -31.7732437
+            ],
+            [
+              -52.3426716,
+              -31.7731959
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4689117479",
+      "properties": {
+        "timestamp": "2020-05-09T20:40:27Z",
+        "version": 2,
+        "changeset": 84950729,
+        "amenity": "arts_centre",
+        "name": "Espaço de Arte Daniel Bellora",
+        "id": "node/4689117479"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.3449181,
+          -31.7740378
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/366493972",
+      "properties": {
+        "timestamp": "2022-03-08T19:39:10Z",
+        "version": 3,
+        "changeset": 118250190,
+        "amenity": "public_building",
+        "building": "yes",
+        "name": "Secretaria Municipal de Educação",
+        "office": "government",
+        "id": "way/366493972"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -36.0589941,
+              -9.0103106
+            ],
+            [
+              -36.0588444,
+              -9.0105333
+            ],
+            [
+              -36.0587755,
+              -9.0104881
+            ],
+            [
+              -36.058925,
+              -9.0102654
+            ],
+            [
+              -36.0589941,
+              -9.0103106
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9563393338",
+      "properties": {
+        "timestamp": "2022-03-08T19:39:10Z",
+        "version": 1,
+        "changeset": 118250190,
+        "addr:city": "São José da Laje",
+        "addr:street": "Rua Oscar Gordilho",
+        "government": "social_security",
+        "name": "Instituto Nacional do Seguro Social - INSS",
+        "office": "government",
+        "opening_hours": "Mo-Fr 07:00-13:30",
+        "operator": "Instituto Nacional do Seguro Social",
+        "operator:short": "INSS",
+        "operator:wikidata": "Q10302614",
+        "operator:wikipedia": "pt:Instituto Nacional do Seguro Social",
+        "id": "node/9563393338"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.0578375,
+          -9.0094648
+        ]
+      }
+    }
+  ]
+}

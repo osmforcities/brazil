@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/363645969",
+      "properties": {
+        "timestamp": "2019-05-24T02:19:02Z",
+        "version": 2,
+        "changeset": 70570411,
+        "addr:city": "Alagoinhas",
+        "addr:postcode": "48030-573",
+        "addr:street": "Rua Dantas Bião",
+        "addr:suburb": "Alagoinhas Velha",
+        "amenity": "cinema",
+        "building": "yes",
+        "name": "Cinema/Shopping Laguna",
+        "id": "way/363645969"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.411896,
+              -12.1394381
+            ],
+            [
+              -38.4119952,
+              -12.1398608
+            ],
+            [
+              -38.4113068,
+              -12.1400151
+            ],
+            [
+              -38.4112077,
+              -12.1395925
+            ],
+            [
+              -38.411896,
+              -12.1394381
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6496534430",
+      "properties": {
+        "timestamp": "2021-07-19T03:18:51Z",
+        "version": 2,
+        "changeset": 108213296,
+        "addr:city": "Alagoinhas",
+        "addr:housenumber": "56",
+        "addr:postcode": "48030-573",
+        "addr:street": "Rua Lauro de Freitas",
+        "addr:suburb": "Centro",
+        "amenity": "cinema",
+        "name": "Cine Geek",
+        "screen": "1",
+        "wikidata": "Q105098567",
+        "id": "node/6496534430"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4192168,
+          -12.1371465
+        ]
+      }
+    }
+  ]
+}

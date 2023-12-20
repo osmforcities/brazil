@@ -1,0 +1,86 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/321117439",
+      "properties": {
+        "timestamp": "2015-01-09T13:26:07Z",
+        "version": 1,
+        "changeset": 28018927,
+        "amenity": "community_centre",
+        "building": "yes",
+        "id": "way/321117439"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -52.8278947,
+              -31.7303352
+            ],
+            [
+              -52.8278196,
+              -31.7301572
+            ],
+            [
+              -52.8282166,
+              -31.7300477
+            ],
+            [
+              -52.828297,
+              -31.7302302
+            ],
+            [
+              -52.8278947,
+              -31.7303352
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3249075061",
+      "properties": {
+        "timestamp": "2014-12-23T11:22:20Z",
+        "version": 1,
+        "changeset": 27648371,
+        "addr:city": "Cerrito",
+        "addr:suburb": "Alto Alegre",
+        "amenity": "community_centre",
+        "name": "Casarão",
+        "id": "node/3249075061"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.8280334,
+          -31.7301836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4789012074",
+      "properties": {
+        "timestamp": "2017-04-11T21:14:44Z",
+        "version": 1,
+        "changeset": 47670742,
+        "amenity": "community_centre",
+        "community_centre": "club_home",
+        "name": "Clube Cerritense",
+        "source": "IBGE",
+        "id": "node/4789012074"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.8150693,
+          -31.854208
+        ]
+      }
+    }
+  ]
+}

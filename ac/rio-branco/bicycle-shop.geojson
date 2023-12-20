@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/806198744",
+      "properties": {
+        "timestamp": "2020-05-19T21:10:44Z",
+        "version": 1,
+        "changeset": 85464035,
+        "building": "yes",
+        "shop": "bicycle",
+        "id": "way/806198744"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.805548,
+              -9.9783553
+            ],
+            [
+              -67.8053728,
+              -9.9785139
+            ],
+            [
+              -67.8053402,
+              -9.9784811
+            ],
+            [
+              -67.8055063,
+              -9.9783171
+            ],
+            [
+              -67.805548,
+              -9.9783553
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5830193687",
+      "properties": {
+        "timestamp": "2018-08-13T17:12:38Z",
+        "version": 1,
+        "changeset": 61633188,
+        "shop": "bicycle",
+        "id": "node/5830193687"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.8052178,
+          -9.9785404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7539008873",
+      "properties": {
+        "timestamp": "2020-05-19T21:10:44Z",
+        "version": 1,
+        "changeset": 85464035,
+        "amenity": "bicycle_repair_station",
+        "id": "node/7539008873"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.8053728,
+          -9.9785139
+        ]
+      }
+    }
+  ]
+}

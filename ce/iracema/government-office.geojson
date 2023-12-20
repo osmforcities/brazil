@@ -1,0 +1,119 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/285056488",
+      "properties": {
+        "timestamp": "2018-01-21T20:50:22Z",
+        "version": 4,
+        "changeset": 55637848,
+        "addr:city": "Iracema",
+        "addr:street": "Rua Delta Holanda",
+        "building": "yes",
+        "name": "Secretaria de Educação",
+        "office": "government",
+        "id": "way/285056488"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.304005,
+              -5.809318
+            ],
+            [
+              -38.3039955,
+              -5.8096596
+            ],
+            [
+              -38.3038583,
+              -5.8096579
+            ],
+            [
+              -38.3037597,
+              -5.8096567
+            ],
+            [
+              -38.303721,
+              -5.8096562
+            ],
+            [
+              -38.3037296,
+              -5.8093197
+            ],
+            [
+              -38.304005,
+              -5.809318
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5353268158",
+      "properties": {
+        "timestamp": "2018-01-21T20:35:37Z",
+        "version": 1,
+        "changeset": 55637511,
+        "barrier": "gate",
+        "entrance": "yes",
+        "id": "node/5353268158"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.3038583,
+          -5.8096579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5353268159",
+      "properties": {
+        "timestamp": "2018-01-21T20:35:37Z",
+        "version": 1,
+        "changeset": 55637511,
+        "barrier": "gate",
+        "id": "node/5353268159"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.3037597,
+          -5.8096567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9293239632",
+      "properties": {
+        "timestamp": "2023-02-09T13:00:01Z",
+        "version": 2,
+        "changeset": 132306528,
+        "addr:city": "Iracema",
+        "addr:housenumber": "99",
+        "addr:street": "Rua Francisco Roaque de Oliveira",
+        "addr:suburb": "Beira Rio",
+        "alt_name": "CRAS Casa das Famílias",
+        "amenity": "social_facility",
+        "name": "Centro de Referência de Assistência Social Casa das Famílias",
+        "office": "government",
+        "social_facility": "outreach",
+        "social_facility:for": "underprivileged",
+        "id": "node/9293239632"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.3088112,
+          -5.8083124
+        ]
+      }
+    }
+  ]
+}

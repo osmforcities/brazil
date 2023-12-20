@@ -1,0 +1,87 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/749266137",
+      "properties": {
+        "timestamp": "2023-11-22T11:19:11Z",
+        "version": 3,
+        "changeset": 144321853,
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "Unidade Básica de Saúde Luiz Mascarenhas",
+        "old_name": "Unidade Básica de Saúde Alcides Vieira",
+        "short_name": "UBS Luiz Mascarenhas",
+        "source": "http://aracoiaba.hospedagemdesites.ws/wp-content/uploads/2016/leis/Lei-2644-2023.pdf",
+        "source:name": "P.M. de Araçaoiaba da Serra, Lei nº 2.644, de 08 de novembro de 2.023.",
+        "id": "way/749266137"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.6228307,
+              -23.515634
+            ],
+            [
+              -47.6226976,
+              -23.5155912
+            ],
+            [
+              -47.6226672,
+              -23.5156768
+            ],
+            [
+              -47.6225762,
+              -23.5156404
+            ],
+            [
+              -47.6226042,
+              -23.5155548
+            ],
+            [
+              -47.6224314,
+              -23.5154991
+            ],
+            [
+              -47.6224711,
+              -23.5154049
+            ],
+            [
+              -47.6228774,
+              -23.5155291
+            ],
+            [
+              -47.6228307,
+              -23.515634
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4014340846",
+      "properties": {
+        "timestamp": "2020-03-14T14:54:22Z",
+        "version": 2,
+        "changeset": 82195425,
+        "addr:street": "Estrada Margarida Antunes Quevedo",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Centro Terapêutico Padre Pietro",
+        "id": "node/4014340846"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.6997726,
+          -23.5087126
+        ]
+      }
+    }
+  ]
+}

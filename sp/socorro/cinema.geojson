@@ -1,0 +1,82 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1193253283",
+      "properties": {
+        "timestamp": "2023-07-30T01:09:40Z",
+        "version": 1,
+        "changeset": 139192968,
+        "addr:city": "Socorro",
+        "addr:housenumber": "63",
+        "addr:postcode": "13960000",
+        "addr:street": "R. Campos Salles",
+        "addr:suburb": "Centro",
+        "amenity": "cinema",
+        "building": "yes",
+        "name": "Cinema Cavalieri Orlandi",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "screen": "2",
+        "id": "way/1193253283"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.5288833,
+              -22.5945207
+            ],
+            [
+              -46.5288878,
+              -22.5946248
+            ],
+            [
+              -46.528545,
+              -22.5946276
+            ],
+            [
+              -46.5285445,
+              -22.5945241
+            ],
+            [
+              -46.5288833,
+              -22.5945207
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6388420630",
+      "properties": {
+        "timestamp": "2019-05-24T22:48:05Z",
+        "version": 3,
+        "changeset": 70601120,
+        "addr:housenumber": "63",
+        "addr:street": "Rua Doutor Campos Salles",
+        "amenity": "cinema",
+        "name": "Cine Cavalieri Orlandi",
+        "opening_hours": "Mo-Su 14:20-21:30",
+        "payment:coins": "yes",
+        "payment:debit_cards": "yes",
+        "payment:notes": "yes",
+        "phone": "+55 19 3895 6972",
+        "website": "http://cineorlandi.com.br/",
+        "id": "node/6388420630"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5288727,
+          -22.594502
+        ]
+      }
+    }
+  ]
+}

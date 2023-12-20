@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/297678750",
+      "properties": {
+        "timestamp": "2023-05-02T19:42:56Z",
+        "version": 4,
+        "changeset": 135631108,
+        "addr:city": "Planalto",
+        "addr:housenumber": "661",
+        "addr:postcode": "98470-000",
+        "addr:street": "Rua Humberto de Campos",
+        "addr:suburb": "Ccentro",
+        "amenity": "hospital",
+        "building": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Associacao Beneficiente Nossa Senhora Medianeira",
+        "ref:CNES": "2228556",
+        "ref:vatin": "BR90841719000148",
+        "id": "way/297678750"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -53.0628088,
+              -27.3332246
+            ],
+            [
+              -53.0628503,
+              -27.3333403
+            ],
+            [
+              -53.0622226,
+              -27.3335182
+            ],
+            [
+              -53.0620366,
+              -27.333
+            ],
+            [
+              -53.062174,
+              -27.3329611
+            ],
+            [
+              -53.0623185,
+              -27.3333635
+            ],
+            [
+              -53.0628088,
+              -27.3332246
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4958865236",
+      "properties": {
+        "timestamp": "2017-07-08T19:33:42Z",
+        "version": 1,
+        "changeset": 50138146,
+        "amenity": "hospital",
+        "id": "node/4958865236"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.0571476,
+          -27.3238928
+        ]
+      }
+    }
+  ]
+}

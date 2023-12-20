@@ -1,0 +1,123 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1141857731",
+      "properties": {
+        "timestamp": "2023-02-10T03:50:27Z",
+        "version": 1,
+        "changeset": 132337491,
+        "amenity": "clinic",
+        "fixme": "Completar e rever nome e detalhes.",
+        "healthcare": "clinic",
+        "name": "Unidade de Saúde da Família",
+        "operator": "Prefeitura Municipal de Itamogi",
+        "short_name": "USF",
+        "id": "way/1141857731"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.0545634,
+              -21.0719002
+            ],
+            [
+              -47.0542034,
+              -21.0720618
+            ],
+            [
+              -47.0541328,
+              -21.0719212
+            ],
+            [
+              -47.054491,
+              -21.0717592
+            ],
+            [
+              -47.0545634,
+              -21.0719002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8309190159",
+      "properties": {
+        "timestamp": "2021-07-17T12:56:52Z",
+        "version": 4,
+        "changeset": 108159226,
+        "addr:housenumber": "418",
+        "addr:street": "Rua Rodolfo José de Paula",
+        "addr:suburb": "Centro",
+        "amenity": "clinic",
+        "fixme": "adicionar nome e detalhes",
+        "healthcare": "clinic",
+        "name": "Posto de Saúde da Família",
+        "short_name": "PSF",
+        "id": "node/8309190159"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0460927,
+          -21.0784425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8309190177",
+      "properties": {
+        "timestamp": "2021-01-11T19:53:51Z",
+        "version": 3,
+        "changeset": 97327667,
+        "addr:city": "Itamogi",
+        "addr:housenumber": "581",
+        "addr:postcode": "37955-000",
+        "addr:street": "Rua Israel Pinheiro",
+        "addr:suburb": "Cerrado",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posto de Saúde Cerrado",
+        "id": "node/8309190177"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0484205,
+          -21.0834127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8901899932",
+      "properties": {
+        "timestamp": "2021-07-08T00:07:34Z",
+        "version": 3,
+        "changeset": 107593415,
+        "addr:housenumber": "45",
+        "addr:street": "Rua Wenceslau Braz",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Unidade de Saúde da Família III",
+        "official_name": "Unidade de Saúde da Família Doutor Darcy Fidelis Marques",
+        "operator": "Prefeitura Municipal de Itamogi",
+        "short_name": "USF III",
+        "id": "node/8901899932"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0431015,
+          -21.0805452
+        ]
+      }
+    }
+  ]
+}

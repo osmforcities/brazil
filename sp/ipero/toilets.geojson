@@ -1,0 +1,94 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/613963300",
+      "properties": {
+        "timestamp": "2018-08-04T01:32:10Z",
+        "version": 1,
+        "changeset": 61344679,
+        "amenity": "toilets",
+        "building": "public",
+        "building:levels": "1",
+        "female": "yes",
+        "male": "yes",
+        "roof:shape": "gabled",
+        "id": "way/613963300"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.5976906,
+              -23.4272711
+            ],
+            [
+              -47.5976544,
+              -23.4273179
+            ],
+            [
+              -47.5976006,
+              -23.4272828
+            ],
+            [
+              -47.5976368,
+              -23.4272361
+            ],
+            [
+              -47.5976906,
+              -23.4272711
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5891205300",
+      "properties": {
+        "timestamp": "2023-01-13T03:22:47Z",
+        "version": 3,
+        "changeset": 131211562,
+        "amenity": "toilets",
+        "fee": "no",
+        "female": "yes",
+        "male": "yes",
+        "operator": "Instituto Chico Mendes de Conservação da Biodiversidade",
+        "toilets:disposal": "flush",
+        "toilets:position": "seated;urinal",
+        "id": "node/5891205300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.5980815,
+          -23.4256669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5895254528",
+      "properties": {
+        "timestamp": "2018-09-10T01:45:18Z",
+        "version": 1,
+        "changeset": 62437935,
+        "amenity": "toilets",
+        "female": "yes",
+        "male": "yes",
+        "operator": "Instituto Chico Mendes de Conservação da Biodiversidade",
+        "toilets:disposal": "flush",
+        "id": "node/5895254528"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.5972608,
+          -23.4239578
+        ]
+      }
+    }
+  ]
+}

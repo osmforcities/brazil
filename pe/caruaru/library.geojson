@@ -1,0 +1,76 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/671930818",
+      "properties": {
+        "timestamp": "2022-03-17T12:43:08Z",
+        "version": 4,
+        "changeset": 118592252,
+        "addr:city": "Caruaru",
+        "addr:postcode": "55014-900",
+        "addr:street": "Avenida Marielle Franco",
+        "addr:suburb": "Nova Caruaru",
+        "amenity": "library",
+        "building": "yes",
+        "building:levels": "4",
+        "name": "Biblioteca Agreste Ariano Suassuna - CAA/UFPE",
+        "id": "way/671930818"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -35.9836394,
+              -8.2249463
+            ],
+            [
+              -35.9832556,
+              -8.2248828
+            ],
+            [
+              -35.9832771,
+              -8.224745
+            ],
+            [
+              -35.9836626,
+              -8.2248026
+            ],
+            [
+              -35.9836394,
+              -8.2249463
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8941966026",
+      "properties": {
+        "timestamp": "2023-03-30T13:34:25Z",
+        "version": 2,
+        "changeset": 134305342,
+        "addr:city": "Caruaru",
+        "addr:housenumber": "S/N",
+        "addr:postcode": "55014-900",
+        "addr:street": "Avenida Marielle Franco",
+        "addr:suburb": "Nova Caruaru",
+        "amenity": "library",
+        "name": "Biblioteca do Curso de Medicina / Biblioteca do NCV",
+        "operator": "Universidade Federal de Pernambuco",
+        "operator:type": "public",
+        "id": "node/8941966026"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.9811825,
+          -8.2262401
+        ]
+      }
+    }
+  ]
+}

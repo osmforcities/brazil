@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/441540597",
+      "properties": {
+        "timestamp": "2017-11-29T04:34:36Z",
+        "version": 3,
+        "changeset": 54166607,
+        "addr:city": "Monte Carmelo",
+        "addr:housenumber": "405",
+        "addr:postcode": "38500-000",
+        "addr:street": "Rua Rio Grande do Norte",
+        "addr:suburb": "Vila Nova",
+        "amenity": "clinic",
+        "building": "yes",
+        "name": "PSF Vivaldo Barbosa Amorim",
+        "id": "way/441540597"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.4815911,
+              -18.7354543
+            ],
+            [
+              -47.4819705,
+              -18.7353927
+            ],
+            [
+              -47.48199,
+              -18.7355484
+            ],
+            [
+              -47.4817643,
+              -18.7355683
+            ],
+            [
+              -47.4816057,
+              -18.7355823
+            ],
+            [
+              -47.4815911,
+              -18.7354543
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3110446633",
+      "properties": {
+        "timestamp": "2020-03-27T17:11:49Z",
+        "version": 2,
+        "changeset": 82725940,
+        "amenity": "clinic",
+        "emergency": "no",
+        "healthcare": "clinic",
+        "name": "PSF",
+        "id": "node/3110446633"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.4940141,
+          -18.7410622
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/981833247",
+      "properties": {
+        "timestamp": "2021-09-10T18:58:28Z",
+        "version": 1,
+        "changeset": 111038052,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hospital Local de Guadalupe",
+        "id": "way/981833247"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.5627698,
+              -6.78688
+            ],
+            [
+              -43.5626009,
+              -6.7874244
+            ],
+            [
+              -43.5619677,
+              -6.7872306
+            ],
+            [
+              -43.5621367,
+              -6.7866863
+            ],
+            [
+              -43.5627698,
+              -6.78688
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2678739515",
+      "properties": {
+        "timestamp": "2014-03-24T14:30:02Z",
+        "version": 2,
+        "changeset": 21286094,
+        "addr:city": "Guadalupe",
+        "addr:postcode": "64840-000",
+        "amenity": "hospital",
+        "name": "Ambulatório da CHESF",
+        "id": "node/2678739515"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.5604591,
+          -6.7746357
+        ]
+      }
+    }
+  ]
+}

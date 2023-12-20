@@ -1,0 +1,78 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "relation/2709329",
+      "properties": {
+        "timestamp": "2014-06-04T22:28:32Z",
+        "version": 2,
+        "changeset": 22744678,
+        "amenity": "school",
+        "landuse": "military",
+        "type": "multipolygon",
+        "id": "relation/2709329"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -57.939164,
+              -22.0839212
+            ],
+            [
+              -57.9385587,
+              -22.082996
+            ],
+            [
+              -57.940639,
+              -22.0805399
+            ],
+            [
+              -57.9419026,
+              -22.0824213
+            ],
+            [
+              -57.9415295,
+              -22.0826354
+            ],
+            [
+              -57.9402109,
+              -22.0833241
+            ],
+            [
+              -57.939164,
+              -22.0839212
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6410081276",
+      "properties": {
+        "timestamp": "2019-04-16T18:47:29Z",
+        "version": 1,
+        "changeset": 69282897,
+        "addr:city": "Porto Murtinho",
+        "addr:housenumber": "621",
+        "addr:postcode": "79280-000",
+        "addr:street": "Rua Coronel Ponce",
+        "addr:suburb": "Centro",
+        "amenity": "school",
+        "name": "EMEI Primeiros Passos",
+        "operator": "Prefeitura Municipal",
+        "id": "node/6410081276"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.8860457,
+          -21.6993012
+        ]
+      }
+    }
+  ]
+}

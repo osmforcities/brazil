@@ -1,0 +1,72 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/849863805",
+      "properties": {
+        "timestamp": "2020-09-21T17:10:28Z",
+        "version": 1,
+        "changeset": 91241796,
+        "addr:city": "Ipatinga",
+        "addr:housenumber": "250",
+        "addr:street": "Avenida Macapá",
+        "addr:suburb": "Veneza",
+        "amenity": "social_facility",
+        "building": "yes",
+        "name": "Ambulatório Medicina Univaço",
+        "operator": "Univaço",
+        "operator:type": "public",
+        "social_facility": "ambulatory_care",
+        "id": "way/849863805"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.5306673,
+              -19.47012
+            ],
+            [
+              -42.5305788,
+              -19.4702669
+            ],
+            [
+              -42.5303204,
+              -19.4701267
+            ],
+            [
+              -42.5304231,
+              -19.4699932
+            ],
+            [
+              -42.5306673,
+              -19.47012
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7928754241",
+      "properties": {
+        "timestamp": "2020-09-21T17:10:28Z",
+        "version": 1,
+        "changeset": 91241796,
+        "amenity": "social_facility",
+        "name": "Ambulatório Medicina Univaço",
+        "social_facility": "ambulatory_care",
+        "id": "node/7928754241"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.530508,
+          -19.4701567
+        ]
+      }
+    }
+  ]
+}

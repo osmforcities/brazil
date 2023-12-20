@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/443289596",
+      "properties": {
+        "timestamp": "2019-03-16T04:09:27Z",
+        "version": 4,
+        "changeset": 68195204,
+        "addr:city": "Osório",
+        "addr:housenumber": "2127",
+        "addr:postcode": "95520-000",
+        "addr:street": "Avenida Santos Dumond",
+        "addr:suburb": "Albatroz",
+        "amenity": "university",
+        "description": "Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul - Câmpus Osório",
+        "name": "IFRS - Campus Osório",
+        "phone": "+55 51 3601-3500",
+        "toilets:wheelchair": "yes",
+        "website": "https://osorio.ifrs.edu.br/site/",
+        "wheelchair": "yes",
+        "wikidata": "Q7335253",
+        "wikipedia": "pt:Instituto Federal do Rio Grande do Sul",
+        "id": "way/443289596"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -50.2573479,
+              -29.9031755
+            ],
+            [
+              -50.2566425,
+              -29.9043986
+            ],
+            [
+              -50.2558965,
+              -29.9041038
+            ],
+            [
+              -50.255597,
+              -29.9047197
+            ],
+            [
+              -50.2549424,
+              -29.904447
+            ],
+            [
+              -50.2548561,
+              -29.9046933
+            ],
+            [
+              -50.2544653,
+              -29.904557
+            ],
+            [
+              -50.2547647,
+              -29.9030392
+            ],
+            [
+              -50.2550185,
+              -29.903026
+            ],
+            [
+              -50.2550388,
+              -29.9029028
+            ],
+            [
+              -50.2573479,
+              -29.9031755
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7847393863",
+      "properties": {
+        "timestamp": "2023-10-14T23:34:10Z",
+        "version": 3,
+        "changeset": 142595268,
+        "amenity": "university",
+        "name": "FACOS - Faculdade Cenecista de Osório",
+        "website": "https://educacaosuperior.cnec.br/osorio",
+        "wheelchair": "yes",
+        "id": "node/7847393863"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.2717167,
+          -29.8871614
+        ]
+      }
+    }
+  ]
+}

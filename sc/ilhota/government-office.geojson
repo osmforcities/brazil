@@ -1,0 +1,177 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/395201331",
+      "properties": {
+        "timestamp": "2021-08-01T03:11:29Z",
+        "version": 3,
+        "changeset": 108961224,
+        "addr:housenumber": "250",
+        "addr:street": "Rua Ângelo Três",
+        "building": "public",
+        "contact:phone": "+55 47 3343-0240",
+        "name": "Secretaria de Saúde",
+        "office": "government",
+        "opening_hours": "Mo-Fr 08:00-12:00,13:00-17:00; Sa,Su,PH off",
+        "id": "way/395201331"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.8272363,
+              -26.9024394
+            ],
+            [
+              -48.8273723,
+              -26.9025927
+            ],
+            [
+              -48.8272695,
+              -26.9026652
+            ],
+            [
+              -48.8271335,
+              -26.902512
+            ],
+            [
+              -48.8272363,
+              -26.9024394
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/895126373",
+      "properties": {
+        "timestamp": "2022-02-14T01:13:43Z",
+        "version": 3,
+        "changeset": 117373607,
+        "addr:city": "Ilhota",
+        "addr:housenumber": "98",
+        "addr:postcode": "88320-000",
+        "addr:street": "Rua Bertoldo Simão",
+        "addr:suburb": "Centro",
+        "building": "public",
+        "building:levels": "2",
+        "contact:email": "camara@camarailhota.sc.gov.br",
+        "contact:phone": "+55 47 3343-1182",
+        "contact:website": "https://www.camarailhota.sc.gov.br",
+        "government": "legislative",
+        "name": "Câmara de Vereadores de Ilhota",
+        "office": "government",
+        "opening_hours": "Mo-Fr 13:00-19:00; Sa,Su,PH off",
+        "id": "way/895126373"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.8243657,
+              -26.9026565
+            ],
+            [
+              -48.8242845,
+              -26.9025891
+            ],
+            [
+              -48.8244276,
+              -26.9024522
+            ],
+            [
+              -48.8245087,
+              -26.9025196
+            ],
+            [
+              -48.8243657,
+              -26.9026565
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8971241645",
+      "properties": {
+        "timestamp": "2021-08-01T03:11:29Z",
+        "version": 1,
+        "changeset": 108961224,
+        "amenity": "archive",
+        "government": "archive",
+        "name": "Arquivo Municipal",
+        "office": "government",
+        "operator": "Prefeitura Municipal de Ilhota",
+        "id": "node/8971241645"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.8297472,
+          -26.9025289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8971242070",
+      "properties": {
+        "timestamp": "2021-08-01T03:11:29Z",
+        "version": 1,
+        "changeset": 108961224,
+        "addr:housenumber": "30",
+        "addr:street": "Rua Frei Jacinto",
+        "contact:email": "educacao@ilhota.sc.gov.br",
+        "contact:phone": "+55 47 3343-7532",
+        "level": "0",
+        "name": "Secretaria de Educação",
+        "office": "government",
+        "opening_hours": "Mo-Fr 08:00-12:00,13:00-17:00; Sa,Su,PH off",
+        "id": "node/8971242070"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.8276893,
+          -26.9006375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10014155268",
+      "properties": {
+        "timestamp": "2022-09-22T14:46:08Z",
+        "version": 2,
+        "changeset": 126508635,
+        "alt_name": "1º/2º/1ª/7ºBBM;SAT;Seção de Atividades Técnicas",
+        "contact:phone": "+55 47 3378-8674",
+        "contact:website": "https://www.cbm.sc.gov.br/",
+        "government": "fire_service",
+        "name": "Serviço de Segurança Contra Incêndio",
+        "office": "government",
+        "operator": "Corpo de Bombeiros Militar de Santa Catarina",
+        "operator:short": "CBMSC",
+        "operator:type": "public",
+        "operator:wikidata": "Q768967",
+        "owner": "Governo do Estado de Santa Catarina",
+        "ownership": "state",
+        "short_name": "SSCI",
+        "id": "node/10014155268"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.8270107,
+          -26.9019818
+        ]
+      }
+    }
+  ]
+}

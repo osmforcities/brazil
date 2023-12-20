@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/378080308",
+      "properties": {
+        "timestamp": "2019-05-23T17:26:11Z",
+        "version": 2,
+        "changeset": 70560122,
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "id": "way/378080308"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -35.7398886,
+              -6.5311546
+            ],
+            [
+              -35.7399442,
+              -6.5313144
+            ],
+            [
+              -35.7396313,
+              -6.5314248
+            ],
+            [
+              -35.7395787,
+              -6.5312679
+            ],
+            [
+              -35.7398886,
+              -6.5311546
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3814948866",
+      "properties": {
+        "timestamp": "2019-05-23T17:26:10Z",
+        "version": 2,
+        "changeset": 70560122,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Unidade Básica de Saúde",
+        "id": "node/3814948866"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.7398067,
+          -6.5312969
+        ]
+      }
+    }
+  ]
+}

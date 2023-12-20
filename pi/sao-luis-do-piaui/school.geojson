@@ -1,0 +1,93 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1028206187",
+      "properties": {
+        "timestamp": "2022-02-04T23:15:23Z",
+        "version": 1,
+        "changeset": 117026665,
+        "addr:city": "São Luis do Piauí",
+        "addr:housenumber": "742",
+        "addr:postcode": "64638-000",
+        "addr:street": "Avenida Luis Borges de Sousa",
+        "addr:suburb": "Centro",
+        "amenity": "school",
+        "name": "Esc Municipal Pe Marcos De Carvalho",
+        "phone": "+55 89 3434 0059",
+        "id": "way/1028206187"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.3232455,
+              -6.8264759
+            ],
+            [
+              -41.3233126,
+              -6.8267137
+            ],
+            [
+              -41.3229452,
+              -6.8269176
+            ],
+            [
+              -41.3228275,
+              -6.826687
+            ],
+            [
+              -41.3232455,
+              -6.8264759
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9477247148",
+      "properties": {
+        "timestamp": "2022-02-04T23:16:08Z",
+        "version": 1,
+        "changeset": 117026714,
+        "addr:city": "São Luis do Piauí",
+        "addr:postcode": "64638-000",
+        "addr:street": "Rua Severiano Teodoro de Sousa",
+        "addr:suburb": "Centro",
+        "amenity": "school",
+        "name": "Unid Esc Antonio Pereira De Araujo",
+        "id": "node/9477247148"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.3205899,
+          -6.8239669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9483853472",
+      "properties": {
+        "timestamp": "2022-02-06T17:04:05Z",
+        "version": 1,
+        "changeset": 117087387,
+        "amenity": "school",
+        "name": "Unid Esc Simeao Veloso",
+        "phone": "+55 89 3434 0059",
+        "id": "node/9483853472"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.2545432,
+          -6.6874782
+        ]
+      }
+    }
+  ]
+}

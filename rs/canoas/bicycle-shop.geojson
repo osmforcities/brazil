@@ -1,0 +1,122 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/593865988",
+      "properties": {
+        "timestamp": "2018-06-04T17:13:57Z",
+        "version": 1,
+        "changeset": 59544685,
+        "addr:city": "Canoas",
+        "addr:housenumber": "5215",
+        "addr:street": "Avenida Getúlio Vargas",
+        "addr:suburb": "Centro",
+        "building": "yes",
+        "building:levels": "2",
+        "name": "Bike Point",
+        "shop": "bicycle",
+        "id": "way/593865988"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.1778434,
+              -29.9199751
+            ],
+            [
+              -51.177844,
+              -29.9200565
+            ],
+            [
+              -51.1776342,
+              -29.9200576
+            ],
+            [
+              -51.1776604,
+              -29.9199761
+            ],
+            [
+              -51.1778434,
+              -29.9199751
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2876156150",
+      "properties": {
+        "timestamp": "2016-09-27T23:40:34Z",
+        "version": 2,
+        "changeset": 42482681,
+        "addr:city": "Canoas",
+        "addr:housenumber": "3049",
+        "addr:postcode": "92110-330",
+        "addr:street": "Avenida Getúlio Vargas",
+        "name": "Aventura Bikes Shop",
+        "phone": "+55 51 3051-7999",
+        "shop": "bicycle",
+        "id": "node/2876156150"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.176731,
+          -29.9393902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2876159288",
+      "properties": {
+        "timestamp": "2016-09-27T23:40:36Z",
+        "version": 3,
+        "changeset": 42482681,
+        "addr:city": "Canoas",
+        "addr:housenumber": "3215",
+        "addr:postcode": "92010-011",
+        "addr:street": "Avenida Getúlio Vargas",
+        "name": "Bike Point",
+        "opening_hours": "Mo-Fr 09:00-12:00,13:30-19:00; Sa 08:30-12:00,13:00-16:00",
+        "phone": "+55 51 3478-2147",
+        "shop": "bicycle",
+        "id": "node/2876159288"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.177631,
+          -29.9226162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11067493595",
+      "properties": {
+        "timestamp": "2023-07-25T19:24:21Z",
+        "version": 1,
+        "changeset": 139004800,
+        "addr:city": "Canoas",
+        "addr:housenumber": "3601",
+        "addr:street": "Avenida Rio Grande do Sul",
+        "addr:suburb": "Mathias Velho",
+        "name": "Tony Ponto Ciclista",
+        "shop": "bicycle",
+        "id": "node/11067493595"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.2200599,
+          -29.9009118
+        ]
+      }
+    }
+  ]
+}

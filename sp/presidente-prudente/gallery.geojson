@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "relation/5886189",
+      "properties": {
+        "timestamp": "2016-01-21T14:41:55Z",
+        "version": 1,
+        "changeset": 36721534,
+        "indoor": "yes",
+        "level": "0",
+        "name": "Cido Oliveira",
+        "ref": "Box 10;11;12",
+        "room": "yes",
+        "tourism": "gallery",
+        "type": "multipolygon",
+        "id": "relation/5886189"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.4184569,
+              -22.1216369
+            ],
+            [
+              -51.4185557,
+              -22.1217097
+            ],
+            [
+              -51.4185243,
+              -22.1217462
+            ],
+            [
+              -51.4184256,
+              -22.1216734
+            ],
+            [
+              -51.4184569,
+              -22.1216369
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3577138362",
+      "properties": {
+        "timestamp": "2015-06-06T15:22:42Z",
+        "version": 1,
+        "changeset": 31771323,
+        "name": "Galeria de Artes Takeo Sawada",
+        "room": "gallery",
+        "tourism": "gallery",
+        "id": "node/3577138362"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.3795812,
+          -22.1206882
+        ]
+      }
+    }
+  ]
+}

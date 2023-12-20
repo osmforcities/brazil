@@ -1,0 +1,120 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/441672056",
+      "properties": {
+        "timestamp": "2020-05-18T19:51:49Z",
+        "version": 2,
+        "changeset": 85401065,
+        "addr:city": "Votuporanga",
+        "addr:housenumber": "3580",
+        "addr:state": "SP",
+        "addr:street": "Rua Santa Catarina",
+        "building": "office",
+        "government": "social_security",
+        "name": "Previdência Social",
+        "office": "government",
+        "opening_hours": "Mo-Fr 07:00-17:00",
+        "wheelchair": "yes",
+        "id": "way/441672056"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.9727819,
+              -20.4220148
+            ],
+            [
+              -49.9728181,
+              -20.4220195
+            ],
+            [
+              -49.972813,
+              -20.4220538
+            ],
+            [
+              -49.9727766,
+              -20.4220509
+            ],
+            [
+              -49.9727456,
+              -20.4222237
+            ],
+            [
+              -49.9725915,
+              -20.4222002
+            ],
+            [
+              -49.9726589,
+              -20.4218129
+            ],
+            [
+              -49.972813,
+              -20.4218365
+            ],
+            [
+              -49.9727819,
+              -20.4220148
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3875059909",
+      "properties": {
+        "timestamp": "2018-12-21T01:51:16Z",
+        "version": 6,
+        "changeset": 65656783,
+        "addr:city": "Votuporanga",
+        "addr:state": "SP",
+        "addr:street": "Praça Vereador Viana Filho",
+        "addr:suburb": "Vila América",
+        "government": "legislative",
+        "name": "Câmara Municipal",
+        "office": "government",
+        "phone": "+55 17 3421-1188",
+        "id": "node/3875059909"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.983866,
+          -20.4200091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6405044715",
+      "properties": {
+        "timestamp": "2020-05-18T19:51:49Z",
+        "version": 2,
+        "changeset": 85401065,
+        "addr:city": "Votuporanga",
+        "addr:housenumber": "4600",
+        "addr:street": "Rua Tibagi",
+        "addr:suburb": "Jardim Alvorada",
+        "government": "transportation",
+        "name": "Departamento de Estradas de Rodagem",
+        "office": "government",
+        "operator": "Governo do Estado de São Paulo",
+        "short_name": "DER",
+        "wheelchair": "yes",
+        "id": "node/6405044715"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.9621497,
+          -20.4254004
+        ]
+      }
+    }
+  ]
+}

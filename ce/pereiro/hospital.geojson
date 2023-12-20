@@ -1,0 +1,79 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1012959398",
+      "properties": {
+        "timestamp": "2021-12-17T06:08:19Z",
+        "version": 1,
+        "changeset": 115036051,
+        "addr:city": "Pereiro",
+        "addr:postcode": "63460-000",
+        "addr:street": "Rua Doutor Antônio Augusto",
+        "addr:suburb": "Centro",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "internet_access": "yes",
+        "name": "Hospital Municipal Humberto de Queiroz",
+        "wheelchair": "yes",
+        "id": "way/1012959398"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.459937,
+              -6.0447454
+            ],
+            [
+              -38.4601334,
+              -6.0452808
+            ],
+            [
+              -38.4597904,
+              -6.0453463
+            ],
+            [
+              -38.4595727,
+              -6.0448161
+            ],
+            [
+              -38.459937,
+              -6.0447454
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2710134343",
+      "properties": {
+        "timestamp": "2021-12-17T06:08:19Z",
+        "version": 3,
+        "changeset": 115036051,
+        "addr:city": "Pereiro",
+        "addr:postcode": "63.460-000",
+        "addr:street": "Rua Dr Antônio Augusto",
+        "addr:suburb": "Centro",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "internet_access": "yes",
+        "name": "Hospital Municipal Humberto de Queiroz",
+        "wheelchair": "yes",
+        "id": "node/2710134343"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4598582,
+          -6.0451175
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/702015684",
+      "properties": {
+        "timestamp": "2019-07-06T04:28:43Z",
+        "version": 1,
+        "changeset": 71950562,
+        "amenity": "pharmacy",
+        "building": "yes",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "NEOFARMA",
+        "id": "way/702015684"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -54.3324743,
+              -15.5224166
+            ],
+            [
+              -54.3325606,
+              -15.5224315
+            ],
+            [
+              -54.3325452,
+              -15.5225146
+            ],
+            [
+              -54.3324651,
+              -15.5224938
+            ],
+            [
+              -54.3324743,
+              -15.5224166
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6592643375",
+      "properties": {
+        "timestamp": "2019-07-06T04:28:43Z",
+        "version": 1,
+        "changeset": 71950562,
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "id": "node/6592643375"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.3325052,
+          -15.5224582
+        ]
+      }
+    }
+  ]
+}

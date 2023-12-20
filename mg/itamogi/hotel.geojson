@@ -1,0 +1,76 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1137442411",
+      "properties": {
+        "timestamp": "2023-02-03T00:37:44Z",
+        "version": 1,
+        "changeset": 132023221,
+        "addr:city": "Itamogi",
+        "addr:housenumber": "622",
+        "addr:street": "Rua Ovídio de Abreu",
+        "addr:suburb": "Centro",
+        "beds": "28",
+        "internet_access": "wlan",
+        "name": "Hotel Santa Rita",
+        "phone": "+55 35 3534 1468",
+        "rooms": "16",
+        "tourism": "hotel",
+        "wheelchair": "limited",
+        "id": "way/1137442411"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.0473061,
+              -21.0766321
+            ],
+            [
+              -47.0472464,
+              -21.0766607
+            ],
+            [
+              -47.0471886,
+              -21.0766884
+            ],
+            [
+              -47.0470386,
+              -21.0764158
+            ],
+            [
+              -47.0471561,
+              -21.0763595
+            ],
+            [
+              -47.0473061,
+              -21.0766321
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8758298315",
+      "properties": {
+        "timestamp": "2023-02-03T00:37:44Z",
+        "version": 7,
+        "changeset": 132023221,
+        "access": "customers",
+        "barrier": "gate",
+        "id": "node/8758298315"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0472464,
+          -21.0766607
+        ]
+      }
+    }
+  ]
+}

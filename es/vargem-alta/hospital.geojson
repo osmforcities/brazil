@@ -1,0 +1,126 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1178170668",
+      "properties": {
+        "timestamp": "2023-06-01T22:37:48Z",
+        "version": 2,
+        "changeset": 136848699,
+        "IJSN:tipoUnidad": "Hospital Geral",
+        "addr:city": "Vargem Alta",
+        "addr:place": "Jaciguá",
+        "addr:postcode": "29297-000",
+        "addr:street": "Rua Josepha Agrizzi Altoé",
+        "addr:suburb": "Boa Esperança",
+        "amenity": "hospital",
+        "building": "yes",
+        "building:levels": "2",
+        "contact:phone": "+55 28 3525 1124",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "Hospital Padre Olívio",
+        "operator": "Hospital Padre Olívio",
+        "operator:type": "private",
+        "id": "way/1178170668"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.0123132,
+              -20.7176421
+            ],
+            [
+              -41.0122869,
+              -20.7177017
+            ],
+            [
+              -41.0122632,
+              -20.7176925
+            ],
+            [
+              -41.0122529,
+              -20.7177159
+            ],
+            [
+              -41.0122328,
+              -20.7177082
+            ],
+            [
+              -41.0120965,
+              -20.7180177
+            ],
+            [
+              -41.011963,
+              -20.7179663
+            ],
+            [
+              -41.0120533,
+              -20.7177612
+            ],
+            [
+              -41.0120258,
+              -20.7177506
+            ],
+            [
+              -41.0120359,
+              -20.7177276
+            ],
+            [
+              -41.0119574,
+              -20.7176973
+            ],
+            [
+              -41.0120431,
+              -20.7175029
+            ],
+            [
+              -41.0121578,
+              -20.7175471
+            ],
+            [
+              -41.0121446,
+              -20.7175771
+            ],
+            [
+              -41.0123132,
+              -20.7176421
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3086724796",
+      "properties": {
+        "timestamp": "2023-05-29T14:37:02Z",
+        "version": 5,
+        "changeset": 136703931,
+        "addr:city": "Vargem Alta",
+        "addr:postcode": "29295-000",
+        "addr:street": "Rua Padre Antônio Maria",
+        "addr:suburb": "Centro",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "Pronto Atendimento Municipal Octacílio Geraldo do Carmo",
+        "operator": "Município de Vargem Alta",
+        "operator:type": "public",
+        "phone": "+55 28 3528 1123",
+        "id": "node/3086724796"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.0116882,
+          -20.6721105
+        ]
+      }
+    }
+  ]
+}

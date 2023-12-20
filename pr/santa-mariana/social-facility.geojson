@@ -1,0 +1,97 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/620917621",
+      "properties": {
+        "timestamp": "2018-11-01T11:07:37Z",
+        "version": 2,
+        "changeset": 64074458,
+        "addr:city": "Santa Mariana",
+        "addr:housenumber": "500",
+        "addr:postcode": "86350-000",
+        "addr:street": "Rua Horácio Ferreira Simões",
+        "amenity": "social_facility",
+        "name": "Complexo Esportivo Sebastião Paulino de Souza",
+        "id": "way/620917621"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -50.5157408,
+              -23.152816
+            ],
+            [
+              -50.5164142,
+              -23.1529882
+            ],
+            [
+              -50.5164664,
+              -23.1530015
+            ],
+            [
+              -50.5162566,
+              -23.1536907
+            ],
+            [
+              -50.5160644,
+              -23.1536362
+            ],
+            [
+              -50.5155326,
+              -23.1534908
+            ],
+            [
+              -50.5157408,
+              -23.152816
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5865965990",
+      "properties": {
+        "timestamp": "2019-12-28T06:34:40Z",
+        "version": 2,
+        "changeset": 78948503,
+        "access": "private",
+        "entrance": "main",
+        "id": "node/5865965990"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.5160644,
+          -23.1536362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5865965994",
+      "properties": {
+        "timestamp": "2018-08-29T15:31:22Z",
+        "version": 1,
+        "changeset": 62110540,
+        "access": "private",
+        "addr:city": "Santa Mariana",
+        "addr:postcode": "86350-000",
+        "addr:street": "Rua Maria Tie Shiguetomi",
+        "barrier": "gate",
+        "id": "node/5865965994"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.5164142,
+          -23.1529882
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/543486430",
+      "properties": {
+        "timestamp": "2018-10-25T04:51:43Z",
+        "version": 2,
+        "changeset": 63853745,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "radiology",
+        "name": "Ibimagem Diagnóstico por Imagem",
+        "id": "way/543486430"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.8290894,
+              -21.7528079
+            ],
+            [
+              -48.8292996,
+              -21.7535851
+            ],
+            [
+              -48.8283692,
+              -21.7537527
+            ],
+            [
+              -48.8281855,
+              -21.7529866
+            ],
+            [
+              -48.8290894,
+              -21.7528079
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/923210878",
+      "properties": {
+        "timestamp": "2021-03-28T23:18:18Z",
+        "version": 1,
+        "changeset": 101892292,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posto de Saúde da Vila Maria",
+        "id": "way/923210878"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.8135654,
+              -21.7464968
+            ],
+            [
+              -48.8135224,
+              -21.7467803
+            ],
+            [
+              -48.8133432,
+              -21.7467569
+            ],
+            [
+              -48.8131599,
+              -21.7467329
+            ],
+            [
+              -48.8131222,
+              -21.7464358
+            ],
+            [
+              -48.8135654,
+              -21.7464968
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8570187038",
+      "properties": {
+        "timestamp": "2021-03-28T23:18:18Z",
+        "version": 1,
+        "changeset": 101892292,
+        "highway": "emergency_access_point",
+        "ref": "Pronto-Socorro Vila Maria",
+        "id": "node/8570187038"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.8133432,
+          -21.7467569
+        ]
+      }
+    }
+  ]
+}

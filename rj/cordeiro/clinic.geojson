@@ -1,0 +1,72 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1003740232",
+      "properties": {
+        "timestamp": "2021-11-25T15:54:14Z",
+        "version": 2,
+        "changeset": 114228542,
+        "addr:city": "Cordeiro",
+        "addr:housenumber": "30",
+        "addr:postcode": "28540-000",
+        "addr:street": "Travessa João Miranda",
+        "addr:suburb": "São Luís",
+        "amenity": "clinic",
+        "building": "house",
+        "healthcare": "clinic",
+        "name": "Posto de Saúde da Família - PSF",
+        "operator": "Prefeitura de Cordeiro",
+        "operator:type": "public",
+        "id": "way/1003740232"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.364866,
+              -22.0249006
+            ],
+            [
+              -42.3648415,
+              -22.0250283
+            ],
+            [
+              -42.3646968,
+              -22.0250056
+            ],
+            [
+              -42.3647271,
+              -22.0248736
+            ],
+            [
+              -42.364866,
+              -22.0249006
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4030812279",
+      "properties": {
+        "timestamp": "2016-02-28T03:09:31Z",
+        "version": 1,
+        "changeset": 37493000,
+        "amenity": "clinic",
+        "name": "Clínica Doutor Benedito Robadei",
+        "id": "node/4030812279"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.3582648,
+          -22.0268258
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/547063812",
+      "properties": {
+        "timestamp": "2017-12-15T14:37:05Z",
+        "version": 1,
+        "changeset": 54655046,
+        "addr:city": "Cruzeiro",
+        "addr:country": "BR",
+        "addr:postcode": "12710-440",
+        "addr:street": "Rua Francisco Marzzano",
+        "addr:suburb": "Vila Loyelo",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Posto Saúde da Família III Vila Loyelo",
+        "note": "Sem Numeração",
+        "phone": "+55 12 3145 0235",
+        "source": "http://www.cruzeiro.sp.gov.br/index.php?option=com_content&view=category&id=76&Itemid=69",
+        "id": "way/547063812"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.9618543,
+              -22.5651563
+            ],
+            [
+              -44.961857,
+              -22.5652653
+            ],
+            [
+              -44.961452,
+              -22.5652578
+            ],
+            [
+              -44.9614546,
+              -22.5651563
+            ],
+            [
+              -44.9618543,
+              -22.5651563
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9516867254",
+      "properties": {
+        "timestamp": "2023-09-01T02:26:45Z",
+        "version": 2,
+        "changeset": 140658844,
+        "addr:city": "Cruzeiro",
+        "addr:housenumber": "430",
+        "addr:postcode": "12701-320",
+        "addr:street": "Avenida Major Hermógenes",
+        "addr:suburb": "Centro",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Sidnei Leal Terapeuta",
+        "id": "node/9516867254"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.9620959,
+          -22.5765243
+        ]
+      }
+    }
+  ]
+}

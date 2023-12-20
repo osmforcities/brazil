@@ -1,0 +1,120 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "relation/7142386",
+      "properties": {
+        "timestamp": "2017-04-07T20:31:16Z",
+        "version": 1,
+        "changeset": 47551770,
+        "amenity": "kindergarten",
+        "max_age": "5 years 11 months",
+        "min_age": "0",
+        "source": "Bing;FNDE",
+        "type": "multipolygon",
+        "wheelchair": "yes",
+        "id": "relation/7142386"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -52.2156638,
+              -29.172103
+            ],
+            [
+              -52.2156282,
+              -29.1720976
+            ],
+            [
+              -52.2154551,
+              -29.172072
+            ],
+            [
+              -52.2155163,
+              -29.1717581
+            ],
+            [
+              -52.2159721,
+              -29.1718031
+            ],
+            [
+              -52.2159149,
+              -29.1721403
+            ],
+            [
+              -52.215846,
+              -29.1721301
+            ],
+            [
+              -52.2156638,
+              -29.172103
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/485414159",
+      "properties": {
+        "timestamp": "2017-04-10T20:32:28Z",
+        "version": 2,
+        "changeset": 47637968,
+        "barrier": "wall",
+        "id": "way/485414159"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -52.2156282,
+            -29.1720976
+          ],
+          [
+            -52.2154551,
+            -29.172072
+          ],
+          [
+            -52.2155163,
+            -29.1717581
+          ],
+          [
+            -52.2159721,
+            -29.1718031
+          ],
+          [
+            -52.2159149,
+            -29.1721403
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/485414160",
+      "properties": {
+        "timestamp": "2017-04-10T20:32:28Z",
+        "version": 2,
+        "changeset": 47637968,
+        "barrier": "wall",
+        "id": "way/485414160"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -52.215846,
+            -29.1721301
+          ],
+          [
+            -52.2156638,
+            -29.172103
+          ]
+        ]
+      }
+    }
+  ]
+}

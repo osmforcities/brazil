@@ -1,0 +1,90 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/681438565",
+      "properties": {
+        "timestamp": "2022-06-07T21:03:37Z",
+        "version": 2,
+        "changeset": 122090090,
+        "amenity": "university",
+        "internet_access": "yes",
+        "name": "Faculdade Medicina de Jaú - Unoeste",
+        "operator": "Unoeste",
+        "operator:type": "private",
+        "website": "www.unoeste.br/jau",
+        "id": "way/681438565"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.5715933,
+              -22.2979531
+            ],
+            [
+              -48.5720059,
+              -22.2981891
+            ],
+            [
+              -48.5719067,
+              -22.2983181
+            ],
+            [
+              -48.5717672,
+              -22.2982437
+            ],
+            [
+              -48.5717136,
+              -22.2982908
+            ],
+            [
+              -48.5714844,
+              -22.2981517
+            ],
+            [
+              -48.5715768,
+              -22.2980278
+            ],
+            [
+              -48.5715484,
+              -22.2980082
+            ],
+            [
+              -48.5715933,
+              -22.2979531
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4161503247",
+      "properties": {
+        "timestamp": "2018-05-17T19:19:34Z",
+        "version": 2,
+        "changeset": 59060166,
+        "addr:city": "Jaú",
+        "addr:housenumber": "S/N",
+        "addr:postcode": "17212-599",
+        "addr:street": "Rua Frei Galvão",
+        "addr:suburb": "Jardim Pedro Ometto",
+        "amenity": "university",
+        "internet_access": "wlan",
+        "name": "FATEC-JAHU",
+        "operator": "CEETEPS - Governo do Estado de São Paulo",
+        "id": "node/4161503247"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.5486795,
+          -22.3148652
+        ]
+      }
+    }
+  ]
+}

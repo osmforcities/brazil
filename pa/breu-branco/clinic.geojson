@@ -1,0 +1,72 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1083313657",
+      "properties": {
+        "timestamp": "2022-08-02T20:01:56Z",
+        "version": 1,
+        "changeset": 124407793,
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "id": "way/1083313657"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.5664715,
+              -3.7747592
+            ],
+            [
+              -49.5668926,
+              -3.7752048
+            ],
+            [
+              -49.5668134,
+              -3.7752608
+            ],
+            [
+              -49.5665608,
+              -3.7751564
+            ],
+            [
+              -49.5663541,
+              -3.774861
+            ],
+            [
+              -49.5664715,
+              -3.7747592
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9927042414",
+      "properties": {
+        "timestamp": "2022-08-02T13:10:08Z",
+        "version": 1,
+        "changeset": 124391841,
+        "addr:city": "Breu Branco",
+        "addr:street": "Rua Pastor Araujo",
+        "addr:suburb": "Conquista",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "vaccination",
+        "id": "node/9927042414"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.5664424,
+          -3.769748
+        ]
+      }
+    }
+  ]
+}

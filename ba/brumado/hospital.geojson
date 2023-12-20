@@ -1,0 +1,154 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1125934254",
+      "properties": {
+        "timestamp": "2022-12-30T21:48:17Z",
+        "version": 1,
+        "changeset": 130703789,
+        "amenity": "hospital",
+        "building": "yes",
+        "check_date": "2022-12-30",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "SOMEPE",
+        "operator:type": "private",
+        "id": "way/1125934254"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.6645039,
+              -14.2014262
+            ],
+            [
+              -41.6646076,
+              -14.2016387
+            ],
+            [
+              -41.6643446,
+              -14.2017592
+            ],
+            [
+              -41.6643016,
+              -14.2016709
+            ],
+            [
+              -41.6642433,
+              -14.2015515
+            ],
+            [
+              -41.6643824,
+              -14.2014878
+            ],
+            [
+              -41.6643603,
+              -14.2014425
+            ],
+            [
+              -41.6644314,
+              -14.2014099
+            ],
+            [
+              -41.6644511,
+              -14.2014504
+            ],
+            [
+              -41.6645039,
+              -14.2014262
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1278857489",
+      "properties": {
+        "timestamp": "2022-12-30T21:48:17Z",
+        "version": 6,
+        "changeset": 130703789,
+        "entrance": "main",
+        "id": "node/1278857489"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.6643016,
+          -14.2016709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1278857490",
+      "properties": {
+        "timestamp": "2022-12-30T19:52:24Z",
+        "version": 3,
+        "changeset": 130701080,
+        "amenity": "hospital",
+        "check_date": "2022-12-30",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "IMED Sudoeste",
+        "id": "node/1278857490"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.6680062,
+          -14.205149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1325750001",
+      "properties": {
+        "timestamp": "2022-12-30T21:30:29Z",
+        "version": 5,
+        "changeset": 130703436,
+        "amenity": "hospital",
+        "check_date": "2022-12-30",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Hospital Professor Magalhães Neto",
+        "operator:type": "public",
+        "id": "node/1325750001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.6751516,
+          -14.2037291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1859114565",
+      "properties": {
+        "timestamp": "2021-04-17T21:07:32Z",
+        "version": 5,
+        "changeset": 103117864,
+        "amenity": "hospital",
+        "emergency": "no",
+        "healthcare": "hospital",
+        "name": "Centro Médico São Gabriel",
+        "wheelchair": "yes",
+        "id": "node/1859114565"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.6681031,
+          -14.2078373
+        ]
+      }
+    }
+  ]
+}

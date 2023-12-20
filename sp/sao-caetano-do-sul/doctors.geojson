@@ -1,0 +1,78 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1164875868",
+      "properties": {
+        "timestamp": "2023-04-23T15:58:37Z",
+        "version": 1,
+        "changeset": 135267962,
+        "addr:housenumber": "920",
+        "addr:street": "Rua Nossa Senhora de Fátima",
+        "amenity": "doctors",
+        "building": "yes",
+        "contact:phone": "+55 11 4231 3959",
+        "healthcare": "doctor",
+        "healthcare:speciality": "cardiology",
+        "name": "Clínica de Cardiologia",
+        "phone": "+55 11 4231 3954",
+        "id": "way/1164875868"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.5659777,
+              -23.6273189
+            ],
+            [
+              -46.5659769,
+              -23.6273915
+            ],
+            [
+              -46.5658474,
+              -23.6273902
+            ],
+            [
+              -46.5658483,
+              -23.6273176
+            ],
+            [
+              -46.5659777,
+              -23.6273189
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10831878935",
+      "properties": {
+        "timestamp": "2023-04-22T13:49:05Z",
+        "version": 1,
+        "changeset": 135229093,
+        "addr:housenumber": "685",
+        "addr:postcode": "09571-200",
+        "addr:street": "Avenida Paraíso",
+        "amenity": "doctors",
+        "contact:mobile": "+55 11 98830 0802",
+        "healthcare": "doctor",
+        "healthcare:speciality": "general",
+        "name": "Emagrecentro",
+        "phone": "+55 11 3593 9096",
+        "website": "https://www.emagrecentro.com.br/",
+        "id": "node/10831878935"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5644063,
+          -23.6330062
+        ]
+      }
+    }
+  ]
+}

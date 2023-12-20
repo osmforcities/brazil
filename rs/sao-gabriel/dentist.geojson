@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/515702097",
+      "properties": {
+        "timestamp": "2021-02-01T21:56:07Z",
+        "version": 2,
+        "changeset": 98535492,
+        "addr:street": "Rua Coronel Sezefredo",
+        "amenity": "dentist",
+        "building": "yes",
+        "contact:phone": "+55 55 3232-2245",
+        "contact:website": "http://sorrifacil.com.br",
+        "healthcare": "dentist",
+        "name": "Sorrifácil",
+        "id": "way/515702097"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -54.3189582,
+              -30.3409247
+            ],
+            [
+              -54.3190878,
+              -30.3411784
+            ],
+            [
+              -54.3190043,
+              -30.3412101
+            ],
+            [
+              -54.3188747,
+              -30.3409565
+            ],
+            [
+              -54.3189582,
+              -30.3409247
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4884474736",
+      "properties": {
+        "timestamp": "2021-02-01T21:56:07Z",
+        "version": 3,
+        "changeset": 98535492,
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "Odonto Excellence",
+        "id": "node/4884474736"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.3169866,
+          -30.3388519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5370481301",
+      "properties": {
+        "timestamp": "2021-02-01T21:56:07Z",
+        "version": 2,
+        "changeset": 98535492,
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "Delano",
+        "id": "node/5370481301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.3216209,
+          -30.333601
+        ]
+      }
+    }
+  ]
+}

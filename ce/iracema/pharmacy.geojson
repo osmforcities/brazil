@@ -1,0 +1,115 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/822708512",
+      "properties": {
+        "timestamp": "2022-09-28T16:48:19Z",
+        "version": 2,
+        "changeset": 126748578,
+        "addr:city": "iracema",
+        "addr:housenumber": "91",
+        "addr:postcode": "62980000",
+        "addr:street": "Rua Tristão Gonçalves",
+        "addr:suburb": "centro",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmácia Gerações",
+        "id": "way/822708512"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.3054623,
+              -5.8131728
+            ],
+            [
+              -38.305584,
+              -5.813254
+            ],
+            [
+              -38.30554,
+              -5.8133146
+            ],
+            [
+              -38.305416,
+              -5.8132341
+            ],
+            [
+              -38.3054623,
+              -5.8131728
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7781045085",
+      "properties": {
+        "timestamp": "2020-08-03T13:07:47Z",
+        "version": 1,
+        "changeset": 88878779,
+        "amenity": "pharmacy",
+        "name": "Farmacia Queoroz",
+        "id": "node/7781045085"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.301587,
+          -5.8097541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9155248609",
+      "properties": {
+        "timestamp": "2022-03-24T15:12:54Z",
+        "version": 2,
+        "changeset": 118869309,
+        "addr:street": "Rua José Maria Bessa",
+        "amenity": "pharmacy",
+        "name": "Farmácia Edite Cruz",
+        "phone": "+55 (88) 3428-1367",
+        "id": "node/9155248609"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.3050613,
+          -5.8139377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9225041422",
+      "properties": {
+        "timestamp": "2022-09-28T16:48:19Z",
+        "version": 3,
+        "changeset": 126748578,
+        "addr:housenumber": "1415",
+        "addr:street": "Rua Gervásio Holanda Guerra",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Farmácia Campelo",
+        "phone": "+55 (88) 3428-1170",
+        "id": "node/9225041422"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.3049491,
+          -5.8131227
+        ]
+      }
+    }
+  ]
+}

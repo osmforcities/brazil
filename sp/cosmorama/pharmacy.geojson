@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "relation/14908422",
+      "properties": {
+        "timestamp": "2022-11-19T19:09:51Z",
+        "version": 1,
+        "changeset": 129135492,
+        "addr:city": "Cosmorama",
+        "addr:postcode": "15530000",
+        "addr:street": "Rua Joaquim da Costa Maciel",
+        "addr:suburb": "Luiz Rosa",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "type": "multipolygon",
+        "id": "relation/14908422"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.779033,
+              -20.4798789
+            ],
+            [
+              -49.7792233,
+              -20.4797769
+            ],
+            [
+              -49.7792505,
+              -20.4798215
+            ],
+            [
+              -49.7790591,
+              -20.4799241
+            ],
+            [
+              -49.779033,
+              -20.4798789
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/668774085",
+      "properties": {
+        "timestamp": "2022-11-19T19:09:51Z",
+        "version": 4,
+        "changeset": 129135492,
+        "barrier": "wall",
+        "id": "way/668774085"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -49.779033,
+            -20.4798789
+          ],
+          [
+            -49.7792233,
+            -20.4797769
+          ],
+          [
+            -49.7792505,
+            -20.4798215
+          ],
+          [
+            -49.7790591,
+            -20.4799241
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1115570154",
+      "properties": {
+        "timestamp": "2022-11-19T19:09:51Z",
+        "version": 1,
+        "changeset": 129135492,
+        "highway": "secondary",
+        "name": "Rua Joaquim da Costa Maciel",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "id": "way/1115570154"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -49.7790591,
+            -20.4799241
+          ],
+          [
+            -49.779033,
+            -20.4798789
+          ]
+        ]
+      }
+    }
+  ]
+}

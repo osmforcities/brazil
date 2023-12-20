@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1211924663",
+      "properties": {
+        "timestamp": "2023-09-29T18:55:41Z",
+        "version": 1,
+        "changeset": 141926460,
+        "area": "yes",
+        "historic": "memorial",
+        "name": "Replica Igreja São Pedro",
+        "id": "way/1211924663"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -52.345479,
+              -27.2756596
+            ],
+            [
+              -52.3454601,
+              -27.2757021
+            ],
+            [
+              -52.3454192,
+              -27.2756888
+            ],
+            [
+              -52.3454342,
+              -27.2756445
+            ],
+            [
+              -52.345479,
+              -27.2756596
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5303575242",
+      "properties": {
+        "timestamp": "2019-07-26T14:18:43Z",
+        "version": 5,
+        "changeset": 72690145,
+        "addr:postcode": "89760-000",
+        "addr:street": "Rodovia Pedro Paludo",
+        "alt_name": "Caminhão Amarelo",
+        "description": "Caminhão deixado para a lembrança da construção da usina hidroelétrica de Itá",
+        "historic": "memorial",
+        "memorial": "vehicle",
+        "name": "Caminhão Wabco",
+        "tourism": "attraction",
+        "website": "http://ita.sc.gov.br/atrativos/13-caminho-wabco",
+        "id": "node/5303575242"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.3266866,
+          -27.277093
+        ]
+      }
+    }
+  ]
+}

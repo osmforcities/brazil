@@ -1,0 +1,154 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/594254016",
+      "properties": {
+        "timestamp": "2022-04-16T22:55:02Z",
+        "version": 4,
+        "changeset": 119800700,
+        "addr:city": "Uraí",
+        "addr:housenumber": "677",
+        "addr:postcode": "86280-000",
+        "addr:street": "Rua José de Oliveira Borges",
+        "addr:suburb": "Centro",
+        "amenity": "clinic",
+        "building": "yes",
+        "building:levels": "1",
+        "healthcare": "clinic",
+        "id": "way/594254016"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -50.7953157,
+              -23.201055
+            ],
+            [
+              -50.7954102,
+              -23.2011303
+            ],
+            [
+              -50.7953633,
+              -23.2011799
+            ],
+            [
+              -50.7953369,
+              -23.2011588
+            ],
+            [
+              -50.7953194,
+              -23.2011774
+            ],
+            [
+              -50.795344,
+              -23.201197
+            ],
+            [
+              -50.7952976,
+              -23.2012461
+            ],
+            [
+              -50.7952729,
+              -23.2012263
+            ],
+            [
+              -50.7952095,
+              -23.2012935
+            ],
+            [
+              -50.7951048,
+              -23.20121
+            ],
+            [
+              -50.7951171,
+              -23.201197
+            ],
+            [
+              -50.7950439,
+              -23.2011386
+            ],
+            [
+              -50.7951314,
+              -23.2010459
+            ],
+            [
+              -50.7951798,
+              -23.2010846
+            ],
+            [
+              -50.795151,
+              -23.2011151
+            ],
+            [
+              -50.7952125,
+              -23.2011642
+            ],
+            [
+              -50.7953157,
+              -23.201055
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5053774622",
+      "properties": {
+        "timestamp": "2022-07-29T09:38:46Z",
+        "version": 2,
+        "changeset": 124221846,
+        "addr:city": "Uraí",
+        "addr:postcode": "86280-000",
+        "addr:street": "Avenida Brasil",
+        "addr:suburb": "Centro",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "UBS",
+        "operator": "Sistema Único de Saúde",
+        "operator:short": "SUS",
+        "operator:wikidata": "Q7531056",
+        "id": "node/5053774622"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.790472,
+          -23.2042442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5754916998",
+      "properties": {
+        "timestamp": "2022-07-29T09:48:12Z",
+        "version": 2,
+        "changeset": 124222334,
+        "addr:city": "Distrito Cruzeiro do Norte",
+        "addr:postcode": "86285-000",
+        "addr:street": "Avenida Paraná",
+        "addr:suburb": "Centro",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "U.B.S - Unidade Básica de Saúde - José Doneze",
+        "operator": "Sistema Único de Saúde",
+        "operator:short": "SUS",
+        "operator:wikidata": "Q7531056",
+        "phone": "+55 43 3584 1145",
+        "id": "node/5754916998"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.8624748,
+          -23.2294073
+        ]
+      }
+    }
+  ]
+}

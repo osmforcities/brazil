@@ -1,0 +1,211 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "relation/8003797",
+      "properties": {
+        "timestamp": "2019-06-02T17:28:29Z",
+        "version": 2,
+        "changeset": 70861788,
+        "addr:housenumber": "2800",
+        "addr:street": "Avenida Dom Frei Cândido Maria Bampi",
+        "alt_name": "Campus Universitário de Vacaria - Universidade de Caxias do Sul",
+        "amenity": "university",
+        "contact:fax": "+55 55 3908-5400",
+        "contact:phone": "+55 55 3908-5400",
+        "name": "UCS - Campus Universitário de Vacaria II",
+        "operator": "Universidade de Caxias do Sul",
+        "shop": "UCS CAMVA",
+        "type": "multipolygon",
+        "website": "https://www.ucs.br/portais/camva/",
+        "id": "relation/8003797"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -50.9041134,
+              -28.5192037
+            ],
+            [
+              -50.9058005,
+              -28.5145749
+            ],
+            [
+              -50.9074903,
+              -28.5141837
+            ],
+            [
+              -50.9083325,
+              -28.5147116
+            ],
+            [
+              -50.9082645,
+              -28.5148142
+            ],
+            [
+              -50.9081823,
+              -28.5149308
+            ],
+            [
+              -50.9091023,
+              -28.5160291
+            ],
+            [
+              -50.9075841,
+              -28.5201793
+            ],
+            [
+              -50.9041134,
+              -28.5192037
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/694143964",
+      "properties": {
+        "timestamp": "2019-06-02T21:46:38Z",
+        "version": 1,
+        "changeset": 70866661,
+        "amenity": "university",
+        "name": "UCS - Campus Universitário de Vacaria I",
+        "id": "way/694143964"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -50.9379726,
+              -28.4896755
+            ],
+            [
+              -50.9368568,
+              -28.4898499
+            ],
+            [
+              -50.9364705,
+              -28.487799
+            ],
+            [
+              -50.9366207,
+              -28.4877565
+            ],
+            [
+              -50.9373825,
+              -28.4886382
+            ],
+            [
+              -50.9379296,
+              -28.4893455
+            ],
+            [
+              -50.9377955,
+              -28.4894115
+            ],
+            [
+              -50.9379726,
+              -28.4896755
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/559968739",
+      "properties": {
+        "timestamp": "2018-02-09T03:13:47Z",
+        "version": 1,
+        "changeset": 56203937,
+        "barrier": "fence",
+        "id": "way/559968739"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -50.9091023,
+            -28.5160291
+          ],
+          [
+            -50.9075841,
+            -28.5201793
+          ],
+          [
+            -50.9041134,
+            -28.5192037
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/559968750",
+      "properties": {
+        "timestamp": "2018-02-09T03:13:48Z",
+        "version": 1,
+        "changeset": 56203937,
+        "barrier": "fence",
+        "id": "way/559968750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -50.9041134,
+            -28.5192037
+          ],
+          [
+            -50.9058005,
+            -28.5145749
+          ],
+          [
+            -50.9074903,
+            -28.5141837
+          ],
+          [
+            -50.9083325,
+            -28.5147116
+          ],
+          [
+            -50.9082645,
+            -28.5148142
+          ],
+          [
+            -50.9081823,
+            -28.5149308
+          ],
+          [
+            -50.9091023,
+            -28.5160291
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6517040523",
+      "properties": {
+        "timestamp": "2019-06-02T21:46:38Z",
+        "version": 1,
+        "changeset": 70866661,
+        "amenity": "university",
+        "name": "UCS - Campus Universitário de Vacaria II",
+        "id": "node/6517040523"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.9063799,
+          -28.5148963
+        ]
+      }
+    }
+  ]
+}

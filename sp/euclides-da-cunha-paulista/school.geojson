@@ -1,0 +1,86 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/910628167",
+      "properties": {
+        "timestamp": "2021-02-25T12:46:56Z",
+        "version": 2,
+        "changeset": 99978023,
+        "addr:postcode": "19275-000",
+        "addr:street": "Estrada da Escola",
+        "addr:suburb": "Santa Rita do Pontal",
+        "amenity": "school",
+        "email": "e032300A@educacao.sp.gov.br",
+        "inep": "INEP-35032300",
+        "name": "Escola Estadual Bairro Santa Rita do Pontal",
+        "operator": "Secretaria da Educação do Estado de São Paulo",
+        "operator:type": "government",
+        "phone": "+55 18 3283 5361",
+        "source": "CADMEC 2017;INEP",
+        "id": "way/910628167"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -52.6885006,
+              -22.5578231
+            ],
+            [
+              -52.6885048,
+              -22.5585031
+            ],
+            [
+              -52.6884839,
+              -22.5585456
+            ],
+            [
+              -52.6884253,
+              -22.5585804
+            ],
+            [
+              -52.6876452,
+              -22.5585641
+            ],
+            [
+              -52.6876596,
+              -22.5577922
+            ],
+            [
+              -52.6885006,
+              -22.5578231
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8457545584",
+      "properties": {
+        "timestamp": "2021-02-25T12:46:56Z",
+        "version": 1,
+        "changeset": 99978023,
+        "addr:postcode": "19275-000",
+        "addr:street": "Estrada da Escola",
+        "addr:suburb": "Santa Rita do Pontal",
+        "amenity": "school",
+        "name": "EMEIF Bairro Santa Rita do Pontal",
+        "phone": "+55 18 3283 2335",
+        "ref": "INEP-35218303",
+        "source": "CADMEC 2017;INEP",
+        "id": "node/8457545584"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.6878959,
+          -22.5583778
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/684502689",
+      "properties": {
+        "timestamp": "2021-03-16T17:50:28Z",
+        "version": 2,
+        "changeset": 101137135,
+        "addr:city": "Iranduba",
+        "addr:postcode": "69415-000",
+        "addr:street": "Avenida Juruá",
+        "addr:suburb": "Centro",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general;paediatrics;ophthalmology;dentistry",
+        "name": "Lourenço Borges",
+        "opening_hours": "Mo-Fr 09:00-17:00",
+        "surface": "paved",
+        "id": "way/684502689"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -60.1860682,
+              -3.2831948
+            ],
+            [
+              -60.1861352,
+              -3.2833313
+            ],
+            [
+              -60.1857866,
+              -3.2835081
+            ],
+            [
+              -60.1857275,
+              -3.2833688
+            ],
+            [
+              -60.1860682,
+              -3.2831948
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2285220459",
+      "properties": {
+        "timestamp": "2020-10-18T13:44:50Z",
+        "version": 3,
+        "changeset": 92657386,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posto de Saúde do Cacau Pireira",
+        "id": "node/2285220459"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.0840128,
+          -3.1667951
+        ]
+      }
+    }
+  ]
+}

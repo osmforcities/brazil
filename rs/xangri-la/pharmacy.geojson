@@ -1,0 +1,90 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/488574070",
+      "properties": {
+        "timestamp": "2021-01-23T01:58:08Z",
+        "version": 2,
+        "changeset": 98002187,
+        "amenity": "pharmacy",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "id": "way/488574070"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -50.0648398,
+              -29.8508043
+            ],
+            [
+              -50.0650088,
+              -29.8507426
+            ],
+            [
+              -50.0650552,
+              -29.8508383
+            ],
+            [
+              -50.0648863,
+              -29.8509
+            ],
+            [
+              -50.0648398,
+              -29.8508043
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9913566556",
+      "properties": {
+        "timestamp": "2023-07-08T19:58:14Z",
+        "version": 2,
+        "changeset": 138275941,
+        "amenity": "pharmacy",
+        "brand": "Farmácia São João",
+        "brand:wikidata": "Q65164556",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmácia São João",
+        "id": "node/9913566556"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.0593452,
+          -29.8389958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11034714394",
+      "properties": {
+        "timestamp": "2023-07-08T20:53:55Z",
+        "version": 1,
+        "changeset": 138277566,
+        "amenity": "pharmacy",
+        "brand": "Panvel",
+        "brand:wikidata": "Q10344254",
+        "healthcare": "pharmacy",
+        "name": "Panvel",
+        "id": "node/11034714394"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.0630482,
+          -29.8468497
+        ]
+      }
+    }
+  ]
+}

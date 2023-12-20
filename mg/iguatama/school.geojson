@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/508697283",
+      "properties": {
+        "timestamp": "2017-07-19T12:51:21Z",
+        "version": 1,
+        "changeset": 50404506,
+        "addr:housenumber": "70",
+        "addr:street": "Rua Quatro",
+        "amenity": "school",
+        "contact:phone": "+55 37 33532037",
+        "name": "Escola Estadual Paula Carvalho",
+        "ref": "33685",
+        "source": "Cadastro Escolar",
+        "id": "way/508697283"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -45.7125516,
+              -20.1773771
+            ],
+            [
+              -45.7125932,
+              -20.1778215
+            ],
+            [
+              -45.7119615,
+              -20.1779046
+            ],
+            [
+              -45.7118516,
+              -20.1773998
+            ],
+            [
+              -45.7125516,
+              -20.1773771
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/534241294",
+      "properties": {
+        "timestamp": "2017-10-22T12:05:06Z",
+        "version": 1,
+        "changeset": 53149944,
+        "amenity": "school",
+        "name": "Coopetativa Educacional Iguatama",
+        "id": "way/534241294"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -45.7109211,
+              -20.1778707
+            ],
+            [
+              -45.7109738,
+              -20.1782312
+            ],
+            [
+              -45.7104943,
+              -20.1782929
+            ],
+            [
+              -45.7104417,
+              -20.1779324
+            ],
+            [
+              -45.7109211,
+              -20.1778707
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2974987614",
+      "properties": {
+        "timestamp": "2017-09-24T12:55:36Z",
+        "version": 2,
+        "changeset": 52327972,
+        "amenity": "school",
+        "fixme": "conferir o nome da escola",
+        "name": "Escola Estadual de Corginhos",
+        "operator": "Secretaria de Estado de Educação de Minas Gerais",
+        "source": "mapbox;IBGE",
+        "id": "node/2974987614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.8377416,
+          -20.2529834
+        ]
+      }
+    }
+  ]
+}

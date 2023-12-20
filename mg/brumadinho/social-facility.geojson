@@ -1,0 +1,83 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/666364603",
+      "properties": {
+        "timestamp": "2023-02-02T18:14:31Z",
+        "version": 3,
+        "changeset": 132013964,
+        "addr:city": "Brumadinho",
+        "addr:housenumber": "85",
+        "addr:postcode": "35460000",
+        "addr:street": "Rua Belmira da Silva Moreira",
+        "addr:suburb": "Cohab",
+        "alt_name": "Centro de Referência da Assistência Social COHAB",
+        "amenity": "social_facility",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "CRAS COHAB",
+        "social_facility": "outreach",
+        "social_facility:for": "underprivileged",
+        "wheelchair": "yes",
+        "id": "way/666364603"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.2225378,
+              -20.1388995
+            ],
+            [
+              -44.2227383,
+              -20.1387123
+            ],
+            [
+              -44.2229418,
+              -20.1389045
+            ],
+            [
+              -44.2227957,
+              -20.1390409
+            ],
+            [
+              -44.2227738,
+              -20.1390203
+            ],
+            [
+              -44.2227195,
+              -20.139071
+            ],
+            [
+              -44.2225378,
+              -20.1388995
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6240310947",
+      "properties": {
+        "timestamp": "2019-01-27T20:05:44Z",
+        "version": 1,
+        "changeset": 66685967,
+        "amenity": "social_facility",
+        "name": "Apae Brumadinho",
+        "social_facility": "nursing_home",
+        "id": "node/6240310947"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.2144584,
+          -20.143357
+        ]
+      }
+    }
+  ]
+}

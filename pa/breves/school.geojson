@@ -1,0 +1,97 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/681392764",
+      "properties": {
+        "timestamp": "2019-04-03T14:29:16Z",
+        "version": 1,
+        "changeset": 68841882,
+        "addr:city": "Breves",
+        "addr:postcode": "68800000",
+        "addr:street": "Rua José Rodrigues da Fonseca",
+        "amenity": "school",
+        "name": "Emerentina Moreira de Souza",
+        "operator": "Município",
+        "id": "way/681392764"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -50.4820019,
+              -1.6815712
+            ],
+            [
+              -50.4821548,
+              -1.6818983
+            ],
+            [
+              -50.4815244,
+              -1.6821851
+            ],
+            [
+              -50.4813689,
+              -1.6818768
+            ],
+            [
+              -50.4820019,
+              -1.6815712
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6214425286",
+      "properties": {
+        "timestamp": "2019-01-16T19:59:37Z",
+        "version": 1,
+        "changeset": 66374373,
+        "amenity": "school",
+        "name": "San Francisco de Asis",
+        "id": "node/6214425286"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.9991016,
+          -1.1156479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6641556206",
+      "properties": {
+        "timestamp": "2019-07-23T18:45:12Z",
+        "version": 1,
+        "changeset": 72572092,
+        "addr:city": "Breves",
+        "addr:postcode": "68800000",
+        "addr:street": "Avenida Portel",
+        "addr:suburb": "Cidade Nova",
+        "amenity": "school",
+        "denomination": "escola_pública_municipal",
+        "description": "Escola municipal que atende estudantes dos anos iniciais do ensino fundamental.",
+        "name": "Escola Áurea Cunha",
+        "operator": "Conselho Escolar",
+        "operator:type": "public",
+        "polling_station": "yes",
+        "religion": "none",
+        "wheelchair": "yes",
+        "id": "node/6641556206"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4788738,
+          -1.6908846
+        ]
+      }
+    }
+  ]
+}

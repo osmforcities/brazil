@@ -1,0 +1,136 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/712381827",
+      "properties": {
+        "timestamp": "2022-07-28T15:51:33Z",
+        "version": 3,
+        "changeset": 124193064,
+        "addr:city": "Paracatu",
+        "addr:housenumber": "385",
+        "addr:street": "Avenida Bias Fortes",
+        "addr:suburb": "São João Evangelista",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hospital de Hemodiálise",
+        "operator": "Prefeitura",
+        "operator:type": "public",
+        "phone": "+55 38 3671 5872",
+        "id": "way/712381827"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.8926177,
+              -17.2324486
+            ],
+            [
+              -46.8924031,
+              -17.2327151
+            ],
+            [
+              -46.8922188,
+              -17.2329574
+            ],
+            [
+              -46.8919418,
+              -17.2328278
+            ],
+            [
+              -46.892328,
+              -17.2322847
+            ],
+            [
+              -46.8926177,
+              -17.2324486
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/761799395",
+      "properties": {
+        "timestamp": "2020-01-08T18:15:59Z",
+        "version": 1,
+        "changeset": 79351490,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hospital Municipal de Paracatu",
+        "id": "way/761799395"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.8756127,
+              -17.21608
+            ],
+            [
+              -46.8756127,
+              -17.2174663
+            ],
+            [
+              -46.8750191,
+              -17.2174624
+            ],
+            [
+              -46.8750191,
+              -17.21608
+            ],
+            [
+              -46.8756127,
+              -17.21608
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4359224637",
+      "properties": {
+        "timestamp": "2020-01-08T18:15:59Z",
+        "version": 2,
+        "changeset": 79351490,
+        "amenity": "hospital",
+        "name": "Hospital Municipal de Paracatu",
+        "id": "node/4359224637"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.8753067,
+          -17.2173309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7117651562",
+      "properties": {
+        "timestamp": "2020-01-08T18:15:59Z",
+        "version": 1,
+        "changeset": 79351490,
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Pronto Socorro",
+        "id": "node/7117651562"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.8751696,
+          -17.2161771
+        ]
+      }
+    }
+  ]
+}

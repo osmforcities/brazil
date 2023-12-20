@@ -1,0 +1,108 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1179865367",
+      "properties": {
+        "timestamp": "2023-09-10T14:00:50Z",
+        "version": 2,
+        "changeset": 141064619,
+        "addr:city": "Limeira do Oeste",
+        "addr:housenumber": "762",
+        "addr:postcode": "38295-000",
+        "addr:street": "Avenida Sergipe",
+        "addr:suburb": "Centro",
+        "building": "yes",
+        "building:levels": "2",
+        "height": "8",
+        "name": "Hotel Modelo",
+        "phone": "+55 34 3453 1096",
+        "tourism": "hotel",
+        "id": "way/1179865367"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -50.5782468,
+              -19.5537359
+            ],
+            [
+              -50.5784521,
+              -19.5539772
+            ],
+            [
+              -50.5783433,
+              -19.5540567
+            ],
+            [
+              -50.578139,
+              -19.5538182
+            ],
+            [
+              -50.5782468,
+              -19.5537359
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10846459013",
+      "properties": {
+        "timestamp": "2023-05-05T02:25:54Z",
+        "version": 3,
+        "changeset": 135722157,
+        "addr:city": "Limeira do Oeste",
+        "addr:housenumber": "1107",
+        "addr:postcode": "38295000",
+        "addr:street": "Avenida Minas Gerais",
+        "addr:suburb": "Jardim Paraíso",
+        "internet_access": "yes",
+        "internet_access:fee": "customers",
+        "name": "Hotel Fazenda",
+        "phone": "+55 34 99691-2018",
+        "tourism": "hotel",
+        "id": "node/10846459013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.5758862,
+          -19.5564252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10992025333",
+      "properties": {
+        "timestamp": "2023-06-20T12:22:28Z",
+        "version": 1,
+        "changeset": 137561937,
+        "addr:city": "Limeira do Oeste",
+        "addr:housenumber": "382",
+        "addr:postcode": "38295000",
+        "addr:street": "Avenida da Saudade",
+        "addr:suburb": "São João",
+        "internet_access": "wlan",
+        "name": "Dormitório Alaska",
+        "phone": "+55 34 98674-7760",
+        "rooms": "10",
+        "smoking": "outside",
+        "tourism": "hotel",
+        "id": "node/10992025333"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.580143,
+          -19.5500215
+        ]
+      }
+    }
+  ]
+}

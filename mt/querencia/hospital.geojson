@@ -1,0 +1,126 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/552844397",
+      "properties": {
+        "timestamp": "2020-06-22T14:10:22Z",
+        "version": 2,
+        "changeset": 86984848,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Clínica da Família",
+        "id": "way/552844397"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -52.2012888,
+              -12.5946012
+            ],
+            [
+              -52.201285,
+              -12.5948677
+            ],
+            [
+              -52.2010514,
+              -12.5948646
+            ],
+            [
+              -52.2010552,
+              -12.594598
+            ],
+            [
+              -52.2012888,
+              -12.5946012
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/851328661",
+      "properties": {
+        "timestamp": "2023-05-06T17:36:39Z",
+        "version": 2,
+        "changeset": 135786145,
+        "addr:postcode": "78643-000",
+        "addr:street": "Rua Lucas Gorgen (A14)",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hospital San Diego",
+        "ref:CNES": "6047831",
+        "ref:vatin": "BR05888470000157",
+        "id": "way/851328661"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -52.2068303,
+              -12.5953233
+            ],
+            [
+              -52.2068324,
+              -12.5954882
+            ],
+            [
+              -52.2068374,
+              -12.5958649
+            ],
+            [
+              -52.2062774,
+              -12.5958728
+            ],
+            [
+              -52.2062824,
+              -12.5953193
+            ],
+            [
+              -52.2064258,
+              -12.5953211
+            ],
+            [
+              -52.2065306,
+              -12.5953217
+            ],
+            [
+              -52.2068303,
+              -12.5953233
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7940300903",
+      "properties": {
+        "timestamp": "2023-05-06T17:36:39Z",
+        "version": 2,
+        "changeset": 135786145,
+        "addr:postcode": "78643-000",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hospital Municipal de Querência",
+        "note": "Esse ponto e amenidade 'name=Hospital San Diego' (no momento embaixo) não devem ser mesclados. Tem CNES diferentes.",
+        "operator:ref:vatin": "BR37465002000166",
+        "phone": "+55 66 3529 1140",
+        "ref:CNES": "4070070",
+        "id": "node/7940300903"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.2063122,
+          -12.5953556
+        ]
+      }
+    }
+  ]
+}

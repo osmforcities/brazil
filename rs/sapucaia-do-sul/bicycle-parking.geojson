@@ -1,0 +1,136 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/528273465",
+      "properties": {
+        "timestamp": "2017-12-29T09:55:23Z",
+        "version": 4,
+        "changeset": 55004955,
+        "access": "yes",
+        "addr:housenumber": "2091",
+        "addr:street": "Avenida Sapucaia",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "shed",
+        "building": "yes",
+        "capacity": "150",
+        "covered": "yes",
+        "fee": "no",
+        "lit": "yes",
+        "name": "Bicicletário Municipal",
+        "opening_hours": "Mo-Fr 05:00-23:55",
+        "operator": "Prefeitura",
+        "supervised": "yes",
+        "id": "way/528273465"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.1492282,
+              -29.8235468
+            ],
+            [
+              -51.1490954,
+              -29.8234449
+            ],
+            [
+              -51.1491218,
+              -29.8234191
+            ],
+            [
+              -51.1491311,
+              -29.8234099
+            ],
+            [
+              -51.1489266,
+              -29.823253
+            ],
+            [
+              -51.1489714,
+              -29.823209
+            ],
+            [
+              -51.1493087,
+              -29.8234679
+            ],
+            [
+              -51.1492282,
+              -29.8235468
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5134260612",
+      "properties": {
+        "timestamp": "2017-09-28T03:41:31Z",
+        "version": 1,
+        "changeset": 52430449,
+        "entrance": "main",
+        "id": "node/5134260612"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1491218,
+          -29.8234191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5168316210",
+      "properties": {
+        "timestamp": "2017-12-29T09:55:24Z",
+        "version": 2,
+        "changeset": 55004955,
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "wall_loops",
+        "capacity": "11",
+        "covered": "no",
+        "fee": "no",
+        "lit": "yes",
+        "supervised": "no",
+        "id": "node/5168316210"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1488571,
+          -29.8232136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5309977773",
+      "properties": {
+        "timestamp": "2017-12-29T09:55:22Z",
+        "version": 1,
+        "changeset": 55004955,
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "wall_loops",
+        "capacity": "10",
+        "covered": "no",
+        "fee": "no",
+        "lit": "yes",
+        "supervised": "no",
+        "id": "node/5309977773"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1477149,
+          -29.8225456
+        ]
+      }
+    }
+  ]
+}

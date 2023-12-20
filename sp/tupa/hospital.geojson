@@ -1,0 +1,88 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/558916410",
+      "properties": {
+        "timestamp": "2022-05-23T17:29:54Z",
+        "version": 2,
+        "changeset": 121381871,
+        "addr:housenumber": "426",
+        "addr:postcode": "17601-901",
+        "addr:street": "Rua Manoel Ferreira Damião",
+        "amenity": "hospital",
+        "email": "atendimento@santacasadetupa.org.br",
+        "emergency": "yes",
+        "name": "Santa Casa de Misericórdia de Tupã",
+        "phone": "+55-14-3404-5555",
+        "short_name": "Santa Casa",
+        "start_date": "1939-07-12",
+        "website": "https://www.santacasatupa.org.br/",
+        "id": "way/558916410"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -50.5184922,
+              -21.9226931
+            ],
+            [
+              -50.5192968,
+              -21.9232479
+            ],
+            [
+              -50.5186987,
+              -21.9238601
+            ],
+            [
+              -50.5194604,
+              -21.9243826
+            ],
+            [
+              -50.5188194,
+              -21.9250544
+            ],
+            [
+              -50.5172879,
+              -21.9239621
+            ],
+            [
+              -50.5184922,
+              -21.9226931
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1654393038",
+      "properties": {
+        "timestamp": "2023-07-21T04:04:59Z",
+        "version": 4,
+        "changeset": 138792166,
+        "addr:housenumber": "776",
+        "addr:postcode": "17600-010",
+        "addr:street": "Rua Coroados",
+        "addr:suburb": "Centro",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hospital São Francisco de Assis",
+        "phone": "+55 14 3404 3636",
+        "ref:CNES": "2080672",
+        "ref:vatin": "BR54722822000105",
+        "id": "node/1654393038"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.5135197,
+          -21.9362999
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/658030364",
+      "properties": {
+        "timestamp": "2023-07-13T23:57:59Z",
+        "version": 3,
+        "changeset": 138483606,
+        "addr:city": "Cachoeira do Sul",
+        "addr:housenumber": "3540",
+        "addr:street": "Estrada Volta da Charqueada",
+        "addr:suburb": "Volta da Charqueada",
+        "amenity": "social_facility",
+        "building": "yes",
+        "name": "Centro Mediúnico Marlon Santos",
+        "id": "way/658030364"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -52.8852548,
+              -30.0129037
+            ],
+            [
+              -52.8851988,
+              -30.0131625
+            ],
+            [
+              -52.8846991,
+              -30.0130857
+            ],
+            [
+              -52.8847645,
+              -30.0128107
+            ],
+            [
+              -52.8852548,
+              -30.0129037
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6083104529",
+      "properties": {
+        "timestamp": "2018-11-22T16:24:53Z",
+        "version": 1,
+        "changeset": 64787816,
+        "amenity": "social_facility",
+        "name": "APAE",
+        "id": "node/6083104529"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.9051945,
+          -30.0207782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6744775688",
+      "properties": {
+        "timestamp": "2019-08-28T17:01:33Z",
+        "version": 2,
+        "changeset": 73851306,
+        "amenity": "social_facility",
+        "name": "SESC",
+        "note": "Esse prédio já abrigou o banco Bamerindus e posteriormente o banco HSBC.",
+        "id": "node/6744775688"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.8947826,
+          -30.0432635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6757608779",
+      "properties": {
+        "timestamp": "2019-08-29T17:25:14Z",
+        "version": 1,
+        "changeset": 73893400,
+        "amenity": "social_facility",
+        "name": "Casa da Criança Sagrada Família",
+        "id": "node/6757608779"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.9095875,
+          -30.0303737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6757609849",
+      "properties": {
+        "timestamp": "2019-08-29T17:32:21Z",
+        "version": 2,
+        "changeset": 73893622,
+        "amenity": "social_facility",
+        "name": "Asilo da Velhice N. Sra. Medianeira",
+        "social_facility": "group_home",
+        "social_facility:for": "senior",
+        "id": "node/6757609849"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.9077818,
+          -30.0334335
+        ]
+      }
+    }
+  ]
+}

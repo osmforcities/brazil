@@ -1,0 +1,191 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/733172196",
+      "properties": {
+        "timestamp": "2023-09-02T16:07:35Z",
+        "version": 8,
+        "changeset": 140726495,
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "building",
+        "building": "yes",
+        "capacity": "334",
+        "covered": "yes",
+        "description": "Bicicletário da Estação Prefeito Celso Daniel - Santo André. Requer cadastro e apresentação de documentos. Visite o website para horários e detalhes.",
+        "fee": "no",
+        "name": "Bicicletário Terminal Metropolitano Santo André",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "operator": "EMTU",
+        "operator:type": "public",
+        "supervised": "yes",
+        "website": "https://www.cptm.sp.gov.br/sua-viagem/bicicletas-CPTM/Pages/Bicicletario.aspx",
+        "id": "way/733172196"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.529078,
+              -23.6515757
+            ],
+            [
+              -46.5290205,
+              -23.6515372
+            ],
+            [
+              -46.5290758,
+              -23.6514679
+            ],
+            [
+              -46.5291115,
+              -23.6514918
+            ],
+            [
+              -46.5290874,
+              -23.651522
+            ],
+            [
+              -46.5290776,
+              -23.6515342
+            ],
+            [
+              -46.5290995,
+              -23.6515489
+            ],
+            [
+              -46.529078,
+              -23.6515757
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/897358193",
+      "properties": {
+        "timestamp": "2023-02-14T21:27:06Z",
+        "version": 2,
+        "changeset": 132555572,
+        "access": "customers",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "shed",
+        "fee": "yes",
+        "id": "way/897358193"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.5334923,
+              -23.6460955
+            ],
+            [
+              -46.5335466,
+              -23.6461231
+            ],
+            [
+              -46.5334828,
+              -23.6462283
+            ],
+            [
+              -46.5334286,
+              -23.6462007
+            ],
+            [
+              -46.5334923,
+              -23.6460955
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6865741751",
+      "properties": {
+        "timestamp": "2023-09-02T16:07:35Z",
+        "version": 2,
+        "changeset": 140726495,
+        "entrance": "yes",
+        "id": "node/6865741751"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5290874,
+          -23.651522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7085961167",
+      "properties": {
+        "timestamp": "2019-12-27T15:33:45Z",
+        "version": 2,
+        "changeset": 78932281,
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "covered": "no",
+        "fee": "no",
+        "id": "node/7085961167"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5211336,
+          -23.6694081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7111841097",
+      "properties": {
+        "timestamp": "2023-09-20T03:52:32Z",
+        "version": 3,
+        "changeset": 141492339,
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "wall_loops",
+        "covered": "no",
+        "id": "node/7111841097"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5112817,
+          -23.6710987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7124826294",
+      "properties": {
+        "timestamp": "2020-01-11T19:31:15Z",
+        "version": 1,
+        "changeset": 79459024,
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "covered": "no",
+        "id": "node/7124826294"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5369956,
+          -23.6466729
+        ]
+      }
+    }
+  ]
+}

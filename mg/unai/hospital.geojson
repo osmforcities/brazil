@@ -1,0 +1,120 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/819017338",
+      "properties": {
+        "timestamp": "2023-05-22T22:07:29Z",
+        "version": 2,
+        "changeset": 136431736,
+        "addr:housenumber": "797",
+        "addr:postcode": "38610-021",
+        "addr:street": "Rua Alba Gonzaga",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hospital São Lucas",
+        "phone": "+55 38 3676 1917",
+        "ref:CNES": "2796473",
+        "ref:vatin": "BR20773073000123",
+        "website": "http://www.saolucasunai.com.br",
+        "id": "way/819017338"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.8998274,
+              -16.3665031
+            ],
+            [
+              -46.8997121,
+              -16.3666987
+            ],
+            [
+              -46.8994338,
+              -16.3665765
+            ],
+            [
+              -46.8993963,
+              -16.3666479
+            ],
+            [
+              -46.8993178,
+              -16.3664632
+            ],
+            [
+              -46.8993956,
+              -16.3663191
+            ],
+            [
+              -46.8994982,
+              -16.3663777
+            ],
+            [
+              -46.8995203,
+              -16.3663371
+            ],
+            [
+              -46.8998274,
+              -16.3665031
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1228585870",
+      "properties": {
+        "timestamp": "2023-05-22T22:07:29Z",
+        "version": 5,
+        "changeset": 136431736,
+        "addr:housenumber": "1585",
+        "addr:postcode": "38616-068",
+        "addr:street": "Rua Virgílio Justiniano Ribeiro",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hospital Municipal Doutor Joaquim Brochado",
+        "operator:ref:vatin": "BR18125161000177",
+        "phone": "+55 38 3677 5066",
+        "ref:CNES": "2760924",
+        "id": "node/1228585870"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.9011825,
+          -16.368522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1228586311",
+      "properties": {
+        "timestamp": "2023-05-22T22:07:29Z",
+        "version": 4,
+        "changeset": 136431736,
+        "addr:housenumber": "325",
+        "addr:postcode": "38610-066",
+        "addr:street": "Avenida José Luiz Adjuto",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hospital Santa Mônica",
+        "ref:CNES": "4027612",
+        "ref:vatin": "BR46009318000134",
+        "website": "https://santamonicaunai.com.br/",
+        "id": "node/1228586311"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.9033822,
+          -16.3577708
+        ]
+      }
+    }
+  ]
+}

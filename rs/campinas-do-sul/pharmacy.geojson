@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/967880862",
+      "properties": {
+        "timestamp": "2021-07-27T14:36:35Z",
+        "version": 1,
+        "changeset": 108695219,
+        "amenity": "pharmacy",
+        "building": "yes",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "id": "way/967880862"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -52.6260032,
+              -27.7170945
+            ],
+            [
+              -52.6259907,
+              -27.7171916
+            ],
+            [
+              -52.6258112,
+              -27.7171734
+            ],
+            [
+              -52.6258238,
+              -27.7170764
+            ],
+            [
+              -52.6260032,
+              -27.7170945
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8954357413",
+      "properties": {
+        "timestamp": "2021-07-27T14:36:35Z",
+        "version": 1,
+        "changeset": 108695219,
+        "addr:city": "Campinas do Sul",
+        "addr:postcode": "99660-000",
+        "addr:street": "Avenida Mauricio Cardoso",
+        "addr:suburb": "Centro",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Líder Farma",
+        "id": "node/8954357413"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.6259117,
+          -27.7171291
+        ]
+      }
+    }
+  ]
+}

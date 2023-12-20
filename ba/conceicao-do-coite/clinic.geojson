@@ -1,0 +1,134 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/248949353",
+      "properties": {
+        "timestamp": "2020-04-10T16:55:53Z",
+        "version": 4,
+        "changeset": 83375538,
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "Clinica São José",
+        "id": "way/248949353"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -39.2825082,
+              -11.5670277
+            ],
+            [
+              -39.2829676,
+              -11.5672269
+            ],
+            [
+              -39.2829451,
+              -11.5672789
+            ],
+            [
+              -39.2828883,
+              -11.5674101
+            ],
+            [
+              -39.2824289,
+              -11.5672329
+            ],
+            [
+              -39.2825082,
+              -11.5670277
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2054895413",
+      "properties": {
+        "timestamp": "2020-04-10T16:55:53Z",
+        "version": 3,
+        "changeset": 83375538,
+        "amenity": "clinic",
+        "description": "Clínica Especializada em Cardiologia",
+        "healthcare": "clinic",
+        "name": "Cardioclin",
+        "id": "node/2054895413"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.285409,
+          -11.5609486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2100444312",
+      "properties": {
+        "timestamp": "2020-04-10T16:55:53Z",
+        "version": 2,
+        "changeset": 83375538,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "CEREST-Centro de Referência em Saúde do Trabalhador",
+        "id": "node/2100444312"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.2827406,
+          -11.5667097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2880947679",
+      "properties": {
+        "timestamp": "2015-06-26T19:14:15Z",
+        "version": 2,
+        "changeset": 32231111,
+        "access": "public",
+        "amenity": "clinic",
+        "emergency": "no",
+        "name": "Posto de Saúde",
+        "id": "node/2880947679"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.175255,
+          -11.5959291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9937334435",
+      "properties": {
+        "timestamp": "2023-03-25T05:01:17Z",
+        "version": 2,
+        "changeset": 134091779,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "chiropractic;physical_therapy",
+        "name": "Clínica  CEME",
+        "opening_hours": "Mo-Fr 07:00-19:00; Sa 08:00-12:00",
+        "id": "node/9937334435"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.2801908,
+          -11.5664539
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/655724664",
+      "properties": {
+        "timestamp": "2023-08-08T00:03:06Z",
+        "version": 3,
+        "changeset": 139587229,
+        "addr:city": "Olímpia",
+        "addr:housenumber": "2721",
+        "addr:postcode": "15402-342",
+        "addr:street": "Rua Benjamin Constant",
+        "addr:suburb": "Jardim Tropical 2",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "Ubs Doutor Waldemar Lopes Ferraz",
+        "official_name": "Unidade Básica de Saúde Doutor Waldemar Lopes Ferraz",
+        "opening_hours": "Mo-Fr 07:00-17:00",
+        "operator": "Prefeitura Municipal",
+        "operator:ref:vatin": "BR46596151000155",
+        "phone": "+55 17 3279 9341",
+        "ref:CNES": "2062925",
+        "id": "way/655724664"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.9310312,
+              -20.7351789
+            ],
+            [
+              -48.9308623,
+              -20.7352193
+            ],
+            [
+              -48.9308359,
+              -20.7351227
+            ],
+            [
+              -48.9310048,
+              -20.7350822
+            ],
+            [
+              -48.9310312,
+              -20.7351789
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4145048887",
+      "properties": {
+        "timestamp": "2016-04-24T19:40:25Z",
+        "version": 1,
+        "changeset": 38840990,
+        "addr:suburb": "Centro",
+        "amenity": "clinic",
+        "name": "UBSF Doutor Custódio Ribeiro de Carvalho",
+        "id": "node/4145048887"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.9533787,
+          -20.6089805
+        ]
+      }
+    }
+  ]
+}

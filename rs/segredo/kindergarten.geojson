@@ -1,0 +1,78 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "relation/7337425",
+      "properties": {
+        "timestamp": "2017-06-16T20:53:45Z",
+        "version": 1,
+        "changeset": 49601985,
+        "amenity": "kindergarten",
+        "max_age": "5 years 11 months",
+        "min_age": "0",
+        "source": "Bing;FNDE",
+        "type": "multipolygon",
+        "wheelchair": "yes",
+        "id": "relation/7337425"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -52.9796419,
+              -29.3462083
+            ],
+            [
+              -52.9796836,
+              -29.3462351
+            ],
+            [
+              -52.9800262,
+              -29.3464152
+            ],
+            [
+              -52.9795871,
+              -29.3469253
+            ],
+            [
+              -52.9789976,
+              -29.34669
+            ],
+            [
+              -52.9794259,
+              -29.3460922
+            ],
+            [
+              -52.9794954,
+              -29.3461258
+            ],
+            [
+              -52.9796419,
+              -29.3462083
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9755820845",
+      "properties": {
+        "timestamp": "2022-05-19T22:26:04Z",
+        "version": 1,
+        "changeset": 121216067,
+        "amenity": "kindergarten",
+        "id": "node/9755820845"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.9794518,
+          -29.3465492
+        ]
+      }
+    }
+  ]
+}

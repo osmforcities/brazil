@@ -1,0 +1,93 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/255236408",
+      "properties": {
+        "timestamp": "2019-10-16T16:03:19Z",
+        "version": 9,
+        "changeset": 75791876,
+        "amenity": "community_centre",
+        "building": "yes",
+        "building:material": "concrete",
+        "community_centre": "community_hall",
+        "height": "4.4",
+        "name": "Centro de Pastoral",
+        "roof:height": "0.8",
+        "roof:material": "roof_tiles",
+        "roof:shape": "hipped",
+        "id": "way/255236408"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -37.5216168,
+              -6.9057219
+            ],
+            [
+              -37.5214352,
+              -6.9057097
+            ],
+            [
+              -37.5214512,
+              -6.9054996
+            ],
+            [
+              -37.5215094,
+              -6.9055035
+            ],
+            [
+              -37.5215804,
+              -6.9055083
+            ],
+            [
+              -37.5215791,
+              -6.9055263
+            ],
+            [
+              -37.52163,
+              -6.9055298
+            ],
+            [
+              -37.5216267,
+              -6.9055774
+            ],
+            [
+              -37.521618,
+              -6.9057049
+            ],
+            [
+              -37.5216168,
+              -6.9057219
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5441308512",
+      "properties": {
+        "timestamp": "2019-10-16T16:03:19Z",
+        "version": 3,
+        "changeset": 75791876,
+        "addr:city": "Malta",
+        "addr:housenumber": "114",
+        "addr:postcode": "58713-000",
+        "addr:street": "Rua Dom José de Medeiros Delgado",
+        "source": "IBGE; survey",
+        "id": "node/5441308512"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.5215094,
+          -6.9055035
+        ]
+      }
+    }
+  ]
+}

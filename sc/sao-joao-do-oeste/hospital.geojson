@@ -1,0 +1,227 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "relation/15664391",
+      "properties": {
+        "timestamp": "2023-04-22T19:24:41Z",
+        "version": 7,
+        "changeset": 135240693,
+        "addr:city": "São João do Oeste",
+        "addr:housenumber": "88",
+        "addr:postcode": "89897-000",
+        "addr:street": "Rua Encantado",
+        "addr:suburb": "Centro",
+        "amenity": "hospital",
+        "description": "Hospital filantrópico de utilidade pública conveniado ao Sistema Único de Saúde (SUS), a planos de saúde suplementar ou com atendimento particular.",
+        "email": "hospitalsjo@gmail.com",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "lit": "yes",
+        "name": "Hospital Santa Casa Rural",
+        "network": "Sistema Único de Saúde",
+        "network:short": "SUS",
+        "network:website": "https://conectesus.saude.gov.br/",
+        "network:wikidata": "Q7531056",
+        "network:wikipedia": "pt:Sistema Único de Saúde",
+        "opening_hours": "24/7",
+        "operator": "Instituto de Assistência e Educação São João",
+        "operator:type": "charitable",
+        "owner": "Instituto de Assistência e Educação São João",
+        "ownership": "private_nonprofit",
+        "phone": "+55-49-3636-1133",
+        "short_name": "HSCR",
+        "start_date": "1966",
+        "type": "multipolygon",
+        "wheelchair": "limited",
+        "id": "relation/15664391"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -53.5946861,
+              -27.0988464
+            ],
+            [
+              -53.5948741,
+              -27.0989353
+            ],
+            [
+              -53.5947257,
+              -27.0992257
+            ],
+            [
+              -53.5947955,
+              -27.0992568
+            ],
+            [
+              -53.5948209,
+              -27.0992974
+            ],
+            [
+              -53.594837,
+              -27.0993451
+            ],
+            [
+              -53.5948437,
+              -27.0994048
+            ],
+            [
+              -53.5948129,
+              -27.0994777
+            ],
+            [
+              -53.5947217,
+              -27.0995552
+            ],
+            [
+              -53.5945284,
+              -27.0994911
+            ],
+            [
+              -53.5944441,
+              -27.0994418
+            ],
+            [
+              -53.5944653,
+              -27.0993902
+            ],
+            [
+              -53.5942712,
+              -27.0992985
+            ],
+            [
+              -53.5942231,
+              -27.0992757
+            ],
+            [
+              -53.5941014,
+              -27.0992182
+            ],
+            [
+              -53.5940725,
+              -27.0992045
+            ],
+            [
+              -53.5939331,
+              -27.0991386
+            ],
+            [
+              -53.5939871,
+              -27.099048
+            ],
+            [
+              -53.5940217,
+              -27.09899
+            ],
+            [
+              -53.5941496,
+              -27.0987755
+            ],
+            [
+              -53.5942347,
+              -27.098633
+            ],
+            [
+              -53.5945354,
+              -27.0987751
+            ],
+            [
+              -53.5945744,
+              -27.0987936
+            ],
+            [
+              -53.5946861,
+              -27.0988464
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1152906795",
+      "properties": {
+        "timestamp": "2023-03-30T23:22:24Z",
+        "version": 9,
+        "changeset": 134322784,
+        "barrier": "retaining_wall",
+        "height": "1.5",
+        "material": "masonry",
+        "id": "way/1152906795"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -53.5940217,
+            -27.09899
+          ],
+          [
+            -53.5941496,
+            -27.0987755
+          ],
+          [
+            -53.5942347,
+            -27.098633
+          ],
+          [
+            -53.5945354,
+            -27.0987751
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1158564351",
+      "properties": {
+        "timestamp": "2023-03-30T23:22:24Z",
+        "version": 1,
+        "changeset": 134322784,
+        "barrier": "retaining_wall",
+        "height": "1.5",
+        "material": "masonry",
+        "id": "way/1158564351"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -53.5939331,
+            -27.0991386
+          ],
+          [
+            -53.5939871,
+            -27.099048
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10774360023",
+      "properties": {
+        "timestamp": "2023-05-04T14:28:03Z",
+        "version": 4,
+        "changeset": 135703902,
+        "access": "yes",
+        "barrier": "entrance",
+        "motor_vehicle": "no",
+        "wheelchair": "no",
+        "id": "node/10774360023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.5941496,
+          -27.0987755
+        ]
+      }
+    }
+  ]
+}

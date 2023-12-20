@@ -1,0 +1,87 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/573572685",
+      "properties": {
+        "timestamp": "2018-03-27T12:14:01Z",
+        "version": 1,
+        "changeset": 57565630,
+        "amenity": "school",
+        "name": "Desativada",
+        "operator": "Municipal",
+        "id": "way/573572685"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.9965262,
+              -22.0869918
+            ],
+            [
+              -44.99647,
+              -22.0870576
+            ],
+            [
+              -44.9963017,
+              -22.0869467
+            ],
+            [
+              -44.9963578,
+              -22.0868843
+            ],
+            [
+              -44.9965262,
+              -22.0869918
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4853958988",
+      "properties": {
+        "timestamp": "2017-05-14T17:28:53Z",
+        "version": 1,
+        "changeset": 48679221,
+        "addr:housenumber": "790",
+        "addr:street": "Rua Manoel Guimarães",
+        "amenity": "school",
+        "name": "Escola Estadual Dona Mariana Carvalhar Costa",
+        "phone": "+55 35 33331140",
+        "source": "IBGE; Rede Estadual MG",
+        "id": "node/4853958988"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.0395358,
+          -22.0582656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4853958989",
+      "properties": {
+        "timestamp": "2017-05-14T17:28:53Z",
+        "version": 1,
+        "changeset": 48679221,
+        "amenity": "school",
+        "description": "Escola Municipal",
+        "id": "node/4853958989"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.0406194,
+          -22.0586012
+        ]
+      }
+    }
+  ]
+}

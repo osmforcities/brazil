@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/430111701",
+      "properties": {
+        "timestamp": "2021-04-21T11:27:32Z",
+        "version": 3,
+        "changeset": 103336241,
+        "addr:city": "Mirassol",
+        "addr:housenumber": "2133",
+        "addr:postcode": "15130-000",
+        "addr:street": "Rua Armando Sales de Oliveira",
+        "addr:suburb": "Centro",
+        "amenity": "pharmacy",
+        "brand": "Droga Raia",
+        "brand:wikidata": "Q10357101",
+        "brand:wikipedia": "pt:RaiaDrogasil",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Droga Raia",
+        "opening_hours": "24/7",
+        "phone": "+55 17 3253 1381",
+        "wheelchair": "yes",
+        "id": "way/430111701"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.5128474,
+              -20.8181353
+            ],
+            [
+              -49.5131331,
+              -20.8181213
+            ],
+            [
+              -49.5131395,
+              -20.8182197
+            ],
+            [
+              -49.5128538,
+              -20.8182446
+            ],
+            [
+              -49.5128474,
+              -20.8181353
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4300937934",
+      "properties": {
+        "timestamp": "2022-11-19T20:27:15Z",
+        "version": 4,
+        "changeset": 129137371,
+        "addr:city": "Mirassol",
+        "addr:housenumber": "2051",
+        "addr:postcode": "15130-970",
+        "addr:state": "SP",
+        "addr:street": "Rua Quintino Bocaiúva",
+        "addr:suburb": "Centro",
+        "amenity": "pharmacy",
+        "brand": "Drogaria São Paulo",
+        "brand:wikidata": "Q5308184",
+        "brand:wikipedia": "en:Grupo DPSP",
+        "healthcare": "pharmacy",
+        "name": "Drogaria São Paulo",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+55 17 3253 3300",
+        "wheelchair": "yes",
+        "id": "node/4300937934"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.5121314,
+          -20.8164348
+        ]
+      }
+    }
+  ]
+}

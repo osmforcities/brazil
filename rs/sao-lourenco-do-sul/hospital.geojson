@@ -1,0 +1,112 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/296207654",
+      "properties": {
+        "timestamp": "2023-06-16T02:10:05Z",
+        "version": 4,
+        "changeset": 137394205,
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "id": "way/296207654"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.9784426,
+              -31.3647948
+            ],
+            [
+              -51.9777475,
+              -31.3645308
+            ],
+            [
+              -51.9780026,
+              -31.3640411
+            ],
+            [
+              -51.9786977,
+              -31.3643051
+            ],
+            [
+              -51.978633,
+              -31.3644293
+            ],
+            [
+              -51.9785976,
+              -31.3644973
+            ],
+            [
+              -51.9784426,
+              -31.3647948
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2076103934",
+      "properties": {
+        "timestamp": "2023-05-20T20:49:42Z",
+        "version": 5,
+        "changeset": 136352914,
+        "addr:housenumber": "0001",
+        "addr:postcode": "96170-000",
+        "addr:street": "São João da Reserva",
+        "addr:suburb": "Distrito",
+        "amenity": "hospital",
+        "email": "centrosaudereserva@hotmail.com",
+        "emergency": "yes",
+        "fax": "+55 53 3611 9043",
+        "healthcare": "hospital",
+        "name": "Hospital da Reserva",
+        "phone": "+55 53 3251 7920",
+        "ref:CNES": "2233371",
+        "ref:vatin": "BR90938713000193",
+        "id": "node/2076103934"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.1582828,
+          -31.2991398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2780577486",
+      "properties": {
+        "timestamp": "2023-06-16T02:10:05Z",
+        "version": 6,
+        "changeset": 137394205,
+        "addr:city": "São Lourenço do Sul",
+        "addr:housenumber": "437",
+        "addr:postcode": "96170-000",
+        "addr:street": "Rua Almirante Abreu",
+        "addr:suburb": "Centro",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Hospital Santa Casa",
+        "phone": "+55 53 3251-3188",
+        "ref:CNES": "2233312",
+        "ref:vatin": "BR97011688000147",
+        "id": "node/2780577486"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.9786573,
+          -31.3643659
+        ]
+      }
+    }
+  ]
+}

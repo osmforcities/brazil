@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1197712271",
+      "properties": {
+        "timestamp": "2023-08-13T14:21:10Z",
+        "version": 1,
+        "changeset": 139826700,
+        "amenity": "veterinary",
+        "building": "yes",
+        "name": "La Vida Pet",
+        "id": "way/1197712271"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.9118927,
+              -26.7102397
+            ],
+            [
+              -48.9118746,
+              -26.7101172
+            ],
+            [
+              -48.9121672,
+              -26.7100828
+            ],
+            [
+              -48.9121852,
+              -26.7102053
+            ],
+            [
+              -48.9118927,
+              -26.7102397
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11114566345",
+      "properties": {
+        "timestamp": "2023-08-14T15:41:30Z",
+        "version": 1,
+        "changeset": 139877700,
+        "addr:city": "Luiz Alves",
+        "addr:postcode": "89128-000",
+        "addr:street": "Rua Vereador Crisóstomo Gesser",
+        "addr:suburb": "Vila do Salto",
+        "amenity": "veterinary",
+        "operator": "Prefeitura Municipal de Luiz Alves",
+        "id": "node/11114566345"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.9067061,
+          -26.7104677
+        ]
+      }
+    }
+  ]
+}

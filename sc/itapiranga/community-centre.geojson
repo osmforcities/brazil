@@ -1,0 +1,90 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/223077699",
+      "properties": {
+        "timestamp": "2016-11-20T02:25:42Z",
+        "version": 3,
+        "changeset": 43813664,
+        "amenity": "community_centre",
+        "building": "yes",
+        "name": "Sociedade Cruzeiro do Sul",
+        "id": "way/223077699"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -53.7180953,
+              -27.0317297
+            ],
+            [
+              -53.7180749,
+              -27.0316501
+            ],
+            [
+              -53.7179516,
+              -27.031675
+            ],
+            [
+              -53.7178876,
+              -27.0314244
+            ],
+            [
+              -53.7181084,
+              -27.0313796
+            ],
+            [
+              -53.7181279,
+              -27.0314557
+            ],
+            [
+              -53.7182705,
+              -27.0314268
+            ],
+            [
+              -53.7183354,
+              -27.0316811
+            ],
+            [
+              -53.7180953,
+              -27.0317297
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2489963744",
+      "properties": {
+        "timestamp": "2023-05-03T13:49:56Z",
+        "version": 2,
+        "changeset": 135662021,
+        "addr:city": "Itapiranga",
+        "addr:country": "BR",
+        "addr:hamlet": "Presidente Becker",
+        "addr:postcode": "89896-000",
+        "addr:state": "SC",
+        "addr:street": "Linha Presidente Becker",
+        "amenity": "community_centre",
+        "community_centre": "events_venue",
+        "fee": "yes",
+        "name": "Oktoberfest Linha Becker",
+        "nohousenumber": "yes",
+        "tourism": "attraction",
+        "id": "node/2489963744"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.773033,
+          -27.1148084
+        ]
+      }
+    }
+  ]
+}

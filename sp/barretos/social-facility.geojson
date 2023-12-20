@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/509707765",
+      "properties": {
+        "timestamp": "2021-04-16T18:06:30Z",
+        "version": 2,
+        "changeset": 103075379,
+        "amenity": "social_facility",
+        "building": "yes",
+        "name": "Avcc-Associação Voluntária de Combate Ao Câncer de Barretos",
+        "operator": "AVCC Barretos",
+        "operator:type": "private",
+        "id": "way/509707765"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.5698768,
+              -20.581486
+            ],
+            [
+              -48.5698779,
+              -20.5817125
+            ],
+            [
+              -48.5697656,
+              -20.5817136
+            ],
+            [
+              -48.5697712,
+              -20.5814865
+            ],
+            [
+              -48.5698768,
+              -20.581486
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4788418402",
+      "properties": {
+        "timestamp": "2017-04-11T14:19:41Z",
+        "version": 1,
+        "changeset": 47658931,
+        "amenity": "social_facility",
+        "name": "lar do Maçon",
+        "social_facility": "group_home",
+        "social_facility:for": "senior",
+        "wheelchair": "yes",
+        "id": "node/4788418402"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.5766011,
+          -20.5794004
+        ]
+      }
+    }
+  ]
+}

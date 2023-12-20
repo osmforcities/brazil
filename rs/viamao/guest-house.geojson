@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "relation/12364288",
+      "properties": {
+        "timestamp": "2021-02-25T15:14:55Z",
+        "version": 1,
+        "changeset": 99986017,
+        "name": "Pousada Itapuã",
+        "phone": "+55 51 3494-1158",
+        "tourism": "guest_house",
+        "type": "multipolygon",
+        "website": "https://www.pousadaitapua-rs.com/",
+        "id": "relation/12364288"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.0223044,
+              -30.284612
+            ],
+            [
+              -51.0223834,
+              -30.2849352
+            ],
+            [
+              -51.0223559,
+              -30.2850313
+            ],
+            [
+              -51.0215271,
+              -30.284699
+            ],
+            [
+              -51.021627,
+              -30.2844673
+            ],
+            [
+              -51.0223044,
+              -30.284612
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/910881911",
+      "properties": {
+        "timestamp": "2021-02-25T15:14:55Z",
+        "version": 1,
+        "changeset": 99986017,
+        "barrier": "fence",
+        "id": "way/910881911"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -51.0223044,
+            -30.284612
+          ],
+          [
+            -51.0223834,
+            -30.2849352
+          ],
+          [
+            -51.0223559,
+            -30.2850313
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2627572050",
+      "properties": {
+        "timestamp": "2014-01-18T20:34:13Z",
+        "version": 1,
+        "changeset": 20073618,
+        "tourism": "guest_house",
+        "id": "node/2627572050"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.978143,
+          -30.0350441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4474995968",
+      "properties": {
+        "timestamp": "2016-11-01T12:27:41Z",
+        "version": 1,
+        "changeset": 43324817,
+        "amenity": "restaurant",
+        "name": "Restaurante Boa Vista",
+        "tourism": "guest_house",
+        "id": "node/4474995968"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.7976455,
+          -30.1162009
+        ]
+      }
+    }
+  ]
+}

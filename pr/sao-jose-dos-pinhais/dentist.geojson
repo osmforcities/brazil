@@ -1,0 +1,84 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/530536795",
+      "properties": {
+        "timestamp": "2022-07-29T16:54:16Z",
+        "version": 2,
+        "changeset": 124240233,
+        "addr:housenumber": "1160",
+        "addr:street": "Rua Verissimo Marques",
+        "addr:suburb": "Centro",
+        "amenity": "dentist",
+        "email": "vaccariodontologia@hotmail.com",
+        "fixme": "30353401 precisa do ddd",
+        "name": "Vaccari",
+        "opening_hours": "Mo-Fr 08:00-18:00",
+        "payment:coins": "no",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:notes": "yes",
+        "payment:visa": "yes",
+        "payment:visa_electron": "yes",
+        "wheelchair": "yes",
+        "id": "way/530536795"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.2019805,
+              -25.5354233
+            ],
+            [
+              -49.2019462,
+              -25.535348
+            ],
+            [
+              -49.2019307,
+              -25.5353538
+            ],
+            [
+              -49.2018901,
+              -25.5352649
+            ],
+            [
+              -49.2020008,
+              -25.5352237
+            ],
+            [
+              -49.2020757,
+              -25.5353879
+            ],
+            [
+              -49.2019805,
+              -25.5354233
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5179851076",
+      "properties": {
+        "timestamp": "2021-06-24T05:04:43Z",
+        "version": 2,
+        "changeset": 106870912,
+        "amenity": "dentist",
+        "name": "Luís",
+        "id": "node/5179851076"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.1960505,
+          -25.5434313
+        ]
+      }
+    }
+  ]
+}

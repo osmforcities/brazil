@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/737473190",
+      "properties": {
+        "timestamp": "2019-10-22T05:12:43Z",
+        "version": 1,
+        "changeset": 76027470,
+        "amenity": "bicycle_parking",
+        "id": "way/737473190"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.2180398,
+              -9.4378597
+            ],
+            [
+              -38.2180104,
+              -9.4378925
+            ],
+            [
+              -38.2180045,
+              -9.4378873
+            ],
+            [
+              -38.2180339,
+              -9.4378545
+            ],
+            [
+              -38.2180398,
+              -9.4378597
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9945614549",
+      "properties": {
+        "timestamp": "2022-08-10T17:37:25Z",
+        "version": 1,
+        "changeset": 124742208,
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "rack",
+        "capacity": "18",
+        "operator": "UniRios",
+        "operator:type": "public",
+        "id": "node/9945614549"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.2216977,
+          -9.4105654
+        ]
+      }
+    }
+  ]
+}

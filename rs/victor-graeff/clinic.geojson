@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/650816719",
+      "properties": {
+        "timestamp": "2018-11-29T23:32:32Z",
+        "version": 1,
+        "changeset": 65027777,
+        "amenity": "clinic",
+        "building": "yes",
+        "operator": "Prefeitura",
+        "source": "IBGE Urbano",
+        "id": "way/650816719"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -52.6601569,
+              -28.4845008
+            ],
+            [
+              -52.6600738,
+              -28.4844265
+            ],
+            [
+              -52.6601273,
+              -28.4843802
+            ],
+            [
+              -52.6602105,
+              -28.4844545
+            ],
+            [
+              -52.6601569,
+              -28.4845008
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5676229649",
+      "properties": {
+        "timestamp": "2018-06-08T19:26:46Z",
+        "version": 1,
+        "changeset": 59677041,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "id": "node/5676229649"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.7469687,
+          -28.5666791
+        ]
+      }
+    }
+  ]
+}

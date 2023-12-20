@@ -1,0 +1,72 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/154784660",
+      "properties": {
+        "timestamp": "2018-07-15T16:48:43Z",
+        "version": 2,
+        "changeset": 60735961,
+        "addr:city": "Açailândia",
+        "addr:postcode": "65930-000",
+        "addr:street": "BR-222, 3200,",
+        "addr:suburb": "Conjunto COAB",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Unidade de Pronto Atendimento - UPA 24H",
+        "id": "way/154784660"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.4790094,
+              -4.9495085
+            ],
+            [
+              -47.4788112,
+              -4.9498602
+            ],
+            [
+              -47.4784064,
+              -4.9496336
+            ],
+            [
+              -47.4786047,
+              -4.949282
+            ],
+            [
+              -47.4790094,
+              -4.9495085
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6416353684",
+      "properties": {
+        "timestamp": "2019-04-19T14:35:52Z",
+        "version": 1,
+        "changeset": 69378162,
+        "addr:city": "Nova Conquista",
+        "addr:street": "Rua do Campo",
+        "amenity": "hospital",
+        "emergency": "no",
+        "healthcare": "hospital",
+        "name": "UBS DR JOSUÉ DE CASTRO",
+        "id": "node/6416353684"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.746304,
+          -4.9558461
+        ]
+      }
+    }
+  ]
+}

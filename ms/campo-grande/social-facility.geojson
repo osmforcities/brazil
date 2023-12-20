@@ -1,0 +1,224 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "relation/6332141",
+      "properties": {
+        "timestamp": "2020-08-12T16:57:23Z",
+        "version": 3,
+        "changeset": 89315224,
+        "addr:street": "Avenida José Nogueira Vieira",
+        "amenity": "social_facility",
+        "name": "Asilo São João Bosco",
+        "operator": "Igreja Católica",
+        "social_facility:for": "senior",
+        "type": "multipolygon",
+        "wall": "yes",
+        "wheelchair": "yes",
+        "id": "relation/6332141"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -54.5750302,
+              -20.4771419
+            ],
+            [
+              -54.5734434,
+              -20.4784846
+            ],
+            [
+              -54.5718266,
+              -20.4773151
+            ],
+            [
+              -54.5733791,
+              -20.4760023
+            ],
+            [
+              -54.5750302,
+              -20.4771419
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/199243588",
+      "properties": {
+        "timestamp": "2023-01-23T17:49:47Z",
+        "version": 3,
+        "changeset": 131618162,
+        "addr:housenumber": "1175",
+        "addr:street": "Rua dos Topógrafos",
+        "amenity": "social_facility",
+        "name": "CRAS Doutor Fauze Duailibi Amizo",
+        "social_facility": "outreach",
+        "social_facility:for": "underprivileged",
+        "id": "way/199243588"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -54.6083436,
+              -20.540205
+            ],
+            [
+              -54.6088398,
+              -20.5402567
+            ],
+            [
+              -54.6087476,
+              -20.5410327
+            ],
+            [
+              -54.607775,
+              -20.5409313
+            ],
+            [
+              -54.6078107,
+              -20.540631
+            ],
+            [
+              -54.6082871,
+              -20.5406805
+            ],
+            [
+              -54.6083436,
+              -20.540205
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/207687263",
+      "properties": {
+        "timestamp": "2023-01-23T17:49:47Z",
+        "version": 5,
+        "changeset": 131618162,
+        "addr:housenumber": "8",
+        "addr:street": "Rua Kamiei Simabuco",
+        "amenity": "social_facility",
+        "name": "CRAS  Nossa Senhora Aparecida",
+        "social_facility": "outreach",
+        "social_facility:for": "underprivileged",
+        "id": "way/207687263"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -54.5838649,
+              -20.426438
+            ],
+            [
+              -54.5836338,
+              -20.4266204
+            ],
+            [
+              -54.5835005,
+              -20.4267257
+            ],
+            [
+              -54.583489,
+              -20.4267347
+            ],
+            [
+              -54.5833145,
+              -20.4268725
+            ],
+            [
+              -54.5832734,
+              -20.4269017
+            ],
+            [
+              -54.5828955,
+              -20.4264946
+            ],
+            [
+              -54.582748,
+              -20.4263524
+            ],
+            [
+              -54.5838633,
+              -20.4264056
+            ],
+            [
+              -54.5838649,
+              -20.426438
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/425929618",
+      "properties": {
+        "timestamp": "2021-09-18T05:12:05Z",
+        "version": 3,
+        "changeset": 111361107,
+        "wall": "dry_stone",
+        "id": "way/425929618"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -54.5750302,
+            -20.4771419
+          ],
+          [
+            -54.5733791,
+            -20.4760023
+          ],
+          [
+            -54.5718266,
+            -20.4773151
+          ],
+          [
+            -54.5734434,
+            -20.4784846
+          ],
+          [
+            -54.5750302,
+            -20.4771419
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3884785985",
+      "properties": {
+        "timestamp": "2023-02-01T18:33:06Z",
+        "version": 2,
+        "changeset": 131973673,
+        "addr:city": "Campo Grande",
+        "alt_name": "Centro de Referência Especializado para População em Situação de Rua",
+        "amenity": "social_facility",
+        "building": "public",
+        "name": "Centro POP",
+        "social_facility": "outreach",
+        "social_facility:for": "homeless",
+        "id": "node/3884785985"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.5553934,
+          -20.4608082
+        ]
+      }
+    }
+  ]
+}

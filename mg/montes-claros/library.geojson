@@ -1,0 +1,86 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/461381418",
+      "properties": {
+        "timestamp": "2017-12-19T14:30:47Z",
+        "version": 2,
+        "changeset": 54761317,
+        "amenity": "library",
+        "building": "yes",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "Biblioteca Universitária José Carlos Valle de Lima",
+        "source": "UFMG",
+        "id": "way/461381418"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.8420536,
+              -16.6815536
+            ],
+            [
+              -43.842011,
+              -16.6817777
+            ],
+            [
+              -43.8417876,
+              -16.6817387
+            ],
+            [
+              -43.8418302,
+              -16.6815146
+            ],
+            [
+              -43.8420536,
+              -16.6815536
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1682705220",
+      "properties": {
+        "timestamp": "2012-03-20T03:56:31Z",
+        "version": 1,
+        "changeset": 11037108,
+        "amenity": "library",
+        "name": "Biblioteca Municipal",
+        "id": "node/1682705220"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.8662489,
+          -16.7203547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1682738134",
+      "properties": {
+        "timestamp": "2012-03-20T04:37:46Z",
+        "version": 2,
+        "changeset": 11037108,
+        "amenity": "library",
+        "ref": "Biotecnico Biblioteca",
+        "id": "node/1682738134"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.8662757,
+          -16.7277578
+        ]
+      }
+    }
+  ]
+}

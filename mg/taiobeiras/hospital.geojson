@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1177982344",
+      "properties": {
+        "timestamp": "2023-06-01T00:00:40Z",
+        "version": 1,
+        "changeset": 136809010,
+        "addr:city": "Taiobeiras",
+        "addr:housenumber": "194",
+        "addr:postcode": "39550-000",
+        "addr:street": "Rua Grão Mogol",
+        "addr:suburb": "Centro",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "Hospital Santo Antônio",
+        "note": "Geometria aproximada. Convertida de ponto para área para permitir por o ambulatório",
+        "operator": "Fundação Taiobeiras",
+        "operator:type": "public",
+        "phone": "+55 38 3845 1311",
+        "ref:CNES": "2098369",
+        "ref:vatin": "BR18699918000136",
+        "id": "way/1177982344"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.2313814,
+              -15.8091746
+            ],
+            [
+              -42.2314529,
+              -15.8094038
+            ],
+            [
+              -42.2313095,
+              -15.8094452
+            ],
+            [
+              -42.231238,
+              -15.809216
+            ],
+            [
+              -42.2313814,
+              -15.8091746
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2578270727",
+      "properties": {
+        "timestamp": "2023-04-05T17:15:42Z",
+        "version": 4,
+        "changeset": 134547495,
+        "addr:city": "Taiobeiras",
+        "addr:housenumber": "205",
+        "addr:postcode": "39550-000",
+        "addr:street": "Avenida São João do Paraíso",
+        "addr:suburb": "Centro",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "Pronto Socorro Municipal",
+        "id": "node/2578270727"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.2309925,
+          -15.8097898
+        ]
+      }
+    }
+  ]
+}

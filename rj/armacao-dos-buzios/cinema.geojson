@@ -1,0 +1,74 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/733749921",
+      "properties": {
+        "timestamp": "2019-12-04T14:09:41Z",
+        "version": 2,
+        "changeset": 77943872,
+        "addr:city": "Armação dos Búzios",
+        "addr:suburb": "Rasa",
+        "amenity": "cinema",
+        "building": "yes",
+        "name": "Cine Teatro Rasa",
+        "id": "way/733749921"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.9703971,
+              -22.7392267
+            ],
+            [
+              -41.9702473,
+              -22.7393858
+            ],
+            [
+              -41.9701112,
+              -22.7392768
+            ],
+            [
+              -41.9702611,
+              -22.7391177
+            ],
+            [
+              -41.9703971,
+              -22.7392267
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1747148211",
+      "properties": {
+        "timestamp": "2020-02-09T18:07:05Z",
+        "version": 5,
+        "changeset": 80759657,
+        "addr:city": "Armação dos Búzios",
+        "addr:housenumber": "88",
+        "addr:street": "Travessa dos Pescadores",
+        "addr:suburb": "Centro",
+        "amenity": "cinema",
+        "capacity": "111",
+        "name": "Gran Cine Bardot",
+        "screen": "1",
+        "start_date": "1990",
+        "website": "https://www.viladomar.com/cinebardot/",
+        "id": "node/1747148211"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.8858365,
+          -22.7551025
+        ]
+      }
+    }
+  ]
+}

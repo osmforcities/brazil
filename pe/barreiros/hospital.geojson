@@ -1,0 +1,70 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/672704089",
+      "properties": {
+        "timestamp": "2019-02-24T18:03:49Z",
+        "version": 1,
+        "changeset": 67524166,
+        "addr:city": "Barreiros",
+        "addr:street": "PE-060",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "id": "way/672704089"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -35.1872161,
+              -8.8064246
+            ],
+            [
+              -35.1863189,
+              -8.8076526
+            ],
+            [
+              -35.1854527,
+              -8.8070564
+            ],
+            [
+              -35.1862364,
+              -8.806022
+            ],
+            [
+              -35.1866541,
+              -8.8060679
+            ],
+            [
+              -35.1872161,
+              -8.8064246
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6299519056",
+      "properties": {
+        "timestamp": "2019-02-24T18:03:48Z",
+        "version": 1,
+        "changeset": 67524166,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hospital do Municipio de Barreiros",
+        "id": "node/6299519056"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.1863239,
+          -8.806423
+        ]
+      }
+    }
+  ]
+}

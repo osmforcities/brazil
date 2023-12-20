@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/681479308",
+      "properties": {
+        "timestamp": "2022-04-16T22:55:02Z",
+        "version": 2,
+        "changeset": 119800700,
+        "addr:city": "Pontal do Paraná",
+        "addr:postcode": "83255-000",
+        "addr:street": "Avenida Sebastião Caboto",
+        "addr:suburb": "Shangri-lá",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "id": "way/681479308"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.4189582,
+              -25.6188775
+            ],
+            [
+              -48.4188605,
+              -25.6189551
+            ],
+            [
+              -48.4183961,
+              -25.6184796
+            ],
+            [
+              -48.4184937,
+              -25.6184021
+            ],
+            [
+              -48.4189582,
+              -25.6188775
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10939804310",
+      "properties": {
+        "timestamp": "2023-05-30T12:17:25Z",
+        "version": 1,
+        "changeset": 136743437,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Unidade Básica de Saúde de Pontal do Sul",
+        "id": "node/10939804310"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3615131,
+          -25.577384
+        ]
+      }
+    }
+  ]
+}

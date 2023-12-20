@@ -1,0 +1,118 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "relation/3366957",
+      "properties": {
+        "timestamp": "2017-05-07T14:34:06Z",
+        "version": 2,
+        "changeset": 48476710,
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "Santa Casa de Misericórdia de Ribeirão Claro",
+        "type": "multipolygon",
+        "id": "relation/3366957"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.7627226,
+              -23.1940977
+            ],
+            [
+              -49.7624434,
+              -23.1940557
+            ],
+            [
+              -49.7625745,
+              -23.1933189
+            ],
+            [
+              -49.7626424,
+              -23.1933291
+            ],
+            [
+              -49.762631,
+              -23.1933929
+            ],
+            [
+              -49.7628424,
+              -23.1934247
+            ],
+            [
+              -49.7627226,
+              -23.1940977
+            ]
+          ],
+          [
+            [
+              -49.7626237,
+              -23.1940045
+            ],
+            [
+              -49.7627066,
+              -23.1935059
+            ],
+            [
+              -49.7626705,
+              -23.1935008
+            ],
+            [
+              -49.7625876,
+              -23.1939994
+            ],
+            [
+              -49.7626237,
+              -23.1940045
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4997345125",
+      "properties": {
+        "timestamp": "2022-12-23T02:48:40Z",
+        "version": 2,
+        "changeset": 130398849,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "PSF - Secretaria de Saúde",
+        "name:pt": "PSF - Secretaria de Saúde",
+        "id": "node/4997345125"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.7602124,
+          -23.1996327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4997345126",
+      "properties": {
+        "timestamp": "2022-12-23T02:48:40Z",
+        "version": 2,
+        "changeset": 130398849,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "CENTRO DE SAÚDE DR AGNELO",
+        "name:pt": "CENTRO DE SAÚDE DR AGNELO",
+        "id": "node/4997345126"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.7622999,
+          -23.1991838
+        ]
+      }
+    }
+  ]
+}

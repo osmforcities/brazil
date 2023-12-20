@@ -1,0 +1,439 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "relation/14891591",
+      "properties": {
+        "timestamp": "2022-11-15T18:44:59Z",
+        "version": 1,
+        "changeset": 128954896,
+        "addr:city": "Cosmorama",
+        "addr:housenumber": "500",
+        "addr:postcode": "15530-000",
+        "addr:street": "Rua Jerônimo Hipólito da Silva",
+        "addr:suburb": "Centro",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Unidade Básica de Saúde - Santo Antônio",
+        "opening_hours": "24/7",
+        "operator": "Prefeitura Municipal de Cosmorama",
+        "operator:type": "government",
+        "phone": "+55 (17) 3836-9210",
+        "type": "multipolygon",
+        "wheelchair": "yes",
+        "id": "relation/14891591"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.7753532,
+              -20.4783156
+            ],
+            [
+              -49.7755513,
+              -20.478209
+            ],
+            [
+              -49.7757533,
+              -20.4781
+            ],
+            [
+              -49.7757601,
+              -20.4781114
+            ],
+            [
+              -49.7758601,
+              -20.4782799
+            ],
+            [
+              -49.775941,
+              -20.4784163
+            ],
+            [
+              -49.7755401,
+              -20.4786273
+            ],
+            [
+              -49.7753532,
+              -20.4783156
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/14908418",
+      "properties": {
+        "timestamp": "2022-11-19T19:09:51Z",
+        "version": 1,
+        "changeset": 129135492,
+        "addr:city": "Cosmorama",
+        "addr:postcode": "15530000",
+        "addr:street": "Rua Helena Alves Garcia",
+        "addr:suburb": "Vila Honório",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "USF Geraldo Octávio Rodrigues",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "operator": "Prefeitura Municipal de Cosmorama",
+        "operator:type": "government",
+        "type": "multipolygon",
+        "id": "relation/14908418"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.7794837,
+              -20.4768878
+            ],
+            [
+              -49.7797079,
+              -20.4767626
+            ],
+            [
+              -49.7798596,
+              -20.4769844
+            ],
+            [
+              -49.7796273,
+              -20.4771101
+            ],
+            [
+              -49.7794837,
+              -20.4768878
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/14929811",
+      "properties": {
+        "timestamp": "2022-11-24T01:50:51Z",
+        "version": 1,
+        "changeset": 129302382,
+        "addr:city": "Cosmorama",
+        "addr:postcode": "15530-000",
+        "addr:street": "Rua Abdão da Silva Motta",
+        "addr:suburb": "Vila Nova",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "P.A. Capitão Laudino",
+        "operator": "Prefeitura Municipal de Cosmorama",
+        "operator:type": "government",
+        "type": "multipolygon",
+        "id": "relation/14929811"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.6887307,
+              -20.4128124
+            ],
+            [
+              -49.6884458,
+              -20.4129071
+            ],
+            [
+              -49.6884045,
+              -20.4127957
+            ],
+            [
+              -49.6886886,
+              -20.4127012
+            ],
+            [
+              -49.6887307,
+              -20.4128124
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1064731809",
+      "properties": {
+        "timestamp": "2022-11-19T19:09:51Z",
+        "version": 3,
+        "changeset": 129135492,
+        "barrier": "wall",
+        "id": "way/1064731809"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -49.7794837,
+            -20.4768878
+          ],
+          [
+            -49.7797079,
+            -20.4767626
+          ],
+          [
+            -49.7798596,
+            -20.4769844
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1113417526",
+      "properties": {
+        "timestamp": "2022-11-15T18:44:59Z",
+        "version": 1,
+        "changeset": 128954896,
+        "highway": "residential",
+        "name": "Avenida Rafael Sabadoto",
+        "surface": "asphalt",
+        "id": "way/1113417526"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -49.7755513,
+            -20.478209
+          ],
+          [
+            -49.7757533,
+            -20.4781
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1113417528",
+      "properties": {
+        "timestamp": "2023-01-09T18:58:31Z",
+        "version": 5,
+        "changeset": 131071415,
+        "highway": "tertiary",
+        "name": "Rua Jerônimo Hipólito da Silva",
+        "surface": "asphalt",
+        "id": "way/1113417528"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -49.7757533,
+            -20.4781
+          ],
+          [
+            -49.7757601,
+            -20.4781114
+          ],
+          [
+            -49.7758601,
+            -20.4782799
+          ],
+          [
+            -49.775941,
+            -20.4784163
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1113417529",
+      "properties": {
+        "timestamp": "2022-11-15T18:44:59Z",
+        "version": 1,
+        "changeset": 128954896,
+        "highway": "residential",
+        "name": "Avenida Rafael Sabadoto",
+        "surface": "asphalt",
+        "id": "way/1113417529"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -49.7753532,
+            -20.4783156
+          ],
+          [
+            -49.7755513,
+            -20.478209
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1113417530",
+      "properties": {
+        "timestamp": "2022-11-15T18:44:59Z",
+        "version": 1,
+        "changeset": 128954896,
+        "barrier": "wall",
+        "id": "way/1113417530"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -49.7753532,
+            -20.4783156
+          ],
+          [
+            -49.7755401,
+            -20.4786273
+          ],
+          [
+            -49.775941,
+            -20.4784163
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1115570137",
+      "properties": {
+        "timestamp": "2022-11-19T19:09:51Z",
+        "version": 1,
+        "changeset": 129135492,
+        "highway": "residential",
+        "name": "Avenida Domingos Baggio",
+        "surface": "asphalt",
+        "id": "way/1115570137"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -49.7798596,
+            -20.4769844
+          ],
+          [
+            -49.7796273,
+            -20.4771101
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1115570139",
+      "properties": {
+        "timestamp": "2022-11-19T19:09:51Z",
+        "version": 1,
+        "changeset": 129135492,
+        "highway": "residential",
+        "name": "Rua Helena Alves Garcia",
+        "id": "way/1115570139"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -49.7794837,
+            -20.4768878
+          ],
+          [
+            -49.7796273,
+            -20.4771101
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1116700224",
+      "properties": {
+        "timestamp": "2022-11-24T01:50:51Z",
+        "version": 1,
+        "changeset": 129302382,
+        "barrier": "wall",
+        "id": "way/1116700224"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -49.6887307,
+            -20.4128124
+          ],
+          [
+            -49.6884458,
+            -20.4129071
+          ],
+          [
+            -49.6884045,
+            -20.4127957
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1116700225",
+      "properties": {
+        "timestamp": "2023-01-09T18:58:31Z",
+        "version": 6,
+        "changeset": 131071415,
+        "highway": "tertiary",
+        "name": "Rua Abdão da Silva Motta",
+        "surface": "asphalt",
+        "id": "way/1116700225"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -49.6886886,
+            -20.4127012
+          ],
+          [
+            -49.6887307,
+            -20.4128124
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1116700226",
+      "properties": {
+        "timestamp": "2022-11-24T01:50:51Z",
+        "version": 1,
+        "changeset": 129302382,
+        "barrier": "wall",
+        "id": "way/1116700226"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -49.6884045,
+            -20.4127957
+          ],
+          [
+            -49.6886886,
+            -20.4127012
+          ]
+        ]
+      }
+    }
+  ]
+}

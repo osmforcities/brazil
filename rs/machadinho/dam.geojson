@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1206766096",
+      "properties": {
+        "timestamp": "2023-09-11T03:49:50Z",
+        "version": 1,
+        "changeset": 141088885,
+        "waterway": "dam",
+        "id": "way/1206766096"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -51.7514656,
+            -27.6152631
+          ],
+          [
+            -51.7510868,
+            -27.6152219
+          ],
+          [
+            -51.749948,
+            -27.6146883
+          ],
+          [
+            -51.7494571,
+            -27.614395
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/701607493",
+      "properties": {
+        "timestamp": "2023-09-11T03:49:50Z",
+        "version": 3,
+        "changeset": 141088885,
+        "waterway": "weir",
+        "id": "node/701607493"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.7510868,
+          -27.6152219
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/686644594",
+      "properties": {
+        "timestamp": "2019-04-29T13:25:37Z",
+        "version": 1,
+        "changeset": 69696205,
+        "building": "yes",
+        "government": "register_office",
+        "office": "government",
+        "id": "way/686644594"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -45.0243317,
+              -19.7142907
+            ],
+            [
+              -45.0243332,
+              -19.7143552
+            ],
+            [
+              -45.0242111,
+              -19.7143602
+            ],
+            [
+              -45.024204,
+              -19.7142952
+            ],
+            [
+              -45.0243317,
+              -19.7142907
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6382147453",
+      "properties": {
+        "timestamp": "2019-04-03T23:50:27Z",
+        "version": 1,
+        "changeset": 68861216,
+        "addr:city": "Leandro Ferreira",
+        "addr:postcode": "35657000",
+        "addr:street": "Rua Serra Morena",
+        "addr:suburb": "Centro",
+        "government": "administrative",
+        "name": "Câmara municipal",
+        "office": "government",
+        "opening_hours": "Mo-Fr 09:00-17:00",
+        "id": "node/6382147453"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.0240067,
+          -19.7166839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6382147454",
+      "properties": {
+        "timestamp": "2019-04-03T23:50:27Z",
+        "version": 1,
+        "changeset": 68861216,
+        "addr:city": "Leandro Ferreira",
+        "addr:postcode": "35657000",
+        "addr:street": "Rua Serra Morena",
+        "addr:suburb": "Centro",
+        "government": "social_services",
+        "name": "counselor tutelar",
+        "office": "government",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "id": "node/6382147454"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.0241328,
+          -19.7166103
+        ]
+      }
+    }
+  ]
+}

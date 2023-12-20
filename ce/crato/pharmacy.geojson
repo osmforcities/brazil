@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1053169723",
+      "properties": {
+        "timestamp": "2022-04-19T23:51:10Z",
+        "version": 1,
+        "changeset": 119928305,
+        "addr:street": "Rua Coronel Antônio Luiz",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmácia Drogasil",
+        "id": "way/1053169723"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -39.4166931,
+              -7.2380157
+            ],
+            [
+              -39.4167281,
+              -7.2379751
+            ],
+            [
+              -39.4167515,
+              -7.2379508
+            ],
+            [
+              -39.4168414,
+              -7.2380168
+            ],
+            [
+              -39.416783,
+              -7.2380886
+            ],
+            [
+              -39.4166931,
+              -7.2380157
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9693215645",
+      "properties": {
+        "timestamp": "2022-04-25T18:57:39Z",
+        "version": 1,
+        "changeset": 120179797,
+        "amenity": "pharmacy",
+        "brand": "Pague Menos",
+        "brand:wikidata": "Q7124466",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Pague Menos",
+        "id": "node/9693215645"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.4107119,
+          -7.2308709
+        ]
+      }
+    }
+  ]
+}

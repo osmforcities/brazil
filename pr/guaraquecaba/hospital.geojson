@@ -1,0 +1,115 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "relation/9384487",
+      "properties": {
+        "timestamp": "2022-07-08T13:07:28Z",
+        "version": 3,
+        "changeset": 123362755,
+        "addr:city": "Guaraqueçaba",
+        "addr:postcode": "83390-000",
+        "addr:street": "Avenida Ararapira",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Hospital Estadual Regional de Guaraqueçaba",
+        "operator": "Secretaria de Saúde do Estado do Paraná",
+        "operator:type": "public",
+        "phone": "+55 41 3482-8150",
+        "type": "multipolygon",
+        "wheelchair": "yes",
+        "id": "relation/9384487"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.3204106,
+              -25.2962084
+            ],
+            [
+              -48.3206238,
+              -25.2969997
+            ],
+            [
+              -48.3194528,
+              -25.2967943
+            ],
+            [
+              -48.3192426,
+              -25.2960188
+            ],
+            [
+              -48.3204106,
+              -25.2962084
+            ]
+          ],
+          [
+            [
+              -48.3205477,
+              -25.2967686
+            ],
+            [
+              -48.3204979,
+              -25.2965959
+            ],
+            [
+              -48.3203081,
+              -25.2966406
+            ],
+            [
+              -48.3203579,
+              -25.2968134
+            ],
+            [
+              -48.3205477,
+              -25.2967686
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/675714827",
+      "properties": {
+        "timestamp": "2022-06-09T07:22:13Z",
+        "version": 2,
+        "changeset": 122149061,
+        "aeroway": "helipad",
+        "name": "Hospital Regional Guaraqueçaba",
+        "id": "way/675714827"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.3205477,
+              -25.2967686
+            ],
+            [
+              -48.3203579,
+              -25.2968134
+            ],
+            [
+              -48.3203081,
+              -25.2966406
+            ],
+            [
+              -48.3204979,
+              -25.2965959
+            ],
+            [
+              -48.3205477,
+              -25.2967686
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

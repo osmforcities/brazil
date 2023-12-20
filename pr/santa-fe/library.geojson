@@ -1,0 +1,86 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/600926145",
+      "properties": {
+        "timestamp": "2018-06-23T02:40:42Z",
+        "version": 1,
+        "changeset": 60090914,
+        "addr:city": "Santa Fé",
+        "addr:housenumber": "560",
+        "addr:postcode": "86770000",
+        "addr:street": "Avenida Arapongas",
+        "addr:suburb": "Centro",
+        "amenity": "library",
+        "building": "yes",
+        "name": "Biblioteca Municipal de Santa Fé",
+        "operator": "Prefeitura de Santa Fé",
+        "id": "way/600926145"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.8065133,
+              -23.0402248
+            ],
+            [
+              -51.8065097,
+              -23.0403811
+            ],
+            [
+              -51.806469,
+              -23.0403844
+            ],
+            [
+              -51.8064672,
+              -23.0405505
+            ],
+            [
+              -51.8063381,
+              -23.0405488
+            ],
+            [
+              -51.8063487,
+              -23.040386
+            ],
+            [
+              -51.8063044,
+              -23.0403827
+            ],
+            [
+              -51.8063098,
+              -23.040228
+            ],
+            [
+              -51.8065133,
+              -23.0402248
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5712644383",
+      "properties": {
+        "timestamp": "2018-06-23T02:40:41Z",
+        "version": 1,
+        "changeset": 60090914,
+        "addr:street": "Avenida Arapongas",
+        "amenity": "library",
+        "id": "node/5712644383"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.8064018,
+          -23.0403209
+        ]
+      }
+    }
+  ]
+}

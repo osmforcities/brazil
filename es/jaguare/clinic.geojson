@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1125236805",
+      "properties": {
+        "timestamp": "2022-12-27T17:27:44Z",
+        "version": 1,
+        "changeset": 130566839,
+        "addr:city": "Jaguaré",
+        "addr:postcode": "29950-000",
+        "addr:street": "Rua Bruna Kesley Coco",
+        "addr:suburb": "Seac",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Unidade de Saúde da Família Calixto Dagostini",
+        "operator": "Município de Jaguaré",
+        "operator:type": "public",
+        "id": "way/1125236805"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.0724853,
+              -18.9116691
+            ],
+            [
+              -40.0723676,
+              -18.9117321
+            ],
+            [
+              -40.0723186,
+              -18.9116502
+            ],
+            [
+              -40.0722575,
+              -18.9116829
+            ],
+            [
+              -40.0721567,
+              -18.9115146
+            ],
+            [
+              -40.0724031,
+              -18.9113825
+            ],
+            [
+              -40.0724535,
+              -18.9114668
+            ],
+            [
+              -40.0724247,
+              -18.9114822
+            ],
+            [
+              -40.0724357,
+              -18.9115005
+            ],
+            [
+              -40.0724814,
+              -18.9114761
+            ],
+            [
+              -40.0725312,
+              -18.9115593
+            ],
+            [
+              -40.0724467,
+              -18.9116045
+            ],
+            [
+              -40.0724853,
+              -18.9116691
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2888097266",
+      "properties": {
+        "timestamp": "2022-12-26T02:42:33Z",
+        "version": 3,
+        "changeset": 130498532,
+        "addr:city": "Jaguaré",
+        "addr:suburb": "Barra Seca",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "id": "node/2888097266"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.9992369,
+          -18.9893505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3491299290",
+      "properties": {
+        "timestamp": "2019-07-07T03:34:18Z",
+        "version": 2,
+        "changeset": 71972740,
+        "IJSN:tipoUnidad": "Unidade Mista",
+        "addr:city": "Jaguaré",
+        "addr:housenumber": "313",
+        "addr:place": "Centro",
+        "addr:postcode": "29950-000",
+        "addr:street": "Rua Paschoal Briochi",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Unidade Mista de Internação",
+        "short_name": "UMI",
+        "id": "node/3491299290"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.0711188,
+          -18.9076222
+        ]
+      }
+    }
+  ]
+}

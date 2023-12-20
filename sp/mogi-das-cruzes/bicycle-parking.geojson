@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/856172602",
+      "properties": {
+        "timestamp": "2020-10-07T01:11:49Z",
+        "version": 1,
+        "changeset": 92074168,
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "lockers",
+        "covered": "yes",
+        "id": "way/856172602"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.1838974,
+              -23.5081915
+            ],
+            [
+              -46.1837669,
+              -23.5079612
+            ],
+            [
+              -46.1838207,
+              -23.5079349
+            ],
+            [
+              -46.1839547,
+              -23.5081652
+            ],
+            [
+              -46.1838974,
+              -23.5081915
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10716697835",
+      "properties": {
+        "timestamp": "2023-03-06T16:14:19Z",
+        "version": 1,
+        "changeset": 133370548,
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "8",
+        "covered": "no",
+        "fee": "no",
+        "id": "node/10716697835"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.1972496,
+          -23.5201479
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/486869842",
+      "properties": {
+        "timestamp": "2021-05-05T03:24:14Z",
+        "version": 2,
+        "changeset": 104153251,
+        "addr:city": "Pato Branco",
+        "addr:street": "Rua Iguaçu",
+        "addr:suburb": "Centro",
+        "amenity": "doctors",
+        "building": "service",
+        "description": "Centro de Diagnósticos onde é possível fazer exames, tais como a ressonância magnética, etc.",
+        "healthcare": "doctor",
+        "name": "CRD Centro Regional de Diagnóstico",
+        "opening_hours": "comercial",
+        "wheelchair": "yes",
+        "id": "way/486869842"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -52.6666792,
+              -26.2269307
+            ],
+            [
+              -52.6669604,
+              -26.2268968
+            ],
+            [
+              -52.6669675,
+              -26.2269287
+            ],
+            [
+              -52.6669803,
+              -26.2269278
+            ],
+            [
+              -52.666995,
+              -26.2270149
+            ],
+            [
+              -52.6670064,
+              -26.2270962
+            ],
+            [
+              -52.6670024,
+              -26.2271218
+            ],
+            [
+              -52.6669795,
+              -26.2271423
+            ],
+            [
+              -52.6669518,
+              -26.2271518
+            ],
+            [
+              -52.6669208,
+              -26.227154
+            ],
+            [
+              -52.6666963,
+              -26.227184
+            ],
+            [
+              -52.6666792,
+              -26.2269307
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3686457879",
+      "properties": {
+        "timestamp": "2021-05-05T03:24:14Z",
+        "version": 5,
+        "changeset": 104153251,
+        "addr:city": "Pato Branco",
+        "amenity": "doctors",
+        "healthcare": "doctor",
+        "name": "Posto de Saúde - Especialiades",
+        "id": "node/3686457879"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.6745184,
+          -26.2218021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3786444295",
+      "properties": {
+        "timestamp": "2021-05-05T03:24:14Z",
+        "version": 3,
+        "changeset": 104153251,
+        "amenity": "doctors",
+        "healthcare": "doctor",
+        "name": "Centro de Especialidades Odontológigas",
+        "id": "node/3786444295"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.6732212,
+          -26.2336707
+        ]
+      }
+    }
+  ]
+}

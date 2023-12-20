@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/545291112",
+      "properties": {
+        "timestamp": "2017-12-07T16:28:46Z",
+        "version": 1,
+        "changeset": 54436274,
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "clinica",
+        "id": "way/545291112"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.8716851,
+              -19.1776901
+            ],
+            [
+              -41.8717776,
+              -19.1775388
+            ],
+            [
+              -41.8720364,
+              -19.1777425
+            ],
+            [
+              -41.8719255,
+              -19.1778822
+            ],
+            [
+              -41.871744,
+              -19.1777371
+            ],
+            [
+              -41.8716851,
+              -19.1776901
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5270306042",
+      "properties": {
+        "timestamp": "2017-12-07T16:28:46Z",
+        "version": 1,
+        "changeset": 54436274,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "id": "node/5270306042"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.8718394,
+          -19.1777368
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/518549485",
+      "properties": {
+        "timestamp": "2017-09-11T15:19:36Z",
+        "version": 2,
+        "changeset": 51945276,
+        "addr:city": "Canguçu",
+        "addr:housenumber": "715",
+        "addr:postcode": "96600-000",
+        "addr:street": "Rua Júlio de Castilhos",
+        "addr:suburb": "Uruguai",
+        "amenity": "university",
+        "name": "UNOPAR - Universidade do Norte do Paraná",
+        "id": "way/518549485"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -52.6778234,
+              -31.4000815
+            ],
+            [
+              -52.6778901,
+              -31.4001298
+            ],
+            [
+              -52.6779568,
+              -31.400178
+            ],
+            [
+              -52.6777995,
+              -31.4003365
+            ],
+            [
+              -52.6776661,
+              -31.40024
+            ],
+            [
+              -52.6777447,
+              -31.4001608
+            ],
+            [
+              -52.6778234,
+              -31.4000815
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5058090562",
+      "properties": {
+        "timestamp": "2017-08-25T11:46:41Z",
+        "version": 1,
+        "changeset": 51432102,
+        "entrance": "yes",
+        "id": "node/5058090562"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.6777447,
+          -31.4001608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5058090563",
+      "properties": {
+        "timestamp": "2017-08-25T11:46:41Z",
+        "version": 1,
+        "changeset": 51432102,
+        "entrance": "yes",
+        "id": "node/5058090563"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.6778901,
+          -31.4001298
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/975319326",
+      "properties": {
+        "timestamp": "2021-08-22T00:14:26Z",
+        "version": 1,
+        "changeset": 110045350,
+        "addr:city": "Inajá",
+        "addr:postcode": "56560000",
+        "addr:street": "Sítio Lagoa do Meio,",
+        "addr:suburb": "Lagoa do Meio",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Unidade de Saúde da Família Lagoa do Meio",
+        "operator": "Município de Inajá, MS, SUS",
+        "operator:type": "public",
+        "id": "way/975319326"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -37.7039752,
+              -8.8349815
+            ],
+            [
+              -37.703955,
+              -8.8350535
+            ],
+            [
+              -37.7038065,
+              -8.8350023
+            ],
+            [
+              -37.7038314,
+              -8.8349275
+            ],
+            [
+              -37.7039752,
+              -8.8349815
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8958398249",
+      "properties": {
+        "timestamp": "2021-07-28T23:16:51Z",
+        "version": 1,
+        "changeset": 108782545,
+        "addr:city": "Inajá",
+        "addr:postcode": "56560000",
+        "addr:street": "Sítio Timburuna,",
+        "addr:suburb": "Zona Rural",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "serviços_de_atenção_primária",
+        "name": "Unidade de Saúde da Família Timburuna",
+        "operator": "Município de Inajá, SUS",
+        "operator:type": "public",
+        "id": "node/8958398249"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.6773607,
+          -8.7265504
+        ]
+      }
+    }
+  ]
+}

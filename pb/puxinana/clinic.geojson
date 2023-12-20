@@ -1,0 +1,72 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/591019566",
+      "properties": {
+        "timestamp": "2018-05-25T14:19:54Z",
+        "version": 1,
+        "changeset": 59272789,
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "id": "way/591019566"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -35.909374,
+              -7.1680331
+            ],
+            [
+              -35.9092564,
+              -7.1682578
+            ],
+            [
+              -35.9090831,
+              -7.1681734
+            ],
+            [
+              -35.9092312,
+              -7.1679734
+            ],
+            [
+              -35.9093036,
+              -7.1680109
+            ],
+            [
+              -35.909374,
+              -7.1680331
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5640352627",
+      "properties": {
+        "timestamp": "2018-05-24T19:03:43Z",
+        "version": 1,
+        "changeset": 59250611,
+        "addr:street": "Avenida Paris",
+        "addr:suburb": "jenipapo",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general;orthodontics",
+        "name": "UBS-Jenipapo",
+        "id": "node/5640352627"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.9092117,
+          -7.1681092
+        ]
+      }
+    }
+  ]
+}

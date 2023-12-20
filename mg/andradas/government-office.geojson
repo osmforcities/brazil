@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/617731372",
+      "properties": {
+        "timestamp": "2018-08-18T03:45:59Z",
+        "version": 1,
+        "changeset": 61761565,
+        "building": "yes",
+        "government": "tax",
+        "name": "Posto de Pesagem",
+        "office": "government",
+        "source": "DGS",
+        "id": "way/617731372"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.6120934,
+              -22.0869398
+            ],
+            [
+              -46.6120712,
+              -22.0870892
+            ],
+            [
+              -46.6119156,
+              -22.0870693
+            ],
+            [
+              -46.6119379,
+              -22.0869199
+            ],
+            [
+              -46.6120934,
+              -22.0869398
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10589934001",
+      "properties": {
+        "timestamp": "2023-01-28T23:07:25Z",
+        "version": 1,
+        "changeset": 131825174,
+        "fixme": "Rever nome e completar detalhes.",
+        "government": "social_security",
+        "name": "Agência da Previdência Social de Andradas",
+        "office": "government",
+        "operator": "Instituto Nacional do Seguro Social",
+        "operator:short": "INSS",
+        "operator:wikidata": "Q10302614",
+        "id": "node/10589934001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5695865,
+          -22.0650791
+        ]
+      }
+    }
+  ]
+}

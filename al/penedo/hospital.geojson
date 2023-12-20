@@ -1,0 +1,88 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/699164274",
+      "properties": {
+        "timestamp": "2023-10-10T08:45:56Z",
+        "version": 3,
+        "changeset": 142382218,
+        "amenity": "hospital",
+        "healthcare:speciality": "gynaecology",
+        "name": "Santa Casa dde Penedo",
+        "id": "way/699164274"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -36.5764714,
+              -10.2858749
+            ],
+            [
+              -36.5761687,
+              -10.2865954
+            ],
+            [
+              -36.57529,
+              -10.286238
+            ],
+            [
+              -36.5755927,
+              -10.2855175
+            ],
+            [
+              -36.5764714,
+              -10.2858749
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2655768766",
+      "properties": {
+        "timestamp": "2014-02-05T10:55:55Z",
+        "version": 1,
+        "changeset": 20389901,
+        "amenity": "hospital",
+        "id": "node/2655768766"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.5619615,
+          -10.2819634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6565551840",
+      "properties": {
+        "timestamp": "2019-06-23T07:12:36Z",
+        "version": 1,
+        "changeset": 71524882,
+        "addr:city": "penedo",
+        "addr:postcode": "57200000",
+        "addr:street": "Avenida Getúlio Vargas",
+        "addr:suburb": "centro",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "gynaecology;internal;paediatrics",
+        "name": "Santa Casa de Penedo",
+        "id": "node/6565551840"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.575921,
+          -10.2856956
+        ]
+      }
+    }
+  ]
+}

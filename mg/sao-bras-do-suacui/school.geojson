@@ -1,0 +1,72 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/904675469",
+      "properties": {
+        "timestamp": "2021-02-07T10:37:04Z",
+        "version": 1,
+        "changeset": 98844625,
+        "addr:city": "São Brás do Suaçuí",
+        "addr:housenumber": "220",
+        "addr:postcode": "35495000",
+        "addr:street": "Rua Francisco de Assis",
+        "addr:suburb": "Centro",
+        "amenity": "school",
+        "grades": "4-9",
+        "name": "Escola Municipal D'Anunciação Piramo",
+        "operator": "Prefeitura Municipal",
+        "operator:type": "public",
+        "id": "way/904675469"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.9526558,
+              -20.6271948
+            ],
+            [
+              -43.9523161,
+              -20.627461
+            ],
+            [
+              -43.9521833,
+              -20.6273126
+            ],
+            [
+              -43.9525229,
+              -20.6270463
+            ],
+            [
+              -43.9526558,
+              -20.6271948
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4614817248",
+      "properties": {
+        "timestamp": "2017-01-17T20:25:00Z",
+        "version": 1,
+        "changeset": 45253479,
+        "amenity": "school",
+        "name": "Escola Municipal Desembargador Aprigo Ribeiro de Oliveira",
+        "source": "IBGE",
+        "id": "node/4614817248"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.948251,
+          -20.6244548
+        ]
+      }
+    }
+  ]
+}

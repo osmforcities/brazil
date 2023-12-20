@@ -1,0 +1,118 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/621847372",
+      "properties": {
+        "timestamp": "2023-03-24T01:45:39Z",
+        "version": 4,
+        "changeset": 134045392,
+        "addr:city": "Colombo",
+        "addr:housenumber": "40",
+        "addr:street": "Rua Abel Scuissiato",
+        "addr:suburb": "Maracanã",
+        "amenity": "social_facility",
+        "building": "yes",
+        "name": "Centro de Referência de Assistência Social",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "operator": "PMVV",
+        "social_facility": "outreach",
+        "id": "way/621847372"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.18605,
+              -25.3656697
+            ],
+            [
+              -49.1859555,
+              -25.3656485
+            ],
+            [
+              -49.1859683,
+              -25.3656013
+            ],
+            [
+              -49.1859981,
+              -25.3654975
+            ],
+            [
+              -49.1860352,
+              -25.3653591
+            ],
+            [
+              -49.1861297,
+              -25.3653803
+            ],
+            [
+              -49.18605,
+              -25.3656697
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10757821426",
+      "properties": {
+        "timestamp": "2023-04-06T03:29:38Z",
+        "version": 2,
+        "changeset": 134559515,
+        "operator:type": "public",
+        "id": "node/10757821426"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.1859981,
+          -25.3654975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10757821429",
+      "properties": {
+        "timestamp": "2023-04-06T03:29:38Z",
+        "version": 2,
+        "changeset": 134559515,
+        "operator:type": "public",
+        "id": "node/10757821429"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.1859683,
+          -25.3656013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10769050140",
+      "properties": {
+        "timestamp": "2023-03-28T16:14:59Z",
+        "version": 1,
+        "changeset": 134227276,
+        "addr:housenumber": "188",
+        "addr:street": "Travessa São Paulo",
+        "addr:suburb": "Vila Guaraci",
+        "amenity": "social_facility",
+        "name": "Centro de Atenção Psicossocial II",
+        "id": "node/10769050140"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2021335,
+          -25.3743192
+        ]
+      }
+    }
+  ]
+}

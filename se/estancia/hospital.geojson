@@ -1,0 +1,115 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/390633042",
+      "properties": {
+        "timestamp": "2023-02-11T22:09:40Z",
+        "version": 3,
+        "changeset": 132424296,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hospital Regional de Estância",
+        "id": "way/390633042"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -37.4352401,
+              -11.254138
+            ],
+            [
+              -37.4352444,
+              -11.2542913
+            ],
+            [
+              -37.4352513,
+              -11.2544232
+            ],
+            [
+              -37.4353479,
+              -11.2546482
+            ],
+            [
+              -37.4341129,
+              -11.2552064
+            ],
+            [
+              -37.4338784,
+              -11.2547379
+            ],
+            [
+              -37.4352401,
+              -11.254138
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3881058793",
+      "properties": {
+        "timestamp": "2019-09-03T19:07:21Z",
+        "version": 2,
+        "changeset": 74055334,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hospital Regional Amparo de Maria",
+        "id": "node/3881058793"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.4403427,
+          -11.2700597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3881058794",
+      "properties": {
+        "timestamp": "2019-09-03T19:07:21Z",
+        "version": 2,
+        "changeset": 74055334,
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Centro Ambulatorial Amparo de Maria",
+        "id": "node/3881058794"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.4404736,
+          -11.2702783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3886790355",
+      "properties": {
+        "timestamp": "2023-02-11T22:09:40Z",
+        "version": 2,
+        "changeset": 132424296,
+        "amenity": "hospital",
+        "emergency": "no",
+        "healthcare": "hospital",
+        "name": "Maternidade",
+        "id": "node/3886790355"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.4224146,
+          -11.2381999
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "relation/7678143",
+      "properties": {
+        "timestamp": "2017-10-24T19:02:48Z",
+        "version": 1,
+        "changeset": 53216606,
+        "amenity": "school",
+        "building": "school",
+        "name": "Escola Municipal de Ensino Fundamental Professora Maria Luiza Batistela Danieli",
+        "short_name": "EMEF Profª Maria Luiza B. Danieli",
+        "type": "multipolygon",
+        "id": "relation/7678143"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.986809,
+              -21.9560159
+            ],
+            [
+              -47.9865928,
+              -21.956173
+            ],
+            [
+              -47.9865255,
+              -21.9562176
+            ],
+            [
+              -47.9862927,
+              -21.9559243
+            ],
+            [
+              -47.9865881,
+              -21.9557122
+            ],
+            [
+              -47.986809,
+              -21.9560159
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5186832990",
+      "properties": {
+        "timestamp": "2020-11-09T05:02:12Z",
+        "version": 2,
+        "changeset": 93768194,
+        "crossing_ref": "zebra",
+        "highway": "crossing",
+        "id": "node/5186832990"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.986809,
+          -21.9560159
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/682338417",
+      "properties": {
+        "timestamp": "2019-12-24T00:39:10Z",
+        "version": 4,
+        "changeset": 78793527,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hospital Municipal José Mota Araújo",
+        "id": "way/682338417"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -39.461211,
+              -11.4109872
+            ],
+            [
+              -39.461058,
+              -11.4113289
+            ],
+            [
+              -39.4602881,
+              -11.4109977
+            ],
+            [
+              -39.4604411,
+              -11.410656
+            ],
+            [
+              -39.461211,
+              -11.4109872
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9074546802",
+      "properties": {
+        "timestamp": "2021-10-13T00:12:13Z",
+        "version": 2,
+        "changeset": 112438774,
+        "addr:city": "Valente",
+        "addr:postcode": "48890-000",
+        "addr:street": "Rua Presidente Costa e Silva",
+        "addr:suburb": "Centro",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hospital Municipal de Valente",
+        "id": "node/9074546802"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.4607877,
+          -11.4110061
+        ]
+      }
+    }
+  ]
+}

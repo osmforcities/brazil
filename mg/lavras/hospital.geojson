@@ -1,0 +1,109 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/364838393",
+      "properties": {
+        "timestamp": "2017-03-05T03:43:36Z",
+        "version": 2,
+        "changeset": 46586951,
+        "addr:housenumber": "20",
+        "addr:street": "Rua Monsenhor Aureliano",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "Santa Casa de Misericordia de Lavras",
+        "source": "GPS",
+        "id": "way/364838393"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.9998316,
+              -21.2444537
+            ],
+            [
+              -44.9999569,
+              -21.2447548
+            ],
+            [
+              -44.9993105,
+              -21.2450018
+            ],
+            [
+              -44.9991533,
+              -21.2447023
+            ],
+            [
+              -44.9998316,
+              -21.2444537
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3905778904",
+      "properties": {
+        "timestamp": "2016-08-12T13:48:15Z",
+        "version": 5,
+        "changeset": 41411166,
+        "amenity": "hospital",
+        "name": "UPA",
+        "operator": "UPA ( Unidade de Pronto Atendimento )",
+        "id": "node/3905778904"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.9909884,
+          -21.2595692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3909400255",
+      "properties": {
+        "timestamp": "2015-12-25T16:07:06Z",
+        "version": 1,
+        "changeset": 36161171,
+        "amenity": "hospital",
+        "name": "Hospital Vaz Monteiro",
+        "id": "node/3909400255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.9958267,
+          -21.2420217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10199674011",
+      "properties": {
+        "timestamp": "2022-11-18T14:16:55Z",
+        "version": 1,
+        "changeset": 129089028,
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "internal",
+        "name": "Hospital Dia UFLA",
+        "id": "node/10199674011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.0083241,
+          -21.2401659
+        ]
+      }
+    }
+  ]
+}

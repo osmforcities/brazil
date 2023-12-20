@@ -1,0 +1,72 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/674966171",
+      "properties": {
+        "timestamp": "2023-06-09T04:03:38Z",
+        "version": 5,
+        "changeset": 137118347,
+        "alt_name": "Biblioteca Seccional Regional Goiás - Cajuí",
+        "amenity": "library",
+        "building": "yes",
+        "internet_access": "yes",
+        "name": "Biblioteca Central - Regional Goiás - Cajuí",
+        "phone": "+55 62 3371 9350",
+        "website": "https://bc.ufg.br/p/8311-biblioteca-seccional-regional-goias-cajui-bsrgo-cajui",
+        "id": "way/674966171"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -50.1370902,
+              -15.9368166
+            ],
+            [
+              -50.1372395,
+              -15.9368501
+            ],
+            [
+              -50.13714,
+              -15.9372595
+            ],
+            [
+              -50.1369906,
+              -15.9372259
+            ],
+            [
+              -50.1370902,
+              -15.9368166
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10949945273",
+      "properties": {
+        "timestamp": "2023-06-03T22:24:18Z",
+        "version": 1,
+        "changeset": 136917253,
+        "amenity": "library",
+        "email": "bib.goias@ifg.edu.br",
+        "name": "Biblioteca Goiandira Ayres do Couto",
+        "opening_hours": "Mo-Fr 09:00-21:00",
+        "operator": "Instituto Federal de Goiás",
+        "operator:type": "public",
+        "id": "node/10949945273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.1487946,
+          -15.9320855
+        ]
+      }
+    }
+  ]
+}

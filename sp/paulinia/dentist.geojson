@@ -1,0 +1,102 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1171268396",
+      "properties": {
+        "timestamp": "2023-05-10T15:16:07Z",
+        "version": 1,
+        "changeset": 135941092,
+        "addr:city": "Paulínia",
+        "addr:housenumber": "1945",
+        "addr:postcode": "13140-526",
+        "addr:street": "Avenida Brasília",
+        "addr:suburb": "Vila Monte Alegre",
+        "amenity": "dentist",
+        "building": "yes",
+        "healthcare": "dentist",
+        "healthcare:speciality": "dentistry",
+        "name": "Centro Odotológico Otilia Alves Cardoso",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "operator": "Prefeitura Municipal de Paulínia",
+        "id": "way/1171268396"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.1658317,
+              -22.7767259
+            ],
+            [
+              -47.1656238,
+              -22.7770833
+            ],
+            [
+              -47.1652644,
+              -22.7769003
+            ],
+            [
+              -47.165487,
+              -22.7765454
+            ],
+            [
+              -47.1658317,
+              -22.7767259
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8740262915",
+      "properties": {
+        "timestamp": "2022-05-02T02:34:13Z",
+        "version": 2,
+        "changeset": 120440723,
+        "addr:city": "Paulínia",
+        "addr:housenumber": "879",
+        "addr:postcode": "13140-184",
+        "addr:street": "Rua Maria das Dores Leal de Queiroz",
+        "addr:suburb": "Vista Alegre",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "healthcare:speciality": "dentist",
+        "name": "Ana Claúdia Pietrobon",
+        "opening_hours": "Mo-Fr 08:00-18:00",
+        "id": "node/8740262915"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1508257,
+          -22.7626622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9216410809",
+      "properties": {
+        "timestamp": "2023-11-05T00:35:13Z",
+        "version": 2,
+        "changeset": 143634672,
+        "addr:housenumber": "772",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "Bersan",
+        "id": "node/9216410809"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1715517,
+          -22.7467205
+        ]
+      }
+    }
+  ]
+}

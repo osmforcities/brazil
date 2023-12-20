@@ -1,0 +1,79 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/123587806",
+      "properties": {
+        "timestamp": "2020-01-11T19:29:20Z",
+        "version": 4,
+        "changeset": 79458972,
+        "waterway": "dam",
+        "id": "way/123587806"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -48.9611469,
+            -26.0411083
+          ],
+          [
+            -48.9612423,
+            -26.041102
+          ],
+          [
+            -48.9613003,
+            -26.0410981
+          ],
+          [
+            -48.9613937,
+            -26.0410918
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7124704963",
+      "properties": {
+        "timestamp": "2020-01-11T19:29:20Z",
+        "version": 1,
+        "changeset": 79458972,
+        "height": "3",
+        "material": "stone",
+        "name": "Barragem da Tupy",
+        "waterway": "dam",
+        "id": "node/7124704963"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.9612423,
+          -26.041102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7606959009",
+      "properties": {
+        "timestamp": "2020-06-09T21:57:41Z",
+        "version": 1,
+        "changeset": 86428170,
+        "height": "3",
+        "material": "argila",
+        "name": "Barragem do Lageano",
+        "waterway": "dam",
+        "id": "node/7606959009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.9607538,
+          -26.0261324
+        ]
+      }
+    }
+  ]
+}

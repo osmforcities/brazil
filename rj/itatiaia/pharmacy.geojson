@@ -1,0 +1,88 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/259147749",
+      "properties": {
+        "timestamp": "2016-06-29T22:35:12Z",
+        "version": 2,
+        "changeset": 40378296,
+        "amenity": "pharmacy",
+        "building": "yes",
+        "name": "Farmácia Municipal",
+        "opening_hours": "08:00-12:00,13:30-17:00",
+        "operator": "Prefeitura Municipal de Itatiaia",
+        "id": "way/259147749"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.5637848,
+              -22.4957655
+            ],
+            [
+              -44.5636554,
+              -22.4957684
+            ],
+            [
+              -44.5636985,
+              -22.4953499
+            ],
+            [
+              -44.5637971,
+              -22.4953613
+            ],
+            [
+              -44.5637848,
+              -22.4957655
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3913309257",
+      "properties": {
+        "timestamp": "2022-09-19T01:19:56Z",
+        "version": 2,
+        "changeset": 126349561,
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Farmácia Edufarma",
+        "source": "survey",
+        "id": "node/3913309257"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.5223093,
+          -22.4416744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3958718109",
+      "properties": {
+        "timestamp": "2016-01-21T21:15:20Z",
+        "version": 1,
+        "changeset": 36729076,
+        "amenity": "pharmacy",
+        "name": "CityFarma",
+        "source": "survey",
+        "id": "node/3958718109"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.5226991,
+          -22.4433332
+        ]
+      }
+    }
+  ]
+}

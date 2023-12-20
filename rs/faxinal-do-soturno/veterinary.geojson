@@ -1,0 +1,90 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/324624543",
+      "properties": {
+        "timestamp": "2015-01-27T03:48:10Z",
+        "version": 1,
+        "changeset": 28434360,
+        "addr:housenumber": "858",
+        "amenity": "veterinary",
+        "building": "retail",
+        "entrance": "main",
+        "name": "Veterinária São Francisco",
+        "shop": "yes",
+        "id": "way/324624543"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -53.4454211,
+              -29.5786404
+            ],
+            [
+              -53.4453797,
+              -29.5786646
+            ],
+            [
+              -53.4453378,
+              -29.5786891
+            ],
+            [
+              -53.4452865,
+              -29.5786228
+            ],
+            [
+              -53.4453697,
+              -29.5785741
+            ],
+            [
+              -53.4454211,
+              -29.5786404
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3201911741",
+      "properties": {
+        "timestamp": "2015-01-27T03:48:11Z",
+        "version": 2,
+        "changeset": 28434360,
+        "entrance": "main",
+        "id": "node/3201911741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.4453797,
+          -29.5786646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3295049291",
+      "properties": {
+        "timestamp": "2015-01-17T19:03:11Z",
+        "version": 1,
+        "changeset": 28216363,
+        "amenity": "veterinary",
+        "name": "Inspetoria Veterinária",
+        "office": "government",
+        "id": "node/3295049291"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.4437844,
+          -29.5756953
+        ]
+      }
+    }
+  ]
+}

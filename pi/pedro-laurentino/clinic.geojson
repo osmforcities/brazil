@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/635040792",
+      "properties": {
+        "timestamp": "2022-04-16T22:55:02Z",
+        "version": 2,
+        "changeset": 119800700,
+        "addr:city": "Pedro Laurentino",
+        "amenity": "clinic",
+        "emergency": "no",
+        "id": "way/635040792"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.2883536,
+              -8.0667461
+            ],
+            [
+              -42.2882919,
+              -8.0667689
+            ],
+            [
+              -42.2882311,
+              -8.0666074
+            ],
+            [
+              -42.2883007,
+              -8.0665818
+            ],
+            [
+              -42.2883518,
+              -8.0667175
+            ],
+            [
+              -42.2883439,
+              -8.0667204
+            ],
+            [
+              -42.2883536,
+              -8.0667461
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9464703241",
+      "properties": {
+        "timestamp": "2022-02-01T00:16:33Z",
+        "version": 1,
+        "changeset": 116844793,
+        "addr:city": "Pedro Laurentino",
+        "addr:postcode": "64728-000",
+        "addr:street": "Rua Dimas Amorim da Silva",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "id": "node/9464703241"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.2922811,
+          -8.0651093
+        ]
+      }
+    }
+  ]
+}

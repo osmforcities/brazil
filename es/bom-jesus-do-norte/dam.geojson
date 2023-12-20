@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/778067538",
+      "properties": {
+        "timestamp": "2022-09-09T17:35:03Z",
+        "version": 2,
+        "changeset": 125990783,
+        "material": "concrete",
+        "operator": "Barragem Cia. Luz e Força Itabapoana",
+        "waterway": "dam",
+        "id": "way/778067538"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -41.7052486,
+            -21.0920473
+          ],
+          [
+            -41.705271,
+            -21.0921317
+          ],
+          [
+            -41.7052966,
+            -21.0922361
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7398522922",
+      "properties": {
+        "timestamp": "2022-09-09T17:35:03Z",
+        "version": 2,
+        "changeset": 125990783,
+        "waterway": "weir",
+        "id": "node/7398522922"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.705271,
+          -21.0921317
+        ]
+      }
+    }
+  ]
+}

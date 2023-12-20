@@ -1,0 +1,102 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/523134995",
+      "properties": {
+        "timestamp": "2018-11-23T01:49:18Z",
+        "version": 2,
+        "changeset": 64797833,
+        "building": "house",
+        "name": "CSB Bike Shop",
+        "service:bicycle:retail": "yes",
+        "shop": "bicycle",
+        "id": "way/523134995"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.1631755,
+              -21.7915237
+            ],
+            [
+              -48.1631621,
+              -21.7917765
+            ],
+            [
+              -48.1630146,
+              -21.7917765
+            ],
+            [
+              -48.1630173,
+              -21.7917441
+            ],
+            [
+              -48.1631031,
+              -21.7917429
+            ],
+            [
+              -48.1631071,
+              -21.7916918
+            ],
+            [
+              -48.163024,
+              -21.7916868
+            ],
+            [
+              -48.1630334,
+              -21.7915175
+            ],
+            [
+              -48.1631755,
+              -21.7915237
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6083878402",
+      "properties": {
+        "timestamp": "2018-12-11T18:49:17Z",
+        "version": 2,
+        "changeset": 65386135,
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "yes",
+        "service:bicycle:second_hand": "yes",
+        "shop": "bicycle",
+        "id": "node/6083878402"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.1837955,
+          -21.8000465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6595252748",
+      "properties": {
+        "timestamp": "2019-07-07T21:51:50Z",
+        "version": 1,
+        "changeset": 71992547,
+        "name": "Bicisport",
+        "shop": "bicycle",
+        "id": "node/6595252748"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.1635731,
+          -21.7608059
+        ]
+      }
+    }
+  ]
+}

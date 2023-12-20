@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/666070452",
+      "properties": {
+        "timestamp": "2019-01-25T11:46:22Z",
+        "version": 1,
+        "changeset": 66629144,
+        "operator": "Consórcio Empresarial Salto Pilão",
+        "waterway": "dam",
+        "id": "way/666070452"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -49.518121,
+            -27.1371812
+          ],
+          [
+            -49.5180342,
+            -27.1371055
+          ],
+          [
+            -49.5179178,
+            -27.1370114
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/666672691",
+      "properties": {
+        "timestamp": "2019-01-28T15:01:20Z",
+        "version": 1,
+        "changeset": 66708854,
+        "height": "3",
+        "material": "concrete",
+        "name": "Barragem Vertedouro Salto Pilão",
+        "operator": "Consórcio Empresarial Salto Pilão",
+        "waterway": "dam",
+        "id": "way/666672691"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -49.5180122,
+            -27.1368991
+          ],
+          [
+            -49.5179867,
+            -27.1369269
+          ],
+          [
+            -49.5179178,
+            -27.1370114
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6235889678",
+      "properties": {
+        "timestamp": "2021-02-18T04:49:05Z",
+        "version": 2,
+        "changeset": 99489793,
+        "seamark:type": "gate",
+        "waterway": "lock_gate",
+        "id": "node/6235889678"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.5180342,
+          -27.1371055
+        ]
+      }
+    }
+  ]
+}

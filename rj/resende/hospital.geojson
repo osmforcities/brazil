@@ -1,0 +1,243 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/549919725",
+      "properties": {
+        "timestamp": "2019-06-28T17:54:43Z",
+        "version": 3,
+        "changeset": 71717004,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Unidade de Pronto Atendimento UPA",
+        "id": "way/549919725"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.4949641,
+              -22.4854576
+            ],
+            [
+              -44.494845,
+              -22.485882
+            ],
+            [
+              -44.4941378,
+              -22.4856025
+            ],
+            [
+              -44.4941983,
+              -22.4852139
+            ],
+            [
+              -44.494687,
+              -22.4853665
+            ],
+            [
+              -44.4949641,
+              -22.4854576
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/610935538",
+      "properties": {
+        "timestamp": "2023-07-04T22:33:39Z",
+        "version": 2,
+        "changeset": 138124720,
+        "addr:housenumber": "800",
+        "addr:postcode": "27510-080",
+        "addr:street": "Avenida Marcílio Dias",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hospital Municipal Henrique Sergio Gregori",
+        "operator:ref:vatin": "BR29178233000160",
+        "ref:CNES": "2288893",
+        "id": "way/610935538"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.4602199,
+              -22.4623762
+            ],
+            [
+              -44.460262,
+              -22.4629812
+            ],
+            [
+              -44.4603187,
+              -22.4637952
+            ],
+            [
+              -44.4596203,
+              -22.4640943
+            ],
+            [
+              -44.4592691,
+              -22.4633654
+            ],
+            [
+              -44.4597805,
+              -22.4631604
+            ],
+            [
+              -44.4597312,
+              -22.4623973
+            ],
+            [
+              -44.4602199,
+              -22.4623762
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/822184403",
+      "properties": {
+        "timestamp": "2023-07-04T22:33:39Z",
+        "version": 3,
+        "changeset": 138124720,
+        "addr:postcode": "27520-005",
+        "addr:street": "Rua Elza da Silva Duarte",
+        "amenity": "hospital",
+        "building": "yes",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "Hospital Unimed",
+        "name:en": "Unimed Hospital",
+        "opening_hours": "24/7",
+        "operator": "Unimed",
+        "phone": "+55 24 2108 9912",
+        "ref:CNES": "7149328",
+        "ref:vatin": "BR68709211000212",
+        "id": "way/822184403"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.456444,
+              -22.4673562
+            ],
+            [
+              -44.4563779,
+              -22.4673843
+            ],
+            [
+              -44.4563968,
+              -22.4674221
+            ],
+            [
+              -44.4563161,
+              -22.4674565
+            ],
+            [
+              -44.45631,
+              -22.4674443
+            ],
+            [
+              -44.4562347,
+              -22.4674763
+            ],
+            [
+              -44.4562592,
+              -22.4675315
+            ],
+            [
+              -44.4558461,
+              -22.4677208
+            ],
+            [
+              -44.4557582,
+              -22.4675448
+            ],
+            [
+              -44.4559536,
+              -22.4674614
+            ],
+            [
+              -44.4560789,
+              -22.46741
+            ],
+            [
+              -44.4559984,
+              -22.4672452
+            ],
+            [
+              -44.456289,
+              -22.4671187
+            ],
+            [
+              -44.4563211,
+              -22.467183
+            ],
+            [
+              -44.4563367,
+              -22.4671763
+            ],
+            [
+              -44.456387,
+              -22.4672771
+            ],
+            [
+              -44.4563786,
+              -22.4672807
+            ],
+            [
+              -44.4563994,
+              -22.4673223
+            ],
+            [
+              -44.4564222,
+              -22.4673126
+            ],
+            [
+              -44.456444,
+              -22.4673562
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4224680592",
+      "properties": {
+        "timestamp": "2020-08-21T05:23:05Z",
+        "version": 6,
+        "changeset": 89722455,
+        "addr:housenumber": "800",
+        "addr:street": "Avenida Marcílio Dias",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "Hospital de Emergência",
+        "opening_hours": "24/7",
+        "operator": "Prefeitura",
+        "id": "node/4224680592"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.460262,
+          -22.4629812
+        ]
+      }
+    }
+  ]
+}

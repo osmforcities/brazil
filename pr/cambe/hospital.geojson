@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/697138021",
+      "properties": {
+        "timestamp": "2022-05-12T21:00:17Z",
+        "version": 2,
+        "changeset": 120906295,
+        "addr:city": "Cambé",
+        "addr:housenumber": "220",
+        "addr:postcode": "86181-270",
+        "addr:street": "Rua Suiça",
+        "addr:suburb": "Centro",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Santa Casa de Misericórdia de Cambé",
+        "website": "https://www.santacasadecambe.com.br/",
+        "id": "way/697138021"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.2855762,
+              -23.2837091
+            ],
+            [
+              -51.2848974,
+              -23.2841362
+            ],
+            [
+              -51.2844379,
+              -23.2835201
+            ],
+            [
+              -51.2851166,
+              -23.2830929
+            ],
+            [
+              -51.2855762,
+              -23.2837091
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6547592721",
+      "properties": {
+        "timestamp": "2019-06-14T12:20:16Z",
+        "version": 1,
+        "changeset": 71251320,
+        "addr:city": "Cambé",
+        "addr:housenumber": "220",
+        "addr:postcode": "86181-270",
+        "addr:street": "Rua Suiça",
+        "addr:suburb": "Centro",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Pronto Socorro",
+        "id": "node/6547592721"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.2848936,
+          -23.2840053
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1166266564",
+      "properties": {
+        "timestamp": "2023-04-28T01:31:34Z",
+        "version": 1,
+        "changeset": 135447859,
+        "addr:city": "Limeira do Oeste",
+        "addr:housenumber": "1531",
+        "addr:postcode": "38295000",
+        "addr:street": "Rua Amazonas",
+        "addr:suburb": "Joamário",
+        "amenity": "social_facility",
+        "name": "Lar São Pedro",
+        "operator": "Associação",
+        "operator:type": "private",
+        "phone": "+55 34 3453-1207",
+        "social_facility": "group_home",
+        "social_facility:for": "senior",
+        "wheelchair": "yes",
+        "id": "way/1166266564"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -50.5753012,
+              -19.5465736
+            ],
+            [
+              -50.5747774,
+              -19.545993
+            ],
+            [
+              -50.5754152,
+              -19.5455023
+            ],
+            [
+              -50.5759389,
+              -19.5461033
+            ],
+            [
+              -50.5753012,
+              -19.5465736
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10847803692",
+      "properties": {
+        "timestamp": "2023-04-28T01:31:34Z",
+        "version": 1,
+        "changeset": 135447859,
+        "addr:city": "Limeira do Oeste",
+        "addr:housenumber": "1531",
+        "addr:postcode": "38295000",
+        "addr:street": "Rua Amazonas",
+        "addr:suburb": "Joamário",
+        "amenity": "social_facility",
+        "name": "Associação do Lar São Pedro",
+        "operator": "Asilo",
+        "operator:type": "private",
+        "phone": "+55 34 3453-1207",
+        "social_facility": "group_home",
+        "social_facility:for": "senior",
+        "wheelchair": "yes",
+        "id": "node/10847803692"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.5753044,
+          -19.5464188
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/583791095",
+      "properties": {
+        "timestamp": "2023-01-23T19:41:52Z",
+        "version": 3,
+        "changeset": 131622536,
+        "alt_name": "Centro de Referência Especializado de Assistência Social",
+        "amenity": "social_facility",
+        "building": "yes",
+        "name": "CREAS Itaperuna",
+        "social_facility": "outreach",
+        "social_facility:for": "underprivileged;abused;victim",
+        "wheelchair": "yes",
+        "id": "way/583791095"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.8866923,
+              -21.2094751
+            ],
+            [
+              -41.8865663,
+              -21.2096319
+            ],
+            [
+              -41.8864594,
+              -21.2095572
+            ],
+            [
+              -41.8865854,
+              -21.2094004
+            ],
+            [
+              -41.8866923,
+              -21.2094751
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/583791098",
+      "properties": {
+        "timestamp": "2018-04-26T20:02:54Z",
+        "version": 1,
+        "changeset": 58456011,
+        "amenity": "social_facility",
+        "building": "yes",
+        "description": "Asilo e casa de repouso para a terceira idade.",
+        "name": "Associação da Melhor Idade de Itaperuna",
+        "phone": "+55 22 3822 0004",
+        "social_facility": "group_home",
+        "social_facility:for": "senior",
+        "id": "way/583791098"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.888508,
+              -21.2011717
+            ],
+            [
+              -41.8885449,
+              -21.2011083
+            ],
+            [
+              -41.8886807,
+              -21.2011769
+            ],
+            [
+              -41.8886438,
+              -21.2012404
+            ],
+            [
+              -41.888508,
+              -21.2011717
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5579742898",
+      "properties": {
+        "timestamp": "2022-06-06T21:49:08Z",
+        "version": 3,
+        "changeset": 122044600,
+        "amenity": "social_facility",
+        "description": "A Associação de Voluntários Com Vida oferece suporte a pacientes oncológicos.",
+        "name": "Associação de Voluntários Com Vida",
+        "phone": "+55 22 3823 1183",
+        "social_facility": "group_home",
+        "social_facility:for": "terminally_ill",
+        "wheelchair": "yes",
+        "id": "node/5579742898"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.8878033,
+          -21.2011361
+        ]
+      }
+    }
+  ]
+}

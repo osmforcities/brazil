@@ -1,0 +1,81 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "relation/9273604",
+      "properties": {
+        "timestamp": "2019-01-29T09:08:24Z",
+        "version": 1,
+        "changeset": 66731572,
+        "type": "multipolygon",
+        "waterway": "dam",
+        "id": "relation/9273604"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.4467783,
+              -20.1746379
+            ],
+            [
+              -44.4465208,
+              -20.1744466
+            ],
+            [
+              -44.4477224,
+              -20.1720598
+            ],
+            [
+              -44.4481194,
+              -20.1717376
+            ],
+            [
+              -44.4504905,
+              -20.1716167
+            ],
+            [
+              -44.4506836,
+              -20.1717577
+            ],
+            [
+              -44.4495356,
+              -20.172231
+            ],
+            [
+              -44.4474971,
+              -20.1737114
+            ],
+            [
+              -44.4467783,
+              -20.1746379
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9689011033",
+      "properties": {
+        "timestamp": "2022-04-24T02:57:42Z",
+        "version": 1,
+        "changeset": 120109577,
+        "material": "iron",
+        "name": "Barragem serra Azul",
+        "source": "ANM",
+        "waterway": "dam",
+        "id": "node/9689011033"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.3956169,
+          -20.1372028
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/545345972",
+      "properties": {
+        "timestamp": "2020-05-22T20:04:23Z",
+        "version": 3,
+        "changeset": 85629635,
+        "addr:street": "Avenida Luiz Fernando Moreira",
+        "amenity": "university",
+        "name": "Uniesp Faimi",
+        "id": "way/545345972"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.5220652,
+              -20.8184617
+            ],
+            [
+              -49.5221021,
+              -20.8190282
+            ],
+            [
+              -49.5217648,
+              -20.8190184
+            ],
+            [
+              -49.5217437,
+              -20.8184765
+            ],
+            [
+              -49.5220652,
+              -20.8184617
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4831250993",
+      "properties": {
+        "timestamp": "2017-05-02T17:47:13Z",
+        "version": 1,
+        "changeset": 48342347,
+        "addr:city": "Mirassol",
+        "addr:housenumber": "1005",
+        "addr:street": "Avenida Luiz Fernando Moreira",
+        "addr:suburb": "Centro",
+        "amenity": "university",
+        "name": "Faimi",
+        "operator": "Uniesp",
+        "phone": "+55 17 3243 7150",
+        "id": "node/4831250993"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.5220845,
+          -20.8190478
+        ]
+      }
+    }
+  ]
+}

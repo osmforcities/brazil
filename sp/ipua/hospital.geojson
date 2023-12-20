@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1021407563",
+      "properties": {
+        "timestamp": "2022-01-15T13:23:46Z",
+        "version": 1,
+        "changeset": 116182132,
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "emergency",
+        "name": "Pronto Socorro Municipal",
+        "note": "Mantém unidade móvel do SAMU",
+        "operator": "Prefeitura Municipal",
+        "operator:type": "public",
+        "phone": "192",
+        "id": "way/1021407563"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.0113773,
+              -20.4370983
+            ],
+            [
+              -48.0114201,
+              -20.4371673
+            ],
+            [
+              -48.011247,
+              -20.4372616
+            ],
+            [
+              -48.0112042,
+              -20.4371926
+            ],
+            [
+              -48.0113773,
+              -20.4370983
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5017263406",
+      "properties": {
+        "timestamp": "2017-08-06T03:01:55Z",
+        "version": 1,
+        "changeset": 50874177,
+        "addr:street": "Rua Ferdinando Fratim",
+        "amenity": "hospital",
+        "name": "Santa Casa de Ipuã",
+        "id": "node/5017263406"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.0115353,
+          -20.4370555
+        ]
+      }
+    }
+  ]
+}

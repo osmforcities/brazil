@@ -1,0 +1,134 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/565534704",
+      "properties": {
+        "timestamp": "2022-03-02T04:05:00Z",
+        "version": 2,
+        "changeset": 118002221,
+        "addr:city": "Alcântara",
+        "addr:postcode": "65250-000",
+        "addr:street": "Rua Grande",
+        "addr:suburb": "Centro",
+        "building": "yes",
+        "description": "Edifício arrendado para a Academia Maranhense de Letras, onde já funcionou a Pousada do Mordomo Régio, atualmente abriga algumas secretarias municipais.",
+        "government": "government",
+        "office": "government",
+        "operator": "Prefeitura de Alcântara",
+        "id": "way/565534704"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.4163073,
+              -2.4076115
+            ],
+            [
+              -44.4164141,
+              -2.4077483
+            ],
+            [
+              -44.4162961,
+              -2.4078256
+            ],
+            [
+              -44.4161369,
+              -2.4079333
+            ],
+            [
+              -44.4161035,
+              -2.4078862
+            ],
+            [
+              -44.416248,
+              -2.4077822
+            ],
+            [
+              -44.4161921,
+              -2.4077058
+            ],
+            [
+              -44.4163073,
+              -2.4076115
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5443789128",
+      "properties": {
+        "timestamp": "2022-03-02T04:05:00Z",
+        "version": 2,
+        "changeset": 118002221,
+        "name": "Escritorio Tecnico de Alcantara IPHAN",
+        "office": "government",
+        "id": "node/5443789128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.4180842,
+          -2.4086659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9022914838",
+      "properties": {
+        "timestamp": "2022-03-02T04:05:00Z",
+        "version": 2,
+        "changeset": 118002221,
+        "addr:city": "Alcântara",
+        "addr:housenumber": "144",
+        "addr:postcode": "65250-000",
+        "addr:street": "Rua de Baixo",
+        "addr:suburb": "Centro",
+        "government": "education",
+        "name": "Secretaria Municipal de Educação",
+        "office": "government",
+        "operator": "Prefeitura de Alcântara",
+        "operator:type": "government",
+        "id": "node/9022914838"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.4164176,
+          -2.4069221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9548712841",
+      "properties": {
+        "timestamp": "2022-03-02T04:05:00Z",
+        "version": 1,
+        "changeset": 118002221,
+        "addr:city": "Alcântara",
+        "addr:postcode": "65250-000",
+        "addr:street": "Rua Doutor Neto Guterres",
+        "addr:suburb": "Praia",
+        "government": "administrative",
+        "name": "Secretaria Municipal de Saúde",
+        "office": "government",
+        "operator": "Prefeitura de Alcântara",
+        "id": "node/9548712841"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.4226025,
+          -2.4066857
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/966000214",
+      "properties": {
+        "timestamp": "2021-07-20T18:52:04Z",
+        "version": 1,
+        "changeset": 108335196,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hospital Municipal Dr. Sebastião A. Padilha",
+        "id": "way/966000214"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.9398077,
+              -21.3594298
+            ],
+            [
+              -41.9396897,
+              -21.3593261
+            ],
+            [
+              -41.9399418,
+              -21.3590938
+            ],
+            [
+              -41.9400612,
+              -21.3592049
+            ],
+            [
+              -41.9398077,
+              -21.3594298
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2670337624",
+      "properties": {
+        "timestamp": "2019-12-12T17:19:42Z",
+        "version": 3,
+        "changeset": 78330771,
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Hospital Municipal Doutor Sebastião",
+        "operator": "Público",
+        "operator:type": "public",
+        "id": "node/2670337624"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.9398827,
+          -21.3592651
+        ]
+      }
+    }
+  ]
+}

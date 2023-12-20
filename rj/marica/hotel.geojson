@@ -1,0 +1,160 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "relation/3552330",
+      "properties": {
+        "timestamp": "2014-03-03T23:43:37Z",
+        "version": 1,
+        "changeset": 20900169,
+        "addr:city": "Maricá",
+        "addr:housenumber": "19",
+        "addr:postcode": "24937-325",
+        "addr:street": "Estrada Gilberto Carvalho",
+        "building": "yes",
+        "name": "Pousada do Holandês",
+        "phone": "+55 21 26384293 985304147 999112420",
+        "source": "survey",
+        "tourism": "hotel",
+        "type": "multipolygon",
+        "website": "http://www.pousadadoholandes.com.br/",
+        "id": "relation/3552330"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -43.0194102,
+                -22.9655011
+              ],
+              [
+                -43.0193353,
+                -22.9657396
+              ],
+              [
+                -43.019212,
+                -22.9657068
+              ],
+              [
+                -43.0192869,
+                -22.9654683
+              ],
+              [
+                -43.0194102,
+                -22.9655011
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -43.0189593,
+                -22.965456
+              ],
+              [
+                -43.0188739,
+                -22.9656489
+              ],
+              [
+                -43.0187585,
+                -22.9656056
+              ],
+              [
+                -43.0188439,
+                -22.9654127
+              ],
+              [
+                -43.0189593,
+                -22.965456
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/698113610",
+      "properties": {
+        "timestamp": "2019-06-18T21:31:11Z",
+        "version": 1,
+        "changeset": 71381035,
+        "building": "yes",
+        "tourism": "hotel",
+        "id": "way/698113610"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.6900272,
+              -22.9607969
+            ],
+            [
+              -42.689967,
+              -22.9609109
+            ],
+            [
+              -42.6899582,
+              -22.9610397
+            ],
+            [
+              -42.6895653,
+              -22.960994
+            ],
+            [
+              -42.6897405,
+              -22.9607545
+            ],
+            [
+              -42.6900272,
+              -22.9607969
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4091370683",
+      "properties": {
+        "timestamp": "2016-04-02T14:38:00Z",
+        "version": 2,
+        "changeset": 38249629,
+        "name": "Pousada Tamarindus",
+        "tourism": "hotel",
+        "id": "node/4091370683"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.8274358,
+          -22.9260528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4092717349",
+      "properties": {
+        "timestamp": "2016-04-02T15:16:18Z",
+        "version": 2,
+        "changeset": 38250205,
+        "name": "Pousada Vila Flor",
+        "tourism": "hotel",
+        "id": "node/4092717349"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.8091791,
+          -22.9142705
+        ]
+      }
+    }
+  ]
+}

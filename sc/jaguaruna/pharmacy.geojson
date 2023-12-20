@@ -1,0 +1,99 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/658254648",
+      "properties": {
+        "timestamp": "2021-02-21T05:18:59Z",
+        "version": 2,
+        "changeset": 99667623,
+        "amenity": "pharmacy",
+        "building": "retail",
+        "healthcare": "pharmacy",
+        "name": "Farmácia da Praia",
+        "id": "way/658254648"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.8644743,
+              -28.6105951
+            ],
+            [
+              -48.8643499,
+              -28.6105586
+            ],
+            [
+              -48.864395,
+              -28.61044
+            ],
+            [
+              -48.8644494,
+              -28.610456
+            ],
+            [
+              -48.864466,
+              -28.6104124
+            ],
+            [
+              -48.864536,
+              -28.6104329
+            ],
+            [
+              -48.8645222,
+              -28.610469
+            ],
+            [
+              -48.8644743,
+              -28.6105951
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3678395160",
+      "properties": {
+        "timestamp": "2021-03-24T12:33:14Z",
+        "version": 3,
+        "changeset": 101646905,
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Farmácia Vipmed",
+        "id": "node/3678395160"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.1282624,
+          -28.7591108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8557068823",
+      "properties": {
+        "timestamp": "2021-03-24T12:33:14Z",
+        "version": 1,
+        "changeset": 101646905,
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "´Farmácia Santo Antônio",
+        "id": "node/8557068823"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.1272549,
+          -28.7602933
+        ]
+      }
+    }
+  ]
+}

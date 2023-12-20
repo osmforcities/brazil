@@ -1,0 +1,90 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/949153103",
+      "properties": {
+        "timestamp": "2021-05-31T18:24:23Z",
+        "version": 2,
+        "changeset": 105639517,
+        "addr:city": "São João del-Rei",
+        "addr:housenumber": "86",
+        "addr:street": "Rua Padre José Maria Xavier",
+        "addr:suburb": "Centro",
+        "amenity": "doctors",
+        "building": "service",
+        "healthcare": "doctor",
+        "name": "Oftalmologista",
+        "id": "way/949153103"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.2618045,
+              -21.1379644
+            ],
+            [
+              -44.2619568,
+              -21.1381182
+            ],
+            [
+              -44.2619325,
+              -21.1381417
+            ],
+            [
+              -44.2619547,
+              -21.138162
+            ],
+            [
+              -44.2619749,
+              -21.1381446
+            ],
+            [
+              -44.2620963,
+              -21.1382207
+            ],
+            [
+              -44.2620536,
+              -21.1382761
+            ],
+            [
+              -44.261988,
+              -21.1382503
+            ],
+            [
+              -44.2617592,
+              -21.1379997
+            ],
+            [
+              -44.2618045,
+              -21.1379644
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3839358769",
+      "properties": {
+        "timestamp": "2022-01-30T14:35:10Z",
+        "version": 2,
+        "changeset": 116782932,
+        "amenity": "doctors",
+        "healthcare": "doctor",
+        "name": "Clinica",
+        "id": "node/3839358769"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.2598547,
+          -21.1371626
+        ]
+      }
+    }
+  ]
+}

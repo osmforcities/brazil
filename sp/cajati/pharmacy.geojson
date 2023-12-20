@@ -1,0 +1,72 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/543988645",
+      "properties": {
+        "timestamp": "2022-01-09T23:23:58Z",
+        "version": 2,
+        "changeset": 115961026,
+        "amenity": "pharmacy",
+        "building": "yes",
+        "name": "Farmacia Municipal",
+        "id": "way/543988645"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.1099588,
+              -24.7218274
+            ],
+            [
+              -48.1099376,
+              -24.7218769
+            ],
+            [
+              -48.1099013,
+              -24.721962
+            ],
+            [
+              -48.1098569,
+              -24.7220661
+            ],
+            [
+              -48.109771,
+              -24.7220418
+            ],
+            [
+              -48.109881,
+              -24.721803
+            ],
+            [
+              -48.1099588,
+              -24.7218274
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2702087711",
+      "properties": {
+        "timestamp": "2020-02-11T03:41:03Z",
+        "version": 3,
+        "changeset": 80823803,
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "id": "node/2702087711"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.1088083,
+          -24.7301129
+        ]
+      }
+    }
+  ]
+}

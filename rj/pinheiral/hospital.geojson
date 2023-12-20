@@ -1,0 +1,135 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1081078697",
+      "properties": {
+        "timestamp": "2023-07-05T02:01:07Z",
+        "version": 3,
+        "changeset": 138127609,
+        "addr:housenumber": "60",
+        "addr:postcode": "27197-000",
+        "addr:street": "Rua Francisco Ribeiro de Abreu",
+        "amenity": "hospital",
+        "email": "smspinheiral2017@outlook.com.br",
+        "fax": "+55 24 3356 3490",
+        "healthcare": "hospital",
+        "name": "Hospital Municipal de Pinheiral",
+        "operator:ref:vatin": "BR01612981000190",
+        "phone": "+55 24 3356 2536",
+        "ref:CNES": "2271141",
+        "id": "way/1081078697"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.9958098,
+              -22.5186076
+            ],
+            [
+              -43.9959868,
+              -22.5186944
+            ],
+            [
+              -43.9961075,
+              -22.518755
+            ],
+            [
+              -43.9961638,
+              -22.5188263
+            ],
+            [
+              -43.9960163,
+              -22.5189397
+            ],
+            [
+              -43.9961001,
+              -22.5199828
+            ],
+            [
+              -43.995958,
+              -22.519989
+            ],
+            [
+              -43.9958815,
+              -22.5196966
+            ],
+            [
+              -43.9957193,
+              -22.5196854
+            ],
+            [
+              -43.99573,
+              -22.5194612
+            ],
+            [
+              -43.9952901,
+              -22.5193026
+            ],
+            [
+              -43.9956375,
+              -22.5184881
+            ],
+            [
+              -43.9958098,
+              -22.5186076
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4330900469",
+      "properties": {
+        "timestamp": "2023-07-05T02:01:07Z",
+        "version": 2,
+        "changeset": 138127609,
+        "addr:city": "Pinheiral",
+        "addr:street": "Ria Francisco Ribeiro de Abreu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Pronto Socorro de Pinheiral",
+        "id": "node/4330900469"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.9956794,
+          -22.5188428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5985683626",
+      "properties": {
+        "timestamp": "2023-07-05T02:01:07Z",
+        "version": 2,
+        "changeset": 138127609,
+        "addr:city": "Pinheiral",
+        "addr:housenumber": "53",
+        "addr:postcode": "27197-000",
+        "addr:street": "Rua Avelino Gabiroba",
+        "addr:suburb": "Palmeiras",
+        "amenity": "hospital",
+        "emergency": "no",
+        "healthcare": "hospital",
+        "name": "Postinho do Bairro Palmeiras",
+        "operator:ref:vatin": "BR01612981000190",
+        "ref:CNES": "6018009",
+        "id": "node/5985683626"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.009863,
+          -22.5175313
+        ]
+      }
+    }
+  ]
+}

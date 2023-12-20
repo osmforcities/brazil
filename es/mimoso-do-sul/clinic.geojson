@@ -1,0 +1,102 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/525956221",
+      "properties": {
+        "timestamp": "2019-07-07T03:34:18Z",
+        "version": 2,
+        "changeset": 71972740,
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "id": "way/525956221"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.4967114,
+              -21.0752757
+            ],
+            [
+              -41.4967422,
+              -21.0753796
+            ],
+            [
+              -41.496636,
+              -21.075407
+            ],
+            [
+              -41.4966052,
+              -21.0753031
+            ],
+            [
+              -41.4967114,
+              -21.0752757
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7795013986",
+      "properties": {
+        "timestamp": "2022-09-15T18:28:25Z",
+        "version": 3,
+        "changeset": 126235706,
+        "addr:city": "Mimoso do Sul",
+        "addr:housenumber": "79",
+        "addr:postcode": "29400-000",
+        "addr:street": "Rua Ivone Feitosa de Aguiar",
+        "addr:suburb": "Centro",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "dentist",
+        "mobile": "+55 28 99918 1585",
+        "name": "Centro de Odontologia e Medicina - Ceom",
+        "opening_hours": "Mo-Fr 08:00-19:00",
+        "operator": "Centro de Odontologia e Medicina Limitada",
+        "operator:type": "private",
+        "id": "node/7795013986"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.3640804,
+          -21.0633163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10028142230",
+      "properties": {
+        "timestamp": "2022-09-15T19:08:41Z",
+        "version": 1,
+        "changeset": 126236961,
+        "addr:city": "Mimoso do Sul",
+        "addr:postcode": "29400-000",
+        "addr:street": "Rua Ceciliano de Mello Porti",
+        "addr:suburb": "Centro",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Unidade Sanitária Doutor Lincoln Galveas Martins",
+        "operator": "Município de Mimoso do Sul",
+        "operator:type": "public",
+        "id": "node/10028142230"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.3628388,
+          -21.065091
+        ]
+      }
+    }
+  ]
+}

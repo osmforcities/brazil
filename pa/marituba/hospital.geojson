@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/352049116",
+      "properties": {
+        "timestamp": "2023-05-07T03:24:35Z",
+        "version": 2,
+        "changeset": 135796459,
+        "addr:city": "Marituba",
+        "addr:housenumber": "71",
+        "addr:postcode": "67205-025",
+        "addr:street": "Avenida João Paulo II",
+        "addr:suburb": "Dom Aristides",
+        "amenity": "hospital",
+        "email": "sec@hdpmarituba.com.br",
+        "healthcare": "hospital",
+        "name": "Hospital Divina Providência",
+        "phone": "+55 91 4005 6100",
+        "ref:CNES": "2619717",
+        "ref:vatin": "BR07277622000453",
+        "id": "way/352049116"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.342642,
+              -1.3594953
+            ],
+            [
+              -48.3434198,
+              -1.3603427
+            ],
+            [
+              -48.3428512,
+              -1.3608146
+            ],
+            [
+              -48.3421196,
+              -1.3599266
+            ],
+            [
+              -48.342642,
+              -1.3594953
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8684029877",
+      "properties": {
+        "timestamp": "2021-04-30T11:51:25Z",
+        "version": 1,
+        "changeset": 103910740,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "id": "node/8684029877"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3384429,
+          -1.3604156
+        ]
+      }
+    }
+  ]
+}

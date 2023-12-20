@@ -1,0 +1,78 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/681294670",
+      "properties": {
+        "timestamp": "2019-10-14T13:58:02Z",
+        "version": 3,
+        "changeset": 75669736,
+        "addr:city": "Olho d'Água das Cunhãs",
+        "addr:street": "Rua Antonio Tomaz",
+        "addr:suburb": "Centro do José Rodrigues",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "id": "way/681294670"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -45.0667081,
+              -4.1451393
+            ],
+            [
+              -45.0666675,
+              -4.1450718
+            ],
+            [
+              -45.0666687,
+              -4.1450122
+            ],
+            [
+              -45.0667547,
+              -4.1450139
+            ],
+            [
+              -45.0667522,
+              -4.1451402
+            ],
+            [
+              -45.0667081,
+              -4.1451393
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6805890328",
+      "properties": {
+        "timestamp": "2019-10-14T13:58:02Z",
+        "version": 3,
+        "changeset": 75669736,
+        "addr:city": "Olho d'Água das Cunhãs",
+        "addr:street": "Rua Antonio Tomaz",
+        "addr:suburb": "Centro do José Rodrigues",
+        "air_conditioning": "no",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Posto de Saúde de Centro do José Rodrigues",
+        "opening_hours": "Mo-Fr 09:00-17:00",
+        "id": "node/6805890328"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.066714,
+          -4.1450909
+        ]
+      }
+    }
+  ]
+}

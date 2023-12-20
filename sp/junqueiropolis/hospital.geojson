@@ -1,0 +1,79 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/686165121",
+      "properties": {
+        "timestamp": "2021-04-29T02:07:07Z",
+        "version": 3,
+        "changeset": 103806057,
+        "addr:housenumber": "1221",
+        "addr:postcode": "17890-000",
+        "addr:street": "Rua Porto Alegre",
+        "addr:suburb": "Centro",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "psychiatry;general;paediatrics;dentistry;orthopaedics;ophthalmology;gynaecology;chiropractic;surgery;cardiology;emergency;oncology;community;radiology;physiatry;maternity;internal",
+        "name": "Santa Casa de Junqueirópolis",
+        "phone": "+55 18 3841 9420",
+        "website": "http://santacasajunqueiropolis.com.br/",
+        "id": "way/686165121"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.4392919,
+              -21.514784
+            ],
+            [
+              -51.4396106,
+              -21.5155294
+            ],
+            [
+              -51.4388004,
+              -21.5158396
+            ],
+            [
+              -51.4384557,
+              -21.5151039
+            ],
+            [
+              -51.4392919,
+              -21.514784
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8677956537",
+      "properties": {
+        "timestamp": "2021-04-29T19:15:38Z",
+        "version": 2,
+        "changeset": 103865485,
+        "addr:postcode": "17890-000",
+        "addr:street": "Rua Porto Alegre",
+        "addr:suburb": "Centro",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "Pronto Socorro de Junqueirópolis",
+        "phone": "+55 18 3841 1214",
+        "id": "node/8677956537"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.4391044,
+          -21.5149736
+        ]
+      }
+    }
+  ]
+}

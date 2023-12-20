@@ -1,0 +1,70 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1014465015",
+      "properties": {
+        "timestamp": "2023-09-30T00:54:19Z",
+        "version": 2,
+        "changeset": 141934321,
+        "addr:street": "Praça Treze de Maio",
+        "amenity": "library",
+        "building": "public",
+        "name": "Biblioteca Municipal de Ubatuba",
+        "id": "way/1014465015"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -45.0729498,
+              -23.4351194
+            ],
+            [
+              -45.0729794,
+              -23.4353808
+            ],
+            [
+              -45.07284,
+              -23.4353941
+            ],
+            [
+              -45.0728104,
+              -23.4351327
+            ],
+            [
+              -45.0729498,
+              -23.4351194
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9366032306",
+      "properties": {
+        "timestamp": "2021-12-25T19:58:32Z",
+        "version": 2,
+        "changeset": 115369832,
+        "addr:housenumber": "6422",
+        "addr:postcode": "11680-000",
+        "addr:street": "Rodovia Oswaldo Cruz",
+        "addr:suburb": "Horto Figueira",
+        "amenity": "library",
+        "description": "Pegue , leia , devolva - Gratuita",
+        "name": "Biblioteca Circulante",
+        "id": "node/9366032306"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.118502,
+          -23.4026775
+        ]
+      }
+    }
+  ]
+}

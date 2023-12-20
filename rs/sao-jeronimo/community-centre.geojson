@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1157266820",
+      "properties": {
+        "timestamp": "2023-03-25T21:12:12Z",
+        "version": 2,
+        "changeset": 134118570,
+        "addr:city": "São Jerônimo",
+        "addr:housenumber": "91",
+        "addr:postcode": "96700-000",
+        "addr:street": "Rua Dona Délia Drebes",
+        "addr:suburb": "Centro",
+        "amenity": "community_centre",
+        "building": "yes",
+        "building:levels": "1",
+        "community_centre": "cultural_centre",
+        "name": "Casa de Cultura Ivone Rosa",
+        "roof:shape": "hipped",
+        "id": "way/1157266820"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.7260799,
+              -29.9606075
+            ],
+            [
+              -51.7260379,
+              -29.9605264
+            ],
+            [
+              -51.7261904,
+              -29.9604662
+            ],
+            [
+              -51.7262331,
+              -29.960547
+            ],
+            [
+              -51.7260799,
+              -29.9606075
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9363037821",
+      "properties": {
+        "timestamp": "2021-12-24T03:45:43Z",
+        "version": 1,
+        "changeset": 115318400,
+        "amenity": "community_centre",
+        "id": "node/9363037821"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.029206,
+          -30.4946468
+        ]
+      }
+    }
+  ]
+}

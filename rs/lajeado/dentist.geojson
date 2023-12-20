@@ -1,0 +1,70 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1143722612",
+      "properties": {
+        "timestamp": "2023-02-10T21:28:43Z",
+        "version": 1,
+        "changeset": 132382320,
+        "addr:city": "Lajeado",
+        "addr:country": "BR",
+        "addr:state": "Rio Grande do Sul",
+        "addr:street": "Avenida Benjamin Constant",
+        "addr:suburb": "Centro",
+        "amenity": "dentist",
+        "building": "yes",
+        "name": "Oral Sim",
+        "id": "way/1143722612"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.9691408,
+              -29.4596467
+            ],
+            [
+              -51.9692633,
+              -29.4595405
+            ],
+            [
+              -51.9693775,
+              -29.4598705
+            ],
+            [
+              -51.9691408,
+              -29.4596467
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4346707509",
+      "properties": {
+        "timestamp": "2019-12-15T22:12:58Z",
+        "version": 2,
+        "changeset": 78441150,
+        "addr:city": "Lajeado",
+        "addr:housenumber": "93",
+        "addr:street": "Rua Sidonia Prediger",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "Dillon Bohrer",
+        "phone": "+55 51 3748-1740",
+        "id": "node/4346707509"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.9635027,
+          -29.4491613
+        ]
+      }
+    }
+  ]
+}

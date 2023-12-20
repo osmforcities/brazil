@@ -1,0 +1,76 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "relation/14102838",
+      "properties": {
+        "timestamp": "2023-03-10T00:03:03Z",
+        "version": 3,
+        "changeset": 133498671,
+        "amenity": "library",
+        "building": "yes",
+        "building:levels": "3",
+        "building:part": "yes",
+        "name": "Bloco 4 - Biblioteca",
+        "ref": "4",
+        "type": "multipolygon",
+        "id": "relation/14102838"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -53.4281286,
+              -27.3943374
+            ],
+            [
+              -53.4280006,
+              -27.3942463
+            ],
+            [
+              -53.4279902,
+              -27.3942389
+            ],
+            [
+              -53.4281584,
+              -27.3940526
+            ],
+            [
+              -53.4283041,
+              -27.3941563
+            ],
+            [
+              -53.4281358,
+              -27.3943426
+            ],
+            [
+              -53.4281286,
+              -27.3943374
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1788030098",
+      "properties": {
+        "timestamp": "2012-06-15T01:39:49Z",
+        "version": 1,
+        "changeset": 11900720,
+        "amenity": "library",
+        "name": "Biblioteca Municipal",
+        "id": "node/1788030098"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.3962945,
+          -27.3602054
+        ]
+      }
+    }
+  ]
+}

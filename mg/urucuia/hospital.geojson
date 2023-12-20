@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/836923538",
+      "properties": {
+        "timestamp": "2020-08-13T20:53:53Z",
+        "version": 1,
+        "changeset": 89375223,
+        "addr:city": "Urucuia",
+        "addr:postcode": "38649000",
+        "addr:street": "Avenida Américo Martins",
+        "addr:suburb": "Rutilante",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "Hospital Municipal de Urucuia Grícia Lisboa de Rezende",
+        "id": "way/836923538"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -45.7410761,
+              -16.1245278
+            ],
+            [
+              -45.7410053,
+              -16.1249544
+            ],
+            [
+              -45.7400725,
+              -16.1247983
+            ],
+            [
+              -45.7401564,
+              -16.1243811
+            ],
+            [
+              -45.7410761,
+              -16.1245278
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2897180597",
+      "properties": {
+        "timestamp": "2018-12-24T20:45:31Z",
+        "version": 2,
+        "changeset": 65749884,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "id": "node/2897180597"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.7407011,
+          -16.1248689
+        ]
+      }
+    }
+  ]
+}

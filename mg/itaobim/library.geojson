@@ -1,0 +1,70 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/867519667",
+      "properties": {
+        "timestamp": "2022-05-11T13:49:59Z",
+        "version": 2,
+        "changeset": 120842173,
+        "addr:city": "Itaobim",
+        "addr:postcode": "39625-000",
+        "addr:street": "Rua Paraíba",
+        "addr:suburb": "Centro",
+        "amenity": "library",
+        "building": "yes",
+        "internet_access": "yes",
+        "name": "Biblioteca Municipal de Itaobim",
+        "id": "way/867519667"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.5014443,
+              -16.5631332
+            ],
+            [
+              -41.5014753,
+              -16.5632267
+            ],
+            [
+              -41.5013826,
+              -16.5632549
+            ],
+            [
+              -41.5013516,
+              -16.5631615
+            ],
+            [
+              -41.5014443,
+              -16.5631332
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10119653428",
+      "properties": {
+        "timestamp": "2022-10-21T19:47:45Z",
+        "version": 1,
+        "changeset": 127900480,
+        "addr:street": "Rua Tonico Murta",
+        "amenity": "library",
+        "name": "Biblioteca Municipal Mario Campos",
+        "id": "node/10119653428"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.5013638,
+          -16.5609695
+        ]
+      }
+    }
+  ]
+}

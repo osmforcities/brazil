@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/103486354",
+      "properties": {
+        "timestamp": "2023-04-27T12:27:33Z",
+        "version": 4,
+        "changeset": 135426782,
+        "addr:city": "Guaporé",
+        "addr:housenumber": "951",
+        "addr:postcode": "99200-000",
+        "addr:street": "Rua Doutor João Manoel Pereira",
+        "addr:suburb": "Centro",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hospital Manoel Francisco Guerreiro",
+        "phone": "+55 54 3443-1377",
+        "ref:CNES": "2793237",
+        "ref:vatin": "BR03184906000100",
+        "id": "way/103486354"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.8860722,
+              -28.8488642
+            ],
+            [
+              -51.8853621,
+              -28.8488316
+            ],
+            [
+              -51.8853777,
+              -28.8485335
+            ],
+            [
+              -51.8853915,
+              -28.8480949
+            ],
+            [
+              -51.8850628,
+              -28.8479854
+            ],
+            [
+              -51.8850663,
+              -28.8479178
+            ],
+            [
+              -51.8861196,
+              -28.8479602
+            ],
+            [
+              -51.8860722,
+              -28.8488642
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6418682049",
+      "properties": {
+        "timestamp": "2019-04-21T02:30:31Z",
+        "version": 1,
+        "changeset": 69415088,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hospital Manuel Francisco Guerreiro",
+        "id": "node/6418682049"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.8857838,
+          -28.848337
+        ]
+      }
+    }
+  ]
+}

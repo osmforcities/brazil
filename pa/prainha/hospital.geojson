@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/628777832",
+      "properties": {
+        "timestamp": "2018-09-28T10:42:08Z",
+        "version": 1,
+        "changeset": 63004761,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hospital Municipal Wilson Ribeiro",
+        "id": "way/628777832"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -53.4816359,
+              -1.8040366
+            ],
+            [
+              -53.481617,
+              -1.8046337
+            ],
+            [
+              -53.48073,
+              -1.8046057
+            ],
+            [
+              -53.4807489,
+              -1.8040085
+            ],
+            [
+              -53.4816359,
+              -1.8040366
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7644496897",
+      "properties": {
+        "timestamp": "2020-06-22T21:12:17Z",
+        "version": 1,
+        "changeset": 86999071,
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "Edifício do Hospital Wilson Ribeiro",
+        "id": "node/7644496897"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.4811632,
+          -1.8043609
+        ]
+      }
+    }
+  ]
+}

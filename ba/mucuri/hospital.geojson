@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1136277345",
+      "properties": {
+        "timestamp": "2023-01-29T19:30:22Z",
+        "version": 1,
+        "changeset": 131852274,
+        "addr:city": "Mucuri",
+        "addr:postcode": "45930-000",
+        "addr:street": "Avenida Central",
+        "addr:suburb": "Santa Mônica",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "Unidade de Pronto Atendimento de Mucuri",
+        "operator": "Município de Mucuri",
+        "operator:type": "public",
+        "id": "way/1136277345"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -39.5419646,
+              -18.0700444
+            ],
+            [
+              -39.5416474,
+              -18.0702183
+            ],
+            [
+              -39.5412389,
+              -18.0694994
+            ],
+            [
+              -39.541556,
+              -18.069341
+            ],
+            [
+              -39.5419646,
+              -18.0700444
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10580519809",
+      "properties": {
+        "timestamp": "2023-01-25T02:26:35Z",
+        "version": 1,
+        "changeset": 131675468,
+        "addr:city": "Mucuri",
+        "addr:housenumber": "673",
+        "addr:postcode": "45930-000",
+        "addr:street": "Rua Amazonas",
+        "addr:suburb": "Itabatã",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "Hospital São José",
+        "operator": "Caritas Diocesana de Caravelas",
+        "operator:type": "private",
+        "id": "node/10580519809"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.8638052,
+          -18.0046716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10581587247",
+      "properties": {
+        "timestamp": "2023-01-26T14:44:09Z",
+        "version": 2,
+        "changeset": 131735852,
+        "addr:city": "Mucuri",
+        "addr:housenumber": "8",
+        "addr:postcode": "45936-000",
+        "addr:street": "Avenida dos Eucaliptos",
+        "addr:suburb": "Itabatã",
+        "alt_name": "Rede de Saúde Paineiras",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "Hospital Paineiras",
+        "operator": "Serviço Social da Indústria do Papel, Papelão e Cortiça do Estado de São Paulo - Sepaco",
+        "operator:type": "private",
+        "id": "node/10581587247"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.868022,
+          -18.0115376
+        ]
+      }
+    }
+  ]
+}

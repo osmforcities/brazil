@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/240437350",
+      "properties": {
+        "timestamp": "2014-03-17T23:32:50Z",
+        "version": 2,
+        "changeset": 21165657,
+        "addr:city": "Juiz de Fora",
+        "addr:housenumber": "581",
+        "addr:street": "Rua Halfeld",
+        "amenity": "cinema",
+        "building": "yes",
+        "name": "CineArt Palace",
+        "phone": "+55 32 3217-6570",
+        "id": "way/240437350"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.3471634,
+              -21.7608252
+            ],
+            [
+              -43.3470788,
+              -21.7611479
+            ],
+            [
+              -43.3469084,
+              -21.7611094
+            ],
+            [
+              -43.3469931,
+              -21.7607867
+            ],
+            [
+              -43.3471634,
+              -21.7608252
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2018530159",
+      "properties": {
+        "timestamp": "2012-11-17T18:58:51Z",
+        "version": 1,
+        "changeset": 13909586,
+        "amenity": "cinema",
+        "name": "Cine Santa Cruz",
+        "id": "node/2018530159"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3496647,
+          -21.7562066
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1028564788",
+      "properties": {
+        "timestamp": "2022-02-06T04:23:19Z",
+        "version": 1,
+        "changeset": 117066874,
+        "addr:postcode": "68637000",
+        "addr:street": "Travessa Pedro Aires da Silva",
+        "amenity": "hospital",
+        "name": "Hospital Municipal Ipixuna do Pará",
+        "id": "way/1028564788"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.4982751,
+              -2.5598525
+            ],
+            [
+              -47.4984013,
+              -2.5607787
+            ],
+            [
+              -47.4974676,
+              -2.5609057
+            ],
+            [
+              -47.4973413,
+              -2.5599795
+            ],
+            [
+              -47.4982751,
+              -2.5598525
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4284551292",
+      "properties": {
+        "timestamp": "2023-05-07T05:11:31Z",
+        "version": 3,
+        "changeset": 135797398,
+        "addr:postcode": "68637-000",
+        "addr:street": "Rua Ulisses Guimarães",
+        "amenity": "hospital",
+        "email": "hospitalsantaclara@yahoo.com.br",
+        "fax": "+55 91 3811 2123",
+        "healthcare": "hospital",
+        "name": "Hospital Santa Clara",
+        "operator:ref:vatin": "BR83268011000184",
+        "phone": "+55 91 3811 2123",
+        "ref:CNES": "2616483",
+        "source:addr": "DATASUS",
+        "source:geometry": "DATASUS;extrapolation",
+        "id": "node/4284551292"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.5042931,
+          -2.5570163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5000977822",
+      "properties": {
+        "timestamp": "2017-07-29T03:54:38Z",
+        "version": 1,
+        "changeset": 50663034,
+        "addr:street": "R - 13",
+        "amenity": "hospital",
+        "name": "UBSRC",
+        "name:pt": "UBSRC",
+        "id": "node/5000977822"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.4868289,
+          -2.5596154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9056491217",
+      "properties": {
+        "timestamp": "2021-09-02T15:23:04Z",
+        "version": 1,
+        "changeset": 110626688,
+        "amenity": "hospital",
+        "name": "Canaã",
+        "name:en": "Felix Benício Ribeiro",
+        "id": "node/9056491217"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.8151657,
+          -2.9481574
+        ]
+      }
+    }
+  ]
+}

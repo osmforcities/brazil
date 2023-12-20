@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/123103011",
+      "properties": {
+        "timestamp": "2011-07-25T15:43:12Z",
+        "version": 1,
+        "changeset": 8827299,
+        "alt_name": "Associação Atlética Banco do Brasil Estância Velha",
+        "amenity": "community_centre",
+        "name": "AABB Estância Velha",
+        "id": "way/123103011"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.1815717,
+              -29.6610665
+            ],
+            [
+              -51.1821313,
+              -29.6610985
+            ],
+            [
+              -51.1823332,
+              -29.661109
+            ],
+            [
+              -51.1830478,
+              -29.6612166
+            ],
+            [
+              -51.1833355,
+              -29.6625314
+            ],
+            [
+              -51.1825026,
+              -29.6626892
+            ],
+            [
+              -51.1821309,
+              -29.6627348
+            ],
+            [
+              -51.1817418,
+              -29.6627361
+            ],
+            [
+              -51.1815717,
+              -29.6610665
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1373869313",
+      "properties": {
+        "timestamp": "2011-07-25T15:43:10Z",
+        "version": 1,
+        "changeset": 8827299,
+        "addr:city": "Estância Velha",
+        "addr:country": "BR",
+        "addr:housenumber": "458",
+        "addr:street": "Avenida Walter Klein",
+        "barrier": "gate",
+        "motorcar": "yes",
+        "motorcycle": "yes",
+        "id": "node/1373869313"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1821313,
+          -29.6610985
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/537516962",
+      "properties": {
+        "timestamp": "2017-11-01T20:57:29Z",
+        "version": 1,
+        "changeset": 53434999,
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Hospital de Primeira Cruz",
+        "id": "way/537516962"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.440243,
+              -2.5039466
+            ],
+            [
+              -43.4401133,
+              -2.5047809
+            ],
+            [
+              -43.4394866,
+              -2.5046273
+            ],
+            [
+              -43.4396368,
+              -2.5038314
+            ],
+            [
+              -43.440243,
+              -2.5039466
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4289635867",
+      "properties": {
+        "timestamp": "2016-07-08T01:06:39Z",
+        "version": 1,
+        "changeset": 40558857,
+        "amenity": "hospital",
+        "source": "Bing;IBGE",
+        "id": "node/4289635867"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3799169,
+          -2.5512971
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/199577978",
+      "properties": {
+        "timestamp": "2021-09-13T21:33:28Z",
+        "version": 3,
+        "changeset": 111166213,
+        "building": "yes",
+        "name": "Secretaria de Estado de Educação",
+        "office": "government",
+        "id": "way/199577978"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -55.8055043,
+              -20.482037
+            ],
+            [
+              -55.8053327,
+              -20.4818687
+            ],
+            [
+              -55.8054731,
+              -20.481743
+            ],
+            [
+              -55.8056448,
+              -20.4819113
+            ],
+            [
+              -55.8055043,
+              -20.482037
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9112023345",
+      "properties": {
+        "timestamp": "2021-09-21T21:51:59Z",
+        "version": 1,
+        "changeset": 111515862,
+        "government": "social_services",
+        "name": "INSS Anastácio",
+        "office": "government",
+        "id": "node/9112023345"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8084504,
+          -20.4908116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9112023346",
+      "properties": {
+        "timestamp": "2021-09-21T21:51:59Z",
+        "version": 1,
+        "changeset": 111515862,
+        "government": "police",
+        "name": "Poder Judiciário Federal",
+        "office": "government",
+        "ref": "Tribunal Regional Eleitoral",
+        "id": "node/9112023346"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8083002,
+          -20.4905955
+        ]
+      }
+    }
+  ]
+}

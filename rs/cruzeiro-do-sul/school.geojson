@@ -1,0 +1,72 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1223869808",
+      "properties": {
+        "timestamp": "2023-11-15T17:49:50Z",
+        "version": 1,
+        "changeset": 144061605,
+        "addr:city": "Cruzeiro do Sul",
+        "addr:postcode": "95930000",
+        "addr:street": "Estrada Geral",
+        "addr:suburb": "Linha Sitio",
+        "amenity": "school",
+        "name": "Escola São Felipe",
+        "religion": "none",
+        "id": "way/1223869808"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -52.0262601,
+              -29.545207
+            ],
+            [
+              -52.0263455,
+              -29.5454086
+            ],
+            [
+              -52.0259308,
+              -29.5455536
+            ],
+            [
+              -52.0259552,
+              -29.5453485
+            ],
+            [
+              -52.0262601,
+              -29.545207
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7630720783",
+      "properties": {
+        "timestamp": "2023-05-10T03:03:34Z",
+        "version": 2,
+        "changeset": 135916773,
+        "addr:city": "Cruzeiro do Sul",
+        "addr:postcode": "95930-000",
+        "amenity": "school",
+        "name": "EEEF São Rafael",
+        "phone": "+55 51 3764 1811",
+        "ref:INEP": "43050468",
+        "id": "node/7630720783"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.0530127,
+          -29.5099455
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/466436149",
+      "properties": {
+        "timestamp": "2019-11-24T01:28:48Z",
+        "version": 3,
+        "changeset": 77472526,
+        "addr:city": "Cascavel",
+        "addr:housenumber": "1584",
+        "addr:postcode": "85802-020",
+        "addr:street": "Rua Vitória",
+        "addr:suburb": "Neva",
+        "building": "yes",
+        "name": "Bicicletária Ciclopoint",
+        "opening_hours": "08:00-12:00,13:30-18:30",
+        "phone": "+55 45 3222-9325",
+        "shop": "bicycle",
+        "id": "way/466436149"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -53.4698596,
+              -24.9640233
+            ],
+            [
+              -53.4698684,
+              -24.9641612
+            ],
+            [
+              -53.4696525,
+              -24.9641757
+            ],
+            [
+              -53.4696437,
+              -24.9640377
+            ],
+            [
+              -53.4698596,
+              -24.9640233
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6445737685",
+      "properties": {
+        "timestamp": "2019-11-24T01:28:47Z",
+        "version": 2,
+        "changeset": 77472526,
+        "addr:street": "Avenida Brasil",
+        "name": "Bicicletaria Confiança",
+        "phone": "+55 45 3225-0908",
+        "shop": "bicycle",
+        "id": "node/6445737685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.4390291,
+          -24.9467376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7006198885",
+      "properties": {
+        "timestamp": "2019-11-24T14:35:07Z",
+        "version": 1,
+        "changeset": 77483662,
+        "addr:street": "Rua Uruguai",
+        "name": "Stilo bike",
+        "opening_hours": "Mo-Fr 08:00-18:00",
+        "shop": "bicycle",
+        "id": "node/7006198885"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.4764801,
+          -24.9566498
+        ]
+      }
+    }
+  ]
+}

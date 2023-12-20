@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1211090278",
+      "properties": {
+        "timestamp": "2023-09-26T19:50:45Z",
+        "version": 1,
+        "changeset": 141789869,
+        "addr:city": "Boituva",
+        "addr:housenumber": "200",
+        "addr:street": "R. Viriato da Silva Viana",
+        "amenity": "veterinary",
+        "building": "yes",
+        "name": "Clínica Veterinária Boituva",
+        "opening_hours": "Mo-Fr 08:00-18:00",
+        "phone": "(15) 3263-1073",
+        "id": "way/1211090278"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.6780342,
+              -23.2895695
+            ],
+            [
+              -47.6779713,
+              -23.2895782
+            ],
+            [
+              -47.6779665,
+              -23.2895491
+            ],
+            [
+              -47.677925,
+              -23.2895549
+            ],
+            [
+              -47.677918,
+              -23.2895125
+            ],
+            [
+              -47.677891,
+              -23.2895162
+            ],
+            [
+              -47.6778691,
+              -23.2893826
+            ],
+            [
+              -47.6780004,
+              -23.2893644
+            ],
+            [
+              -47.6780342,
+              -23.2895695
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6810265510",
+      "properties": {
+        "timestamp": "2019-09-19T22:06:00Z",
+        "version": 1,
+        "changeset": 74696903,
+        "amenity": "veterinary",
+        "name": "S.O.S Animal",
+        "id": "node/6810265510"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.6690903,
+          -23.2830916
+        ]
+      }
+    }
+  ]
+}

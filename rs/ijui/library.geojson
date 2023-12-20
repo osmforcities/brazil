@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/603138561",
+      "properties": {
+        "timestamp": "2021-03-18T12:04:21Z",
+        "version": 4,
+        "changeset": 101258397,
+        "amenity": "library",
+        "building": "yes",
+        "building:levels": "2",
+        "name": "Biblioteca Universitária Mário Osório Marques",
+        "id": "way/603138561"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -53.9483933,
+              -28.3920561
+            ],
+            [
+              -53.9483625,
+              -28.3923331
+            ],
+            [
+              -53.9475436,
+              -28.3922757
+            ],
+            [
+              -53.9475785,
+              -28.3919887
+            ],
+            [
+              -53.9476188,
+              -28.3919916
+            ],
+            [
+              -53.9483565,
+              -28.3920522
+            ],
+            [
+              -53.9483933,
+              -28.3920561
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4786958074",
+      "properties": {
+        "timestamp": "2017-04-10T19:36:56Z",
+        "version": 1,
+        "changeset": 47636406,
+        "addr:city": "Ijuí",
+        "addr:housenumber": "116",
+        "addr:postcode": "98700-000",
+        "addr:street": "Rua Benjamin Constant",
+        "addr:suburb": "Centro",
+        "amenity": "library",
+        "name": "Biblioteca Municipal",
+        "opening_hours": "08:30-11:30",
+        "operator": "Poder Executivo",
+        "id": "node/4786958074"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.9156476,
+          -28.3921594
+        ]
+      }
+    }
+  ]
+}

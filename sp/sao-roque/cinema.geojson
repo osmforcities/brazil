@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/545177561",
+      "properties": {
+        "timestamp": "2018-06-07T05:16:16Z",
+        "version": 2,
+        "changeset": 59621116,
+        "amenity": "cinema",
+        "building": "yes",
+        "name": "Cine São José",
+        "id": "way/545177561"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.1348848,
+              -23.5304294
+            ],
+            [
+              -47.134697,
+              -23.5308204
+            ],
+            [
+              -47.1345575,
+              -23.5307319
+            ],
+            [
+              -47.1347158,
+              -23.5303655
+            ],
+            [
+              -47.1348848,
+              -23.5304294
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5002335567",
+      "properties": {
+        "timestamp": "2023-10-25T15:32:18Z",
+        "version": 2,
+        "changeset": 143121825,
+        "addr:city": "São Roque",
+        "addr:housenumber": "150",
+        "addr:street": "Rua Germano Negrini",
+        "addr:suburb": "Centro",
+        "amenity": "cinema",
+        "name": "Cine Center São Roque",
+        "website": "https://cinesaoroque.com.br/index.php",
+        "id": "node/5002335567"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.1361775,
+          -23.5285526
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1101556655",
+      "properties": {
+        "timestamp": "2022-10-06T19:49:27Z",
+        "version": 1,
+        "changeset": 127117098,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hospital Municipal",
+        "id": "way/1101556655"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -35.8391749,
+              -5.2271135
+            ],
+            [
+              -35.8393618,
+              -5.2270128
+            ],
+            [
+              -35.8395029,
+              -5.2272509
+            ],
+            [
+              -35.8393036,
+              -5.2273672
+            ],
+            [
+              -35.8391749,
+              -5.2271135
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10080549997",
+      "properties": {
+        "timestamp": "2022-10-06T19:49:27Z",
+        "version": 1,
+        "changeset": 127117098,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "id": "node/10080549997"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.8393373,
+          -5.227186
+        ]
+      }
+    }
+  ]
+}

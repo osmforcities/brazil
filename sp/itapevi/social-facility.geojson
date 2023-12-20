@@ -1,0 +1,124 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/772958098",
+      "properties": {
+        "timestamp": "2023-02-07T18:42:26Z",
+        "version": 3,
+        "changeset": 132219977,
+        "addr:city": "Itapevi",
+        "addr:housenumber": "420",
+        "addr:street": "Rua Américo Valentin Cristianini",
+        "addr:suburb": "Vila Aurora",
+        "amenity": "social_facility",
+        "building": "yes",
+        "name": "Centro de Referência de Assistência Social Vila Aurora",
+        "short_name": "CRAS Vila Aurora",
+        "social_facility": "outreach",
+        "social_facility:for": "underprivileged",
+        "id": "way/772958098"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.9345292,
+              -23.5517742
+            ],
+            [
+              -46.9346579,
+              -23.5519826
+            ],
+            [
+              -46.9346085,
+              -23.5520403
+            ],
+            [
+              -46.9344803,
+              -23.5518215
+            ],
+            [
+              -46.9345292,
+              -23.5517742
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/865104213",
+      "properties": {
+        "timestamp": "2023-02-01T18:33:06Z",
+        "version": 3,
+        "changeset": 131973673,
+        "addr:city": "Itapevi",
+        "addr:housenumber": "262",
+        "addr:street": "Rua Agostinho Ferreira de Campos",
+        "addr:suburb": "Cidade Saúde",
+        "alt_name": "Centro de Referência Especializado para População em Situação de Rua Itapevi",
+        "amenity": "social_facility",
+        "building": "yes",
+        "name": "Centro POP Itapevi",
+        "opening_hours": "Mo-Fr 08:00-17:00; PH off",
+        "phone": "+55 11 4142 6080",
+        "social_facility": "outreach",
+        "social_facility:for": "homeless",
+        "start_date": "2014-04-14",
+        "id": "way/865104213"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.9356503,
+              -23.5395348
+            ],
+            [
+              -46.9357151,
+              -23.5396767
+            ],
+            [
+              -46.9356461,
+              -23.5397055
+            ],
+            [
+              -46.935575,
+              -23.5395636
+            ],
+            [
+              -46.9356503,
+              -23.5395348
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10789130707",
+      "properties": {
+        "timestamp": "2023-04-06T00:13:33Z",
+        "version": 1,
+        "changeset": 134557155,
+        "addr:street": "Rua Orestino Santiago Ramos",
+        "amenity": "social_facility",
+        "name": "Centro de Atenção Psicossocial AD III",
+        "social_facility": "assisted_living",
+        "social_facility:for": "drug_addicted",
+        "id": "node/10789130707"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.9415918,
+          -23.5356221
+        ]
+      }
+    }
+  ]
+}

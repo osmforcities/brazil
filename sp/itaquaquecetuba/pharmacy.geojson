@@ -1,0 +1,79 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/504414521",
+      "properties": {
+        "timestamp": "2019-08-08T16:54:18Z",
+        "version": 2,
+        "changeset": 73164043,
+        "addr:city": "Itaquaquecetuba",
+        "addr:housenumber": "735",
+        "addr:postcode": "08573-000",
+        "addr:street": "Avenida Ítalo Adami",
+        "addr:suburb": "Vila Zeferina",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Drogaria SP",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+55 11 3717 0007",
+        "id": "way/504414521"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.3488078,
+              -23.4864326
+            ],
+            [
+              -46.3487997,
+              -23.486558
+            ],
+            [
+              -46.3486629,
+              -23.4865678
+            ],
+            [
+              -46.3486683,
+              -23.486435
+            ],
+            [
+              -46.3488078,
+              -23.4864326
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11347151312",
+      "properties": {
+        "timestamp": "2023-11-13T19:57:11Z",
+        "version": 1,
+        "changeset": 143985156,
+        "addr:housenumber": "607",
+        "addr:street": "Avenida Brasil",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Drogaria OliverFarma",
+        "phone": "+55 11 2470 5331",
+        "id": "node/11347151312"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.3416148,
+          -23.4887684
+        ]
+      }
+    }
+  ]
+}

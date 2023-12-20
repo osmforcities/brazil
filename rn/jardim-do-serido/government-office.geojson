@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/675392558",
+      "properties": {
+        "timestamp": "2019-03-08T10:56:34Z",
+        "version": 1,
+        "changeset": 67917771,
+        "building": "yes",
+        "name": "Fórum",
+        "office": "government",
+        "id": "way/675392558"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -36.7744388,
+              -6.5887305
+            ],
+            [
+              -36.7745745,
+              -6.5889613
+            ],
+            [
+              -36.7742507,
+              -6.5891493
+            ],
+            [
+              -36.7741149,
+              -6.5889185
+            ],
+            [
+              -36.7744388,
+              -6.5887305
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6325059219",
+      "properties": {
+        "timestamp": "2019-03-08T10:56:33Z",
+        "version": 1,
+        "changeset": 67917771,
+        "government": "public_service",
+        "name": "CAERN",
+        "office": "government",
+        "id": "node/6325059219"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.775809,
+          -6.5895325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6325059223",
+      "properties": {
+        "timestamp": "2019-03-08T10:56:33Z",
+        "version": 1,
+        "changeset": 67917771,
+        "government": "public_service",
+        "name": "EMATER",
+        "office": "government",
+        "id": "node/6325059223"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.7742161,
+          -6.586028
+        ]
+      }
+    }
+  ]
+}

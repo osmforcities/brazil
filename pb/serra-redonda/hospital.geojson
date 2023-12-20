@@ -1,0 +1,81 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/681286016",
+      "properties": {
+        "timestamp": "2019-04-05T14:12:40Z",
+        "version": 2,
+        "changeset": 68923556,
+        "addr:city": "Serra Redonda",
+        "addr:postcode": "58385-000",
+        "addr:street": "Rua Francisco Clementino Andrade",
+        "addr:suburb": "Centro",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general;psychiatry;paediatrics;dentistry",
+        "name": "Posto Munícipal de Serra Redonda",
+        "id": "way/681286016"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -35.6779246,
+              -7.1809958
+            ],
+            [
+              -35.6781848,
+              -7.1807477
+            ],
+            [
+              -35.6783027,
+              -7.1808768
+            ],
+            [
+              -35.6782661,
+              -7.1809192
+            ],
+            [
+              -35.6783149,
+              -7.1809776
+            ],
+            [
+              -35.6780881,
+              -7.1811891
+            ],
+            [
+              -35.6779246,
+              -7.1809958
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6379871259",
+      "properties": {
+        "timestamp": "2019-04-05T14:12:39Z",
+        "version": 2,
+        "changeset": 68923556,
+        "addr:street": "Rua Francisco Clementino Andrade",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "dentist;cardiology;clinic;community",
+        "name": "Posto Munícipal de Serra Redonda",
+        "id": "node/6379871259"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.6780567,
+          -7.1810725
+        ]
+      }
+    }
+  ]
+}

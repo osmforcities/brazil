@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/925370679",
+      "properties": {
+        "timestamp": "2022-03-25T22:06:07Z",
+        "version": 2,
+        "changeset": 118929476,
+        "amenity": "pharmacy",
+        "building": "yes",
+        "name": "Farmácia Analis",
+        "id": "way/925370679"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -52.1958848,
+              -26.7836514
+            ],
+            [
+              -52.1959555,
+              -26.7837569
+            ],
+            [
+              -52.1958329,
+              -26.7838224
+            ],
+            [
+              -52.1957622,
+              -26.783717
+            ],
+            [
+              -52.1958848,
+              -26.7836514
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9043613935",
+      "properties": {
+        "timestamp": "2021-08-28T14:02:04Z",
+        "version": 1,
+        "changeset": 110381772,
+        "amenity": "pharmacy",
+        "name": "Farmácia Sol da Terra",
+        "id": "node/9043613935"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.262502,
+          -26.8553268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9043613936",
+      "properties": {
+        "timestamp": "2021-10-17T20:01:43Z",
+        "version": 2,
+        "changeset": 112625683,
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmácia Azzolini",
+        "id": "node/9043613936"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.2618046,
+          -26.8536302
+        ]
+      }
+    }
+  ]
+}

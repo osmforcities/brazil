@@ -1,0 +1,102 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/356622667",
+      "properties": {
+        "timestamp": "2021-05-26T15:43:14Z",
+        "version": 5,
+        "changeset": 105368118,
+        "amenity": "arts_centre",
+        "building": "yes",
+        "building:colour": "pink",
+        "building:levels": "2",
+        "historic": "yes",
+        "loc_name": "Colégio Rosa",
+        "name": "Centro Cultural Vidal Ramos",
+        "old_name": "Grupo Escolar Vidal Ramos",
+        "operator": "Sesc",
+        "roof:material": "roof_tiles",
+        "roof:shape": "hipped",
+        "tourism": "attraction",
+        "id": "way/356622667"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -50.3245298,
+              -27.8156642
+            ],
+            [
+              -50.324466,
+              -27.8157734
+            ],
+            [
+              -50.3242847,
+              -27.8156906
+            ],
+            [
+              -50.3242557,
+              -27.8156774
+            ],
+            [
+              -50.3240546,
+              -27.8155856
+            ],
+            [
+              -50.3241183,
+              -27.8154764
+            ],
+            [
+              -50.3243194,
+              -27.8155682
+            ],
+            [
+              -50.3245298,
+              -27.8156642
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8769250074",
+      "properties": {
+        "timestamp": "2021-05-26T15:43:14Z",
+        "version": 1,
+        "changeset": 105368118,
+        "entrance": "yes",
+        "id": "node/8769250074"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.3243194,
+          -27.8155682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8769250075",
+      "properties": {
+        "timestamp": "2021-05-26T15:43:14Z",
+        "version": 1,
+        "changeset": 105368118,
+        "entrance": "main",
+        "id": "node/8769250075"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.3242557,
+          -27.8156774
+        ]
+      }
+    }
+  ]
+}

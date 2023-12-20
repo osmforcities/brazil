@@ -1,0 +1,205 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/507961801",
+      "properties": {
+        "timestamp": "2022-07-17T17:49:17Z",
+        "version": 2,
+        "changeset": 123729897,
+        "addr:housenumber": "264",
+        "addr:street": "Rua Antero Torres",
+        "amenity": "pharmacy",
+        "building": "commercial",
+        "healthcare": "pharmacy",
+        "name": "Farmácia Lima",
+        "source": "survey",
+        "id": "way/507961801"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -45.9747316,
+              -20.0160501
+            ],
+            [
+              -45.9747327,
+              -20.0160876
+            ],
+            [
+              -45.9745738,
+              -20.016092
+            ],
+            [
+              -45.9745726,
+              -20.0160546
+            ],
+            [
+              -45.9747316,
+              -20.0160501
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/508255872",
+      "properties": {
+        "timestamp": "2022-07-17T17:49:17Z",
+        "version": 3,
+        "changeset": 123729897,
+        "amenity": "pharmacy",
+        "building": "commercial",
+        "healthcare": "pharmacy",
+        "name": "Naturalfarma",
+        "id": "way/508255872"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -45.9750219,
+              -20.0141301
+            ],
+            [
+              -45.9750769,
+              -20.0139965
+            ],
+            [
+              -45.9751683,
+              -20.0140297
+            ],
+            [
+              -45.975124,
+              -20.014133
+            ],
+            [
+              -45.9750219,
+              -20.0141301
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1659779620",
+      "properties": {
+        "timestamp": "2022-07-17T17:49:17Z",
+        "version": 4,
+        "changeset": 123729897,
+        "amenity": "pharmacy",
+        "dispensing": "no",
+        "healthcare": "pharmacy",
+        "name": "Farmácia Nossa Senhora Aparecida",
+        "source": "survey",
+        "id": "node/1659779620"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.9772674,
+          -20.0113632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2485009786",
+      "properties": {
+        "timestamp": "2022-07-17T17:49:17Z",
+        "version": 2,
+        "changeset": 123729897,
+        "addr:housenumber": "404",
+        "addr:street": "Rua José Augusto Chaves",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmácia Brasil",
+        "id": "node/2485009786"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.9790367,
+          -20.0109567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2485009794",
+      "properties": {
+        "timestamp": "2022-07-17T17:49:17Z",
+        "version": 2,
+        "changeset": 123729897,
+        "addr:housenumber": "66",
+        "addr:street": "Rua dos Expedicionários",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Uai Farma",
+        "id": "node/2485009794"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.9786148,
+          -20.0117862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2702674157",
+      "properties": {
+        "timestamp": "2020-03-29T02:08:25Z",
+        "version": 2,
+        "changeset": 82768177,
+        "addr:housenumber": "501",
+        "addr:street": "Rua Alzira Torres",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Drogaria Souza",
+        "source": "survey",
+        "id": "node/2702674157"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.9841821,
+          -20.0172525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2702674164",
+      "properties": {
+        "timestamp": "2020-03-29T02:08:25Z",
+        "version": 2,
+        "changeset": 82768177,
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmácia Brasil",
+        "note": "Filial Lava-pés",
+        "source": "survey",
+        "id": "node/2702674164"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.9832585,
+          -20.0160129
+        ]
+      }
+    }
+  ]
+}

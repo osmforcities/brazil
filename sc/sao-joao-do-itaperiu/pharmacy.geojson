@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/705250715",
+      "properties": {
+        "timestamp": "2019-07-17T18:31:34Z",
+        "version": 1,
+        "changeset": 72361032,
+        "amenity": "pharmacy",
+        "brand": "São João",
+        "brand:wikidata": "Q62663306",
+        "building": "yes",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "São João",
+        "id": "way/705250715"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.7676926,
+              -26.619649
+            ],
+            [
+              -48.7676996,
+              -26.6197937
+            ],
+            [
+              -48.7675399,
+              -26.6197999
+            ],
+            [
+              -48.7675329,
+              -26.6196552
+            ],
+            [
+              -48.7676926,
+              -26.619649
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6529839951",
+      "properties": {
+        "timestamp": "2019-06-06T18:34:13Z",
+        "version": 1,
+        "changeset": 71000194,
+        "addr:city": "São João do Itaperiú",
+        "addr:street": "Rua José Bonifácio Pires",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmácia MedPopular",
+        "phone": "+55 47 3458-0326",
+        "id": "node/6529839951"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.7672402,
+          -26.6161682
+        ]
+      }
+    }
+  ]
+}

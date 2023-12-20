@@ -1,0 +1,106 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/457218757",
+      "properties": {
+        "timestamp": "2016-12-02T13:20:28Z",
+        "version": 1,
+        "changeset": 44114067,
+        "amenity": "hospital",
+        "emergency": "yes",
+        "id": "way/457218757"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.0559398,
+              -23.2690236
+            ],
+            [
+              -51.0555584,
+              -23.2696702
+            ],
+            [
+              -51.0553264,
+              -23.2695547
+            ],
+            [
+              -51.0552444,
+              -23.2696935
+            ],
+            [
+              -51.0548395,
+              -23.2694919
+            ],
+            [
+              -51.0548735,
+              -23.2694343
+            ],
+            [
+              -51.0545702,
+              -23.2692833
+            ],
+            [
+              -51.0549996,
+              -23.2685555
+            ],
+            [
+              -51.0559398,
+              -23.2690236
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4510279696",
+      "properties": {
+        "timestamp": "2022-08-16T19:41:55Z",
+        "version": 2,
+        "changeset": 124988146,
+        "addr:city": "Ibiporã",
+        "addr:housenumber": "266",
+        "addr:postcode": "86280-000",
+        "addr:street": "Avenida José Bonifácio",
+        "addr:suburb": "Centro",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Hospital Santa Terezinha",
+        "id": "node/4510279696"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.0450963,
+          -23.2683359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4511427233",
+      "properties": {
+        "timestamp": "2016-11-20T02:15:55Z",
+        "version": 1,
+        "changeset": 43813587,
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "Pronto Socorro (Hospital Cristo Rei)",
+        "id": "node/4511427233"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.0556357,
+          -23.2694126
+        ]
+      }
+    }
+  ]
+}

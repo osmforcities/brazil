@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/678321043",
+      "properties": {
+        "timestamp": "2019-06-16T23:24:58Z",
+        "version": 2,
+        "changeset": 71311866,
+        "addr:street": "Rua Santa Filomena",
+        "amenity": "cinema",
+        "building": "yes",
+        "name": "Popular",
+        "note": "Só filmes adultos",
+        "payment:cash": "yes",
+        "id": "way/678321043"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.5509699,
+              -23.7021998
+            ],
+            [
+              -46.5509551,
+              -23.7022949
+            ],
+            [
+              -46.5507353,
+              -23.7022715
+            ],
+            [
+              -46.550744,
+              -23.7021751
+            ],
+            [
+              -46.5509699,
+              -23.7021998
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2587314376",
+      "properties": {
+        "timestamp": "2019-07-03T21:37:40Z",
+        "version": 8,
+        "changeset": 71876261,
+        "addr:city": "São Bernardo do Campo",
+        "addr:country": "BR",
+        "addr:housenumber": "301",
+        "addr:street": "Garcia Lorca",
+        "amenity": "cinema",
+        "brand": "Cinemark",
+        "brand:wikidata": "Q707530",
+        "brand:wikipedia": "en:Cinemark Theatres",
+        "name": "Cinemark",
+        "opening_hours": "Mo-Su 11:50-21:40",
+        "payment:debit_cards": "yes",
+        "phone": "+55 11 4362 4706",
+        "website": "https://www.cinemark.com.br/programacao/sao-bernardo-do-campo/extra-anchieta/3/724",
+        "id": "node/2587314376"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5755062,
+          -23.6694418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5457596507",
+      "properties": {
+        "timestamp": "2023-10-27T01:23:48Z",
+        "version": 4,
+        "changeset": 143188024,
+        "addr:city": "São Bernardo do Campo",
+        "addr:housenumber": "624",
+        "addr:street": "Avenida Rotary",
+        "addr:suburb": "Ferrazópolis",
+        "amenity": "cinema",
+        "brand": "Cinepolis",
+        "brand:wikidata": "Q5686673",
+        "brand:wikipedia": "en:Cinépolis",
+        "name": "Cinepolis",
+        "opening_hours": "14:00-23:00",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:debit_cards": "yes",
+        "payment:notes": "yes",
+        "website": "https://www.cinepolis.com.br/",
+        "id": "node/5457596507"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5441916,
+          -23.7232189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9148043390",
+      "properties": {
+        "timestamp": "2021-10-05T10:33:07Z",
+        "version": 1,
+        "changeset": 112115833,
+        "amenity": "cinema",
+        "brand": "Cinemark",
+        "brand:wikidata": "Q707530",
+        "brand:wikipedia": "en:Cinemark Theatres",
+        "level": "4",
+        "name": "Cinemark",
+        "id": "node/9148043390"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5569681,
+          -23.6837849
+        ]
+      }
+    }
+  ]
+}

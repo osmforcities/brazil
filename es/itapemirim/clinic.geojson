@@ -1,0 +1,112 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/647918629",
+      "properties": {
+        "timestamp": "2018-11-23T02:14:25Z",
+        "version": 1,
+        "changeset": 64798157,
+        "addr:city": "Itapemirim",
+        "addr:postcode": "29330-000",
+        "addr:street": "Avenida Itapemirim",
+        "addr:suburb": "Itaipava",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "id": "way/647918629"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.7743192,
+              -20.8894312
+            ],
+            [
+              -40.7743634,
+              -20.8895615
+            ],
+            [
+              -40.7742575,
+              -20.8895966
+            ],
+            [
+              -40.7742132,
+              -20.8894675
+            ],
+            [
+              -40.7743192,
+              -20.8894312
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2856648504",
+      "properties": {
+        "timestamp": "2019-07-07T03:34:18Z",
+        "version": 2,
+        "changeset": 71972740,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "id": "node/2856648504"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.9143992,
+          -21.0318217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4457713990",
+      "properties": {
+        "timestamp": "2019-07-07T03:34:18Z",
+        "version": 3,
+        "changeset": 71972740,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Centro Médico",
+        "id": "node/4457713990"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.8213347,
+          -21.0089515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6083893925",
+      "properties": {
+        "timestamp": "2019-07-07T03:34:18Z",
+        "version": 2,
+        "changeset": 71972740,
+        "addr:city": "Itapemirim",
+        "addr:postcode": "29330-000",
+        "addr:street": "Avenida Itapemirim",
+        "addr:suburb": "Itaipava",
+        "amenity": "clinic",
+        "healthcare": "centre",
+        "name": "Centro de Especialidades Médicas",
+        "id": "node/6083893925"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.7743098,
+          -20.8895089
+        ]
+      }
+    }
+  ]
+}

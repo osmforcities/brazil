@@ -2408,6 +2408,158 @@
     },
     {
       "type": "Feature",
+      "id": "way/1230016952",
+      "properties": {
+        "timestamp": "2023-12-10T01:36:44Z",
+        "version": 1,
+        "changeset": 144952429,
+        "amenity": "pharmacy",
+        "brand": "Pague Menos",
+        "brand:wikidata": "Q7124466",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Pague Menos",
+        "id": "way/1230016952"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.5214512,
+              -12.9985079
+            ],
+            [
+              -38.5213868,
+              -12.9987138
+            ],
+            [
+              -38.5212881,
+              -12.9986919
+            ],
+            [
+              -38.5213536,
+              -12.9984817
+            ],
+            [
+              -38.5214512,
+              -12.9985079
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1230016955",
+      "properties": {
+        "timestamp": "2023-12-10T01:47:00Z",
+        "version": 2,
+        "changeset": 144952532,
+        "amenity": "pharmacy",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "A Fórmula",
+        "id": "way/1230016955"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.5212077,
+              -12.9984221
+            ],
+            [
+              -38.5210607,
+              -12.9989417
+            ],
+            [
+              -38.5209695,
+              -12.998925
+            ],
+            [
+              -38.5209861,
+              -12.9988038
+            ],
+            [
+              -38.520992,
+              -12.9987603
+            ],
+            [
+              -38.5211004,
+              -12.9983939
+            ],
+            [
+              -38.5212077,
+              -12.9984221
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1230097281",
+      "properties": {
+        "timestamp": "2023-12-10T14:07:33Z",
+        "version": 1,
+        "changeset": 144965819,
+        "amenity": "pharmacy",
+        "brand": "Drogasil",
+        "brand:wikidata": "Q5308185",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Drogasil",
+        "wheelchair": "yes",
+        "id": "way/1230097281"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.5234473,
+              -13.0037779
+            ],
+            [
+              -38.5234484,
+              -13.0038709
+            ],
+            [
+              -38.5234312,
+              -13.0038699
+            ],
+            [
+              -38.5234301,
+              -13.0039336
+            ],
+            [
+              -38.523355,
+              -13.0039326
+            ],
+            [
+              -38.5233561,
+              -13.0038709
+            ],
+            [
+              -38.5233379,
+              -13.0038688
+            ],
+            [
+              -38.5233421,
+              -13.0037758
+            ],
+            [
+              -38.5234473,
+              -13.0037779
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/566435510",
       "properties": {
         "timestamp": "2021-08-03T20:12:35Z",
@@ -2993,49 +3145,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/3692002393",
-      "properties": {
-        "timestamp": "2021-08-03T20:12:35Z",
-        "version": 3,
-        "changeset": 109112240,
-        "amenity": "pharmacy",
-        "brand": "Pague Menos",
-        "brand:wikidata": "Q7124466",
-        "brand:wikipedia": "pt:Pague Menos",
-        "healthcare": "pharmacy",
-        "name": "Pague Menos",
-        "id": "node/3692002393"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -38.5213566,
-          -12.9984976
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/3692002558",
-      "properties": {
-        "timestamp": "2021-08-03T20:12:35Z",
-        "version": 4,
-        "changeset": 109112240,
-        "amenity": "pharmacy",
-        "healthcare": "pharmacy",
-        "name": "A Fórmula",
-        "id": "node/3692002558"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -38.5211146,
-          -12.9984307
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/3708701927",
       "properties": {
         "timestamp": "2020-09-27T23:49:26Z",
@@ -3557,30 +3666,6 @@
         "coordinates": [
           -38.5235239,
           -13.0042881
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/4581840405",
-      "properties": {
-        "timestamp": "2021-08-03T20:12:35Z",
-        "version": 4,
-        "changeset": 109112240,
-        "amenity": "pharmacy",
-        "brand": "Drogasil",
-        "brand:wikidata": "Q5308185",
-        "brand:wikipedia": "pt:Drogasil",
-        "healthcare": "pharmacy",
-        "name": "Drogasil",
-        "wheelchair": "yes",
-        "id": "node/4581840405"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -38.5233417,
-          -13.0038213
         ]
       }
     },

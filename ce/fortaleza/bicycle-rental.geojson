@@ -3,6 +3,44 @@
   "features": [
     {
       "type": "Feature",
+      "id": "way/1230027186",
+      "properties": {
+        "timestamp": "2023-12-10T03:11:24Z",
+        "version": 1,
+        "changeset": 144953437,
+        "amenity": "bicycle_rental",
+        "id": "way/1230027186"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.5457325,
+              -3.7146514
+            ],
+            [
+              -38.5457288,
+              -3.7146365
+            ],
+            [
+              -38.5458402,
+              -3.7146059
+            ],
+            [
+              -38.5458446,
+              -3.7146205
+            ],
+            [
+              -38.5457325,
+              -3.7146514
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/3833597215",
       "properties": {
         "timestamp": "2023-10-13T01:40:20Z",
@@ -2074,13 +2112,13 @@
       "type": "Feature",
       "id": "node/7135048762",
       "properties": {
-        "timestamp": "2022-10-04T16:58:15Z",
-        "version": 3,
-        "changeset": 127005970,
+        "timestamp": "2023-12-10T03:11:24Z",
+        "version": 4,
+        "changeset": 144953437,
         "amenity": "bicycle_rental",
         "capacity": "16",
         "description": "Calçada da Areninha do Pirambu, na Avenida Leste-Oeste.",
-        "name": "Areninha Pirambu",
+        "name": "Bicicletar Estação 82 - Areninha Pirambu",
         "network": "Bicicletar",
         "operator": "Prefeitura Municipal de Fortaleza",
         "ref": "82",
@@ -2091,8 +2129,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -38.5458166,
-          -3.714623
+          -38.5457887,
+          -3.714628
         ]
       }
     },

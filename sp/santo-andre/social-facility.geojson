@@ -168,9 +168,9 @@
       "type": "Feature",
       "id": "way/1178585992",
       "properties": {
-        "timestamp": "2023-08-10T23:01:53Z",
-        "version": 2,
-        "changeset": 139726760,
+        "timestamp": "2023-12-10T16:54:06Z",
+        "version": 3,
+        "changeset": 144971111,
         "addr:city": "Santo André",
         "addr:housenumber": "351",
         "addr:street": "Rua Senador Fláquer",
@@ -201,6 +201,22 @@
               -23.6616368
             ],
             [
+              -46.5244072,
+              -23.66157
+            ],
+            [
+              -46.5243159,
+              -23.6614807
+            ],
+            [
+              -46.5242803,
+              -23.6614459
+            ],
+            [
+              -46.524251,
+              -23.6614172
+            ],
+            [
               -46.5242073,
               -23.6613744
             ],
@@ -209,8 +225,16 @@
               -23.6612434
             ],
             [
+              -46.5244316,
+              -23.6613162
+            ],
+            [
+              -46.524448,
+              -23.6613331
+            ],
+            [
               -46.5244888,
-              -23.6613751
+              -23.661375
             ],
             [
               -46.5246186,
@@ -866,6 +890,82 @@
     },
     {
       "type": "Feature",
+      "id": "way/1230125919",
+      "properties": {
+        "timestamp": "2023-12-10T16:54:06Z",
+        "version": 1,
+        "changeset": 144971111,
+        "addr:city": "Santo André",
+        "addr:housenumber": "350",
+        "addr:street": "Rua Xavier de Toledo",
+        "addr:suburb": "Centro",
+        "amenity": "social_facility",
+        "name": "Centro de Referência de Assistência Social Centro Santo André",
+        "operator": "Prefeitura Municipal de Santo André",
+        "operator:type": "government",
+        "short_name": "CRAS Centro",
+        "social_facility": "outreach",
+        "social_facility:for": "underprivileged",
+        "id": "way/1230125919"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.5243609,
+              -23.6612434
+            ],
+            [
+              -46.5242073,
+              -23.6613744
+            ],
+            [
+              -46.5241382,
+              -23.6613063
+            ],
+            [
+              -46.5241045,
+              -23.6612727
+            ],
+            [
+              -46.5239394,
+              -23.6611095
+            ],
+            [
+              -46.524015,
+              -23.6610438
+            ],
+            [
+              -46.5240906,
+              -23.6609781
+            ],
+            [
+              -46.5241297,
+              -23.6610166
+            ],
+            [
+              -46.5242177,
+              -23.6611029
+            ],
+            [
+              -46.5243126,
+              -23.661196
+            ],
+            [
+              -46.5243382,
+              -23.6612211
+            ],
+            [
+              -46.5243609,
+              -23.6612434
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/4695956433",
       "properties": {
         "timestamp": "2019-12-31T15:08:11Z",
@@ -1008,6 +1108,24 @@
         "coordinates": [
           -46.5233586,
           -23.6574648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11407711932",
+      "properties": {
+        "timestamp": "2023-12-10T16:54:06Z",
+        "version": 1,
+        "changeset": 144971111,
+        "entrance": "yes",
+        "id": "node/11407711932"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.524015,
+          -23.6610438
         ]
       }
     }

@@ -2360,13 +2360,18 @@
       "type": "Feature",
       "id": "way/1201520689",
       "properties": {
-        "timestamp": "2023-08-23T18:07:13Z",
-        "version": 1,
-        "changeset": 140287968,
+        "timestamp": "2023-12-10T23:00:24Z",
+        "version": 3,
+        "changeset": 144979989,
+        "addr:housenumber": "2080",
+        "addr:street": "Avenida Ipanema",
         "amenity": "pharmacy",
         "building": "commercial",
         "healthcare": "pharmacy",
+        "mapillary": "275605318749308",
         "name": "Farmamed",
+        "opening_hours": "24/7",
+        "website": "https://www.institucional.farmamed.com.br",
         "id": "way/1201520689"
       },
       "geometry": {
@@ -2881,26 +2886,6 @@
         "coordinates": [
           -47.4409885,
           -23.4973923
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/11001531069",
-      "properties": {
-        "timestamp": "2023-06-23T11:33:00Z",
-        "version": 1,
-        "changeset": 137685034,
-        "amenity": "pharmacy",
-        "healthcare": "pharmacy",
-        "name": "Farmamed",
-        "id": "node/11001531069"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -47.4853987,
-          -23.4763502
         ]
       }
     },

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1230012694",
+      "properties": {
+        "timestamp": "2023-12-10T01:09:30Z",
+        "version": 2,
+        "changeset": 144952153,
+        "addr:street": "Rua Professor Antônio Freire de Souza",
+        "name": "Sabesp",
+        "office": "government",
+        "id": "way/1230012694"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.1240776,
+              -23.1763726
+            ],
+            [
+              -48.1242501,
+              -23.176747
+            ],
+            [
+              -48.1240242,
+              -23.1768254
+            ],
+            [
+              -48.1239211,
+              -23.1766072
+            ],
+            [
+              -48.1239904,
+              -23.1765753
+            ],
+            [
+              -48.1239291,
+              -23.1764233
+            ],
+            [
+              -48.1240776,
+              -23.1763726
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11406482336",
+      "properties": {
+        "timestamp": "2023-12-10T01:13:36Z",
+        "version": 1,
+        "changeset": 144952200,
+        "addr:housenumber": "344",
+        "addr:street": "Rua Professor Antônio Freire de Souza",
+        "addr:suburb": "Centro",
+        "government": "administrative",
+        "name": "Secretaria Municipal de Saúde",
+        "office": "government",
+        "id": "node/11406482336"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.1236597,
+          -23.1767682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11406505214",
+      "properties": {
+        "timestamp": "2023-12-10T01:25:08Z",
+        "version": 1,
+        "changeset": 144952333,
+        "addr:housenumber": "100",
+        "addr:postcode": "18260-000",
+        "addr:street": "Rua Professor Antônio Freire de Souza",
+        "addr:suburb": "Centro",
+        "email": "educacao@porangaba.sp.gov.br",
+        "office": "government",
+        "opening_hours": "Mo-Fr 09:00-12:00,13:00-16:00; PH off",
+        "phone": "+55 15 3257 1452",
+        "id": "node/11406505214"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.1258563,
+          -23.1759877
+        ]
+      }
+    }
+  ]
+}

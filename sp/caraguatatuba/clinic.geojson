@@ -5,9 +5,9 @@
       "type": "Feature",
       "id": "way/662926609",
       "properties": {
-        "timestamp": "2022-03-21T20:44:20Z",
-        "version": 4,
-        "changeset": 118752413,
+        "timestamp": "2023-12-12T17:43:53Z",
+        "version": 6,
+        "changeset": 145047491,
         "addr:city": "Caraguatatuba",
         "addr:housenumber": "1081",
         "addr:postcode": "11665-305",
@@ -15,13 +15,15 @@
         "addr:suburb": "Indaiá",
         "amenity": "clinic",
         "healthcare": "clinic",
+        "healthcare:speciality": "anaesthetics;cardiology;surgery;paediatric_surgery;plastic_surgery;vascular_surgery;coloproctologia;dermatology;endocrinology;gastroenterology",
         "name": "AME Caraguatatuba",
         "opening_hours": "Mo-Fr 07:00-17:00; Sa 07:00-14:00; Su,PH off",
         "operator": "Secretaria de Saúde do Estado de São Paulo",
         "operator:type": "government",
         "phone": "+55 12 3889 1430",
-        "ref": "CNES-6233848",
+        "ref:CNES": "6233848",
         "source": "CNES",
+        "website": "http://www.amecaragua.org.br/",
         "id": "way/662926609"
       },
       "geometry": {
@@ -29,24 +31,40 @@
         "coordinates": [
           [
             [
-              -45.4277004,
-              -23.6270375
+              -45.4276774,
+              -23.6270662
             ],
             [
               -45.4272954,
               -23.6272906
             ],
             [
+              -45.4272292,
+              -23.6272521
+            ],
+            [
+              -45.4268161,
+              -23.6265434
+            ],
+            [
               -45.4268341,
               -23.6264969
             ],
             [
-              -45.4272471,
-              -23.6262512
+              -45.4271817,
+              -23.6262783
             ],
             [
-              -45.4277004,
-              -23.6270375
+              -45.4272367,
+              -23.6262703
+            ],
+            [
+              -45.4276702,
+              -23.6270148
+            ],
+            [
+              -45.4276774,
+              -23.6270662
             ]
           ]
         ]
@@ -534,9 +552,9 @@
       "type": "Feature",
       "id": "way/1011335400",
       "properties": {
-        "timestamp": "2022-12-18T20:15:10Z",
-        "version": 5,
-        "changeset": 130223042,
+        "timestamp": "2023-12-12T01:51:36Z",
+        "version": 6,
+        "changeset": 145019446,
         "addr:postcode": "11677-457",
         "addr:street": "Rua Itália Baffi Magni",
         "addr:suburb": "Massaguaçú",
@@ -558,32 +576,28 @@
         "coordinates": [
           [
             [
-              -45.3336612,
-              -23.5804032
+              -45.3336607,
+              -23.5803846
             ],
             [
-              -45.3337763,
-              -23.5804956
+              -45.333776,
+              -23.5804846
             ],
             [
-              -45.3338339,
-              -23.5804296
+              -45.3338342,
+              -23.5804283
             ],
             [
-              -45.3338873,
-              -23.5804654
-            ],
-            [
-              -45.3339531,
-              -23.5805238
+              -45.3339447,
+              -23.5805242
             ],
             [
               -45.3337188,
-              -23.5807423
+              -23.5807429
             ],
             [
-              -45.3336366,
-              -23.5806764
+              -45.3336421,
+              -23.5806763
             ],
             [
               -45.3337003,
@@ -594,24 +608,24 @@
               -23.580601
             ],
             [
-              -45.3335893,
-              -23.5806707
+              -45.3335896,
+              -23.5806703
             ],
             [
-              -45.3335174,
-              -23.5805897
+              -45.3334965,
+              -23.5805895
             ],
             [
-              -45.3336386,
-              -23.5804842
+              -45.3336051,
+              -23.5804845
             ],
             [
-              -45.333614,
-              -23.5804616
+              -45.33358,
+              -23.5804627
             ],
             [
-              -45.3336612,
-              -23.5804032
+              -45.3336607,
+              -23.5803846
             ]
           ]
         ]
@@ -943,9 +957,9 @@
       "type": "Feature",
       "id": "way/1123647478",
       "properties": {
-        "timestamp": "2022-12-20T14:13:18Z",
-        "version": 1,
-        "changeset": 130292534,
+        "timestamp": "2023-12-12T16:02:39Z",
+        "version": 2,
+        "changeset": 145044021,
         "addr:housenumber": "503",
         "addr:postcode": "11660-640",
         "addr:street": "Avenida Siqueira Campos",
@@ -959,7 +973,7 @@
         "operator": "Secretaria da Saúde",
         "operator:type": "government",
         "phone": "+55 12 3883 9106",
-        "ref": "CNES-2025256",
+        "ref:CNES": "2025256",
         "short_name": "UBS Nadir Cordeiro Rossi",
         "source": "CNES",
         "id": "way/1123647478"
@@ -969,20 +983,28 @@
         "coordinates": [
           [
             [
-              -45.4061911,
-              -23.6162083
+              -45.4062041,
+              -23.6161889
             ],
             [
-              -45.4061401,
-              -23.6163704
+              -45.4061303,
+              -23.6163779
             ],
             [
-              -45.4058549,
-              -23.6163032
+              -45.4058402,
+              -23.6163047
             ],
             [
-              -45.4058573,
-              -23.6161811
+              -45.4058616,
+              -23.6162507
+            ],
+            [
+              -45.405839,
+              -23.6162369
+            ],
+            [
+              -45.405872,
+              -23.6161826
             ],
             [
               -45.4059249,
@@ -997,76 +1019,12 @@
               -23.616149
             ],
             [
-              -45.4059165,
-              -23.6161302
+              -45.4059214,
+              -23.6161093
             ],
             [
-              -45.4061911,
-              -23.6162083
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1123647479",
-      "properties": {
-        "timestamp": "2022-12-20T14:13:18Z",
-        "version": 1,
-        "changeset": 130292534,
-        "addr:postcode": "11660-640",
-        "addr:street": "Avenida Siqueira Campos",
-        "addr:suburb": "Sumaré",
-        "amenity": "clinic",
-        "building": "yes",
-        "healthcare": "clinic",
-        "healthcare:speciality": "psychiatry",
-        "name": "Centro de Antendimento Psico Social II Sumaré",
-        "operator": "Secretaria de Saúde",
-        "operator:type": "government",
-        "short_name": "CAPS II Sumaré",
-        "id": "way/1123647479"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -45.4063112,
-              -23.6158594
-            ],
-            [
-              -45.4062982,
-              -23.6158982
-            ],
-            [
-              -45.4063748,
-              -23.6159176
-            ],
-            [
-              -45.4063275,
-              -23.6160593
-            ],
-            [
-              -45.4061061,
-              -23.6160071
-            ],
-            [
-              -45.4061191,
-              -23.6159385
-            ],
-            [
-              -45.40608,
-              -23.615931
-            ],
-            [
-              -45.4061126,
-              -23.6158072
-            ],
-            [
-              -45.4063112,
-              -23.6158594
+              -45.4062041,
+              -23.6161889
             ]
           ]
         ]

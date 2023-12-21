@@ -5,9 +5,9 @@
       "type": "Feature",
       "id": "relation/14349862",
       "properties": {
-        "timestamp": "2022-07-13T12:18:12Z",
-        "version": 1,
-        "changeset": 123563084,
+        "timestamp": "2023-12-12T14:40:26Z",
+        "version": 2,
+        "changeset": 145040740,
         "amenity": "university",
         "barrier": "fence",
         "fence_type": "wire_mesh",
@@ -2550,6 +2550,41 @@
         "coordinates": [
           -47.0666328,
           -22.8238403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11412624341",
+      "properties": {
+        "timestamp": "2023-12-12T14:40:26Z",
+        "version": 1,
+        "changeset": 145040740,
+        "addr:city": "Campinas",
+        "addr:housenumber": "s/n",
+        "addr:postcode": "13083888",
+        "addr:street": "Rua do CECOM",
+        "addr:suburb": "Cidade Universitária Zeferino Vaz",
+        "air_conditioning": "yes",
+        "amenity": "clinic",
+        "email": "saucss@unicamp.br",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general;ophthalmology;cardiology;nutricionista",
+        "level": "1",
+        "name": "CECOM - Entrada da Área Médica",
+        "opening_hours": "Mo-Fr 07:00-17:00",
+        "operator": "UNICAMP",
+        "operator:type": "university",
+        "phone": "+55 19 3521-9001",
+        "website": "https://cecom.unicamp.br",
+        "wheelchair": "limited",
+        "id": "node/11412624341"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0639835,
+          -22.8289655
         ]
       }
     }

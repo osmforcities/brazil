@@ -50,6 +50,80 @@
     },
     {
       "type": "Feature",
+      "id": "way/1230639453",
+      "properties": {
+        "timestamp": "2023-12-12T16:07:33Z",
+        "version": 1,
+        "changeset": 145044166,
+        "amenity": "doctors",
+        "building": "yes",
+        "healthcare": "doctor",
+        "healthcare:speciality": "general",
+        "name": "Consórcio Intermunicipal de Saúde do Oeste do Paraná",
+        "id": "way/1230639453"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -53.5022861,
+              -24.9524581
+            ],
+            [
+              -53.5023076,
+              -24.9527218
+            ],
+            [
+              -53.501411,
+              -24.952782
+            ],
+            [
+              -53.5013901,
+              -24.9525268
+            ],
+            [
+              -53.5015497,
+              -24.9525161
+            ],
+            [
+              -53.5015478,
+              -24.9524927
+            ],
+            [
+              -53.501661,
+              -24.9524851
+            ],
+            [
+              -53.5016557,
+              -24.952507
+            ],
+            [
+              -53.5018865,
+              -24.9524944
+            ],
+            [
+              -53.5018839,
+              -24.9524559
+            ],
+            [
+              -53.5020177,
+              -24.9524486
+            ],
+            [
+              -53.5020285,
+              -24.9524754
+            ],
+            [
+              -53.5022861,
+              -24.9524581
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/6311427785",
       "properties": {
         "timestamp": "2020-08-11T06:12:34Z",
@@ -127,6 +201,27 @@
         "coordinates": [
           -53.4774161,
           -24.961128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11412876347",
+      "properties": {
+        "timestamp": "2023-12-12T16:07:33Z",
+        "version": 1,
+        "changeset": 145044166,
+        "amenity": "doctors",
+        "healthcare": "doctor",
+        "healthcare:speciality": "general",
+        "name": "Consórcio Intermunicipal de Saúde do Oeste do Paraná",
+        "id": "node/11412876347"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.5016396,
+          -24.9527623
         ]
       }
     }

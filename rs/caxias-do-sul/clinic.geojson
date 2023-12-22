@@ -175,48 +175,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/749890406",
-      "properties": {
-        "timestamp": "2021-08-28T19:19:21Z",
-        "version": 2,
-        "changeset": 110391976,
-        "amenity": "clinic",
-        "building": "yes",
-        "healthcare": "clinic",
-        "healthcare:speciality": "vaccination",
-        "name": "UBS Ana Rech",
-        "id": "way/749890406"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -51.0921135,
-              -29.1156721
-            ],
-            [
-              -51.0921078,
-              -29.1158034
-            ],
-            [
-              -51.0920221,
-              -29.1158005
-            ],
-            [
-              -51.0920278,
-              -29.1156692
-            ],
-            [
-              -51.0921135,
-              -29.1156721
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/788075877",
       "properties": {
         "timestamp": "2020-04-05T02:16:56Z",
@@ -1190,6 +1148,26 @@
         "coordinates": [
           -51.1739695,
           -29.1669311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11430020912",
+      "properties": {
+        "timestamp": "2023-12-18T22:48:24Z",
+        "version": 1,
+        "changeset": 145269987,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "UBS Ana Rech",
+        "id": "node/11430020912"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.0911749,
+          -29.1091959
         ]
       }
     }

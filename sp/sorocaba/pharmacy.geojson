@@ -2311,6 +2311,49 @@
     },
     {
       "type": "Feature",
+      "id": "way/1176482977",
+      "properties": {
+        "timestamp": "2023-12-16T01:01:48Z",
+        "version": 2,
+        "changeset": 145170926,
+        "addr:street": "Avenida Vinicius de Moraes",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Drogaria Total",
+        "source": "microsoft/BuildingFootprints",
+        "id": "way/1176482977"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.5066482,
+              -23.4339118
+            ],
+            [
+              -47.5068215,
+              -23.4339481
+            ],
+            [
+              -47.5067752,
+              -23.434134
+            ],
+            [
+              -47.506602,
+              -23.4340978
+            ],
+            [
+              -47.5066482,
+              -23.4339118
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1201517970",
       "properties": {
         "timestamp": "2023-09-03T23:07:50Z",
@@ -2907,26 +2950,6 @@
         "coordinates": [
           -47.504271,
           -23.4483761
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/11339495018",
-      "properties": {
-        "timestamp": "2023-11-10T21:08:41Z",
-        "version": 1,
-        "changeset": 143879721,
-        "amenity": "pharmacy",
-        "healthcare": "pharmacy",
-        "name": "Drogaria Total",
-        "id": "node/11339495018"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -47.5067193,
-          -23.4340059
         ]
       }
     },

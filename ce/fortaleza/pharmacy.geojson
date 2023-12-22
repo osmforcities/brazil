@@ -3144,6 +3144,58 @@
     },
     {
       "type": "Feature",
+      "id": "way/1109729744",
+      "properties": {
+        "timestamp": "2023-12-15T02:41:03Z",
+        "version": 3,
+        "changeset": 145133561,
+        "amenity": "pharmacy",
+        "building": "yes",
+        "building:levels": "1",
+        "healthcare": "pharmacy",
+        "height": "3.4",
+        "name": "Original Farma",
+        "pmfsefin:idedif": "933406",
+        "id": "way/1109729744"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.6073395,
+              -3.8275253
+            ],
+            [
+              -38.6073036,
+              -3.8274591
+            ],
+            [
+              -38.6074025,
+              -3.8274094
+            ],
+            [
+              -38.6074858,
+              -3.8273675
+            ],
+            [
+              -38.6075174,
+              -3.8274339
+            ],
+            [
+              -38.6074501,
+              -3.8274694
+            ],
+            [
+              -38.6073395,
+              -3.8275253
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1109820266",
       "properties": {
         "timestamp": "2023-01-05T12:45:55Z",
@@ -8329,6 +8381,29 @@
         "coordinates": [
           -38.5126799,
           -3.7237964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11420288108",
+      "properties": {
+        "timestamp": "2023-12-15T13:45:45Z",
+        "version": 1,
+        "changeset": 145151764,
+        "addr:city": "Fortaleza",
+        "addr:street": "Rua José Franca Cabral",
+        "addr:suburb": "Boa Vista/Castelão",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Conviva",
+        "id": "node/11420288108"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5185115,
+          -3.8087402
         ]
       }
     }

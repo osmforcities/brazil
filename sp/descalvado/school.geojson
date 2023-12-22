@@ -482,16 +482,17 @@
       "type": "Feature",
       "id": "way/169791235",
       "properties": {
-        "timestamp": "2022-07-06T00:30:00Z",
-        "version": 6,
-        "changeset": 123254706,
+        "timestamp": "2023-12-17T23:33:15Z",
+        "version": 7,
+        "changeset": 145232265,
         "addr:city": "Descalvado",
         "addr:housenumber": "93",
         "addr:postcode": "13690-000",
         "addr:street": "Rua Padre Jeremias José Nogueira",
         "amenity": "school",
         "name": "EMEF Edna Maria do Amaral Marini",
-        "phone": "+55 (19) 3583-4182",
+        "phone": "+55 19 3583 4182",
+        "religion": "none",
         "id": "way/169791235"
       },
       "geometry": {
@@ -589,17 +590,21 @@
       "type": "Feature",
       "id": "way/169923680",
       "properties": {
-        "timestamp": "2019-10-05T04:35:24Z",
-        "version": 8,
-        "changeset": 75308458,
+        "timestamp": "2023-12-17T23:21:03Z",
+        "version": 9,
+        "changeset": 145232082,
         "addr:city": "Descalvado",
         "addr:housenumber": "1452",
         "addr:postcode": "13690-000",
         "addr:street": "Rua Manoel Ferreira Gaio",
+        "addr:suburb": "Novo Jardim Belém",
         "amenity": "school",
-        "name": "Novo SESI",
+        "name": "Escola SESI-SP de Descalvado",
         "operator": "Serviço Social da Indústria",
-        "source": "http://www.sesisp.org.br/educacao/educacao-que-transforma-home/novas-escolas/2013/primeiro-semestre/descalvado-21-05",
+        "operator:type": "private_non_profit",
+        "phone": "+55 19 3583 2847",
+        "ref": "CE 205",
+        "website": "https://www.sesisp.org.br/educacao/educacao/descalvado",
         "wheelchair": "yes",
         "wikipedia": "pt:Serviço Social da Indústria",
         "id": "way/169923680"
@@ -736,15 +741,15 @@
       "type": "Feature",
       "id": "way/303703077",
       "properties": {
-        "timestamp": "2017-01-23T04:26:15Z",
-        "version": 4,
-        "changeset": 45384805,
+        "timestamp": "2023-12-17T22:53:34Z",
+        "version": 5,
+        "changeset": 145231559,
         "addr:city": "Descalvado",
         "addr:housenumber": "1",
         "addr:postcode": "13690-000",
         "addr:street": "Rua Pernambuco",
         "amenity": "school",
-        "name": "EMEI Dr. Luiz Dias Alvarenga",
+        "name": "EMEI Doutor Luiz Dias Alvarenga",
         "phone": "+55 (19) 3583-2400",
         "id": "way/303703077"
       },
@@ -753,48 +758,36 @@
         "coordinates": [
           [
             [
-              -47.5999182,
-              -21.9063086
+              -47.5999021,
+              -21.9063161
             ],
             [
-              -47.5999558,
-              -21.9063507
+              -47.5999397,
+              -21.9063582
             ],
             [
-              -47.6000014,
-              -21.9067342
+              -47.5999853,
+              -21.9067417
             ],
             [
-              -47.5994297,
-              -21.9067976
+              -47.5994458,
+              -21.9067901
             ],
             [
-              -47.599416,
-              -21.9066902
+              -47.5994294,
+              -21.9066852
             ],
             [
-              -47.5992065,
-              -21.9067133
-            ],
-            [
-              -47.5991872,
-              -21.9065622
-            ],
-            [
-              -47.5992665,
-              -21.9065535
-            ],
-            [
-              -47.5992449,
+              -47.5993763,
               -21.9063568
             ],
             [
-              -47.599871,
-              -21.9062903
+              -47.5998549,
+              -21.9062978
             ],
             [
-              -47.5999182,
-              -21.9063086
+              -47.5999021,
+              -21.9063161
             ]
           ]
         ]
@@ -1002,15 +995,15 @@
       "type": "Feature",
       "id": "way/306454404",
       "properties": {
-        "timestamp": "2021-04-23T14:49:54Z",
-        "version": 4,
-        "changeset": 103489813,
+        "timestamp": "2023-12-17T22:20:34Z",
+        "version": 5,
+        "changeset": 145230942,
         "addr:city": "Descalvado",
         "addr:housenumber": "191",
         "addr:postcode": "13690-000",
         "addr:street": "Rua Ricieri Landi",
         "amenity": "school",
-        "name": "EMEF Prof. Thereza dos Anjos Puoli",
+        "name": "EMEF Professora Thereza dos Anjos Puoli",
         "id": "way/306454404"
       },
       "geometry": {
@@ -1061,9 +1054,9 @@
       "type": "Feature",
       "id": "way/307219659",
       "properties": {
-        "timestamp": "2018-01-01T05:13:10Z",
-        "version": 8,
-        "changeset": 55069546,
+        "timestamp": "2023-12-17T22:53:34Z",
+        "version": 9,
+        "changeset": 145231559,
         "addr:city": "Descalvado",
         "addr:postcode": "13690-000",
         "addr:street": "Rua Rio de Janeiro",
@@ -1077,12 +1070,8 @@
         "coordinates": [
           [
             [
-              -47.5992449,
-              -21.9063568
-            ],
-            [
-              -47.5992665,
-              -21.9065535
+              -47.5991564,
+              -21.9064016
             ],
             [
               -47.5991872,
@@ -1133,8 +1122,8 @@
               -21.9064472
             ],
             [
-              -47.5992449,
-              -21.9063568
+              -47.5991564,
+              -21.9064016
             ]
           ]
         ]

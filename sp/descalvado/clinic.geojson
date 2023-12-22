@@ -3,22 +3,91 @@
   "features": [
     {
       "type": "Feature",
+      "id": "way/306777902",
+      "properties": {
+        "timestamp": "2023-12-17T22:20:34Z",
+        "version": 5,
+        "changeset": 145230942,
+        "addr:city": "Descalvado",
+        "addr:housenumber": "609",
+        "addr:postcode": "13690-000",
+        "addr:street": "Avenida Lázaro Thimóteo do Amaral",
+        "addr:suburb": "Santa Cruz",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general;dentistry;paediatrics;ginecologia",
+        "name": "Unidade de Saúde da Família Arlindo Zóia",
+        "opening_hours": "Mo-Fr 07:00-16:00; PH off",
+        "operator": "Secretaria de Saúde",
+        "operator:ref:vatin": "BR46732442000123",
+        "operator:type": "government",
+        "phone": "+55 19 3593 1210",
+        "ref:CNES": "3668258",
+        "short_name": "USF Arlindo Zóia",
+        "source": "https://www.descalvado.sp.gov.br/secretarias/saude/outros/docs/lista_atendimento_und_saude-092023.pdf",
+        "id": "way/306777902"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.6217843,
+              -21.8945765
+            ],
+            [
+              -47.6216069,
+              -21.8945903
+            ],
+            [
+              -47.6216102,
+              -21.8946098
+            ],
+            [
+              -47.6215173,
+              -21.8946215
+            ],
+            [
+              -47.6215051,
+              -21.8945187
+            ],
+            [
+              -47.6217783,
+              -21.8944969
+            ],
+            [
+              -47.6217843,
+              -21.8945765
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/307338407",
       "properties": {
-        "timestamp": "2019-10-08T17:30:01Z",
-        "version": 7,
-        "changeset": 75424815,
+        "timestamp": "2023-12-17T21:48:05Z",
+        "version": 8,
+        "changeset": 145230265,
         "addr:city": "Descalvado",
         "addr:housenumber": "356",
         "addr:postcode": "13690-000",
         "addr:street": "Rua Benvindo Gonçalves Branco",
+        "addr:suburb": "Jardim Colonial",
         "amenity": "clinic",
         "emergency": "no",
         "healthcare": "clinic",
+        "healthcare:speciality": "general;dentistry;ginecologia",
         "name": "Unidade de Saúde da Família Norma Moreira Colussi",
-        "phone": "+55 (19) 3583-2420",
+        "opening_hours": "Mo-Fr 07:00-16:00; PH off",
+        "operator": "Secretaria de Saúde",
+        "operator:type": "government",
+        "phone": "+55 19 3583 2420",
+        "ref:CNES": "3668304",
         "short_name": "USF Norma Moreira Colussi",
-        "source": "http://cnes.datasus.gov.br/Exibe_Ficha_Estabelecimento.asp?VCo_Unidade=3513703668304",
+        "source": "CNES;https://www.descalvado.sp.gov.br/secretarias/saude/outros/docs/lista_atendimento_und_saude-092023.pdf",
         "id": "way/307338407"
       },
       "geometry": {
@@ -44,6 +113,226 @@
             [
               -47.6153121,
               -21.9157404
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/307338408",
+      "properties": {
+        "timestamp": "2023-12-17T23:21:03Z",
+        "version": 5,
+        "changeset": 145232082,
+        "addr:city": "Descalvado",
+        "addr:housenumber": "1345",
+        "addr:postcode": "13690-000",
+        "addr:street": "Avenida Independência",
+        "addr:suburb": "Alto da Boa Vista",
+        "amenity": "clinic",
+        "building": "yes",
+        "emergency": "no",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general;paediatrics;dentistry;ginecologia",
+        "name": "USF José Ignácio Alonso",
+        "opening_hours": "Mo-Fr 07:00-11:00,13:00-17:00; PH off",
+        "operator:ref:vatin": "BR46732442000123",
+        "ref:CNES": "7104979",
+        "source": "https://www.descalvado.sp.gov.br/secretarias/saude/outros/docs/lista_atendimento_und_saude-092023.pdf",
+        "wheelchair": "yes",
+        "id": "way/307338408"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.6304736,
+              -21.9247162
+            ],
+            [
+              -47.6306247,
+              -21.9246581
+            ],
+            [
+              -47.6306512,
+              -21.9247086
+            ],
+            [
+              -47.6307341,
+              -21.9246679
+            ],
+            [
+              -47.6307765,
+              -21.9247479
+            ],
+            [
+              -47.6306945,
+              -21.9247736
+            ],
+            [
+              -47.6306973,
+              -21.9248271
+            ],
+            [
+              -47.6305497,
+              -21.9248884
+            ],
+            [
+              -47.6304736,
+              -21.9247162
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/308801125",
+      "properties": {
+        "timestamp": "2023-12-17T22:53:34Z",
+        "version": 4,
+        "changeset": 145231559,
+        "addr:city": "Descalvado",
+        "addr:housenumber": "481",
+        "addr:postcode": "13690-000",
+        "addr:street": "Rua São Paulo",
+        "addr:suburb": "Jardim Albertina",
+        "amenity": "clinic",
+        "building": "yes",
+        "emergency": "no",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general;paediatrics;dentistry;ginecologia",
+        "name": "Unidade de Saúde da Família Rafael Chiarello",
+        "opening_hours": "Mo-Fr 07:00-16:00; PH off",
+        "operator": "Secretaria de Saúde",
+        "operator:type": "government",
+        "phone": "+55 19 3583 1012",
+        "ref:CNES": "2747561",
+        "short_name": "USF Rafael Chiarello",
+        "source": "CNES;https://www.descalvado.sp.gov.br/secretarias/saude/outros/docs/lista_atendimento_und_saude-092023.pdf",
+        "id": "way/308801125"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.6004464,
+              -21.9063014
+            ],
+            [
+              -47.600455,
+              -21.9063786
+            ],
+            [
+              -47.6003691,
+              -21.9063869
+            ],
+            [
+              -47.6003774,
+              -21.9064613
+            ],
+            [
+              -47.6005052,
+              -21.906449
+            ],
+            [
+              -47.6005127,
+              -21.9065158
+            ],
+            [
+              -47.600158,
+              -21.9065499
+            ],
+            [
+              -47.6001491,
+              -21.9064698
+            ],
+            [
+              -47.6002852,
+              -21.9064567
+            ],
+            [
+              -47.6002821,
+              -21.9064293
+            ],
+            [
+              -47.6001602,
+              -21.906441
+            ],
+            [
+              -47.6001478,
+              -21.9063301
+            ],
+            [
+              -47.6004464,
+              -21.9063014
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/308801126",
+      "properties": {
+        "timestamp": "2023-12-17T23:28:28Z",
+        "version": 5,
+        "changeset": 145232212,
+        "addr:city": "Descalvado",
+        "addr:housenumber": "53",
+        "addr:postcode": "13690-000",
+        "addr:street": "Rua Doutor Francisco Antônio de Souza Queiroz Filho",
+        "addr:suburb": "São Sebastião",
+        "amenity": "clinic",
+        "building": "yes",
+        "emergency": "no",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general;nutricionista;dentista;ginecologista",
+        "name": "Unidade de Saúde da Família Benedicto de Arruda Oliveira",
+        "opening_hours": "Mo-Fr 07:00-16:00; PH off",
+        "operator": "Secretaria de Saúde",
+        "operator:ref:vatin": "BR46732442000123",
+        "operator:type": "government",
+        "phone": "+55 19 3583 3109",
+        "ref:CNES": "6378374",
+        "short_name": "USF Benedicto de Arruda Oliveira",
+        "source": "https://www.descalvado.sp.gov.br/secretarias/saude/outros/docs/lista_atendimento_und_saude-092023.pdf;CNES",
+        "id": "way/308801126"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.6281705,
+              -21.9000179
+            ],
+            [
+              -47.6282066,
+              -21.9000153
+            ],
+            [
+              -47.6282479,
+              -21.900011
+            ],
+            [
+              -47.6282715,
+              -21.9000324
+            ],
+            [
+              -47.6282803,
+              -21.9002393
+            ],
+            [
+              -47.628182,
+              -21.9002452
+            ],
+            [
+              -47.6281705,
+              -21.9000179
             ]
           ]
         ]
@@ -98,6 +387,78 @@
             [
               -47.6235268,
               -21.9111425
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/308932091",
+      "properties": {
+        "timestamp": "2023-12-17T22:10:51Z",
+        "version": 5,
+        "changeset": 145230747,
+        "addr:city": "Descalvado",
+        "addr:housenumber": "728",
+        "addr:postcode": "13690-000",
+        "addr:street": "Rua das Petúnias",
+        "addr:suburb": "Morada do Sol",
+        "amenity": "clinic",
+        "building": "yes",
+        "emergency": "no",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general;paediatrics;dentistry;ginecologia",
+        "name": "Unidade de Saúde da Família Maria Martins Kastein",
+        "opening_hours": "Mo-Fr 07:00-16:00; PH off",
+        "operator": "Secretaria de Saúde",
+        "operator:ref:vatin": "BR46732442000123",
+        "operator:type": "government",
+        "phone": "+55 19 3583 1014",
+        "ref:CNES": "2747634",
+        "short_name": "USF Maria Martins Kastein",
+        "source": "https://www.descalvado.sp.gov.br/secretarias/saude/outros/docs/lista_atendimento_und_saude-092023.pdf",
+        "id": "way/308932091"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.6356817,
+              -21.9095214
+            ],
+            [
+              -47.6357248,
+              -21.9096871
+            ],
+            [
+              -47.635663,
+              -21.9097007
+            ],
+            [
+              -47.635664,
+              -21.9097284
+            ],
+            [
+              -47.6356157,
+              -21.9097407
+            ],
+            [
+              -47.6356155,
+              -21.9097194
+            ],
+            [
+              -47.6355545,
+              -21.9097341
+            ],
+            [
+              -47.6355015,
+              -21.909557
+            ],
+            [
+              -47.6356817,
+              -21.9095214
             ]
           ]
         ]

@@ -89,116 +89,24 @@
     },
     {
       "type": "Feature",
-      "id": "way/306777902",
-      "properties": {
-        "timestamp": "2023-08-18T20:52:13Z",
-        "version": 4,
-        "changeset": 140074043,
-        "addr:city": "Descalvado",
-        "addr:housenumber": "609",
-        "addr:postcode": "13690-000",
-        "addr:street": "Rua Lázaro Timóteo do Amaral",
-        "amenity": "hospital",
-        "healthcare": "hospital",
-        "name": "USF Arlindo Zoia",
-        "operator:ref:vatin": "BR46732442000123",
-        "phone": "+55 19 3593 1210",
-        "ref:CNES": "3668258",
-        "id": "way/306777902"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -47.6218219,
-              -21.8946153
-            ],
-            [
-              -47.6215069,
-              -21.8946312
-            ],
-            [
-              -47.6214988,
-              -21.8944935
-            ],
-            [
-              -47.6218138,
-              -21.8944775
-            ],
-            [
-              -47.6218219,
-              -21.8946153
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/307338408",
-      "properties": {
-        "timestamp": "2023-08-18T20:52:13Z",
-        "version": 4,
-        "changeset": 140074043,
-        "addr:city": "Descalvado",
-        "addr:housenumber": "1345",
-        "addr:postcode": "13690-000",
-        "addr:street": "Avenida Independência",
-        "amenity": "hospital",
-        "emergency": "no",
-        "healthcare": "hospital",
-        "name": "USF José Ignácio Alonso",
-        "operator:ref:vatin": "BR46732442000123",
-        "ref:CNES": "7104979",
-        "source": "http://cnes.datasus.gov.br/Exibe_Ficha_Estabelecimento.asp?VCo_Unidade=3513707104979",
-        "wheelchair": "yes",
-        "id": "way/307338408"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -47.6302918,
-              -21.9248073
-            ],
-            [
-              -47.630686,
-              -21.924633
-            ],
-            [
-              -47.6308831,
-              -21.9247886
-            ],
-            [
-              -47.6304034,
-              -21.9250067
-            ],
-            [
-              -47.6302918,
-              -21.9248073
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/307466663",
       "properties": {
-        "timestamp": "2023-08-18T20:52:13Z",
-        "version": 3,
-        "changeset": 140074043,
+        "timestamp": "2023-12-17T22:02:26Z",
+        "version": 4,
+        "changeset": 145230554,
         "addr:city": "Descalvado",
         "addr:housenumber": "221",
         "addr:postcode": "13690-000",
         "addr:street": "Rua Bezerra Paes",
+        "addr:suburb": "Centro",
         "amenity": "hospital",
         "emergency": "no",
         "healthcare": "hospital",
-        "name": "Centro de Saúde Vital Brasil",
+        "healthcare:speciality": "general;paediatrics;ginecologia",
+        "name": "Centro de Saúde Doutor  Vital Brasil",
+        "operator": "Secretaria de Saúde",
         "operator:ref:vatin": "BR46732442000123",
+        "operator:type": "government",
         "phone": "+55 19 3583 1419",
         "ref:CNES": "2028506",
         "source": "http://cnes.datasus.gov.br/Exibe_Ficha_Estabelecimento.asp?VCo_Unidade=3513702028506",
@@ -227,163 +135,6 @@
             [
               -47.6210082,
               -21.9017053
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/308801125",
-      "properties": {
-        "timestamp": "2019-10-08T17:31:34Z",
-        "version": 3,
-        "changeset": 75424861,
-        "addr:city": "Descalvado",
-        "addr:postcode": "13690-000",
-        "addr:street": "Rua São Paulo",
-        "amenity": "hospital",
-        "emergency": "no",
-        "healthcare": "hospital",
-        "name": "Unidade de Saúde da Família Doutor Raphael Chiarello",
-        "short_name": "USF Dr. Raphael Chiarello",
-        "source": "http://cnes.datasus.gov.br/Exibe_Ficha_Estabelecimento.asp?VCo_Unidade=3513702747561",
-        "id": "way/308801125"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -47.6007058,
-              -21.9062012
-            ],
-            [
-              -47.6007516,
-              -21.9065777
-            ],
-            [
-              -47.6001265,
-              -21.9066455
-            ],
-            [
-              -47.6000782,
-              -21.9062695
-            ],
-            [
-              -47.6007058,
-              -21.9062012
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/308801126",
-      "properties": {
-        "timestamp": "2023-08-18T20:52:13Z",
-        "version": 4,
-        "changeset": 140074043,
-        "addr:city": "Descalvado",
-        "addr:housenumber": "53",
-        "addr:postcode": "13690-000",
-        "addr:street": "Rua Francisco Antônio de Souza Queiroz Filho",
-        "amenity": "hospital",
-        "emergency": "no",
-        "healthcare": "hospital",
-        "name": "USF Benedicto de Arruda Oliveira",
-        "operator:ref:vatin": "BR46732442000123",
-        "ref:CNES": "6378374",
-        "source": "http://cnes.datasus.gov.br/Exibe_Ficha_Estabelecimento.asp?VCo_Unidade=3513706378374",
-        "id": "way/308801126"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -47.628149,
-              -21.8999831
-            ],
-            [
-              -47.6282146,
-              -21.899978
-            ],
-            [
-              -47.6282613,
-              -21.8999911
-            ],
-            [
-              -47.628293,
-              -21.9000324
-            ],
-            [
-              -47.6283152,
-              -21.9002766
-            ],
-            [
-              -47.6281766,
-              -21.9002875
-            ],
-            [
-              -47.628149,
-              -21.8999831
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/308932091",
-      "properties": {
-        "timestamp": "2023-08-18T20:52:13Z",
-        "version": 4,
-        "changeset": 140074043,
-        "addr:city": "Descalvado",
-        "addr:housenumber": "728",
-        "addr:postcode": "13690-000",
-        "addr:street": "Rua das Petúnias",
-        "amenity": "hospital",
-        "emergency": "no",
-        "healthcare": "hospital",
-        "name": "USF Maria Martins Kastein",
-        "operator:ref:vatin": "BR46732442000123",
-        "ref:CNES": "2747634",
-        "id": "way/308932091"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -47.6356425,
-              -21.9093203
-            ],
-            [
-              -47.6357563,
-              -21.9097445
-            ],
-            [
-              -47.6356013,
-              -21.9097803
-            ],
-            [
-              -47.6355416,
-              -21.9097461
-            ],
-            [
-              -47.6354594,
-              -21.9094232
-            ],
-            [
-              -47.6354874,
-              -21.9093561
-            ],
-            [
-              -47.6356425,
-              -21.9093203
             ]
           ]
         ]

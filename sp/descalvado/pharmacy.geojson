@@ -110,17 +110,20 @@
       "type": "Feature",
       "id": "way/304607485",
       "properties": {
-        "timestamp": "2019-10-08T17:30:01Z",
-        "version": 4,
-        "changeset": 75424815,
+        "timestamp": "2023-12-17T22:02:26Z",
+        "version": 5,
+        "changeset": 145230554,
         "addr:city": "Descalvado",
         "addr:housenumber": "312",
         "addr:postcode": "13690-000",
         "addr:street": "Avenida Guerino Oswaldo",
+        "addr:suburb": "Centro",
         "amenity": "pharmacy",
+        "drive_through": "no",
         "healthcare": "pharmacy",
         "name": "Farmais II",
-        "phone": "+55 (19) 3583-4250",
+        "operator": "Secretaria de Saúde",
+        "phone": "+55 19 3583 4250",
         "id": "way/304607485"
       },
       "geometry": {
@@ -213,19 +216,20 @@
       "type": "Feature",
       "id": "way/371068688",
       "properties": {
-        "timestamp": "2019-10-08T17:30:01Z",
-        "version": 5,
-        "changeset": 75424815,
+        "timestamp": "2023-12-17T22:02:26Z",
+        "version": 6,
+        "changeset": 145230554,
         "addr:city": "Descalvado",
         "addr:housenumber": "423",
         "addr:postcode": "13690-000",
         "addr:street": "Avenida Guerino Oswaldo",
+        "addr:suburb": "Centro",
         "amenity": "pharmacy",
         "building": "yes",
         "building:levels": "1",
         "description": "Antiga residência de Paulo Casati Filho, demolida na década de 2010 para dar lugar a uma farmácia.",
+        "drive_through": "no",
         "healthcare": "pharmacy",
-        "name": "Drogal",
         "id": "way/371068688"
       },
       "geometry": {
@@ -233,24 +237,36 @@
         "coordinates": [
           [
             [
-              -47.6200668,
-              -21.9021965
+              -47.6200308,
+              -21.9022554
             ],
             [
-              -47.6200969,
-              -21.902443
+              -47.6200447,
+              -21.9023654
             ],
             [
-              -47.6199604,
-              -21.9024574
+              -47.6200207,
+              -21.9024007
             ],
             [
-              -47.6199303,
-              -21.9022109
+              -47.6199416,
+              -21.9024086
             ],
             [
-              -47.6200668,
-              -21.9021965
+              -47.6199241,
+              -21.9022804
+            ],
+            [
+              -47.619961,
+              -21.902276
+            ],
+            [
+              -47.6199554,
+              -21.9022594
+            ],
+            [
+              -47.6200308,
+              -21.9022554
             ]
           ]
         ]

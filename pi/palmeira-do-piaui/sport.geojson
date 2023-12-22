@@ -126,6 +126,88 @@
     },
     {
       "type": "Feature",
+      "id": "way/1231152221",
+      "properties": {
+        "timestamp": "2023-12-14T17:16:37Z",
+        "version": 1,
+        "changeset": 145120922,
+        "leisure": "pitch",
+        "name": "Quadra",
+        "sport": "futsal",
+        "id": "way/1231152221"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.2378401,
+              -8.7254908
+            ],
+            [
+              -44.2376158,
+              -8.7257081
+            ],
+            [
+              -44.2374853,
+              -8.7255765
+            ],
+            [
+              -44.2377096,
+              -8.7253592
+            ],
+            [
+              -44.2378401,
+              -8.7254908
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1231152236",
+      "properties": {
+        "timestamp": "2023-12-14T17:16:37Z",
+        "version": 1,
+        "changeset": 145120922,
+        "area": "yes",
+        "leisure": "track",
+        "name": "Parque de Vaquejada Maria Madalena",
+        "sport": "horse_racing",
+        "surface": "ground",
+        "id": "way/1231152236"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.5259787,
+              -8.5478393
+            ],
+            [
+              -44.5260914,
+              -8.5482213
+            ],
+            [
+              -44.5248146,
+              -8.5486138
+            ],
+            [
+              -44.5247449,
+              -8.5484281
+            ],
+            [
+              -44.5259787,
+              -8.5478393
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/8867136511",
       "properties": {
         "timestamp": "2021-06-26T03:37:43Z",
@@ -145,27 +227,6 @@
         "coordinates": [
           -44.2456407,
           -8.6875224
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/8867148524",
-      "properties": {
-        "timestamp": "2021-06-26T03:37:43Z",
-        "version": 1,
-        "changeset": 106989228,
-        "leisure": "track",
-        "name": "Parque de Vaquejada Maria Madalena",
-        "sport": "horse_racing",
-        "surface": "unpaved",
-        "id": "node/8867148524"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.5248855,
-          -8.547594
         ]
       }
     }

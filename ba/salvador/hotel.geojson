@@ -4127,6 +4127,118 @@
     },
     {
       "type": "Feature",
+      "id": "way/1231243195",
+      "properties": {
+        "timestamp": "2023-12-14T23:55:52Z",
+        "version": 2,
+        "changeset": 145131289,
+        "building": "yes",
+        "name": "Porto da Barra",
+        "tourism": "hotel",
+        "id": "way/1231243195"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.5329652,
+              -13.0042768
+            ],
+            [
+              -38.5328169,
+              -13.0043513
+            ],
+            [
+              -38.5327614,
+              -13.0043792
+            ],
+            [
+              -38.5326251,
+              -13.0044346
+            ],
+            [
+              -38.5326048,
+              -13.0043834
+            ],
+            [
+              -38.5326463,
+              -13.0043635
+            ],
+            [
+              -38.5326321,
+              -13.0043123
+            ],
+            [
+              -38.5326853,
+              -13.0042863
+            ],
+            [
+              -38.5329192,
+              -13.0041722
+            ],
+            [
+              -38.5329652,
+              -13.0042768
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1231244523",
+      "properties": {
+        "timestamp": "2023-12-14T23:55:52Z",
+        "version": 1,
+        "changeset": 145131289,
+        "building": "yes",
+        "name": "Pousada Manga Rosa",
+        "tourism": "hotel",
+        "id": "way/1231244523"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.532446,
+              -13.0039245
+            ],
+            [
+              -38.5324674,
+              -13.0040029
+            ],
+            [
+              -38.5324878,
+              -13.0040708
+            ],
+            [
+              -38.5323113,
+              -13.0041194
+            ],
+            [
+              -38.5322936,
+              -13.0040593
+            ],
+            [
+              -38.532285,
+              -13.0040018
+            ],
+            [
+              -38.5323183,
+              -13.003959
+            ],
+            [
+              -38.532446,
+              -13.0039245
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/540680597",
       "properties": {
         "timestamp": "2021-12-01T11:51:21Z",
@@ -4191,9 +4303,9 @@
       "type": "Feature",
       "id": "node/619051321",
       "properties": {
-        "timestamp": "2022-02-07T20:57:47Z",
-        "version": 3,
-        "changeset": 117135793,
+        "timestamp": "2023-12-14T23:55:52Z",
+        "version": 4,
+        "changeset": 145131289,
         "addr:street": "Avenida Sete de Setembro",
         "name": "Praia Porto da Barra",
         "phone": "+55 71 3264 4496",
@@ -4203,8 +4315,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -38.5327549,
-          -13.0038885
+          -38.532771,
+          -13.0039449
         ]
       }
     },
@@ -5089,27 +5201,6 @@
         "coordinates": [
           -38.5286084,
           -13.0081218
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/4611995202",
-      "properties": {
-        "timestamp": "2017-01-16T14:52:17Z",
-        "version": 2,
-        "changeset": 45217702,
-        "addr:housenumber": "3793",
-        "addr:street": "Avenida Sete de Setembro",
-        "name": "Barra Mar",
-        "tourism": "hotel",
-        "id": "node/4611995202"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -38.5329457,
-          -13.0042603
         ]
       }
     },

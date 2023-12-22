@@ -2710,6 +2710,50 @@
     },
     {
       "type": "Feature",
+      "id": "way/1230932468",
+      "properties": {
+        "timestamp": "2023-12-13T20:11:39Z",
+        "version": 1,
+        "changeset": 145088296,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "512",
+        "addr:postcode": "01028-000",
+        "addr:street": "Rua Mauá",
+        "amenity": "arts_centre",
+        "name": "Casa da Luz",
+        "website": "https://www.facebook.com/pages/Casa-da-Luz/695782030471034",
+        "id": "way/1230932468"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.6350352,
+              -23.5355745
+            ],
+            [
+              -46.63505,
+              -23.5356246
+            ],
+            [
+              -46.6350104,
+              -23.5356344
+            ],
+            [
+              -46.6349943,
+              -23.5355849
+            ],
+            [
+              -46.6350352,
+              -23.5355745
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/1044884011",
       "properties": {
         "timestamp": "2022-10-23T06:45:36Z",
@@ -2827,30 +2871,6 @@
         "coordinates": [
           -46.6862055,
           -23.5571483
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/3371823917",
-      "properties": {
-        "timestamp": "2017-10-17T15:54:47Z",
-        "version": 3,
-        "changeset": 53015608,
-        "addr:city": "São Paulo",
-        "addr:housenumber": "512",
-        "addr:postcode": "01028-000",
-        "addr:street": "Rua Mauá",
-        "amenity": "arts_centre",
-        "name": "Casa da Luz",
-        "website": "https://www.facebook.com/pages/Casa-da-Luz/695782030471034",
-        "id": "node/3371823917"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -46.6350152,
-          -23.5355796
         ]
       }
     },

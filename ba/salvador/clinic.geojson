@@ -4443,6 +4443,137 @@
     },
     {
       "type": "Feature",
+      "id": "way/1230957094",
+      "properties": {
+        "timestamp": "2023-12-13T23:27:34Z",
+        "version": 1,
+        "changeset": 145092375,
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "Datalab +",
+        "id": "way/1230957094"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.5260728,
+              -12.9973182
+            ],
+            [
+              -38.5261436,
+              -12.9974342
+            ],
+            [
+              -38.5260717,
+              -12.9974771
+            ],
+            [
+              -38.5259998,
+              -12.997359
+            ],
+            [
+              -38.5260728,
+              -12.9973182
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1230959061",
+      "properties": {
+        "timestamp": "2023-12-13T23:41:47Z",
+        "version": 1,
+        "changeset": 145092539,
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "Clínica da Graça",
+        "id": "way/1230959061"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.5245863,
+              -12.9983082
+            ],
+            [
+              -38.5246633,
+              -12.998374
+            ],
+            [
+              -38.5246943,
+              -12.9984006
+            ],
+            [
+              -38.5247,
+              -12.9984054
+            ],
+            [
+              -38.5246385,
+              -12.998471
+            ],
+            [
+              -38.5245228,
+              -12.9983675
+            ],
+            [
+              -38.5245863,
+              -12.9983082
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1230959062",
+      "properties": {
+        "timestamp": "2023-12-13T23:41:47Z",
+        "version": 1,
+        "changeset": 145092539,
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "Labchecap",
+        "id": "way/1230959062"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.5245863,
+              -12.9983082
+            ],
+            [
+              -38.5246566,
+              -12.9982424
+            ],
+            [
+              -38.5247322,
+              -12.9983082
+            ],
+            [
+              -38.5246633,
+              -12.998374
+            ],
+            [
+              -38.5245863,
+              -12.9983082
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/1722449987",
       "properties": {
         "timestamp": "2020-04-02T11:03:34Z",
@@ -4522,66 +4653,6 @@
         "coordinates": [
           -38.5216286,
           -12.9976714
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/3705231503",
-      "properties": {
-        "timestamp": "2021-08-03T20:12:35Z",
-        "version": 3,
-        "changeset": 109112240,
-        "amenity": "clinic",
-        "healthcare": "clinic",
-        "name": "Datalab +",
-        "id": "node/3705231503"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -38.5260285,
-          -12.9973377
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/3705285911",
-      "properties": {
-        "timestamp": "2021-08-03T20:12:35Z",
-        "version": 3,
-        "changeset": 109112240,
-        "amenity": "clinic",
-        "healthcare": "clinic",
-        "name": "Labchecap",
-        "id": "node/3705285911"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -38.5246062,
-          -12.9982457
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/3705285989",
-      "properties": {
-        "timestamp": "2021-08-03T20:12:35Z",
-        "version": 3,
-        "changeset": 109112240,
-        "amenity": "clinic",
-        "healthcare": "clinic",
-        "name": "Clínica da Graça",
-        "id": "node/3705285989"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -38.5245682,
-          -12.9983456
         ]
       }
     },
@@ -5530,27 +5601,6 @@
         "coordinates": [
           -38.4638221,
           -12.9977451
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/5335683544",
-      "properties": {
-        "timestamp": "2021-08-03T20:12:35Z",
-        "version": 3,
-        "changeset": 109112240,
-        "amenity": "clinic",
-        "healthcare": "clinic",
-        "name": "Instituto Geraldo Andrade de Medicina",
-        "phone": "+55 7135030800",
-        "id": "node/5335683544"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -38.5277425,
-          -13.0032171
         ]
       }
     },

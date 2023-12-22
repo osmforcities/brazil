@@ -5,15 +5,15 @@
       "type": "Feature",
       "id": "relation/16793240",
       "properties": {
-        "timestamp": "2023-12-07T03:49:45Z",
-        "version": 1,
-        "changeset": 144851244,
+        "timestamp": "2023-12-13T03:45:36Z",
+        "version": 2,
+        "changeset": 145059386,
         "addr:city": "Ouro Preto do Oeste",
         "addr:country": "Brazil",
         "addr:postcode": "76920-000",
         "addr:state": "Rondônia",
         "addr:street": "Rua Padre Adolpho Rohl",
-        "alt_name": "EEEF Joaquim Nabuco",
+        "alt_name": "EEEF Joaquim Nabuco;Escola Joaquim Nabuco",
         "amenity": "school",
         "name": "Escola Estadual de Ensino Fundamental Joaquim Nabuco",
         "type": "multipolygon",
@@ -152,6 +152,76 @@
     },
     {
       "type": "Feature",
+      "id": "relation/16817234",
+      "properties": {
+        "timestamp": "2023-12-13T03:45:36Z",
+        "version": 1,
+        "changeset": 145059386,
+        "alt_name": "Colégio Tiradentes da Polícia Militar 12; Colégio Tiradentes da Polícia Militar doze",
+        "amenity": "school",
+        "name": "Colégio Tiradentes da Polícia Militar XII",
+        "old_name": "Colégio 28 de Novembro",
+        "type": "multipolygon",
+        "id": "relation/16817234"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -62.2611032,
+              -10.7216437
+            ],
+            [
+              -62.2609723,
+              -10.7215394
+            ],
+            [
+              -62.261189,
+              -10.721266
+            ],
+            [
+              -62.2612033,
+              -10.721248
+            ],
+            [
+              -62.261212,
+              -10.721237
+            ],
+            [
+              -62.2613082,
+              -10.7211157
+            ],
+            [
+              -62.2613216,
+              -10.7210988
+            ],
+            [
+              -62.2616482,
+              -10.7206856
+            ],
+            [
+              -62.2626516,
+              -10.7214754
+            ],
+            [
+              -62.2619676,
+              -10.7223322
+            ],
+            [
+              -62.2611424,
+              -10.7216749
+            ],
+            [
+              -62.2611032,
+              -10.7216437
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/556295391",
       "properties": {
         "timestamp": "2021-10-21T17:22:38Z",
@@ -205,11 +275,12 @@
       "type": "Feature",
       "id": "way/556303210",
       "properties": {
-        "timestamp": "2018-01-27T17:23:08Z",
-        "version": 1,
-        "changeset": 55809672,
+        "timestamp": "2023-12-13T03:45:36Z",
+        "version": 2,
+        "changeset": 145059386,
+        "alt_name": "EEEFM Monteiro Lobato;Escola Monteiro Lobato",
         "amenity": "school",
-        "name": "EEF Monteiro Lobato",
+        "name": "Escola Estadual de Ensino Fundamental e Médio Monteiro Lobato",
         "id": "way/556303210"
       },
       "geometry": {
@@ -313,69 +384,6 @@
             [
               -62.252311,
               -10.7188968
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/993307135",
-      "properties": {
-        "timestamp": "2022-02-12T22:35:16Z",
-        "version": 2,
-        "changeset": 117337878,
-        "amenity": "school",
-        "name": "Colégio Tiradentes",
-        "id": "way/993307135"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -62.2619676,
-              -10.7223322
-            ],
-            [
-              -62.2611424,
-              -10.7216749
-            ],
-            [
-              -62.2611032,
-              -10.7216437
-            ],
-            [
-              -62.2609723,
-              -10.7215394
-            ],
-            [
-              -62.261189,
-              -10.721266
-            ],
-            [
-              -62.261212,
-              -10.721237
-            ],
-            [
-              -62.2613075,
-              -10.7211165
-            ],
-            [
-              -62.2613222,
-              -10.7210979
-            ],
-            [
-              -62.2616482,
-              -10.7206856
-            ],
-            [
-              -62.2626516,
-              -10.7214754
-            ],
-            [
-              -62.2619676,
-              -10.7223322
             ]
           ]
         ]
@@ -725,6 +733,170 @@
               -62.2031173,
               -10.8073862
             ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1030802793",
+      "properties": {
+        "timestamp": "2022-02-12T22:35:16Z",
+        "version": 1,
+        "changeset": 117337878,
+        "barrier": "wall",
+        "id": "way/1030802793"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -62.2613216,
+            -10.7210988
+          ],
+          [
+            -62.2616482,
+            -10.7206856
+          ],
+          [
+            -62.2626516,
+            -10.7214754
+          ],
+          [
+            -62.2619676,
+            -10.7223322
+          ],
+          [
+            -62.2611424,
+            -10.7216749
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1030802794",
+      "properties": {
+        "timestamp": "2022-02-12T22:35:16Z",
+        "version": 1,
+        "changeset": 117337878,
+        "barrier": "gate",
+        "id": "way/1030802794"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -62.2613216,
+            -10.7210988
+          ],
+          [
+            -62.2613082,
+            -10.7211157
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1030802795",
+      "properties": {
+        "timestamp": "2022-02-12T22:35:16Z",
+        "version": 1,
+        "changeset": 117337878,
+        "barrier": "wall",
+        "id": "way/1030802795"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -62.261212,
+            -10.721237
+          ],
+          [
+            -62.2613082,
+            -10.7211157
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1030802796",
+      "properties": {
+        "timestamp": "2023-12-13T03:45:36Z",
+        "version": 2,
+        "changeset": 145059386,
+        "barrier": "gate",
+        "id": "way/1030802796"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -62.261189,
+            -10.721266
+          ],
+          [
+            -62.2612033,
+            -10.721248
+          ],
+          [
+            -62.261212,
+            -10.721237
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1030802797",
+      "properties": {
+        "timestamp": "2023-12-13T03:45:36Z",
+        "version": 2,
+        "changeset": 145059386,
+        "barrier": "wall",
+        "id": "way/1030802797"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -62.2611032,
+            -10.7216437
+          ],
+          [
+            -62.2609723,
+            -10.7215394
+          ],
+          [
+            -62.261189,
+            -10.721266
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1030802798",
+      "properties": {
+        "timestamp": "2023-12-13T03:45:36Z",
+        "version": 2,
+        "changeset": 145059386,
+        "barrier": "gate",
+        "id": "way/1030802798"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -62.2611424,
+            -10.7216749
+          ],
+          [
+            -62.2611032,
+            -10.7216437
           ]
         ]
       }
@@ -1181,6 +1353,25 @@
         "coordinates": [
           -62.2589761,
           -10.7283769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11413928012",
+      "properties": {
+        "timestamp": "2023-12-13T03:45:36Z",
+        "version": 1,
+        "changeset": 145059386,
+        "barrier": "gate",
+        "motor_vehicle": "permit",
+        "id": "node/11413928012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.2612033,
+          -10.721248
         ]
       }
     }

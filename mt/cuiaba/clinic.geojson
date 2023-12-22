@@ -1058,6 +1058,77 @@
     },
     {
       "type": "Feature",
+      "id": "way/1096409525",
+      "properties": {
+        "timestamp": "2023-12-19T18:25:33Z",
+        "version": 3,
+        "changeset": 145302419,
+        "addr:city": "Cuiabá",
+        "addr:street": "Avenida João Gomes Monteiro Sobrinho",
+        "addr:suburb": "Lixeira",
+        "amenity": "clinic",
+        "building": "yes",
+        "description": "Diagnóstico de pacientes com HIV/Aids, Hepatites Virais e outras Infecções Sexualmente Transmissíveis (ISTs)",
+        "healthcare": "clinic",
+        "healthcare:speciality": "blood_check;infectious_diseases;hepatology",
+        "name": "SAE Cuiabá",
+        "operator": "Sistema Único de Saúde",
+        "operator:short": "SUS",
+        "operator:type": "public",
+        "operator:wikidata": "Q7531056",
+        "source": "microsoft/BuildingFootprints",
+        "id": "way/1096409525"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -56.0838082,
+              -15.5975107
+            ],
+            [
+              -56.0838806,
+              -15.5973342
+            ],
+            [
+              -56.0839908,
+              -15.5973762
+            ],
+            [
+              -56.0839721,
+              -15.5974217
+            ],
+            [
+              -56.0838921,
+              -15.5976166
+            ],
+            [
+              -56.0838608,
+              -15.5976047
+            ],
+            [
+              -56.0838715,
+              -15.5975787
+            ],
+            [
+              -56.0838251,
+              -15.5975611
+            ],
+            [
+              -56.0838407,
+              -15.5975231
+            ],
+            [
+              -56.0838082,
+              -15.5975107
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1105526034",
       "properties": {
         "timestamp": "2022-10-20T13:18:46Z",
@@ -2325,56 +2396,6 @@
             [
               -56.0593883,
               -15.5847982
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1230717166",
-      "properties": {
-        "timestamp": "2023-12-12T21:46:26Z",
-        "version": 1,
-        "changeset": 145054316,
-        "addr:city": "Cuiabá",
-        "addr:street": "Avenida João Gomes Monteiro Sobrinho",
-        "addr:suburb": "Lixeira",
-        "amenity": "clinic",
-        "building": "yes",
-        "description": "Diagnóstico de pacientes com HIV/Aids, Hepatites Virais e outras Infecções Sexualmente Transmissíveis (ISTs)",
-        "healthcare": "clinic",
-        "healthcare:speciality": "blood_check;infectious_diseases;hepatology",
-        "name": "SAE Cuiabá",
-        "operator": "Sistema Único de Saúde",
-        "operator:short": "SUS",
-        "operator:type": "public",
-        "operator:wikidata": "Q7531056",
-        "id": "way/1230717166"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -56.084521,
-              -15.5977252
-            ],
-            [
-              -56.0844735,
-              -15.59785
-            ],
-            [
-              -56.084425,
-              -15.5978329
-            ],
-            [
-              -56.0844724,
-              -15.5977081
-            ],
-            [
-              -56.084521,
-              -15.5977252
             ]
           ]
         ]

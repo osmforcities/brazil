@@ -2711,71 +2711,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/682691897",
-      "properties": {
-        "timestamp": "2022-11-10T20:20:40Z",
-        "version": 4,
-        "changeset": 128749832,
-        "amenity": "clinic",
-        "building": "yes",
-        "building:levels": "2",
-        "building:part": "yes",
-        "healthcare": "clinic",
-        "height": "6.5",
-        "name": "Clinica Esperança",
-        "pmfsefin:idedif": "553742",
-        "id": "way/682691897"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -38.587472,
-              -3.814988
-            ],
-            [
-              -38.5874844,
-              -3.8150014
-            ],
-            [
-              -38.5874912,
-              -3.8149958
-            ],
-            [
-              -38.5874921,
-              -3.814995
-            ],
-            [
-              -38.5875806,
-              -3.815086
-            ],
-            [
-              -38.5876297,
-              -3.815137
-            ],
-            [
-              -38.5875728,
-              -3.815191
-            ],
-            [
-              -38.5874386,
-              -3.8150494
-            ],
-            [
-              -38.5874235,
-              -3.8150335
-            ],
-            [
-              -38.587472,
-              -3.814988
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/682735317",
       "properties": {
         "timestamp": "2023-04-16T19:15:46Z",
@@ -15728,6 +15663,26 @@
         "coordinates": [
           -38.5313471,
           -3.7312027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11435623533",
+      "properties": {
+        "timestamp": "2023-12-20T19:23:46Z",
+        "version": 1,
+        "changeset": 145343259,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Clinica Esperança",
+        "id": "node/11435623533"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5875272,
+          -3.8150872
         ]
       }
     }

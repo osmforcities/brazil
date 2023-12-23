@@ -76,103 +76,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/598664906",
-      "properties": {
-        "timestamp": "2023-08-05T18:16:52Z",
-        "version": 3,
-        "changeset": 139491357,
-        "addr:city": "Fortaleza",
-        "addr:street": "Avenida Carlos Amora",
-        "addr:suburb": "Parangaba",
-        "amenity": "dentist",
-        "building": "yes",
-        "building:levels": "1",
-        "building:part": "yes",
-        "healthcare": "dentist",
-        "height": "4.3",
-        "name": "Odontoarte",
-        "name:pt": "Odontoart Parangaba",
-        "pmfsefin:idedif": "630276",
-        "id": "way/598664906"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -38.5625,
-              -3.7768132
-            ],
-            [
-              -38.5625175,
-              -3.7767899
-            ],
-            [
-              -38.5625845,
-              -3.7768439
-            ],
-            [
-              -38.5625798,
-              -3.7768497
-            ],
-            [
-              -38.5626337,
-              -3.7768918
-            ],
-            [
-              -38.5626275,
-              -3.7768997
-            ],
-            [
-              -38.5626313,
-              -3.7769024
-            ],
-            [
-              -38.5626121,
-              -3.7769306
-            ],
-            [
-              -38.5626224,
-              -3.7769377
-            ],
-            [
-              -38.5625946,
-              -3.7769756
-            ],
-            [
-              -38.562585,
-              -3.7769887
-            ],
-            [
-              -38.5624868,
-              -3.7769151
-            ],
-            [
-              -38.5624739,
-              -3.7769318
-            ],
-            [
-              -38.5624282,
-              -3.7768958
-            ],
-            [
-              -38.5624837,
-              -3.7768244
-            ],
-            [
-              -38.5624886,
-              -3.7768282
-            ],
-            [
-              -38.5625,
-              -3.7768132
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/965374980",
       "properties": {
         "timestamp": "2022-07-21T01:47:04Z",
@@ -1309,6 +1212,30 @@
         "coordinates": [
           -38.5000638,
           -3.7398678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11435618525",
+      "properties": {
+        "timestamp": "2023-12-20T19:35:07Z",
+        "version": 1,
+        "changeset": 145343554,
+        "addr:city": "Fortaleza",
+        "addr:street": "Avenida Carlos Amora",
+        "addr:suburb": "Parangaba",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "Odontoarte",
+        "name:pt": "Odontoart Parangaba",
+        "id": "node/11435618525"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5625377,
+          -3.7768898
         ]
       }
     }

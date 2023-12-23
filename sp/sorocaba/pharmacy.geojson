@@ -2639,9 +2639,10 @@
       "type": "Feature",
       "id": "way/1214509378",
       "properties": {
-        "timestamp": "2023-11-28T23:59:06Z",
-        "version": 2,
-        "changeset": 144568694,
+        "timestamp": "2023-12-20T15:39:24Z",
+        "version": 3,
+        "changeset": 145336688,
+        "addr:housenumber": "537",
         "addr:street": "Avenida Edward Fru-Fru Marciano da Silva",
         "amenity": "pharmacy",
         "building": "yes",
@@ -2980,6 +2981,26 @@
         "coordinates": [
           -47.458289,
           -23.4807244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11435238369",
+      "properties": {
+        "timestamp": "2023-12-20T15:57:07Z",
+        "version": 1,
+        "changeset": 145337421,
+        "addr:street": "Avenida Antonio Silva Saladino",
+        "amenity": "pharmacy",
+        "name": "Drogaria Total",
+        "id": "node/11435238369"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.4681132,
+          -23.4357545
         ]
       }
     }

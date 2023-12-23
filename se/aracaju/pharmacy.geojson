@@ -2598,11 +2598,12 @@
       "type": "Feature",
       "id": "node/8952637569",
       "properties": {
-        "timestamp": "2021-07-27T01:40:31Z",
-        "version": 1,
-        "changeset": 108650529,
+        "timestamp": "2023-12-21T14:33:21Z",
+        "version": 2,
+        "changeset": 145373316,
         "addr:street": "Avenida Hermes Fontes",
         "amenity": "pharmacy",
+        "check_date": "2023-12-21",
         "name": "Farmácia do Trabalhador do Brasil",
         "id": "node/8952637569"
       },
@@ -2665,13 +2666,14 @@
       "type": "Feature",
       "id": "node/9209922120",
       "properties": {
-        "timestamp": "2021-10-29T12:34:04Z",
-        "version": 1,
-        "changeset": 113122932,
+        "timestamp": "2023-12-21T14:49:31Z",
+        "version": 2,
+        "changeset": 145373316,
         "amenity": "pharmacy",
         "brand": "Drogasil",
         "brand:wikidata": "Q5308185",
         "brand:wikipedia": "pt:Drogasil",
+        "check_date": "2023-12-21",
         "dispensing": "yes",
         "healthcare": "pharmacy",
         "name": "Drogasil",
@@ -3683,6 +3685,29 @@
         "coordinates": [
           -37.0575014,
           -10.9215286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11438727241",
+      "properties": {
+        "timestamp": "2023-12-21T14:36:55Z",
+        "version": 1,
+        "changeset": 145373301,
+        "amenity": "pharmacy",
+        "brand": "Drogasil",
+        "brand:wikidata": "Q5308185",
+        "healthcare": "pharmacy",
+        "name": "Drogasil",
+        "wheelchair": "yes",
+        "id": "node/11438727241"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.0575006,
+          -10.9229178
         ]
       }
     }

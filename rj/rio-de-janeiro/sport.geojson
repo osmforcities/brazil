@@ -66222,91 +66222,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/479500382",
-      "properties": {
-        "timestamp": "2022-12-21T02:25:15Z",
-        "version": 4,
-        "changeset": 130311714,
-        "addr:city": "Rio de Janeiro",
-        "addr:housenumber": "186, Loja A",
-        "addr:postcode": "20040-030",
-        "addr:street": "Rua do Ouvidor",
-        "addr:suburb": "Centro",
-        "brand": "Smart Fit",
-        "brand:wikidata": "Q30930959",
-        "building": "yes",
-        "description": "A academia inteligente.",
-        "email": "rjccen2@smartfit.com.bt",
-        "leisure": "fitness_centre",
-        "name": "Smart Fit",
-        "opening_hours": "Seg-Sex 6h às 22h / Sab 9h às 15h",
-        "sport": "Musculação_e_Aeróbicos",
-        "website": "https://www.smartfit.com.br/unidades/rua-do-ouvidor",
-        "wheelchair": "no",
-        "id": "way/479500382"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -43.1801577,
-              -22.9047057
-            ],
-            [
-              -43.1802195,
-              -22.9046009
-            ],
-            [
-              -43.1803206,
-              -22.9046562
-            ],
-            [
-              -43.1803624,
-              -22.9045902
-            ],
-            [
-              -43.1803973,
-              -22.904611
-            ],
-            [
-              -43.1804124,
-              -22.9046211
-            ],
-            [
-              -43.1804421,
-              -22.9046392
-            ],
-            [
-              -43.1804717,
-              -22.9046573
-            ],
-            [
-              -43.1805042,
-              -22.9046763
-            ],
-            [
-              -43.1804706,
-              -22.9047329
-            ],
-            [
-              -43.1804035,
-              -22.9048419
-            ],
-            [
-              -43.1802302,
-              -22.9047459
-            ],
-            [
-              -43.1801577,
-              -22.9047057
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/481124209",
       "properties": {
         "timestamp": "2017-03-17T22:42:17Z",
@@ -115604,6 +115519,39 @@
         "coordinates": [
           -43.2481826,
           -22.9118056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11443433202",
+      "properties": {
+        "timestamp": "2023-12-22T13:46:30Z",
+        "version": 1,
+        "changeset": 145407441,
+        "addr:city": "Rio de Janeiro",
+        "addr:housenumber": "186, Loja A",
+        "addr:postcode": "20040-030",
+        "addr:street": "Rua do Ouvidor",
+        "addr:suburb": "Centro",
+        "brand": "Smart Fit",
+        "brand:wikidata": "Q30930959",
+        "building": "yes",
+        "description": "A academia inteligente.",
+        "email": "rjccen2@smartfit.com.bt",
+        "leisure": "fitness_centre",
+        "name": "Smart Fit",
+        "opening_hours": "Mo-Fr 6:00-22:00; Sa 9:00-15:00",
+        "sport": "fitness",
+        "website": "https://www.smartfit.com.br/unidades/rua-do-ouvidor",
+        "wheelchair": "no",
+        "id": "node/11443433202"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1803961,
+          -22.9047136
         ]
       }
     }

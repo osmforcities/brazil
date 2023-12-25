@@ -388,22 +388,51 @@
     },
     {
       "type": "Feature",
-      "id": "node/1594887607",
+      "id": "way/1233850042",
       "properties": {
-        "timestamp": "2022-07-13T13:08:43Z",
-        "version": 7,
-        "changeset": 123565075,
+        "timestamp": "2023-12-24T17:08:03Z",
+        "version": 1,
+        "changeset": 145475387,
+        "addr:housenumber": "1085",
+        "addr:postcode": "17527-622",
+        "addr:street": "Rua Amador Bueno",
+        "addr:suburb": "Chico Mendes",
         "amenity": "clinic",
-        "emergency": "no",
         "healthcare": "clinic",
-        "name": "UBS Chico Mendes",
-        "id": "node/1594887607"
+        "healthcare:speciality": "general;paediatrics;ginecologia",
+        "name": "Unidade Básica de Saúde Chico Mendes",
+        "opening_hours": "Mo-Fr 07:00-17:00",
+        "phone": "+55 14 3413 6610",
+        "ref:CNES": "2051680",
+        "short_name": "UBS Chico Mendes",
+        "source": "CNES",
+        "id": "way/1233850042"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -49.9705817,
-          -22.2231094
+          [
+            [
+              -49.9707948,
+              -22.2230656
+            ],
+            [
+              -49.9705844,
+              -22.2233054
+            ],
+            [
+              -49.9701873,
+              -22.2230068
+            ],
+            [
+              -49.9703977,
+              -22.222767
+            ],
+            [
+              -49.9707948,
+              -22.2230656
+            ]
+          ]
         ]
       }
     },

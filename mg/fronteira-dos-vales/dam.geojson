@@ -5,10 +5,10 @@
       "type": "Feature",
       "id": "way/875798620",
       "properties": {
-        "timestamp": "2020-11-22T16:22:57Z",
-        "version": 1,
-        "changeset": 94589017,
-        "name": "BARRAGEM CÓRREGO NOVO",
+        "timestamp": "2023-12-24T14:51:14Z",
+        "version": 2,
+        "changeset": 145471592,
+        "name": "Barragem Córrego Novo",
         "waterway": "dam",
         "id": "way/875798620"
       },
@@ -16,12 +16,16 @@
         "type": "LineString",
         "coordinates": [
           [
-            -40.9199829,
-            -16.8953503
+            -40.9200457,
+            -16.8953644
           ],
           [
-            -40.9199276,
-            -16.895187
+            -40.920019,
+            -16.8952854
+          ],
+          [
+            -40.9199904,
+            -16.8952011
           ]
         ]
       }
@@ -52,6 +56,24 @@
             -40.7751604,
             -16.8980826
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11449594480",
+      "properties": {
+        "timestamp": "2023-12-24T14:51:14Z",
+        "version": 1,
+        "changeset": 145471592,
+        "waterway": "weir",
+        "id": "node/11449594480"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.920019,
+          -16.8952854
         ]
       }
     }

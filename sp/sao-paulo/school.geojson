@@ -83558,6 +83558,79 @@
     },
     {
       "type": "Feature",
+      "id": "way/1233702716",
+      "properties": {
+        "timestamp": "2023-12-24T02:20:37Z",
+        "version": 1,
+        "changeset": 145455536,
+        "addr:city": "São Paulo",
+        "addr:postcode": "03532-020",
+        "addr:street": "Rua Paranhos",
+        "addr:suburb": "Vila Nova Savoia",
+        "amenity": "school",
+        "barrier": "wall",
+        "name": "E.E Doutor José Pereira de Queiroz",
+        "phone": "+55  11 2651-5800",
+        "id": "way/1233702716"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.5153291,
+              -23.5431803
+            ],
+            [
+              -46.5155629,
+              -23.5435301
+            ],
+            [
+              -46.5152683,
+              -23.5436999
+            ],
+            [
+              -46.5152304,
+              -23.5436876
+            ],
+            [
+              -46.5152142,
+              -23.5436626
+            ],
+            [
+              -46.5151602,
+              -23.5435796
+            ],
+            [
+              -46.5148596,
+              -23.5431173
+            ],
+            [
+              -46.5148805,
+              -23.5430633
+            ],
+            [
+              -46.515177,
+              -23.5428955
+            ],
+            [
+              -46.5152011,
+              -23.5429328
+            ],
+            [
+              -46.5153605,
+              -23.5431629
+            ],
+            [
+              -46.5153291,
+              -23.5431803
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/222842154",
       "properties": {
         "timestamp": "2023-06-07T15:20:09Z",
@@ -97163,6 +97236,35 @@
     },
     {
       "type": "Feature",
+      "id": "node/8279194965",
+      "properties": {
+        "timestamp": "2023-12-24T02:20:37Z",
+        "version": 2,
+        "changeset": 145455536,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "268",
+        "addr:postcode": "03532-020",
+        "addr:street": "Rua Paranhos",
+        "bus": "yes",
+        "description": "Ref.: Rua Gregorio De Souza",
+        "gtfs_id": "9309462",
+        "highway": "bus_stop",
+        "network": "SPTrans",
+        "network:wikidata": "Q7392689",
+        "public_transport": "platform",
+        "route_ref": "342C-10;3731-10",
+        "id": "node/8279194965"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5151602,
+          -23.5435796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/8314947732",
       "properties": {
         "timestamp": "2021-01-12T12:17:51Z",
@@ -106119,6 +106221,28 @@
         "coordinates": [
           -46.7714673,
           -23.6780676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11448146809",
+      "properties": {
+        "timestamp": "2023-12-24T02:20:37Z",
+        "version": 1,
+        "changeset": 145455536,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "264",
+        "addr:postcode": "03532-020",
+        "addr:street": "Rua Paranhos",
+        "entrance": "yes",
+        "id": "node/11448146809"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5152142,
+          -23.5436626
         ]
       }
     }

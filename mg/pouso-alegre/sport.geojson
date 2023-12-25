@@ -2935,9 +2935,9 @@
       "type": "Feature",
       "id": "way/543801771",
       "properties": {
-        "timestamp": "2017-12-01T01:26:14Z",
-        "version": 1,
-        "changeset": 54221087,
+        "timestamp": "2023-12-24T15:25:51Z",
+        "version": 2,
+        "changeset": 145472693,
         "leisure": "pitch",
         "sport": "soccer",
         "id": "way/543801771"
@@ -2947,40 +2947,32 @@
         "coordinates": [
           [
             [
-              -45.9377499,
-              -22.2346678
+              -45.9377269,
+              -22.2347303
             ],
             [
-              -45.9384775,
-              -22.2352534
+              -45.9382357,
+              -22.2350825
             ],
             [
-              -45.9387517,
-              -22.2349508
+              -45.9384529,
+              -22.2352328
             ],
             [
-              -45.9391419,
-              -22.2352339
+              -45.9381652,
+              -22.2355889
             ],
             [
-              -45.9386674,
-              -22.2359952
+              -45.9380283,
+              -22.2357452
             ],
             [
-              -45.9382139,
-              -22.2359367
+              -45.9372969,
+              -22.2352626
             ],
             [
-              -45.9378977,
-              -22.235721
-            ],
-            [
-              -45.9372965,
-              -22.2352534
-            ],
-            [
-              -45.9377499,
-              -22.2346678
+              -45.9377269,
+              -22.2347303
             ]
           ]
         ]
@@ -3274,11 +3266,14 @@
       "type": "Feature",
       "id": "way/644411446",
       "properties": {
-        "timestamp": "2022-11-11T11:30:10Z",
-        "version": 2,
-        "changeset": 128772676,
+        "timestamp": "2023-12-24T15:46:10Z",
+        "version": 3,
+        "changeset": 145473383,
+        "access": "private",
         "leisure": "pitch",
-        "sport": "soccer",
+        "lit": "yes",
+        "sport": "soccer;athletics;running;multi",
+        "surface": "grass",
         "id": "way/644411446"
       },
       "geometry": {
@@ -3286,24 +3281,48 @@
         "coordinates": [
           [
             [
-              -45.9156018,
-              -22.220339
+              -45.915761,
+              -22.2203127
             ],
             [
-              -45.9153854,
-              -22.2208269
+              -45.9158832,
+              -22.2204851
             ],
             [
-              -45.9145834,
-              -22.220522
+              -45.915843,
+              -22.2207583
             ],
             [
-              -45.9147999,
-              -22.2200341
+              -45.9156901,
+              -22.220947
             ],
             [
-              -45.9156018,
-              -22.220339
+              -45.9154547,
+              -22.2210032
+            ],
+            [
+              -45.9143992,
+              -22.2206019
+            ],
+            [
+              -45.9142685,
+              -22.2203684
+            ],
+            [
+              -45.9143409,
+              -22.2201152
+            ],
+            [
+              -45.9145018,
+              -22.2199538
+            ],
+            [
+              -45.9147056,
+              -22.2199114
+            ],
+            [
+              -45.915761,
+              -22.2203127
             ]
           ]
         ]
@@ -3508,42 +3527,85 @@
     },
     {
       "type": "Feature",
-      "id": "node/4362250683",
+      "id": "way/1233838760",
       "properties": {
-        "timestamp": "2016-08-23T01:37:30Z",
+        "timestamp": "2023-12-24T15:46:10Z",
         "version": 1,
-        "changeset": 41627627,
-        "noexit": "yes",
-        "id": "node/4362250683"
+        "changeset": 145473383,
+        "access": "private",
+        "leisure": "pitch",
+        "lit": "yes",
+        "sport": "futsal;volleyball;basketball;athletics;handball;gymnastics;dance;d",
+        "surface": "paved",
+        "id": "way/1233838760"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -45.9378977,
-          -22.235721
+          [
+            [
+              -45.9161353,
+              -22.2206731
+            ],
+            [
+              -45.9161015,
+              -22.2207538
+            ],
+            [
+              -45.9159395,
+              -22.2206957
+            ],
+            [
+              -45.9159733,
+              -22.220615
+            ],
+            [
+              -45.9161353,
+              -22.2206731
+            ]
+          ]
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "node/11123587808",
+      "id": "way/1233838761",
       "properties": {
-        "timestamp": "2023-08-17T18:34:47Z",
+        "timestamp": "2023-12-24T15:46:10Z",
         "version": 1,
-        "changeset": 140026696,
+        "changeset": 145473383,
         "access": "private",
         "leisure": "pitch",
         "lit": "yes",
-        "name": "Campo",
-        "sport": "soccer;athletics;running;multi",
-        "surface": "grass",
-        "id": "node/11123587808"
+        "sport": "futsal;volleyball;basketball;athletics;handball;gymnastics;dance;d",
+        "surface": "paved",
+        "id": "way/1233838761"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -45.9150981,
-          -22.2204273
+          [
+            [
+              -45.916193,
+              -22.2205411
+            ],
+            [
+              -45.9161592,
+              -22.2206218
+            ],
+            [
+              -45.9159972,
+              -22.2205637
+            ],
+            [
+              -45.916031,
+              -22.220483
+            ],
+            [
+              -45.916193,
+              -22.2205411
+            ]
+          ]
         ]
       }
     },
@@ -3570,29 +3632,6 @@
         "coordinates": [
           -45.9159901,
           -22.2209288
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/11123587811",
-      "properties": {
-        "timestamp": "2023-08-17T18:34:47Z",
-        "version": 1,
-        "changeset": 140026696,
-        "access": "private",
-        "leisure": "pitch",
-        "lit": "yes",
-        "name": "Quadra",
-        "sport": "futsal;volleyball;basketball;athletics;handball;gymnastics;dance;d",
-        "surface": "paved",
-        "id": "node/11123587811"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -45.916082,
-          -22.2205869
         ]
       }
     }

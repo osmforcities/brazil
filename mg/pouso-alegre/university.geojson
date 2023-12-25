@@ -5,14 +5,24 @@
       "type": "Feature",
       "id": "way/245506071",
       "properties": {
-        "timestamp": "2016-04-27T00:54:59Z",
-        "version": 3,
-        "changeset": 38907544,
+        "timestamp": "2023-12-24T15:46:10Z",
+        "version": 4,
+        "changeset": 145473383,
+        "addr:city": "Pouso Alegre",
+        "addr:housenumber": "470",
+        "addr:postcode": "37554-210",
+        "addr:street": "Avenida Prefeito Tuany Toledo",
+        "addr:suburb": "Fátima",
         "amenity": "university",
         "building": "university",
-        "name": "Universidade Vale do Sapucai",
+        "image": "https://www.google.com/search?sca_esv=557804163&rlz=1C1GCEU_pt-BRBR1071BR1071&sxsrf=AB5stBhQqDkEbpLnGtQCL4J-JWPOdr3dtg:1692296200938&q=univas&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjCgqXPpuSAAxV7r5UCHTYSD2cQ0pQJegQICxAB&biw=1440&bih=726&dpr=1#imgrc=rF7Ekk93",
+        "internet_access": "yes",
+        "internet_access:fee": "customers",
+        "level": "2",
+        "name": "Universidade do Vale do Sapucaí Unidade Fátima",
         "short_name": "Univas",
         "source": "survey",
+        "website": "https://www.univas.edu.br/",
         "id": "way/245506071"
       },
       "geometry": {
@@ -283,9 +293,9 @@
       "type": "Feature",
       "id": "node/5169962701",
       "properties": {
-        "timestamp": "2023-12-06T17:42:22Z",
-        "version": 6,
-        "changeset": 144837955,
+        "timestamp": "2023-12-24T15:46:10Z",
+        "version": 7,
+        "changeset": 145473383,
         "addr:city": "Pouso Alegre",
         "addr:housename": "Reitoria do IF",
         "addr:housenumber": "1111",
@@ -298,7 +308,6 @@
         "official_name": "Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais - Reitoria",
         "opening_hours": "Mo-Fr 07:00-19:00",
         "phone": "+55-35-3449-6150",
-        "short_name": "IFSULDEMINAS Reitoria",
         "website": "https://portal.ifsuldeminas.edu.br/",
         "id": "node/5169962701"
       },
@@ -307,35 +316,6 @@
         "coordinates": [
           -45.9234899,
           -22.2266456
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/11123587816",
-      "properties": {
-        "timestamp": "2023-08-17T18:34:47Z",
-        "version": 1,
-        "changeset": 140026696,
-        "addr:city": "Pouso Alegre",
-        "addr:housenumber": "470",
-        "addr:postcode": "37554-210",
-        "addr:street": "Avenida Prefeito Tuany Toledo",
-        "addr:suburb": "Fátima",
-        "amenity": "university",
-        "image": "https://www.google.com/search?sca_esv=557804163&rlz=1C1GCEU_pt-BRBR1071BR1071&sxsrf=AB5stBhQqDkEbpLnGtQCL4J-JWPOdr3dtg:1692296200938&q=univas&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjCgqXPpuSAAxV7r5UCHTYSD2cQ0pQJegQICxAB&biw=1440&bih=726&dpr=1#imgrc=rF7Ekk93",
-        "internet_access": "yes",
-        "internet_access:fee": "customers",
-        "level": "2",
-        "name": "Universidade do Vale do Sapucaí Unidade Fátima",
-        "website": "https://www.univas.edu.br/",
-        "id": "node/11123587816"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -45.9159356,
-          -22.2196987
         ]
       }
     }

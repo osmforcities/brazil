@@ -89,11 +89,14 @@
       "type": "Feature",
       "id": "way/359848017",
       "properties": {
-        "timestamp": "2015-07-10T16:48:19Z",
-        "version": 2,
-        "changeset": 32548562,
+        "timestamp": "2023-12-23T22:18:52Z",
+        "version": 4,
+        "changeset": 145452112,
+        "addr:city": "João Monlevade",
+        "addr:housenumber": "561",
         "amenity": "school",
         "name": "Escola Municipal Cônego José Higino de Freitas",
+        "wikidata": "Q123987850",
         "id": "way/359848017"
       },
       "geometry": {
@@ -101,40 +104,36 @@
         "coordinates": [
           [
             [
-              -43.1873827,
-              -19.8130263
+              -43.1873203,
+              -19.8129852
             ],
             [
-              -43.1874387,
-              -19.8131362
+              -43.1873658,
+              -19.8131038
             ],
             [
-              -43.1878041,
-              -19.8129818
-            ],
-            [
-              -43.187978,
-              -19.8134141
+              -43.1877402,
+              -19.812951
             ],
             [
               -43.1881067,
               -19.8138129
             ],
             [
-              -43.1872766,
-              -19.8138091
+              -43.1871816,
+              -19.8137968
             ],
             [
-              -43.1872873,
-              -19.8134785
+              -43.1871955,
+              -19.8135247
             ],
             [
-              -43.187231,
-              -19.8132943
+              -43.1871425,
+              -19.8132789
             ],
             [
-              -43.1873827,
-              -19.8130263
+              -43.1873203,
+              -19.8129852
             ]
           ]
         ]
@@ -144,10 +143,17 @@
       "type": "Feature",
       "id": "way/359848941",
       "properties": {
-        "timestamp": "2015-07-10T16:48:18Z",
-        "version": 1,
-        "changeset": 32548562,
+        "timestamp": "2023-12-23T15:24:53Z",
+        "version": 3,
+        "changeset": 145440844,
+        "addr:city": "João Monlevade",
+        "addr:housenumber": "568",
+        "addr:postcode": "35.930-074",
+        "addr:suburb": "Republica",
         "amenity": "school",
+        "name": "Escola Estadual Antônio Papini",
+        "ref:INEP": "31103365",
+        "wikidata": "Q123985421",
         "id": "way/359848941"
       },
       "geometry": {
@@ -182,13 +188,17 @@
       "type": "Feature",
       "id": "way/359848943",
       "properties": {
-        "timestamp": "2015-07-10T16:52:48Z",
-        "version": 2,
-        "changeset": 32548637,
+        "timestamp": "2023-12-23T21:48:55Z",
+        "version": 3,
+        "changeset": 145451476,
         "addr:city": "João Monlevade",
+        "addr:housenumber": "561",
+        "addr:postcode": "35930-080",
         "addr:street": "Rua Realeza",
+        "addr:suburb": "Republica",
         "amenity": "school",
         "name": "Escola Municipal Efigênio Mota",
+        "wikidata": "Q123985602",
         "id": "way/359848943"
       },
       "geometry": {
@@ -324,6 +334,202 @@
             [
               -43.1665556,
               -19.8351132
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1233653739",
+      "properties": {
+        "timestamp": "2023-12-23T22:32:54Z",
+        "version": 2,
+        "changeset": 145452385,
+        "addr:city": "João Monlevade",
+        "addr:suburb": "Lourdes",
+        "amenity": "school",
+        "email": "escola.103489@educacao.mg.gov.br",
+        "name": "Escola Estadual Luiz Prisco de Braga",
+        "phone": "+553138511551",
+        "ref:INEP": "31103489",
+        "wikidata": "Q123987959",
+        "id": "way/1233653739"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.1781059,
+              -19.8149976
+            ],
+            [
+              -43.1782771,
+              -19.8152794
+            ],
+            [
+              -43.178143,
+              -19.8155357
+            ],
+            [
+              -43.1776481,
+              -19.8152794
+            ],
+            [
+              -43.1781059,
+              -19.8149976
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1233656680",
+      "properties": {
+        "timestamp": "2023-12-23T22:51:55Z",
+        "version": 2,
+        "changeset": 145452783,
+        "addr:city": "João Monlevade",
+        "addr:housenumber": "115",
+        "addr:postcode": "35930-032",
+        "addr:street": "Rua Paracatu",
+        "amenity": "school",
+        "name": "Colégio Kennedy",
+        "ref:INEP": "31105953",
+        "website": "https://www.colegioefaculdadekennedy.com.br/",
+        "wikidata": "Q123988099",
+        "id": "way/1233656680"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.1746489,
+              -19.8108177
+            ],
+            [
+              -43.1748708,
+              -19.8110087
+            ],
+            [
+              -43.175074,
+              -19.8111836
+            ],
+            [
+              -43.1746941,
+              -19.8115742
+            ],
+            [
+              -43.174269,
+              -19.8112083
+            ],
+            [
+              -43.1744886,
+              -19.8109825
+            ],
+            [
+              -43.1746489,
+              -19.8108177
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1233660624",
+      "properties": {
+        "timestamp": "2023-12-23T23:27:43Z",
+        "version": 1,
+        "changeset": 145453388,
+        "addr:city": "João Monlevade",
+        "addr:housenumber": "4982",
+        "addr:postcode": "35930-003",
+        "addr:street": "Avenida Getúlio Vargas",
+        "addr:suburb": "Carneirinhos",
+        "amenity": "school",
+        "name": "Escola Estadual Dona Jenny Faria",
+        "ref:INEP": "31103420",
+        "wikidata": "Q123988282",
+        "id": "way/1233660624"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.1753316,
+              -19.8075689
+            ],
+            [
+              -43.1755555,
+              -19.8075324
+            ],
+            [
+              -43.1756566,
+              -19.8078932
+            ],
+            [
+              -43.1756621,
+              -19.8079831
+            ],
+            [
+              -43.1754054,
+              -19.8079969
+            ],
+            [
+              -43.1753738,
+              -19.8078143
+            ],
+            [
+              -43.1753316,
+              -19.8075689
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1233663401",
+      "properties": {
+        "timestamp": "2023-12-23T23:57:16Z",
+        "version": 1,
+        "changeset": 145453821,
+        "addr:city": "João Monlevade",
+        "addr:street": "Rua São Domingos do Prata",
+        "amenity": "school",
+        "name": "Escola Estadual Louis Ensch",
+        "website": "https://srenovaera.educacao.mg.gov.br/banco-de-noticias/55-escolas/158-ee-louis-ensch",
+        "wikidata": "Q123988777",
+        "id": "way/1233663401"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.1708835,
+              -19.8077265
+            ],
+            [
+              -43.1709877,
+              -19.8075024
+            ],
+            [
+              -43.1713471,
+              -19.8076164
+            ],
+            [
+              -43.1712615,
+              -19.807858
+            ],
+            [
+              -43.1708835,
+              -19.8077265
             ]
           ]
         ]

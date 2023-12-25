@@ -709,84 +709,28 @@
     },
     {
       "type": "Feature",
-      "id": "way/191281954",
-      "properties": {
-        "timestamp": "2023-02-19T16:02:22Z",
-        "version": 5,
-        "changeset": 132754460,
-        "amenity": "hospital",
-        "healthcare": "hospital",
-        "name": "CRSH Dr. Etienne de Albuquerque Palhano",
-        "official_name": "Centro do Homem Doutora Etiene de Albuquerque Pallan",
-        "operator": "SESAU",
-        "operator:type": "public",
-        "id": "way/191281954"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -54.5995602,
-              -20.4308256
-            ],
-            [
-              -54.5995887,
-              -20.4308148
-            ],
-            [
-              -54.5996196,
-              -20.4308043
-            ],
-            [
-              -54.5997199,
-              -20.4310455
-            ],
-            [
-              -54.59978,
-              -20.4311931
-            ],
-            [
-              -54.5997657,
-              -20.4311865
-            ],
-            [
-              -54.5997131,
-              -20.431177
-            ],
-            [
-              -54.5997048,
-              -20.4311755
-            ],
-            [
-              -54.5994959,
-              -20.4311377
-            ],
-            [
-              -54.5995602,
-              -20.4308256
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/191281985",
       "properties": {
-        "timestamp": "2023-02-19T16:02:22Z",
-        "version": 6,
-        "changeset": 132754460,
+        "timestamp": "2023-12-23T23:48:21Z",
+        "version": 7,
+        "changeset": 145453704,
         "addr:city": "Campo Grande",
-        "addr:housenumber": "no",
+        "addr:postcode": "79011-344",
         "addr:street": "Rua Doutor Meirelles",
         "addr:suburb": "Coronel Antonino",
         "amenity": "hospital",
+        "email": "upacel@sesau.campogrande.ms.gov.br",
         "emergency": "yes",
         "healthcare": "hospital",
-        "name": "UPA Dr Walfrido Arruda | Coronel Antonino",
-        "operator": "SESAU",
-        "operator:type": "public",
+        "healthcare:speciality": "general",
+        "loc_name": "UPA Coronel Antonino",
+        "name": "Unidade de Pronto Atendimento Doutor Walfrido Azambuja de Arruda",
+        "operator": "Secretaria Municipal de Saúde",
+        "operator:type": "government",
+        "phone": "+55 62 2020 1851",
+        "ref:CNES": "0010049",
+        "source": "CNES",
+        "website": "https://www.campogrande.ms.gov.br/sesau/artigos/upa-cel-antonino/",
         "id": "way/191281985"
       },
       "geometry": {
@@ -835,39 +779,122 @@
     },
     {
       "type": "Feature",
-      "id": "way/199243741",
+      "id": "way/191281991",
       "properties": {
-        "timestamp": "2021-03-09T06:18:32Z",
-        "version": 2,
-        "changeset": 100680641,
-        "addr:street": "Rua Leandro da Silva Salina",
+        "timestamp": "2023-12-23T23:48:21Z",
+        "version": 4,
+        "changeset": 145453704,
         "amenity": "hospital",
-        "name": "UBSF Doutor Wagner Jorge Bortotto Garcia",
-        "id": "way/199243741"
+        "healthcare": "hospital",
+        "id": "way/191281991"
       },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              -54.6045248,
-              -20.5428458
+              -54.6010941,
+              -20.4311692
             ],
             [
-              -54.6044653,
-              -20.5433506
+              -54.6011199,
+              -20.4312388
             ],
             [
-              -54.6040037,
-              -20.5432812
+              -54.6011611,
+              -20.4312254
             ],
             [
-              -54.6040659,
-              -20.542779
+              -54.6012631,
+              -20.4315007
             ],
             [
-              -54.6045248,
-              -20.5428458
+              -54.6010254,
+              -20.4315781
+            ],
+            [
+              -54.6009505,
+              -20.4315549
+            ],
+            [
+              -54.6009573,
+              -20.4315734
+            ],
+            [
+              -54.600891,
+              -20.431595
+            ],
+            [
+              -54.6008798,
+              -20.4315648
+            ],
+            [
+              -54.6007529,
+              -20.4315345
+            ],
+            [
+              -54.6007119,
+              -20.4314238
+            ],
+            [
+              -54.6006926,
+              -20.4314301
+            ],
+            [
+              -54.6006447,
+              -20.4314457
+            ],
+            [
+              -54.6006616,
+              -20.4314915
+            ],
+            [
+              -54.6006023,
+              -20.4315108
+            ],
+            [
+              -54.6005872,
+              -20.4314701
+            ],
+            [
+              -54.600521,
+              -20.4314917
+            ],
+            [
+              -54.6005145,
+              -20.4314742
+            ],
+            [
+              -54.6004809,
+              -20.4314851
+            ],
+            [
+              -54.6004718,
+              -20.4314609
+            ],
+            [
+              -54.6004276,
+              -20.4314753
+            ],
+            [
+              -54.6004175,
+              -20.4314478
+            ],
+            [
+              -54.6003608,
+              -20.4314663
+            ],
+            [
+              -54.6003415,
+              -20.4314143
+            ],
+            [
+              -54.6006504,
+              -20.4313137
+            ],
+            [
+              -54.6010941,
+              -20.4311692
             ]
           ]
         ]
@@ -922,17 +949,28 @@
       "type": "Feature",
       "id": "way/203375526",
       "properties": {
-        "timestamp": "2021-03-18T06:37:21Z",
-        "version": 3,
-        "changeset": 101232725,
+        "timestamp": "2023-12-23T22:47:27Z",
+        "version": 4,
+        "changeset": 145452675,
         "addr:housenumber": "270",
+        "addr:postcode": "79092-020",
         "addr:street": "Rua Benjamin Adese",
+        "addr:suburb": "Leblon",
         "amenity": "hospital",
+        "email": "upaleblon.sesau@gmail.com",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
         "internet_access": "wlan",
-        "name": "UPA Jardim Leblon",
-        "name:pt": "UPA - Unidade de Pronto Atendimento Médico do Jardim Leblon",
-        "opening_hours": "24/7",
-        "website": "http://www.pmcg.gov.br",
+        "loc_name": "UPA Jardim Leblon",
+        "name": "Unidade de Pronto Atendimento  Doutor Carlos Vinícius Pistóia de Oliveira",
+        "operator": "Secretaria Municipal de Saúde",
+        "operator:type": "government",
+        "phone": "+55 67 2020 1866",
+        "ref:CNES": "7949553",
+        "source": "CNES",
+        "website": "https://www.campogrande.ms.gov.br/sesau/artigos/upa-leblon/",
+        "wheelchair": "yes",
         "id": "way/203375526"
       },
       "geometry": {
@@ -1140,72 +1178,29 @@
     },
     {
       "type": "Feature",
-      "id": "way/222976439",
-      "properties": {
-        "timestamp": "2016-12-19T03:03:54Z",
-        "version": 4,
-        "changeset": 44505518,
-        "amenity": "hospital",
-        "name": "UPA Universitário",
-        "official_name": "UPA Aparecida Gonçalves Saraiva",
-        "opening_hours": "24/7",
-        "id": "way/222976439"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -54.5979009,
-              -20.5249329
-            ],
-            [
-              -54.5990034,
-              -20.5253063
-            ],
-            [
-              -54.5990202,
-              -20.5253656
-            ],
-            [
-              -54.5989024,
-              -20.5257185
-            ],
-            [
-              -54.5987147,
-              -20.5256866
-            ],
-            [
-              -54.5978002,
-              -20.5255422
-            ],
-            [
-              -54.5977765,
-              -20.525511
-            ],
-            [
-              -54.597874,
-              -20.5249906
-            ],
-            [
-              -54.5979009,
-              -20.5249329
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/223187487",
       "properties": {
-        "timestamp": "2016-12-19T03:03:54Z",
-        "version": 7,
-        "changeset": 44505518,
+        "timestamp": "2023-12-23T22:39:18Z",
+        "version": 9,
+        "changeset": 145452503,
+        "addr:housenumber": "3757",
+        "addr:postcode": "79063-500",
+        "addr:street": "Avenida Guaicurus",
+        "addr:suburb": "Universitário",
         "amenity": "hospital",
         "building": "yes",
+        "email": "upauniversitario@sesau.campogrande.ms.gov.br",
         "emergency": "yes",
-        "name": "Unidade de Pronto Atendimento",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "loc_name": "UPA Universitário",
+        "name": "Unidade de Pronto Atendimento Aparecida Gonçalves Saraíva",
+        "operator": "Secretaria Municipal de Saúde",
+        "operator:type": "government",
+        "phone": "+55 67 2020 1835",
+        "ref:CNES": "0010057",
+        "source": "CNES",
+        "website": "https://www.campogrande.ms.gov.br/sesau/artigos/upa-universitario/",
         "id": "way/223187487"
       },
       "geometry": {
@@ -2019,17 +2014,26 @@
       "type": "Feature",
       "id": "way/612764363",
       "properties": {
-        "timestamp": "2018-07-31T20:36:27Z",
-        "version": 1,
-        "changeset": 61241433,
+        "timestamp": "2023-12-23T22:53:42Z",
+        "version": 2,
+        "changeset": 145452820,
         "addr:postcode": "79112-190",
         "addr:street": "Rua Ministro José Linhares",
+        "addr:suburb": "Vila Almeida",
         "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
         "internet_access": "wlan",
-        "name": "UPA - Unidade de Pronto Atendimento Vila Almeida",
-        "opening_hours": "24/7",
-        "phone": "+556733147329",
-        "website": "http://www.pmcg.gov.br",
+        "loc_name": "UPA Vila Almeida",
+        "name": "Unidade de Pronto Atendimento Doutor Alessandro Martins de Souza Silva",
+        "operator": "Secretaria Municipal de Saúde",
+        "operator:type": "government",
+        "phone": "+55 67 2020 1857",
+        "ref:CNES": "0010081",
+        "source": "CNES",
+        "website": "https://www.campogrande.ms.gov.br/sesau/artigos/upa-vila-almeida/",
+        "wheelchair": "yes",
         "id": "way/612764363"
       },
       "geometry": {
@@ -2333,25 +2337,6 @@
         "coordinates": [
           -54.5471103,
           -20.3739321
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/4306912093",
-      "properties": {
-        "timestamp": "2016-07-17T02:52:32Z",
-        "version": 1,
-        "changeset": 40790699,
-        "amenity": "hospital",
-        "name": "UPA",
-        "id": "node/4306912093"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -54.6527157,
-          -20.4930215
         ]
       }
     },

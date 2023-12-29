@@ -59,9 +59,9 @@
       "type": "Feature",
       "id": "way/405474674",
       "properties": {
-        "timestamp": "2019-10-15T16:33:35Z",
-        "version": 4,
-        "changeset": 75734911,
+        "timestamp": "2023-12-26T08:37:20Z",
+        "version": 5,
+        "changeset": 145523324,
         "building": "public",
         "government": "tax",
         "height": "40",
@@ -145,6 +145,14 @@
             [
               -46.5318291,
               -23.6590241
+            ],
+            [
+              -46.5318495,
+              -23.6590152
+            ],
+            [
+              -46.5319632,
+              -23.6589655
             ],
             [
               -46.5319919,
@@ -1581,9 +1589,9 @@
       "type": "Feature",
       "id": "node/11006324057",
       "properties": {
-        "timestamp": "2023-06-25T22:37:37Z",
-        "version": 1,
-        "changeset": 137768502,
+        "timestamp": "2023-12-26T09:08:36Z",
+        "version": 2,
+        "changeset": 145524418,
         "government": "culture",
         "level": "3",
         "name": "Secretaria de Cultura de Santo André",
@@ -1596,8 +1604,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -46.5326585,
-          -23.6568021
+          -46.5326927,
+          -23.6567947
         ]
       }
     },
@@ -1661,6 +1669,42 @@
         "coordinates": [
           -46.5279646,
           -23.6564931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11455111683",
+      "properties": {
+        "timestamp": "2023-12-26T08:37:20Z",
+        "version": 1,
+        "changeset": 145523324,
+        "entrance": "yes",
+        "id": "node/11455111683"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5318495,
+          -23.6590152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11455111684",
+      "properties": {
+        "timestamp": "2023-12-26T08:37:20Z",
+        "version": 1,
+        "changeset": 145523324,
+        "entrance": "yes",
+        "id": "node/11455111684"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5319632,
+          -23.6589655
         ]
       }
     }

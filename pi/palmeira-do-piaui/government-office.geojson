@@ -3,11 +3,50 @@
   "features": [
     {
       "type": "Feature",
+      "id": "way/1234673333",
+      "properties": {
+        "timestamp": "2023-12-27T18:56:13Z",
+        "version": 1,
+        "changeset": 145588756,
+        "building": "yes",
+        "office": "government",
+        "id": "way/1234673333"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.2362462,
+              -8.7247985
+            ],
+            [
+              -44.2361878,
+              -8.7248567
+            ],
+            [
+              -44.2361239,
+              -8.7247945
+            ],
+            [
+              -44.2361827,
+              -8.7247355
+            ],
+            [
+              -44.2362462,
+              -8.7247985
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/5881975475",
       "properties": {
-        "timestamp": "2021-06-26T03:37:43Z",
-        "version": 2,
-        "changeset": 106989228,
+        "timestamp": "2023-12-27T18:56:13Z",
+        "version": 3,
+        "changeset": 145588756,
         "name": "Secretaria de Saúde",
         "office": "government",
         "id": "node/5881975475"
@@ -15,8 +54,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -44.2361852,
-          -8.7248214
+          -44.2361832,
+          -8.7247993
         ]
       }
     },

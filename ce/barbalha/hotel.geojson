@@ -154,6 +154,71 @@
     },
     {
       "type": "Feature",
+      "id": "way/1234622792",
+      "properties": {
+        "timestamp": "2023-12-27T15:32:21Z",
+        "version": 1,
+        "changeset": 145581271,
+        "check_date": "2023-12-27",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "Imperial Palace Hotel",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "+55 88 2178-0101",
+        "tourism": "hotel",
+        "website": "https://imperialpalacehotel.tur.br",
+        "id": "way/1234622792"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -39.32063,
+              -7.2755878
+            ],
+            [
+              -39.3208317,
+              -7.27568
+            ],
+            [
+              -39.3208653,
+              -7.2757271
+            ],
+            [
+              -39.3209029,
+              -7.2758565
+            ],
+            [
+              -39.3209088,
+              -7.2760174
+            ],
+            [
+              -39.320626,
+              -7.2765862
+            ],
+            [
+              -39.3202622,
+              -7.2764411
+            ],
+            [
+              -39.320529,
+              -7.2758221
+            ],
+            [
+              -39.32063,
+              -7.2755878
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/391112252",
       "properties": {
         "timestamp": "2017-04-09T13:38:26Z",
@@ -305,35 +370,6 @@
         "coordinates": [
           -39.3179846,
           -7.2927319
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/11445108298",
-      "properties": {
-        "timestamp": "2023-12-22T22:41:21Z",
-        "version": 1,
-        "changeset": 145422367,
-        "check_date": "2023-12-22",
-        "internet_access": "wlan",
-        "internet_access:fee": "customers",
-        "name": "Imperial Palace Hotel",
-        "payment:cash": "yes",
-        "payment:credit_cards": "yes",
-        "payment:debit_cards": "yes",
-        "payment:mastercard": "yes",
-        "payment:visa": "yes",
-        "phone": "+55 88 2178-0101",
-        "tourism": "hotel",
-        "website": "https://imperialpalacehotel.tur.br",
-        "id": "node/11445108298"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -39.3206426,
-          -7.2759688
         ]
       }
     }

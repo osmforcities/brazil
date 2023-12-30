@@ -507,10 +507,11 @@
       "type": "Feature",
       "id": "way/1234465952",
       "properties": {
-        "timestamp": "2023-12-26T22:29:15Z",
-        "version": 1,
-        "changeset": 145551521,
+        "timestamp": "2023-12-27T16:48:32Z",
+        "version": 2,
+        "changeset": 145584601,
         "addr:city": "Contenda",
+        "addr:housenumber": "420",
         "addr:postcode": "83730-000",
         "addr:street": "Rua Juvência Camargo de Souza",
         "addr:suburb": "Jardim São João",
@@ -1163,6 +1164,35 @@
         "coordinates": [
           -49.5373016,
           -25.6784441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11459872523",
+      "properties": {
+        "timestamp": "2023-12-27T16:48:32Z",
+        "version": 1,
+        "changeset": 145584601,
+        "addr:city": "Contenda",
+        "addr:housenumber": "420",
+        "addr:postcode": "83730-000",
+        "addr:street": "Rua Juvência Camargo de Souza",
+        "addr:suburb": "Jardim São João",
+        "amenity": "school",
+        "isced:level": "2",
+        "name": "Escola Estadual Vereador Doutor Francisco Cordeiro",
+        "operator": "Secretaria de Estado da Educação do Paraná",
+        "operator:type": "public",
+        "ref:INEP": "41382765",
+        "website": "http://www.consultaescolas.pr.gov.br/consultaescolas-java/pages/templates/initial2.jsf?codigoMunicipio=620&codigoEstab=295",
+        "id": "node/11459872523"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.5217283,
+          -25.6727201
         ]
       }
     }

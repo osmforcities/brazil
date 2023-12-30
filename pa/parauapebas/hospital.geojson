@@ -185,13 +185,15 @@
       "type": "Feature",
       "id": "way/332985919",
       "properties": {
-        "timestamp": "2017-12-14T18:17:49Z",
-        "version": 4,
-        "changeset": 54632077,
+        "timestamp": "2023-12-28T08:23:14Z",
+        "version": 5,
+        "changeset": 145606519,
         "amenity": "hospital",
-        "emergency": "yes",
+        "emergency": "ambulance_station",
+        "healthcare": "hospital",
         "name": "SAMU",
-        "operator": "Prefeitura Municipal",
+        "operator": "SAMU 192",
+        "operator:wikidata": "Q104713679",
         "id": "way/332985919"
       },
       "geometry": {
@@ -274,11 +276,12 @@
       "type": "Feature",
       "id": "node/6336659086",
       "properties": {
-        "timestamp": "2019-03-14T00:06:12Z",
-        "version": 1,
-        "changeset": 68118844,
+        "timestamp": "2023-12-28T08:23:14Z",
+        "version": 2,
+        "changeset": 145606519,
         "addr:street": "Rua Araguaia",
         "amenity": "hospital",
+        "healthcare": "hospital",
         "name": "Hospital São Sebastião",
         "opening_hours": "24/7",
         "id": "node/6336659086"

@@ -5,10 +5,19 @@
       "type": "Feature",
       "id": "way/418201524",
       "properties": {
-        "timestamp": "2016-05-15T02:06:17Z",
-        "version": 1,
-        "changeset": 39323222,
+        "timestamp": "2023-12-28T16:01:50Z",
+        "version": 3,
+        "changeset": 145626710,
+        "addr:city": "Joaíma",
+        "addr:housenumber": "79",
+        "addr:postcode": "39890-000",
+        "addr:street": "Rua Francisco Costa",
+        "addr:suburb": "Bela Vista",
         "amenity": "school",
+        "name": "Escola Estadual Coronel Lidio Araujo",
+        "operator": "Secretaria de Estado de Educação de Minas Gerais",
+        "operator:type": "public",
+        "ref": "INEP 31369756",
         "id": "way/418201524"
       },
       "geometry": {
@@ -126,19 +135,258 @@
     },
     {
       "type": "Feature",
-      "id": "node/4186519823",
+      "id": "way/1234933117",
       "properties": {
-        "timestamp": "2016-05-15T02:06:14Z",
-        "version": 1,
-        "changeset": 39323222,
+        "timestamp": "2023-12-28T16:01:50Z",
+        "version": 2,
+        "changeset": 145626710,
+        "addr:city": "Joaíma",
+        "addr:housenumber": "100",
+        "addr:postcode": "39890-000",
+        "addr:street": "Rua dos Ipês",
+        "addr:suburb": "Ipê",
         "amenity": "school",
-        "id": "node/4186519823"
+        "name": "Escola Municipal Doutor Antonio Jeronimo Oliveira",
+        "operator": "Município de Joaíma",
+        "operator:type": "public",
+        "id": "way/1234933117"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -41.0194234,
-          -16.6614039
+          [
+            [
+              -41.0198498,
+              -16.6611596
+            ],
+            [
+              -41.0199614,
+              -16.6616298
+            ],
+            [
+              -41.0196825,
+              -16.6617179
+            ],
+            [
+              -41.0192615,
+              -16.6616298
+            ],
+            [
+              -41.0189213,
+              -16.6616645
+            ],
+            [
+              -41.0187902,
+              -16.6611249
+            ],
+            [
+              -41.0190143,
+              -16.6611323
+            ],
+            [
+              -41.0198498,
+              -16.6611596
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1234933129",
+      "properties": {
+        "timestamp": "2023-12-28T16:01:50Z",
+        "version": 2,
+        "changeset": 145626710,
+        "addr:city": "Joaíma",
+        "addr:housenumber": "301",
+        "addr:postcode": "39890-000",
+        "addr:street": "Avenida Antero Sena",
+        "addr:suburb": "Centro",
+        "amenity": "school",
+        "email": "escola.185019@educacao.mg.gov.br",
+        "name": "Escola Estadual Professor Antonio Gomes Moreira",
+        "operator": "Secretaria de Estado da Educação de Minas Gerais",
+        "operator:type": "public",
+        "phone": "+55 33 3745 1492",
+        "id": "way/1234933129"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.0248964,
+              -16.6570795
+            ],
+            [
+              -41.0242985,
+              -16.6578466
+            ],
+            [
+              -41.0238358,
+              -16.6575364
+            ],
+            [
+              -41.0239639,
+              -16.6572431
+            ],
+            [
+              -41.0239639,
+              -16.6570965
+            ],
+            [
+              -41.0237931,
+              -16.6570249
+            ],
+            [
+              -41.0240387,
+              -16.6564453
+            ],
+            [
+              -41.0248964,
+              -16.6570795
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1234933130",
+      "properties": {
+        "timestamp": "2023-12-28T16:01:50Z",
+        "version": 2,
+        "changeset": 145626710,
+        "addr:city": "Joaíma",
+        "addr:housenumber": "210",
+        "addr:postcode": "39890-000",
+        "addr:street": "Rua Lídio Araújo",
+        "addr:suburb": "Centro",
+        "amenity": "school",
+        "email": "escola.185051@educacao.mg.gov.br",
+        "name": "Escola Estadual Professor Manoel do Norte",
+        "operator": "Secretaria de Estado da Educação de Minas Gerais",
+        "operator:type": "public",
+        "phone": "+55 33 3745 1358",
+        "id": "way/1234933130"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.0261242,
+              -16.6568715
+            ],
+            [
+              -41.0259284,
+              -16.657117
+            ],
+            [
+              -41.0254053,
+              -16.6567351
+            ],
+            [
+              -41.0256117,
+              -16.6564828
+            ],
+            [
+              -41.0261242,
+              -16.6568715
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1234946634",
+      "properties": {
+        "timestamp": "2023-12-28T16:01:50Z",
+        "version": 1,
+        "changeset": 145626710,
+        "addr:city": "Joaíma",
+        "addr:housenumber": "200",
+        "addr:postcode": "39890-000",
+        "addr:street": "Rua Alcides Gouveia",
+        "addr:suburb": "Centro",
+        "amenity": "school",
+        "name": "Centro Municipal de Educação Abelhinha",
+        "operator": "Município de Joaíma",
+        "operator:type": "public",
+        "phone": "+55 33 3745 1398",
+        "id": "way/1234946634"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.0277268,
+              -16.6532313
+            ],
+            [
+              -41.0272476,
+              -16.6533901
+            ],
+            [
+              -41.0271386,
+              -16.6531008
+            ],
+            [
+              -41.0276246,
+              -16.6529441
+            ],
+            [
+              -41.0277268,
+              -16.6532313
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1234946637",
+      "properties": {
+        "timestamp": "2023-12-28T16:01:50Z",
+        "version": 1,
+        "changeset": 145626710,
+        "addr:city": "Joaíma",
+        "addr:housenumber": "394",
+        "addr:postcode": "39890-000",
+        "addr:street": "Rua Antônio Gomes Moreira",
+        "addr:suburb": "Centro",
+        "amenity": "school",
+        "name": "Instituto Educacional Conhecer Construir e Viver",
+        "id": "way/1234946637"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.0240489,
+              -16.655851
+            ],
+            [
+              -41.023917,
+              -16.6560829
+            ],
+            [
+              -41.0236648,
+              -16.6558066
+            ],
+            [
+              -41.0238692,
+              -16.6556483
+            ],
+            [
+              -41.0240489,
+              -16.655851
+            ]
+          ]
         ]
       }
     },

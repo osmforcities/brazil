@@ -6147,9 +6147,15 @@
       "type": "Feature",
       "id": "node/6169669911",
       "properties": {
-        "timestamp": "2022-07-20T23:50:15Z",
-        "version": 2,
-        "changeset": 123869777,
+        "timestamp": "2023-12-28T17:05:27Z",
+        "version": 3,
+        "changeset": 145629243,
+        "addr:city": "Fortaleza",
+        "addr:housenumber": "3181",
+        "addr:postcode": "60150-165",
+        "addr:street": "Avenida Santos Dumont",
+        "addr:suburb": "Aldeota",
+        "addr:unit": "A",
         "amenity": "pharmacy",
         "brand": "Extrafarma",
         "brand:wikidata": "Q20055480",
@@ -6157,13 +6163,15 @@
         "drive_through": "no",
         "healthcare": "pharmacy",
         "name": "Extrafarma",
+        "opening_hours": "07:00–23:00",
+        "website": "https://www.extrafarma.com.br/",
         "id": "node/6169669911"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -38.4962357,
-          -3.7367801
+          -38.4961638,
+          -3.7367522
         ]
       }
     },
@@ -8404,6 +8412,37 @@
         "coordinates": [
           -38.5185115,
           -3.8087402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11463032211",
+      "properties": {
+        "timestamp": "2023-12-28T15:29:09Z",
+        "version": 1,
+        "changeset": 145625300,
+        "addr:city": "Fortaleza",
+        "addr:housenumber": "2000",
+        "addr:postcode": "60165-080",
+        "addr:street": "Avenida da Abolição",
+        "addr:suburb": "Meireles",
+        "amenity": "pharmacy",
+        "brand": "Drogasil",
+        "brand:wikidata": "Q5308185",
+        "healthcare": "pharmacy",
+        "name": "Drogasil",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+55 85 98155 4367",
+        "website": "http://www.drogasil.com.br/",
+        "wheelchair": "yes",
+        "id": "node/11463032211"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5012382,
+          -3.7258026
         ]
       }
     }

@@ -5,11 +5,12 @@
       "type": "Feature",
       "id": "node/4861662228",
       "properties": {
-        "timestamp": "2017-05-18T11:19:51Z",
-        "version": 1,
-        "changeset": 48788507,
+        "timestamp": "2023-12-28T08:23:14Z",
+        "version": 2,
+        "changeset": 145606519,
         "addr:street": "Avenida Tancredo Neves",
         "amenity": "dentist",
+        "healthcare": "dentist",
         "name": "Odonto line",
         "name:pt": "Odonto line",
         "id": "node/4861662228"
@@ -19,6 +20,28 @@
         "coordinates": [
           -49.8949567,
           -6.0747641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7166492472",
+      "properties": {
+        "timestamp": "2023-12-28T08:23:14Z",
+        "version": 2,
+        "changeset": 145606519,
+        "amenity": "dentist",
+        "description": "Clínica Odontológica Especializada em Implantes, Aparelho Dental e Harmonização Facial",
+        "healthcare": "dentist",
+        "healthcare:speciality": "orthodontics",
+        "name": "Ortoimplantes Parauapebas",
+        "id": "node/7166492472"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.8913647,
+          -6.0744712
         ]
       }
     },

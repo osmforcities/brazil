@@ -23089,6 +23089,58 @@
     },
     {
       "type": "Feature",
+      "id": "way/1234973406",
+      "properties": {
+        "timestamp": "2023-12-28T17:45:31Z",
+        "version": 1,
+        "changeset": 145630783,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "1488",
+        "addr:street": "Rua Agostinho Gomes",
+        "amenity": "pharmacy",
+        "brand": "Drogaria São Paulo",
+        "brand:wikidata": "Q5308184",
+        "brand:wikipedia": "en:Grupo DPSP",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Drogaria São Paulo",
+        "opening_hours": "Mo-Su 08:00-23:00",
+        "id": "way/1234973406"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.6048178,
+              -23.5835503
+            ],
+            [
+              -46.6045736,
+              -23.583536
+            ],
+            [
+              -46.6045818,
+              -23.5834196
+            ],
+            [
+              -46.6046045,
+              -23.5833987
+            ],
+            [
+              -46.6048278,
+              -23.583415
+            ],
+            [
+              -46.6048178,
+              -23.5835503
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/444963390",
       "properties": {
         "timestamp": "2022-04-02T15:19:33Z",
@@ -31296,31 +31348,6 @@
         "coordinates": [
           -46.7054991,
           -23.6172624
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/6893353242",
-      "properties": {
-        "timestamp": "2023-09-21T15:57:32Z",
-        "version": 3,
-        "changeset": 141566592,
-        "addr:street": "Rua Agostinho Gomes",
-        "amenity": "pharmacy",
-        "brand": "Drogaria São Paulo",
-        "brand:wikidata": "Q5308184",
-        "brand:wikipedia": "en:Grupo DPSP",
-        "dispensing": "yes",
-        "healthcare": "pharmacy",
-        "name": "Drogaria São Paulo",
-        "id": "node/6893353242"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -46.6046176,
-          -23.5834729
         ]
       }
     },

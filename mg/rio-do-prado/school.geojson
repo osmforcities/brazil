@@ -146,10 +146,19 @@
       "type": "Feature",
       "id": "way/1234613125",
       "properties": {
-        "timestamp": "2023-12-27T15:02:52Z",
-        "version": 1,
-        "changeset": 145579949,
+        "timestamp": "2023-12-28T12:54:39Z",
+        "version": 2,
+        "changeset": 145618448,
+        "addr:city": "Rio do Prado",
+        "addr:housenumber": "72",
+        "addr:postcode": "39940-000",
+        "addr:street": "Rua Sete de Setembro",
+        "addr:suburb": "Bahia",
         "amenity": "school",
+        "name": "Pré Escola Municipal Doutor Rufino da Costa Ramos",
+        "operator": "Município de Rio do Prado",
+        "operator:type": "public",
+        "phone": "+55 33 3744 1160",
         "id": "way/1234613125"
       },
       "geometry": {
@@ -175,6 +184,44 @@
             [
               -40.5672389,
               -16.6105846
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1234891650",
+      "properties": {
+        "timestamp": "2023-12-28T12:54:39Z",
+        "version": 1,
+        "changeset": 145618448,
+        "amenity": "school",
+        "id": "way/1234891650"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.5669846,
+              -16.6093347
+            ],
+            [
+              -40.5670411,
+              -16.6095987
+            ],
+            [
+              -40.5666782,
+              -16.6096791
+            ],
+            [
+              -40.5666252,
+              -16.6094085
+            ],
+            [
+              -40.5669846,
+              -16.6093347
             ]
           ]
         ]

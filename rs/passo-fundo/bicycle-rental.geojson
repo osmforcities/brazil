@@ -62,11 +62,15 @@
       "type": "Feature",
       "id": "node/5266030387",
       "properties": {
-        "timestamp": "2023-08-02T14:24:05Z",
-        "version": 3,
-        "changeset": 139350629,
+        "timestamp": "2023-12-28T19:44:21Z",
+        "version": 4,
+        "changeset": 145634679,
         "amenity": "bicycle_rental",
-        "network": "Passo Fundo Vai de Bici",
+        "name": "Estação de Bicicletas - E08 - Vera Cruz",
+        "network": "PF Vai De Bici",
+        "operator": "Prefeitura de Passo Fundo",
+        "operator:type": "government",
+        "website": "https://pfvaidebici.mobhis.com.br/",
         "id": "node/5266030387"
       },
       "geometry": {
@@ -138,11 +142,15 @@
       "type": "Feature",
       "id": "node/5266030391",
       "properties": {
-        "timestamp": "2020-02-02T18:15:25Z",
-        "version": 4,
-        "changeset": 80442923,
+        "timestamp": "2023-12-28T19:44:21Z",
+        "version": 5,
+        "changeset": 145634679,
         "amenity": "bicycle_rental",
-        "network": "Passo Fundo Vai de Bici",
+        "name": "Estação de Bicicletas - E05 - Parque da Gare",
+        "network": "PF Vai De Bici",
+        "operator": "Prefeitura Municipal de Passo Fundo",
+        "operator:type": "government",
+        "website": "https://pfvaidebici.mobhis.com.br/",
         "id": "node/5266030391"
       },
       "geometry": {
@@ -188,6 +196,156 @@
         "coordinates": [
           -52.3874057,
           -28.2708109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11463563012",
+      "properties": {
+        "timestamp": "2023-12-28T19:44:21Z",
+        "version": 1,
+        "changeset": 145634679,
+        "amenity": "bicycle_rental",
+        "brand": "Bicicletar",
+        "brand:wikidata": "Q20052795",
+        "name": "Estação de Bicicletas - E01 - Cohab-Secchi",
+        "network": "PF Vai De Bici",
+        "operator": "Prefeitura Municipal de Passo Fundo",
+        "operator:type": "government",
+        "website": "https://pfvaidebici.mobhis.com.br/",
+        "id": "node/11463563012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.4389496,
+          -28.268853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11463563013",
+      "properties": {
+        "timestamp": "2023-12-28T19:44:21Z",
+        "version": 1,
+        "changeset": 145634679,
+        "amenity": "bicycle_rental",
+        "brand": "Bicicletar",
+        "brand:wikidata": "Q20052795",
+        "name": "Estação de Bicicletas - E02 - Boqueirao",
+        "network": "PF Vai de Bici",
+        "operator": "Prefeitura Municipal de Passo Fundo",
+        "operator:type": "government",
+        "website": "https://pfvaidebici.mobhis.com.br/",
+        "id": "node/11463563013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.421983,
+          -28.2675996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11463563014",
+      "properties": {
+        "timestamp": "2023-12-28T19:44:21Z",
+        "version": 1,
+        "changeset": 145634679,
+        "amenity": "bicycle_rental",
+        "brand": "Bicicletar",
+        "brand:wikidata": "Q20052795",
+        "name": "Estação de Bicicletas - E03 - Parque Linear",
+        "network": "PF Vai de Bici",
+        "operator": "Prefeitura Municipal de Passo Fundo",
+        "operator:type": "government",
+        "website": "https://pfvaidebici.mobhis.com.br/",
+        "id": "node/11463563014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.4173235,
+          -28.2655747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11463563015",
+      "properties": {
+        "timestamp": "2023-12-28T19:44:21Z",
+        "version": 1,
+        "changeset": 145634679,
+        "amenity": "bicycle_rental",
+        "brand": "Bicicletar",
+        "brand:wikidata": "Q20052795",
+        "name": "Estação de Bicicletas - E04 - Largo da Cultura",
+        "network": "PF Vai de Bici",
+        "operator": "Prefeitura Municipal de Passo Fundo",
+        "operator:type": "government",
+        "website": "https://pfvaidebici.mobhis.com.br/",
+        "id": "node/11463563015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.4117015,
+          -28.2629518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11463563016",
+      "properties": {
+        "timestamp": "2023-12-28T19:44:21Z",
+        "version": 1,
+        "changeset": 145634679,
+        "amenity": "bicycle_rental",
+        "brand": "Bicicletar",
+        "brand:wikidata": "Q20052795",
+        "name": "Estação de Bicicletas - E06 - Prefeitura",
+        "network": "PF Vai de Bici",
+        "operator": "Prefeitura Municipal de Passo Fundo",
+        "operator:type": "government",
+        "website": "https://pfvaidebici.mobhis.com.br/",
+        "id": "node/11463563016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.3949097,
+          -28.2525777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11463563017",
+      "properties": {
+        "timestamp": "2023-12-28T19:44:21Z",
+        "version": 1,
+        "changeset": 145634679,
+        "amenity": "bicycle_rental",
+        "brand": "Bicicletar",
+        "brand:wikidata": "Q20052795",
+        "name": "Estação de Bicicletas - E07 - Faculdade Ideau",
+        "network": "PF Vai de Bici",
+        "operator": "Prefeitura Municipal de Passo Fundo",
+        "operator:type": "government",
+        "website": "https://pfvaidebici.mobhis.com.br/",
+        "id": "node/11463563017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.37987,
+          -28.2408756
         ]
       }
     }

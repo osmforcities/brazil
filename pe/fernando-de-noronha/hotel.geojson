@@ -3275,18 +3275,23 @@
       "type": "Feature",
       "id": "way/314985240",
       "properties": {
-        "timestamp": "2015-09-26T13:50:17Z",
-        "version": 2,
-        "changeset": 34263800,
+        "timestamp": "2023-12-29T16:33:23Z",
+        "version": 3,
+        "changeset": 145669115,
         "addr:city": "Fernando de Noronha",
         "addr:country": "BR",
+        "addr:housenumber": "104",
         "addr:postcode": "53990-000",
         "addr:street": "Rua Major Costa",
         "addr:suburb": "Vila do Trinta",
+        "brand": "Pousada Brisa Mar Noronha",
         "building": "yes",
-        "name": "Pousada Brisa Mar",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "Pousada Brisa Mar Noronha",
         "phone": "+55 81 3619 1139",
         "tourism": "hotel",
+        "website": "http://brisamarnoronha.com.br/",
         "id": "way/314985240"
       },
       "geometry": {
@@ -3985,6 +3990,59 @@
             [
               -32.4067586,
               -3.8449198
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/368304899",
+      "properties": {
+        "timestamp": "2023-12-29T16:37:43Z",
+        "version": 6,
+        "changeset": 145669275,
+        "addr:city": "Fernando de Noronha",
+        "addr:country": "BR",
+        "addr:housenumber": "6",
+        "addr:postcode": "53990-000",
+        "addr:street": "Rua Pinto Branco",
+        "addr:suburb": "Vila do Trinta",
+        "brand": "Pousada Ares de Noronha",
+        "building": "house",
+        "building:levels": "1",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "Pousada Ares de Noronha",
+        "phone": "+55 81 986060433",
+        "roof:levels": "0",
+        "tourism": "hotel",
+        "website": "https://ares-de-noronha.negocio.site/",
+        "id": "way/368304899"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -32.4062898,
+              -3.8454608
+            ],
+            [
+              -32.4063309,
+              -3.8455369
+            ],
+            [
+              -32.4062146,
+              -3.8455994
+            ],
+            [
+              -32.4061735,
+              -3.8455233
+            ],
+            [
+              -32.4062898,
+              -3.8454608
             ]
           ]
         ]

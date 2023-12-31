@@ -94,13 +94,16 @@
       "type": "Feature",
       "id": "way/633390101",
       "properties": {
-        "timestamp": "2018-10-12T15:18:52Z",
-        "version": 1,
-        "changeset": 63461759,
+        "timestamp": "2023-12-29T15:33:03Z",
+        "version": 2,
+        "changeset": 145666681,
         "amenity": "pharmacy",
+        "brand": "Droga Raia",
+        "brand:wikidata": "Q10357101",
         "building": "yes",
         "dispensing": "yes",
         "healthcare": "pharmacy",
+        "name": "Droga Raia",
         "id": "way/633390101"
       },
       "geometry": {
@@ -548,6 +551,54 @@
             [
               -47.0414116,
               -22.9397328
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1235207072",
+      "properties": {
+        "timestamp": "2023-12-29T15:33:03Z",
+        "version": 1,
+        "changeset": 145666681,
+        "amenity": "pharmacy",
+        "brand": "Drogasil",
+        "brand:wikidata": "Q5308185",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Drogasil",
+        "wheelchair": "yes",
+        "id": "way/1235207072"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.0777412,
+              -22.8074871
+            ],
+            [
+              -47.0777917,
+              -22.8076268
+            ],
+            [
+              -47.0777636,
+              -22.8076682
+            ],
+            [
+              -47.0776458,
+              -22.8077147
+            ],
+            [
+              -47.0776,
+              -22.8075445
+            ],
+            [
+              -47.0777412,
+              -22.8074871
             ]
           ]
         ]

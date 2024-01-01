@@ -593,6 +593,53 @@
     },
     {
       "type": "Feature",
+      "id": "way/1235558030",
+      "properties": {
+        "timestamp": "2023-12-30T16:27:58Z",
+        "version": 1,
+        "changeset": 145704581,
+        "addr:street": "Praça Allan Kardec",
+        "addr:suburb": "Vila Gilda",
+        "amenity": "pharmacy",
+        "brand": "Drogaria São Paulo",
+        "brand:wikidata": "Q5308184",
+        "building": "yes",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Drogaria São Paulo",
+        "id": "way/1235558030"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.5390609,
+              -23.6695649
+            ],
+            [
+              -46.5389576,
+              -23.6697474
+            ],
+            [
+              -46.538893,
+              -23.6697102
+            ],
+            [
+              -46.5389834,
+              -23.669521
+            ],
+            [
+              -46.5390609,
+              -23.6695649
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/842545672",
       "properties": {
         "timestamp": "2019-11-23T09:01:19Z",
@@ -636,11 +683,16 @@
       "type": "Feature",
       "id": "node/1669349376",
       "properties": {
-        "timestamp": "2019-05-25T20:07:32Z",
-        "version": 3,
-        "changeset": 70618547,
+        "timestamp": "2023-12-30T15:47:48Z",
+        "version": 4,
+        "changeset": 145703008,
+        "addr:housenumber": "1830",
+        "addr:street": "Rua Caminho do Pilar",
         "amenity": "pharmacy",
+        "dispensing": "yes",
+        "drive_through": "no",
         "healthcare": "pharmacy",
+        "mobile": "+55 11 96848 2417",
         "name": "Farmácia Nova Scarpelli",
         "id": "node/1669349376"
       },
@@ -764,29 +816,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/3931469797",
-      "properties": {
-        "timestamp": "2023-07-16T03:09:55Z",
-        "version": 5,
-        "changeset": 138563975,
-        "amenity": "pharmacy",
-        "brand": "Extrafarma",
-        "brand:wikidata": "Q20055480",
-        "brand:wikipedia": "pt:Extrafarma",
-        "healthcare": "pharmacy",
-        "name": "Extrafarma",
-        "id": "node/3931469797"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -46.5377512,
-          -23.6686597
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/4513901397",
       "properties": {
         "timestamp": "2023-07-01T08:31:39Z",
@@ -861,19 +890,28 @@
       "type": "Feature",
       "id": "node/5613755075",
       "properties": {
-        "timestamp": "2023-07-16T03:09:55Z",
-        "version": 4,
-        "changeset": 138563975,
+        "timestamp": "2023-12-30T17:17:08Z",
+        "version": 5,
+        "changeset": 145706255,
+        "addr:housenumber": "1658",
+        "addr:postcode": "09041-320",
+        "addr:street": "Avenida Portugal",
+        "addr:suburb": "Jardim Bela Vista",
         "amenity": "pharmacy",
+        "dispensing": "yes",
+        "drive_through": "no",
         "healthcare": "pharmacy",
-        "name": "Própharmacos",
+        "mobile": "+55 11 96175 5527",
+        "name": "Própharmacos Farmácia & Mnipulação",
+        "phone": "+55 11 4994 5008",
+        "website": "https://propharmacos.com.br/",
         "id": "node/5613755075"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -46.5380746,
-          -23.6685249
+          -46.5380904,
+          -23.6685367
         ]
       }
     },

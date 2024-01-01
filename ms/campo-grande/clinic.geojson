@@ -540,15 +540,16 @@
       "type": "Feature",
       "id": "way/235423812",
       "properties": {
-        "timestamp": "2021-08-04T21:44:26Z",
-        "version": 4,
-        "changeset": 109165594,
+        "timestamp": "2023-12-30T23:59:21Z",
+        "version": 5,
+        "changeset": 145716796,
         "addr:housenumber": "no",
         "addr:street": "Avenida Raquel de Queiroz",
         "amenity": "clinic",
         "healthcare": "clinic",
-        "name": "UBS Aero Rancho",
+        "healthcare:speciality": "general;paediatrics;ginecologia",
         "official_name": "Unidade Básica de Saúde Doutor João Pereira da Rosa",
+        "short_name": "UBS Aero Rancho",
         "id": "way/235423812"
       },
       "geometry": {
@@ -1292,6 +1293,101 @@
             [
               -54.6488714,
               -20.5557365
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1235653093",
+      "properties": {
+        "timestamp": "2023-12-30T23:01:10Z",
+        "version": 2,
+        "changeset": 145715883,
+        "addr:housenumber": "1355",
+        "addr:street": "Rua Doutor Meireles",
+        "addr:suburb": "Coronel Antonino",
+        "amenity": "clinic",
+        "building": "yes",
+        "email": "ubscel@sesau.campogrande.ms.gov.br",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general;paediatrics",
+        "name": "Unidade Básica de Saúde Doutor Arthur Vasconcelos Dias",
+        "opening_hours": "Mo-Fr 07:00-11:00,13:00-17:00; PH off",
+        "operator": "Secretaria Municipal de Saúde",
+        "operator:type": "government",
+        "phone": "´+55 67 2020 1947",
+        "short_name": "UBS Coronel Antonino",
+        "id": "way/1235653093"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -54.5997792,
+              -20.4312357
+            ],
+            [
+              -54.599771,
+              -20.431268
+            ],
+            [
+              -54.5997407,
+              -20.4312974
+            ],
+            [
+              -54.5997213,
+              -20.4312931
+            ],
+            [
+              -54.5997075,
+              -20.4313478
+            ],
+            [
+              -54.5995951,
+              -20.4313229
+            ],
+            [
+              -54.5996029,
+              -20.4312918
+            ],
+            [
+              -54.5995563,
+              -20.4312815
+            ],
+            [
+              -54.5995506,
+              -20.431304
+            ],
+            [
+              -54.5995098,
+              -20.4312949
+            ],
+            [
+              -54.5995174,
+              -20.4312651
+            ],
+            [
+              -54.5994808,
+              -20.431257
+            ],
+            [
+              -54.5994746,
+              -20.4312817
+            ],
+            [
+              -54.5994441,
+              -20.431275
+            ],
+            [
+              -54.5994714,
+              -20.4311673
+            ],
+            [
+              -54.5997792,
+              -20.4312357
             ]
           ]
         ]

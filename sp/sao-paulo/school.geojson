@@ -25823,21 +25823,23 @@
       "type": "Feature",
       "id": "way/437892122",
       "properties": {
-        "timestamp": "2019-09-14T02:17:06Z",
-        "version": 3,
-        "changeset": 74459813,
+        "timestamp": "2023-12-31T05:09:58Z",
+        "version": 4,
+        "changeset": 145720394,
         "addr:city": "São Paulo",
         "addr:housenumber": "1412",
         "addr:postcode": "04208-001",
         "addr:street": "Rua Silva Bueno",
         "addr:suburb": "Ipiranga",
+        "alt_name": "Escola Estadual Visconde de Itaúna",
         "amenity": "school",
+        "barrier": "wall",
         "email": "e004327a@educacao.sp.gov.br",
-        "name": "Escola Estadual Visconde de Itaúna",
+        "name": "E.E Visconde de Itaúna",
+        "old_name": "Grupo Escolar Visconde de Iatúna",
         "operator": "Secretaria da Educação do Estado de São Paulo",
         "phone": "+55 11 2272-2445",
         "ref": "35004327",
-        "short_name": "EE Visconde de Itaúna",
         "id": "way/437892122"
       },
       "geometry": {
@@ -25845,32 +25847,36 @@
         "coordinates": [
           [
             [
-              -46.6014921,
-              -23.5903286
+              -46.6014998,
+              -23.5903263
             ],
             [
-              -46.6022613,
-              -23.5903898
+              -46.6022657,
+              -23.5903936
             ],
             [
               -46.602239,
               -23.5906254
             ],
             [
-              -46.602491,
-              -23.5906454
+              -46.6025008,
+              -23.590649
             ],
             [
-              -46.6024141,
-              -23.5914564
+              -46.6024238,
+              -23.5914809
             ],
             [
-              -46.6013929,
-              -23.5913752
+              -46.6013956,
+              -23.5913872
             ],
             [
-              -46.6014921,
-              -23.5903286
+              -46.6014661,
+              -23.5906691
+            ],
+            [
+              -46.6014998,
+              -23.5903263
             ]
           ]
         ]
@@ -52665,9 +52671,9 @@
       "type": "Feature",
       "id": "way/694592354",
       "properties": {
-        "timestamp": "2021-06-20T15:11:25Z",
-        "version": 3,
-        "changeset": 106669918,
+        "timestamp": "2023-12-31T04:41:55Z",
+        "version": 4,
+        "changeset": 145720075,
         "addr:city": "São Paulo",
         "addr:housenumber": "303",
         "addr:postcode": "04533-010",
@@ -52691,36 +52697,48 @@
         "coordinates": [
           [
             [
-              -46.6735182,
-              -23.5829593
+              -46.6735185,
+              -23.583086
             ],
             [
-              -46.6734073,
-              -23.583349
+              -46.6734271,
+              -23.5834007
             ],
             [
-              -46.6727326,
-              -23.583205
+              -46.6733266,
+              -23.5833728
             ],
             [
-              -46.6728681,
-              -23.5827588
+              -46.6732994,
+              -23.5833652
             ],
             [
-              -46.6731762,
-              -23.5828435
+              -46.6727768,
+              -23.5832204
             ],
             [
-              -46.6732774,
-              -23.5825237
+              -46.6728879,
+              -23.5828621
             ],
             [
-              -46.6736138,
-              -23.5826092
+              -46.6733072,
+              -23.5829775
             ],
             [
-              -46.6735182,
-              -23.5829593
+              -46.6734418,
+              -23.5825767
+            ],
+            [
+              -46.673511,
+              -23.5825954
+            ],
+            [
+              -46.673661,
+              -23.5826361
+            ],
+            [
+              -46.6735185,
+              -23.583086
             ]
           ]
         ]
@@ -99235,9 +99253,9 @@
       "type": "Feature",
       "id": "node/8901294220",
       "properties": {
-        "timestamp": "2021-07-07T14:30:22Z",
-        "version": 1,
-        "changeset": 107571350,
+        "timestamp": "2023-12-31T14:57:53Z",
+        "version": 2,
+        "changeset": 145736615,
         "addr:city": "São Paulo",
         "addr:housenumber": "500",
         "addr:street": "Avenida Embaixador Macedo Soares (Local)",
@@ -99247,6 +99265,8 @@
         "departures_board": "yes",
         "highway": "bus_stop",
         "lit": "yes",
+        "network": "SPTrans",
+        "network:wikidata": "Q7392689",
         "operator": "SPTrans",
         "public_transport": "platform",
         "shelter": "yes",
@@ -106243,6 +106263,68 @@
         "coordinates": [
           -46.5152142,
           -23.5436626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11471976623",
+      "properties": {
+        "timestamp": "2023-12-31T04:41:55Z",
+        "version": 1,
+        "changeset": 145720075,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "303",
+        "addr:street": "Rua Tabapuã",
+        "id": "node/11471976623"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.673511,
+          -23.5825954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11471976626",
+      "properties": {
+        "timestamp": "2023-12-31T04:41:55Z",
+        "version": 1,
+        "changeset": 145720075,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "98",
+        "addr:postcode": "04534-050",
+        "addr:street": "Rua Virgílio Várzea",
+        "id": "node/11471976626"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6733266,
+          -23.5833728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11472000545",
+      "properties": {
+        "timestamp": "2023-12-31T05:09:58Z",
+        "version": 1,
+        "changeset": 145720394,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "1412",
+        "addr:street": "Rua Silva Bueno",
+        "entrance": "yes",
+        "id": "node/11472000545"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6014661,
+          -23.5906691
         ]
       }
     }

@@ -5,10 +5,15 @@
       "type": "Feature",
       "id": "way/334240353",
       "properties": {
-        "timestamp": "2015-03-22T21:22:08Z",
-        "version": 1,
-        "changeset": 29666353,
+        "timestamp": "2024-01-01T13:53:29Z",
+        "version": 3,
+        "changeset": 145762834,
+        "addr:city": "Jequitinhonha",
+        "addr:postcode": "39960-000",
+        "addr:street": "Avenida Doutor Franco Duarte",
+        "addr:suburb": "Vaticano",
         "leisure": "stadium",
+        "name": "Estádio Mineirinho",
         "source": "IBGE;Mapbox",
         "sport": "soccer",
         "id": "way/334240353"
@@ -18,24 +23,24 @@
         "coordinates": [
           [
             [
-              -41.0106661,
-              -16.4389999
+              -41.0106783,
+              -16.4388647
             ],
             [
-              -41.0109739,
-              -16.4398928
+              -41.0110548,
+              -16.4398761
             ],
             [
-              -41.0103057,
-              -16.4401521
+              -41.0102575,
+              -16.4401689
             ],
             [
-              -41.0099604,
-              -16.4392159
+              -41.0098847,
+              -16.4391491
             ],
             [
-              -41.0106661,
-              -16.4389999
+              -41.0106783,
+              -16.4388647
             ]
           ]
         ]
@@ -251,6 +256,151 @@
               -41.3133501,
               -16.3612193
             ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1236034298",
+      "properties": {
+        "timestamp": "2024-01-01T14:27:33Z",
+        "version": 2,
+        "changeset": 145763908,
+        "access": "yes",
+        "addr:city": "Jequitinhonha",
+        "addr:postcode": "39960-000",
+        "leisure": "pitch",
+        "sport": "soccer",
+        "surface": "grass",
+        "id": "way/1236034298"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.0006208,
+              -16.4352923
+            ],
+            [
+              -41.0007779,
+              -16.4357188
+            ],
+            [
+              -41.0000444,
+              -16.4359831
+            ],
+            [
+              -40.9998765,
+              -16.4355565
+            ],
+            [
+              -41.0006208,
+              -16.4352923
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1236050212",
+      "properties": {
+        "timestamp": "2024-01-01T13:53:29Z",
+        "version": 1,
+        "changeset": 145762834,
+        "addr:city": "Jequitinhonha",
+        "addr:postcode": "39960-000",
+        "addr:street": "Avenida Epaminondas Cunha Melo",
+        "brand": "AABB",
+        "brand:wikidata": "Q9633503",
+        "leisure": "sports_centre",
+        "name": "Associação Atlética Banco do Brasil",
+        "name:en": "Banco do Brasil Athletic Association",
+        "name:pt": "Associação Atlética Banco do Brasil",
+        "short_name": "AABB",
+        "sport": "multi",
+        "id": "way/1236050212"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.0077483,
+              -16.4431194
+            ],
+            [
+              -41.0071938,
+              -16.4432929
+            ],
+            [
+              -41.0072261,
+              -16.4433911
+            ],
+            [
+              -41.0059512,
+              -16.4436814
+            ],
+            [
+              -41.0058961,
+              -16.4430704
+            ],
+            [
+              -41.0059787,
+              -16.4423651
+            ],
+            [
+              -41.0074691,
+              -16.4422407
+            ],
+            [
+              -41.0077483,
+              -16.4431194
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1235996099",
+      "properties": {
+        "timestamp": "2024-01-01T13:53:29Z",
+        "version": 2,
+        "changeset": 145762834,
+        "addr:city": "Jequitinhonha",
+        "addr:postcode": "39965-000",
+        "addr:street": "Rua Diamantina",
+        "addr:suburb": "Montes Claros",
+        "club": "sport",
+        "name": "Clube Campestre de Jequitinhonha",
+        "sport": "multi",
+        "id": "way/1235996099"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -41.011293,
+            -16.4453932
+          ],
+          [
+            -41.010328,
+            -16.445649
+          ],
+          [
+            -41.0098641,
+            -16.4438115
+          ],
+          [
+            -41.010798,
+            -16.4435535
+          ],
+          [
+            -41.011293,
+            -16.4453932
           ]
         ]
       }

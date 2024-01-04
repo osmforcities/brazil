@@ -1455,6 +1455,52 @@
     },
     {
       "type": "Feature",
+      "id": "way/604239759",
+      "properties": {
+        "timestamp": "2024-01-02T15:08:43Z",
+        "version": 4,
+        "changeset": 145802270,
+        "amenity": "clinic",
+        "emergency": "yes",
+        "healthcare": "clinic",
+        "hospital": "yes",
+        "name": "USF - Jardim das Margaridas",
+        "id": "way/604239759"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.3608839,
+              -12.8935962
+            ],
+            [
+              -38.3609141,
+              -12.8936138
+            ],
+            [
+              -38.3612451,
+              -12.8938066
+            ],
+            [
+              -38.3611793,
+              -12.894037
+            ],
+            [
+              -38.3607623,
+              -12.893843
+            ],
+            [
+              -38.3608839,
+              -12.8935962
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/667306976",
       "properties": {
         "timestamp": "2019-02-01T14:10:29Z",
@@ -4766,6 +4812,50 @@
     },
     {
       "type": "Feature",
+      "id": "node/3726014719",
+      "properties": {
+        "timestamp": "2024-01-02T15:06:49Z",
+        "version": 4,
+        "changeset": 145802190,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Maternidade Santa Maria",
+        "operator": "Hospital Português",
+        "id": "node/3726014719"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5254234,
+          -13.0027767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3726014720",
+      "properties": {
+        "timestamp": "2024-01-02T15:06:49Z",
+        "version": 4,
+        "changeset": 145802190,
+        "amenity": "clinic",
+        "emergency": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "orthopaedics",
+        "name": "Emergência Ortopédica",
+        "operator": "Hospital Português",
+        "id": "node/3726014720"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5251278,
+          -13.0026235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/3789097171",
       "properties": {
         "timestamp": "2023-03-06T14:27:53Z",
@@ -6392,6 +6482,32 @@
         "coordinates": [
           -38.4223582,
           -12.9168726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7592155876",
+      "properties": {
+        "timestamp": "2024-01-02T15:08:43Z",
+        "version": 4,
+        "changeset": 145802270,
+        "addr:city": "Salvador",
+        "addr:street": "Rua Coronel Nilton Sá",
+        "addr:suburb": "Vila Canária",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "Saúde_da_Família_e_Comunidade;vaccination;dentist;general",
+        "name": "USF Vila Canária",
+        "operator": "SMS - BA",
+        "operator:type": "government",
+        "id": "node/7592155876"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4440823,
+          -12.9100727
         ]
       }
     },

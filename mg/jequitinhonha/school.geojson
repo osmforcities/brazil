@@ -203,6 +203,52 @@
     },
     {
       "type": "Feature",
+      "id": "way/1236275829",
+      "properties": {
+        "timestamp": "2024-01-02T11:48:24Z",
+        "version": 1,
+        "changeset": 145794642,
+        "addr:city": "Jequitinhonha",
+        "addr:housenumber": "45",
+        "addr:postcode": "39960-000",
+        "addr:street": "Rua Espírito Santo",
+        "addr:suburb": "Vaticano",
+        "amenity": "school",
+        "name": "Escola Estadual Coronel Ramiro Pereira",
+        "operator": "Secretaria de Estado da Educação de Minas Gerais",
+        "operator:type": "public",
+        "id": "way/1236275829"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.0127254,
+              -16.4405761
+            ],
+            [
+              -41.0129216,
+              -16.4410791
+            ],
+            [
+              -41.0115027,
+              -16.4416068
+            ],
+            [
+              -41.0112968,
+              -16.4411007
+            ],
+            [
+              -41.0127254,
+              -16.4405761
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/3413620334",
       "properties": {
         "timestamp": "2024-01-01T01:32:33Z",
@@ -274,9 +320,9 @@
       "type": "Feature",
       "id": "node/11474786036",
       "properties": {
-        "timestamp": "2024-01-01T01:32:33Z",
-        "version": 1,
-        "changeset": 145750207,
+        "timestamp": "2024-01-02T14:14:16Z",
+        "version": 2,
+        "changeset": 145800117,
         "addr:city": "Jequitinhonha",
         "addr:housenumber": "10",
         "addr:postcode": "39960-000",
@@ -285,7 +331,7 @@
         "amenity": "school",
         "name": "Escola Estadual São Miguel",
         "operator": "Secretaria de Estado da Educação de Minas Gerais",
-        "phone": "+55  33 3741 2124",
+        "phone": "+55 33 3741 2124",
         "id": "node/11474786036"
       },
       "geometry": {
@@ -317,30 +363,6 @@
         "coordinates": [
           -41.0021074,
           -16.442657
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/11475659079",
-      "properties": {
-        "timestamp": "2024-01-01T04:37:18Z",
-        "version": 1,
-        "changeset": 145751835,
-        "addr:city": "Jequitinhonha",
-        "addr:housenumber": "45",
-        "addr:postcode": "39960-000",
-        "addr:street": "Rua Espírito Santo",
-        "addr:suburb": "Vaticano",
-        "amenity": "school",
-        "name": "Escola Estadual Coronel Ramiro Pereira",
-        "id": "node/11475659079"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -41.0116897,
-          -16.4409813
         ]
       }
     },

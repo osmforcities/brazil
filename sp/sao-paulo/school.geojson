@@ -27237,20 +27237,21 @@
       "type": "Feature",
       "id": "way/442801005",
       "properties": {
-        "timestamp": "2019-09-14T15:40:45Z",
-        "version": 4,
-        "changeset": 74477177,
+        "timestamp": "2024-01-02T00:10:56Z",
+        "version": 5,
+        "changeset": 145779723,
         "addr:city": "São Paulo",
         "addr:housenumber": "189",
         "addr:postcode": "03556-010",
         "addr:street": "Rua Palmeirina",
         "addr:suburb": "Cidade Patriarca",
+        "alt_name": "Escola Estadual Professor Jamil Pedro Sawaya",
         "amenity": "school",
+        "barrier": "wall",
         "email": "e002434a@educacao.sp.gov.br",
-        "name": "Escola Estadual Professor Jamil Pedro Sawaya",
+        "name": "E.E Professor Jamil Pedro Sawaya",
         "phone": "+55 11 2749-0957;+55 11 2749-4365",
         "ref": "35002434",
-        "short_name": "EE Professor Jamil Pedro Sawaya",
         "id": "way/442801005"
       },
       "geometry": {
@@ -27258,24 +27259,44 @@
         "coordinates": [
           [
             [
-              -46.5021132,
-              -23.5415443
+              -46.5020714,
+              -23.5416128
             ],
             [
-              -46.5017635,
-              -23.541946
+              -46.5018851,
+              -23.5418244
             ],
             [
-              -46.5010875,
-              -23.5414851
+              -46.5017646,
+              -23.5419594
             ],
             [
-              -46.5014922,
-              -23.541081
+              -46.5010811,
+              -23.5415015
             ],
             [
-              -46.5021132,
-              -23.5415443
+              -46.5010585,
+              -23.5414875
+            ],
+            [
+              -46.501194,
+              -23.5413589
+            ],
+            [
+              -46.501491,
+              -23.5410803
+            ],
+            [
+              -46.5019323,
+              -23.5413997
+            ],
+            [
+              -46.5021333,
+              -23.5415452
+            ],
+            [
+              -46.5020714,
+              -23.5416128
             ]
           ]
         ]
@@ -56931,21 +56952,21 @@
       "type": "Feature",
       "id": "way/741713345",
       "properties": {
-        "timestamp": "2023-06-01T04:07:21Z",
-        "version": 2,
-        "changeset": 136811596,
+        "timestamp": "2024-01-02T00:12:19Z",
+        "version": 3,
+        "changeset": 145779746,
         "addr:city": "São Paulo",
         "addr:housenumber": "540",
         "addr:postcode": "03557-010",
         "addr:street": "Rua Coroatá",
         "addr:suburb": "Jardim Hercília",
+        "alt_name": "Escola Estadual Poeta Menotti Del Picchia",
         "amenity": "school",
         "barrier": "wall",
         "email": "e908997a@educacao.sp.gov.br",
         "name": "E.E Poeta Menotti Del Picchia",
         "phone": "+55 11 2685-4819;+55 11 2958-2952",
         "ref": "35908997",
-        "short_name": "Escola Estadual Poeta Menotti Del Picchia",
         "id": "way/741713345"
       },
       "geometry": {
@@ -106325,6 +106346,27 @@
         "coordinates": [
           -46.6014661,
           -23.5906691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11477160206",
+      "properties": {
+        "timestamp": "2024-01-02T00:10:56Z",
+        "version": 1,
+        "changeset": 145779723,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "189",
+        "addr:street": "Rua Palmeirina",
+        "entrance": "yes",
+        "id": "node/11477160206"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5019323,
+          -23.5413997
         ]
       }
     }

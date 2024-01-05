@@ -121,66 +121,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/461488744",
-      "properties": {
-        "timestamp": "2018-05-28T01:02:51Z",
-        "version": 5,
-        "changeset": 59325005,
-        "addr:housenumber": "430",
-        "addr:street": "Rua Doutor Luiz de Freitas Melro",
-        "amenity": "doctors",
-        "building": "yes",
-        "building:levels": "2",
-        "healthcare": "doctor",
-        "healthcare:speciality": "physiotherapist",
-        "name": "Fisioterapia Blumenau",
-        "roof:levels": "1",
-        "roof:material": "roof_tiles",
-        "roof:shape": "hipped",
-        "id": "way/461488744"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -49.0639524,
-              -26.9238155
-            ],
-            [
-              -49.0639651,
-              -26.9238402
-            ],
-            [
-              -49.0639937,
-              -26.9238284
-            ],
-            [
-              -49.064032,
-              -26.9239024
-            ],
-            [
-              -49.0640519,
-              -26.9239408
-            ],
-            [
-              -49.0639687,
-              -26.9239751
-            ],
-            [
-              -49.0638978,
-              -26.923838
-            ],
-            [
-              -49.0639524,
-              -26.9238155
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/3579496355",
       "properties": {
         "timestamp": "2021-04-29T19:40:05Z",
@@ -513,6 +453,27 @@
         "coordinates": [
           -49.0801777,
           -26.8958474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11481462211",
+      "properties": {
+        "timestamp": "2024-01-03T02:35:14Z",
+        "version": 1,
+        "changeset": 145820690,
+        "amenity": "doctors",
+        "healthcare": "doctor",
+        "healthcare:speciality": "physiotherapist",
+        "name": "Fisioterapia Blumenau",
+        "id": "node/11481462211"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.064006,
+          -26.9239233
         ]
       }
     }

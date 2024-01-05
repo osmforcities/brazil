@@ -931,9 +931,9 @@
       "type": "Feature",
       "id": "way/1082549463",
       "properties": {
-        "timestamp": "2023-12-28T21:52:01Z",
-        "version": 4,
-        "changeset": 145638404,
+        "timestamp": "2024-01-03T15:40:20Z",
+        "version": 5,
+        "changeset": 145844905,
         "access": "yes",
         "amenity": "toilets",
         "building": "yes",
@@ -963,6 +963,10 @@
             [
               -38.4921542,
               -3.725169
+            ],
+            [
+              -38.4921607,
+              -3.7251326
             ],
             [
               -38.4921624,
@@ -1871,6 +1875,29 @@
         "coordinates": [
           -38.4807062,
           -3.8147372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11463832504",
+      "properties": {
+        "timestamp": "2024-01-03T15:40:20Z",
+        "version": 2,
+        "changeset": 145844905,
+        "access": "yes",
+        "amenity": "shower",
+        "check_date": "2023-12-28",
+        "fee": "no",
+        "hot_water": "no",
+        "supervised": "no",
+        "id": "node/11463832504"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4921607,
+          -3.7251326
         ]
       }
     }

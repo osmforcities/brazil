@@ -83670,6 +83670,139 @@
     },
     {
       "type": "Feature",
+      "id": "way/1236588378",
+      "properties": {
+        "timestamp": "2024-01-03T13:04:22Z",
+        "version": 1,
+        "changeset": 145838985,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "99",
+        "addr:postcode": "03520-050",
+        "addr:street": "Praça Bauxita",
+        "alt_name": "EMEF Dezenove de Novembro",
+        "amenity": "school",
+        "barrier": "wall",
+        "name": "EMEF 19 de Novembro",
+        "id": "way/1236588378"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.5192946,
+              -23.5449817
+            ],
+            [
+              -46.5193267,
+              -23.5450196
+            ],
+            [
+              -46.5195484,
+              -23.5455271
+            ],
+            [
+              -46.5194958,
+              -23.5456185
+            ],
+            [
+              -46.5194341,
+              -23.5457257
+            ],
+            [
+              -46.5191376,
+              -23.5458435
+            ],
+            [
+              -46.5188009,
+              -23.5454314
+            ],
+            [
+              -46.5187126,
+              -23.5449915
+            ],
+            [
+              -46.5187232,
+              -23.5449538
+            ],
+            [
+              -46.5192474,
+              -23.5449558
+            ],
+            [
+              -46.5192946,
+              -23.5449817
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1236681921",
+      "properties": {
+        "timestamp": "2024-01-03T20:24:06Z",
+        "version": 1,
+        "changeset": 145853880,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "55",
+        "addr:postcode": "03576-160",
+        "addr:street": "Rua Garuva",
+        "amenity": "school",
+        "barrier": "wall",
+        "name": "E.E Dom Camilo Maria Cavalheiro",
+        "id": "way/1236681921"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.5085076,
+              -23.5548149
+            ],
+            [
+              -46.5073331,
+              -23.5544674
+            ],
+            [
+              -46.5072621,
+              -23.5544468
+            ],
+            [
+              -46.5073218,
+              -23.5542682
+            ],
+            [
+              -46.5074008,
+              -23.5540897
+            ],
+            [
+              -46.507564,
+              -23.5539047
+            ],
+            [
+              -46.5083888,
+              -23.5541588
+            ],
+            [
+              -46.5084241,
+              -23.5543041
+            ],
+            [
+              -46.5085433,
+              -23.5547943
+            ],
+            [
+              -46.5085076,
+              -23.5548149
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/222842154",
       "properties": {
         "timestamp": "2023-06-07T15:20:09Z",
@@ -106367,6 +106500,50 @@
         "coordinates": [
           -46.5019323,
           -23.5413997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11482689275",
+      "properties": {
+        "timestamp": "2024-01-03T13:04:22Z",
+        "version": 1,
+        "changeset": 145838985,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "99",
+        "addr:postcode": "03520-050",
+        "addr:street": "Praça Bauxita",
+        "entrance": "yes",
+        "id": "node/11482689275"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5193267,
+          -23.5450196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11483555168",
+      "properties": {
+        "timestamp": "2024-01-03T20:24:06Z",
+        "version": 1,
+        "changeset": 145853880,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "55",
+        "addr:postcode": "03576-160",
+        "addr:street": "Rua Garuva",
+        "entrance": "yes",
+        "id": "node/11483555168"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5084241,
+          -23.5543041
         ]
       }
     }

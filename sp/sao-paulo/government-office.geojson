@@ -6718,6 +6718,78 @@
     },
     {
       "type": "Feature",
+      "id": "way/1236922707",
+      "properties": {
+        "timestamp": "2024-01-04T14:16:47Z",
+        "version": 1,
+        "changeset": 145883225,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "222",
+        "addr:street": "Rua Joaquim Marra",
+        "barrier": "wall",
+        "name": "Diretoria de Ensino Região Leste 4",
+        "office": "government",
+        "operator": "Secretaria da Educação do Estado de São Paulo",
+        "id": "way/1236922707"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.5253049,
+              -23.5324189
+            ],
+            [
+              -46.5257746,
+              -23.532506
+            ],
+            [
+              -46.5259586,
+              -23.5325402
+            ],
+            [
+              -46.5259217,
+              -23.532723
+            ],
+            [
+              -46.5259148,
+              -23.5327553
+            ],
+            [
+              -46.5260814,
+              -23.5327866
+            ],
+            [
+              -46.5260036,
+              -23.5329009
+            ],
+            [
+              -46.5259459,
+              -23.5329858
+            ],
+            [
+              -46.5252803,
+              -23.5328675
+            ],
+            [
+              -46.5252074,
+              -23.5328544
+            ],
+            [
+              -46.5252412,
+              -23.5327009
+            ],
+            [
+              -46.5253049,
+              -23.5324189
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/94175568",
       "properties": {
         "timestamp": "2023-11-21T23:26:33Z",
@@ -9890,6 +9962,48 @@
         "coordinates": [
           -46.6392006,
           -23.5549289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11486799089",
+      "properties": {
+        "timestamp": "2024-01-04T14:16:47Z",
+        "version": 1,
+        "changeset": 145883225,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "222",
+        "addr:street": "Rua Joaquim Marra",
+        "id": "node/11486799089"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5257746,
+          -23.532506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11486799090",
+      "properties": {
+        "timestamp": "2024-01-04T14:16:47Z",
+        "version": 1,
+        "changeset": 145883225,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "22",
+        "addr:postcode": "03512-000",
+        "addr:street": "Rua Dona Matilde",
+        "entrance": "main",
+        "id": "node/11486799090"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5260036,
+          -23.5329009
         ]
       }
     }

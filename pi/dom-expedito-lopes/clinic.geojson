@@ -1,0 +1,87 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1236765937",
+      "properties": {
+        "timestamp": "2024-01-04T05:56:06Z",
+        "version": 1,
+        "changeset": 145865213,
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "Posto de Saúde Municipal",
+        "id": "way/1236765937"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.6466665,
+              -6.9585843
+            ],
+            [
+              -41.6465018,
+              -6.9586268
+            ],
+            [
+              -41.6464796,
+              -6.958545
+            ],
+            [
+              -41.6466443,
+              -6.9584994
+            ],
+            [
+              -41.6466665,
+              -6.9585843
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11484424279",
+      "properties": {
+        "timestamp": "2024-01-04T06:03:04Z",
+        "version": 4,
+        "changeset": 145865305,
+        "amenity": "clinic",
+        "government": "public_service",
+        "healthcare": "clinic",
+        "name": "Posto de Saúde Municipal",
+        "id": "node/11484424279"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.6541219,
+          -6.9697692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11484468364",
+      "properties": {
+        "timestamp": "2024-01-04T05:38:50Z",
+        "version": 1,
+        "changeset": 145864902,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "dental_oral_maxillo_facial_surgery;physiatry",
+        "id": "node/11484468364"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.6457473,
+          -6.9572624
+        ]
+      }
+    }
+  ]
+}

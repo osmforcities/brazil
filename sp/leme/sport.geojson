@@ -2245,14 +2245,149 @@
     },
     {
       "type": "Feature",
+      "id": "way/1237076004",
+      "properties": {
+        "timestamp": "2024-01-04T20:34:29Z",
+        "version": 1,
+        "changeset": 145896653,
+        "access": "private",
+        "check_date": "2024-01-04",
+        "covered": "yes",
+        "leisure": "pitch",
+        "lit": "yes",
+        "sport": "soccer;volleyball;baseball",
+        "surface": "concrete",
+        "id": "way/1237076004"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.2970191,
+              -22.2244218
+            ],
+            [
+              -47.297058,
+              -22.2247649
+            ],
+            [
+              -47.2967369,
+              -22.2247961
+            ],
+            [
+              -47.2966981,
+              -22.2244529
+            ],
+            [
+              -47.2970191,
+              -22.2244218
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1237076005",
+      "properties": {
+        "timestamp": "2024-01-04T20:34:29Z",
+        "version": 1,
+        "changeset": 145896653,
+        "access": "private",
+        "leisure": "pitch",
+        "lit": "no",
+        "sport": "soccer",
+        "surface": "grass",
+        "id": "way/1237076005"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.2977559,
+              -22.2244844
+            ],
+            [
+              -47.2978311,
+              -22.2251442
+            ],
+            [
+              -47.2974044,
+              -22.2251859
+            ],
+            [
+              -47.2973291,
+              -22.2245261
+            ],
+            [
+              -47.2977559,
+              -22.2244844
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1237088451",
+      "properties": {
+        "timestamp": "2024-01-04T21:33:34Z",
+        "version": 1,
+        "changeset": 145898308,
+        "addr:city": "Leme",
+        "addr:street": "Estrada Municipal Luiz Fernando Marchi",
+        "building": "yes",
+        "check_date": "2024-01-04",
+        "leisure": "sports_centre",
+        "name": "Banespa Leme Clube",
+        "operator": "Banco do Estado de São Paulo S/A;Banespa",
+        "operator:type": "government",
+        "ref:vatin": "BR51414324000107",
+        "sport": "soccer;multi;volleyball;fitness",
+        "start_date": "1981-12-22",
+        "id": "way/1237088451"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.4203432,
+              -22.1903329
+            ],
+            [
+              -47.4197517,
+              -22.1899848
+            ],
+            [
+              -47.419955,
+              -22.1891062
+            ],
+            [
+              -47.4205558,
+              -22.1894342
+            ],
+            [
+              -47.4203432,
+              -22.1903329
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/919766159",
       "properties": {
-        "timestamp": "2021-03-20T17:01:12Z",
-        "version": 1,
-        "changeset": 101397978,
+        "timestamp": "2024-01-04T04:06:03Z",
+        "version": 2,
+        "changeset": 145863170,
         "lanes": "3",
         "leisure": "track",
         "sport": "running",
+        "surface": "concrete",
         "id": "way/919766159"
       },
       "geometry": {
@@ -2273,12 +2408,13 @@
       "type": "Feature",
       "id": "way/919766160",
       "properties": {
-        "timestamp": "2021-03-20T17:01:12Z",
-        "version": 1,
-        "changeset": 101397978,
+        "timestamp": "2024-01-04T04:05:59Z",
+        "version": 2,
+        "changeset": 145863170,
         "lanes": "3",
         "leisure": "track",
         "sport": "running",
+        "surface": "concrete",
         "id": "way/919766160"
       },
       "geometry": {

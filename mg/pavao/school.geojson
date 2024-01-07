@@ -3,62 +3,71 @@
   "features": [
     {
       "type": "Feature",
-      "id": "way/856886687",
+      "id": "node/11491412783",
       "properties": {
-        "timestamp": "2020-10-08T17:46:14Z",
+        "timestamp": "2024-01-05T10:45:06Z",
         "version": 1,
-        "changeset": 92189489,
+        "changeset": 145916213,
+        "addr:city": "Pavão",
+        "addr:housenumber": "90",
+        "addr:postcode": "39814-000",
+        "addr:street": "Rua Francisco de Assis",
+        "addr:suburb": "Santa Rita de Cássio",
         "amenity": "school",
-        "id": "way/856886687"
+        "name": "Escola Estadual Caio Nelson de Sena",
+        "id": "node/11491412783"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-            [
-              -40.9964938,
-              -17.4292241
-            ],
-            [
-              -40.9962072,
-              -17.4294316
-            ],
-            [
-              -40.9957234,
-              -17.4294917
-            ],
-            [
-              -40.995634,
-              -17.429065
-            ],
-            [
-              -40.9962682,
-              -17.4288885
-            ],
-            [
-              -40.9964938,
-              -17.4292241
-            ]
-          ]
+          -41.0033666,
+          -17.4334099
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "node/4031871735",
+      "id": "node/11491412784",
       "properties": {
-        "timestamp": "2020-10-08T17:46:14Z",
-        "version": 2,
-        "changeset": 92189489,
+        "timestamp": "2024-01-05T10:45:06Z",
+        "version": 1,
+        "changeset": 145916213,
+        "addr:city": "Pavão",
+        "addr:postcode": "39814-000",
+        "addr:street": "Rua Osvaldo Pinheiro da Silva",
+        "addr:suburb": "Santa Rita de Cássio",
         "amenity": "school",
-        "source": "IBGE;Bing",
-        "id": "node/4031871735"
+        "name": "Escola Municipal Davina Santos",
+        "id": "node/11491412784"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -40.9959922,
-          -17.4291736
+          -41.002235,
+          -17.4339978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11491412851",
+      "properties": {
+        "timestamp": "2024-01-05T10:45:06Z",
+        "version": 1,
+        "changeset": 145916213,
+        "addr:city": "Pavão",
+        "addr:postcode": "39814-000",
+        "addr:street": "Rua Olivio Batista",
+        "amenity": "school",
+        "name": "Escola Estadual Benjamim da Cunha",
+        "source": "IBGE;Bing",
+        "id": "node/11491412851"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.9962782,
+          -17.4289465
         ]
       }
     }

@@ -329,14 +329,15 @@
       "type": "Feature",
       "id": "way/437336852",
       "properties": {
-        "timestamp": "2016-08-15T17:48:10Z",
-        "version": 1,
-        "changeset": 41472679,
+        "timestamp": "2024-01-05T01:33:45Z",
+        "version": 2,
+        "changeset": 145902733,
+        "access": "yes",
         "leisure": "pitch",
         "lit": "yes",
-        "name": "Pista de skate",
+        "name": "Pista de skate Carlos Alberto Ravanini",
         "sport": "skateboard",
-        "surface": "paved",
+        "surface": "concrete",
         "id": "way/437336852"
       },
       "geometry": {
@@ -344,24 +345,24 @@
         "coordinates": [
           [
             [
-              -47.3712464,
-              -22.191531
+              -47.3713099,
+              -22.1914865
             ],
             [
-              -47.3709947,
-              -22.1917959
+              -47.3710585,
+              -22.1917407
             ],
             [
-              -47.3708538,
-              -22.1916725
+              -47.3709251,
+              -22.1916276
             ],
             [
-              -47.371113,
-              -22.1914345
+              -47.3711765,
+              -22.1913734
             ],
             [
-              -47.3712464,
-              -22.191531
+              -47.3713099,
+              -22.1914865
             ]
           ]
         ]
@@ -2372,6 +2373,89 @@
             [
               -47.4203432,
               -22.1903329
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1237132020",
+      "properties": {
+        "timestamp": "2024-01-05T01:33:45Z",
+        "version": 1,
+        "changeset": 145902733,
+        "area": "yes",
+        "highway": "raceway",
+        "lanes": "3",
+        "name": "Pista de Bicicross Antonio Mário Barbatto",
+        "sport": "motocross",
+        "surface": "dirt",
+        "id": "way/1237132020"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.4006909,
+              -22.2081143
+            ],
+            [
+              -47.4005992,
+              -22.2086684
+            ],
+            [
+              -47.3994998,
+              -22.2085123
+            ],
+            [
+              -47.3995915,
+              -22.2079584
+            ],
+            [
+              -47.4006909,
+              -22.2081143
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1237135167",
+      "properties": {
+        "timestamp": "2024-01-05T01:48:39Z",
+        "version": 1,
+        "changeset": 145902927,
+        "building": "yes",
+        "leisure": "sports_hall",
+        "sport": "soccer;basketball;multi;volleyball",
+        "id": "way/1237135167"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.3743163,
+              -22.2016494
+            ],
+            [
+              -47.3740028,
+              -22.2019163
+            ],
+            [
+              -47.373799,
+              -22.2017111
+            ],
+            [
+              -47.3741124,
+              -22.2014441
+            ],
+            [
+              -47.3743163,
+              -22.2016494
             ]
           ]
         ]

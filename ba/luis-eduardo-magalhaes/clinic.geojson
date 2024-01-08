@@ -5,15 +5,12 @@
       "type": "Feature",
       "id": "way/410873916",
       "properties": {
-        "timestamp": "2021-08-03T23:58:38Z",
-        "version": 4,
-        "changeset": 109117234,
+        "timestamp": "2024-01-06T18:38:47Z",
+        "version": 5,
+        "changeset": 145967439,
         "amenity": "clinic",
+        "building": "yes",
         "healthcare": "clinic",
-        "operator": "Sistema Único de Saúde",
-        "operator:short": "SUS",
-        "operator:wikidata": "Q7531056",
-        "operator:wikipedia": "pt:Sistema Único de Saúde",
         "id": "way/410873916"
       },
       "geometry": {
@@ -21,64 +18,24 @@
         "coordinates": [
           [
             [
-              -45.8093671,
-              -12.0804177
+              -45.8092974,
+              -12.0805961
             ],
             [
-              -45.8093176,
-              -12.0808123
+              -45.8092827,
+              -12.0806707
             ],
             [
-              -45.8089071,
-              -12.0807569
+              -45.8090144,
+              -12.0806415
             ],
             [
-              -45.8089495,
-              -12.0803658
+              -45.8090326,
+              -12.0805599
             ],
             [
-              -45.8093671,
-              -12.0804177
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/485124335",
-      "properties": {
-        "timestamp": "2021-08-04T01:25:20Z",
-        "version": 2,
-        "changeset": 109118088,
-        "amenity": "clinic",
-        "healthcare": "clinic",
-        "name": "Clínica São Silvestre",
-        "id": "way/485124335"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -45.8035821,
-              -12.0894897
-            ],
-            [
-              -45.8035217,
-              -12.0900694
-            ],
-            [
-              -45.803006,
-              -12.0900181
-            ],
-            [
-              -45.8030664,
-              -12.0894383
-            ],
-            [
-              -45.8035821,
-              -12.0894897
+              -45.8092974,
+              -12.0805961
             ]
           ]
         ]
@@ -120,6 +77,27 @@
         "coordinates": [
           -45.7960477,
           -12.0861856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4121312790",
+      "properties": {
+        "timestamp": "2024-01-06T18:38:47Z",
+        "version": 3,
+        "changeset": 145967439,
+        "addr:street": "Avenida Salvador",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Estrategia de Saúde da Familia",
+        "id": "node/4121312790"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.7944665,
+          -12.0683884
         ]
       }
     }

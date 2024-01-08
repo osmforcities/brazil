@@ -82,21 +82,42 @@
     },
     {
       "type": "Feature",
-      "id": "node/4121312790",
+      "id": "way/485124335",
       "properties": {
-        "timestamp": "2016-04-24T01:35:01Z",
-        "version": 2,
-        "changeset": 38824158,
-        "addr:street": "Avenida Salvador",
+        "timestamp": "2024-01-06T19:10:30Z",
+        "version": 3,
+        "changeset": 145968255,
         "amenity": "doctors",
-        "name": "Estrategia de Saúde da Familia",
-        "id": "node/4121312790"
+        "healthcare": "doctor",
+        "healthcare:speciality": "general",
+        "name": "Clínica São Silvestre",
+        "id": "way/485124335"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -45.7944665,
-          -12.0683884
+          [
+            [
+              -45.8035821,
+              -12.0894897
+            ],
+            [
+              -45.8035217,
+              -12.0900694
+            ],
+            [
+              -45.803006,
+              -12.0900181
+            ],
+            [
+              -45.8030664,
+              -12.0894383
+            ],
+            [
+              -45.8035821,
+              -12.0894897
+            ]
+          ]
         ]
       }
     }

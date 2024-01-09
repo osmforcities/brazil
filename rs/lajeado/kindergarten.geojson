@@ -78,13 +78,14 @@
       "type": "Feature",
       "id": "way/1135236752",
       "properties": {
-        "timestamp": "2023-01-25T17:29:48Z",
-        "version": 1,
-        "changeset": 131704773,
+        "timestamp": "2024-01-07T20:13:58Z",
+        "version": 2,
+        "changeset": 146003976,
         "addr:city": "Lajeado",
         "addr:country": "BR",
         "addr:housenumber": "2451",
-        "addr:street": "Rua Carlos Sphor Filho",
+        "addr:state": "Rio Grande do Sul",
+        "addr:street": "Rua Carlos Spohr Filho",
         "addr:suburb": "Moinhos",
         "amenity": "kindergarten",
         "email": "emei.abrincando@lajeado.rs.gov.br",
@@ -361,6 +362,53 @@
             [
               -52.0237155,
               -29.4353617
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1205633347",
+      "properties": {
+        "timestamp": "2024-01-07T20:32:07Z",
+        "version": 2,
+        "changeset": 146004014,
+        "addr:city": "Lajeado",
+        "addr:country": "BR",
+        "addr:housenumber": "413",
+        "addr:state": "Rio Grande do Sul",
+        "addr:street": "Rua Eugênia Mello de Oliveira Kirchheim",
+        "addr:suburb": "Bom Pastor",
+        "amenity": "kindergarten",
+        "name": "EMEI Sonho de Criança",
+        "official_name": "Escola Municipal de Educação Infantil Sonho de Criança",
+        "operator": "Prefeitura Municipal de Lajeado",
+        "id": "way/1205633347"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -52.0042735,
+              -29.4386141
+            ],
+            [
+              -52.0042106,
+              -29.4381156
+            ],
+            [
+              -52.0048345,
+              -29.4380559
+            ],
+            [
+              -52.0048974,
+              -29.4385544
+            ],
+            [
+              -52.0042735,
+              -29.4386141
             ]
           ]
         ]

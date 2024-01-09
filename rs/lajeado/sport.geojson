@@ -3433,17 +3433,20 @@
       "type": "Feature",
       "id": "way/1119070935",
       "properties": {
-        "timestamp": "2022-12-03T00:54:51Z",
-        "version": 1,
-        "changeset": 129663381,
+        "timestamp": "2024-01-07T20:13:58Z",
+        "version": 2,
+        "changeset": 146003976,
         "access": "customers",
-        "addr:street": "RS-413",
+        "addr:city": "Lajeado",
+        "addr:country": "BR",
+        "addr:state": "Rio Grande do Sul",
+        "addr:street": "Rua Carlos Spohr Filho",
         "addr:suburb": "São Bento",
         "building": "yes",
         "leisure": "sports_hall",
         "name": "Mega Futebol Society",
         "source": "microsoft/BuildingFootprints",
-        "sport": "football",
+        "sport": "soccer",
         "id": "way/1119070935"
       },
       "geometry": {
@@ -3604,6 +3607,45 @@
             [
               -51.9801983,
               -29.4648295
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1131048653",
+      "properties": {
+        "timestamp": "2024-01-07T20:25:15Z",
+        "version": 2,
+        "changeset": 146003976,
+        "leisure": "pitch",
+        "sport": "multi",
+        "id": "way/1131048653"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.9775169,
+              -29.4518965
+            ],
+            [
+              -51.9772986,
+              -29.4519706
+            ],
+            [
+              -51.9772598,
+              -29.4518837
+            ],
+            [
+              -51.9774781,
+              -29.4518097
+            ],
+            [
+              -51.9775169,
+              -29.4518965
             ]
           ]
         ]
@@ -3958,10 +4000,10 @@
       "type": "Feature",
       "id": "way/1176603353",
       "properties": {
-        "timestamp": "2023-09-06T21:34:55Z",
-        "version": 2,
-        "changeset": 140914122,
-        "landuse": "grass",
+        "timestamp": "2024-01-07T19:47:49Z",
+        "version": 3,
+        "changeset": 146003976,
+        "area": "yes",
         "leisure": "track",
         "name": "Pista de Skate Negretti",
         "official_name": "Pista de Skate Senhor Orlando dos Santos \"Negretti\"",
@@ -4550,6 +4592,166 @@
             [
               -51.948695,
               -29.4483257
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1237860077",
+      "properties": {
+        "timestamp": "2024-01-07T19:47:49Z",
+        "version": 1,
+        "changeset": 146003976,
+        "leisure": "pitch",
+        "sport": "beachtennis",
+        "surface": "sand",
+        "id": "way/1237860077"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.9613359,
+              -29.4638166
+            ],
+            [
+              -51.9612754,
+              -29.4639536
+            ],
+            [
+              -51.9611974,
+              -29.4639275
+            ],
+            [
+              -51.9612579,
+              -29.4637905
+            ],
+            [
+              -51.9613359,
+              -29.4638166
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1237860078",
+      "properties": {
+        "timestamp": "2024-01-07T19:47:49Z",
+        "version": 1,
+        "changeset": 146003976,
+        "leisure": "pitch",
+        "sport": "beachtennis",
+        "surface": "sand",
+        "id": "way/1237860078"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.9611728,
+              -29.463919
+            ],
+            [
+              -51.9610936,
+              -29.4638924
+            ],
+            [
+              -51.9611543,
+              -29.4637553
+            ],
+            [
+              -51.9612335,
+              -29.4637819
+            ],
+            [
+              -51.9611728,
+              -29.463919
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1237860079",
+      "properties": {
+        "timestamp": "2024-01-07T19:47:49Z",
+        "version": 1,
+        "changeset": 146003976,
+        "leisure": "pitch",
+        "sport": "volleyball;beachvolleyball",
+        "surface": "sand",
+        "id": "way/1237860079"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.9613487,
+              -29.4635145
+            ],
+            [
+              -51.9612792,
+              -29.4636685
+            ],
+            [
+              -51.9611889,
+              -29.4636376
+            ],
+            [
+              -51.9612584,
+              -29.4634836
+            ],
+            [
+              -51.9613487,
+              -29.4635145
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1237860080",
+      "properties": {
+        "timestamp": "2024-01-07T19:47:49Z",
+        "version": 1,
+        "changeset": 146003976,
+        "leisure": "pitch",
+        "sport": "volleyball;beachvolleyball",
+        "surface": "sand",
+        "id": "way/1237860080"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.961456,
+              -29.4635497
+            ],
+            [
+              -51.9613882,
+              -29.4637051
+            ],
+            [
+              -51.9612985,
+              -29.4636754
+            ],
+            [
+              -51.9613664,
+              -29.46352
+            ],
+            [
+              -51.961456,
+              -29.4635497
             ]
           ]
         ]

@@ -1833,6 +1833,78 @@
     },
     {
       "type": "Feature",
+      "id": "way/1208656138",
+      "properties": {
+        "timestamp": "2024-01-07T17:45:06Z",
+        "version": 3,
+        "changeset": 146000405,
+        "addr:city": "Bragança",
+        "amenity": "university",
+        "name": "UEPA - Universidade do Estado do Pará",
+        "id": "way/1208656138"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.7645611,
+              -1.0566313
+            ],
+            [
+              -46.764532,
+              -1.0567397
+            ],
+            [
+              -46.7644936,
+              -1.0567294
+            ],
+            [
+              -46.7644859,
+              -1.0567582
+            ],
+            [
+              -46.7645257,
+              -1.0567689
+            ],
+            [
+              -46.7645,
+              -1.0568647
+            ],
+            [
+              -46.7642834,
+              -1.0568065
+            ],
+            [
+              -46.7643081,
+              -1.0567145
+            ],
+            [
+              -46.7643455,
+              -1.0567245
+            ],
+            [
+              -46.7643527,
+              -1.0566978
+            ],
+            [
+              -46.7643109,
+              -1.0566865
+            ],
+            [
+              -46.7643414,
+              -1.0565725
+            ],
+            [
+              -46.7645611,
+              -1.0566313
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1227144965",
       "properties": {
         "timestamp": "2023-11-27T12:38:27Z",
@@ -1892,6 +1964,51 @@
             [
               -46.7617368,
               -1.0497197
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1237826800",
+      "properties": {
+        "timestamp": "2024-01-07T17:37:13Z",
+        "version": 1,
+        "changeset": 146000157,
+        "addr:city": "Bragança",
+        "addr:housenumber": "550",
+        "addr:postcode": "68600-000",
+        "addr:street": "Rua Dr. Justo Chermont",
+        "addr:suburb": "Centro",
+        "amenity": "university",
+        "name": "Uniplan - Centro Universitário",
+        "website": "https://www.aquivocepode.com.br",
+        "id": "way/1237826800"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.76527,
+              -1.0526878
+            ],
+            [
+              -46.7655001,
+              -1.0527468
+            ],
+            [
+              -46.765462,
+              -1.0529093
+            ],
+            [
+              -46.7652271,
+              -1.0528471
+            ],
+            [
+              -46.76527,
+              -1.0526878
             ]
           ]
         ]
@@ -3686,6 +3803,31 @@
         "coordinates": [
           -46.7611667,
           -1.0496576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11497667144",
+      "properties": {
+        "timestamp": "2024-01-07T17:39:36Z",
+        "version": 2,
+        "changeset": 146000250,
+        "addr:city": "Bragança",
+        "addr:housenumber": "550",
+        "addr:postcode": "68600-000",
+        "addr:street": "Rua Justo Chermont",
+        "addr:suburb": "Centro",
+        "amenity": "university",
+        "name": "UNIGRANDE Bragança",
+        "website": "https://www.unigrande.edu.br",
+        "id": "node/11497667144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7652641,
+          -1.0527473
         ]
       }
     }

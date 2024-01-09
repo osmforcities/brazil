@@ -1685,9 +1685,9 @@
       "type": "Feature",
       "id": "way/614293621",
       "properties": {
-        "timestamp": "2018-08-05T22:00:35Z",
-        "version": 2,
-        "changeset": 61384583,
+        "timestamp": "2024-01-07T20:03:56Z",
+        "version": 3,
+        "changeset": 146004510,
         "addr:city": "Londrina",
         "addr:postcode": "86047-500",
         "addr:street": "Rodovia Celso Garcia Cid",
@@ -1703,6 +1703,10 @@
             [
               -51.1813518,
               -23.343209
+            ],
+            [
+              -51.181376,
+              -23.3440142
             ],
             [
               -51.1814226,
@@ -3066,6 +3070,24 @@
         "coordinates": [
           -51.1638944,
           -23.2754525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11498047528",
+      "properties": {
+        "timestamp": "2024-01-07T20:03:56Z",
+        "version": 1,
+        "changeset": 146004510,
+        "entrance": "yes",
+        "id": "node/11498047528"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.181376,
+          -23.3440142
         ]
       }
     }

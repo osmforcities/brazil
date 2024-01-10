@@ -3,87 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": "way/97695077",
-      "properties": {
-        "timestamp": "2021-04-21T20:09:01Z",
-        "version": 12,
-        "changeset": 103362756,
-        "addr:housenumber": "25",
-        "addr:street": "Rua Presidente John Kennedy",
-        "alt_name": "Gerência Executiva do INSS em Blumenau",
-        "building": "office",
-        "government": "social_security",
-        "name": "Previdência Social",
-        "office": "government",
-        "short_name": "INSS",
-        "id": "way/97695077"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -49.0671115,
-              -26.9181719
-            ],
-            [
-              -49.0672116,
-              -26.9182655
-            ],
-            [
-              -49.0671758,
-              -26.9182959
-            ],
-            [
-              -49.0675187,
-              -26.9186162
-            ],
-            [
-              -49.0672709,
-              -26.9188236
-            ],
-            [
-              -49.0671667,
-              -26.9187353
-            ],
-            [
-              -49.0673242,
-              -26.9186028
-            ],
-            [
-              -49.0670816,
-              -26.9183761
-            ],
-            [
-              -49.0670437,
-              -26.9184046
-            ],
-            [
-              -49.067115,
-              -26.9184681
-            ],
-            [
-              -49.0670705,
-              -26.9185104
-            ],
-            [
-              -49.066874,
-              -26.9183729
-            ],
-            [
-              -49.0670758,
-              -26.9182024
-            ],
-            [
-              -49.0671115,
-              -26.9181719
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/315729622",
       "properties": {
         "timestamp": "2019-08-24T21:26:19Z",
@@ -1786,6 +1705,52 @@
         "coordinates": [
           -49.0722347,
           -26.8955296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11502974155",
+      "properties": {
+        "timestamp": "2024-01-09T12:16:55Z",
+        "version": 2,
+        "changeset": 146064580,
+        "alt_name": "Gerência Executiva do INSS em Blumenau",
+        "government": "social_security",
+        "name": "Previdência Social",
+        "office": "government",
+        "opening_hours": "Mo-Fr 07:00-13:00",
+        "short_name": "INSS",
+        "wheelchair": "yes",
+        "id": "node/11502974155"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.0638312,
+          -26.9225261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11503278759",
+      "properties": {
+        "timestamp": "2024-01-09T14:45:56Z",
+        "version": 1,
+        "changeset": 146069865,
+        "contact:website": "https://www.sie.sc.gov.br",
+        "government": "transportation",
+        "name": "Secretaria de Estado da Infraestrutura e Mobilidade",
+        "office": "government",
+        "short_name": "SIE",
+        "id": "node/11503278759"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.0629433,
+          -26.923381
         ]
       }
     }

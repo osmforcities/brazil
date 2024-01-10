@@ -5,9 +5,9 @@
       "type": "Feature",
       "id": "relation/14349862",
       "properties": {
-        "timestamp": "2023-12-12T14:40:26Z",
-        "version": 2,
-        "changeset": 145040740,
+        "timestamp": "2024-01-09T17:00:39Z",
+        "version": 3,
+        "changeset": 146074155,
         "amenity": "university",
         "barrier": "fence",
         "fence_type": "wire_mesh",
@@ -962,6 +962,28 @@
             [
               -47.0601909,
               -22.8334684
+            ]
+          ],
+          [
+            [
+              -47.0631551,
+              -22.8252204
+            ],
+            [
+              -47.0628727,
+              -22.8251082
+            ],
+            [
+              -47.0625167,
+              -22.8258152
+            ],
+            [
+              -47.0628152,
+              -22.82594
+            ],
+            [
+              -47.0631551,
+              -22.8252204
             ]
           ]
         ]
@@ -2021,6 +2043,53 @@
             [
               -47.0680063,
               -22.9220274
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1238368214",
+      "properties": {
+        "timestamp": "2024-01-09T21:32:40Z",
+        "version": 2,
+        "changeset": 146081510,
+        "addr:city": "Campinas",
+        "addr:housenumber": "150",
+        "addr:postcode": "13083891",
+        "addr:street": "Avenida Prefeito José Magalhães Teixeira",
+        "addr:suburb": "Cidade Universitária",
+        "building": "hospital",
+        "check_date": "2024-01-09",
+        "name": "Instituto de Otorrinolaringologia & Cirurgia de Cabeça e Pescoço (IOU)",
+        "source": "local knowledge",
+        "website": "https://instituto-iou.com.br/",
+        "id": "way/1238368214"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.0631551,
+              -22.8252204
+            ],
+            [
+              -47.0628152,
+              -22.82594
+            ],
+            [
+              -47.0625167,
+              -22.8258152
+            ],
+            [
+              -47.0628727,
+              -22.8251082
+            ],
+            [
+              -47.0631551,
+              -22.8252204
             ]
           ]
         ]

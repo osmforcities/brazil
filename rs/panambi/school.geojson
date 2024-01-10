@@ -86,6 +86,95 @@
     },
     {
       "type": "Feature",
+      "id": "way/1238391464",
+      "properties": {
+        "timestamp": "2024-01-09T18:50:18Z",
+        "version": 1,
+        "changeset": 146077124,
+        "addr:city": "Panambi",
+        "addr:housenumber": "10",
+        "addr:postcode": "98280000",
+        "addr:street": "Rua Friedrich Schuller",
+        "amenity": "school",
+        "building": "school",
+        "name": "Escola Estadual de Ensino Médio Pindorama",
+        "religion": "none",
+        "id": "way/1238391464"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -53.4990812,
+              -28.2928656
+            ],
+            [
+              -53.4988728,
+              -28.2932221
+            ],
+            [
+              -53.4987931,
+              -28.293186
+            ],
+            [
+              -53.4987542,
+              -28.2931393
+            ],
+            [
+              -53.4988413,
+              -28.2929921
+            ],
+            [
+              -53.4987684,
+              -28.2929586
+            ],
+            [
+              -53.4988109,
+              -28.2928868
+            ],
+            [
+              -53.4986584,
+              -28.2928168
+            ],
+            [
+              -53.4986197,
+              -28.292882
+            ],
+            [
+              -53.4985616,
+              -28.2928553
+            ],
+            [
+              -53.4986785,
+              -28.2926581
+            ],
+            [
+              -53.4988709,
+              -28.2927466
+            ],
+            [
+              -53.4988603,
+              -28.2928027
+            ],
+            [
+              -53.4989347,
+              -28.2928339
+            ],
+            [
+              -53.498963,
+              -28.292812
+            ],
+            [
+              -53.4990812,
+              -28.2928656
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/2322358009",
       "properties": {
         "timestamp": "2013-05-27T19:57:23Z",
@@ -164,9 +253,9 @@
       "type": "Feature",
       "id": "node/4154440196",
       "properties": {
-        "timestamp": "2023-10-18T02:46:26Z",
-        "version": 3,
-        "changeset": 142738833,
+        "timestamp": "2024-01-09T18:50:18Z",
+        "version": 4,
+        "changeset": 146077124,
         "addr:city": "Panambi",
         "addr:country": "BR",
         "addr:housenumber": "320",
@@ -174,8 +263,10 @@
         "addr:street": "Rua Alfredo Brenner",
         "addr:suburb": "Centro",
         "amenity": "school",
+        "denomination": "lutheran",
         "name": "Colégio Evangélico Panambi",
         "phone": "+55 (55) 3375-3344",
+        "religion": "christian",
         "website": "https://www.cep.g12.br/",
         "wikidata": "Q18244552",
         "id": "node/4154440196"
@@ -183,8 +274,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -53.5017843,
-          -28.2926237
+          -53.5013242,
+          -28.2936926
         ]
       }
     },

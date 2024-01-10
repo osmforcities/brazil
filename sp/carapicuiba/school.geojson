@@ -3,6 +3,55 @@
   "features": [
     {
       "type": "Feature",
+      "id": "relation/17000746",
+      "properties": {
+        "timestamp": "2024-01-08T13:16:03Z",
+        "version": 1,
+        "changeset": 146028696,
+        "addr:city": "Carapicuíba",
+        "addr:housenumber": "1628",
+        "addr:postcode": "06311-001",
+        "addr:street": "Avenida Ruy Barbosa",
+        "alt_name": "Escola Estadual Amos Meucci",
+        "amenity": "school",
+        "name": "E.E Amos Meucci",
+        "type": "multipolygon",
+        "id": "relation/17000746"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.8434858,
+              -23.5221259
+            ],
+            [
+              -46.8434791,
+              -23.5218936
+            ],
+            [
+              -46.8434732,
+              -23.5216857
+            ],
+            [
+              -46.8441813,
+              -23.5216687
+            ],
+            [
+              -46.8441939,
+              -23.522109
+            ],
+            [
+              -46.8434858,
+              -23.5221259
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/378026888",
       "properties": {
         "timestamp": "2017-12-12T12:04:38Z",
@@ -2290,6 +2339,86 @@
     },
     {
       "type": "Feature",
+      "id": "way/1238052396",
+      "properties": {
+        "timestamp": "2024-01-08T13:16:03Z",
+        "version": 1,
+        "changeset": 146028696,
+        "barrier": "wall",
+        "id": "way/1238052396"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.8441939,
+            -23.522109
+          ],
+          [
+            -46.8441813,
+            -23.5216687
+          ],
+          [
+            -46.8434732,
+            -23.5216857
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1238052397",
+      "properties": {
+        "timestamp": "2024-01-08T13:16:03Z",
+        "version": 1,
+        "changeset": 146028696,
+        "barrier": "wall",
+        "id": "way/1238052397"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.8434858,
+            -23.5221259
+          ],
+          [
+            -46.8441939,
+            -23.522109
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1238052398",
+      "properties": {
+        "timestamp": "2024-01-08T13:16:03Z",
+        "version": 1,
+        "changeset": 146028696,
+        "barrier": "fence",
+        "id": "way/1238052398"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.8434732,
+            -23.5216857
+          ],
+          [
+            -46.8434791,
+            -23.5218936
+          ],
+          [
+            -46.8434858,
+            -23.5221259
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/11282572020",
       "properties": {
         "timestamp": "2023-10-23T04:05:14Z",
@@ -2345,6 +2474,28 @@
         "coordinates": [
           -46.8220543,
           -23.5329537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11500090276",
+      "properties": {
+        "timestamp": "2024-01-08T13:16:03Z",
+        "version": 1,
+        "changeset": 146028696,
+        "addr:city": "Carapicuíba",
+        "addr:housenumber": "1628",
+        "addr:postcode": "06311-001",
+        "addr:street": "Avenida Ruy Barbosa",
+        "entrance": "main",
+        "id": "node/11500090276"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.8434791,
+          -23.5218936
         ]
       }
     }

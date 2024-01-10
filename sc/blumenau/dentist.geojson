@@ -541,17 +541,18 @@
       "type": "Feature",
       "id": "way/588780886",
       "properties": {
-        "timestamp": "2018-09-11T02:48:15Z",
-        "version": 3,
-        "changeset": 62472117,
+        "timestamp": "2024-01-08T14:42:20Z",
+        "version": 4,
+        "changeset": 146031795,
         "addr:housenumber": "885",
         "addr:street": "Alameda Rio Branco",
         "amenity": "dentist",
         "building": "yes",
         "building:levels": "2",
         "contact:email": "blumenau@oralsin.com.br",
+        "contact:facebook": "oralsinimplantesbr",
         "contact:phone": "+55 47 3038-8008;+55 47 3037-3090",
-        "contact:website": "http://oralsin.com.br/",
+        "contact:website": "https://oralsin.com.br",
         "healthcare": "dentist",
         "height": "8",
         "name": "Oral Sin",
@@ -2016,6 +2017,27 @@
         "coordinates": [
           -49.0612379,
           -26.9219599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11498877699",
+      "properties": {
+        "timestamp": "2024-01-08T03:19:54Z",
+        "version": 1,
+        "changeset": 146012984,
+        "amenity": "dentist",
+        "contact:phone": "+55 47 98807-0606",
+        "healthcare": "dentist",
+        "name": "Odontologia Priscila Chiumento",
+        "id": "node/11498877699"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.1424344,
+          -26.88257
         ]
       }
     }

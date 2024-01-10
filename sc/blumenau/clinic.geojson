@@ -2173,9 +2173,9 @@
       "type": "Feature",
       "id": "way/464913857",
       "properties": {
-        "timestamp": "2018-05-16T19:05:26Z",
-        "version": 4,
-        "changeset": 59028081,
+        "timestamp": "2024-01-08T14:38:32Z",
+        "version": 5,
+        "changeset": 146031644,
         "addr:housenumber": "833",
         "addr:street": "Alameda Rio Branco",
         "amenity": "clinic",
@@ -2193,32 +2193,24 @@
         "coordinates": [
           [
             [
-              -49.0625962,
-              -26.9298658
+              -49.0625133,
+              -26.929857
             ],
             [
-              -49.0626317,
-              -26.9299919
+              -49.0623546,
+              -26.9298928
             ],
             [
-              -49.0623972,
-              -26.9300444
+              -49.0623222,
+              -26.9297784
             ],
             [
-              -49.0623287,
-              -26.9298014
+              -49.062481,
+              -26.9297427
             ],
             [
-              -49.0624704,
-              -26.9297697
-            ],
-            [
-              -49.0625034,
-              -26.9298866
-            ],
-            [
-              -49.0625962,
-              -26.9298658
+              -49.0625133,
+              -26.929857
             ]
           ]
         ]
@@ -3095,15 +3087,17 @@
       "type": "Feature",
       "id": "way/545372170",
       "properties": {
-        "timestamp": "2021-02-22T11:16:40Z",
-        "version": 3,
-        "changeset": 99740693,
+        "timestamp": "2024-01-08T15:11:21Z",
+        "version": 4,
+        "changeset": 146032939,
         "addr:city": "Blumenau",
         "addr:housenumber": "476",
         "addr:postcode": "89010-401",
         "addr:street": "Rua Nereu Ramos",
         "addr:suburb": "Jardim Blumenau",
         "amenity": "clinic",
+        "building": "clinic",
+        "building:levels": "3",
         "contact:email": "contato@genolab.com.br",
         "contact:phone": "+55 47 3326-1177",
         "contact:website": "https://genolab.com.br",
@@ -5114,6 +5108,27 @@
         "coordinates": [
           -49.0753645,
           -26.9256201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11500320245",
+      "properties": {
+        "timestamp": "2024-01-08T15:11:21Z",
+        "version": 1,
+        "changeset": 146032939,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Instituto Blumenauense de Endocrinologia e Pesquisa",
+        "short_name": "IBEP",
+        "id": "node/11500320245"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.0627836,
+          -26.9264535
         ]
       }
     }

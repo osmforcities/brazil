@@ -3,6 +3,85 @@
   "features": [
     {
       "type": "Feature",
+      "id": "relation/17014629",
+      "properties": {
+        "timestamp": "2024-01-11T19:57:10Z",
+        "version": 1,
+        "changeset": 146156768,
+        "addr:city": "Campinas",
+        "addr:housenumber": "863",
+        "addr:postcode": "13070-000",
+        "addr:street": "Avenida Andrade Neves",
+        "addr:suburb": "Centro",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Hospital e Maternidade São Luiz Campinas",
+        "phone": "+55 (19) 30143000",
+        "type": "multipolygon",
+        "website": "https://www.rededorsaoluiz.com.br/hospital/sao-luiz-campinas",
+        "id": "relation/17014629"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.0716725,
+              -22.9014382
+            ],
+            [
+              -47.071338,
+              -22.9021001
+            ],
+            [
+              -47.070639,
+              -22.9018197
+            ],
+            [
+              -47.0711558,
+              -22.9008204
+            ],
+            [
+              -47.0716725,
+              -22.9014382
+            ]
+          ],
+          [
+            [
+              -47.0711505,
+              -22.9009557
+            ],
+            [
+              -47.0710567,
+              -22.9011562
+            ],
+            [
+              -47.0713274,
+              -22.9014708
+            ],
+            [
+              -47.0711062,
+              -22.901939
+            ],
+            [
+              -47.0712642,
+              -22.9020024
+            ],
+            [
+              -47.0715433,
+              -22.9014122
+            ],
+            [
+              -47.0711505,
+              -22.9009557
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/154548818",
       "properties": {
         "timestamp": "2023-07-20T01:08:55Z",
@@ -2761,6 +2840,52 @@
     },
     {
       "type": "Feature",
+      "id": "way/1238932813",
+      "properties": {
+        "timestamp": "2024-01-11T19:57:10Z",
+        "version": 1,
+        "changeset": 146156768,
+        "building": "hospital",
+        "id": "way/1238932813"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.0711505,
+              -22.9009557
+            ],
+            [
+              -47.0715433,
+              -22.9014122
+            ],
+            [
+              -47.0712642,
+              -22.9020024
+            ],
+            [
+              -47.0711062,
+              -22.901939
+            ],
+            [
+              -47.0713274,
+              -22.9014708
+            ],
+            [
+              -47.0710567,
+              -22.9011562
+            ],
+            [
+              -47.0711505,
+              -22.9009557
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/1607420124",
       "properties": {
         "timestamp": "2023-05-05T23:10:50Z",
@@ -3012,34 +3137,6 @@
         "coordinates": [
           -47.0676613,
           -22.9044952
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/11260197732",
-      "properties": {
-        "timestamp": "2023-10-13T15:14:43Z",
-        "version": 1,
-        "changeset": 142528978,
-        "addr:city": "Campinas",
-        "addr:housenumber": "863",
-        "addr:postcode": "13070-000",
-        "addr:street": "Avenida Andrade Neves",
-        "addr:suburb": "Centro",
-        "amenity": "hospital",
-        "emergency": "yes",
-        "healthcare": "hospital",
-        "name": "Hospital e Maternidade São Luiz Campinas",
-        "phone": "+55 (19) 30143000",
-        "website": "https://www.rededorsaoluiz.com.br/hospital/sao-luiz-campinas",
-        "id": "node/11260197732"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -47.0709812,
-          -22.9014095
         ]
       }
     }

@@ -350,6 +350,64 @@
     },
     {
       "type": "Feature",
+      "id": "way/472030547",
+      "properties": {
+        "timestamp": "2024-01-11T22:21:10Z",
+        "version": 2,
+        "changeset": 146160177,
+        "addr:housenumber": "546",
+        "addr:postcode": "86041-270",
+        "addr:street": "Rua Veneza",
+        "addr:suburb": "Jardim Piza",
+        "alt_name": "Unidade Básica de Saúde Piza/Roseira",
+        "amenity": "clinic",
+        "building": "yes",
+        "email": "piza@asms.londrina.pr.gov.br",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general;paediatrics;ginecologia",
+        "name": "Unidade Básica de Saúde Doutora Maria do Socorro N. Brito",
+        "opening_hours": "Mo-Fr 07:00-19:00; PH off",
+        "operator": "Autarquia Municipal de Saúde",
+        "operator:type": "government",
+        "phone": "+55 43 3379 0754",
+        "ref:CNES": "2579049",
+        "source": "Sistema de Informação Geográfica de Londrina;CNES",
+        "id": "way/472030547"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.1428673,
+              -23.3534981
+            ],
+            [
+              -51.1429092,
+              -23.353502
+            ],
+            [
+              -51.1429593,
+              -23.3535461
+            ],
+            [
+              -51.1428457,
+              -23.3536744
+            ],
+            [
+              -51.1427835,
+              -23.3535983
+            ],
+            [
+              -51.1428673,
+              -23.3534981
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/472184010",
       "properties": {
         "timestamp": "2018-07-27T16:37:12Z",
@@ -659,55 +717,53 @@
     },
     {
       "type": "Feature",
-      "id": "way/586952606",
+      "id": "way/586957132",
       "properties": {
-        "timestamp": "2018-05-09T14:00:34Z",
-        "version": 1,
-        "changeset": 58820935,
-        "addr:city": "Londrina",
+        "timestamp": "2024-01-11T23:18:53Z",
+        "version": 3,
+        "changeset": 146161214,
         "addr:housenumber": "230",
+        "addr:postcode": "86044-750",
         "addr:street": "Rua Doutor Gilney Carneiro Leal",
-        "addr:suburb": "Saltinho",
+        "addr:suburb": "Conjunto Habitacional Jamile Dequech",
+        "alt_name": "Unidade Básica de Saúde Jamile Dequech",
         "amenity": "clinic",
-        "healthcare": "yes",
-        "name": "Unidade de Saúde Jamile Dequech",
-        "id": "way/586952606"
+        "building": "yes",
+        "email": "jamile.dequech@saude.londrina.pr.gov.br",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general;paediatrics;odontologia_infanto-juvenil;ginecologia;gestante",
+        "name": "Unidade Básica de Saúde João Turetta",
+        "opening_hours": "Mo-Fr 07:00-19:00; PH off",
+        "operator": "Secretaria Municipal de Saúde",
+        "operator:type": "government",
+        "phone": "+55 43 3379 0779",
+        "ref:CNES": "7007183",
+        "source": "CNES",
+        "id": "way/586957132"
       },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              -51.1372632,
-              -23.3881908
+              -51.1373359,
+              -23.3887022
             ],
             [
-              -51.1374278,
-              -23.3887544
+              -51.1372195,
+              -23.3887416
             ],
             [
-              -51.1371942,
-              -23.3888275
+              -51.1371205,
+              -23.3884949
             ],
             [
-              -51.1371552,
-              -23.3888324
+              -51.1372369,
+              -23.3884555
             ],
             [
-              -51.137134,
-              -23.3888292
-            ],
-            [
-              -51.1371075,
-              -23.3888113
-            ],
-            [
-              -51.1369641,
-              -23.3883809
-            ],
-            [
-              -51.1372632,
-              -23.3881908
+              -51.1373359,
+              -23.3887022
             ]
           ]
         ]
@@ -717,15 +773,24 @@
       "type": "Feature",
       "id": "way/587298891",
       "properties": {
-        "timestamp": "2018-11-03T22:25:50Z",
-        "version": 2,
-        "changeset": 64153475,
+        "timestamp": "2024-01-11T23:18:53Z",
+        "version": 3,
+        "changeset": 146161214,
         "addr:city": "Londrina",
         "addr:housenumber": "55",
+        "addr:postcode": "86044-000",
         "addr:street": "Rua Dezenove de Abril",
-        "addr:suburb": "União da Vitória",
+        "addr:suburb": "Jardim União da Vitória IV",
+        "alt_name": "Unidade Básica de Saúde União da Vítória",
         "amenity": "clinic",
-        "name": "Unidade Básica de Saúde União da Vítória",
+        "healthcare": "clinic",
+        "name": "Unidade Básica de Saúde Orlando Cestari",
+        "opening_hours": "Mo-Su,PH 07:00-23:00",
+        "operator": "Secretaria Municipal de Saúde",
+        "operator:type": "government",
+        "phone": "+55 43 3379 0765",
+        "ref:CNES": "2579138",
+        "source": "CNES",
         "id": "way/587298891"
       },
       "geometry": {
@@ -1032,14 +1097,25 @@
       "type": "Feature",
       "id": "way/633069225",
       "properties": {
-        "timestamp": "2018-10-11T19:03:06Z",
-        "version": 2,
-        "changeset": 63431240,
-        "addr:street": "Rua Angelina Refondini",
+        "timestamp": "2024-01-11T16:05:07Z",
+        "version": 4,
+        "changeset": 146149783,
+        "addr:housenumber": "800",
+        "addr:postcode": "86087-030",
+        "addr:street": "Rua Francisco Marquês de Oliveira",
+        "addr:suburb": "João Paz",
+        "alt_name": "Unidade Básica de Saúde João Paz",
         "amenity": "clinic",
         "building": "yes",
         "healthcare": "clinic",
-        "name": "U.B.S do Conjunto João Paz",
+        "healthcare:speciality": "general;paediatrics;ginecologia",
+        "name": "Unidade Básica de Saúde Marcia Andreoni Der Bedrossian",
+        "opening_hours": "Mo-Fr 07:00-19:00; PH off",
+        "operator": "Autarquia Municipal de Saúde",
+        "operator:type": "government",
+        "ref:CNES": "2579065",
+        "source": "CNES",
+        "website": "https://saude.londrina.pr.gov.br/index.php/unidade-basica-saude/ubs-regiao-norte.html",
         "id": "way/633069225"
       },
       "geometry": {
@@ -1047,24 +1123,36 @@
         "coordinates": [
           [
             [
-              -51.1421372,
-              -23.2656795
+              -51.1418341,
+              -23.2657643
             ],
             [
-              -51.1417793,
-              -23.2662004
+              -51.141829,
+              -23.2658872
             ],
             [
-              -51.141377,
-              -23.2662324
+              -51.1417274,
+              -23.2659931
             ],
             [
-              -51.1413801,
-              -23.2656795
+              -51.14165,
+              -23.2660055
             ],
             [
-              -51.1421372,
-              -23.2656795
+              -51.1416043,
+              -23.2659748
+            ],
+            [
+              -51.1416011,
+              -23.2659092
+            ],
+            [
+              -51.141721,
+              -23.2657643
+            ],
+            [
+              -51.1418341,
+              -23.2657643
             ]
           ]
         ]
@@ -1595,6 +1683,158 @@
             [
               -51.2030756,
               -23.2889191
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1238896569",
+      "properties": {
+        "timestamp": "2024-01-11T17:06:41Z",
+        "version": 1,
+        "changeset": 146151717,
+        "addr:housenumber": "360",
+        "addr:postcode": "86078-480",
+        "addr:street": "Avenida Humberto Puigari Coutinho",
+        "addr:suburb": "Conjunto Milton Gavetti",
+        "alt_name": "Unidade Básica de Saúde Milton Gavetti",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general;paediatrics;ginecologia",
+        "name": "Unidade Básica de Saúde João Batista de Oliveira Filho",
+        "opening_hours": "Mo-Fr 07:00-19:00; PH off",
+        "operator": "Autarquia Municipal de Saúde",
+        "operator:type": "government",
+        "phone": "+55 43 3379 0737",
+        "id": "way/1238896569"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.1543953,
+              -23.2777456
+            ],
+            [
+              -51.1543941,
+              -23.2778181
+            ],
+            [
+              -51.1545059,
+              -23.2778196
+            ],
+            [
+              -51.1545042,
+              -23.2779175
+            ],
+            [
+              -51.1544036,
+              -23.2779161
+            ],
+            [
+              -51.1544028,
+              -23.2779628
+            ],
+            [
+              -51.1542998,
+              -23.2779613
+            ],
+            [
+              -51.1543006,
+              -23.2779144
+            ],
+            [
+              -51.1541967,
+              -23.2779129
+            ],
+            [
+              -51.1541981,
+              -23.2778312
+            ],
+            [
+              -51.1543014,
+              -23.2778327
+            ],
+            [
+              -51.154303,
+              -23.2777443
+            ],
+            [
+              -51.1543953,
+              -23.2777456
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1238955355",
+      "properties": {
+        "timestamp": "2024-01-11T21:18:00Z",
+        "version": 1,
+        "changeset": 146158814,
+        "addr:housenumber": "600",
+        "addr:postcode": "86010-260",
+        "addr:street": "Rua Argentina",
+        "addr:suburb": "Vila Brasil",
+        "alt_name": "Unidade Básica de Saúde Vila Brasil",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general;paediatrics",
+        "name": "Unidade Básica de Saúde Doutor Aroldo Marques Sardenberg",
+        "opening_hours": "Mo-Fr 07:00-19:00; Ph Off",
+        "operator": "Autarquia Municipal de Saúde",
+        "operator:type": "government",
+        "phone": "+55 43 3339 5223",
+        "ref:CNES": "2579057",
+        "source": "CNES;Sistema de Informação Geográfica de Londrina",
+        "id": "way/1238955355"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.1502854,
+              -23.3278459
+            ],
+            [
+              -51.1502875,
+              -23.3280954
+            ],
+            [
+              -51.1502032,
+              -23.3280978
+            ],
+            [
+              -51.1501997,
+              -23.3279802
+            ],
+            [
+              -51.1501775,
+              -23.3279807
+            ],
+            [
+              -51.150183,
+              -23.3279092
+            ],
+            [
+              -51.150206,
+              -23.3279092
+            ],
+            [
+              -51.1502095,
+              -23.3278396
+            ],
+            [
+              -51.1502854,
+              -23.3278459
             ]
           ]
         ]

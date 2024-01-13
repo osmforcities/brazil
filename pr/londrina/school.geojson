@@ -1882,14 +1882,21 @@
       "type": "Feature",
       "id": "way/586414942",
       "properties": {
-        "timestamp": "2018-05-07T20:55:48Z",
-        "version": 1,
-        "changeset": 58770586,
+        "timestamp": "2024-01-11T23:44:00Z",
+        "version": 2,
+        "changeset": 146161588,
         "addr:city": "Londrina",
+        "addr:housenumber": "3655",
         "addr:postcode": "86042-095",
-        "addr:suburb": "União da Vitória",
+        "addr:street": "Avenida Guilherme de Almeida",
+        "addr:suburb": "Jardim Cristal",
         "amenity": "school",
-        "name": "Caic - Escola Municipal Zumbi dos Palmares",
+        "email": "zumbi.palmares@londrina.pr.gov.br",
+        "name": "Escola Municipal Zumbi dos Palmares",
+        "opening_hours": "Mo-Fr 07:30-11:30, 13:30-17:30,18:00-22:00; PH off",
+        "operator": "Secretaria Municipal de Educação",
+        "operator:type": "government",
+        "religion": "none",
         "id": "way/586414942"
       },
       "geometry": {
@@ -2027,16 +2034,21 @@
       "type": "Feature",
       "id": "way/586957130",
       "properties": {
-        "timestamp": "2018-05-09T14:18:56Z",
-        "version": 1,
-        "changeset": 58821423,
+        "timestamp": "2024-01-11T22:52:57Z",
+        "version": 2,
+        "changeset": 146160770,
         "addr:city": "Londrina",
         "addr:housenumber": "255",
         "addr:postcode": "86044-734",
         "addr:street": "Rua Olinto Pedriali",
-        "addr:suburb": "Saltinho",
+        "addr:suburb": "Conjunto Habitacional Jamile Dequech",
         "amenity": "school",
+        "email": "irene.aparecida@londrina.pr.gov.br",
         "name": "Escola Municipal Irene Aparecida da Silva",
+        "opening_hours": "Mo-Fr  07:30-11:30, 13:30-17:30,18:00-22:00; PH off",
+        "operator": "Secretaria Municipal de Educação",
+        "operator:type": "government",
+        "religion": "none",
         "id": "way/586957130"
       },
       "geometry": {
@@ -2101,92 +2113,22 @@
     },
     {
       "type": "Feature",
-      "id": "way/587298897",
-      "properties": {
-        "timestamp": "2018-08-22T13:10:19Z",
-        "version": 2,
-        "changeset": 61887540,
-        "amenity": "school",
-        "name": "IMACULADA CONCEIÇÃO",
-        "id": "way/587298897"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -51.1300981,
-              -23.3868511
-            ],
-            [
-              -51.1298689,
-              -23.3869916
-            ],
-            [
-              -51.1296318,
-              -23.3869453
-            ],
-            [
-              -51.1297504,
-              -23.3863582
-            ],
-            [
-              -51.129753,
-              -23.3863517
-            ],
-            [
-              -51.1297575,
-              -23.3863452
-            ],
-            [
-              -51.1297672,
-              -23.3863395
-            ],
-            [
-              -51.1297867,
-              -23.3863379
-            ],
-            [
-              -51.1297982,
-              -23.3863379
-            ],
-            [
-              -51.1298079,
-              -23.3863395
-            ],
-            [
-              -51.1298194,
-              -23.3863492
-            ],
-            [
-              -51.1299503,
-              -23.3865531
-            ],
-            [
-              -51.1299955,
-              -23.3866148
-            ],
-            [
-              -51.1300211,
-              -23.3866603
-            ],
-            [
-              -51.1300981,
-              -23.3868511
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/587298903",
       "properties": {
-        "timestamp": "2018-08-14T13:45:30Z",
-        "version": 2,
-        "changeset": 61659045,
+        "timestamp": "2024-01-11T23:18:53Z",
+        "version": 3,
+        "changeset": 146161214,
+        "addr:housenumber": "60",
+        "addr:postcode": "86044-402",
+        "addr:street": "Rua dos Assistentes Sociais",
+        "addr:suburb": "Jardim União da Vitória IV",
         "amenity": "school",
-        "name": "ESCOLA MUNICIPAL TEREZA CANHADAS BERTAN, PROF.",
+        "email": "tereza.canhadas@londrina.pr.gov.br",
+        "name": "Escola Municipal Professora Tereza Canhadas Bertan",
+        "opening_hours": "Mo-Fr 07:30-11:30,13:30-17:30; PH off",
+        "operator": "Secretaria Municipal de Educação",
+        "operator:type": "government",
+        "religion": "none",
         "id": "way/587298903"
       },
       "geometry": {
@@ -3685,11 +3627,12 @@
       "type": "Feature",
       "id": "way/616652837",
       "properties": {
-        "timestamp": "2018-09-28T15:13:46Z",
-        "version": 3,
-        "changeset": 63012355,
+        "timestamp": "2024-01-11T16:05:07Z",
+        "version": 5,
+        "changeset": 146149783,
         "amenity": "school",
-        "name": "ESCOLA MUNICIPAL ARISTEU DOS SANTOS RIBAS",
+        "name": "Escola Municipal Aristeu dos Santos Ribas",
+        "religion": "none",
         "id": "way/616652837"
       },
       "geometry": {
@@ -4178,11 +4121,18 @@
       "type": "Feature",
       "id": "way/616911659",
       "properties": {
-        "timestamp": "2018-08-14T11:37:55Z",
-        "version": 1,
-        "changeset": 61655180,
+        "timestamp": "2024-01-11T21:23:19Z",
+        "version": 2,
+        "changeset": 146158916,
+        "addr:housenumber": "550",
+        "addr:postcode": "86010-260",
+        "addr:street": "Rua Argentina",
+        "addr:suburb": "Vila Brasil",
         "amenity": "school",
-        "name": "ESCOLA MUNICIPAL DA VILA BRASIL",
+        "email": "brasil.vila@londrina.pr.gov.br",
+        "name": "Escola Municipal da Vila Brasil",
+        "opening_hours": "Mo-Fr  07:30  -11:30,13:30 - 17:30; PH off",
+        "religion": "none",
         "id": "way/616911659"
       },
       "geometry": {
@@ -4217,11 +4167,12 @@
       "type": "Feature",
       "id": "way/616912574",
       "properties": {
-        "timestamp": "2018-08-14T11:42:31Z",
-        "version": 1,
-        "changeset": 61655334,
+        "timestamp": "2024-01-11T14:31:22Z",
+        "version": 3,
+        "changeset": 146145830,
         "amenity": "school",
-        "name": "ESCOLA MUNICIPAL ELIAS KAUAM",
+        "name": "Escola Municipal Elias Kauam",
+        "religion": "none",
         "id": "way/616912574"
       },
       "geometry": {
@@ -4377,11 +4328,12 @@
       "type": "Feature",
       "id": "way/616914873",
       "properties": {
-        "timestamp": "2018-08-14T11:52:43Z",
-        "version": 1,
-        "changeset": 61655688,
+        "timestamp": "2024-01-11T16:55:54Z",
+        "version": 2,
+        "changeset": 146151401,
         "amenity": "school",
-        "name": "ESCOLA MUNICIPAL HAYDEE COLLI MONTEIRO",
+        "name": "Escola Municipal Haydee Colli Monteiro",
+        "religion": "none",
         "id": "way/616914873"
       },
       "geometry": {
@@ -4619,11 +4571,12 @@
       "type": "Feature",
       "id": "way/616918628",
       "properties": {
-        "timestamp": "2018-10-11T18:44:29Z",
-        "version": 2,
-        "changeset": 63430693,
+        "timestamp": "2024-01-11T14:47:06Z",
+        "version": 4,
+        "changeset": 146146620,
         "amenity": "school",
-        "name": "ESCOLA MUNICIPAL JOSÉ GASPARINI, PROFESSOR",
+        "name": "Escola Municipal Professor José Gasparini",
+        "religion": "none",
         "id": "way/616918628"
       },
       "geometry": {
@@ -4631,28 +4584,28 @@
         "coordinates": [
           [
             [
-              -51.1417108,
-              -23.2754542
+              -51.1417526,
+              -23.2754792
             ],
             [
-              -51.1428595,
-              -23.275464
+              -51.142847,
+              -23.2754947
             ],
             [
-              -51.1428489,
-              -23.2760489
+              -51.1428761,
+              -23.2759663
             ],
             [
-              -51.1424686,
-              -23.2760448
+              -51.1424958,
+              -23.2759469
             ],
             [
-              -51.1417161,
-              -23.2760367
+              -51.1417412,
+              -23.2759887
             ],
             [
-              -51.1417108,
-              -23.2754542
+              -51.1417526,
+              -23.2754792
             ]
           ]
         ]
@@ -5206,11 +5159,12 @@
       "type": "Feature",
       "id": "way/616927953",
       "properties": {
-        "timestamp": "2018-10-29T17:03:33Z",
-        "version": 2,
-        "changeset": 63984935,
+        "timestamp": "2024-01-11T15:07:51Z",
+        "version": 4,
+        "changeset": 146147587,
         "amenity": "school",
-        "name": "ESCOLA MUNICIPAL NAIR AUZI CORDEIRO",
+        "name": "Escola Municipal Nair Auzi Cordeiro",
+        "religion": "none",
         "id": "way/616927953"
       },
       "geometry": {
@@ -6987,11 +6941,11 @@
       "type": "Feature",
       "id": "way/617175070",
       "properties": {
-        "timestamp": "2018-08-15T12:46:09Z",
-        "version": 1,
-        "changeset": 61684449,
+        "timestamp": "2024-01-11T15:54:02Z",
+        "version": 2,
+        "changeset": 146149398,
         "amenity": "school",
-        "name": "DEBORA DIAS",
+        "name": "Débora Dias",
         "id": "way/617175070"
       },
       "geometry": {
@@ -7257,45 +7211,6 @@
             [
               -51.1885822,
               -23.2926217
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/617180586",
-      "properties": {
-        "timestamp": "2018-08-15T13:21:55Z",
-        "version": 1,
-        "changeset": 61685370,
-        "amenity": "school",
-        "name": "JUREMA NEVES CANZIANI - ASSOCIAÇÃO PRÓ-CRIANÇA",
-        "id": "way/617180586"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -51.1428525,
-              -23.3534326
-            ],
-            [
-              -51.1425895,
-              -23.353754
-            ],
-            [
-              -51.1424445,
-              -23.3536332
-            ],
-            [
-              -51.1426407,
-              -23.3533671
-            ],
-            [
-              -51.1428525,
-              -23.3534326
             ]
           ]
         ]
@@ -7617,11 +7532,11 @@
       "type": "Feature",
       "id": "way/617187314",
       "properties": {
-        "timestamp": "2018-08-21T13:27:58Z",
-        "version": 2,
-        "changeset": 61856465,
+        "timestamp": "2024-01-11T16:55:54Z",
+        "version": 3,
+        "changeset": 146151401,
         "amenity": "school",
-        "name": "Josemaria Escriva, E E Mons-EF",
+        "name": "Escola Estadual Monsenhor Josemaria Escriva",
         "id": "way/617187314"
       },
       "geometry": {
@@ -7629,24 +7544,24 @@
         "coordinates": [
           [
             [
-              -51.1538067,
-              -23.2773284
+              -51.1537161,
+              -23.2773271
             ],
             [
-              -51.1538338,
-              -23.2780095
+              -51.1537346,
+              -23.2780082
             ],
             [
-              -51.1527586,
-              -23.2779988
+              -51.1527687,
+              -23.2780146
             ],
             [
               -51.1525683,
               -23.2773391
             ],
             [
-              -51.1538067,
-              -23.2773284
+              -51.1537161,
+              -23.2773271
             ]
           ]
         ]
@@ -7656,11 +7571,11 @@
       "type": "Feature",
       "id": "way/617189676",
       "properties": {
-        "timestamp": "2018-08-15T14:10:27Z",
-        "version": 1,
-        "changeset": 61686759,
+        "timestamp": "2024-01-11T14:47:06Z",
+        "version": 2,
+        "changeset": 146146620,
         "amenity": "school",
-        "name": "NOVO AMPARO",
+        "name": "Novo Amparo",
         "id": "way/617189676"
       },
       "geometry": {
@@ -8085,11 +8000,11 @@
       "type": "Feature",
       "id": "way/617396521",
       "properties": {
-        "timestamp": "2018-08-16T11:37:48Z",
-        "version": 1,
-        "changeset": 61712880,
+        "timestamp": "2024-01-11T16:55:54Z",
+        "version": 2,
+        "changeset": 146151401,
         "amenity": "school",
-        "name": "PARAÍSO",
+        "name": "Paraíso",
         "id": "way/617396521"
       },
       "geometry": {
@@ -8335,11 +8250,13 @@
       "type": "Feature",
       "id": "way/617398714",
       "properties": {
-        "timestamp": "2018-08-16T11:51:59Z",
-        "version": 1,
-        "changeset": 61713260,
+        "timestamp": "2024-01-11T16:55:54Z",
+        "version": 2,
+        "changeset": 146151401,
+        "addr:street": "Rua Perdizes",
         "amenity": "school",
-        "name": "Beahir E Mendonca, C E Prof-EF M",
+        "name": "Colegio Estadual Professora Beahir Edna Mendonça",
+        "religion": "none",
         "id": "way/617398714"
       },
       "geometry": {
@@ -9204,11 +9121,11 @@
       "type": "Feature",
       "id": "way/618544978",
       "properties": {
-        "timestamp": "2018-08-21T13:47:53Z",
-        "version": 1,
-        "changeset": 61857170,
+        "timestamp": "2024-01-11T21:18:00Z",
+        "version": 2,
+        "changeset": 146158814,
         "amenity": "school",
-        "name": "Newton Guimaraes, C E Prof-EF M",
+        "name": "Colégio Estadual Professor Newton Guimarães",
         "id": "way/618544978"
       },
       "geometry": {

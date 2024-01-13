@@ -5803,77 +5803,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/1085639902",
-      "properties": {
-        "timestamp": "2022-08-11T15:46:48Z",
-        "version": 1,
-        "changeset": 124782116,
-        "addr:city": "São José dos Campos",
-        "addr:housenumber": "130",
-        "addr:postcode": "12211-740",
-        "addr:street": "Rua Guarani",
-        "addr:suburb": "Santana",
-        "amenity": "school",
-        "name": "EE Sant'Ana do Paraíba",
-        "phone": "+55 12 3921-7261",
-        "religion": "no",
-        "website": "https://Facebook.com/escolasantaninha",
-        "id": "way/1085639902"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -45.8966558,
-              -23.1592463
-            ],
-            [
-              -45.8963688,
-              -23.1590617
-            ],
-            [
-              -45.896335,
-              -23.1590979
-            ],
-            [
-              -45.8960011,
-              -23.1589116
-            ],
-            [
-              -45.8961399,
-              -23.1586736
-            ],
-            [
-              -45.8965057,
-              -23.1588703
-            ],
-            [
-              -45.8964644,
-              -23.1589341
-            ],
-            [
-              -45.8965076,
-              -23.1589444
-            ],
-            [
-              -45.8965357,
-              -23.1589082
-            ],
-            [
-              -45.896789,
-              -23.1590824
-            ],
-            [
-              -45.8966558,
-              -23.1592463
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/1085838846",
       "properties": {
         "timestamp": "2022-08-12T14:35:29Z",
@@ -5933,17 +5862,18 @@
       "type": "Feature",
       "id": "way/1089937624",
       "properties": {
-        "timestamp": "2022-08-28T20:33:35Z",
-        "version": 1,
-        "changeset": 125494380,
+        "timestamp": "2024-01-11T03:01:26Z",
+        "version": 2,
+        "changeset": 146125380,
         "addr:city": "São José dos Campos",
         "addr:housenumber": "10",
         "addr:postcode": "12213-531",
         "addr:street": "Avenida Maria Cândida Delgado",
         "addr:suburb": "Jardim Santa Matilde",
         "amenity": "school",
-        "name": "EEPG Professor Jorge Barbosa Moreira",
+        "name": "EE Professor Jorge Barbosa Moreira",
         "phone": "+55 12 3923-4689",
+        "website": "http://www.educacao.sp.gov.br/cgrh/escolas/jorge-barbosa-moreira-professor/",
         "id": "way/1089937624"
       },
       "geometry": {
@@ -5951,8 +5881,8 @@
         "coordinates": [
           [
             [
-              -45.9018475,
-              -23.1410052
+              -45.9018395,
+              -23.1410003
             ],
             [
               -45.9017381,
@@ -5963,28 +5893,28 @@
               -23.1408171
             ],
             [
-              -45.9013519,
-              -23.1409346
+              -45.9013747,
+              -23.1409217
             ],
             [
-              -45.9012759,
-              -23.1406716
+              -45.9012772,
+              -23.1406802
             ],
             [
-              -45.9013809,
-              -23.1406445
+              -45.9013635,
+              -23.1406482
             ],
             [
-              -45.901415,
-              -23.1407249
+              -45.9013942,
+              -23.1407274
             ],
             [
-              -45.9014506,
-              -23.140712
+              -45.9014493,
+              -23.1407052
             ],
             [
-              -45.9013792,
-              -23.1405007
+              -45.9013631,
+              -23.1405106
             ],
             [
               -45.9014866,
@@ -5995,12 +5925,12 @@
               -23.1405417
             ],
             [
-              -45.9016722,
-              -23.1404808
+              -45.9016333,
+              -23.1404968
             ],
             [
-              -45.9018475,
-              -23.1410052
+              -45.9018395,
+              -23.1410003
             ]
           ]
         ]
@@ -6314,6 +6244,153 @@
             [
               -45.7752192,
               -23.1365962
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1238742883",
+      "properties": {
+        "timestamp": "2024-01-11T03:06:20Z",
+        "version": 1,
+        "changeset": 146125464,
+        "addr:city": "São José dos Campos",
+        "addr:housenumber": "34",
+        "addr:postcode": "12213-580",
+        "addr:street": "Rua Nossa Senhora da Salete",
+        "addr:suburb": "Jardim Santa Matilde",
+        "amenity": "school",
+        "email": "emeipadrebonafe@sjc.sp.gov.br",
+        "grades": "3-6",
+        "name": "EMEI Padre José Rubens Franco Bonafé",
+        "phone": "(12) 3921-9987",
+        "id": "way/1238742883"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -45.9029892,
+              -23.1402892
+            ],
+            [
+              -45.9029664,
+              -23.140521
+            ],
+            [
+              -45.9028109,
+              -23.1405148
+            ],
+            [
+              -45.902831,
+              -23.1402768
+            ],
+            [
+              -45.9029892,
+              -23.1402892
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1238745201",
+      "properties": {
+        "timestamp": "2024-01-11T03:30:44Z",
+        "version": 1,
+        "changeset": 146125777,
+        "addr:city": "São José dos Campos",
+        "addr:housenumber": "130",
+        "addr:postcode": "12211-740",
+        "addr:street": "Rua Guarani",
+        "addr:suburb": "Santana",
+        "amenity": "school",
+        "description": "Escola Municipal.",
+        "name": "EMEFI Santana do Paraíba",
+        "phone": "(12) 3921-6870",
+        "start_date": "1920",
+        "wheelchair": "yes",
+        "id": "way/1238745201"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -45.8967866,
+              -23.1590801
+            ],
+            [
+              -45.8966579,
+              -23.159244
+            ],
+            [
+              -45.896395,
+              -23.1590702
+            ],
+            [
+              -45.8964245,
+              -23.1590344
+            ],
+            [
+              -45.8964064,
+              -23.1590258
+            ],
+            [
+              -45.8963414,
+              -23.1591047
+            ],
+            [
+              -45.8962435,
+              -23.1590443
+            ],
+            [
+              -45.8960081,
+              -23.1589173
+            ],
+            [
+              -45.8961422,
+              -23.1586756
+            ],
+            [
+              -45.8964044,
+              -23.1588113
+            ],
+            [
+              -45.8963789,
+              -23.1588507
+            ],
+            [
+              -45.8963903,
+              -23.1588587
+            ],
+            [
+              -45.8964205,
+              -23.1588199
+            ],
+            [
+              -45.8965157,
+              -23.1588772
+            ],
+            [
+              -45.8964755,
+              -23.1589352
+            ],
+            [
+              -45.8964923,
+              -23.1589457
+            ],
+            [
+              -45.8965204,
+              -23.1589117
+            ],
+            [
+              -45.8967866,
+              -23.1590801
             ]
           ]
         ]

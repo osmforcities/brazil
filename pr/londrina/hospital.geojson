@@ -112,9 +112,9 @@
       "type": "Feature",
       "id": "way/349584043",
       "properties": {
-        "timestamp": "2019-11-15T16:24:19Z",
-        "version": 2,
-        "changeset": 77137868,
+        "timestamp": "2024-01-12T23:01:06Z",
+        "version": 3,
+        "changeset": 146198437,
         "addr:city": "Londrina",
         "addr:housenumber": "1110",
         "addr:postcode": "86010-160",
@@ -122,10 +122,14 @@
         "addr:suburb": "Centro",
         "amenity": "hospital",
         "building": "yes",
+        "email": "contato@hospitaldeotorrino.com",
         "healthcare": "hospital",
+        "healthcare:speciality": "fonoaudiologia;otolaryngology",
+        "mobile": "+55 43 99844 0061",
         "name": "Hospital de Otorrino de Londrina",
+        "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-12:00; PH off",
         "phone": "+55 43 3375 8000",
-        "website": "www.hospitaldeotorrino.com.br",
+        "website": "https://hospitaldeotorrino.com/",
         "wheelchair": "yes",
         "id": "way/349584043"
       },
@@ -134,8 +138,8 @@
         "coordinates": [
           [
             [
-              -51.1577243,
-              -23.3222732
+              -51.1577511,
+              -23.3222757
             ],
             [
               -51.1580605,
@@ -158,8 +162,8 @@
               -23.3223582
             ],
             [
-              -51.1577243,
-              -23.3222732
+              -51.1577511,
+              -23.3222757
             ]
           ]
         ]
@@ -304,16 +308,25 @@
       "type": "Feature",
       "id": "way/377660775",
       "properties": {
-        "timestamp": "2020-03-07T17:15:50Z",
-        "version": 2,
-        "changeset": 81904834,
+        "timestamp": "2024-01-12T23:51:12Z",
+        "version": 4,
+        "changeset": 146199383,
         "addr:city": "Londrina",
-        "addr:street": "Avenida Bandeirantes",
+        "addr:housenumber": "1681",
+        "addr:street": "Rua Senador Souza Naves",
+        "addr:suburb": "Centro",
         "amenity": "hospital",
-        "emergency": "yes",
+        "emergency": "no",
         "healthcare": "hospital",
         "healthcare:speciality": "general",
         "name": "Hospital Mater Dei",
+        "opening_hours": "off",
+        "operator": "Irmandade da Santa Casa de Londrina",
+        "operator:type": "private_non_profit",
+        "phone": "+55 43 3373 1300",
+        "ref:CNES": "2577704",
+        "source": "CNES",
+        "website": "https://www.iscal.com.br/hospital-mater-dei",
         "id": "way/377660775"
       },
       "geometry": {
@@ -1130,11 +1143,20 @@
       "type": "Feature",
       "id": "way/1078766634",
       "properties": {
-        "timestamp": "2022-07-15T09:38:29Z",
-        "version": 1,
-        "changeset": 123644205,
+        "timestamp": "2024-01-12T23:44:58Z",
+        "version": 2,
+        "changeset": 146199265,
+        "addr:housenumber": "2615",
+        "addr:street": "Avenida Juscelino Kubitschek",
         "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "neonatal;paediatrics",
         "name": "Hospital Infantil Sagrada Família",
+        "operator": "Irmandade da Santa Casa de Londrina",
+        "operator:type": "private_non_profit",
+        "phone": "+55 43 3373 1900",
+        "website": "https://www.iscal.com.br/hospital-infantil-sagrada-familia",
         "id": "way/1078766634"
       },
       "geometry": {
@@ -1263,12 +1285,20 @@
       "type": "Feature",
       "id": "node/2225656445",
       "properties": {
-        "timestamp": "2022-09-03T22:40:08Z",
-        "version": 5,
-        "changeset": 125755428,
+        "timestamp": "2024-01-12T01:22:45Z",
+        "version": 6,
+        "changeset": 146162879,
+        "addr:housenumber": "60",
+        "addr:postcode": "86038-350",
+        "addr:street": "Avenida Robert Koch",
+        "addr:suburb": "Vila Operária",
         "amenity": "hospital",
         "healthcare": "hospital",
         "name": "Hospital Universitário",
+        "operator": "Universidade Estadual de Londrina",
+        "operator:type": "government",
+        "phone": "+55 43 3371 2000",
+        "website": "https://www.uel.br/hu/portal/",
         "id": "node/2225656445"
       },
       "geometry": {
@@ -1394,16 +1424,23 @@
       "type": "Feature",
       "id": "node/4714148156",
       "properties": {
-        "timestamp": "2019-02-17T15:07:13Z",
-        "version": 2,
-        "changeset": 67282222,
+        "timestamp": "2024-01-12T23:48:32Z",
+        "version": 4,
+        "changeset": 146199322,
         "addr:city": "Londrina",
         "addr:housenumber": "523",
         "addr:postcode": "86010-510",
         "addr:street": "Rua Espírito Santo",
         "addr:suburb": "Centro",
         "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
         "name": "Hospital Santa Casa de Londrina",
+        "operator": "Irmandade da Santa Casa de Londrina",
+        "operator:type": "private_non_profit",
+        "phone": "+55 43 3373 1500",
+        "source": "CNES",
+        "website": "https://www.iscal.com.br/santa-casa-de-londrina",
         "id": "node/4714148156"
       },
       "geometry": {
@@ -1416,32 +1453,11 @@
     },
     {
       "type": "Feature",
-      "id": "node/6284465079",
-      "properties": {
-        "timestamp": "2019-02-17T15:07:12Z",
-        "version": 1,
-        "changeset": 67282222,
-        "amenity": "hospital",
-        "healthcare": "hospital",
-        "name": "Pronto Socorro Santa Casa de Londrina",
-        "operator": "Santa Casa de Londrina",
-        "id": "node/6284465079"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -51.1575643,
-          -23.317084
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/6284465300",
       "properties": {
-        "timestamp": "2019-02-17T15:07:12Z",
-        "version": 1,
-        "changeset": 67282222,
+        "timestamp": "2024-01-12T23:48:32Z",
+        "version": 2,
+        "changeset": 146199322,
         "addr:city": "Londrina",
         "addr:street": "Rua Senador Souza Naves",
         "addr:suburb": "Centro",
@@ -1449,6 +1465,7 @@
         "healthcare": "hospital",
         "name": "C.E.T - Centro de Ermegência e Trauma",
         "operator": "Santa Casa de Londrina",
+        "operator:type": "private_non_profit",
         "id": "node/6284465300"
       },
       "geometry": {

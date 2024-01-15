@@ -127,67 +127,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/444210551",
-      "properties": {
-        "timestamp": "2019-05-21T03:14:29Z",
-        "version": 7,
-        "changeset": 70461129,
-        "addr:housenumber": "1582",
-        "addr:street": "Rua Benjamin Constant",
-        "amenity": "veterinary",
-        "contact:facebook": "https://pt-br.facebook.com/pages/Cl%C3%ADnica-Veterin%C3%A1ria-Vida-Animal/243995089071989",
-        "contact:phone": "+55 47 3327-2582;+55 47 99917-9280",
-        "name": "Vida Animal Veterinária",
-        "opening_hours": "24/7",
-        "wheelchair": "yes",
-        "id": "way/444210551"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -49.0982544,
-              -26.9003952
-            ],
-            [
-              -49.0982293,
-              -26.9005381
-            ],
-            [
-              -49.0982242,
-              -26.900567
-            ],
-            [
-              -49.0981308,
-              -26.9005328
-            ],
-            [
-              -49.0980197,
-              -26.9004955
-            ],
-            [
-              -49.0980149,
-              -26.9004027
-            ],
-            [
-              -49.0980106,
-              -26.9003166
-            ],
-            [
-              -49.0980836,
-              -26.9003401
-            ],
-            [
-              -49.0982544,
-              -26.9003952
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/458183055",
       "properties": {
         "timestamp": "2018-05-26T21:55:21Z",
@@ -628,9 +567,9 @@
       "type": "Feature",
       "id": "node/3555287036",
       "properties": {
-        "timestamp": "2018-03-03T20:40:20Z",
-        "version": 7,
-        "changeset": 56856909,
+        "timestamp": "2024-01-13T16:19:53Z",
+        "version": 8,
+        "changeset": 146219885,
         "addr:housenumber": "34",
         "addr:street": "Rua José João Haveroth",
         "amenity": "veterinary",
@@ -642,8 +581,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -49.1113087,
-          -26.8719576
+          -49.1112859,
+          -26.8719588
         ]
       }
     },
@@ -872,6 +811,29 @@
         "coordinates": [
           -49.0622807,
           -26.9265312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11515013888",
+      "properties": {
+        "timestamp": "2024-01-13T22:56:49Z",
+        "version": 1,
+        "changeset": 146229675,
+        "amenity": "veterinary",
+        "contact:facebook": "https://www.facebook.com/people/Cl%C3%ADnica-Veterin%C3%A1ria-Vida-Animal/100063627066160",
+        "contact:phone": "+55 47 3327-2582;+55 47 99917-9280",
+        "name": "Vida Animal Veterinária",
+        "opening_hours": "24/7",
+        "wheelchair": "yes",
+        "id": "node/11515013888"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.0981002,
+          -26.9004258
         ]
       }
     }

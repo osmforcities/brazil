@@ -5438,19 +5438,20 @@
       "type": "Feature",
       "id": "way/924857885",
       "properties": {
-        "timestamp": "2021-04-01T17:09:10Z",
-        "version": 2,
-        "changeset": 102140921,
+        "timestamp": "2024-01-13T00:38:31Z",
+        "version": 3,
+        "changeset": 146200192,
         "addr:housenumber": "60",
         "addr:postcode": "12247-200",
         "addr:street": "Rua José Leite da Silva",
         "addr:suburb": "Eugênio de Mello",
         "amenity": "school",
         "email": "planejamentoescolar@sjc.sp.gov.br",
-        "name": "Unidade Eugênio de Melo",
+        "name": "Fundhas Unidade Eugênio de Melo",
         "operator": "FUNDHAS-Fundação Hélio Augusto de Souza",
         "operator:type": "private",
         "phone": "+55 12 3932 0528",
+        "website": "https://fundhas.org.br/",
         "id": "way/924857885"
       },
       "geometry": {
@@ -6398,6 +6399,65 @@
     },
     {
       "type": "Feature",
+      "id": "way/1239429970",
+      "properties": {
+        "timestamp": "2024-01-13T16:05:42Z",
+        "version": 1,
+        "changeset": 146219428,
+        "addr:street": "Rua Benedito Andrade",
+        "amenity": "school",
+        "building": "yes",
+        "grades": "1-9",
+        "name": "EMEFI Prof. Luiz Leite",
+        "religion": "no",
+        "id": "way/1239429970"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -45.7655797,
+              -23.1324536
+            ],
+            [
+              -45.7653911,
+              -23.1323872
+            ],
+            [
+              -45.7651675,
+              -23.1320125
+            ],
+            [
+              -45.7650325,
+              -23.1316892
+            ],
+            [
+              -45.7648246,
+              -23.1313964
+            ],
+            [
+              -45.7648366,
+              -23.1313027
+            ],
+            [
+              -45.7659284,
+              -23.1314617
+            ],
+            [
+              -45.7655706,
+              -23.1323682
+            ],
+            [
+              -45.7655797,
+              -23.1324536
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/1644981190",
       "properties": {
         "timestamp": "2019-03-05T02:17:13Z",
@@ -6632,10 +6692,12 @@
       "type": "Feature",
       "id": "node/2440516473",
       "properties": {
-        "timestamp": "2013-08-31T16:01:10Z",
-        "version": 1,
-        "changeset": 17605661,
+        "timestamp": "2024-01-13T13:47:47Z",
+        "version": 2,
+        "changeset": 146215023,
+        "addr:street": "Rua Luiz Carlos Fraga e Silva",
         "amenity": "school",
+        "name": "E.M.E.F.I Prof. Elidia Tedesco",
         "id": "node/2440516473"
       },
       "geometry": {

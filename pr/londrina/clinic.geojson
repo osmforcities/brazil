@@ -125,18 +125,26 @@
       "type": "Feature",
       "id": "way/472023827",
       "properties": {
-        "timestamp": "2019-02-01T12:38:12Z",
-        "version": 2,
-        "changeset": 66832108,
+        "timestamp": "2024-01-13T21:13:04Z",
+        "version": 3,
+        "changeset": 146227413,
         "addr:city": "Londrina",
         "addr:housenumber": "65",
         "addr:postcode": "86045-700",
         "addr:street": "Avenida Presidente Abraham Lincoln",
+        "addr:suburb": "Conjunto Cafezal II",
         "amenity": "clinic",
         "building": "yes",
         "building:levels": "1",
         "healthcare": "clinic",
-        "name": "Unidade Básica de Saúde - Anibal Siqueira Cabral",
+        "healthcare:speciality": "ginecologia;general;paediatrics;odontologia_infanto-juvenil",
+        "loc_name": "Unidade Básica de Saúde Cafezal",
+        "name": "Unidade Básica de Saúde Anibal Siqueira Cabral",
+        "opening_hours": "Mo-Fr 07:00-19:00; PH off",
+        "operator": "Secretaria Municipal de Saúde",
+        "operator:type": "government",
+        "ref:CNES": "2579073",
+        "source": "CNES",
         "id": "way/472023827"
       },
       "geometry": {
@@ -1856,17 +1864,24 @@
       "type": "Feature",
       "id": "node/5565452510",
       "properties": {
-        "timestamp": "2018-04-20T01:17:21Z",
-        "version": 1,
-        "changeset": 58249117,
+        "timestamp": "2024-01-13T00:06:30Z",
+        "version": 2,
+        "changeset": 146199647,
         "addr:city": "Londrina",
         "addr:housenumber": "1371",
         "addr:postcode": "86015-000",
         "addr:street": "Avenida Duque de Caxias",
         "addr:suburb": "Jardim Petrópolis",
         "amenity": "clinic",
+        "branch": "DaVita Londrina",
         "healthcare": "clinic",
+        "healthcare:speciality": "hemodialise;diálise_peritoneal",
         "name": "Centro de Prevenção e Tratamento de Doenças Renais - DaVita",
+        "opening_hours": "Mo-Sa 05:20-22:00; PH off",
+        "operator": "DaVita",
+        "operator:type": "private",
+        "phone": "+55 43 4003 1161",
+        "website": "https://www.davita.com.br/tratamento-renal/",
         "id": "node/5565452510"
       },
       "geometry": {
@@ -1931,77 +1946,6 @@
         "coordinates": [
           -51.1574795,
           -23.321121
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/6575269130",
-      "properties": {
-        "timestamp": "2019-06-27T18:34:54Z",
-        "version": 1,
-        "changeset": 71683151,
-        "addr:city": "Londrina",
-        "addr:street": "Avenida Bandeirantes",
-        "addr:suburb": "Vila Ipiranga",
-        "amenity": "clinic",
-        "healthcare": "clinic",
-        "name": "M.P Diagnósticos-Clínica de Imagem",
-        "id": "node/6575269130"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -51.1606084,
-          -23.3263551
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/6575269131",
-      "properties": {
-        "timestamp": "2019-06-27T18:34:54Z",
-        "version": 1,
-        "changeset": 71683151,
-        "addr:city": "Londrina",
-        "addr:housenumber": "476",
-        "addr:street": "Avenida Bandeirantes",
-        "addr:suburb": "Vila Ipiranga",
-        "amenity": "clinic",
-        "healthcare": "clinic",
-        "healthcare:speciality": "neurology",
-        "name": "Neuroclínica",
-        "id": "node/6575269131"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -51.1614871,
-          -23.3253904
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/6575284651",
-      "properties": {
-        "timestamp": "2019-06-27T18:17:32Z",
-        "version": 1,
-        "changeset": 71682671,
-        "addr:city": "Londrina",
-        "addr:housenumber": "420",
-        "addr:street": "Rua Alvarenga Peixoto",
-        "amenity": "clinic",
-        "healthcare": "clinic",
-        "name": "Centro Integrado Lago Parque",
-        "id": "node/6575284651"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -51.161076,
-          -23.3270988
         ]
       }
     },
@@ -2176,80 +2120,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/6984785407",
-      "properties": {
-        "timestamp": "2019-11-17T13:10:40Z",
-        "version": 1,
-        "changeset": 77188253,
-        "addr:city": "Londrina",
-        "addr:housenumber": "697",
-        "addr:street": "Rua Martin Luther King",
-        "addr:suburb": "Lago Parque",
-        "amenity": "clinic",
-        "healthcare": "clinic",
-        "healthcare:speciality": "cardiology",
-        "name": "Cardioforma",
-        "id": "node/6984785407"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -51.1628856,
-          -23.3264367
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/6984785408",
-      "properties": {
-        "timestamp": "2019-11-17T13:10:40Z",
-        "version": 1,
-        "changeset": 77188253,
-        "addr:city": "Londrina",
-        "addr:housenumber": "677",
-        "addr:street": "Rua Martin Luther King",
-        "addr:suburb": "Lago Parque",
-        "amenity": "clinic",
-        "healthcare": "clinic",
-        "name": "Clínica Vascular Evas",
-        "id": "node/6984785408"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -51.162891,
-          -23.3265599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/6984785418",
-      "properties": {
-        "timestamp": "2019-11-17T13:10:40Z",
-        "version": 1,
-        "changeset": 77188253,
-        "addr:city": "Londrina",
-        "addr:housenumber": "655",
-        "addr:street": "Rua Martin Luther King",
-        "addr:suburb": "Lago Parque",
-        "amenity": "clinic",
-        "healthcare": "clinic",
-        "healthcare:speciality": "acupuncture",
-        "name": "Clínica Acupuntura",
-        "id": "node/6984785418"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -51.1628503,
-          -23.3268781
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/6984785419",
       "properties": {
         "timestamp": "2019-11-17T13:10:40Z",
@@ -2270,105 +2140,6 @@
         "coordinates": [
           -51.1629032,
           -23.3268283
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/6984785420",
-      "properties": {
-        "timestamp": "2019-11-17T13:10:40Z",
-        "version": 1,
-        "changeset": 77188253,
-        "addr:city": "Londrina",
-        "addr:housenumber": "655",
-        "addr:street": "Rua Martin Luther King",
-        "addr:suburb": "Lago Parque",
-        "amenity": "clinic",
-        "healthcare": "clinic",
-        "healthcare:speciality": "otolaryngology",
-        "name": "Clínica Doutor Fávio Barbieri",
-        "id": "node/6984785420"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -51.1629873,
-          -23.3268487
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/6984803176",
-      "properties": {
-        "timestamp": "2019-11-17T13:28:16Z",
-        "version": 1,
-        "changeset": 77188685,
-        "addr:city": "Londrina",
-        "addr:housenumber": "720",
-        "addr:street": "Rua Martin Luther King",
-        "addr:suburb": "Lago Parque",
-        "amenity": "clinic",
-        "healthcare": "clinic",
-        "healthcare:speciality": "dermatology",
-        "name": "Clínica Dermatológica",
-        "id": "node/6984803176"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -51.1625374,
-          -23.3262522
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/6984803179",
-      "properties": {
-        "timestamp": "2019-11-17T13:28:16Z",
-        "version": 1,
-        "changeset": 77188685,
-        "addr:city": "Londrina",
-        "addr:housenumber": "690",
-        "addr:street": "Rua Martin Luther King",
-        "addr:suburb": "Lago Parque",
-        "amenity": "clinic",
-        "healthcare": "clinic",
-        "healthcare:speciality": "plastic_surgery",
-        "name": "Clínica Plastiki",
-        "id": "node/6984803179"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -51.1625314,
-          -23.3264012
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/6984824688",
-      "properties": {
-        "timestamp": "2019-11-17T13:28:16Z",
-        "version": 1,
-        "changeset": 77188685,
-        "addr:city": "Londrina",
-        "addr:housenumber": "152",
-        "addr:street": "Rua Claúdio Manoel da Costa",
-        "addr:suburb": "Lago Parque",
-        "amenity": "clinic",
-        "healthcare": "clinic",
-        "name": "Clínica de Fisioterapia",
-        "id": "node/6984824688"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -51.1624147,
-          -23.3262748
         ]
       }
     },

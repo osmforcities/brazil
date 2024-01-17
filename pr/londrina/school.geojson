@@ -497,11 +497,12 @@
       "type": "Feature",
       "id": "way/374888879",
       "properties": {
-        "timestamp": "2018-08-21T14:09:31Z",
-        "version": 2,
-        "changeset": 61857922,
+        "timestamp": "2024-01-14T23:15:23Z",
+        "version": 3,
+        "changeset": 146262736,
         "amenity": "school",
-        "name": "Tsuru Oguido, C E-EF M",
+        "name": "Colégio Estadual Tsuru Oguido",
+        "religion": "none",
         "id": "way/374888879"
       },
       "geometry": {
@@ -525,12 +526,12 @@
               -23.2860514
             ],
             [
-              -51.2005948,
-              -23.2851672
+              -51.2007661,
+              -23.2854364
             ],
             [
-              -51.2007435,
-              -23.2850372
+              -51.2009592,
+              -23.2852831
             ],
             [
               -51.2009983,
@@ -2214,124 +2215,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/587316473",
-      "properties": {
-        "timestamp": "2018-11-03T22:25:50Z",
-        "version": 3,
-        "changeset": 64153475,
-        "addr:city": "Londrina",
-        "addr:housenumber": "105",
-        "addr:street": "Rua Mitomu Simamura",
-        "addr:suburb": "Parque das Indústrias",
-        "amenity": "school",
-        "name": "C.E.M.I Maria Esther Leite Junqueira",
-        "id": "way/587316473"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -51.1377521,
-              -23.367496
-            ],
-            [
-              -51.137239,
-              -23.3674604
-            ],
-            [
-              -51.1373099,
-              -23.3666468
-            ],
-            [
-              -51.1375913,
-              -23.3668564
-            ],
-            [
-              -51.1380113,
-              -23.3672227
-            ],
-            [
-              -51.1377694,
-              -23.3672124
-            ],
-            [
-              -51.1377521,
-              -23.367496
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/587457594",
-      "properties": {
-        "timestamp": "2018-05-11T10:54:13Z",
-        "version": 1,
-        "changeset": 58874928,
-        "addr:city": "Londrina",
-        "addr:housenumber": "77",
-        "addr:street": "Rua Lírio dos Vales",
-        "addr:suburb": "Parque das Indústrias",
-        "amenity": "school",
-        "name": "C.E.M.I Vilma Eliza Colobo Ribeiro",
-        "id": "way/587457594"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -51.1383451,
-              -23.3683469
-            ],
-            [
-              -51.1382527,
-              -23.3687612
-            ],
-            [
-              -51.1381695,
-              -23.3687386
-            ],
-            [
-              -51.1381187,
-              -23.3687315
-            ],
-            [
-              -51.1374994,
-              -23.3686905
-            ],
-            [
-              -51.1375363,
-              -23.3682295
-            ],
-            [
-              -51.1378044,
-              -23.3682479
-            ],
-            [
-              -51.1378753,
-              -23.3682535
-            ],
-            [
-              -51.1379631,
-              -23.3682606
-            ],
-            [
-              -51.1381033,
-              -23.3682889
-            ],
-            [
-              -51.1383451,
-              -23.3683469
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/587472196",
       "properties": {
         "timestamp": "2018-05-11T12:38:16Z",
@@ -3070,64 +2953,6 @@
             [
               -51.1834647,
               -23.2786144
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/613015604",
-      "properties": {
-        "timestamp": "2018-08-01T13:08:41Z",
-        "version": 1,
-        "changeset": 61263385,
-        "addr:city": "Londrina",
-        "addr:housenumber": "85",
-        "addr:street": "Rua Angelina Ricci Vezozzo",
-        "amenity": "school",
-        "name": "Espemel",
-        "id": "way/613015604"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -51.1418103,
-              -23.2884697
-            ],
-            [
-              -51.1404473,
-              -23.2917809
-            ],
-            [
-              -51.139959,
-              -23.2922464
-            ],
-            [
-              -51.1397271,
-              -23.292261
-            ],
-            [
-              -51.1391187,
-              -23.2922717
-            ],
-            [
-              -51.139027,
-              -23.2922607
-            ],
-            [
-              -51.1390245,
-              -23.2920711
-            ],
-            [
-              -51.1389296,
-              -23.2879548
-            ],
-            [
-              -51.1418103,
-              -23.2884697
             ]
           ]
         ]
@@ -4523,14 +4348,21 @@
       "type": "Feature",
       "id": "way/616917042",
       "properties": {
-        "timestamp": "2018-08-16T16:14:06Z",
-        "version": 2,
-        "changeset": 61721037,
+        "timestamp": "2024-01-14T15:29:43Z",
+        "version": 3,
+        "changeset": 146249367,
         "addr:city": "Londrina",
         "addr:housenumber": "507",
+        "addr:postcode": "86063-420",
         "addr:street": "Rua Alfred Bernhard Nobel",
+        "addr:suburb": "Vila Industrial",
         "amenity": "school",
-        "name": "ESCOLA MUNICIPAL JOÃO XXIII",
+        "email": "joao.23@londrina.pr.gov.br",
+        "name": "Escola Municipal João XXIII",
+        "opening_hours": "Mo-Fr 07:30-11:30,13:00-17:30; PH off",
+        "operator": "Secretaria Municipal de Educação",
+        "operator:type": "government",
+        "religion": "none",
         "id": "way/616917042"
       },
       "geometry": {
@@ -4578,8 +4410,8 @@
               -23.308602
             ],
             [
-              -51.1980787,
-              -23.3087083
+              -51.1980836,
+              -23.3087434
             ],
             [
               -51.1980303,
@@ -7758,45 +7590,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/617190351",
-      "properties": {
-        "timestamp": "2018-08-15T14:13:57Z",
-        "version": 1,
-        "changeset": 61686852,
-        "amenity": "school",
-        "name": "PADRE DOMINGOS ROVEDATTI",
-        "id": "way/617190351"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -51.1376983,
-              -23.3027738
-            ],
-            [
-              -51.1378451,
-              -23.3028567
-            ],
-            [
-              -51.1377809,
-              -23.3029536
-            ],
-            [
-              -51.1376189,
-              -23.3028717
-            ],
-            [
-              -51.1376983,
-              -23.3027738
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/617190886",
       "properties": {
         "timestamp": "2018-08-15T14:15:28Z",
@@ -8180,45 +7973,6 @@
             [
               -51.1769238,
               -23.2642615
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/617396844",
-      "properties": {
-        "timestamp": "2018-08-16T11:41:15Z",
-        "version": 1,
-        "changeset": 61712973,
-        "amenity": "school",
-        "name": "Albino F Sanches, C E-EF M Profis",
-        "id": "way/617396844"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -51.139213,
-              -23.3674819
-            ],
-            [
-              -51.1393976,
-              -23.3676477
-            ],
-            [
-              -51.1389469,
-              -23.3680221
-            ],
-            [
-              -51.1387644,
-              -23.367867
-            ],
-            [
-              -51.139213,
-              -23.3674819
             ]
           ]
         ]
@@ -9049,11 +8803,11 @@
       "type": "Feature",
       "id": "way/618540978",
       "properties": {
-        "timestamp": "2018-08-21T13:30:50Z",
-        "version": 1,
-        "changeset": 61856572,
+        "timestamp": "2024-01-14T15:11:32Z",
+        "version": 2,
+        "changeset": 146248790,
         "amenity": "school",
-        "name": "Kazuco Ohara, E E Prof-EF",
+        "name": "Colegio Estadual Professor Kazuco Ohara",
         "id": "way/618540978"
       },
       "geometry": {
@@ -9061,24 +8815,24 @@
         "coordinates": [
           [
             [
-              -51.2063157,
-              -23.3041909
+              -51.2063345,
+              -23.3041675
             ],
             [
-              -51.2069141,
-              -23.3047598
+              -51.2069624,
+              -23.3047721
             ],
             [
-              -51.2062855,
-              -23.3053676
+              -51.2063311,
+              -23.3053824
             ],
             [
-              -51.2056388,
-              -23.3047987
+              -51.2056576,
+              -23.3047753
             ],
             [
-              -51.2063157,
-              -23.3041909
+              -51.2063345,
+              -23.3041675
             ]
           ]
         ]
@@ -10993,6 +10747,80 @@
     },
     {
       "type": "Feature",
+      "id": "way/1239531521",
+      "properties": {
+        "timestamp": "2024-01-14T02:18:49Z",
+        "version": 1,
+        "changeset": 146232162,
+        "addr:postcode": "86043-010",
+        "addr:street": "Rua Jacarezinho",
+        "addr:suburb": "Parque das Indústrias",
+        "amenity": "school",
+        "name": "Colégio Estadual Albino Feijó Sanches",
+        "id": "way/1239531521"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.1397487,
+              -23.3676264
+            ],
+            [
+              -51.1398919,
+              -23.3676633
+            ],
+            [
+              -51.1398978,
+              -23.3677109
+            ],
+            [
+              -51.1398248,
+              -23.3677919
+            ],
+            [
+              -51.1394937,
+              -23.3682422
+            ],
+            [
+              -51.1394519,
+              -23.3684609
+            ],
+            [
+              -51.1390151,
+              -23.3684647
+            ],
+            [
+              -51.1389274,
+              -23.3680599
+            ],
+            [
+              -51.138664,
+              -23.3676839
+            ],
+            [
+              -51.1386766,
+              -23.3676014
+            ],
+            [
+              -51.1390119,
+              -23.3673382
+            ],
+            [
+              -51.1394833,
+              -23.3675784
+            ],
+            [
+              -51.1397487,
+              -23.3676264
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/361223532",
       "properties": {
         "timestamp": "2009-03-16T22:12:57Z",
@@ -11186,25 +11014,6 @@
         "coordinates": [
           -51.1588707,
           -23.3083239
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/5801445092",
-      "properties": {
-        "timestamp": "2018-09-17T21:40:02Z",
-        "version": 2,
-        "changeset": 62678317,
-        "access": "private",
-        "barrier": "gate",
-        "id": "node/5801445092"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -51.1390245,
-          -23.2920711
         ]
       }
     },

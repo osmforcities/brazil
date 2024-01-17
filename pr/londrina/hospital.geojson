@@ -1483,31 +1483,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/6575269132",
-      "properties": {
-        "timestamp": "2019-06-27T18:34:54Z",
-        "version": 1,
-        "changeset": 71683151,
-        "addr:city": "Londrina",
-        "addr:housenumber": "460",
-        "addr:street": "Avenida Bandeirantes",
-        "addr:suburb": "Vila Ipiranga",
-        "amenity": "hospital",
-        "healthcare": "hospital",
-        "healthcare:speciality": "urology",
-        "name": "Urolit Hospital do Rim",
-        "id": "node/6575269132"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -51.1615997,
-          -23.3252059
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/6603623911",
       "properties": {
         "timestamp": "2019-07-10T18:08:53Z",
@@ -1684,6 +1659,34 @@
         "coordinates": [
           -51.21012,
           -23.3155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11516201103",
+      "properties": {
+        "timestamp": "2024-01-14T13:09:48Z",
+        "version": 1,
+        "changeset": 146244326,
+        "addr:street": "Rua Paes Leme",
+        "addr:suburb": "Vila Ipiranga",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "cardiology;cirurgia_bariátrica;cirurgia_cardiovascular;cirurgia_torácica;vascular_surgery;general;urology;hemodinâmica;ortopedia;infectologia",
+        "name": "Hospital do Coração Paes Leme",
+        "operator": "GNDI",
+        "operator:type": "private",
+        "phone": "+55 43 3315 2000",
+        "website": "https://www.gndi.com.br/",
+        "id": "node/11516201103"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1621349,
+          -23.3231718
         ]
       }
     }

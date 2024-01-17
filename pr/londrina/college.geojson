@@ -204,6 +204,68 @@
     },
     {
       "type": "Feature",
+      "id": "way/613015604",
+      "properties": {
+        "timestamp": "2024-01-14T22:49:26Z",
+        "version": 2,
+        "changeset": 146262121,
+        "addr:city": "Londrina",
+        "addr:housenumber": "85",
+        "addr:street": "Rua Angelina Ricci Vezozzo",
+        "addr:suburb": "Parque Indústrias Leves",
+        "amenity": "college",
+        "name": "Espemel - Escola Profissional e Social do Menor de Londrina.",
+        "operator": "Instituto Leonardo Murialdo",
+        "operator:type": "private_non_profit",
+        "phone": "+55 43 3325 4128",
+        "id": "way/613015604"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.1418103,
+              -23.2884697
+            ],
+            [
+              -51.1404473,
+              -23.2917809
+            ],
+            [
+              -51.139959,
+              -23.2922464
+            ],
+            [
+              -51.1397271,
+              -23.292261
+            ],
+            [
+              -51.1391187,
+              -23.2922717
+            ],
+            [
+              -51.139027,
+              -23.2922607
+            ],
+            [
+              -51.1390245,
+              -23.2920711
+            ],
+            [
+              -51.1389296,
+              -23.2879548
+            ],
+            [
+              -51.1418103,
+              -23.2884697
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1081308542",
       "properties": {
         "timestamp": "2023-07-13T07:50:21Z",
@@ -290,6 +352,25 @@
         "coordinates": [
           -51.1585264,
           -23.3309835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5801445092",
+      "properties": {
+        "timestamp": "2018-09-17T21:40:02Z",
+        "version": 2,
+        "changeset": 62678317,
+        "access": "private",
+        "barrier": "gate",
+        "id": "node/5801445092"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1390245,
+          -23.2920711
         ]
       }
     }

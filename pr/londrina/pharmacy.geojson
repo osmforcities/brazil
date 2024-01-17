@@ -1251,9 +1251,9 @@
       "type": "Feature",
       "id": "way/923057602",
       "properties": {
-        "timestamp": "2021-03-28T10:08:33Z",
-        "version": 2,
-        "changeset": 101866883,
+        "timestamp": "2024-01-14T13:09:48Z",
+        "version": 3,
+        "changeset": 146244326,
         "addr:city": "Londrina",
         "addr:housenumber": "272",
         "addr:postcode": "86015-430",
@@ -1263,8 +1263,11 @@
         "building": "yes",
         "building:levels": "1",
         "dispensing": "yes",
+        "drive_through": "no",
         "healthcare": "pharmacy",
         "name": "Farmácias Nissei",
+        "phone": "+55 41 4004 4041",
+        "website": "https://www.farmaciasnissei.com.br/",
         "id": "way/923057602"
       },
       "geometry": {
@@ -1272,32 +1275,32 @@
         "coordinates": [
           [
             [
-              -51.1618838,
-              -23.3231861
+              -51.1618566,
+              -23.3231976
             ],
             [
-              -51.1618811,
-              -23.3233585
+              -51.1618525,
+              -23.3233504
             ],
             [
-              -51.1618248,
-              -23.323361
+              -51.1618414,
+              -23.3233625
             ],
             [
-              -51.1617175,
-              -23.3233659
+              -51.1617426,
+              -23.3233592
             ],
             [
-              -51.1617497,
-              -23.323196
+              -51.1617675,
+              -23.323195
             ],
             [
               -51.1618328,
               -23.3231861
             ],
             [
-              -51.1618838,
-              -23.3231861
+              -51.1618566,
+              -23.3231976
             ]
           ]
         ]
@@ -2041,6 +2044,31 @@
         "coordinates": [
           -51.1867276,
           -23.2832381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11515156814",
+      "properties": {
+        "timestamp": "2024-01-14T01:27:01Z",
+        "version": 1,
+        "changeset": 146231688,
+        "addr:housenumber": "2405",
+        "addr:street": "Avenida Guilherme de Almeida",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Farmácia Formigão",
+        "phone": "+55 43 3341 7072",
+        "id": "node/11515156814"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1361353,
+          -23.3742842
         ]
       }
     }

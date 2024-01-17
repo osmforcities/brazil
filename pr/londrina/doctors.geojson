@@ -3,6 +3,61 @@
   "features": [
     {
       "type": "Feature",
+      "id": "way/1239619879",
+      "properties": {
+        "timestamp": "2024-01-14T13:09:48Z",
+        "version": 1,
+        "changeset": 146244326,
+        "addr:housenumber": "221",
+        "addr:street": "Rua Olinda",
+        "addr:suburb": "Vila Ipiranga",
+        "amenity": "doctors",
+        "building": "yes",
+        "healthcare": "doctor",
+        "healthcare:speciality": "litotripsia;urodinâmica;ultrassonografia;urology",
+        "name": "Urolit",
+        "phone": "+55 43 3377 1800",
+        "website": "https://urolit.com.br/",
+        "id": "way/1239619879"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.1626068,
+              -23.3237045
+            ],
+            [
+              -51.1626104,
+              -23.32384
+            ],
+            [
+              -51.1622839,
+              -23.323862
+            ],
+            [
+              -51.1622821,
+              -23.3236943
+            ],
+            [
+              -51.1623651,
+              -23.3236841
+            ],
+            [
+              -51.1623669,
+              -23.323718
+            ],
+            [
+              -51.1626068,
+              -23.3237045
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/2296238439",
       "properties": {
         "timestamp": "2022-10-05T19:26:07Z",
@@ -300,6 +355,34 @@
         "coordinates": [
           -51.1763984,
           -23.3348607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11516201118",
+      "properties": {
+        "timestamp": "2024-01-14T13:09:48Z",
+        "version": 1,
+        "changeset": 146244326,
+        "addr:housenumber": "310",
+        "addr:street": "Avenida Bandeirantes",
+        "addr:suburb": "Vila Ipiranga",
+        "amenity": "doctors",
+        "healthcare": "doctor",
+        "healthcare:speciality": "vaccination",
+        "name": "Clinica de Vacinas",
+        "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-12:00; Su,PH off",
+        "operator": "CURA grupo",
+        "phone": "+55 43 3315 0500",
+        "website": "https://labimagem.com.br/",
+        "id": "node/11516201118"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1617286,
+          -23.3236051
         ]
       }
     }

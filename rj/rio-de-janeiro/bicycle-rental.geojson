@@ -75,6 +75,51 @@
     },
     {
       "type": "Feature",
+      "id": "way/1240036216",
+      "properties": {
+        "timestamp": "2024-01-16T01:17:12Z",
+        "version": 1,
+        "changeset": 146303487,
+        "amenity": "bicycle_rental",
+        "brand": "BikeRio",
+        "brand:wikidata": "Q28724",
+        "capacity": "12",
+        "name": "Afonso Pena",
+        "network": "BikeRio",
+        "operator": "Serttel",
+        "ref": "178",
+        "id": "way/1240036216"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.2182493,
+              -22.9184306
+            ],
+            [
+              -43.2182847,
+              -22.9185159
+            ],
+            [
+              -43.2182774,
+              -22.918513
+            ],
+            [
+              -43.2182456,
+              -22.9184359
+            ],
+            [
+              -43.2182493,
+              -22.9184306
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/332238489",
       "properties": {
         "timestamp": "2023-06-30T23:18:33Z",
@@ -3237,31 +3282,6 @@
         "coordinates": [
           -43.2401502,
           -22.914793
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/3243248495",
-      "properties": {
-        "timestamp": "2022-12-21T02:25:15Z",
-        "version": 2,
-        "changeset": 130311714,
-        "amenity": "bicycle_rental",
-        "brand": "BikeRio",
-        "brand:wikidata": "Q28724",
-        "capacity": "12",
-        "name": "Afonso Pena",
-        "network": "BikeRio",
-        "operator": "Serttel",
-        "ref": "178",
-        "id": "node/3243248495"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.2182183,
-          -22.9184212
         ]
       }
     },

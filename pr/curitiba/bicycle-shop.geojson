@@ -2318,6 +2318,48 @@
     },
     {
       "type": "Feature",
+      "id": "way/1240173168",
+      "properties": {
+        "timestamp": "2024-01-16T14:09:12Z",
+        "version": 1,
+        "changeset": 146325412,
+        "addr:housenumber": "6002",
+        "addr:street": "Avenida Sete de Setembro",
+        "building": "yes",
+        "name": "Bike Batel",
+        "shop": "bicycle",
+        "id": "way/1240173168"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.2956243,
+              -25.4484725
+            ],
+            [
+              -49.2957782,
+              -25.4482496
+            ],
+            [
+              -49.2958791,
+              -25.4482999
+            ],
+            [
+              -49.2957305,
+              -25.4485228
+            ],
+            [
+              -49.2956243,
+              -25.4484725
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/3086805369",
       "properties": {
         "timestamp": "2023-11-25T20:13:35Z",
@@ -4164,25 +4206,6 @@
         "coordinates": [
           -49.3460302,
           -25.4452734
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/6518232716",
-      "properties": {
-        "timestamp": "2019-06-03T13:01:50Z",
-        "version": 1,
-        "changeset": 70885518,
-        "name": "Bike Batel",
-        "shop": "bicycle",
-        "id": "node/6518232716"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.2876008,
-          -25.4481276
         ]
       }
     },

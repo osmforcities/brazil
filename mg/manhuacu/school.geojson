@@ -222,11 +222,21 @@
       "type": "Feature",
       "id": "way/247271358",
       "properties": {
-        "timestamp": "2020-10-14T07:31:31Z",
-        "version": 4,
-        "changeset": 92454272,
+        "timestamp": "2024-01-15T19:51:25Z",
+        "version": 5,
+        "changeset": 146295943,
+        "addr:city": "Manhuaçu",
+        "addr:housenumber": "s/nº",
+        "addr:postcode": "36902-263",
+        "addr:street": "Rua Luiz Lino Valentim",
+        "addr:suburb": "Bom Pastor",
         "amenity": "school",
-        "name": "Colégio Polivalente",
+        "building": "school",
+        "grades": "1-12",
+        "name": "Escola Estadual de Manhuaçu",
+        "operator": "Secretaria de Estado da Educação - SEE-MG",
+        "operator:type": "government",
+        "religion": "none",
         "id": "way/247271358"
       },
       "geometry": {
@@ -234,28 +244,48 @@
         "coordinates": [
           [
             [
-              -42.0279059,
-              -20.2412522
+              -42.0280018,
+              -20.2412247
             ],
             [
-              -42.0285364,
-              -20.2421347
+              -42.0285893,
+              -20.2420643
             ],
             [
-              -42.0289773,
-              -20.2427911
+              -42.0288791,
+              -20.2425159
             ],
             [
-              -42.0287018,
-              -20.2429279
+              -42.0290377,
+              -20.2427632
             ],
             [
-              -42.0282494,
-              -20.2431781
+              -42.0288309,
+              -20.2428798
+            ],
+            [
+              -42.0287006,
+              -20.2429532
+            ],
+            [
+              -42.028267,
+              -20.2432106
             ],
             [
               -42.0279153,
               -20.2427042
+            ],
+            [
+              -42.0278716,
+              -20.2426442
+            ],
+            [
+              -42.0278203,
+              -20.2425736
+            ],
+            [
+              -42.0277616,
+              -20.242493
             ],
             [
               -42.0274304,
@@ -266,8 +296,8 @@
               -20.2417152
             ],
             [
-              -42.0279059,
-              -20.2412522
+              -42.0280018,
+              -20.2412247
             ]
           ]
         ]
@@ -312,6 +342,70 @@
             [
               -42.0310825,
               -20.2507513
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/247816598",
+      "properties": {
+        "timestamp": "2024-01-15T19:51:25Z",
+        "version": 4,
+        "changeset": 146295943,
+        "addr:city": "Manhuaçu",
+        "addr:housenumber": "188",
+        "addr:postcode": "36902-287",
+        "addr:street": "Rua Theocrito Pinheiro",
+        "addr:suburb": "Bom Pastor",
+        "amenity": "school",
+        "grades": "0-6",
+        "name": "Escola Municipal Camilo Felipe Nacif",
+        "operator": "Prefeitura de Manhuaçu",
+        "operator:type": "school",
+        "religion": "none",
+        "id": "way/247816598"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.0286206,
+              -20.2454912
+            ],
+            [
+              -42.0285279,
+              -20.2456825
+            ],
+            [
+              -42.0284407,
+              -20.2458867
+            ],
+            [
+              -42.0281286,
+              -20.2457598
+            ],
+            [
+              -42.0280162,
+              -20.2457141
+            ],
+            [
+              -42.0278794,
+              -20.2456585
+            ],
+            [
+              -42.028059,
+              -20.2452455
+            ],
+            [
+              -42.0286113,
+              -20.2454672
+            ],
+            [
+              -42.0286206,
+              -20.2454912
             ]
           ]
         ]

@@ -424,6 +424,49 @@
     },
     {
       "type": "Feature",
+      "id": "way/1239776403",
+      "properties": {
+        "timestamp": "2024-01-15T01:22:43Z",
+        "version": 1,
+        "changeset": 146264438,
+        "access": "customers",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "wall_loops",
+        "capacity": "22",
+        "covered": "yes",
+        "fee": "no",
+        "id": "way/1239776403"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.1633505,
+              -26.7071525
+            ],
+            [
+              -49.1634031,
+              -26.7071524
+            ],
+            [
+              -49.1634032,
+              -26.707195
+            ],
+            [
+              -49.1633506,
+              -26.707195
+            ],
+            [
+              -49.1633505,
+              -26.7071525
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/4725024251",
       "properties": {
         "timestamp": "2023-09-12T03:24:42Z",
@@ -1672,28 +1715,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/9084771783",
-      "properties": {
-        "timestamp": "2023-11-03T23:54:17Z",
-        "version": 2,
-        "changeset": 143595238,
-        "access": "customers",
-        "amenity": "bicycle_parking",
-        "bicycle_parking": "wall_loops",
-        "capacity": "22",
-        "fee": "no",
-        "id": "node/9084771783"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.1633839,
-          -26.7071685
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/9084771784",
       "properties": {
         "timestamp": "2023-11-03T23:54:17Z",
@@ -2060,17 +2081,18 @@
       "type": "Feature",
       "id": "node/11310891704",
       "properties": {
-        "timestamp": "2023-11-03T23:54:17Z",
-        "version": 1,
-        "changeset": 143595238,
+        "timestamp": "2024-01-15T01:22:43Z",
+        "version": 2,
+        "changeset": 146264438,
         "amenity": "bicycle_parking",
+        "covered": "yes",
         "id": "node/11310891704"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -49.1627468,
-          -26.706533
+          -49.1626254,
+          -26.70658
         ]
       }
     },

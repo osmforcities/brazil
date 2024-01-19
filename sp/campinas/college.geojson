@@ -523,6 +523,123 @@
     },
     {
       "type": "Feature",
+      "id": "relation/14411093",
+      "properties": {
+        "timestamp": "2024-01-17T16:16:28Z",
+        "version": 2,
+        "changeset": 146371864,
+        "addr:housenumber": "1313",
+        "addr:postcode": "13087-018",
+        "addr:street": "Rodovia Miguel Noel Nascentes Burnier",
+        "amenity": "college",
+        "barrier": "wall",
+        "name": "Anhanguera FAC 3",
+        "name:pt": "Faculdade Anhanguera de Campinas FAC 3",
+        "operator": "Anhanguera Educacional",
+        "operator:type": "private_for_profit",
+        "type": "multipolygon",
+        "wikidata": "Q4764337",
+        "wikipedia": "en:Anhanguera Educacional",
+        "id": "relation/14411093"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.0456577,
+              -22.8627159
+            ],
+            [
+              -47.0449392,
+              -22.8626498
+            ],
+            [
+              -47.044941,
+              -22.8626328
+            ],
+            [
+              -47.0444759,
+              -22.8625922
+            ],
+            [
+              -47.0444745,
+              -22.8626062
+            ],
+            [
+              -47.0443105,
+              -22.862592
+            ],
+            [
+              -47.0439544,
+              -22.8625688
+            ],
+            [
+              -47.0439933,
+              -22.8622299
+            ],
+            [
+              -47.0440124,
+              -22.8621109
+            ],
+            [
+              -47.0440497,
+              -22.8617236
+            ],
+            [
+              -47.0441022,
+              -22.8614154
+            ],
+            [
+              -47.0441398,
+              -22.8610709
+            ],
+            [
+              -47.0441726,
+              -22.8607449
+            ],
+            [
+              -47.0441945,
+              -22.8605359
+            ],
+            [
+              -47.0442365,
+              -22.8605015
+            ],
+            [
+              -47.0449837,
+              -22.8605316
+            ],
+            [
+              -47.044881,
+              -22.8612459
+            ],
+            [
+              -47.046296,
+              -22.8615213
+            ],
+            [
+              -47.0465202,
+              -22.8622184
+            ],
+            [
+              -47.0465395,
+              -22.8622966
+            ],
+            [
+              -47.046232,
+              -22.8624428
+            ],
+            [
+              -47.0456577,
+              -22.8627159
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/95011165",
       "properties": {
         "timestamp": "2019-04-03T01:50:56Z",
@@ -2004,24 +2121,39 @@
     },
     {
       "type": "Feature",
-      "id": "node/6400876885",
+      "id": "node/8182272123",
       "properties": {
-        "timestamp": "2019-04-14T16:53:33Z",
+        "timestamp": "2024-01-17T16:16:28Z",
         "version": 3,
-        "changeset": 69208208,
-        "addr:housenumber": "1313",
-        "addr:postcode": "13087-018",
-        "addr:street": "Rodovia Miguel Noel Nascentes Burnier",
-        "amenity": "college",
-        "name": "Anhanguera FAC 3",
-        "name:pt": "Faculdade Anhanguera de Campinas FAC 3",
-        "id": "node/6400876885"
+        "changeset": 146371864,
+        "entrance": "yes",
+        "id": "node/8182272123"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -47.0441369,
-          -22.8612263
+          -47.0439933,
+          -22.8622299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8182272124",
+      "properties": {
+        "timestamp": "2024-01-17T16:16:28Z",
+        "version": 4,
+        "changeset": 146371864,
+        "access": "customers",
+        "door": "yes",
+        "entrance": "main",
+        "id": "node/8182272124"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0441022,
+          -22.8614154
         ]
       }
     },

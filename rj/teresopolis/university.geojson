@@ -137,9 +137,9 @@
       "type": "Feature",
       "id": "way/547640421",
       "properties": {
-        "timestamp": "2017-12-18T11:40:55Z",
-        "version": 2,
-        "changeset": 54727729,
+        "timestamp": "2024-01-17T04:47:30Z",
+        "version": 3,
+        "changeset": 146346836,
         "addr:street": "Estrada da Prata",
         "amenity": "university",
         "internet_access": "wlan",
@@ -177,6 +177,10 @@
             [
               -42.959714,
               -22.3949753
+            ],
+            [
+              -42.9594588,
+              -22.3948547
             ],
             [
               -42.9592205,
@@ -328,6 +332,25 @@
               -22.4172187
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7872064870",
+      "properties": {
+        "timestamp": "2024-01-17T04:47:30Z",
+        "version": 2,
+        "changeset": 146346836,
+        "access": "permissive",
+        "barrier": "gate",
+        "id": "node/7872064870"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.9594588,
+          -22.3948547
         ]
       }
     }

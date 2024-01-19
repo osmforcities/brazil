@@ -1013,13 +1013,16 @@
       "type": "Feature",
       "id": "way/365230648",
       "properties": {
-        "timestamp": "2019-06-12T01:29:53Z",
-        "version": 5,
-        "changeset": 71161757,
+        "timestamp": "2024-01-17T01:57:14Z",
+        "version": 6,
+        "changeset": 146344169,
         "addr:city": "São Bernardo do Campo",
         "addr:country": "BR",
+        "addr:housenumber": "2187",
         "addr:street": "Rua Marechal Deodoro",
+        "addr:suburb": "Centro",
         "amenity": "pharmacy",
+        "branch": "S Bernardo Campo 12",
         "brand": "Drogasil",
         "brand:wikidata": "Q5308185",
         "brand:wikipedia": "pt:Drogasil",
@@ -1029,11 +1032,13 @@
         "drive_through": "no",
         "healthcare": "pharmacy",
         "name": "Drogasil",
+        "opening_hours": "Mo-Sa 00:01-24:00; Su,PH off",
         "payment:cash": "yes",
         "payment:coins": "yes",
         "payment:credit_cards": "yes",
         "payment:debit_cards": "yes",
         "payment:notes": "yes",
+        "phone": "+55 11 4348 3176",
         "wheelchair": "yes",
         "id": "way/365230648"
       },
@@ -3068,6 +3073,65 @@
     },
     {
       "type": "Feature",
+      "id": "way/1202286670",
+      "properties": {
+        "timestamp": "2024-01-17T01:41:38Z",
+        "version": 3,
+        "changeset": 146343951,
+        "addr:housenumber": "874",
+        "addr:street": "Avenida Capitão Casa",
+        "amenity": "pharmacy",
+        "branch": "S.Bernardo 16",
+        "brand": "Drogasil",
+        "brand:wikidata": "Q5308185",
+        "building": "yes",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Drogasil",
+        "opening_hours": "Mo-Su, PH 07:00-23:00",
+        "website": "https://www.drogasil.com.br/",
+        "wheelchair": "yes",
+        "id": "way/1202286670"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.5616284,
+              -23.7262917
+            ],
+            [
+              -46.5616319,
+              -23.7262007
+            ],
+            [
+              -46.561664,
+              -23.7262018
+            ],
+            [
+              -46.561792,
+              -23.726206
+            ],
+            [
+              -46.5618034,
+              -23.7262063
+            ],
+            [
+              -46.5617998,
+              -23.7262973
+            ],
+            [
+              -46.5616284,
+              -23.7262917
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/2553398176",
       "properties": {
         "timestamp": "2021-04-11T01:32:19Z",
@@ -5048,6 +5112,26 @@
         "coordinates": [
           -46.5475131,
           -23.6847837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11523784275",
+      "properties": {
+        "timestamp": "2024-01-17T00:33:30Z",
+        "version": 1,
+        "changeset": 146343060,
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Drogaria Espacial",
+        "id": "node/11523784275"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5569951,
+          -23.72607
         ]
       }
     }

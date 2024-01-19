@@ -96,9 +96,9 @@
       "type": "Feature",
       "id": "way/1234585555",
       "properties": {
-        "timestamp": "2023-12-27T12:01:48Z",
-        "version": 1,
-        "changeset": 145571463,
+        "timestamp": "2024-01-17T03:39:17Z",
+        "version": 2,
+        "changeset": 146345529,
         "addr:city": "Palmópolis",
         "addr:postcode": "39945-000",
         "addr:street": "Rua Curumim",
@@ -108,6 +108,8 @@
         "operator": "Município de Palmópolis",
         "operator:type": "public",
         "phone": "+55 33 3744 9313",
+        "ref:INEP": "31237183",
+        "wikidata": "Q124303345",
         "id": "way/1234585555"
       },
       "geometry": {
@@ -148,11 +150,11 @@
     },
     {
       "type": "Feature",
-      "id": "node/5788120334",
+      "id": "way/1240343153",
       "properties": {
-        "timestamp": "2023-12-05T13:20:20Z",
-        "version": 3,
-        "changeset": 144791808,
+        "timestamp": "2024-01-17T03:39:17Z",
+        "version": 2,
+        "changeset": 146345529,
         "addr:city": "Palmópolis",
         "addr:housenumber": "500",
         "addr:postcode": "39945-000",
@@ -164,13 +166,35 @@
         "operator": "Secretaria de Estado da Educação de Minas Gerais",
         "operator:type": "public",
         "phone": "+55 33 3744 9101",
-        "id": "node/5788120334"
+        "ref:INEP": "31185353",
+        "wikidata": "Q124303336",
+        "id": "way/1240343153"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -40.4205161,
-          -16.7383343
+          [
+            [
+              -40.4205407,
+              -16.7378423
+            ],
+            [
+              -40.4205883,
+              -16.7386436
+            ],
+            [
+              -40.4202652,
+              -16.7386612
+            ],
+            [
+              -40.4202175,
+              -16.73786
+            ],
+            [
+              -40.4205407,
+              -16.7378423
+            ]
+          ]
         ]
       }
     }

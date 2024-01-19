@@ -217,6 +217,54 @@
     },
     {
       "type": "Feature",
+      "id": "way/1167964460",
+      "properties": {
+        "timestamp": "2024-01-17T21:24:55Z",
+        "version": 3,
+        "changeset": 146381825,
+        "addr:city": "Niterói",
+        "addr:housename": "S/N",
+        "addr:postcode": "24360-970",
+        "addr:street": "Avenida Quintino Bocaiúva",
+        "addr:suburb": "São Francisco",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "Creche Comunitária Dom Orione",
+        "note": "Posição Aproximada",
+        "phone": "+55 21 2711 1670",
+        "website": "http://www.orionitas.com.br/creche-comunitaria-dom-orione.php",
+        "id": "way/1167964460"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.0937665,
+              -22.922234
+            ],
+            [
+              -43.0938444,
+              -22.9224003
+            ],
+            [
+              -43.0933206,
+              -22.922635
+            ],
+            [
+              -43.0932321,
+              -22.9224687
+            ],
+            [
+              -43.0937665,
+              -22.922234
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/1922902317",
       "properties": {
         "timestamp": "2012-09-20T01:03:13Z",
@@ -536,32 +584,6 @@
         "coordinates": [
           -43.1055215,
           -22.9072632
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/2495672481",
-      "properties": {
-        "timestamp": "2013-10-13T23:57:25Z",
-        "version": 2,
-        "changeset": 18342152,
-        "addr:city": "Niterói",
-        "addr:housename": "S/N",
-        "addr:postcode": "24360-970",
-        "addr:street": "Avenida Quintino Bocaiúva",
-        "amenity": "kindergarten",
-        "name": "Creche Comunitária Dom Orione",
-        "note": "Posição Aproximada",
-        "phone": "+55-21-27111670",
-        "website": "http://www.orionitas.com.br/creche-comunitaria-dom-orione.php",
-        "id": "node/2495672481"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.09464,
-          -22.9218153
         ]
       }
     },

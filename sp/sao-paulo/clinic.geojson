@@ -12168,6 +12168,114 @@
     },
     {
       "type": "Feature",
+      "id": "way/1240433061",
+      "properties": {
+        "timestamp": "2024-01-17T12:39:24Z",
+        "version": 1,
+        "changeset": 146362417,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "12",
+        "addr:postcode": "02518-020",
+        "addr:street": "Rua Mourão Vieira",
+        "alt_name": "AE/UBS/CEO Doutor Walter Elias",
+        "amenity": "clinic",
+        "barrier": "wall",
+        "healthcare": "clinic",
+        "name": "UBS Doutor Walter Elias",
+        "id": "way/1240433061"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.6637127,
+              -23.5093341
+            ],
+            [
+              -46.6640963,
+              -23.50914
+            ],
+            [
+              -46.6641827,
+              -23.5092749
+            ],
+            [
+              -46.6643371,
+              -23.5095157
+            ],
+            [
+              -46.6639161,
+              -23.5096595
+            ],
+            [
+              -46.6637127,
+              -23.5093341
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1240581624",
+      "properties": {
+        "timestamp": "2024-01-17T20:09:20Z",
+        "version": 1,
+        "changeset": 146379790,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "795",
+        "addr:street": "Avenida Lacerda Franco",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general;gynaecology;paediatrics",
+        "name": "UBS Cambuci",
+        "operator:ref:vatin": "BR46392130000380",
+        "ref:CNES": "2786834",
+        "id": "way/1240581624"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.6231837,
+              -23.5696922
+            ],
+            [
+              -46.6235549,
+              -23.5696347
+            ],
+            [
+              -46.6236009,
+              -23.5696275
+            ],
+            [
+              -46.6236252,
+              -23.5697573
+            ],
+            [
+              -46.6236327,
+              -23.5697969
+            ],
+            [
+              -46.6232112,
+              -23.5698636
+            ],
+            [
+              -46.6232039,
+              -23.569818
+            ],
+            [
+              -46.6231837,
+              -23.5696922
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/462898594",
       "properties": {
         "timestamp": "2023-04-13T13:58:06Z",
@@ -15431,31 +15539,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/5706562368",
-      "properties": {
-        "timestamp": "2023-08-05T23:23:09Z",
-        "version": 3,
-        "changeset": 139498458,
-        "addr:housenumber": "795",
-        "addr:street": "Avenida Lacerda Franco",
-        "amenity": "clinic",
-        "healthcare": "clinic",
-        "healthcare:speciality": "general;gynaecology;paediatrics",
-        "name": "UBS Cambuci",
-        "operator:ref:vatin": "BR46392130000380",
-        "ref:CNES": "2786834",
-        "id": "node/5706562368"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -46.6235372,
-          -23.5695791
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/5846947365",
       "properties": {
         "timestamp": "2019-08-02T00:32:41Z",
@@ -18270,6 +18353,48 @@
         "coordinates": [
           -46.4573167,
           -23.56241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11524715193",
+      "properties": {
+        "timestamp": "2024-01-17T12:39:24Z",
+        "version": 1,
+        "changeset": 146362417,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "12",
+        "addr:postcode": "02518-020",
+        "addr:street": "Rua Mourão Vieira",
+        "id": "node/11524715193"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6641827,
+          -23.5092749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11526068187",
+      "properties": {
+        "timestamp": "2024-01-17T20:09:20Z",
+        "version": 1,
+        "changeset": 146379790,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "795",
+        "addr:postcode": "01536-000",
+        "addr:street": "Avenida Lacerda Franco",
+        "id": "node/11526068187"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6236252,
+          -23.5697573
         ]
       }
     }

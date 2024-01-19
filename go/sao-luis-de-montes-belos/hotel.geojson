@@ -3,21 +3,60 @@
   "features": [
     {
       "type": "Feature",
-      "id": "node/4188487220",
+      "id": "way/1240512909",
       "properties": {
-        "timestamp": "2016-05-16T01:42:48Z",
+        "timestamp": "2024-01-17T17:59:34Z",
         "version": 1,
-        "changeset": 39341836,
-        "name": "Pousada Farol",
-        "phone": "+556436011918",
+        "changeset": 146375482,
+        "building": "yes",
+        "name": "hotel central",
         "tourism": "hotel",
-        "id": "node/4188487220"
+        "id": "way/1240512909"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -50.3734076,
+              -16.5257334
+            ],
+            [
+              -50.3736623,
+              -16.5255246
+            ],
+            [
+              -50.3738928,
+              -16.525836
+            ],
+            [
+              -50.3736406,
+              -16.5259972
+            ],
+            [
+              -50.3734076,
+              -16.5257334
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11526067473",
+      "properties": {
+        "timestamp": "2024-01-17T20:24:19Z",
+        "version": 1,
+        "changeset": 146380186,
+        "name": "Hotel Central",
+        "tourism": "hotel",
+        "id": "node/11526067473"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -50.3635556,
-          -16.5313512
+          -50.3736711,
+          -16.5257427
         ]
       }
     }

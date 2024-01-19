@@ -373,9 +373,9 @@
       "type": "Feature",
       "id": "way/211489455",
       "properties": {
-        "timestamp": "2022-09-07T20:40:17Z",
-        "version": 7,
-        "changeset": 125917455,
+        "timestamp": "2024-01-17T14:38:08Z",
+        "version": 9,
+        "changeset": 146367832,
         "amenity": "hospital",
         "emergency": "yes",
         "healthcare": "hospital",
@@ -440,12 +440,8 @@
               -23.4994409
             ],
             [
-              -47.443375,
-              -23.4991736
-            ],
-            [
-              -47.4430659,
-              -23.4982271
+              -47.4434032,
+              -23.4991693
             ],
             [
               -47.4444912,
@@ -2193,6 +2189,24 @@
     },
     {
       "type": "Feature",
+      "id": "node/8411710996",
+      "properties": {
+        "timestamp": "2021-02-10T12:32:48Z",
+        "version": 1,
+        "changeset": 99042675,
+        "barrier": "lift_gate",
+        "id": "node/8411710996"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.4434032,
+          -23.4991693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/8448238861",
       "properties": {
         "timestamp": "2021-02-28T16:10:34Z",
@@ -2233,26 +2247,6 @@
         "coordinates": [
           -47.4530142,
           -23.5018036
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/9575069614",
-      "properties": {
-        "timestamp": "2024-01-03T07:38:58Z",
-        "version": 4,
-        "changeset": 145826405,
-        "bus": "yes",
-        "highway": "bus_stop",
-        "public_transport": "platform",
-        "id": "node/9575069614"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -47.4430659,
-          -23.4982271
         ]
       }
     },

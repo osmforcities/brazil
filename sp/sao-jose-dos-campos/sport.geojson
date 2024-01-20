@@ -13874,11 +13874,11 @@
       "type": "Feature",
       "id": "way/1239429968",
       "properties": {
-        "timestamp": "2024-01-13T16:05:42Z",
-        "version": 1,
-        "changeset": 146219428,
+        "timestamp": "2024-01-18T19:14:27Z",
+        "version": 2,
+        "changeset": 146417409,
         "access": "private",
-        "leisure": "pitch",
+        "building": "yes",
         "lit": "yes",
         "sport": "futsal;basketball;volleyball",
         "id": "way/1239429968"
@@ -13906,6 +13906,46 @@
             [
               -45.7654867,
               -23.131869
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1240857356",
+      "properties": {
+        "timestamp": "2024-01-18T21:23:57Z",
+        "version": 1,
+        "changeset": 146421261,
+        "leisure": "pitch",
+        "lit": "yes",
+        "sport": "futsal",
+        "id": "way/1240857356"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -45.7852141,
+              -23.1421699
+            ],
+            [
+              -45.7854526,
+              -23.1423469
+            ],
+            [
+              -45.7853135,
+              -23.1425054
+            ],
+            [
+              -45.785075,
+              -23.1423284
+            ],
+            [
+              -45.7852141,
+              -23.1421699
             ]
           ]
         ]
@@ -16711,6 +16751,29 @@
         "coordinates": [
           -45.9040867,
           -23.1435876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11529005109",
+      "properties": {
+        "timestamp": "2024-01-18T21:23:57Z",
+        "version": 1,
+        "changeset": 146421261,
+        "addr:street": "Rua Ambrósio Molina",
+        "addr:suburb": "Eugênio de Mello",
+        "fee": "no",
+        "leisure": "sports_centre",
+        "name": "Centro Esportivo Eugênio de Melo",
+        "sport": "fitness;futsal;volleyball;swimming",
+        "id": "node/11529005109"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.7850067,
+          -23.1416348
         ]
       }
     }

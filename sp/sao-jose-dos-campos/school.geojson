@@ -6399,65 +6399,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/1239429970",
-      "properties": {
-        "timestamp": "2024-01-13T16:05:42Z",
-        "version": 1,
-        "changeset": 146219428,
-        "addr:street": "Rua Benedito Andrade",
-        "amenity": "school",
-        "building": "yes",
-        "grades": "1-9",
-        "name": "EMEFI Prof. Luiz Leite",
-        "religion": "no",
-        "id": "way/1239429970"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -45.7655797,
-              -23.1324536
-            ],
-            [
-              -45.7653911,
-              -23.1323872
-            ],
-            [
-              -45.7651675,
-              -23.1320125
-            ],
-            [
-              -45.7650325,
-              -23.1316892
-            ],
-            [
-              -45.7648246,
-              -23.1313964
-            ],
-            [
-              -45.7648366,
-              -23.1313027
-            ],
-            [
-              -45.7659284,
-              -23.1314617
-            ],
-            [
-              -45.7655706,
-              -23.1323682
-            ],
-            [
-              -45.7655797,
-              -23.1324536
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/1644981190",
       "properties": {
         "timestamp": "2019-03-05T02:17:13Z",
@@ -7227,6 +7168,28 @@
         "coordinates": [
           -45.9068613,
           -23.198869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11528605376",
+      "properties": {
+        "timestamp": "2024-01-18T19:14:27Z",
+        "version": 1,
+        "changeset": 146417409,
+        "addr:street": "Rua Benedito Andrade",
+        "amenity": "school",
+        "grades": "1-9",
+        "name": "EMEFI Professor Luiz Leite",
+        "religion": "none",
+        "id": "node/11528605376"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.7656573,
+          -23.1318437
         ]
       }
     }

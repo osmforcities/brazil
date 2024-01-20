@@ -363,26 +363,29 @@
       "type": "Feature",
       "id": "node/2518515282",
       "properties": {
-        "timestamp": "2021-07-03T20:50:19Z",
-        "version": 7,
-        "changeset": 107368907,
+        "timestamp": "2024-01-18T21:06:25Z",
+        "version": 8,
+        "changeset": 146420825,
         "amenity": "bicycle_rental",
-        "capacity": "15",
-        "name": "Boulevard 161",
+        "brand": "Bike Salvador",
+        "brand:wikidata": "Q20052802",
+        "capacity": "19",
+        "fee": "yes",
+        "name": "BRT Itaigara",
         "network": "Bike Salvador",
         "opening_hours": "Mo-Su 05:00-24:00",
-        "operator": "tembici",
+        "operator": "Tembici",
         "payment:credit_cards": "yes",
         "phone": "+55 71 40039892",
-        "ref": "24",
+        "ref": "59",
         "website": "https://bikeitau.com.br/salvador/",
         "id": "node/2518515282"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -38.4645582,
-          -12.9957007
+          -38.4635014,
+          -12.9972923
         ]
       }
     },
@@ -1408,6 +1411,66 @@
         "coordinates": [
           -38.5311393,
           -13.0096782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11528956346",
+      "properties": {
+        "timestamp": "2024-01-18T21:06:25Z",
+        "version": 1,
+        "changeset": 146420825,
+        "amenity": "bicycle_rental",
+        "brand": "Bike Salvador",
+        "brand:wikidata": "Q20052802",
+        "capacity": "15",
+        "fee": "yes",
+        "name": "BRT Pituba",
+        "network": "Bike Salvador",
+        "opening_hours": "Mo-Su 05:00-24:00",
+        "operator": "Tembici",
+        "payment:credit_cards": "yes",
+        "phone": "+55 71 40039892",
+        "ref": "58",
+        "website": "https://bikeitau.com.br/salvador/",
+        "id": "node/11528956346"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4596337,
+          -12.9997581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11528956347",
+      "properties": {
+        "timestamp": "2024-01-18T21:06:25Z",
+        "version": 1,
+        "changeset": 146420825,
+        "amenity": "bicycle_rental",
+        "brand": "Bike Salvador",
+        "brand:wikidata": "Q20052802",
+        "capacity": "11",
+        "fee": "yes",
+        "name": "Praça Belo Horizonte",
+        "network": "Bike Salvador",
+        "opening_hours": "Mo-Su 05:00-24:00",
+        "operator": "Tembici",
+        "payment:credit_cards": "yes",
+        "phone": "+55 71 40039892",
+        "ref": "57",
+        "website": "https://bikeitau.com.br/salvador/",
+        "id": "node/11528956347"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.459062,
+          -13.0039161
         ]
       }
     }

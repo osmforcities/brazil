@@ -1645,14 +1645,15 @@
       "type": "Feature",
       "id": "node/10650541926",
       "properties": {
-        "timestamp": "2023-02-11T22:54:52Z",
-        "version": 1,
-        "changeset": 132425482,
+        "timestamp": "2024-01-18T17:46:50Z",
+        "version": 2,
+        "changeset": 146414999,
         "access": "customers",
         "amenity": "toilets",
         "fee": "no",
+        "female": "yes",
+        "male": "yes",
         "toilets:disposal": "flush",
-        "unisex": "yes",
         "wheelchair": "yes",
         "id": "node/10650541926"
       },
@@ -1953,10 +1954,14 @@
       "type": "Feature",
       "id": "node/11516693769",
       "properties": {
-        "timestamp": "2024-01-14T17:10:31Z",
-        "version": 1,
-        "changeset": 146252598,
+        "timestamp": "2024-01-18T20:18:25Z",
+        "version": 2,
+        "changeset": 146419538,
+        "access": "customers",
         "amenity": "toilets",
+        "fee": "no",
+        "male": "yes",
+        "toilets:disposal": "flush",
         "id": "node/11516693769"
       },
       "geometry": {
@@ -1971,17 +1976,21 @@
       "type": "Feature",
       "id": "node/11519967569",
       "properties": {
-        "timestamp": "2024-01-15T20:52:57Z",
-        "version": 1,
-        "changeset": 146297720,
+        "timestamp": "2024-01-18T18:49:16Z",
+        "version": 2,
+        "changeset": 146416778,
+        "access": "customers",
         "amenity": "toilets",
+        "fee": "no",
+        "toilets:disposal": "flush",
+        "unisex": "yes",
         "id": "node/11519967569"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -38.5866462,
-          -3.6951475
+          -38.5866641,
+          -3.6951742
         ]
       }
     }

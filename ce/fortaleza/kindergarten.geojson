@@ -3988,6 +3988,73 @@
     },
     {
       "type": "Feature",
+      "id": "way/1240630639",
+      "properties": {
+        "timestamp": "2024-01-18T01:13:14Z",
+        "version": 1,
+        "changeset": 146386155,
+        "addr:city": "Fortaleza",
+        "addr:housenumber": "376",
+        "addr:postcode": "60743-830",
+        "addr:street": "Rua dos Sabiás",
+        "addr:suburb": "Passaré",
+        "amenity": "kindergarten",
+        "name": "Colégio Mente Criativa",
+        "opening_hours": "Mo-Fr 06:30-18:30; Sa 08:00-11:00",
+        "phone": "+55 85 3235 6481",
+        "website": "https://www.instagram.com/colegiomentecriativa/",
+        "id": "way/1240630639"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.5394649,
+              -3.806017
+            ],
+            [
+              -38.5396845,
+              -3.806629
+            ],
+            [
+              -38.5391242,
+              -3.8068217
+            ],
+            [
+              -38.5389378,
+              -3.8063
+            ],
+            [
+              -38.5389477,
+              -3.8062917
+            ],
+            [
+              -38.5389394,
+              -3.8062685
+            ],
+            [
+              -38.5389316,
+              -3.8062472
+            ],
+            [
+              -38.5389202,
+              -3.8062426
+            ],
+            [
+              -38.5389081,
+              -3.8062035
+            ],
+            [
+              -38.5394649,
+              -3.806017
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/383544014",
       "properties": {
         "timestamp": "2015-12-06T19:51:01Z",
@@ -5045,6 +5112,26 @@
         "coordinates": [
           -38.6019985,
           -3.817652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11526635022",
+      "properties": {
+        "timestamp": "2024-01-18T01:13:14Z",
+        "version": 1,
+        "changeset": 146386155,
+        "access": "permit",
+        "barrier": "gate",
+        "locked": "no",
+        "id": "node/11526635022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5389394,
+          -3.8062685
         ]
       }
     }

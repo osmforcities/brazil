@@ -960,9 +960,9 @@
       "type": "Feature",
       "id": "way/327508206",
       "properties": {
-        "timestamp": "2017-05-15T01:04:30Z",
-        "version": 3,
-        "changeset": 48686982,
+        "timestamp": "2024-01-18T13:25:30Z",
+        "version": 4,
+        "changeset": 146405453,
         "addr:city": "São Paulo",
         "addr:housenumber": "522",
         "addr:street": "Rua Zilda",
@@ -970,6 +970,7 @@
         "amenity": "pharmacy",
         "building": "yes",
         "contact:website": "http://www.promofarma.com.br",
+        "healthcare": "pharmacy",
         "name": "Promofarma",
         "id": "way/327508206"
       },
@@ -4426,6 +4427,88 @@
             [
               -46.6882345,
               -23.5350583
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/520076544",
+      "properties": {
+        "timestamp": "2024-01-18T13:21:11Z",
+        "version": 2,
+        "changeset": 146405273,
+        "amenity": "pharmacy",
+        "brand": "Drogasil",
+        "brand:wikidata": "Q5308185",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "height": "3.141",
+        "name": "Drogasil",
+        "source": "pmsp",
+        "wheelchair": "yes",
+        "id": "way/520076544"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.7097921,
+              -23.5546594
+            ],
+            [
+              -46.7098386,
+              -23.5546362
+            ],
+            [
+              -46.7098705,
+              -23.5546791
+            ],
+            [
+              -46.7098671,
+              -23.554681
+            ],
+            [
+              -46.7099534,
+              -23.5548008
+            ],
+            [
+              -46.7099512,
+              -23.5548274
+            ],
+            [
+              -46.7098756,
+              -23.5548725
+            ],
+            [
+              -46.709826,
+              -23.5548011
+            ],
+            [
+              -46.7097947,
+              -23.5548216
+            ],
+            [
+              -46.709715,
+              -23.5547101
+            ],
+            [
+              -46.7097313,
+              -23.5546996
+            ],
+            [
+              -46.7097278,
+              -23.5546916
+            ],
+            [
+              -46.7097664,
+              -23.5546723
+            ],
+            [
+              -46.7097921,
+              -23.5546594
             ]
           ]
         ]

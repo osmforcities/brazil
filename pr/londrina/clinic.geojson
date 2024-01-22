@@ -1076,9 +1076,9 @@
       "type": "Feature",
       "id": "way/633069225",
       "properties": {
-        "timestamp": "2024-01-11T16:05:07Z",
-        "version": 4,
-        "changeset": 146149783,
+        "timestamp": "2024-01-20T03:06:19Z",
+        "version": 5,
+        "changeset": 146464104,
         "addr:housenumber": "800",
         "addr:postcode": "86087-030",
         "addr:street": "Rua Francisco Marquês de Oliveira",
@@ -1090,7 +1090,7 @@
         "healthcare:speciality": "general;paediatrics;ginecologia",
         "name": "Unidade Básica de Saúde Marcia Andreoni Der Bedrossian",
         "opening_hours": "Mo-Fr 07:00-19:00; PH off",
-        "operator": "Autarquia Municipal de Saúde",
+        "operator": "Secretaria Municipal de Saúde",
         "operator:type": "government",
         "ref:CNES": "2579065",
         "source": "CNES",
@@ -1347,16 +1347,27 @@
       "type": "Feature",
       "id": "way/699088839",
       "properties": {
-        "timestamp": "2019-06-22T16:14:34Z",
-        "version": 1,
-        "changeset": 71513275,
+        "timestamp": "2024-01-20T02:10:18Z",
+        "version": 2,
+        "changeset": 146463434,
         "addr:city": "Londrina",
+        "addr:housenumber": "585",
+        "addr:postcode": "86081-585",
         "addr:street": "Rua André Buck",
+        "addr:suburb": "Jardim Padovani",
         "amenity": "clinic",
         "building": "yes",
         "building:levels": "1",
         "healthcare": "clinic",
-        "name": "Unidade Básica de Saúde Padovani",
+        "healthcare:speciality": "general;paediatrics",
+        "name": "Unidade Básica de Saúde Doutor José Guidugli",
+        "opening_hours": "Mo-Fr 07:00-19:00; PH off",
+        "operator": "Secretaria Municipal da Saúde",
+        "operator:type": "government",
+        "phone": "+55 43 3379 0850",
+        "ref:CNES": "Guidugli",
+        "short_name": "Unidade Básica de Saúde Padovani",
+        "source": "CNES;https://saude.londrina.pr.gov.br/index.php/unidade-basica-saude/ubs-regiao-norte.html",
         "id": "way/699088839"
       },
       "geometry": {
@@ -1388,31 +1399,31 @@
               -23.2658493
             ],
             [
-              -51.1980821,
-              -23.265906
+              -51.1981009,
+              -23.2658851
             ],
             [
-              -51.1980613,
-              -23.2659054
+              -51.1980747,
+              -23.2658857
             ],
             [
-              -51.1980608,
-              -23.2659233
+              -51.1980715,
+              -23.2659061
             ],
             [
-              -51.1978833,
-              -23.2659185
+              -51.1979007,
+              -23.2659062
             ],
             [
-              -51.1978866,
-              -23.2658164
+              -51.1979,
+              -23.2658152
             ],
             [
-              -51.197964,
-              -23.2658185
+              -51.1979774,
+              -23.2658086
             ],
             [
-              -51.1978641,
+              -51.1978882,
               -23.2657237
             ],
             [
@@ -1439,17 +1450,26 @@
       "type": "Feature",
       "id": "way/699408386",
       "properties": {
-        "timestamp": "2019-06-24T13:04:25Z",
-        "version": 1,
-        "changeset": 71560784,
+        "timestamp": "2024-01-20T02:22:01Z",
+        "version": 2,
+        "changeset": 146463602,
         "addr:city": "Londrina",
+        "addr:housenumber": "730",
+        "addr:postcode": "86081-240",
         "addr:street": "Rua Café Bourbon",
+        "addr:suburb": "Jardim Paraty",
         "amenity": "clinic",
         "building": "yes",
         "healthcare": "clinic",
-        "healthcare:speciality": "general",
-        "name": "Unidade Básica de Saúde",
+        "healthcare:speciality": "general;paediatrics",
+        "name": "Unidade Básica de Saúde Doutor  Bruno Piancastelli Filho",
+        "opening_hours": "Mo-Fr 07:00-19:00; PH off",
         "operator": "Prefeitura de Londrina",
+        "operator:type": "government",
+        "phone": "+55 43 3379 0875",
+        "ref:CNES": "2579340",
+        "short_name": "Unidade Básica de Saúde Chefe Newton",
+        "source": "CNES;https://saude.londrina.pr.gov.br/index.php/unidade-basica-saude/ubs-regiao-norte.html",
         "id": "way/699408386"
       },
       "geometry": {

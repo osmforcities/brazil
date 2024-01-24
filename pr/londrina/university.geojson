@@ -5,12 +5,20 @@
       "type": "Feature",
       "id": "way/129121408",
       "properties": {
-        "timestamp": "2018-08-08T18:06:42Z",
-        "version": 3,
-        "changeset": 61476844,
+        "timestamp": "2024-01-21T01:04:23Z",
+        "version": 4,
+        "changeset": 146497407,
+        "addr:housenumber": "277",
+        "addr:postcode": "86055-670",
+        "addr:street": "Rua Martinho Lutero",
+        "addr:suburb": "Gleba Palhano",
         "amenity": "university",
         "barrier": "fence",
-        "name": "Faculdade de teologia Sul Americana",
+        "email": "contato@ftsa.edu.br",
+        "mobile": "+55 43 99905 8202",
+        "name": "Faculdade de Teologia Sul Americana",
+        "phone": "+55 43 3371 0200",
+        "website": "https://ftsa.edu.br/",
         "id": "way/129121408"
       },
       "geometry": {
@@ -113,11 +121,11 @@
       "type": "Feature",
       "id": "way/444200549",
       "properties": {
-        "timestamp": "2020-08-23T20:29:41Z",
-        "version": 13,
-        "changeset": 89821217,
+        "timestamp": "2024-01-21T01:36:19Z",
+        "version": 14,
+        "changeset": 146497786,
         "addr:city": "Londrina",
-        "addr:postcode": "86057970",
+        "addr:postcode": "86057-970",
         "addr:street": "Rodovia Celso Garcia Cid | PR-445 | Km 380",
         "addr:suburb": "Campus Universitário",
         "amenity": "university",
@@ -1466,15 +1474,20 @@
       "type": "Feature",
       "id": "way/614249534",
       "properties": {
-        "timestamp": "2023-11-25T19:48:38Z",
-        "version": 2,
-        "changeset": 144451793,
-        "addr:city": "Londrina - PR",
-        "addr:street": "Rua Francisco Salton",
+        "timestamp": "2024-01-21T18:26:38Z",
+        "version": 3,
+        "changeset": 146523585,
+        "addr:housenumber": "150",
+        "addr:postcode": "86047-625",
+        "addr:street": "Rua João Rogério Ribeiro Bonesi",
+        "addr:suburb": "Palhano",
         "amenity": "university",
+        "branch": "Campus Palhano",
         "internet_access": "yes",
         "name": "Universidade Positivo",
-        "operator": "Universidade Positivo",
+        "operator": "Grupo Cruzeiro do Sul Educacional,",
+        "operator:type": "private",
+        "website": "https://www.up.edu.br/",
         "id": "way/614249534"
       },
       "geometry": {
@@ -1914,11 +1927,16 @@
       "type": "Feature",
       "id": "way/618787076",
       "properties": {
-        "timestamp": "2019-05-04T07:41:35Z",
-        "version": 2,
-        "changeset": 69867865,
+        "timestamp": "2024-01-21T19:22:55Z",
+        "version": 3,
+        "changeset": 146525196,
+        "addr:housenumber": "675",
+        "addr:street": "Avenida Paris",
+        "addr:suburb": "Jardim Pizza",
         "amenity": "university",
         "name": "UNOPAR - Universidade Norte do Paraná",
+        "operator": "Anhanguera",
+        "operator:type": "private",
         "wikidata": "Q7894388",
         "id": "way/618787076"
       },
@@ -1927,24 +1945,24 @@
         "coordinates": [
           [
             [
-              -51.1380075,
-              -23.3501224
+              -51.1385644,
+              -23.3507443
             ],
             [
-              -51.1382442,
-              -23.3507134
+              -51.1387461,
+              -23.3512224
             ],
             [
-              -51.137581,
-              -23.3509335
+              -51.1360921,
+              -23.3521101
             ],
             [
-              -51.1373208,
-              -23.3503352
+              -51.1365198,
+              -23.3514531
             ],
             [
-              -51.1380075,
-              -23.3501224
+              -51.1385644,
+              -23.3507443
             ]
           ]
         ]
@@ -2596,6 +2614,110 @@
             [
               -51.1707036,
               -23.3157229
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1241745487",
+      "properties": {
+        "timestamp": "2024-01-21T20:21:50Z",
+        "version": 1,
+        "changeset": 146526907,
+        "addr:street": "Rua Toulouse",
+        "amenity": "university",
+        "name": "Universidade Norte do Paraná",
+        "id": "way/1241745487"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.139174,
+              -23.3504551
+            ],
+            [
+              -51.1366635,
+              -23.3512701
+            ],
+            [
+              -51.137039,
+              -23.3506299
+            ],
+            [
+              -51.1373501,
+              -23.3503738
+            ],
+            [
+              -51.1377122,
+              -23.3502088
+            ],
+            [
+              -51.1381199,
+              -23.3501078
+            ],
+            [
+              -51.1383426,
+              -23.3501177
+            ],
+            [
+              -51.139174,
+              -23.3504551
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1241746390",
+      "properties": {
+        "timestamp": "2024-01-21T20:26:52Z",
+        "version": 1,
+        "changeset": 146527030,
+        "addr:street": "Rua Capri",
+        "amenity": "university",
+        "name": "Universidade Norte do Paraná",
+        "id": "way/1241746390"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.1371436,
+              -23.3496818
+            ],
+            [
+              -51.1367574,
+              -23.349864
+            ],
+            [
+              -51.1363282,
+              -23.3503664
+            ],
+            [
+              -51.1357596,
+              -23.3500537
+            ],
+            [
+              -51.1363953,
+              -23.3494774
+            ],
+            [
+              -51.1365589,
+              -23.3495858
+            ],
+            [
+              -51.1369505,
+              -23.3492903
+            ],
+            [
+              -51.1371436,
+              -23.3496818
             ]
           ]
         ]

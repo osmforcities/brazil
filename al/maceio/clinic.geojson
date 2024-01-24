@@ -898,6 +898,62 @@
     },
     {
       "type": "Feature",
+      "id": "way/687551887",
+      "properties": {
+        "timestamp": "2024-01-21T00:50:10Z",
+        "version": 2,
+        "changeset": 146497241,
+        "addr:city": "Maceió",
+        "addr:postcode": "57062-001",
+        "addr:street": "Avenida Denilma Bulhões",
+        "addr:suburb": "Petrópolis",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "PSF João Sampaio",
+        "operator": "Prefeitura",
+        "operator:type": "government",
+        "id": "way/687551887"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -35.7598161,
+              -9.6046802
+            ],
+            [
+              -35.7597513,
+              -9.6046778
+            ],
+            [
+              -35.7596664,
+              -9.604822
+            ],
+            [
+              -35.759604,
+              -9.604789
+            ],
+            [
+              -35.7597537,
+              -9.6045939
+            ],
+            [
+              -35.7598268,
+              -9.6046419
+            ],
+            [
+              -35.7598161,
+              -9.6046802
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/692801031",
       "properties": {
         "timestamp": "2019-05-27T16:04:43Z",
@@ -1260,26 +1316,6 @@
         "coordinates": [
           -35.7323744,
           -9.6384424
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/2861293993",
-      "properties": {
-        "timestamp": "2019-12-30T05:02:58Z",
-        "version": 2,
-        "changeset": 78999381,
-        "access": "yes",
-        "amenity": "clinic",
-        "healthcare": "clinic",
-        "id": "node/2861293993"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -35.759728,
-          -9.6047416
         ]
       }
     },

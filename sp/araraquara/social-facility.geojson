@@ -806,9 +806,9 @@
       "type": "Feature",
       "id": "way/649759914",
       "properties": {
-        "timestamp": "2018-11-28T01:09:35Z",
-        "version": 1,
-        "changeset": 64955438,
+        "timestamp": "2024-01-21T19:09:46Z",
+        "version": 2,
+        "changeset": 146524829,
         "amenity": "social_facility",
         "building": "yes",
         "name": "CRAS São Rafael",
@@ -819,24 +819,32 @@
         "coordinates": [
           [
             [
-              -48.1391904,
-              -21.746612
+              -48.139173,
+              -21.7466145
             ],
             [
-              -48.1389636,
-              -21.7465692
+              -48.1389837,
+              -21.7465788
             ],
             [
-              -48.1389819,
-              -21.7464859
+              -48.1389462,
+              -21.7465717
             ],
             [
-              -48.1392087,
-              -21.7465287
+              -48.1389645,
+              -21.7464884
             ],
             [
-              -48.1391904,
-              -21.746612
+              -48.1390041,
+              -21.7464959
+            ],
+            [
+              -48.1391913,
+              -21.7465312
+            ],
+            [
+              -48.139173,
+              -21.7466145
             ]
           ]
         ]
@@ -846,12 +854,13 @@
       "type": "Feature",
       "id": "way/649759915",
       "properties": {
-        "timestamp": "2019-01-12T00:14:11Z",
-        "version": 2,
-        "changeset": 66242308,
+        "timestamp": "2024-01-21T19:09:46Z",
+        "version": 3,
+        "changeset": 146524829,
         "amenity": "social_facility",
         "building": "yes",
         "name": "CEU das Artes",
+        "social_facility": "outreach",
         "id": "way/649759915"
       },
       "geometry": {
@@ -859,24 +868,40 @@
         "coordinates": [
           [
             [
-              -48.1389262,
-              -21.7464794
+              -48.1389087,
+              -21.7464757
             ],
             [
-              -48.1388241,
-              -21.7469151
+              -48.138888,
+              -21.7465659
             ],
             [
-              -48.1387447,
-              -21.746899
+              -48.13885,
+              -21.7467265
             ],
             [
-              -48.1388468,
-              -21.7464634
+              -48.1388066,
+              -21.7469113
             ],
             [
-              -48.1389262,
-              -21.7464794
+              -48.1387272,
+              -21.7468953
+            ],
+            [
+              -48.1387696,
+              -21.7467146
+            ],
+            [
+              -48.1388083,
+              -21.7465496
+            ],
+            [
+              -48.1388293,
+              -21.7464596
+            ],
+            [
+              -48.1389087,
+              -21.7464757
             ]
           ]
         ]
@@ -1562,6 +1587,114 @@
               -21.7817861
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11537791040",
+      "properties": {
+        "timestamp": "2024-01-21T19:09:46Z",
+        "version": 1,
+        "changeset": 146524829,
+        "entrance": "yes",
+        "id": "node/11537791040"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.1390041,
+          -21.7464959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11537791041",
+      "properties": {
+        "timestamp": "2024-01-21T19:09:46Z",
+        "version": 1,
+        "changeset": 146524829,
+        "entrance": "yes",
+        "id": "node/11537791041"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.1387696,
+          -21.7467146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11537791042",
+      "properties": {
+        "timestamp": "2024-01-21T19:09:46Z",
+        "version": 1,
+        "changeset": 146524829,
+        "entrance": "yes",
+        "id": "node/11537791042"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.13885,
+          -21.7467265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11537791044",
+      "properties": {
+        "timestamp": "2024-01-21T19:09:46Z",
+        "version": 1,
+        "changeset": 146524829,
+        "entrance": "yes",
+        "id": "node/11537791044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.138888,
+          -21.7465659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11537791046",
+      "properties": {
+        "timestamp": "2024-01-21T19:09:46Z",
+        "version": 1,
+        "changeset": 146524829,
+        "entrance": "yes",
+        "id": "node/11537791046"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.1389837,
+          -21.7465788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11537791048",
+      "properties": {
+        "timestamp": "2024-01-21T19:09:46Z",
+        "version": 1,
+        "changeset": 146524829,
+        "entrance": "yes",
+        "id": "node/11537791048"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.1388083,
+          -21.7465496
         ]
       }
     }

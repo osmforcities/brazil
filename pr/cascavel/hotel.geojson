@@ -311,6 +311,56 @@
     },
     {
       "type": "Feature",
+      "id": "way/1241734683",
+      "properties": {
+        "timestamp": "2024-01-21T19:27:55Z",
+        "version": 1,
+        "changeset": 146525346,
+        "addr:city": "Cascavel",
+        "addr:housenumber": "1243",
+        "addr:postcode": "85803-000",
+        "addr:street": "Rua Carlos Gomes",
+        "addr:suburb": "Universitário",
+        "brand": "Days Inn",
+        "building": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Days Inn By Wyndham Cascavel",
+        "phone": "+5545-1979344",
+        "tourism": "hotel",
+        "website": "https://www.wyndhamhotels.com/pt-br/days-inn/cascavel-brazil/days-inn-cascavel/overview?cid=PS:on5x75dmo8ab619&gad_source=1",
+        "id": "way/1241734683"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -53.4543025,
+              -24.9796514
+            ],
+            [
+              -53.4540862,
+              -24.9799999
+            ],
+            [
+              -53.453953,
+              -24.9799267
+            ],
+            [
+              -53.4541736,
+              -24.9795861
+            ],
+            [
+              -53.4543025,
+              -24.9796514
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/5229173634",
       "properties": {
         "timestamp": "2017-11-14T23:35:12Z",
@@ -369,6 +419,35 @@
         "coordinates": [
           -53.4421214,
           -24.9478388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11537825201",
+      "properties": {
+        "timestamp": "2024-01-21T19:27:55Z",
+        "version": 1,
+        "changeset": 146525346,
+        "addr:city": "Cascavel",
+        "addr:housenumber": "1243",
+        "addr:postcode": "85803-000",
+        "addr:street": "Rua Carlos Gomes",
+        "addr:suburb": "Universitário",
+        "brand": "Days Inn",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Days Inn By Wyndham Cascavel",
+        "phone": "+554531979344",
+        "tourism": "hotel",
+        "website": "https://www.wyndhamhotels.com/pt-br/days-inn/cascavel-brazil/days-inn-cascavel/overview?cid=PS:on5x75dmo8ab619&gad_source=1",
+        "id": "node/11537825201"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.4538896,
+          -24.9795841
         ]
       }
     }

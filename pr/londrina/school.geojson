@@ -1329,14 +1329,21 @@
       "type": "Feature",
       "id": "way/472031914",
       "properties": {
-        "timestamp": "2018-07-24T15:03:38Z",
-        "version": 4,
-        "changeset": 61027518,
+        "timestamp": "2024-01-21T18:45:15Z",
+        "version": 5,
+        "changeset": 146524111,
         "addr:city": "Londrina",
+        "addr:housenumber": "115",
+        "addr:postcode": "86041-250",
+        "addr:street": "Rua Veneza",
         "addr:suburb": "Jardim Piza",
         "amenity": "school",
+        "email": "ldapaulofreire@seed.pr.gov.br",
         "name": "Colegio Estadual Professor Paulo Freire",
-        "operator": "Conceição",
+        "operator": "Secretaria da Educação do Estado do Paraná",
+        "operator:type": "government",
+        "phone": "+55 43 3341 7767",
+        "religion": "none",
         "id": "way/472031914"
       },
       "geometry": {
@@ -3707,11 +3714,21 @@
       "type": "Feature",
       "id": "way/616908158",
       "properties": {
-        "timestamp": "2018-08-14T11:17:34Z",
-        "version": 1,
-        "changeset": 61654507,
+        "timestamp": "2024-01-21T18:59:55Z",
+        "version": 2,
+        "changeset": 146524518,
+        "addr:housenumber": "515",
+        "addr:postcode": "86041-120",
+        "addr:street": "Avenida Paris",
+        "addr:suburb": "Jardim Pizza",
         "amenity": "school",
-        "name": "ESCOLA MUNICIPAL CARLOS DA COSTA BRANCO, PROF. DR.",
+        "email": "carlos.costa@londrina.pr.gov.br",
+        "name": "Escola Municpal Professor Doutor Carlos da Costa Branco",
+        "opening_hours": "Mo-Fr 07:30-11:30,13:30-17:30; PH off",
+        "operator": "Secretaria Municipal de Educação",
+        "operator:type": "government",
+        "phone": "+55 43 3375 0385",
+        "religion": "none",
         "id": "way/616908158"
       },
       "geometry": {
@@ -5637,11 +5654,21 @@
       "type": "Feature",
       "id": "way/616934086",
       "properties": {
-        "timestamp": "2018-08-14T13:27:13Z",
-        "version": 1,
-        "changeset": 61658523,
+        "timestamp": "2024-01-21T02:38:47Z",
+        "version": 2,
+        "changeset": 146498640,
+        "addr:housenumber": "285",
+        "addr:postcode": "86040-500",
+        "addr:street": "Rua Maria de Oliveira Melo",
+        "addr:suburb": "Jardim San Izidro",
         "amenity": "school",
-        "name": "ESCOLA MUNICIPAL SAN IZIDRO",
+        "email": "san.izidro@londrina.pr.gov.br",
+        "name": "Escola Municipal San Izidro",
+        "operator": "Secretaria Municipal de Educação",
+        "operator:type": "government",
+        "phone": "+55 43 3375 0171",
+        "religion": "none",
+        "source": "https://repositorio.londrina.pr.gov.br/index.php/menu-educacao/unidades-escolares/225-escolas-urbanas/file",
         "id": "way/616934086"
       },
       "geometry": {
@@ -5649,24 +5676,40 @@
         "coordinates": [
           [
             [
-              -51.1320325,
-              -23.3362881
+              -51.1331905,
+              -23.3357842
             ],
             [
-              -51.13183,
-              -23.3358589
+              -51.1330418,
+              -23.3354702
             ],
             [
-              -51.1329149,
-              -23.3354756
+              -51.1340147,
+              -23.3351506
             ],
             [
-              -51.1331124,
-              -23.3358451
+              -51.1341853,
+              -23.3353762
             ],
             [
-              -51.1320325,
-              -23.3362881
+              -51.1341672,
+              -23.3354074
+            ],
+            [
+              -51.1340395,
+              -23.3353906
+            ],
+            [
+              -51.1336811,
+              -23.3355259
+            ],
+            [
+              -51.1336822,
+              -23.335579
+            ],
+            [
+              -51.1331905,
+              -23.3357842
             ]
           ]
         ]
@@ -6992,45 +7035,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/617177180",
-      "properties": {
-        "timestamp": "2018-08-15T12:58:53Z",
-        "version": 1,
-        "changeset": 61684787,
-        "amenity": "school",
-        "name": "GUIOMAR MOREIRA - SERV. AÇÃO SOCIAL IGR. EVANG. QUADRANGULAR",
-        "id": "way/617177180"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -51.1258495,
-              -23.2789217
-            ],
-            [
-              -51.125696,
-              -23.2792185
-            ],
-            [
-              -51.1253836,
-              -23.2791072
-            ],
-            [
-              -51.1255263,
-              -23.2787931
-            ],
-            [
-              -51.1258495,
-              -23.2789217
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/617177727",
       "properties": {
         "timestamp": "2018-08-15T13:02:58Z",
@@ -8028,11 +8032,19 @@
       "type": "Feature",
       "id": "way/617402532",
       "properties": {
-        "timestamp": "2024-01-18T15:22:26Z",
-        "version": 2,
-        "changeset": 146409933,
+        "timestamp": "2024-01-21T00:36:56Z",
+        "version": 3,
+        "changeset": 146497072,
+        "addr:housenumber": "326",
+        "addr:postcode": "86030-180",
+        "addr:street": "Rua Brilhante",
+        "addr:suburb": "Waldemar Hauer",
         "amenity": "school",
-        "name": "Colégio Estadual Professora Celia Moraes de Oliveira",
+        "email": "ldaceliaoliveira@seed.pr.gov.br",
+        "name": "Colégio Estadual Professora Célia Moraes de Oliveira",
+        "operator": "Secretaria da Educação do Estado de São Paulo",
+        "operator:type": "government",
+        "phone": "+55 43 3325 4581",
         "religion": "none",
         "id": "way/617402532"
       },
@@ -10652,6 +10664,59 @@
             [
               -51.1397487,
               -23.3676264
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1241531257",
+      "properties": {
+        "timestamp": "2024-01-21T02:52:59Z",
+        "version": 2,
+        "changeset": 146498854,
+        "addr:housenumber": "285",
+        "addr:postcode": "86040-500",
+        "addr:street": "Rua Maria de Oliveira Melo",
+        "addr:suburb": "Jardim San Izidro",
+        "amenity": "school",
+        "email": "ldahebervargas@seed.pr.gov.br",
+        "name": "Colégio Estadual Professor Doutor Heber Soares Vargas",
+        "operator": "Secretaria da Educação do Estado de São Paulo",
+        "operator:type": "government",
+        "phone": "+55 43 3326-2460",
+        "religion": "none",
+        "source": "https://www.nre.seed.pr.gov.br/modules/conteudo/conteudo.php?conteudo=538",
+        "id": "way/1241531257"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.1330243,
+              -23.3355054
+            ],
+            [
+              -51.1331497,
+              -23.3357913
+            ],
+            [
+              -51.1320365,
+              -23.3362376
+            ],
+            [
+              -51.1318528,
+              -23.3359208
+            ],
+            [
+              -51.131864,
+              -23.335853
+            ],
+            [
+              -51.1330243,
+              -23.3355054
             ]
           ]
         ]

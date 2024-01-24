@@ -49,21 +49,53 @@
     },
     {
       "type": "Feature",
-      "id": "node/1873744683",
+      "id": "way/1241748029",
       "properties": {
-        "timestamp": "2014-04-01T21:31:47Z",
-        "version": 2,
-        "changeset": 21447553,
+        "timestamp": "2024-01-21T20:31:55Z",
+        "version": 1,
+        "changeset": 146527162,
+        "addr:city": "Piracicaba",
+        "addr:housenumber": "28",
+        "addr:postcode": "13420-520",
+        "addr:street": "Rua Fernando Barella",
+        "addr:suburb": "Maracanã",
         "amenity": "kindergarten",
-        "name": "Nova Creche Piracicamirim",
-        "source": "local visit",
-        "id": "node/1873744683"
+        "name": "Escola Municipal Prof.ª Olivia de Almeida Carvalho Feres",
+        "operator": "Prefeitura de Piracicaba",
+        "operator:type": "public/government",
+        "phone": "+55 19 34113489",
+        "preschool": "yes",
+        "id": "way/1241748029"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -47.6246863,
-          -22.7462363
+          [
+            [
+              -47.6243801,
+              -22.7464864
+            ],
+            [
+              -47.6246616,
+              -22.7458936
+            ],
+            [
+              -47.6246163,
+              -22.7457511
+            ],
+            [
+              -47.6251191,
+              -22.7459497
+            ],
+            [
+              -47.6247839,
+              -22.7466507
+            ],
+            [
+              -47.6243801,
+              -22.7464864
+            ]
+          ]
         ]
       }
     }

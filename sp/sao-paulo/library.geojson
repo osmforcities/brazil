@@ -2759,6 +2759,83 @@
     },
     {
       "type": "Feature",
+      "id": "way/1241802278",
+      "properties": {
+        "timestamp": "2024-01-22T01:47:11Z",
+        "version": 2,
+        "changeset": 146533550,
+        "addr:housenumber": "290",
+        "addr:postcode": "03272-000",
+        "addr:street": "Rua José Joaquim",
+        "amenity": "library",
+        "barrier": "wall",
+        "email": "bcsp.gfreyre@prefeitura.sp.gov.br",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Biblioteca Gilberto Freyre",
+        "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-16:00; Su 09:00-13:00",
+        "phone": "+55 11 2143-1811",
+        "website": "https://www.prefeitura.sp.gov.br/cidade/secretarias/cultura/bibliotecas/bibliotecas_bairro/bibliotecas_a_l/gilbertofreire/",
+        "id": "way/1241802278"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.5168221,
+              -23.6008306
+            ],
+            [
+              -46.5168851,
+              -23.6009163
+            ],
+            [
+              -46.5170273,
+              -23.6011095
+            ],
+            [
+              -46.5169891,
+              -23.6011371
+            ],
+            [
+              -46.516732,
+              -23.6013178
+            ],
+            [
+              -46.5167041,
+              -23.6013386
+            ],
+            [
+              -46.516515,
+              -23.6011385
+            ],
+            [
+              -46.516502,
+              -23.6011139
+            ],
+            [
+              -46.5165112,
+              -23.601085
+            ],
+            [
+              -46.5165939,
+              -23.6010366
+            ],
+            [
+              -46.5166237,
+              -23.6009587
+            ],
+            [
+              -46.5168221,
+              -23.6008306
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/745741470",
       "properties": {
         "timestamp": "2019-09-13T19:27:12Z",
@@ -3614,34 +3691,6 @@
         "coordinates": [
           -46.5720886,
           -23.5361409
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/5263808169",
-      "properties": {
-        "timestamp": "2019-08-29T12:17:59Z",
-        "version": 4,
-        "changeset": 73880347,
-        "addr:housenumber": "290",
-        "addr:postcode": "03272-000",
-        "addr:street": "Rua José Joaquim",
-        "amenity": "library",
-        "email": "bcsp.gfreyre@prefeitura.sp.gov.br",
-        "internet_access": "wlan",
-        "internet_access:fee": "no",
-        "name": "Biblioteca Gilberto Freyre",
-        "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-16:00; Su 09:00-13:00",
-        "phone": "+55 11 2143-1811",
-        "website": "https://www.prefeitura.sp.gov.br/cidade/secretarias/cultura/bibliotecas/bibliotecas_bairro/bibliotecas_a_l/gilbertofreire/",
-        "id": "node/5263808169"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -46.5165884,
-          -23.6013782
         ]
       }
     },

@@ -33202,6 +33202,66 @@
     },
     {
       "type": "Feature",
+      "id": "way/468171656",
+      "properties": {
+        "timestamp": "2024-01-22T01:45:57Z",
+        "version": 2,
+        "changeset": 146533533,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "302",
+        "addr:postcode": "02251-090",
+        "addr:street": "Rua José Joaquim",
+        "amenity": "school",
+        "barrier": "wall",
+        "name": "EMEF Emilio Ribas",
+        "id": "way/468171656"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.5170273,
+              -23.6011095
+            ],
+            [
+              -46.5175433,
+              -23.6018127
+            ],
+            [
+              -46.5173193,
+              -23.601955
+            ],
+            [
+              -46.5170677,
+              -23.6016984
+            ],
+            [
+              -46.5170436,
+              -23.601675
+            ],
+            [
+              -46.517032,
+              -23.6016635
+            ],
+            [
+              -46.5167041,
+              -23.6013386
+            ],
+            [
+              -46.516732,
+              -23.6013178
+            ],
+            [
+              -46.5170273,
+              -23.6011095
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/468773587",
       "properties": {
         "timestamp": "2017-03-01T04:47:38Z",
@@ -106935,6 +106995,28 @@
         "coordinates": [
           -46.6235548,
           -23.5693905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11538706925",
+      "properties": {
+        "timestamp": "2024-01-22T01:45:57Z",
+        "version": 1,
+        "changeset": 146533533,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "302",
+        "addr:postcode": "02251-090",
+        "addr:street": "Rua José Joaquim",
+        "entrance": "yes",
+        "id": "node/11538706925"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.517032,
+          -23.6016635
         ]
       }
     }

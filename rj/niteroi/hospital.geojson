@@ -298,6 +298,139 @@
     },
     {
       "type": "Feature",
+      "id": "relation/17067972",
+      "properties": {
+        "timestamp": "2024-01-23T00:19:07Z",
+        "version": 1,
+        "changeset": 146573633,
+        "addr:housename": "S/N",
+        "addr:postcode": "24350-210",
+        "addr:street": "Estrada Francisco da Cruz Nunes",
+        "amenity": "hospital",
+        "building": "hospital",
+        "healthcare": "hospital",
+        "name": "Unidade Municipal de Emergência Doutor Mário Monteiro",
+        "phone": "+55-21-26191962",
+        "type": "multipolygon",
+        "website": "http://cnes.datasus.gov.br/Exibe_Ficha_Estabelecimento.asp?VCo_Unidade=3303305935377",
+        "id": "relation/17067972"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -43.0638587,
+                -22.9289261
+              ],
+              [
+                -43.0640105,
+                -22.9290844
+              ],
+              [
+                -43.0640643,
+                -22.9290854
+              ],
+              [
+                -43.0641128,
+                -22.9291388
+              ],
+              [
+                -43.0640785,
+                -22.9291644
+              ],
+              [
+                -43.0639673,
+                -22.9292476
+              ],
+              [
+                -43.0638123,
+                -22.9290873
+              ],
+              [
+                -43.0637469,
+                -22.9291369
+              ],
+              [
+                -43.0636889,
+                -22.9290728
+              ],
+              [
+                -43.0637606,
+                -22.9290262
+              ],
+              [
+                -43.0636636,
+                -22.92903
+              ],
+              [
+                -43.0636699,
+                -22.9289523
+              ],
+              [
+                -43.0637142,
+                -22.9289514
+              ],
+              [
+                -43.0637248,
+                -22.9289077
+              ],
+              [
+                -43.0637849,
+                -22.9289057
+              ],
+              [
+                -43.063788,
+                -22.9288805
+              ],
+              [
+                -43.0638408,
+                -22.9288824
+              ],
+              [
+                -43.0638397,
+                -22.9289222
+              ],
+              [
+                -43.0638587,
+                -22.9289261
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -43.0640785,
+                -22.9291644
+              ],
+              [
+                -43.0641318,
+                -22.9292194
+              ],
+              [
+                -43.0640074,
+                -22.9293214
+              ],
+              [
+                -43.0639578,
+                -22.9292631
+              ],
+              [
+                -43.0639673,
+                -22.9292476
+              ],
+              [
+                -43.0640785,
+                -22.9291644
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/119521929",
       "properties": {
         "timestamp": "2023-07-12T06:11:24Z",
@@ -1775,156 +1908,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/291392103",
-      "properties": {
-        "timestamp": "2015-07-04T02:56:37Z",
-        "version": 2,
-        "changeset": 32402167,
-        "addr:housename": "S/N",
-        "addr:postcode": "24350-210",
-        "addr:street": "Estrada Francisco da Cruz Nunes",
-        "amenity": "hospital",
-        "building": "hospital",
-        "name": "Unidade Municipal de Emergência Doutor Mário Monteiro",
-        "phone": "+55-21-26191962",
-        "website": "http://cnes.datasus.gov.br/Exibe_Ficha_Estabelecimento.asp?VCo_Unidade=3303305935377",
-        "id": "way/291392103"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -43.0638587,
-              -22.9289261
-            ],
-            [
-              -43.0640105,
-              -22.9290844
-            ],
-            [
-              -43.0640643,
-              -22.9290854
-            ],
-            [
-              -43.0641128,
-              -22.9291388
-            ],
-            [
-              -43.0640785,
-              -22.9291644
-            ],
-            [
-              -43.0639673,
-              -22.9292476
-            ],
-            [
-              -43.0638123,
-              -22.9290873
-            ],
-            [
-              -43.0637469,
-              -22.9291369
-            ],
-            [
-              -43.0636889,
-              -22.9290728
-            ],
-            [
-              -43.0637606,
-              -22.9290262
-            ],
-            [
-              -43.0636636,
-              -22.92903
-            ],
-            [
-              -43.0636699,
-              -22.9289523
-            ],
-            [
-              -43.0637142,
-              -22.9289514
-            ],
-            [
-              -43.0637248,
-              -22.9289077
-            ],
-            [
-              -43.0637849,
-              -22.9289057
-            ],
-            [
-              -43.063788,
-              -22.9288805
-            ],
-            [
-              -43.0638408,
-              -22.9288824
-            ],
-            [
-              -43.0638397,
-              -22.9289222
-            ],
-            [
-              -43.0638587,
-              -22.9289261
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/291392149",
-      "properties": {
-        "timestamp": "2015-07-04T02:56:38Z",
-        "version": 2,
-        "changeset": 32402167,
-        "addr:housename": "S/N",
-        "addr:postcode": "24350-210",
-        "addr:street": "Estrada Francisco da Cruz Nunes",
-        "amenity": "hospital",
-        "building": "hospital",
-        "name": "Unidade Municipal de Emergência Doutor Mário Monteiro",
-        "phone": "+55-21-26191962",
-        "website": "http://cnes.datasus.gov.br/Exibe_Ficha_Estabelecimento.asp?VCo_Unidade=3303305935377",
-        "id": "way/291392149"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -43.0640785,
-              -22.9291644
-            ],
-            [
-              -43.0641318,
-              -22.9292194
-            ],
-            [
-              -43.0640074,
-              -22.9293214
-            ],
-            [
-              -43.0639578,
-              -22.9292631
-            ],
-            [
-              -43.0639673,
-              -22.9292476
-            ],
-            [
-              -43.0640785,
-              -22.9291644
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/405114335",
       "properties": {
         "timestamp": "2023-10-05T14:00:51Z",
@@ -2985,12 +2968,15 @@
       "type": "Feature",
       "id": "way/1108833490",
       "properties": {
-        "timestamp": "2023-04-24T00:50:59Z",
-        "version": 2,
-        "changeset": 135281004,
+        "timestamp": "2024-01-23T00:44:36Z",
+        "version": 3,
+        "changeset": 146573936,
         "amenity": "hospital",
+        "emergency": "yes",
         "healthcare": "hospital",
         "name": "Hospital Itaipu",
+        "operator": "Unimed Leste Fluminense",
+        "operator:type": "private",
         "id": "way/1108833490"
       },
       "geometry": {

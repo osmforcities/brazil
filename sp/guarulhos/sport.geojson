@@ -10091,6 +10091,49 @@
     },
     {
       "type": "Feature",
+      "id": "way/1242103441",
+      "properties": {
+        "timestamp": "2024-01-23T02:15:48Z",
+        "version": 1,
+        "changeset": 146575371,
+        "access": "unknown",
+        "covered": "no",
+        "leisure": "pitch",
+        "lit": "no",
+        "sport": "soccer",
+        "surface": "dirt",
+        "id": "way/1242103441"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.5532656,
+              -23.4236607
+            ],
+            [
+              -46.5530589,
+              -23.4232623
+            ],
+            [
+              -46.553206,
+              -23.423198
+            ],
+            [
+              -46.5534126,
+              -23.4235965
+            ],
+            [
+              -46.5532656,
+              -23.4236607
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/6353494272",
       "properties": {
         "timestamp": "2022-02-19T17:52:33Z",
@@ -10617,6 +10660,25 @@
         "coordinates": [
           -46.4197964,
           -23.4664755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11541865409",
+      "properties": {
+        "timestamp": "2024-01-23T02:15:48Z",
+        "version": 1,
+        "changeset": 146575371,
+        "leisure": "fitness_station",
+        "sport": "fitness",
+        "id": "node/11541865409"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5528364,
+          -23.4230663
         ]
       }
     }

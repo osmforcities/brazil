@@ -104,14 +104,23 @@
       "type": "Feature",
       "id": "way/286483094",
       "properties": {
-        "timestamp": "2023-04-30T03:55:46Z",
-        "version": 4,
-        "changeset": 135523093,
+        "timestamp": "2024-01-23T07:44:16Z",
+        "version": 5,
+        "changeset": 146579762,
+        "addr:city": "Alegrete",
+        "addr:country": "BR",
         "addr:housenumber": "535",
-        "addr:postcode": "97541-261",
+        "addr:state": "RS",
         "addr:street": "Rua General Sampaio",
+        "addr:suburb": "Centro",
         "amenity": "school",
+        "contact:phone": "+55 (55) 34221875",
         "name": "Instituto Estadual de Educação Oswaldo Aranha",
+        "operator": "Secretaria da Educação do Rio Grande do Sul",
+        "operator:wikidata": "Q118145819",
+        "postal_code": "97541-261",
+        "ref:INEP": "43012469",
+        "short_name": "IEE Oswaldo Aranha",
         "id": "way/286483094"
       },
       "geometry": {
@@ -402,9 +411,9 @@
       "type": "Feature",
       "id": "way/1167470204",
       "properties": {
-        "timestamp": "2024-01-22T03:55:10Z",
-        "version": 2,
-        "changeset": 146534330,
+        "timestamp": "2024-01-23T07:44:16Z",
+        "version": 3,
+        "changeset": 146579762,
         "addr:state": "RS",
         "amenity": "school",
         "name": "Escola de Ensino Infantil Agape",
@@ -420,8 +429,16 @@
               -29.7699245
             ],
             [
-              -55.786458,
-              -29.7710363
+              -55.7862655,
+              -29.770449
+            ],
+            [
+              -55.7859755,
+              -29.7705265
+            ],
+            [
+              -55.7861739,
+              -29.7710858
             ],
             [
               -55.7850578,
@@ -559,18 +576,25 @@
       "type": "Feature",
       "id": "way/1219403576",
       "properties": {
-        "timestamp": "2023-10-29T23:12:02Z",
-        "version": 1,
-        "changeset": 143335576,
+        "timestamp": "2024-01-23T07:44:16Z",
+        "version": 2,
+        "changeset": 146579762,
         "addr:city": "Alegrete",
+        "addr:country": "BR",
         "addr:housenumber": "309",
-        "addr:postcode": "97542-360",
+        "addr:state": "RS",
         "addr:street": "Rua Joaquim Antônio",
         "addr:suburb": "Centro",
         "amenity": "school",
-        "email": "freitasvalle10cre@educacao.rs.gov.br",
-        "name": "EEEF Freitas Valle",
-        "phone": "+55 55 34222766",
+        "contact:email": "freitasvalle10cre@educacao.rs.gov.br",
+        "contact:phone": "+55 (55) 34222766",
+        "name": "Escola Freitas Valle",
+        "official_name": "Escola Estadual de Ensino Fundamental Freitas Valle",
+        "operator": "Secretaria da Educação do Rio Grande do Sul",
+        "operator:wikidata": "Q118145819",
+        "postal_code": "97542-360",
+        "ref:INEP": "43012248",
+        "short_name": "EEEF Freitas Valle",
         "id": "way/1219403576"
       },
       "geometry": {
@@ -605,18 +629,24 @@
       "type": "Feature",
       "id": "way/1226743629",
       "properties": {
-        "timestamp": "2023-11-25T17:17:19Z",
-        "version": 2,
-        "changeset": 144448061,
+        "timestamp": "2024-01-23T07:44:16Z",
+        "version": 3,
+        "changeset": 146579762,
         "addr:city": "Alegrete",
+        "addr:country": "BR",
         "addr:housenumber": "781",
-        "addr:postcode": "97544-020",
+        "addr:state": "RS",
         "addr:street": "Rua Alonso Medeiros",
         "addr:suburb": "Joaquim Fonseca Milano",
         "amenity": "school",
-        "email": "cpmromari@hotmail.com",
-        "name": "Escola Estadual de Ensino Médio Dr. Romario Araujo de Oliveira",
-        "phone": "+55 55 34228674",
+        "contact:email": "cpmromari@hotmail.com",
+        "name": "Escola Doutor Romário Araújo de Oliveira",
+        "official_name": "Escola Estadual de Ensino Médio Doutor Romário Araújo de Oliveira",
+        "operator": "Secretaria da Educação do Rio Grande do Sul",
+        "operator:wikidata": "Q118145819",
+        "postal_code": "97544-020",
+        "ref:INEP": "43171443",
+        "short_name": "EEEM Doutor Romário Araújo de Oliveira",
         "id": "way/1226743629"
       },
       "geometry": {
@@ -791,66 +821,28 @@
     },
     {
       "type": "Feature",
-      "id": "way/1227194484",
-      "properties": {
-        "timestamp": "2023-12-03T18:42:32Z",
-        "version": 2,
-        "changeset": 144728952,
-        "amenity": "school",
-        "name": "EMEB Waldemar Borges",
-        "id": "way/1227194484"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -55.7502857,
-              -29.8060114
-            ],
-            [
-              -55.7505754,
-              -29.8066351
-            ],
-            [
-              -55.7499585,
-              -29.806926
-            ],
-            [
-              -55.7497305,
-              -29.806563
-            ],
-            [
-              -55.7499585,
-              -29.806428
-            ],
-            [
-              -55.7498404,
-              -29.8061789
-            ],
-            [
-              -55.7502857,
-              -29.8060114
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/1228303750",
       "properties": {
-        "timestamp": "2023-12-02T20:15:52Z",
-        "version": 1,
-        "changeset": 144702989,
+        "timestamp": "2024-01-23T07:44:16Z",
+        "version": 2,
+        "changeset": 146579762,
         "addr:city": "Alegrete",
+        "addr:country": "BR",
         "addr:housenumber": "105",
-        "addr:postcode": "97545-310",
+        "addr:state": "RS",
         "addr:street": "Rua João Pessoa",
+        "addr:suburb": "Novo Lar",
         "amenity": "school",
+        "contact:phone": "+55 (55) 34221326",
         "email": "josebonifacio10cre@educacao.rs.gov.br",
-        "name": "EEEM José Bonifácio",
+        "name": "Escola José Bonifácio",
+        "official_name": "Escola Estadual de Ensino Médio José Bonifácio",
+        "operator": "Secretaria da Educação do Rio Grande do Sul",
+        "operator:wikidata": "Q118145819",
         "phone": "+55 55 34221326",
+        "postal_code": "97545-310",
+        "ref:INEP": "43012132",
+        "short_name": "EEEM José Bonifácio",
         "id": "way/1228303750"
       },
       "geometry": {
@@ -887,91 +879,25 @@
     },
     {
       "type": "Feature",
-      "id": "way/1228480346",
-      "properties": {
-        "timestamp": "2023-12-03T18:42:32Z",
-        "version": 1,
-        "changeset": 144728952,
-        "amenity": "school",
-        "name": "EMEI Arnaldo da Costa Paz",
-        "id": "way/1228480346"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -55.7695694,
-              -29.8022619
-            ],
-            [
-              -55.7699476,
-              -29.8020734
-            ],
-            [
-              -55.7704169,
-              -29.8027823
-            ],
-            [
-              -55.7700388,
-              -29.8029708
-            ],
-            [
-              -55.7695694,
-              -29.8022619
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1228506248",
-      "properties": {
-        "timestamp": "2023-12-03T22:41:57Z",
-        "version": 2,
-        "changeset": 144734739,
-        "amenity": "school",
-        "name": "EMEI Sergio Augusto Bello Pereira - Guto Pereira",
-        "id": "way/1228506248"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -55.7581846,
-              -29.7951055
-            ],
-            [
-              -55.7586629,
-              -29.7954399
-            ],
-            [
-              -55.7583383,
-              -29.7957896
-            ],
-            [
-              -55.75786,
-              -29.7954551
-            ],
-            [
-              -55.7581846,
-              -29.7951055
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/1228506253",
       "properties": {
-        "timestamp": "2023-12-03T21:10:35Z",
-        "version": 1,
-        "changeset": 144732821,
+        "timestamp": "2024-01-23T07:44:16Z",
+        "version": 2,
+        "changeset": 146579762,
+        "addr:city": "Alegrete",
+        "addr:country": "BR",
+        "addr:state": "RS",
+        "addr:street": "Rua Marcirio Rodrigues",
+        "addr:suburb": "Vera Cruz",
         "amenity": "school",
-        "name": "EEEF Farroupilha",
+        "contact:phone": "+55 (55) 34222326",
+        "name": "Escola Faroupilha",
+        "official_name": "Escola Estadual de Ensino Fundamental Farroupilha",
+        "operator": "Secretaria da Educação do Rio Grande do Sul",
+        "operator:wikidata": "Q118145819",
+        "postal_code": "97544-300",
+        "ref:INEP": "43012302",
+        "short_name": "EEEF Farroupilha",
         "id": "way/1228506253"
       },
       "geometry": {
@@ -1006,11 +932,24 @@
       "type": "Feature",
       "id": "way/1228509463",
       "properties": {
-        "timestamp": "2023-12-03T21:26:48Z",
-        "version": 1,
-        "changeset": 144733210,
+        "timestamp": "2024-01-23T07:44:16Z",
+        "version": 2,
+        "changeset": 146579762,
+        "addr:city": "Alegrete",
+        "addr:country": "BR",
+        "addr:housenumber": "2255",
+        "addr:state": "RS",
+        "addr:street": "Rua Barros Cassal",
+        "addr:suburb": "Vera Cruz",
         "amenity": "school",
-        "name": "Colégio Estadual Emílio Zuñeda",
+        "contact:phone": "+55 (55) 34221703",
+        "name": "Colégio Emílio Zuñeda",
+        "official_name": "Colégio Estadual Emílio Zuñeda",
+        "operator": "Secretaria da Educação do Rio Grande do Sul",
+        "operator:wikidata": "Q118145819",
+        "postal_code": "97543-060",
+        "ref:INEP": "43011721",
+        "short_name": "EC Emílio Zuñeda",
         "id": "way/1228509463"
       },
       "geometry": {
@@ -1429,18 +1368,23 @@
       "type": "Feature",
       "id": "way/1230004478",
       "properties": {
-        "timestamp": "2023-12-09T23:17:48Z",
-        "version": 1,
-        "changeset": 144950759,
+        "timestamp": "2024-01-23T07:44:16Z",
+        "version": 2,
+        "changeset": 146579762,
         "addr:city": "Alegrete",
         "addr:country": "BR",
         "addr:housenumber": "238",
-        "addr:postcode": "97542-060",
+        "addr:state": "RS",
         "addr:street": "Rua Arnaldo Balve",
-        "addr:suburb": "Izabel",
+        "addr:suburb": "Vila Izabel",
         "amenity": "school",
-        "name": "EMEB Princesa Isabel",
-        "phone": "+55 55 39611685",
+        "contact:phone": "+55 (55) 39611685",
+        "name": "Escola Princesa Isabel",
+        "official_name": "Escola Municipal de Educação Básica Princesa Isabel",
+        "operator": "Prefeitura Municipal de Alegrete",
+        "postal_code": "97542-060",
+        "ref:INEP": "43012078",
+        "short_name": "EMEBPrincesa Isabel",
         "id": "way/1230004478"
       },
       "geometry": {
@@ -1584,11 +1528,23 @@
       "type": "Feature",
       "id": "way/1230005342",
       "properties": {
-        "timestamp": "2023-12-09T23:25:23Z",
-        "version": 1,
-        "changeset": 144950884,
+        "timestamp": "2024-01-23T07:44:16Z",
+        "version": 2,
+        "changeset": 146579762,
+        "addr:city": "Alegrete",
+        "addr:country": "BR",
+        "addr:housenumber": "41",
+        "addr:state": "RS",
+        "addr:street": "Rua Adelio Conceição de Ávila",
+        "addr:suburb": "Getúlio Vargas",
         "amenity": "school",
-        "name": "EMEB Marcelo de Freitas Faraco",
+        "contact:phone": "+55 (55) 39611120",
+        "name": "Escola Marcelo de Freitas Faraco",
+        "official_name": "Escola Municipal de Educação Básica Marcelo de Freitas Faraco",
+        "operator": "Prefeitura Municipal de Alegrete",
+        "postal_code": "97546-075",
+        "ref:INEP": "43012590",
+        "short_name": "EMEB Marcelo de Freitas Faraco",
         "id": "way/1230005342"
       },
       "geometry": {
@@ -1813,10 +1769,23 @@
       "type": "Feature",
       "id": "way/1230032919",
       "properties": {
-        "timestamp": "2023-12-10T04:11:28Z",
-        "version": 1,
-        "changeset": 144954012,
+        "timestamp": "2024-01-23T07:44:16Z",
+        "version": 2,
+        "changeset": 146579762,
+        "addr:city": "Alegrete",
+        "addr:country": "BR",
+        "addr:housenumber": "306",
+        "addr:state": "RS",
+        "addr:street": "Avenida Major João Cezimbra Jacques",
+        "addr:suburb": "Cidade Alta",
         "amenity": "school",
+        "name": "Escola Tancredo de Almeida Neves",
+        "official_name": "Escola Estadual de Ensino Médio Tancredo de Almeida Neves",
+        "operator": "Secretaria da Educação do Rio Grande do Sul",
+        "operator:wikidata": "Q118145819",
+        "postal_code": "97543-390",
+        "ref:INEP": "43169589",
+        "short_name": "EEEM Tancredo de Almeida Neves",
         "id": "way/1230032919"
       },
       "geometry": {
@@ -2273,6 +2242,318 @@
     },
     {
       "type": "Feature",
+      "id": "way/1242140165",
+      "properties": {
+        "timestamp": "2024-01-23T07:44:16Z",
+        "version": 1,
+        "changeset": 146579762,
+        "addr:city": "Alegrete",
+        "addr:country": "BR",
+        "addr:district": "Passo Novo",
+        "addr:housenumber": "281",
+        "addr:state": "RS",
+        "addr:street": "Rua Bento Gonçalves",
+        "amenity": "school",
+        "contact:phone": "+55 (55) 34250210",
+        "name": "Escola Barros Cassal",
+        "official_name": "Escola Estadual de Ensino Fundamental Barros Cassal",
+        "operator": "Secretaria da Educação do Rio Grande do Sul",
+        "operator:wikidata": "Q118145819",
+        "postal_code": "97555-000",
+        "ref:INEP": "43012213",
+        "short_name": "EEEF Barros Cassal",
+        "id": "way/1242140165"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -55.5432647,
+              -29.679107
+            ],
+            [
+              -55.543659,
+              -29.6792515
+            ],
+            [
+              -55.5431655,
+              -29.6801486
+            ],
+            [
+              -55.5428034,
+              -29.6799552
+            ],
+            [
+              -55.5432647,
+              -29.679107
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1242140171",
+      "properties": {
+        "timestamp": "2024-01-23T07:44:16Z",
+        "version": 1,
+        "changeset": 146579762,
+        "addr:city": "Alegrete",
+        "addr:country": "BR",
+        "addr:state": "Rio Grande do Sul",
+        "addr:suburb": "Rincão de São Miguel",
+        "amenity": "school",
+        "contact:mobile": "+55 (55) 996095433",
+        "name": "Escola Alfredo Soares Leaes",
+        "official_name": "Escola Municipal de Educação Básica Alfredo Soares Leaes",
+        "operator": "Prefeitura Municipal de Alegrete",
+        "postal_code": "97541-970",
+        "ref:INEP": "43012116",
+        "short_name": "EMEB Alfredo Soares Leaes",
+        "id": "way/1242140171"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -55.7727143,
+              -29.5793204
+            ],
+            [
+              -55.7727473,
+              -29.5785195
+            ],
+            [
+              -55.7737484,
+              -29.5785936
+            ],
+            [
+              -55.7737336,
+              -29.5787453
+            ],
+            [
+              -55.7736102,
+              -29.580005
+            ],
+            [
+              -55.772253,
+              -29.5801403
+            ],
+            [
+              -55.7721189,
+              -29.5795478
+            ],
+            [
+              -55.7727143,
+              -29.5793204
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1242140177",
+      "properties": {
+        "timestamp": "2024-01-23T07:44:16Z",
+        "version": 1,
+        "changeset": 146579762,
+        "addr:city": "Alegrete",
+        "addr:country": "BR",
+        "addr:state": "Rio Grande do Sul",
+        "addr:suburb": "Durasnal",
+        "amenity": "school",
+        "contact:mobile": "+55 (55) 999543385",
+        "name": "Escola João André Figueira",
+        "official_name": "Escola Municipal de Educação Básica João André Figueira",
+        "operator": "Prefeitura Municipal de Alegrete",
+        "postal_code": "97541-970",
+        "ref:INEP": "43012175",
+        "short_name": "EMEB João André Figueira",
+        "id": "way/1242140177"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -55.5225956,
+              -29.9284407
+            ],
+            [
+              -55.5223918,
+              -29.927748
+            ],
+            [
+              -55.5230524,
+              -29.9272556
+            ],
+            [
+              -55.523132,
+              -29.9272314
+            ],
+            [
+              -55.5232716,
+              -29.92739
+            ],
+            [
+              -55.5235061,
+              -29.927235
+            ],
+            [
+              -55.5238661,
+              -29.9276442
+            ],
+            [
+              -55.524272,
+              -29.927848
+            ],
+            [
+              -55.5241782,
+              -29.9284547
+            ],
+            [
+              -55.5241299,
+              -29.9285221
+            ],
+            [
+              -55.523757,
+              -29.9284314
+            ],
+            [
+              -55.5233825,
+              -29.9285143
+            ],
+            [
+              -55.5231531,
+              -29.9285651
+            ],
+            [
+              -55.5225956,
+              -29.9284407
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1242140208",
+      "properties": {
+        "timestamp": "2024-01-23T07:44:16Z",
+        "version": 1,
+        "changeset": 146579762,
+        "addr:city": "Alegrete",
+        "addr:country": "BR",
+        "addr:hamlet": "Rincão do 28",
+        "addr:state": "Rio Grande do Sul",
+        "amenity": "school",
+        "contact:mobile": "+55 (55) 997075706",
+        "name": "Escola Silvestre Gonçalves",
+        "official_name": "Escola Municipal de Educação Básica Silvestre Gonçalves",
+        "operator": "Prefeitura Municipal de Alegrete",
+        "postal_code": "97541-970",
+        "ref:INEP": "43011896",
+        "short_name": "EMEB Silvestre Gonçalves",
+        "id": "way/1242140208"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -55.734918,
+              -30.135561
+            ],
+            [
+              -55.7342783,
+              -30.1358037
+            ],
+            [
+              -55.7338867,
+              -30.1359347
+            ],
+            [
+              -55.7333835,
+              -30.1355293
+            ],
+            [
+              -55.7331598,
+              -30.1350046
+            ],
+            [
+              -55.7340181,
+              -30.1347308
+            ],
+            [
+              -55.7343882,
+              -30.1351785
+            ],
+            [
+              -55.7345465,
+              -30.1351182
+            ],
+            [
+              -55.734918,
+              -30.135561
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1242140210",
+      "properties": {
+        "timestamp": "2024-01-23T07:44:16Z",
+        "version": 1,
+        "changeset": 146579762,
+        "addr:city": "Alegrete",
+        "addr:country": "BR",
+        "addr:hamlet": "Jacaquá",
+        "addr:state": "Rio Grande do Sul",
+        "amenity": "school",
+        "contact:mobile": "+55 (55) 999643329",
+        "name": "Escola Costa Leite",
+        "official_name": "Escola Municipal de Educação Básica Costa Leite",
+        "operator": "Prefeitura Municipal de Alegrete",
+        "postal_code": "97541-970",
+        "ref:INEP": "43011802",
+        "short_name": "EMEB Costa Leite",
+        "id": "way/1242140210"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -55.3328481,
+              -29.8026808
+            ],
+            [
+              -55.3332639,
+              -29.8028507
+            ],
+            [
+              -55.3331754,
+              -29.8032092
+            ],
+            [
+              -55.3327355,
+              -29.8030509
+            ],
+            [
+              -55.3328481,
+              -29.8026808
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/11394472481",
       "properties": {
         "timestamp": "2023-12-04T16:49:48Z",
@@ -2286,6 +2567,99 @@
         "coordinates": [
           -55.7775493,
           -29.7857033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11542355705",
+      "properties": {
+        "timestamp": "2024-01-23T07:44:16Z",
+        "version": 1,
+        "changeset": 146579762,
+        "addr:city": "Alegrete",
+        "addr:country": "BR",
+        "addr:housenumber": "650",
+        "addr:state": "RS",
+        "addr:street": "Rua Alcides Santana Magalhães",
+        "addr:suburb": "Favila",
+        "amenity": "school",
+        "contact:phone": "+55 (55) 39611687",
+        "name": "Escola Waldemar Borges",
+        "official_name": "Escola Municipal de Educação Básica Waldemar Borges",
+        "operator": "Prefeitura Municipal de Alegrete",
+        "postal_code": "97547-020",
+        "ref:INEP": "43205810",
+        "short_name": "EMEB Waldemar Borges",
+        "id": "node/11542355705"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.7501999,
+          -29.8062767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11542355706",
+      "properties": {
+        "timestamp": "2024-01-23T07:44:16Z",
+        "version": 1,
+        "changeset": 146579762,
+        "addr:city": "Alegrete",
+        "addr:country": "BR",
+        "addr:housenumber": "650",
+        "addr:state": "RS",
+        "addr:street": "Rua Alcides Santana Magalhães",
+        "addr:suburb": "Favila",
+        "amenity": "school",
+        "contact:phone": "+55 (55) 39611687",
+        "name": "Escola Waldemar Borges",
+        "official_name": "Escola Estadual de Ensino Médio Waldemar Borges",
+        "operator": "Secretaria da Educação do Rio Grande do Sul",
+        "operator:wikidata": "Q118145819",
+        "postal_code": "97547-020",
+        "ref:INEP": "43247610",
+        "short_name": "EEEM Waldemar Borges",
+        "id": "node/11542355706"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.7503353,
+          -29.8065571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11542355707",
+      "properties": {
+        "timestamp": "2024-01-23T07:44:16Z",
+        "version": 1,
+        "changeset": 146579762,
+        "addr:city": "Alegrete",
+        "addr:country": "BR",
+        "addr:housenumber": "47",
+        "addr:state": "RS",
+        "addr:street": "Praça Getúlio Vargas",
+        "addr:suburb": "Centro",
+        "amenity": "school",
+        "contact:phone": "+55 (55) 34223318",
+        "name": "Colégio Professor Raymundo Carvalho",
+        "official_name": "Colégio da Urcamp Professor Raymundo Luiz Marinho Carvalho",
+        "operator": "Urcamp",
+        "postal_code": "97542-570",
+        "ref:INEP": "43012515",
+        "id": "node/11542355707"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.7917178,
+          -29.7838813
         ]
       }
     }

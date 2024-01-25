@@ -3,61 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": "way/286465260",
-      "properties": {
-        "timestamp": "2019-06-30T16:09:26Z",
-        "version": 3,
-        "changeset": 71759780,
-        "addr:city": "Alegrete",
-        "addr:housenumber": "47",
-        "addr:postcode": "97542-570",
-        "addr:street": "Praça Getúlio Vargas",
-        "amenity": "university",
-        "name": "URCAMP - Campus Alegrete",
-        "id": "way/286465260"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -55.7917426,
-              -29.7835772
-            ],
-            [
-              -55.7918423,
-              -29.7838825
-            ],
-            [
-              -55.7923346,
-              -29.7837614
-            ],
-            [
-              -55.7923782,
-              -29.7838949
-            ],
-            [
-              -55.7921253,
-              -29.7839563
-            ],
-            [
-              -55.7916831,
-              -29.7840669
-            ],
-            [
-              -55.7915387,
-              -29.7836274
-            ],
-            [
-              -55.7917426,
-              -29.7835772
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/353692716",
       "properties": {
         "timestamp": "2023-12-26T09:15:03Z",
@@ -395,13 +340,16 @@
       "type": "Feature",
       "id": "node/2901150065",
       "properties": {
-        "timestamp": "2014-06-05T16:58:08Z",
-        "version": 2,
-        "changeset": 22759289,
+        "timestamp": "2024-01-23T07:44:16Z",
+        "version": 3,
+        "changeset": 146579762,
         "addr:city": "Alegrete",
+        "addr:country": "BR",
         "addr:housenumber": "47",
         "addr:postcode": "97542-570",
+        "addr:state": "RS",
         "addr:street": "Praça Getúlio Vargas",
+        "addr:suburb": "Centro",
         "amenity": "university",
         "name": "URCAMP - Campus Alegrete",
         "id": "node/2901150065"
@@ -409,8 +357,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -55.7916745,
-          -29.7838213
+          -55.7916665,
+          -29.7837654
         ]
       }
     },

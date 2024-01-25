@@ -240,104 +240,6 @@
     },
     {
       "type": "Feature",
-      "id": "relation/3491818",
-      "properties": {
-        "timestamp": "2023-11-30T21:15:24Z",
-        "version": 5,
-        "changeset": 144640503,
-        "addr:city": "São Gonçalo",
-        "addr:housenumber": "785",
-        "addr:postcode": "24425-005",
-        "addr:street": "Rua Oliveira Botelho",
-        "addr:suburb": "Neves",
-        "amenity": "school",
-        "building": "yes",
-        "check_date": "29/11/2023",
-        "grades": "11-13",
-        "internet_access": "no",
-        "name": "Colégio Municipal Ernani Faria",
-        "note": "Local sem número",
-        "operator": "entidade estadual",
-        "operator:type": "school",
-        "phone": "+55 21 26289424",
-        "polling_station": "yes",
-        "religion": "no",
-        "source": "local knowledge",
-        "type": "multipolygon",
-        "id": "relation/3491818"
-      },
-      "geometry": {
-        "type": "MultiPolygon",
-        "coordinates": [
-          [
-            [
-              [
-                -43.0986474,
-                -22.8546598
-              ],
-              [
-                -43.0983142,
-                -22.8548314
-              ],
-              [
-                -43.0980394,
-                -22.8543783
-              ],
-              [
-                -43.0979509,
-                -22.8544239
-              ],
-              [
-                -43.0978447,
-                -22.854249
-              ],
-              [
-                -43.0984467,
-                -22.8539398
-              ],
-              [
-                -43.098555,
-                -22.8541268
-              ],
-              [
-                -43.0983828,
-                -22.8542224
-              ],
-              [
-                -43.0986474,
-                -22.8546598
-              ]
-            ]
-          ],
-          [
-            [
-              [
-                -43.098658,
-                -22.8541866
-              ],
-              [
-                -43.0983997,
-                -22.8537733
-              ],
-              [
-                -43.0986214,
-                -22.8536556
-              ],
-              [
-                -43.0988797,
-                -22.854069
-              ],
-              [
-                -43.098658,
-                -22.8541866
-              ]
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/33161095",
       "properties": {
         "timestamp": "2014-07-12T22:31:53Z",
@@ -3722,6 +3624,92 @@
             [
               -43.0478556,
               -22.799267
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1242093238",
+      "properties": {
+        "timestamp": "2024-01-23T00:03:42Z",
+        "version": 1,
+        "changeset": 146573427,
+        "addr:city": "São Gonçalo",
+        "addr:housenumber": "785",
+        "addr:postcode": "24425-005",
+        "addr:street": "Rua Oliveira Botelho",
+        "addr:suburb": "Neves",
+        "amenity": "school",
+        "check_date": "29/11/2023",
+        "grades": "11-13",
+        "internet_access": "no",
+        "name": "Colégio Municipal Ernani Faria",
+        "note": "Local sem número",
+        "operator": "entidade estadual",
+        "operator:type": "school",
+        "phone": "+55 21 26289424",
+        "polling_station": "yes",
+        "religion": "no",
+        "source": "local knowledge",
+        "id": "way/1242093238"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.0989779,
+              -22.8541998
+            ],
+            [
+              -43.0990153,
+              -22.8542472
+            ],
+            [
+              -43.0991011,
+              -22.8543421
+            ],
+            [
+              -43.0983048,
+              -22.8550748
+            ],
+            [
+              -43.0980173,
+              -22.8546204
+            ],
+            [
+              -43.0979819,
+              -22.8545636
+            ],
+            [
+              -43.097948,
+              -22.8545168
+            ],
+            [
+              -43.0976137,
+              -22.8540781
+            ],
+            [
+              -43.0975998,
+              -22.854054
+            ],
+            [
+              -43.0975983,
+              -22.8540313
+            ],
+            [
+              -43.0976121,
+              -22.8540086
+            ],
+            [
+              -43.0985534,
+              -22.8535174
+            ],
+            [
+              -43.0989779,
+              -22.8541998
             ]
           ]
         ]

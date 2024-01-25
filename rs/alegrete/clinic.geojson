@@ -3,6 +3,62 @@
   "features": [
     {
       "type": "Feature",
+      "id": "way/286485156",
+      "properties": {
+        "timestamp": "2024-01-23T07:54:39Z",
+        "version": 4,
+        "changeset": 146579762,
+        "addr:city": "Alegrete",
+        "addr:country": "BR",
+        "addr:housenumber": "88",
+        "addr:state": "RS",
+        "addr:street": "Rua General Sampaio",
+        "addr:suburb": "Vila Nova",
+        "amenity": "clinic",
+        "contact:phone": "+55 (55) 34222888",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Santa Casa Caridade",
+        "opening_hours": "24/7",
+        "operator": "Irmandade da Santa Casa de Caridade de Alegrete",
+        "postal_code": "97541-260",
+        "ref:CNES": "2248328",
+        "id": "way/286485156"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -55.7919109,
+              -29.7739964
+            ],
+            [
+              -55.7922671,
+              -29.7750567
+            ],
+            [
+              -55.7909248,
+              -29.7753965
+            ],
+            [
+              -55.7905686,
+              -29.7743362
+            ],
+            [
+              -55.7911762,
+              -29.7741824
+            ],
+            [
+              -55.7919109,
+              -29.7739964
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/929882215",
       "properties": {
         "timestamp": "2023-12-01T21:16:27Z",
@@ -455,14 +511,22 @@
       "type": "Feature",
       "id": "way/1227184315",
       "properties": {
-        "timestamp": "2023-11-27T16:23:39Z",
-        "version": 1,
-        "changeset": 144514768,
+        "timestamp": "2024-01-23T07:44:16Z",
+        "version": 2,
+        "changeset": 146579762,
+        "addr:housenumber": "315",
+        "addr:state": "RS",
+        "addr:street": "Rua Vereador Adolfo Souto Correa",
+        "addr:suburb": "Vila Nova",
         "amenity": "clinic",
         "building": "yes",
         "healthcare": "clinic",
         "name": "ESF Vila Nova",
+        "official_name": "Estratégia Saúde da Família Vila Nova",
+        "operator": "Prefeitura Municipal de Alegrete",
         "phone": "+55 55 39611126",
+        "postal_code": "97541-020",
+        "ref:CNES": "3061493",
         "id": "way/1227184315"
       },
       "geometry": {
@@ -903,6 +967,86 @@
               -29.8007089
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1242141464",
+      "properties": {
+        "timestamp": "2024-01-23T07:54:39Z",
+        "version": 1,
+        "changeset": 146579762,
+        "addr:city": "Alegrete",
+        "addr:country": "BR",
+        "addr:state": "RS",
+        "addr:street": "Rua Antônio Carlos Gomes Sauceda",
+        "addr:suburb": "Canudos",
+        "amenity": "clinic",
+        "name": "UPA Alegrete",
+        "nohousenumber": "yes",
+        "official_name": "Unidade de Pronto Atendimento de Alegrete",
+        "opening_hours": "24/7",
+        "operator": "Prefeitura Municipal de Alegrete",
+        "postal_code": "97541-475",
+        "ref:CNES": "7648227",
+        "id": "way/1242141464"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -55.7919109,
+              -29.7739964
+            ],
+            [
+              -55.7911762,
+              -29.7741824
+            ],
+            [
+              -55.7910131,
+              -29.7736967
+            ],
+            [
+              -55.7917477,
+              -29.7735107
+            ],
+            [
+              -55.7919109,
+              -29.7739964
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11542355673",
+      "properties": {
+        "timestamp": "2024-01-23T07:44:16Z",
+        "version": 1,
+        "changeset": 146579762,
+        "addr:city": "Alegrete",
+        "addr:country": "BR",
+        "addr:housenumber": "135",
+        "addr:state": "RS",
+        "addr:street": "Rua Izabel Garaialdi Peres",
+        "addr:suburb": "Nova Brasília",
+        "amenity": "clinic",
+        "contact:phone": "+55 (55) 39611061",
+        "name": "ESF Nova Brasília",
+        "official_name": "Estratégia Saúde da Família Nova Brasília",
+        "operator": "Prefeitura Municipal de Alegrete",
+        "postal_code": "97546-140",
+        "ref:CNES": "3029239",
+        "id": "node/11542355673"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.7656614,
+          -29.8028135
         ]
       }
     }

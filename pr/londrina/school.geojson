@@ -392,13 +392,21 @@
       "type": "Feature",
       "id": "way/368945071",
       "properties": {
-        "timestamp": "2020-07-21T12:46:10Z",
-        "version": 2,
-        "changeset": 88295302,
+        "timestamp": "2024-01-24T14:51:13Z",
+        "version": 3,
+        "changeset": 146633266,
         "addr:city": "Londrina",
+        "addr:housenumber": "329",
+        "addr:postcode": "86015-720",
         "addr:street": "Rua Maurício de Nassau",
+        "addr:suburb": "Jardim Mazzei",
         "amenity": "school",
+        "email": "maria.carmelita@londrina.pr.gov.br",
         "name": "Escola Municipal Maria Carmelita Vilela Magalhães",
+        "opening_hours": "Mo-Fr 07:30-11:00,13:30-17:30.18:00-22:00; PH off",
+        "operator": "Secretaria Municipal de Educação",
+        "operator:type": "government",
+        "religion": "none",
         "id": "way/368945071"
       },
       "geometry": {
@@ -1679,16 +1687,22 @@
       "type": "Feature",
       "id": "way/582343473",
       "properties": {
-        "timestamp": "2023-11-26T16:01:42Z",
-        "version": 2,
-        "changeset": 144476664,
+        "timestamp": "2024-01-24T02:21:48Z",
+        "version": 3,
+        "changeset": 146614410,
         "addr:city": "Londrina",
         "addr:housenumber": "2372",
+        "addr:postcode": "86020-000",
         "addr:street": "Avenida Juscelino Kubitschek",
         "addr:suburb": "Centro",
         "amenity": "school",
+        "email": "ldavicenterijo@seed.pr.gov.br",
+        "fax": "+55 43 3334 0364",
         "name": "Colégio Estadual Vicente Rijo",
-        "operator": "seed",
+        "operator": "Secretaria da Educação do Estado do Paraná",
+        "operator:type": "government",
+        "phone": "+55 43 3323 7630",
+        "religion": "none",
         "id": "way/582343473"
       },
       "geometry": {
@@ -1809,11 +1823,21 @@
       "type": "Feature",
       "id": "way/582358504",
       "properties": {
-        "timestamp": "2018-08-21T13:37:07Z",
-        "version": 2,
-        "changeset": 61856788,
+        "timestamp": "2024-01-24T02:45:11Z",
+        "version": 3,
+        "changeset": 146614751,
+        "addr:housenumber": "998",
+        "addr:postcode": "86026-480",
+        "addr:street": "Rua São Salvador",
+        "addr:suburb": "Centro",
         "amenity": "school",
-        "name": "Marcelino Champagnat, C E-EF M P",
+        "email": "ldamarcelino@seed.pr.gov.br",
+        "name": "Colégio Estadual Marcelino Champagnat",
+        "operator": "Secretaria da Educação do Estado do Paraná",
+        "operator:type": "government",
+        "phone": "+55 43 3323 9332",
+        "religion": "none",
+        "source": "https://www.nre.seed.pr.gov.br/modules/conteudo/conteudo.php?conteudo=538",
         "id": "way/582358504"
       },
       "geometry": {
@@ -5588,14 +5612,23 @@
       "type": "Feature",
       "id": "way/616932640",
       "properties": {
-        "timestamp": "2020-02-15T03:19:36Z",
-        "version": 2,
-        "changeset": 81031621,
+        "timestamp": "2024-01-24T15:06:09Z",
+        "version": 3,
+        "changeset": 146633833,
         "addr:city": "Londrina",
+        "addr:housenumber": "440",
+        "addr:postcode": "86056-680",
         "addr:street": "Rua Camilo Simões",
         "addr:suburb": "Parque Universidade",
         "amenity": "school",
+        "email": "ruth.ferreira@londrina.pr.gov.br",
         "name": "Escola Municipal Ruth Ferreira de Souza",
+        "opening_hours": "Mo-Fr 07:30-11:00; 13:00-17:30; 18:00-22:00; PH off",
+        "operator": "Secretaria Municipal de Educação",
+        "operator:type": "government",
+        "phone": "+55 43 3375 0206",
+        "religion": "none",
+        "source": "https://repositorio.londrina.pr.gov.br/index.php/menu-educacao/unidades-escolares/225-escolas-urbanas/file",
         "id": "way/616932640"
       },
       "geometry": {
@@ -6178,11 +6211,22 @@
       "type": "Feature",
       "id": "way/617162706",
       "properties": {
-        "timestamp": "2018-08-15T11:18:21Z",
-        "version": 1,
-        "changeset": 61682437,
+        "timestamp": "2024-01-24T15:21:16Z",
+        "version": 2,
+        "changeset": 146634410,
+        "addr:housenumber": "22",
+        "addr:postcode": "86056-100",
+        "addr:street": "Rua José Soares",
+        "addr:suburb": "Conjunto Habitacional Avelino Vieira",
         "amenity": "school",
-        "name": "ESCOLA MUNICIPAL CAROLINA BENEDITA DOS SANTOS",
+        "email": "carolina.santos@londrina.pr.gov.br",
+        "name": "Centro Municipal de Educação Infantil Carolina Benedita dos Santos",
+        "opening_hours": "Mo-Fr 07:30-11:00; 13:00-17:30; 18:00-22:00; PH off",
+        "operator": "Secretaria Municipal de Educação",
+        "operator:type": "government",
+        "phone": "+55 43 3375 0196",
+        "religion": "none",
+        "source": "https://repositorio.londrina.pr.gov.br/index.php/menu-educacao/unidades-escolares/221-cmeis/file",
         "id": "way/617162706"
       },
       "geometry": {
@@ -6544,57 +6588,6 @@
             [
               -51.1521737,
               -23.3724589
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/617167490",
-      "properties": {
-        "timestamp": "2020-02-15T14:37:00Z",
-        "version": 3,
-        "changeset": 81044968,
-        "addr:city": "Londrina",
-        "addr:housenumber": "83",
-        "addr:street": "Rua Olympio Theodoro",
-        "addr:suburb": "Parque Universidade",
-        "amenity": "school",
-        "name": "Centro de Educação Infantil Rafaela Kemmer de Moraes",
-        "id": "way/617167490"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -51.2154555,
-              -23.3352943
-            ],
-            [
-              -51.215636,
-              -23.3354406
-            ],
-            [
-              -51.2155694,
-              -23.3355098
-            ],
-            [
-              -51.2156327,
-              -23.335561
-            ],
-            [
-              -51.2154938,
-              -23.3357055
-            ],
-            [
-              -51.2152501,
-              -23.3355079
-            ],
-            [
-              -51.2154555,
-              -23.3352943
             ]
           ]
         ]
@@ -8319,11 +8312,21 @@
       "type": "Feature",
       "id": "way/617408901",
       "properties": {
-        "timestamp": "2018-08-16T12:35:32Z",
-        "version": 1,
-        "changeset": 61714637,
+        "timestamp": "2024-01-24T02:39:06Z",
+        "version": 2,
+        "changeset": 146614680,
+        "addr:housenumber": "195",
+        "addr:postcode": "86020-380",
+        "addr:street": "Rua Pio XII",
+        "addr:suburb": "Centro",
         "amenity": "school",
-        "name": "Hugo Simas, C E-EF M",
+        "email": "ldahugosimas@seed.pr.gov.br",
+        "name": "Colégio Estadual Hugo Simas",
+        "operator": "Secretaria Da Educação do Estado do Paraná",
+        "operator:type": "government",
+        "phone": "+55 43 3323 7303",
+        "religion": "none",
+        "source": "https://www.nre.seed.pr.gov.br/modules/conteudo/conteudo.php?conteudo=538",
         "id": "way/617408901"
       },
       "geometry": {
@@ -9312,45 +9315,6 @@
             [
               -51.1747384,
               -23.2817835
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/618784394",
-      "properties": {
-        "timestamp": "2018-08-22T11:14:02Z",
-        "version": 1,
-        "changeset": 61884178,
-        "amenity": "school",
-        "name": "CINATEC CENTRO INTEGRADO DE APERFEÇOAMENTO TECNICO",
-        "id": "way/618784394"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -51.1596526,
-              -23.3065356
-            ],
-            [
-              -51.1595224,
-              -23.3065387
-            ],
-            [
-              -51.1595183,
-              -23.3062889
-            ],
-            [
-              -51.1596493,
-              -23.3062783
-            ],
-            [
-              -51.1596526,
-              -23.3065356
             ]
           ]
         ]
@@ -10856,29 +10820,6 @@
         "coordinates": [
           -51.1567126,
           -23.3153648
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/3823455457",
-      "properties": {
-        "timestamp": "2016-01-03T18:27:07Z",
-        "version": 2,
-        "changeset": 36344383,
-        "addr:city": "Londrina",
-        "addr:housenumber": "195",
-        "addr:street": "Rua Pio XII",
-        "addr:suburb": "Centro",
-        "amenity": "school",
-        "name": "Colégio Estadual Hugo Simas",
-        "id": "node/3823455457"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -51.1633622,
-          -23.3121872
         ]
       }
     },

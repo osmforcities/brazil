@@ -974,6 +974,60 @@
     },
     {
       "type": "Feature",
+      "id": "way/220191576",
+      "properties": {
+        "timestamp": "2024-01-24T02:21:48Z",
+        "version": 8,
+        "changeset": 146614410,
+        "addr:city": "Londrina",
+        "addr:housenumber": "315",
+        "addr:street": "Rua Gomes Carneiro",
+        "addr:suburb": "Centro",
+        "alt_name": "Ginásio do Moringão",
+        "building": "yes",
+        "building:levels": "5",
+        "building:part": "yes",
+        "leisure": "sports_hall",
+        "name": "Ginágio de Esportes Darci Cortes - Moringão",
+        "sport": "multi",
+        "wikidata": "Q5563330",
+        "wikipedia": "en:Ginásio do Moringão",
+        "id": "way/220191576"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.1644204,
+              -23.320896
+            ],
+            [
+              -51.1644251,
+              -23.3216373
+            ],
+            [
+              -51.163595,
+              -23.3216391
+            ],
+            [
+              -51.163598,
+              -23.3209694
+            ],
+            [
+              -51.1635983,
+              -23.3208929
+            ],
+            [
+              -51.1644204,
+              -23.320896
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/260922119",
       "properties": {
         "timestamp": "2014-02-10T14:02:47Z",
@@ -8334,12 +8388,12 @@
       "type": "Feature",
       "id": "way/695837854",
       "properties": {
-        "timestamp": "2019-06-08T17:32:09Z",
-        "version": 1,
-        "changeset": 71055691,
+        "timestamp": "2024-01-24T01:19:24Z",
+        "version": 2,
+        "changeset": 146613410,
         "leisure": "pitch",
         "sport": "tennis",
-        "surface": "concrete",
+        "surface": "clay",
         "id": "way/695837854"
       },
       "geometry": {
@@ -8374,12 +8428,12 @@
       "type": "Feature",
       "id": "way/695837855",
       "properties": {
-        "timestamp": "2019-06-08T17:32:09Z",
-        "version": 1,
-        "changeset": 71055691,
+        "timestamp": "2024-01-24T01:19:24Z",
+        "version": 2,
+        "changeset": 146613410,
         "leisure": "pitch",
         "sport": "tennis",
-        "surface": "concrete",
+        "surface": "clay",
         "id": "way/695837855"
       },
       "geometry": {
@@ -8414,12 +8468,13 @@
       "type": "Feature",
       "id": "way/695837856",
       "properties": {
-        "timestamp": "2019-06-08T17:32:09Z",
-        "version": 1,
-        "changeset": 71055691,
+        "timestamp": "2024-01-24T01:19:24Z",
+        "version": 2,
+        "changeset": 146613410,
+        "access": "private",
         "leisure": "pitch",
         "sport": "tennis",
-        "surface": "concrete",
+        "surface": "clay",
         "id": "way/695837856"
       },
       "geometry": {
@@ -8454,12 +8509,13 @@
       "type": "Feature",
       "id": "way/695837857",
       "properties": {
-        "timestamp": "2019-06-08T17:32:09Z",
-        "version": 1,
-        "changeset": 71055691,
+        "timestamp": "2024-01-24T01:19:24Z",
+        "version": 2,
+        "changeset": 146613410,
+        "access": "private",
         "leisure": "pitch",
         "sport": "tennis",
-        "surface": "concrete",
+        "surface": "clay",
         "id": "way/695837857"
       },
       "geometry": {
@@ -8494,12 +8550,13 @@
       "type": "Feature",
       "id": "way/695837858",
       "properties": {
-        "timestamp": "2019-06-08T17:32:09Z",
-        "version": 1,
-        "changeset": 71055691,
+        "timestamp": "2024-01-24T01:19:24Z",
+        "version": 2,
+        "changeset": 146613410,
+        "access": "private",
         "leisure": "pitch",
         "sport": "tennis",
-        "surface": "concrete",
+        "surface": "clay",
         "id": "way/695837858"
       },
       "geometry": {
@@ -8811,50 +8868,13 @@
     },
     {
       "type": "Feature",
-      "id": "way/772196362",
-      "properties": {
-        "timestamp": "2020-02-13T16:28:01Z",
-        "version": 1,
-        "changeset": 80967190,
-        "leisure": "pitch",
-        "sport": "basketball",
-        "id": "way/772196362"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -51.2178683,
-              -23.3393411
-            ],
-            [
-              -51.2177891,
-              -23.3394237
-            ],
-            [
-              -51.2176636,
-              -23.3393222
-            ],
-            [
-              -51.2177428,
-              -23.3392396
-            ],
-            [
-              -51.2178683,
-              -23.3393411
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/772210368",
       "properties": {
-        "timestamp": "2020-02-13T17:28:31Z",
-        "version": 1,
-        "changeset": 80969281,
+        "timestamp": "2024-01-24T01:19:24Z",
+        "version": 2,
+        "changeset": 146613410,
+        "access": "private",
+        "hoops": "1",
         "leisure": "pitch",
         "sport": "basketball",
         "id": "way/772210368"
@@ -8864,24 +8884,24 @@
         "coordinates": [
           [
             [
-              -51.2174533,
-              -23.3448836
+              -51.2174443,
+              -23.3448815
             ],
             [
-              -51.2173386,
-              -23.3449964
+              -51.2173296,
+              -23.3449944
             ],
             [
-              -51.217252,
-              -23.3449222
+              -51.217243,
+              -23.3449201
             ],
             [
-              -51.2173666,
-              -23.3448094
+              -51.2173576,
+              -23.3448073
             ],
             [
-              -51.2174533,
-              -23.3448836
+              -51.2174443,
+              -23.3448815
             ]
           ]
         ]
@@ -14058,6 +14078,24 @@
     },
     {
       "type": "Feature",
+      "id": "node/2946713481",
+      "properties": {
+        "timestamp": "2018-04-21T18:34:44Z",
+        "version": 2,
+        "changeset": 58296263,
+        "entrance": "yes",
+        "id": "node/2946713481"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.163598,
+          -23.3209694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/3746148625",
       "properties": {
         "timestamp": "2015-09-16T18:50:51Z",
@@ -14367,6 +14405,31 @@
         "coordinates": [
           -51.1887992,
           -23.286302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11546258339",
+      "properties": {
+        "timestamp": "2024-01-24T14:39:26Z",
+        "version": 1,
+        "changeset": 146632762,
+        "addr:housenumber": "199",
+        "addr:street": "Rua Ana Néri",
+        "contact:facebook": "https://www.facebook.com/splashca/",
+        "description": "Splash Centro Aquático oferece natação para bebês, adultos, crianças e hidroginástica",
+        "leisure": "sports_centre",
+        "name": "Splash Centro Aquático",
+        "phone": "+55 43 3342 2800",
+        "sport": "swimming",
+        "id": "node/11546258339"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1527399,
+          -23.3329271
         ]
       }
     }

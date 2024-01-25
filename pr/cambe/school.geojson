@@ -464,16 +464,22 @@
       "type": "Feature",
       "id": "way/697559433",
       "properties": {
-        "timestamp": "2024-01-15T02:13:27Z",
-        "version": 2,
-        "changeset": 146264854,
+        "timestamp": "2024-01-24T16:07:44Z",
+        "version": 3,
+        "changeset": 146636311,
         "addr:city": "Cambé",
         "addr:housenumber": "608",
         "addr:postcode": "86188-070",
         "addr:street": "Rua Professor Bento Mussurunga",
         "addr:suburb": "Jardim Novo Bandeirantes",
         "amenity": "school",
+        "email": "cabonzedeoutubro@seed.pr.gov.br",
+        "fax": "+55 43 3253 1692",
         "name": "Colégio Estadual 11 de Outubro",
+        "operator": "Secretaria da Educação do Estado do Paraná",
+        "operator:type": "government",
+        "phone": "+55 43 3251 3228",
+        "religion": "none",
         "id": "way/697559433"
       },
       "geometry": {
@@ -552,9 +558,9 @@
       "type": "Feature",
       "id": "way/697559438",
       "properties": {
-        "timestamp": "2019-06-16T12:16:00Z",
-        "version": 1,
-        "changeset": 71299986,
+        "timestamp": "2024-01-24T16:07:44Z",
+        "version": 3,
+        "changeset": 146636311,
         "addr:city": "Cambé",
         "addr:housenumber": "14",
         "addr:postcode": "86188-140",
@@ -562,6 +568,7 @@
         "addr:suburb": "Jardim Novo Bandeirantes",
         "amenity": "school",
         "name": "Centro Municipal de Educação Infanti Prefeito Eustachio Sellmann",
+        "operator:type": "government",
         "id": "way/697559438"
       },
       "geometry": {
@@ -640,15 +647,18 @@
       "type": "Feature",
       "id": "way/697568895",
       "properties": {
-        "timestamp": "2019-06-16T13:24:14Z",
-        "version": 1,
-        "changeset": 71301255,
+        "timestamp": "2024-01-24T16:07:44Z",
+        "version": 2,
+        "changeset": 146636311,
         "addr:city": "Cambé",
         "addr:housenumber": "919",
         "addr:street": "Rua Mateus Leme",
         "addr:suburb": "Jardim Novo Bandeirantes",
         "amenity": "school",
         "name": "Escola Municipal Irmã Hilda Soares",
+        "operator": "Secretaria Municipal de Educação",
+        "operator:type": "government",
+        "religion": "none",
         "id": "way/697568895"
       },
       "geometry": {
@@ -834,9 +844,12 @@
       "type": "Feature",
       "id": "way/697660542",
       "properties": {
-        "timestamp": "2019-06-17T00:58:56Z",
-        "version": 1,
-        "changeset": 71312600,
+        "timestamp": "2024-01-24T16:28:07Z",
+        "version": 3,
+        "changeset": 146637176,
+        "addr:housenumber": "91",
+        "addr:postcode": "86188-520",
+        "addr:street": "Rua Guaíra",
         "amenity": "school",
         "name": "Escola Municipal Roberto Conceição",
         "id": "way/697660542"
@@ -860,6 +873,10 @@
             [
               -51.2300079,
               -23.3069143
+            ],
+            [
+              -51.2304931,
+              -23.3067711
             ],
             [
               -51.230905,
@@ -967,6 +984,25 @@
         "coordinates": [
           -51.2228435,
           -23.3093845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11546945381",
+      "properties": {
+        "timestamp": "2024-01-24T16:26:18Z",
+        "version": 1,
+        "changeset": 146637085,
+        "access": "permissive",
+        "entrance": "yes",
+        "id": "node/11546945381"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.2304931,
+          -23.3067711
         ]
       }
     }

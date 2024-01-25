@@ -5,12 +5,13 @@
       "type": "Feature",
       "id": "way/286485156",
       "properties": {
-        "timestamp": "2024-01-23T07:54:39Z",
-        "version": 4,
-        "changeset": 146579762,
+        "timestamp": "2024-01-24T13:39:31Z",
+        "version": 5,
+        "changeset": 146629567,
         "addr:city": "Alegrete",
         "addr:country": "BR",
         "addr:housenumber": "88",
+        "addr:postcode": "97541-260",
         "addr:state": "RS",
         "addr:street": "Rua General Sampaio",
         "addr:suburb": "Vila Nova",
@@ -21,7 +22,6 @@
         "name": "Santa Casa Caridade",
         "opening_hours": "24/7",
         "operator": "Irmandade da Santa Casa de Caridade de Alegrete",
-        "postal_code": "97541-260",
         "ref:CNES": "2248328",
         "id": "way/286485156"
       },
@@ -511,10 +511,11 @@
       "type": "Feature",
       "id": "way/1227184315",
       "properties": {
-        "timestamp": "2024-01-23T07:44:16Z",
-        "version": 2,
-        "changeset": 146579762,
+        "timestamp": "2024-01-24T13:39:31Z",
+        "version": 3,
+        "changeset": 146629567,
         "addr:housenumber": "315",
+        "addr:postcode": "97541-020",
         "addr:state": "RS",
         "addr:street": "Rua Vereador Adolfo Souto Correa",
         "addr:suburb": "Vila Nova",
@@ -525,7 +526,6 @@
         "official_name": "Estratégia Saúde da Família Vila Nova",
         "operator": "Prefeitura Municipal de Alegrete",
         "phone": "+55 55 39611126",
-        "postal_code": "97541-020",
         "ref:CNES": "3061493",
         "id": "way/1227184315"
       },
@@ -974,11 +974,12 @@
       "type": "Feature",
       "id": "way/1242141464",
       "properties": {
-        "timestamp": "2024-01-23T07:54:39Z",
-        "version": 1,
-        "changeset": 146579762,
+        "timestamp": "2024-01-24T13:39:31Z",
+        "version": 2,
+        "changeset": 146629567,
         "addr:city": "Alegrete",
         "addr:country": "BR",
+        "addr:postcode": "97541-475",
         "addr:state": "RS",
         "addr:street": "Rua Antônio Carlos Gomes Sauceda",
         "addr:suburb": "Canudos",
@@ -988,7 +989,6 @@
         "official_name": "Unidade de Pronto Atendimento de Alegrete",
         "opening_hours": "24/7",
         "operator": "Prefeitura Municipal de Alegrete",
-        "postal_code": "97541-475",
         "ref:CNES": "7648227",
         "id": "way/1242141464"
       },
@@ -1022,14 +1022,15 @@
     },
     {
       "type": "Feature",
-      "id": "node/11542355673",
+      "id": "way/1242503772",
       "properties": {
-        "timestamp": "2024-01-23T07:44:16Z",
+        "timestamp": "2024-01-24T13:44:29Z",
         "version": 1,
-        "changeset": 146579762,
+        "changeset": 146629567,
         "addr:city": "Alegrete",
         "addr:country": "BR",
         "addr:housenumber": "135",
+        "addr:postcode": "97546-140",
         "addr:state": "RS",
         "addr:street": "Rua Izabel Garaialdi Peres",
         "addr:suburb": "Nova Brasília",
@@ -1038,15 +1039,34 @@
         "name": "ESF Nova Brasília",
         "official_name": "Estratégia Saúde da Família Nova Brasília",
         "operator": "Prefeitura Municipal de Alegrete",
-        "postal_code": "97546-140",
         "ref:CNES": "3029239",
-        "id": "node/11542355673"
+        "id": "way/1242503772"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -55.7656614,
-          -29.8028135
+          [
+            [
+              -55.7657001,
+              -29.8030244
+            ],
+            [
+              -55.7654917,
+              -29.8029372
+            ],
+            [
+              -55.7656402,
+              -29.8026699
+            ],
+            [
+              -55.7658486,
+              -29.8027571
+            ],
+            [
+              -55.7657001,
+              -29.8030244
+            ]
+          ]
         ]
       }
     }

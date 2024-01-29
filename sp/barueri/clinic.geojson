@@ -3,6 +3,59 @@
   "features": [
     {
       "type": "Feature",
+      "id": "relation/17087799",
+      "properties": {
+        "timestamp": "2024-01-27T14:59:59Z",
+        "version": 1,
+        "changeset": 146747366,
+        "addr:city": "Barueri",
+        "addr:housenumber": "845",
+        "addr:postcode": "06401-050",
+        "addr:street": "Avenida Vinte e Seis de Março",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "SAE  Ambulatório de Especialidades",
+        "type": "multipolygon",
+        "id": "relation/17087799"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.8829373,
+              -23.5105875
+            ],
+            [
+              -46.883171,
+              -23.5104963
+            ],
+            [
+              -46.8833501,
+              -23.5104264
+            ],
+            [
+              -46.8834265,
+              -23.5103966
+            ],
+            [
+              -46.883701,
+              -23.5109694
+            ],
+            [
+              -46.8831876,
+              -23.5111709
+            ],
+            [
+              -46.8829373,
+              -23.5105875
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/410662789",
       "properties": {
         "timestamp": "2023-09-03T23:45:09Z",
@@ -825,6 +878,34 @@
     },
     {
       "type": "Feature",
+      "id": "way/1243470960",
+      "properties": {
+        "timestamp": "2024-01-27T14:59:59Z",
+        "version": 1,
+        "changeset": 146747366,
+        "barrier": "wall",
+        "id": "way/1243470960"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.8831876,
+            -23.5111709
+          ],
+          [
+            -46.883701,
+            -23.5109694
+          ],
+          [
+            -46.8834265,
+            -23.5103966
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/4274184001",
       "properties": {
         "timestamp": "2023-09-04T11:13:14Z",
@@ -851,28 +932,6 @@
         "coordinates": [
           -46.8501945,
           -23.4992638
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/6355470165",
-      "properties": {
-        "timestamp": "2019-03-22T21:59:02Z",
-        "version": 1,
-        "changeset": 68429126,
-        "addr:housenumber": "845",
-        "addr:street": "Avenida Vinte e Seis de Março",
-        "amenity": "clinic",
-        "healthcare": "clinic",
-        "name": "Ambulatório de Especialidades",
-        "id": "node/6355470165"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -46.8831777,
-          -23.5107438
         ]
       }
     },

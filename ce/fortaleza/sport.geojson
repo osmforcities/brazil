@@ -23254,9 +23254,9 @@
       "type": "Feature",
       "id": "way/714527241",
       "properties": {
-        "timestamp": "2019-08-16T20:09:53Z",
-        "version": 1,
-        "changeset": 73429156,
+        "timestamp": "2024-01-27T21:33:41Z",
+        "version": 2,
+        "changeset": 146759428,
         "leisure": "pitch",
         "sport": "multi",
         "id": "way/714527241"
@@ -23266,24 +23266,28 @@
         "coordinates": [
           [
             [
-              -38.4989147,
-              -3.7394089
+              -38.4989212,
+              -3.7394091
             ],
             [
-              -38.4988615,
-              -3.7396542
+              -38.4988627,
+              -3.7396869
             ],
             [
-              -38.4987249,
-              -3.7396247
+              -38.4987055,
+              -3.739654
             ],
             [
-              -38.4987781,
-              -3.7393794
+              -38.4987533,
+              -3.7394268
             ],
             [
-              -38.4989147,
-              -3.7394089
+              -38.498764,
+              -3.7393761
+            ],
+            [
+              -38.4989212,
+              -3.7394091
             ]
           ]
         ]
@@ -58900,6 +58904,96 @@
     },
     {
       "type": "Feature",
+      "id": "way/1243568294",
+      "properties": {
+        "timestamp": "2024-01-27T21:33:41Z",
+        "version": 1,
+        "changeset": 146759428,
+        "access": "yes",
+        "leisure": "pitch",
+        "sport": "beachvolleyball",
+        "surface": "sand",
+        "id": "way/1243568294"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.4989466,
+              -3.7395801
+            ],
+            [
+              -38.4989512,
+              -3.739556
+            ],
+            [
+              -38.498976,
+              -3.7394261
+            ],
+            [
+              -38.4990464,
+              -3.7394395
+            ],
+            [
+              -38.4990169,
+              -3.7395935
+            ],
+            [
+              -38.4989466,
+              -3.7395801
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1243568301",
+      "properties": {
+        "timestamp": "2024-01-27T21:33:41Z",
+        "version": 1,
+        "changeset": 146759428,
+        "access": "yes",
+        "leisure": "pitch",
+        "sport": "beachvolleyball",
+        "surface": "sand",
+        "id": "way/1243568301"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.4983863,
+              -3.7387445
+            ],
+            [
+              -38.4984102,
+              -3.7387504
+            ],
+            [
+              -38.4985389,
+              -3.7387821
+            ],
+            [
+              -38.4985217,
+              -3.7388516
+            ],
+            [
+              -38.4983691,
+              -3.7388139
+            ],
+            [
+              -38.4983863,
+              -3.7387445
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/384699585",
       "properties": {
         "timestamp": "2015-12-06T17:24:28Z",
@@ -62603,9 +62697,9 @@
       "type": "Feature",
       "id": "node/6716548335",
       "properties": {
-        "timestamp": "2019-08-16T20:09:53Z",
-        "version": 1,
-        "changeset": 73429156,
+        "timestamp": "2024-01-27T19:37:14Z",
+        "version": 2,
+        "changeset": 146756332,
         "leisure": "fitness_station",
         "sport": "fitness",
         "id": "node/6716548335"
@@ -62613,8 +62707,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -38.4987354,
-          -3.7399068
+          -38.4987334,
+          -3.7398347
         ]
       }
     },
@@ -64158,25 +64252,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/10178350447",
-      "properties": {
-        "timestamp": "2022-11-12T15:26:37Z",
-        "version": 1,
-        "changeset": 128817258,
-        "leisure": "fitness_station",
-        "sport": "fitness",
-        "id": "node/10178350447"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -38.4986933,
-          -3.7397938
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/10178350448",
       "properties": {
         "timestamp": "2023-11-25T20:58:52Z",
@@ -64649,6 +64724,60 @@
         "coordinates": [
           -38.5184857,
           -3.79384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11557865014",
+      "properties": {
+        "timestamp": "2024-01-27T21:33:41Z",
+        "version": 1,
+        "changeset": 146759428,
+        "entrance": "yes",
+        "id": "node/11557865014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4989512,
+          -3.739556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11557865024",
+      "properties": {
+        "timestamp": "2024-01-27T21:33:41Z",
+        "version": 1,
+        "changeset": 146759428,
+        "entrance": "yes",
+        "id": "node/11557865024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4984102,
+          -3.7387504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11557865043",
+      "properties": {
+        "timestamp": "2024-01-27T21:33:41Z",
+        "version": 1,
+        "changeset": 146759428,
+        "entrance": "yes",
+        "id": "node/11557865043"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4987533,
+          -3.7394268
         ]
       }
     }

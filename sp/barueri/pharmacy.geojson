@@ -153,6 +153,59 @@
     },
     {
       "type": "Feature",
+      "id": "way/1243470961",
+      "properties": {
+        "timestamp": "2024-01-27T14:59:59Z",
+        "version": 1,
+        "changeset": 146747366,
+        "addr:city": "Barueri",
+        "addr:housenumber": "873",
+        "addr:postcode": "06401-050",
+        "addr:street": "Avenida Vinte e Seis de Março",
+        "addr:suburb": "Jardim São Pedro",
+        "amenity": "pharmacy",
+        "contact:phone": "+55 11 +55 11 4199 4980",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmácia Municipal",
+        "opening_hours": "24/7",
+        "phone": "+55 11 4199 4983",
+        "id": "way/1243470961"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.8834109,
+              -23.5105528
+            ],
+            [
+              -46.8832302,
+              -23.5106167
+            ],
+            [
+              -46.883171,
+              -23.5104963
+            ],
+            [
+              -46.8833501,
+              -23.5104264
+            ],
+            [
+              -46.8833824,
+              -23.5104954
+            ],
+            [
+              -46.8834109,
+              -23.5105528
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/435264985",
       "properties": {
         "timestamp": "2021-11-11T05:10:39Z",
@@ -298,33 +351,6 @@
         "coordinates": [
           -46.8488393,
           -23.4981897
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/6355470166",
-      "properties": {
-        "timestamp": "2019-03-22T21:59:02Z",
-        "version": 1,
-        "changeset": 68429126,
-        "addr:housenumber": "873",
-        "addr:street": "Avenida Vinte e Seis de Março",
-        "addr:suburb": "Jardim São Pedro",
-        "amenity": "pharmacy",
-        "contact:phone": "+55 11 +55 11 4199 4980",
-        "dispensing": "yes",
-        "healthcare": "pharmacy",
-        "name": "Farmácia Municipal",
-        "opening_hours": "24/7",
-        "phone": "+55 11 4199 4983",
-        "id": "node/6355470166"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -46.8833625,
-          -23.5106591
         ]
       }
     },

@@ -335,60 +335,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/1056873970",
-      "properties": {
-        "timestamp": "2023-09-04T11:13:14Z",
-        "version": 2,
-        "changeset": 140799448,
-        "addr:housenumber": "51",
-        "addr:postcode": "06298-100",
-        "addr:street": "Rua Santo Ubaldo",
-        "addr:suburb": "Vila dos Remédios",
-        "amenity": "clinic",
-        "building": "yes",
-        "healthcare": "clinic",
-        "healthcare:speciality": "general;vaccination;gynaecology;paediatrics",
-        "name": "Unidade Básica de Saúde Padre Guerino Riciotti",
-        "opening_hours": "Mo-Fr 07:00-16:00; Sa,Su,PH off",
-        "operator": "Secretaria Municipal de Saúde",
-        "operator:ref:vatin": "BR46523171000104",
-        "operator:type": "government",
-        "phone": "+55 11 3687 8818",
-        "ref": "CNES-0008273",
-        "ref:CNES": "0008273",
-        "source": "CNES",
-        "id": "way/1056873970"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -46.7550321,
-              -23.5211232
-            ],
-            [
-              -46.7550465,
-              -23.5212651
-            ],
-            [
-              -46.7546298,
-              -23.5213004
-            ],
-            [
-              -46.7546154,
-              -23.5211586
-            ],
-            [
-              -46.7550321,
-              -23.5211232
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/1056873971",
       "properties": {
         "timestamp": "2023-09-04T11:13:14Z",
@@ -572,6 +518,83 @@
               -23.5296319
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1243752179",
+      "properties": {
+        "timestamp": "2024-01-28T18:11:05Z",
+        "version": 1,
+        "changeset": 146790006,
+        "addr:city": "Osasco",
+        "addr:housenumber": "51",
+        "addr:postcode": "06298-100",
+        "addr:street": "Rua Santo Ubaldo",
+        "addr:suburb": "Vila dos Remédios",
+        "amenity": "clinic",
+        "barrier": "wall",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general;vaccination;gynaecology;paediatrics",
+        "name": "Unidade Básica de Saúde Padre Guerino Riciotti",
+        "opening_hours": "Mo-Fr 07:00-16:00; Sa,Su,PH off",
+        "operator": "Secretaria Municipal de Saúde",
+        "operator:ref:vatin": "BR46523171000104",
+        "operator:type": "government",
+        "phone": "+55 11 3687 8818",
+        "ref": "CNES-0008273",
+        "ref:CNES": "0008273",
+        "source": "CNES",
+        "id": "way/1243752179"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.755098,
+              -23.5211053
+            ],
+            [
+              -46.7551153,
+              -23.5212908
+            ],
+            [
+              -46.7548844,
+              -23.5213088
+            ],
+            [
+              -46.7546246,
+              -23.5213291
+            ],
+            [
+              -46.7546074,
+              -23.5211437
+            ],
+            [
+              -46.755098,
+              -23.5211053
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11560262924",
+      "properties": {
+        "timestamp": "2024-01-28T18:11:05Z",
+        "version": 1,
+        "changeset": 146790006,
+        "entrance": "yes",
+        "id": "node/11560262924"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7548844,
+          -23.5213088
         ]
       }
     }

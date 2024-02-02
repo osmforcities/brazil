@@ -3276,12 +3276,13 @@
       "type": "Feature",
       "id": "node/6282029169",
       "properties": {
-        "timestamp": "2021-02-14T16:50:47Z",
-        "version": 2,
-        "changeset": 99258506,
+        "timestamp": "2024-01-28T06:08:42Z",
+        "version": 3,
+        "changeset": 146767366,
         "addr:door": "Box 3 a 5",
         "amenity": "community_centre",
         "community_centre": "events_venue",
+        "community_centre:for": "child",
         "contact:phone": "+55 47 99720-4098",
         "name": "Festereta",
         "start_date": "2019-02-14",
@@ -3330,6 +3331,29 @@
         "coordinates": [
           -49.1786483,
           -26.7493356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11559085510",
+      "properties": {
+        "timestamp": "2024-01-28T06:08:42Z",
+        "version": 1,
+        "changeset": 146767366,
+        "amenity": "community_centre",
+        "community_centre": "events_venue",
+        "community_centre:for": "multigeneration",
+        "contact:instagram": "fabricadossonhospomerode",
+        "contact:phone": "+55 47 99264-8791",
+        "name": "Fábrica dos Sonhos",
+        "id": "node/11559085510"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.1552742,
+          -26.6938061
         ]
       }
     }

@@ -47,134 +47,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/1152291716",
-      "properties": {
-        "timestamp": "2023-03-07T00:20:56Z",
-        "version": 1,
-        "changeset": 133383764,
-        "amenity": "pharmacy",
-        "brand": "Pague Menos",
-        "brand:wikidata": "Q7124466",
-        "building": "yes",
-        "healthcare": "pharmacy",
-        "name": "Pague Menos",
-        "id": "way/1152291716"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -37.4276506,
-              -10.6935322
-            ],
-            [
-              -37.4276881,
-              -10.6936745
-            ],
-            [
-              -37.4275111,
-              -10.6937219
-            ],
-            [
-              -37.4274843,
-              -10.6935981
-            ],
-            [
-              -37.4276506,
-              -10.6935322
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1152291717",
-      "properties": {
-        "timestamp": "2023-03-07T00:20:56Z",
-        "version": 1,
-        "changeset": 133383764,
-        "amenity": "pharmacy",
-        "brand": "Drogasil",
-        "brand:wikidata": "Q5308185",
-        "building": "yes",
-        "healthcare": "pharmacy",
-        "name": "Drogasil",
-        "wheelchair": "yes",
-        "id": "way/1152291717"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -37.427672,
-              -10.6936956
-            ],
-            [
-              -37.4277015,
-              -10.6937984
-            ],
-            [
-              -37.4275406,
-              -10.6938379
-            ],
-            [
-              -37.4275084,
-              -10.6937378
-            ],
-            [
-              -37.427672,
-              -10.6936956
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1152291718",
-      "properties": {
-        "timestamp": "2023-03-07T00:20:56Z",
-        "version": 1,
-        "changeset": 133383764,
-        "amenity": "pharmacy",
-        "building": "yes",
-        "healthcare": "pharmacy",
-        "name": "Farmácia Santo Antônio",
-        "id": "way/1152291718"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -37.4277069,
-              -10.6938142
-            ],
-            [
-              -37.4277364,
-              -10.6939249
-            ],
-            [
-              -37.4275433,
-              -10.6939723
-            ],
-            [
-              -37.4275218,
-              -10.6938537
-            ],
-            [
-              -37.4277069,
-              -10.6938142
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/2844147888",
       "properties": {
         "timestamp": "2015-04-26T23:53:05Z",
@@ -476,6 +348,71 @@
         "coordinates": [
           -37.4269414,
           -10.6907372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11559887931",
+      "properties": {
+        "timestamp": "2024-01-28T16:43:36Z",
+        "version": 1,
+        "changeset": 146786575,
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Farmácia Santo Antônio",
+        "id": "node/11559887931"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.427671,
+          -10.6939947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11559887932",
+      "properties": {
+        "timestamp": "2024-01-28T16:43:36Z",
+        "version": 1,
+        "changeset": 146786575,
+        "amenity": "pharmacy",
+        "brand": "Drogasil",
+        "brand:wikidata": "Q5308185",
+        "healthcare": "pharmacy",
+        "name": "Drogasil",
+        "wheelchair": "yes",
+        "id": "node/11559887932"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.4276496,
+          -10.6938075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11559887933",
+      "properties": {
+        "timestamp": "2024-01-28T16:43:36Z",
+        "version": 1,
+        "changeset": 146786575,
+        "amenity": "pharmacy",
+        "brand": "Pague Menos",
+        "brand:wikidata": "Q7124466",
+        "healthcare": "pharmacy",
+        "name": "Pague Menos",
+        "id": "node/11559887933"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.4276228,
+          -10.6936125
         ]
       }
     }

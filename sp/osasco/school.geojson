@@ -4177,6 +4177,144 @@
     },
     {
       "type": "Feature",
+      "id": "way/1243732142",
+      "properties": {
+        "timestamp": "2024-01-28T17:01:07Z",
+        "version": 1,
+        "changeset": 146787249,
+        "addr:city": "Osasco",
+        "addr:housenumber": "189",
+        "addr:postcode": "06296-200",
+        "addr:street": "Rua José Aureliana da Cunha",
+        "amenity": "school",
+        "barrier": "wall",
+        "name": "CEMEIEF Professor Darcy Ribeiro",
+        "id": "way/1243732142"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.758346,
+              -23.5183075
+            ],
+            [
+              -46.7585298,
+              -23.5189209
+            ],
+            [
+              -46.7579212,
+              -23.5190643
+            ],
+            [
+              -46.7578971,
+              -23.5190497
+            ],
+            [
+              -46.7578656,
+              -23.519022
+            ],
+            [
+              -46.7578551,
+              -23.5189878
+            ],
+            [
+              -46.757918,
+              -23.5188704
+            ],
+            [
+              -46.7579483,
+              -23.5188138
+            ],
+            [
+              -46.7580368,
+              -23.5186483
+            ],
+            [
+              -46.7581776,
+              -23.5184765
+            ],
+            [
+              -46.758346,
+              -23.5183075
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1243752174",
+      "properties": {
+        "timestamp": "2024-01-28T18:11:05Z",
+        "version": 1,
+        "changeset": 146790006,
+        "addr:city": "Osasco",
+        "addr:housenumber": "380",
+        "addr:postcode": "06298-010",
+        "addr:street": "Avenida Nossa Senhora dos Remédios",
+        "amenity": "school",
+        "id": "way/1243752174"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.7537012,
+              -23.519825
+            ],
+            [
+              -46.7539692,
+              -23.5198066
+            ],
+            [
+              -46.7543316,
+              -23.5197817
+            ],
+            [
+              -46.754382,
+              -23.520235
+            ],
+            [
+              -46.7543512,
+              -23.5202619
+            ],
+            [
+              -46.7539351,
+              -23.5202912
+            ],
+            [
+              -46.7539242,
+              -23.5201903
+            ],
+            [
+              -46.7537756,
+              -23.520017
+            ],
+            [
+              -46.753749,
+              -23.5200328
+            ],
+            [
+              -46.7536917,
+              -23.5199635
+            ],
+            [
+              -46.7536527,
+              -23.5199075
+            ],
+            [
+              -46.7537012,
+              -23.519825
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/4168173758",
       "properties": {
         "timestamp": "2016-05-05T21:14:23Z",
@@ -4491,6 +4629,50 @@
         "coordinates": [
           -46.8091389,
           -23.5236237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11560066267",
+      "properties": {
+        "timestamp": "2024-01-28T17:01:07Z",
+        "version": 1,
+        "changeset": 146787249,
+        "addr:city": "Osasco",
+        "addr:housenumber": "189",
+        "addr:postcode": "06296-200",
+        "addr:street": "Rua José Aureliana da Cunha",
+        "entrance": "yes",
+        "id": "node/11560066267"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7579483,
+          -23.5188138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11560262871",
+      "properties": {
+        "timestamp": "2024-01-28T18:11:05Z",
+        "version": 1,
+        "changeset": 146790006,
+        "addr:city": "Osasco",
+        "addr:housenumber": "380",
+        "addr:postcode": "06298-010",
+        "addr:street": "Avenida Nossa Senhora dos Remédios",
+        "entrance": "yes",
+        "id": "node/11560262871"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7539692,
+          -23.5198066
         ]
       }
     }

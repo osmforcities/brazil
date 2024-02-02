@@ -17924,13 +17924,13 @@
       "type": "Feature",
       "id": "way/977437980",
       "properties": {
-        "timestamp": "2022-06-29T13:48:43Z",
-        "version": 6,
-        "changeset": 123004404,
+        "timestamp": "2024-01-28T19:28:09Z",
+        "version": 7,
+        "changeset": 146792574,
         "barrier": "wall",
         "building": "no",
         "leisure": "sports_centre",
-        "sport": "soccer;beachvolleyball",
+        "sport": "soccer;beachvolleyball;multi",
         "id": "way/977437980"
       },
       "geometry": {
@@ -18546,11 +18546,12 @@
       "type": "Feature",
       "id": "way/1044563958",
       "properties": {
-        "timestamp": "2022-03-27T20:07:48Z",
-        "version": 1,
-        "changeset": 118994858,
+        "timestamp": "2024-01-28T19:28:09Z",
+        "version": 2,
+        "changeset": 146792574,
         "leisure": "pitch",
-        "sport": "beachvolleyball",
+        "lit": "yes",
+        "sport": "beachvolleyball;multi",
         "surface": "sand",
         "id": "way/1044563958"
       },
@@ -24361,6 +24362,88 @@
             [
               -47.0475853,
               -22.8563364
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1243789457",
+      "properties": {
+        "timestamp": "2024-01-28T19:28:09Z",
+        "version": 1,
+        "changeset": 146792574,
+        "leisure": "pitch",
+        "lit": "yes",
+        "sport": "beachvolleyball;multi",
+        "surface": "sand",
+        "id": "way/1243789457"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.0525024,
+              -22.8523417
+            ],
+            [
+              -47.0525339,
+              -22.8524855
+            ],
+            [
+              -47.0524402,
+              -22.852503
+            ],
+            [
+              -47.0524087,
+              -22.8523591
+            ],
+            [
+              -47.0525024,
+              -22.8523417
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1243789458",
+      "properties": {
+        "timestamp": "2024-01-28T19:28:09Z",
+        "version": 1,
+        "changeset": 146792574,
+        "leisure": "pitch",
+        "lit": "yes",
+        "sport": "beachvolleyball;multi",
+        "surface": "sand",
+        "id": "way/1243789458"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.0524046,
+              -22.85236
+            ],
+            [
+              -47.0524361,
+              -22.8525038
+            ],
+            [
+              -47.0523423,
+              -22.8525212
+            ],
+            [
+              -47.0523109,
+              -22.8523774
+            ],
+            [
+              -47.0524046,
+              -22.85236
             ]
           ]
         ]

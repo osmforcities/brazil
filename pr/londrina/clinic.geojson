@@ -1526,6 +1526,75 @@
     },
     {
       "type": "Feature",
+      "id": "way/739875686",
+      "properties": {
+        "timestamp": "2024-01-29T23:49:17Z",
+        "version": 3,
+        "changeset": 146842253,
+        "addr:housenumber": "580",
+        "addr:postcode": "86040-760",
+        "addr:street": "Avenida Dez de Dezembro",
+        "addr:suburb": "Vila Casoni",
+        "amenity": "clinic",
+        "building": "public",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Unidade Básica de Saúde Doutor Newton Leopoldo da Câmara",
+        "opening_hours": "Mo-Fr 07:00-19:00; PH off",
+        "operator": "Secretaria Municipal da Saúde",
+        "operator:type": "government",
+        "phone": "+55 43 3379 0768",
+        "ref:CNES": "2579081",
+        "short_name": "Unidade Básica de Saúde Vila Casoni",
+        "source": "https://saude.londrina.pr.gov.br/index.php/unidade-basica-saude/ubs-regiao-centro.html;CNES",
+        "id": "way/739875686"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.1459273,
+              -23.2980281
+            ],
+            [
+              -51.1459189,
+              -23.2983319
+            ],
+            [
+              -51.145803,
+              -23.2983292
+            ],
+            [
+              -51.1458053,
+              -23.2982467
+            ],
+            [
+              -51.1457844,
+              -23.2982462
+            ],
+            [
+              -51.1457856,
+              -23.2982031
+            ],
+            [
+              -51.1458065,
+              -23.2982036
+            ],
+            [
+              -51.1458114,
+              -23.2980254
+            ],
+            [
+              -51.1459273,
+              -23.2980281
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/771692705",
       "properties": {
         "timestamp": "2020-02-11T17:14:28Z",
@@ -2119,29 +2188,6 @@
         "coordinates": [
           -51.1571399,
           -23.3163983
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/6927784155",
-      "properties": {
-        "timestamp": "2019-10-29T17:02:51Z",
-        "version": 1,
-        "changeset": 76356908,
-        "addr:city": "Londrina",
-        "addr:street": "Avenida Dez de Dezembro",
-        "addr:suburb": "Vila Casoni",
-        "amenity": "clinic",
-        "healthcare": "clinic",
-        "name": "Unidade Básica de Saúde Vila Casoni",
-        "id": "node/6927784155"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -51.1458514,
-          -23.2982237
         ]
       }
     },

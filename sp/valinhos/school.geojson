@@ -1148,58 +1148,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/1200971644",
-      "properties": {
-        "timestamp": "2023-08-22T01:21:47Z",
-        "version": 1,
-        "changeset": 140205399,
-        "addr:housenumber": "585",
-        "addr:postcode": "13273-282",
-        "addr:street": "Rua Abrantes",
-        "addr:suburb": "Espirito Santo",
-        "amenity": "school",
-        "official_name": "Escola Municipal de Educação Básica Marli Aparecida Borelli Bazetto",
-        "religion": "none",
-        "id": "way/1200971644"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -46.9714993,
-              -22.9173129
-            ],
-            [
-              -46.9717809,
-              -22.917634
-            ],
-            [
-              -46.9714349,
-              -22.9179033
-            ],
-            [
-              -46.9711882,
-              -22.9176563
-            ],
-            [
-              -46.9712391,
-              -22.9176242
-            ],
-            [
-              -46.9711759,
-              -22.9175502
-            ],
-            [
-              -46.9714993,
-              -22.9173129
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/1204551301",
       "properties": {
         "timestamp": "2023-09-02T23:49:31Z",
@@ -1711,6 +1659,31 @@
         "coordinates": [
           -46.9766739,
           -22.9500774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11569336864",
+      "properties": {
+        "timestamp": "2024-01-30T14:31:38Z",
+        "version": 1,
+        "changeset": 146866619,
+        "addr:housenumber": "585",
+        "addr:postcode": "13273-282",
+        "addr:street": "Rua Abrantes",
+        "addr:suburb": "Espirito Santo",
+        "amenity": "school",
+        "name": "Marly",
+        "official_name": "Escola Municipal de Educação Básica Marli Aparecida Borelli Bazetto",
+        "religion": "none",
+        "id": "node/11569336864"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.9714653,
+          -22.917609
         ]
       }
     }

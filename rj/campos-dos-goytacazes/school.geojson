@@ -325,10 +325,18 @@
       "type": "Feature",
       "id": "way/845487456",
       "properties": {
-        "timestamp": "2020-09-08T19:31:16Z",
-        "version": 1,
-        "changeset": 90603506,
+        "timestamp": "2024-01-30T01:26:17Z",
+        "version": 2,
+        "changeset": 146843536,
+        "addr:city": "Campos dos Goytacazes",
+        "addr:district": "Morro do Coco",
+        "addr:postcode": "28178-000",
+        "addr:street": "Avenida Doutor Nilo Peçanha",
+        "addr:suburb": "Centro",
         "amenity": "school",
+        "email": "cetheotoniofa@hotmail.com",
+        "name": "Centro Educacional Theotonio Ferreira de Araujo",
+        "phone": "+55 22 2721 5133",
         "id": "way/845487456"
       },
       "geometry": {
@@ -1791,6 +1799,91 @@
         "coordinates": [
           -41.4640456,
           -21.2177647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11568748421",
+      "properties": {
+        "timestamp": "2024-01-30T10:20:06Z",
+        "version": 1,
+        "changeset": 146857120,
+        "addr:city": "Campos dos Goytacazes",
+        "addr:district": "Santa Maria",
+        "addr:postcode": "28155-000",
+        "addr:street": "Rua Marte",
+        "addr:suburb": "Centro",
+        "amenity": "school",
+        "email": "em.santamaria@smec.campos.rj.gov.br",
+        "name": "Escola Municipal Santa Maria",
+        "operator": "Município de Campos dos Goytacazes",
+        "operator:type": "public",
+        "prhone": "+55 22 2781 2405",
+        "id": "node/11568748421"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.4505732,
+          -21.2682939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11568755097",
+      "properties": {
+        "timestamp": "2024-01-30T10:20:06Z",
+        "version": 1,
+        "changeset": 146857120,
+        "addr:city": "Campos dos Goytacazes",
+        "addr:district": "Santa Maria",
+        "addr:housenumber": "53",
+        "addr:postcode": "28155-000",
+        "addr:street": "Rua Mercúrio",
+        "addr:suburb": "Centro",
+        "amenity": "school",
+        "email": "ce.henriquejardim@edu.campos.rj.gov.br",
+        "name": "Centro de Educação Municipal Henrique Jardim da Cruz",
+        "operator": "Município de Campos dos Goytacazes",
+        "operator:type": "public",
+        "phone": "+55 22 98131 0817",
+        "id": "node/11568755097"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.4486147,
+          -21.2675198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11568755143",
+      "properties": {
+        "timestamp": "2024-01-30T10:20:06Z",
+        "version": 1,
+        "changeset": 146857120,
+        "addr:city": "Campos dos Goytacazes",
+        "addr:district": "Santa Maria",
+        "addr:postcode": "28155-000",
+        "addr:street": "Rua Marte",
+        "addr:suburb": "Centro",
+        "amenity": "school",
+        "email": "em.olimpiopeixotosampaio@edu.campos.rj.gov.br",
+        "name": "Escola Municipal Olimpio Peixoto Sampaio",
+        "operator": "Município de Campos dos Goytacazes",
+        "operator:type": "public",
+        "phone": "+55 22 98131 0664",
+        "id": "node/11568755143"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.4509494,
+          -21.2681965
         ]
       }
     }

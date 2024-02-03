@@ -4844,12 +4844,18 @@
       "type": "Feature",
       "id": "way/141516219",
       "properties": {
-        "timestamp": "2015-03-15T14:57:34Z",
-        "version": 3,
-        "changeset": 29497291,
+        "timestamp": "2024-01-30T02:32:44Z",
+        "version": 4,
+        "changeset": 146844592,
+        "addr:street": "SGAN 607, Módulo D",
+        "addr:suburb": "Asa Norte",
         "area": "yes",
-        "name": "Secretaria de Estado de Educação do Distrito Federal",
+        "government": "education",
+        "name": "Coordenação Regional de Ensino do Plano Piloto",
         "office": "government",
+        "old_name": "Fundação Educacional do Distrito Federal",
+        "operator": "Secretaria de Estado de Educação do Distrito Federal",
+        "short_name": "CREPP",
         "id": "way/141516219"
       },
       "geometry": {
@@ -15014,6 +15020,31 @@
         "coordinates": [
           -47.8455429,
           -15.8099012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2691204485",
+      "properties": {
+        "timestamp": "2024-01-30T02:16:31Z",
+        "version": 2,
+        "changeset": 146844339,
+        "addr:place": "SGAS 907, Conjunto A",
+        "addr:postcode": "70390-070",
+        "government": "education",
+        "name": "EAPE - Subsecretaria de Formação Continuada dos Profissionais da Educação",
+        "office": "government",
+        "old_name": "Escola de Aperfeiçoamento dos Profissionais de Educação",
+        "operator": "Secretaria de Estado de Educação do Distrito Federal",
+        "short_name": "EAPE",
+        "id": "node/2691204485"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.9072969,
+          -15.8071066
         ]
       }
     },

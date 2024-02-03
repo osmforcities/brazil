@@ -3,6 +3,71 @@
   "features": [
     {
       "type": "Feature",
+      "id": "relation/17127748",
+      "properties": {
+        "timestamp": "2024-01-30T14:22:16Z",
+        "version": 1,
+        "changeset": 146866303,
+        "addr:city": "Osasco",
+        "addr:housenumber": "35",
+        "addr:postcode": "06296-060",
+        "addr:street": "Rua Antônio Festa",
+        "alt_name": "Escola Estadual Professora Maria Augusta Siqueira",
+        "amenity": "school",
+        "name": "E.E Professora Maria Augusta Siqueira",
+        "type": "multipolygon",
+        "id": "relation/17127748"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.7576021,
+              -23.5174597
+            ],
+            [
+              -46.7576657,
+              -23.5180175
+            ],
+            [
+              -46.7576565,
+              -23.5180413
+            ],
+            [
+              -46.757637,
+              -23.5180533
+            ],
+            [
+              -46.7571695,
+              -23.5181647
+            ],
+            [
+              -46.7570731,
+              -23.5173023
+            ],
+            [
+              -46.7575795,
+              -23.5172615
+            ],
+            [
+              -46.7575932,
+              -23.5173814
+            ],
+            [
+              -46.7575993,
+              -23.5174349
+            ],
+            [
+              -46.7576021,
+              -23.5174597
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/147416052",
       "properties": {
         "timestamp": "2018-12-16T15:23:54Z",
@@ -4247,9 +4312,9 @@
       "type": "Feature",
       "id": "way/1243752174",
       "properties": {
-        "timestamp": "2024-01-28T18:11:05Z",
-        "version": 1,
-        "changeset": 146790006,
+        "timestamp": "2024-01-30T14:32:22Z",
+        "version": 2,
+        "changeset": 146866643,
         "addr:city": "Osasco",
         "addr:housenumber": "380",
         "addr:postcode": "06298-010",
@@ -4266,12 +4331,40 @@
               -23.519825
             ],
             [
+              -46.7537315,
+              -23.5198229
+            ],
+            [
               -46.7539692,
               -23.5198066
             ],
             [
+              -46.7539786,
+              -23.519806
+            ],
+            [
+              -46.7539862,
+              -23.5198054
+            ],
+            [
               -46.7543316,
               -23.5197817
+            ],
+            [
+              -46.754339,
+              -23.5198486
+            ],
+            [
+              -46.7543523,
+              -23.5199682
+            ],
+            [
+              -46.7543528,
+              -23.5199724
+            ],
+            [
+              -46.7543597,
+              -23.5200347
             ],
             [
               -46.754382,
@@ -4309,6 +4402,102 @@
               -46.7537012,
               -23.519825
             ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1244589351",
+      "properties": {
+        "timestamp": "2024-01-30T14:22:16Z",
+        "version": 1,
+        "changeset": 146866303,
+        "barrier": "wall",
+        "id": "way/1244589351"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7575932,
+            -23.5173814
+          ],
+          [
+            -46.7575795,
+            -23.5172615
+          ],
+          [
+            -46.7570731,
+            -23.5173023
+          ],
+          [
+            -46.7571695,
+            -23.5181647
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1244589352",
+      "properties": {
+        "timestamp": "2024-01-30T14:22:16Z",
+        "version": 1,
+        "changeset": 146866303,
+        "barrier": "wall",
+        "id": "way/1244589352"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7571695,
+            -23.5181647
+          ],
+          [
+            -46.757637,
+            -23.5180533
+          ],
+          [
+            -46.7576565,
+            -23.5180413
+          ],
+          [
+            -46.7576657,
+            -23.5180175
+          ],
+          [
+            -46.7576021,
+            -23.5174597
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1244589353",
+      "properties": {
+        "timestamp": "2024-01-30T14:22:16Z",
+        "version": 1,
+        "changeset": 146866303,
+        "barrier": "gate",
+        "id": "way/1244589353"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7576021,
+            -23.5174597
+          ],
+          [
+            -46.7575993,
+            -23.5174349
+          ],
+          [
+            -46.7575932,
+            -23.5173814
           ]
         ]
       }
@@ -4673,6 +4862,28 @@
         "coordinates": [
           -46.7539692,
           -23.5198066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11569340822",
+      "properties": {
+        "timestamp": "2024-01-30T14:22:16Z",
+        "version": 1,
+        "changeset": 146866303,
+        "addr:city": "Osasco",
+        "addr:housenumber": "35",
+        "addr:postcode": "06296-060",
+        "addr:street": "Rua Antônio Festa",
+        "entrance": "main",
+        "id": "node/11569340822"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7575993,
+          -23.5174349
         ]
       }
     }

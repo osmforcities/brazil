@@ -143,9 +143,9 @@
       "type": "Feature",
       "id": "way/174288418",
       "properties": {
-        "timestamp": "2019-08-13T21:27:19Z",
-        "version": 6,
-        "changeset": 73325696,
+        "timestamp": "2024-01-30T19:25:37Z",
+        "version": 7,
+        "changeset": 146876576,
         "addr:housenumber": "201",
         "addr:street": "Rua Frei Bruno",
         "amenity": "college",
@@ -159,11 +159,15 @@
         "coordinates": [
           [
             [
-              -52.6454096,
-              -27.0988388
+              -52.6453975,
+              -27.0988137
             ],
             [
-              -52.6458453,
+              -52.6457424,
+              -27.1002811
+            ],
+            [
+              -52.6458198,
               -27.1006105
             ],
             [
@@ -183,8 +187,8 @@
               -27.0990774
             ],
             [
-              -52.6454096,
-              -27.0988388
+              -52.6453975,
+              -27.0988137
             ]
           ]
         ]
@@ -465,6 +469,24 @@
         "coordinates": [
           -52.6182928,
           -27.0973775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11570530493",
+      "properties": {
+        "timestamp": "2024-01-30T19:25:37Z",
+        "version": 1,
+        "changeset": 146876576,
+        "barrier": "gate",
+        "id": "node/11570530493"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.6457424,
+          -27.1002811
         ]
       }
     }

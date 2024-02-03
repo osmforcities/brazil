@@ -6486,6 +6486,75 @@
     },
     {
       "type": "Feature",
+      "id": "relation/17135201",
+      "properties": {
+        "timestamp": "2024-01-31T20:56:37Z",
+        "version": 1,
+        "changeset": 146921113,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "23",
+        "addr:postcode": "02560-150",
+        "addr:street": "Rua Baltasar Abadal",
+        "alt_name": "EMEI Sete de Setembro",
+        "amenity": "school",
+        "name": "EMEI 7 de Setembro",
+        "type": "multipolygon",
+        "id": "relation/17135201"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.6712838,
+              -23.4935099
+            ],
+            [
+              -46.6712479,
+              -23.4935053
+            ],
+            [
+              -46.6711957,
+              -23.4934986
+            ],
+            [
+              -46.6710028,
+              -23.4934738
+            ],
+            [
+              -46.6710191,
+              -23.4931867
+            ],
+            [
+              -46.6711558,
+              -23.4931023
+            ],
+            [
+              -46.6713257,
+              -23.4931907
+            ],
+            [
+              -46.6714727,
+              -23.4933308
+            ],
+            [
+              -46.6715795,
+              -23.4934645
+            ],
+            [
+              -46.6716022,
+              -23.4935509
+            ],
+            [
+              -46.6712838,
+              -23.4935099
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/42759435",
       "properties": {
         "timestamp": "2022-01-12T15:24:24Z",
@@ -29444,17 +29513,21 @@
       "type": "Feature",
       "id": "way/462434879",
       "properties": {
-        "timestamp": "2018-09-04T15:16:09Z",
-        "version": 3,
-        "changeset": 62283003,
+        "timestamp": "2024-01-31T17:15:40Z",
+        "version": 4,
+        "changeset": 146913628,
         "addr:city": "São Paulo",
         "addr:housenumber": "201",
         "addr:postcode": "08341-240",
         "addr:street": "Rua Curumatim",
         "addr:suburb": "Parque Boa Esperança",
         "amenity": "school",
+        "contact:phone": "+55 11 2732 8158",
         "name": "CEU São Mateus",
-        "phone": "+55 11 2732-8154;+55 11 2732-8158",
+        "operator": "Secretaria Municipal de Educação",
+        "operator:type": "government",
+        "phone": "+55 11 2732 8154",
+        "religion": "none",
         "id": "way/462434879"
       },
       "geometry": {
@@ -48682,13 +48755,13 @@
       "type": "Feature",
       "id": "way/622759009",
       "properties": {
-        "timestamp": "2019-01-01T13:34:28Z",
-        "version": 2,
-        "changeset": 65932402,
+        "timestamp": "2024-01-31T16:50:52Z",
+        "version": 3,
+        "changeset": 146912672,
         "amenity": "school",
-        "building": "yes",
         "height": "7.057",
         "name": "Escola Estadual Carrãozinho III",
+        "religion": "none",
         "source": "pmsp",
         "id": "way/622759009"
       },
@@ -48697,32 +48770,32 @@
         "coordinates": [
           [
             [
-              -46.4537178,
-              -23.6086343
+              -46.4537276,
+              -23.6086626
             ],
             [
-              -46.4536719,
-              -23.6085964
+              -46.453413,
+              -23.6088083
             ],
             [
-              -46.4536476,
-              -23.6085764
+              -46.4533706,
+              -23.6087504
             ],
             [
-              -46.4536018,
-              -23.6085385
+              -46.4538317,
+              -23.6083082
             ],
             [
-              -46.453778,
-              -23.6083574
+              -46.4539867,
+              -23.6083588
             ],
             [
-              -46.4538974,
-              -23.6084497
+              -46.4541775,
+              -23.608496
             ],
             [
-              -46.4537178,
-              -23.6086343
+              -46.4537276,
+              -23.6086626
             ]
           ]
         ]
@@ -88453,6 +88526,106 @@
     },
     {
       "type": "Feature",
+      "id": "way/1245074084",
+      "properties": {
+        "timestamp": "2024-01-31T20:56:37Z",
+        "version": 1,
+        "changeset": 146921113,
+        "barrier": "wall",
+        "id": "way/1245074084"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.6713257,
+            -23.4931907
+          ],
+          [
+            -46.6711558,
+            -23.4931023
+          ],
+          [
+            -46.6710191,
+            -23.4931867
+          ],
+          [
+            -46.6710028,
+            -23.4934738
+          ],
+          [
+            -46.6711957,
+            -23.4934986
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1245074086",
+      "properties": {
+        "timestamp": "2024-01-31T20:56:37Z",
+        "version": 1,
+        "changeset": 146921113,
+        "barrier": "wall",
+        "id": "way/1245074086"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.6712838,
+            -23.4935099
+          ],
+          [
+            -46.6716022,
+            -23.4935509
+          ],
+          [
+            -46.6715795,
+            -23.4934645
+          ],
+          [
+            -46.6714727,
+            -23.4933308
+          ],
+          [
+            -46.6713257,
+            -23.4931907
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1245074087",
+      "properties": {
+        "timestamp": "2024-01-31T20:56:37Z",
+        "version": 1,
+        "changeset": 146921113,
+        "barrier": "gate",
+        "id": "way/1245074087"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.6711957,
+            -23.4934986
+          ],
+          [
+            -46.6712479,
+            -23.4935053
+          ],
+          [
+            -46.6712838,
+            -23.4935099
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/445225739",
       "properties": {
         "timestamp": "2020-10-21T09:53:55Z",
@@ -107135,6 +107308,27 @@
         "coordinates": [
           -46.6494383,
           -23.4697653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11574586236",
+      "properties": {
+        "timestamp": "2024-01-31T20:56:37Z",
+        "version": 1,
+        "changeset": 146921113,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "23",
+        "addr:postcode": "02560-150",
+        "addr:street": "Rua Baltasar Abadal",
+        "id": "node/11574586236"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6712479,
+          -23.4935053
         ]
       }
     }

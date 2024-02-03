@@ -17576,6 +17576,72 @@
     },
     {
       "type": "Feature",
+      "id": "way/1245062938",
+      "properties": {
+        "timestamp": "2024-01-31T20:26:19Z",
+        "version": 1,
+        "changeset": 146920236,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "351",
+        "addr:postcode": "02717-000",
+        "addr:street": "Avenida Inajar de Souza",
+        "addr:suburb": "Limão",
+        "name": "Brasília Park Hotel",
+        "phone": "+55 11 3931-6531",
+        "tourism": "hotel",
+        "website": "https://www.booking.com/hotel/br/brasilia-parque.pt-br.html?aid=356937&label=metagha-link-MRBR-hotel-3630474_dev-desktop_los-1_bw-7_dow-Tuesday_defdate-1_room-0_gstadt-2_rateid-public_aud-0_gacid-6623578791_mcid-10_ppa-0_clrid-0_ad-1_gstkid-0_checkin-2023",
+        "id": "way/1245062938"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.6876669,
+              -23.5016896
+            ],
+            [
+              -46.6876823,
+              -23.5020358
+            ],
+            [
+              -46.6875706,
+              -23.5020385
+            ],
+            [
+              -46.6875427,
+              -23.5019803
+            ],
+            [
+              -46.6875132,
+              -23.5019815
+            ],
+            [
+              -46.6875028,
+              -23.501956
+            ],
+            [
+              -46.6874927,
+              -23.5019315
+            ],
+            [
+              -46.68754,
+              -23.5019286
+            ],
+            [
+              -46.6875263,
+              -23.5016913
+            ],
+            [
+              -46.6876669,
+              -23.5016896
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/905643820",
       "properties": {
         "timestamp": "2021-02-10T02:03:22Z",
@@ -25374,32 +25440,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/11221550455",
-      "properties": {
-        "timestamp": "2023-09-27T01:46:10Z",
-        "version": 1,
-        "changeset": 141796388,
-        "addr:city": "São Paulo",
-        "addr:housenumber": "351",
-        "addr:postcode": "02717-000",
-        "addr:street": "Avenida Inajar de Souza",
-        "addr:suburb": "Limão",
-        "name": "Brasília Park Hotel",
-        "phone": "+55 11 3931-6531",
-        "tourism": "hotel",
-        "website": "https://www.booking.com/hotel/br/brasilia-parque.pt-br.html?aid=356937&label=metagha-link-MRBR-hotel-3630474_dev-desktop_los-1_bw-7_dow-Tuesday_defdate-1_room-0_gstadt-2_rateid-public_aud-0_gacid-6623578791_mcid-10_ppa-0_clrid-0_ad-1_gstkid-0_checkin-2023",
-        "id": "node/11221550455"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -46.6874589,
-          -23.5019318
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/11237056027",
       "properties": {
         "timestamp": "2023-10-03T20:33:55Z",
@@ -25524,6 +25564,29 @@
         "coordinates": [
           -46.641982,
           -23.8094538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11574572398",
+      "properties": {
+        "timestamp": "2024-01-31T20:26:19Z",
+        "version": 1,
+        "changeset": 146920236,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "351",
+        "addr:postcode": "02717-000",
+        "addr:street": "Avenida Inajar de Souza",
+        "addr:suburb": "Limão",
+        "entrance": "main",
+        "id": "node/11574572398"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6875028,
+          -23.501956
         ]
       }
     }

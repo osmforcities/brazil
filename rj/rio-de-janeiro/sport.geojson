@@ -47296,9 +47296,9 @@
       "type": "Feature",
       "id": "way/379876930",
       "properties": {
-        "timestamp": "2023-08-22T00:34:27Z",
-        "version": 25,
-        "changeset": 140204555,
+        "timestamp": "2024-01-31T03:07:01Z",
+        "version": 26,
+        "changeset": 146885719,
         "2016olympicgames": "venue",
         "2016olympicgames:zone": "Barra",
         "addr:city": "Rio de Janeiro",
@@ -47310,11 +47310,11 @@
         "building": "stadium",
         "capacity": "15.430",
         "leisure": "stadium",
-        "name": "Jeunesse Arena",
-        "name:en": "Jeunesse Arena",
-        "name:pt": "Jeunesse Arena",
+        "name": "Rio Arena",
+        "name:en": "Rio Arena",
+        "name:pt": "Rio Arena",
         "name:ru": "Олимпийская арена",
-        "old_name": "Arena Olímpica do Rio",
+        "old_name": "Arena Olímpica do Rio;Rio Arena",
         "source": "https://pt.wikipedia.org/wiki/Rio_Arena",
         "sport": "gymnastics",
         "website": "https://jeunessearena.com.br/",
@@ -100388,6 +100388,45 @@
     },
     {
       "type": "Feature",
+      "id": "way/1184340128",
+      "properties": {
+        "timestamp": "2024-01-31T15:30:17Z",
+        "version": 2,
+        "changeset": 146909831,
+        "leisure": "pitch",
+        "sport": "soccer;basketball",
+        "id": "way/1184340128"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.2372484,
+              -22.9211886
+            ],
+            [
+              -43.2371926,
+              -22.9212842
+            ],
+            [
+              -43.2370036,
+              -22.9211906
+            ],
+            [
+              -43.2370594,
+              -22.9210951
+            ],
+            [
+              -43.2372484,
+              -22.9211886
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1184362012",
       "properties": {
         "timestamp": "2023-06-23T01:36:43Z",
@@ -102993,6 +103032,174 @@
             [
               -43.2177719,
               -22.9176357
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1244813112",
+      "properties": {
+        "timestamp": "2024-01-31T04:48:44Z",
+        "version": 1,
+        "changeset": 146887381,
+        "leisure": "pitch",
+        "sport": "soccer",
+        "id": "way/1244813112"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.2683233,
+              -22.9214207
+            ],
+            [
+              -43.2682668,
+              -22.9215437
+            ],
+            [
+              -43.2680537,
+              -22.9214607
+            ],
+            [
+              -43.2681102,
+              -22.9213376
+            ],
+            [
+              -43.2683233,
+              -22.9214207
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1244813113",
+      "properties": {
+        "timestamp": "2024-01-31T04:48:44Z",
+        "version": 1,
+        "changeset": 146887381,
+        "leisure": "pitch",
+        "sport": "tennis",
+        "id": "way/1244813113"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.2681363,
+              -22.921195
+            ],
+            [
+              -43.2679925,
+              -22.9214966
+            ],
+            [
+              -43.2678231,
+              -22.9214281
+            ],
+            [
+              -43.2679669,
+              -22.9211265
+            ],
+            [
+              -43.2681363,
+              -22.921195
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1244813114",
+      "properties": {
+        "timestamp": "2024-01-31T04:48:44Z",
+        "version": 1,
+        "changeset": 146887381,
+        "leisure": "pitch",
+        "sport": "tennis",
+        "id": "way/1244813114"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.267965,
+              -22.9215414
+            ],
+            [
+              -43.2679599,
+              -22.9215521
+            ],
+            [
+              -43.2678381,
+              -22.9218076
+            ],
+            [
+              -43.2678212,
+              -22.921843
+            ],
+            [
+              -43.2676618,
+              -22.9217786
+            ],
+            [
+              -43.2676518,
+              -22.9217745
+            ],
+            [
+              -43.2677956,
+              -22.9214729
+            ],
+            [
+              -43.267965,
+              -22.9215414
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1244813115",
+      "properties": {
+        "timestamp": "2024-01-31T04:48:44Z",
+        "version": 1,
+        "changeset": 146887381,
+        "leisure": "pitch",
+        "sport": "soccer",
+        "id": "way/1244813115"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.268777,
+              -22.9215131
+            ],
+            [
+              -43.2686327,
+              -22.9218968
+            ],
+            [
+              -43.2684481,
+              -22.9218379
+            ],
+            [
+              -43.2685925,
+              -22.9214542
+            ],
+            [
+              -43.268777,
+              -22.9215131
             ]
           ]
         ]

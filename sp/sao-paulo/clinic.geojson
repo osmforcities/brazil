@@ -938,6 +938,91 @@
     },
     {
       "type": "Feature",
+      "id": "relation/17135200",
+      "properties": {
+        "timestamp": "2024-01-31T20:56:37Z",
+        "version": 1,
+        "changeset": 146921113,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "670",
+        "addr:street": "Rua Professor Dário Ribeiro",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "UBS Vila Santa Maria",
+        "type": "multipolygon",
+        "id": "relation/17135200"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.671468,
+              -23.4929907
+            ],
+            [
+              -46.6714997,
+              -23.4930153
+            ],
+            [
+              -46.6715435,
+              -23.4930491
+            ],
+            [
+              -46.6718206,
+              -23.4932634
+            ],
+            [
+              -46.6718206,
+              -23.4932771
+            ],
+            [
+              -46.6718172,
+              -23.4933013
+            ],
+            [
+              -46.6718011,
+              -23.4933403
+            ],
+            [
+              -46.6717712,
+              -23.4933866
+            ],
+            [
+              -46.6715795,
+              -23.4934645
+            ],
+            [
+              -46.6714727,
+              -23.4933308
+            ],
+            [
+              -46.6713257,
+              -23.4931907
+            ],
+            [
+              -46.6711558,
+              -23.4931023
+            ],
+            [
+              -46.6710513,
+              -23.4930465
+            ],
+            [
+              -46.6712786,
+              -23.4928443
+            ],
+            [
+              -46.671468,
+              -23.4929907
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/146947250",
       "properties": {
         "timestamp": "2023-07-28T23:23:19Z",
@@ -4198,16 +4283,22 @@
       "type": "Feature",
       "id": "way/547523906",
       "properties": {
-        "timestamp": "2018-09-04T15:16:11Z",
-        "version": 2,
-        "changeset": 62283003,
+        "timestamp": "2024-01-31T16:41:49Z",
+        "version": 5,
+        "changeset": 146912351,
         "addr:city": "São Paulo",
+        "addr:housenumber": "330",
+        "addr:postcode": "08343-000",
         "addr:street": "Travessa Somos Todos Iguais",
         "addr:suburb": "Jardim da Conquista",
         "amenity": "clinic",
+        "building": "yes",
+        "email": "ubsconquista3@saude.prefeitura.sp.gov.br",
         "healthcare": "hospital",
         "healthcare:speciality": "general",
-        "name": "AMA",
+        "name": "UBS/ AMA Integrada Jardim da Conquista III",
+        "opening_hours": "Mo-Fr 07:00-19:00; PH off",
+        "source": "CNES",
         "id": "way/547523906"
       },
       "geometry": {
@@ -4215,24 +4306,24 @@
         "coordinates": [
           [
             [
-              -46.4526643,
-              -23.6087597
+              -46.452669,
+              -23.6088116
             ],
             [
-              -46.4528024,
-              -23.6090055
+              -46.4527695,
+              -23.6090353
             ],
             [
-              -46.4526053,
-              -23.609078
+              -46.4526395,
+              -23.6091004
             ],
             [
-              -46.4525302,
-              -23.6087548
+              -46.4525564,
+              -23.6088042
             ],
             [
-              -46.4526643,
-              -23.6087597
+              -46.452669,
+              -23.6088116
             ]
           ]
         ]
@@ -13024,6 +13115,122 @@
     },
     {
       "type": "Feature",
+      "id": "way/1245074080",
+      "properties": {
+        "timestamp": "2024-01-31T20:56:37Z",
+        "version": 1,
+        "changeset": 146921113,
+        "barrier": "wall",
+        "id": "way/1245074080"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.6713257,
+            -23.4931907
+          ],
+          [
+            -46.6714727,
+            -23.4933308
+          ],
+          [
+            -46.6715795,
+            -23.4934645
+          ],
+          [
+            -46.6717712,
+            -23.4933866
+          ],
+          [
+            -46.6718011,
+            -23.4933403
+          ],
+          [
+            -46.6718172,
+            -23.4933013
+          ],
+          [
+            -46.6718206,
+            -23.4932771
+          ],
+          [
+            -46.6718206,
+            -23.4932634
+          ],
+          [
+            -46.6715435,
+            -23.4930491
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1245074081",
+      "properties": {
+        "timestamp": "2024-01-31T20:56:37Z",
+        "version": 1,
+        "changeset": 146921113,
+        "barrier": "wall",
+        "id": "way/1245074081"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.671468,
+            -23.4929907
+          ],
+          [
+            -46.6712786,
+            -23.4928443
+          ],
+          [
+            -46.6710513,
+            -23.4930465
+          ],
+          [
+            -46.6711558,
+            -23.4931023
+          ],
+          [
+            -46.6713257,
+            -23.4931907
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1245074082",
+      "properties": {
+        "timestamp": "2024-01-31T20:56:37Z",
+        "version": 1,
+        "changeset": 146921113,
+        "barrier": "gate",
+        "id": "way/1245074082"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.6715435,
+            -23.4930491
+          ],
+          [
+            -46.6714997,
+            -23.4930153
+          ],
+          [
+            -46.671468,
+            -23.4929907
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/745741490",
       "properties": {
         "timestamp": "2019-11-04T23:07:36Z",
@@ -18417,6 +18624,26 @@
         "coordinates": [
           -46.6772621,
           -23.5641765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11574586222",
+      "properties": {
+        "timestamp": "2024-01-31T20:56:37Z",
+        "version": 1,
+        "changeset": 146921113,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "670",
+        "addr:street": "Rua Professor Dário Ribeiro",
+        "id": "node/11574586222"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6714997,
+          -23.4930153
         ]
       }
     }

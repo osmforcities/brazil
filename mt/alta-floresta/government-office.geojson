@@ -5,10 +5,11 @@
       "type": "Feature",
       "id": "way/1245003690",
       "properties": {
-        "timestamp": "2024-01-31T17:44:35Z",
-        "version": 1,
-        "changeset": 146914821,
+        "timestamp": "2024-02-01T20:38:04Z",
+        "version": 2,
+        "changeset": 146961424,
         "building": "yes",
+        "government": "public_service",
         "office": "government",
         "id": "way/1245003690"
       },
@@ -44,16 +45,16 @@
       "type": "Feature",
       "id": "way/1245003691",
       "properties": {
-        "timestamp": "2024-01-31T17:44:35Z",
-        "version": 1,
-        "changeset": 146914821,
+        "timestamp": "2024-02-01T14:39:18Z",
+        "version": 2,
+        "changeset": 146949016,
         "addr:city": "Alta Floresta",
         "addr:housenumber": "3385",
         "addr:postcode": "78580-000",
         "addr:street": "Avenida Ariosto da Riva",
         "addr:suburb": "Centro",
         "building": "yes",
-        "government": "administrative",
+        "government": "education",
         "name": "Secretaria Municipal de Educação de Alta Floresta",
         "office": "government",
         "opening_hours": "Mo-Fr 07:00-13:00",
@@ -107,11 +108,11 @@
       "type": "Feature",
       "id": "way/1245003692",
       "properties": {
-        "timestamp": "2024-01-31T17:44:35Z",
-        "version": 1,
-        "changeset": 146914821,
+        "timestamp": "2024-02-01T20:38:04Z",
+        "version": 2,
+        "changeset": 146961424,
         "building": "yes",
-        "government": "administrative",
+        "government": "forestry",
         "name": "Secretaria Municipal de Meio Ambiente de Alta Floresta",
         "office": "government",
         "id": "way/1245003692"
@@ -139,6 +140,47 @@
             [
               -56.1023647,
               -9.8712012
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1245279592",
+      "properties": {
+        "timestamp": "2024-02-01T14:39:18Z",
+        "version": 1,
+        "changeset": 146949016,
+        "building": "yes",
+        "government": "education",
+        "name": "DRE - Riretoria Reginal de Educação Alta Floresta",
+        "office": "government",
+        "id": "way/1245279592"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -56.0766912,
+              -9.8787998
+            ],
+            [
+              -56.0768006,
+              -9.8791398
+            ],
+            [
+              -56.0761998,
+              -9.8793274
+            ],
+            [
+              -56.0760904,
+              -9.8789872
+            ],
+            [
+              -56.0766912,
+              -9.8787998
             ]
           ]
         ]

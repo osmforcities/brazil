@@ -1215,45 +1215,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/198243054",
-      "properties": {
-        "timestamp": "2012-12-27T01:04:05Z",
-        "version": 1,
-        "changeset": 14420068,
-        "leisure": "pitch",
-        "sport": "soccer",
-        "id": "way/198243054"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -51.0845211,
-              -21.6826385
-            ],
-            [
-              -51.0849475,
-              -21.682814
-            ],
-            [
-              -51.0848211,
-              -21.6830793
-            ],
-            [
-              -51.0843946,
-              -21.6829039
-            ],
-            [
-              -51.0845211,
-              -21.6826385
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/198243056",
       "properties": {
         "timestamp": "2012-12-27T01:04:05Z",
@@ -1364,46 +1325,6 @@
             [
               -51.0860717,
               -21.6600856
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/242815194",
-      "properties": {
-        "timestamp": "2017-12-01T14:03:43Z",
-        "version": 2,
-        "changeset": 54236881,
-        "leisure": "sports_centre",
-        "name": "Adamantina Tenis Clube - ATC",
-        "sport": "soccer;basketball;swimming;volleyball;running;football",
-        "id": "way/242815194"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -51.0881775,
-              -21.6903689
-            ],
-            [
-              -51.0860992,
-              -21.6895273
-            ],
-            [
-              -51.0866764,
-              -21.6882964
-            ],
-            [
-              -51.0887548,
-              -21.689138
-            ],
-            [
-              -51.0881775,
-              -21.6903689
             ]
           ]
         ]
@@ -1941,6 +1862,51 @@
               -51.07973,
               -21.6699028
             ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/242815194",
+      "properties": {
+        "timestamp": "2024-02-02T21:35:24Z",
+        "version": 3,
+        "changeset": 147001724,
+        "addr:housenumber": "1249",
+        "addr:street": "Alameda Francisco José de Azevedo",
+        "club": "social",
+        "contact:facebook": "https://pt-br.facebook.com/adamantinatc/",
+        "contact:instagram": "https://www.instagram.com/atcadamantina/",
+        "email": "atc.adamantina@hotmail.com",
+        "mobile": "+55 18 99600 1830",
+        "name": "Adamantina Tenis Clube - ATC",
+        "opening_hours": "Mo-Su,PH 08:30-18:00",
+        "sport": "soccer;basketball;swimming;volleyball;running;football",
+        "id": "way/242815194"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -51.0881775,
+            -21.6903689
+          ],
+          [
+            -51.0860992,
+            -21.6895273
+          ],
+          [
+            -51.0866764,
+            -21.6882964
+          ],
+          [
+            -51.0887548,
+            -21.689138
+          ],
+          [
+            -51.0881775,
+            -21.6903689
           ]
         ]
       }

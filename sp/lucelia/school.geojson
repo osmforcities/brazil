@@ -5,9 +5,9 @@
       "type": "Feature",
       "id": "way/652510356",
       "properties": {
-        "timestamp": "2021-05-01T02:40:44Z",
-        "version": 5,
-        "changeset": 103940597,
+        "timestamp": "2024-02-02T21:47:05Z",
+        "version": 6,
+        "changeset": 147002013,
         "addr:housenumber": "1270",
         "addr:postcode": "17780-000",
         "addr:street": "Avenida Internacional",
@@ -20,6 +20,7 @@
         "operator:type": "government",
         "phone": "+55 18 3551 1664",
         "ref": "INEP-35030788",
+        "religion": "none",
         "source": "CADMEC 2017;INEP-",
         "id": "way/652510356"
       },
@@ -97,6 +98,45 @@
             [
               -51.0179608,
               -21.7268351
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/652510368",
+      "properties": {
+        "timestamp": "2024-02-02T21:47:05Z",
+        "version": 5,
+        "changeset": 147002013,
+        "amenity": "school",
+        "name": "EMEF Maria do Carmo de Menezes",
+        "id": "way/652510368"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.0239953,
+              -21.720541
+            ],
+            [
+              -51.0240782,
+              -21.7209366
+            ],
+            [
+              -51.0233031,
+              -21.7210978
+            ],
+            [
+              -51.0232223,
+              -21.7207103
+            ],
+            [
+              -51.0239953,
+              -21.720541
             ]
           ]
         ]

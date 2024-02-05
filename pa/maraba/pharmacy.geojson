@@ -3,21 +3,42 @@
   "features": [
     {
       "type": "Feature",
-      "id": "node/10805142398",
+      "id": "way/1245905169",
       "properties": {
-        "timestamp": "2023-04-12T17:47:26Z",
+        "timestamp": "2024-02-03T19:31:18Z",
         "version": 1,
-        "changeset": 134829628,
+        "changeset": 147031711,
         "amenity": "pharmacy",
+        "building": "yes",
         "dispensing": "yes",
         "healthcare": "pharmacy",
-        "id": "node/10805142398"
+        "id": "way/1245905169"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -49.1328585,
-          -5.3490894
+          [
+            [
+              -49.1329139,
+              -5.3489988
+            ],
+            [
+              -49.1328092,
+              -5.3492434
+            ],
+            [
+              -49.1327584,
+              -5.3492218
+            ],
+            [
+              -49.1328631,
+              -5.3489772
+            ],
+            [
+              -49.1329139,
+              -5.3489988
+            ]
+          ]
         ]
       }
     }

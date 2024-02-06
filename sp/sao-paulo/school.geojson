@@ -55660,19 +55660,20 @@
       "type": "Feature",
       "id": "way/724310808",
       "properties": {
-        "timestamp": "2019-09-13T12:19:28Z",
-        "version": 1,
-        "changeset": 74435155,
+        "timestamp": "2024-02-04T04:58:34Z",
+        "version": 2,
+        "changeset": 147040932,
         "addr:postcode": "03656-060",
         "addr:street": "Rua Puquixã",
         "addr:suburb": "Vila Ré",
+        "alt_name": "Escola Estadual Professora Maria de Carvalho Senne",
         "amenity": "school",
+        "barrier": "wall",
         "email": "e002562a@educacao.sp.gov.br",
-        "name": "Escola Estadual Professora Maria de Carvalho Senne",
+        "name": "E.E Professora Maria de Carvalho Senne",
         "note": "Sem número.",
         "phone": "+55 11 2957-0101;+55 11 2957-6657",
         "ref": "35002562",
-        "short_name": "EE Professora Maria de Carvalho Senne",
         "id": "way/724310808"
       },
       "geometry": {
@@ -55680,24 +55681,44 @@
         "coordinates": [
           [
             [
-              -46.5097431,
-              -23.5247651
+              -46.5097582,
+              -23.5247606
             ],
             [
-              -46.5098592,
-              -23.5252869
+              -46.5097653,
+              -23.524793
+            ],
+            [
+              -46.5097895,
+              -23.5249033
+            ],
+            [
+              -46.509873,
+              -23.5252837
             ],
             [
               -46.5092266,
               -23.5254052
             ],
             [
-              -46.5091105,
-              -23.5248834
+              -46.5091172,
+              -23.5248837
             ],
             [
-              -46.5097431,
-              -23.5247651
+              -46.5090871,
+              -23.5247415
+            ],
+            [
+              -46.5093588,
+              -23.5246909
+            ],
+            [
+              -46.5097274,
+              -23.5246206
+            ],
+            [
+              -46.5097582,
+              -23.5247606
             ]
           ]
         ]
@@ -107329,6 +107350,24 @@
         "coordinates": [
           -46.6712479,
           -23.4935053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11583583059",
+      "properties": {
+        "timestamp": "2024-02-04T04:58:34Z",
+        "version": 1,
+        "changeset": 147040932,
+        "entrance": "main",
+        "id": "node/11583583059"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5097653,
+          -23.524793
         ]
       }
     }

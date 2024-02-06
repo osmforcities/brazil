@@ -328,57 +328,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/728906379",
-      "properties": {
-        "timestamp": "2019-09-26T23:38:09Z",
-        "version": 1,
-        "changeset": 74984028,
-        "amenity": "school",
-        "name": "E.M Ismênia de Barros Barroso",
-        "id": "way/728906379"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -42.5955388,
-              -22.9206239
-            ],
-            [
-              -42.5955211,
-              -22.9210053
-            ],
-            [
-              -42.5954929,
-              -22.9213727
-            ],
-            [
-              -42.5949368,
-              -22.9213335
-            ],
-            [
-              -42.5949559,
-              -22.9211471
-            ],
-            [
-              -42.5949672,
-              -22.9209597
-            ],
-            [
-              -42.5949902,
-              -22.9205832
-            ],
-            [
-              -42.5955388,
-              -22.9206239
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/728906382",
       "properties": {
         "timestamp": "2019-09-26T23:38:09Z",
@@ -725,6 +674,32 @@
         "coordinates": [
           -42.4117227,
           -22.9036588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11585136755",
+      "properties": {
+        "timestamp": "2024-02-04T20:25:36Z",
+        "version": 1,
+        "changeset": 147068407,
+        "addr:city": "Saquarema",
+        "addr:country": "BR",
+        "addr:postcode": "28997-040",
+        "addr:state": "RJ",
+        "addr:street": "Rua Noventa e Sete",
+        "addr:suburb": "Jaconé",
+        "amenity": "school",
+        "name": "E.M. Ismênia de Barros Barroso",
+        "nohousenumber": "yes",
+        "id": "node/11585136755"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.5953344,
+          -22.9210558
         ]
       }
     }

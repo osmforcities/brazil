@@ -5312,9 +5312,11 @@
       "type": "Feature",
       "id": "way/318404110",
       "properties": {
-        "timestamp": "2018-11-26T20:49:48Z",
-        "version": 2,
-        "changeset": 64911316,
+        "timestamp": "2024-02-04T19:40:42Z",
+        "version": 3,
+        "changeset": 147066890,
+        "addr:housenumber": "270",
+        "addr:street": "Rua General Roberto Alves de Carvalho Filho",
         "amenity": "hospital",
         "name": "Hospital Regional Sul",
         "id": "way/318404110"
@@ -5328,12 +5330,12 @@
               -23.6550869
             ],
             [
-              -46.7059933,
-              -23.6557694
+              -46.7059879,
+              -23.6557891
             ],
             [
-              -46.7059063,
-              -23.6557686
+              -46.7058151,
+              -23.6557489
             ],
             [
               -46.7056314,
@@ -17952,6 +17954,24 @@
         "coordinates": [
           -46.6489502,
           -23.5426353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6093768404",
+      "properties": {
+        "timestamp": "2024-02-04T19:40:42Z",
+        "version": 2,
+        "changeset": 147066890,
+        "entrance": "main",
+        "id": "node/6093768404"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7058151,
+          -23.6557489
         ]
       }
     },

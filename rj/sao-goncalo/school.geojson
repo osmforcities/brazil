@@ -2580,76 +2580,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/780337533",
-      "properties": {
-        "timestamp": "2020-03-11T21:30:55Z",
-        "version": 1,
-        "changeset": 82080108,
-        "amenity": "school",
-        "id": "way/780337533"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -42.9963019,
-              -22.861792
-            ],
-            [
-              -42.9968787,
-              -22.8625076
-            ],
-            [
-              -42.9969816,
-              -22.8626352
-            ],
-            [
-              -42.9965631,
-              -22.8627727
-            ],
-            [
-              -42.9963083,
-              -22.8626343
-            ],
-            [
-              -42.9960495,
-              -22.8622821
-            ],
-            [
-              -42.9960749,
-              -22.8620708
-            ],
-            [
-              -42.995859,
-              -22.8618397
-            ],
-            [
-              -42.9958711,
-              -22.8616741
-            ],
-            [
-              -42.9957544,
-              -22.8615456
-            ],
-            [
-              -42.9959423,
-              -22.8613551
-            ],
-            [
-              -42.9964186,
-              -22.8617383
-            ],
-            [
-              -42.9963019,
-              -22.861792
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/939558591",
       "properties": {
         "timestamp": "2021-05-06T00:19:42Z",
@@ -2682,45 +2612,6 @@
             [
               -42.9717143,
               -22.8250531
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/939558593",
-      "properties": {
-        "timestamp": "2023-05-05T18:45:20Z",
-        "version": 2,
-        "changeset": 135753138,
-        "amenity": "school",
-        "name": "C.E Colégio Estadual Eliza Maria Dutra",
-        "id": "way/939558593"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -42.9606286,
-              -22.8311415
-            ],
-            [
-              -42.9610236,
-              -22.8311339
-            ],
-            [
-              -42.9610356,
-              -22.8316722
-            ],
-            [
-              -42.9606761,
-              -22.8316399
-            ],
-            [
-              -42.9606286,
-              -22.8311415
             ]
           ]
         ]
@@ -4168,6 +4059,50 @@
         "coordinates": [
           -43.0488172,
           -22.8023965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11585159888",
+      "properties": {
+        "timestamp": "2024-02-04T20:35:45Z",
+        "version": 1,
+        "changeset": 147068749,
+        "addr:city": "São Gonçalo",
+        "addr:country": "BR",
+        "addr:housenumber": "475",
+        "addr:postcode": "24735-045",
+        "addr:state": "RJ",
+        "addr:street": "Estrada Sacramento",
+        "addr:suburb": "Sacramento",
+        "amenity": "school",
+        "name": "C.E. Eliza Maria Dutra",
+        "id": "node/11585159888"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.9609339,
+          -22.8313807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11585203003",
+      "properties": {
+        "timestamp": "2024-02-04T20:54:39Z",
+        "version": 1,
+        "changeset": 147069306,
+        "amenity": "school",
+        "id": "node/11585203003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.9964531,
+          -22.862328
         ]
       }
     }

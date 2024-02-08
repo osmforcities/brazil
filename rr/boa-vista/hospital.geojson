@@ -552,9 +552,9 @@
       "type": "Feature",
       "id": "way/942925171",
       "properties": {
-        "timestamp": "2023-11-02T17:34:48Z",
-        "version": 3,
-        "changeset": 143542896,
+        "timestamp": "2024-02-05T00:19:23Z",
+        "version": 4,
+        "changeset": 147073735,
         "amenity": "hospital",
         "healthcare": "hospital",
         "healthcare:speciality": "oncology",
@@ -568,6 +568,10 @@
             [
               -60.6960702,
               2.8143449
+            ],
+            [
+              -60.6961473,
+              2.8150982
             ],
             [
               -60.6962124,
@@ -731,6 +735,24 @@
         "coordinates": [
           -60.7438748,
           2.8084045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11307888112",
+      "properties": {
+        "timestamp": "2024-02-05T00:19:23Z",
+        "version": 2,
+        "changeset": 147073735,
+        "barrier": "gate",
+        "id": "node/11307888112"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6961473,
+          2.8150982
         ]
       }
     }

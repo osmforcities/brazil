@@ -3,45 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": "way/407487098",
-      "properties": {
-        "timestamp": "2016-04-04T00:14:36Z",
-        "version": 2,
-        "changeset": 38278106,
-        "amenity": "school",
-        "name": "Escola Municipal Cacilda Silva",
-        "id": "way/407487098"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -42.835769,
-              -22.9106166
-            ],
-            [
-              -42.8356859,
-              -22.9100854
-            ],
-            [
-              -42.8359836,
-              -22.9100409
-            ],
-            [
-              -42.8360721,
-              -22.9105721
-            ],
-            [
-              -42.835769,
-              -22.9106166
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/4187560997",
       "properties": {
         "timestamp": "2016-05-15T16:37:28Z",
@@ -2026,6 +1987,34 @@
         "coordinates": [
           -42.7098484,
           -22.8888706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11585766733",
+      "properties": {
+        "timestamp": "2024-02-05T01:24:13Z",
+        "version": 1,
+        "changeset": 147074793,
+        "addr:city": "Maricá",
+        "addr:country": "BR",
+        "addr:postcode": "24900-000",
+        "addr:state": "RJ",
+        "addr:street": "Avenida Clímaco de Figueiredo",
+        "addr:suburb": "Itapeba",
+        "amenity": "school",
+        "name": "E.E. Cacilda da Silva",
+        "nohousenumber": "yes",
+        "operator": "Governo do Estado do Rio de Janeiro",
+        "operator:type": "government",
+        "id": "node/11585766733"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.8358773,
+          -22.9102439
         ]
       }
     }

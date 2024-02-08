@@ -3992,12 +3992,15 @@
       "type": "Feature",
       "id": "way/147770692",
       "properties": {
-        "timestamp": "2024-02-05T21:20:54Z",
-        "version": 6,
-        "changeset": 147110211,
+        "timestamp": "2024-02-06T17:00:57Z",
+        "version": 8,
+        "changeset": 147143514,
+        "access": "yes",
+        "alt_name": "Ginásio do Taquaral",
         "building": "yes",
         "leisure": "sports_hall",
         "name": "Ginásio de Esportes Engº Alberto Jordano P. Ribeiro",
+        "opening_hours": "Mo-Sa 07:00-22:00",
         "sport": "basketball;volleyball;soccer",
         "id": "way/147770692"
       },
@@ -18456,13 +18459,16 @@
       "type": "Feature",
       "id": "way/977437980",
       "properties": {
-        "timestamp": "2024-01-28T19:28:09Z",
-        "version": 7,
-        "changeset": 146792574,
+        "timestamp": "2024-02-06T17:00:57Z",
+        "version": 8,
+        "changeset": 147143514,
         "barrier": "wall",
         "building": "no",
+        "fee": "yes",
         "leisure": "sports_centre",
+        "name": "Arena Sports",
         "sport": "soccer;beachvolleyball;multi",
+        "website": "http://instagram.com/arenasportscampinas",
         "id": "way/977437980"
       },
       "geometry": {
@@ -26570,6 +26576,132 @@
         "coordinates": [
           -47.0805404,
           -22.8198343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11591749843",
+      "properties": {
+        "timestamp": "2024-02-06T14:13:28Z",
+        "version": 1,
+        "changeset": 147137491,
+        "bench": "yes",
+        "leisure": "picnic_table",
+        "lit": "yes",
+        "material": "concrete",
+        "sport": "chess",
+        "id": "node/11591749843"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0488951,
+          -22.8754174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11592221253",
+      "properties": {
+        "timestamp": "2024-02-06T17:00:57Z",
+        "version": 1,
+        "changeset": 147143514,
+        "leisure": "fitness_centre",
+        "name": "SixFit Academia",
+        "sport": "fitness",
+        "id": "node/11592221253"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.046941,
+          -22.8561932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11592221262",
+      "properties": {
+        "timestamp": "2024-02-06T17:00:57Z",
+        "version": 1,
+        "changeset": 147143514,
+        "leisure": "pitch",
+        "name": "Campos de Futebol",
+        "sport": "soccer",
+        "id": "node/11592221262"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.060884,
+          -22.8774551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11592221263",
+      "properties": {
+        "timestamp": "2024-02-06T17:00:57Z",
+        "version": 1,
+        "changeset": 147143514,
+        "leisure": "pitch",
+        "name": "Quadras Poliesportivas",
+        "sport": "volleyball;beachvolleyball;basketball",
+        "id": "node/11592221263"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0599774,
+          -22.876857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11592221266",
+      "properties": {
+        "timestamp": "2024-02-06T17:00:57Z",
+        "version": 1,
+        "changeset": 147143514,
+        "access": "yes",
+        "leisure": "pitch",
+        "name": "Quadras de Tenis",
+        "sport": "tennis",
+        "id": "node/11592221266"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0556699,
+          -22.8762716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11592315651",
+      "properties": {
+        "timestamp": "2024-02-06T17:59:23Z",
+        "version": 1,
+        "changeset": 147145553,
+        "addr:housenumber": "1627",
+        "addr:street": "Rua Jorge de Figueredo Corrêa",
+        "addr:suburb": "Chácara Primavera",
+        "leisure": "fitness_centre",
+        "name": "Crossfit Crown",
+        "sport": "fitness",
+        "id": "node/11592315651"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0465109,
+          -22.8575091
         ]
       }
     }

@@ -6555,6 +6555,86 @@
     },
     {
       "type": "Feature",
+      "id": "relation/17160751",
+      "properties": {
+        "timestamp": "2024-02-06T01:12:25Z",
+        "version": 1,
+        "changeset": 147114663,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "859",
+        "addr:postcode": "02539-000",
+        "addr:street": "Rua Armando Coelho Silva",
+        "amenity": "school",
+        "name": "EMEF Comandante Garcia D'ávila",
+        "type": "multipolygon",
+        "id": "relation/17160751"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.6553215,
+              -23.4915225
+            ],
+            [
+              -46.6555236,
+              -23.4916425
+            ],
+            [
+              -46.6556015,
+              -23.49154
+            ],
+            [
+              -46.6560161,
+              -23.4919156
+            ],
+            [
+              -46.6552876,
+              -23.4926036
+            ],
+            [
+              -46.6550368,
+              -23.4923397
+            ],
+            [
+              -46.6548553,
+              -23.4920954
+            ],
+            [
+              -46.6547795,
+              -23.4919669
+            ],
+            [
+              -46.6546992,
+              -23.4918131
+            ],
+            [
+              -46.6546007,
+              -23.4915783
+            ],
+            [
+              -46.6544941,
+              -23.4913242
+            ],
+            [
+              -46.6549624,
+              -23.4911579
+            ],
+            [
+              -46.6554409,
+              -23.4914024
+            ],
+            [
+              -46.6553215,
+              -23.4915225
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/42759435",
       "properties": {
         "timestamp": "2022-01-12T15:24:24Z",
@@ -24077,9 +24157,9 @@
       "type": "Feature",
       "id": "way/433869405",
       "properties": {
-        "timestamp": "2019-09-04T17:12:47Z",
-        "version": 8,
-        "changeset": 74098365,
+        "timestamp": "2024-02-06T01:12:25Z",
+        "version": 9,
+        "changeset": 147114663,
         "addr:city": "São Paulo",
         "addr:country": "BR",
         "addr:district": "Casa Verde",
@@ -24088,12 +24168,14 @@
         "addr:state": "SP",
         "addr:street": "Rua Padre João Gualberto",
         "addr:suburb": "Imirim",
+        "alt_name": "Escola Estadual Professor Augusto Meirelles Reis Filho",
         "amenity": "school",
+        "barrier": "wall",
         "contact:email": "e000462a@educacao.sp.gov.br",
         "contact:fax": "+55 11 2239-2207",
         "contact:phone": "+55 11 2239-2001;+55 11 2239-2207",
         "loc_name": "Meirelles",
-        "name": "Escola Estadual Professor Augusto Meirelles Reis Filho",
+        "name": "E.E Professor Augusto Meirelles Reis Filho",
         "note": "Área total aproximada.",
         "ref": "35000462",
         "short_name": "EE Professor Augusto Meirelles Reis Filho",
@@ -24104,24 +24186,36 @@
         "coordinates": [
           [
             [
-              -46.6524984,
-              -23.4916297
+              -46.6524894,
+              -23.4916366
             ],
             [
-              -46.6515172,
-              -23.4924186
+              -46.651452,
+              -23.4924748
             ],
             [
-              -46.6508548,
-              -23.4917683
+              -46.6508522,
+              -23.4918281
             ],
             [
-              -46.6518937,
-              -23.4911785
+              -46.6514115,
+              -23.4914935
             ],
             [
-              -46.6524984,
-              -23.4916297
+              -46.6518743,
+              -23.4912166
+            ],
+            [
+              -46.6519057,
+              -23.4912143
+            ],
+            [
+              -46.6519312,
+              -23.4912228
+            ],
+            [
+              -46.6524894,
+              -23.4916366
             ]
           ]
         ]
@@ -84421,6 +84515,54 @@
     },
     {
       "type": "Feature",
+      "id": "way/1246728754",
+      "properties": {
+        "timestamp": "2024-02-06T01:12:25Z",
+        "version": 1,
+        "changeset": 147114663,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "911",
+        "addr:postcode": "02539-000",
+        "addr:street": "Rua Armando Coelho Silva",
+        "amenity": "school",
+        "barrier": "wall",
+        "name": "EMEI Doutora Enzo Silveira",
+        "id": "way/1246728754"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.6545906,
+              -23.4909797
+            ],
+            [
+              -46.6549624,
+              -23.4911579
+            ],
+            [
+              -46.6544941,
+              -23.4913242
+            ],
+            [
+              -46.6544448,
+              -23.4911909
+            ],
+            [
+              -46.6543923,
+              -23.4910491
+            ],
+            [
+              -46.6545906,
+              -23.4909797
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/222842154",
       "properties": {
         "timestamp": "2023-06-07T15:20:09Z",
@@ -88677,6 +88819,138 @@
           [
             -46.6712838,
             -23.4935099
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1246728756",
+      "properties": {
+        "timestamp": "2024-02-06T01:12:25Z",
+        "version": 1,
+        "changeset": 147114663,
+        "barrier": "wall",
+        "id": "way/1246728756"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.6544941,
+            -23.4913242
+          ],
+          [
+            -46.6549624,
+            -23.4911579
+          ],
+          [
+            -46.6554409,
+            -23.4914024
+          ],
+          [
+            -46.6553215,
+            -23.4915225
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1246728758",
+      "properties": {
+        "timestamp": "2024-02-06T01:12:25Z",
+        "version": 1,
+        "changeset": 147114663,
+        "barrier": "wall",
+        "id": "way/1246728758"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.6553215,
+            -23.4915225
+          ],
+          [
+            -46.6555236,
+            -23.4916425
+          ],
+          [
+            -46.6556015,
+            -23.49154
+          ],
+          [
+            -46.6560161,
+            -23.4919156
+          ],
+          [
+            -46.6552876,
+            -23.4926036
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1246728759",
+      "properties": {
+        "timestamp": "2024-02-06T01:12:25Z",
+        "version": 1,
+        "changeset": 147114663,
+        "barrier": "wall",
+        "id": "way/1246728759"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.6552876,
+            -23.4926036
+          ],
+          [
+            -46.6550368,
+            -23.4923397
+          ],
+          [
+            -46.6548553,
+            -23.4920954
+          ],
+          [
+            -46.6547795,
+            -23.4919669
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1246728760",
+      "properties": {
+        "timestamp": "2024-02-06T01:12:25Z",
+        "version": 1,
+        "changeset": 147114663,
+        "barrier": "fence",
+        "id": "way/1246728760"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.6547795,
+            -23.4919669
+          ],
+          [
+            -46.6546992,
+            -23.4918131
+          ],
+          [
+            -46.6546007,
+            -23.4915783
+          ],
+          [
+            -46.6544941,
+            -23.4913242
           ]
         ]
       }
@@ -107427,6 +107701,90 @@
         "coordinates": [
           -46.7028345,
           -23.4977935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11590250008",
+      "properties": {
+        "timestamp": "2024-02-06T01:12:25Z",
+        "version": 1,
+        "changeset": 147114663,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "311",
+        "addr:postcode": "02537-000",
+        "addr:street": "Rua Padre João Gualberto",
+        "entrance": "main",
+        "id": "node/11590250008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6514115,
+          -23.4914935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11590250065",
+      "properties": {
+        "timestamp": "2024-02-06T01:12:25Z",
+        "version": 1,
+        "changeset": 147114663,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "911",
+        "addr:postcode": "02539-000",
+        "addr:street": "Rua Armando Coelho Silva",
+        "id": "node/11590250065"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6544448,
+          -23.4911909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11590343683",
+      "properties": {
+        "timestamp": "2024-02-06T01:12:25Z",
+        "version": 1,
+        "changeset": 147114663,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "859",
+        "addr:postcode": "02539-000",
+        "addr:street": "Rua Armando Coelho Silva",
+        "id": "node/11590343683"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6546007,
+          -23.4915783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11592950953",
+      "properties": {
+        "timestamp": "2024-02-06T21:43:31Z",
+        "version": 1,
+        "changeset": 147152813,
+        "amenity": "school",
+        "brand:wikidata": "Q10324823",
+        "name": "Maple Bear",
+        "id": "node/11592950953"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6993457,
+          -23.6456692
         ]
       }
     }

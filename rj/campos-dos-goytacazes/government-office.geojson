@@ -995,75 +995,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/1049471012",
-      "properties": {
-        "timestamp": "2022-04-06T00:38:02Z",
-        "version": 1,
-        "changeset": 119363784,
-        "addr:city": "Campos dos Goytacazes",
-        "addr:housenumber": "253",
-        "addr:postcode": "28026621",
-        "addr:street": "Avenida José Alves Azevedo",
-        "addr:suburb": "Centro",
-        "air_conditioning": "yes",
-        "building": "terrace",
-        "government": "administrative",
-        "internet_access": "yes",
-        "name": "Espaço da Oportunidade da Superintendência Municipal de Trabalho e Renda de Campos",
-        "office": "government",
-        "opening_hours": "Mo-Fr 08:00-17:00",
-        "phone": "+552227316397",
-        "source": "survey;local knowledge;streetlevel imagery",
-        "website": "https://sistemas.campos.rj.gov.br/sgbemp/vagas",
-        "wheelchair": "yes",
-        "id": "way/1049471012"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -41.3273655,
-              -21.76095
-            ],
-            [
-              -41.3273883,
-              -21.7609998
-            ],
-            [
-              -41.3274124,
-              -21.7610633
-            ],
-            [
-              -41.3274433,
-              -21.7611331
-            ],
-            [
-              -41.327403,
-              -21.7611505
-            ],
-            [
-              -41.3273722,
-              -21.7610783
-            ],
-            [
-              -41.3273414,
-              -21.7610222
-            ],
-            [
-              -41.3273145,
-              -21.7609637
-            ],
-            [
-              -41.3273655,
-              -21.76095
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/1049474736",
       "properties": {
         "timestamp": "2022-04-06T01:12:14Z",
@@ -1776,6 +1707,38 @@
         "coordinates": [
           -41.3241545,
           -21.7559167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11592315933",
+      "properties": {
+        "timestamp": "2024-02-06T17:48:55Z",
+        "version": 1,
+        "changeset": 147145169,
+        "addr:city": "Campos dos Goytacazes",
+        "addr:housenumber": "253",
+        "addr:postcode": "28026621",
+        "addr:street": "Avenida José Alves Azevedo",
+        "addr:suburb": "Centro",
+        "air_conditioning": "yes",
+        "government": "administrative",
+        "internet_access": "yes",
+        "name": "Espaço da Oportunidade da Superintendência Municipal de Trabalho e Renda de Campos",
+        "office": "government",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "phone": "+552227316397",
+        "source": "survey;local knowledge;streetlevel imagery",
+        "website": "https://sistemas.campos.rj.gov.br/sgbemp/vagas",
+        "wheelchair": "yes",
+        "id": "node/11592315933"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.3273831,
+          -21.7610151
         ]
       }
     }

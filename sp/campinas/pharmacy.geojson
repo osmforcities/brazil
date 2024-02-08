@@ -464,6 +464,59 @@
     },
     {
       "type": "Feature",
+      "id": "way/1046916522",
+      "properties": {
+        "timestamp": "2024-02-06T17:00:57Z",
+        "version": 2,
+        "changeset": 147143514,
+        "amenity": "pharmacy",
+        "brand": "Drogasil",
+        "brand:wikidata": "Q5308185",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Drogasil",
+        "source": "microsoft/BuildingFootprints",
+        "wheelchair": "yes",
+        "id": "way/1046916522"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.0469229,
+              -22.8585763
+            ],
+            [
+              -47.0467657,
+              -22.8586081
+            ],
+            [
+              -47.0467363,
+              -22.8584844
+            ],
+            [
+              -47.0471213,
+              -22.8584066
+            ],
+            [
+              -47.047188,
+              -22.8586865
+            ],
+            [
+              -47.0469601,
+              -22.8587326
+            ],
+            [
+              -47.0469229,
+              -22.8585763
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1059091182",
       "properties": {
         "timestamp": "2022-05-11T00:13:24Z",
@@ -2790,6 +2843,28 @@
         "coordinates": [
           -47.06966,
           -22.8846323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11592221254",
+      "properties": {
+        "timestamp": "2024-02-06T17:00:57Z",
+        "version": 1,
+        "changeset": 147143514,
+        "amenity": "pharmacy",
+        "brand": "Drogaria São Paulo",
+        "brand:wikidata": "Q5308184",
+        "healthcare": "pharmacy",
+        "name": "Drogaria São Paulo",
+        "id": "node/11592221254"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0464543,
+          -22.8560985
         ]
       }
     }

@@ -528,6 +528,55 @@
     },
     {
       "type": "Feature",
+      "id": "way/965642314",
+      "properties": {
+        "timestamp": "2024-02-07T19:53:39Z",
+        "version": 2,
+        "changeset": 147190506,
+        "addr:city": "Cuité",
+        "addr:postcode": "58175-000",
+        "addr:street": "Sítio Batentes",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "UBSF Assentamento Retiro e Batentes",
+        "opening_hours": "Mo-Fr 07:00-17:00",
+        "operator": "Sistema Único de Saúde",
+        "operator:short": "SUS",
+        "operator:wikidata": "Q7531056",
+        "phone": "+55 83 999909304",
+        "ref:CNES": "6538096",
+        "id": "way/965642314"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -35.9743667,
+              -6.5479255
+            ],
+            [
+              -35.9743218,
+              -6.5479894
+            ],
+            [
+              -35.9742333,
+              -6.5479282
+            ],
+            [
+              -35.9742782,
+              -6.5478642
+            ],
+            [
+              -35.9743667,
+              -6.5479255
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/966317446",
       "properties": {
         "timestamp": "2021-08-08T14:05:23Z",
@@ -881,6 +930,106 @@
     },
     {
       "type": "Feature",
+      "id": "way/1247377968",
+      "properties": {
+        "timestamp": "2024-02-07T19:53:39Z",
+        "version": 1,
+        "changeset": 147190506,
+        "addr:city": "Cuité",
+        "addr:postcode": "58175-000",
+        "addr:street": "Sítio Catolé",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "UBSF Catolé",
+        "opening_hours": "Mo-Fr 07:00-17:00",
+        "operator": "Sistema Único de Saúde",
+        "operator:short": "SUS",
+        "operator:wikidata": "Q7531056",
+        "phone": "+55 83 99818-6103",
+        "ref:CNES": "2342545",
+        "id": "way/1247377968"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -36.2250409,
+              -6.6279337
+            ],
+            [
+              -36.2249308,
+              -6.628005
+            ],
+            [
+              -36.2248865,
+              -6.6279377
+            ],
+            [
+              -36.2249966,
+              -6.6278663
+            ],
+            [
+              -36.2250409,
+              -6.6279337
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1247377973",
+      "properties": {
+        "timestamp": "2024-02-07T19:53:39Z",
+        "version": 1,
+        "changeset": 147190506,
+        "addr:city": "Cuité",
+        "addr:postcode": "58175-000",
+        "addr:street": "Serra do Bombocadinho",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "UBSF Serra do Bombocadinho",
+        "opening_hours": "Mo-Fr 07:00-17:00",
+        "operator": "Sistema Único de Saúde",
+        "operator:short": "SUS",
+        "operator:wikidata": "Q7531056",
+        "phone": "+55 83 999727435",
+        "ref:CNES": "2342553",
+        "id": "way/1247377973"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -36.0631695,
+              -6.6287041
+            ],
+            [
+              -36.0632035,
+              -6.6288649
+            ],
+            [
+              -36.0631299,
+              -6.6288803
+            ],
+            [
+              -36.0630959,
+              -6.6287194
+            ],
+            [
+              -36.0631695,
+              -6.6287041
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/10013443505",
       "properties": {
         "timestamp": "2022-09-10T15:13:17Z",
@@ -901,14 +1050,13 @@
       "type": "Feature",
       "id": "node/10032543696",
       "properties": {
-        "timestamp": "2022-09-17T23:42:21Z",
-        "version": 1,
-        "changeset": 126315041,
+        "timestamp": "2024-02-07T14:49:47Z",
+        "version": 2,
+        "changeset": 147180082,
         "addr:city": "Cuité",
         "addr:postcode": "58175-000",
         "addr:street": "Distrito do Melo",
         "amenity": "clinic",
-        "fixme": "A localização necessita de confirmação.",
         "healthcare": "clinic",
         "name": "UBSF Melo",
         "opening_hours": "Mo-Fr 07:00-17:00",
@@ -922,38 +1070,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -36.1098897,
-          -6.5842825
+          -36.1102229,
+          -6.5842016
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "node/10032543697",
+      "id": "node/11595038086",
       "properties": {
-        "timestamp": "2022-09-17T23:42:21Z",
+        "timestamp": "2024-02-07T15:06:36Z",
         "version": 1,
-        "changeset": 126315041,
+        "changeset": 147180647,
         "addr:city": "Cuité",
+        "addr:place": "Sítio Bujari",
         "addr:postcode": "58175-000",
-        "addr:street": "Sítio Batentes",
+        "alt_name": "UBSF Pedro Ferreira de Medeiros (Âncora)",
         "amenity": "clinic",
-        "fixme": "Localização aproximada. Necessita de confirmação e/ou correção",
         "healthcare": "clinic",
-        "name": "UBSF Assentamento Retiro e Batentes",
-        "opening_hours": "Mo-Fr 07:00-17:00",
+        "name": "UBSF Bujari",
         "operator": "Sistema Único de Saúde",
         "operator:short": "SUS",
         "operator:wikidata": "Q7531056",
-        "phone": "+55 83 999909304",
-        "ref:CNES": "6538096",
-        "id": "node/10032543697"
+        "id": "node/11595038086"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -35.9895443,
-          -6.5056876
+          -36.1717243,
+          -6.4437569
         ]
       }
     }

@@ -5585,11 +5585,11 @@
       "type": "Feature",
       "id": "way/1049312179",
       "properties": {
-        "timestamp": "2022-04-05T12:51:16Z",
-        "version": 1,
-        "changeset": 119343318,
+        "timestamp": "2024-02-08T13:27:50Z",
+        "version": 2,
+        "changeset": 147218018,
         "amenity": "school",
-        "name": "Curumin",
+        "name": "Escola Curumin",
         "religion": "none",
         "id": "way/1049312179"
       },
@@ -5598,8 +5598,8 @@
         "coordinates": [
           [
             [
-              -47.0555273,
-              -22.8492178
+              -47.0555365,
+              -22.8492164
             ],
             [
               -47.0554291,
@@ -5614,8 +5614,8 @@
               -22.848838
             ],
             [
-              -47.0555273,
-              -22.8492178
+              -47.0555365,
+              -22.8492164
             ]
           ]
         ]
@@ -6240,6 +6240,63 @@
             [
               -47.0434201,
               -22.8505055
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1247652478",
+      "properties": {
+        "timestamp": "2024-02-08T13:27:50Z",
+        "version": 1,
+        "changeset": 147218018,
+        "amenity": "school",
+        "barrier": "wall",
+        "name": "Colégio Nossa Senhora da Misericórdia",
+        "operator": "Reducar Campinas",
+        "id": "way/1247652478"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.0550164,
+              -22.8479844
+            ],
+            [
+              -47.0551585,
+              -22.8484176
+            ],
+            [
+              -47.0553768,
+              -22.8490832
+            ],
+            [
+              -47.0548161,
+              -22.8492252
+            ],
+            [
+              -47.0544692,
+              -22.8493714
+            ],
+            [
+              -47.0542151,
+              -22.8486286
+            ],
+            [
+              -47.0542682,
+              -22.8486239
+            ],
+            [
+              -47.0543663,
+              -22.8485636
+            ],
+            [
+              -47.0550164,
+              -22.8479844
             ]
           ]
         ]
@@ -7966,6 +8023,24 @@
     },
     {
       "type": "Feature",
+      "id": "node/8674460661",
+      "properties": {
+        "timestamp": "2024-02-08T13:27:50Z",
+        "version": 2,
+        "changeset": 147218018,
+        "barrier": "gate",
+        "id": "node/8674460661"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0542682,
+          -22.8486239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/8860549270",
       "properties": {
         "timestamp": "2021-06-23T15:34:35Z",
@@ -8103,6 +8178,24 @@
         "coordinates": [
           -47.0715414,
           -22.8905685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11598304765",
+      "properties": {
+        "timestamp": "2024-02-08T13:27:50Z",
+        "version": 1,
+        "changeset": 147218018,
+        "entrance": "main",
+        "id": "node/11598304765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0551585,
+          -22.8484176
         ]
       }
     }

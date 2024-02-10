@@ -5,9 +5,9 @@
       "type": "Feature",
       "id": "way/222196084",
       "properties": {
-        "timestamp": "2022-12-11T13:52:28Z",
-        "version": 4,
-        "changeset": 129963228,
+        "timestamp": "2024-02-08T17:56:23Z",
+        "version": 5,
+        "changeset": 147227975,
         "addr:city": "Mucambo",
         "addr:postcode": "62170-000",
         "addr:street": "Avenida Vereador Antônio Ferreira Portela",
@@ -30,16 +30,20 @@
               -3.9031906
             ],
             [
-              -40.7412233,
-              -3.9025919
+              -40.740931,
+              -3.9031673
             ],
             [
-              -40.7413898,
-              -3.9022483
+              -40.7412236,
+              -3.9025929
             ],
             [
-              -40.7420863,
-              -3.9026604
+              -40.7414015,
+              -3.9022495
+            ],
+            [
+              -40.7420757,
+              -3.9026692
             ],
             [
               -40.7416972,
@@ -247,24 +251,24 @@
         "coordinates": [
           [
             [
-              -40.7413898,
-              -3.9022483
+              -40.7414015,
+              -3.9022495
             ],
             [
-              -40.7412233,
-              -3.9025919
+              -40.7412236,
+              -3.9025929
             ],
             [
-              -40.7409318,
-              -3.9024513
+              -40.7409424,
+              -3.9024479
             ],
             [
-              -40.7410983,
-              -3.9021077
+              -40.7411203,
+              -3.9021045
             ],
             [
-              -40.7413898,
-              -3.9022483
+              -40.7414015,
+              -3.9022495
             ]
           ]
         ]
@@ -469,11 +473,57 @@
     },
     {
       "type": "Feature",
+      "id": "way/1247761279",
+      "properties": {
+        "timestamp": "2024-02-08T19:05:19Z",
+        "version": 1,
+        "changeset": 147229971,
+        "addr:city": "Mucambo",
+        "addr:postcode": "62170-000",
+        "addr:street": "Avenida Vereador Antônio Ferreira Portela",
+        "addr:suburb": "Centro",
+        "building": "yes",
+        "height": "5",
+        "leisure": "fitness_centre",
+        "name": "Profitness Academias",
+        "sport": "fitness",
+        "id": "way/1247761279"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.7381529,
+              -3.9000704
+            ],
+            [
+              -40.738016,
+              -3.8999941
+            ],
+            [
+              -40.7382225,
+              -3.899625
+            ],
+            [
+              -40.7383593,
+              -3.8997012
+            ],
+            [
+              -40.7381529,
+              -3.9000704
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/6586653163",
       "properties": {
-        "timestamp": "2020-10-15T18:41:27Z",
-        "version": 2,
-        "changeset": 92539117,
+        "timestamp": "2024-02-08T17:56:23Z",
+        "version": 3,
+        "changeset": 147227975,
         "access": "yes",
         "leisure": "pitch",
         "lit": "yes",
@@ -485,8 +535,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -40.7466075,
-          -3.9038017
+          -40.7467219,
+          -3.9038496
         ]
       }
     }

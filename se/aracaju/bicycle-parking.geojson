@@ -3,6 +3,50 @@
   "features": [
     {
       "type": "Feature",
+      "id": "way/1247753494",
+      "properties": {
+        "timestamp": "2024-02-08T18:31:57Z",
+        "version": 1,
+        "changeset": 147228984,
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "capacity": "16",
+        "covered": "no",
+        "fee": "no",
+        "operator": "SMTT",
+        "operator:type": "government",
+        "id": "way/1247753494"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -37.0488377,
+              -10.9093056
+            ],
+            [
+              -37.0488141,
+              -10.9092782
+            ],
+            [
+              -37.0488309,
+              -10.9092634
+            ],
+            [
+              -37.0488734,
+              -10.9093086
+            ],
+            [
+              -37.0488377,
+              -10.9093056
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/1073053589",
       "properties": {
         "timestamp": "2017-08-10T01:29:02Z",
@@ -113,30 +157,6 @@
         "coordinates": [
           -37.0614974,
           -10.9438224
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/9410916209",
-      "properties": {
-        "timestamp": "2022-09-23T00:32:06Z",
-        "version": 2,
-        "changeset": 126525449,
-        "access": "yes",
-        "amenity": "bicycle_parking",
-        "capacity": "16",
-        "covered": "no",
-        "fee": "no",
-        "operator": "SMTT",
-        "operator:type": "government",
-        "id": "node/9410916209"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -37.0488544,
-          -10.9092884
         ]
       }
     },

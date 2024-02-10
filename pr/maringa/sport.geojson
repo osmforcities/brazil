@@ -249,11 +249,13 @@
       "type": "Feature",
       "id": "relation/8791934",
       "properties": {
-        "timestamp": "2021-08-17T19:24:47Z",
-        "version": 2,
-        "changeset": 109830471,
+        "timestamp": "2024-02-08T15:03:40Z",
+        "version": 3,
+        "changeset": 147221669,
         "area": "yes",
+        "lanes": "8",
         "leisure": "track",
+        "lit": "yes",
         "sport": "running",
         "type": "multipolygon",
         "id": "relation/8791934"
@@ -6149,14 +6151,14 @@
       "type": "Feature",
       "id": "way/773028891",
       "properties": {
-        "timestamp": "2020-02-17T03:47:53Z",
-        "version": 1,
-        "changeset": 81089092,
+        "timestamp": "2024-02-08T15:03:40Z",
+        "version": 2,
+        "changeset": 147221669,
+        "access": "private",
         "leisure": "pitch",
-        "lit": "no",
-        "name": "Campo de Futebol Jardim Oriental",
+        "name": "Campo de Futebol",
         "sport": "soccer",
-        "surface": "ground",
+        "surface": "grass",
         "id": "way/773028891"
       },
       "geometry": {
@@ -8035,6 +8037,105 @@
             [
               -51.9117136,
               -23.439243
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1247686302",
+      "properties": {
+        "timestamp": "2024-02-08T15:03:40Z",
+        "version": 1,
+        "changeset": 147221669,
+        "leisure": "pitch",
+        "lit": "yes",
+        "sport": "skateboard",
+        "surface": "concrete",
+        "id": "way/1247686302"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.9382117,
+              -23.4113517
+            ],
+            [
+              -51.9382155,
+              -23.4118411
+            ],
+            [
+              -51.9379619,
+              -23.4118443
+            ],
+            [
+              -51.9379607,
+              -23.4113528
+            ],
+            [
+              -51.9380799,
+              -23.4113534
+            ],
+            [
+              -51.9382117,
+              -23.4113517
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1247686303",
+      "properties": {
+        "timestamp": "2024-02-08T15:03:40Z",
+        "version": 1,
+        "changeset": 147221669,
+        "addr:city": "Maringá",
+        "addr:housenumber": "360",
+        "addr:street": "Rua João Vivan",
+        "addr:suburb": "Jardim Oriental",
+        "leisure": "sports_centre",
+        "name": "Centro de Treinamentos do Galo Maringá",
+        "operator": "Galo Maringá",
+        "operator:type": "private",
+        "sport": "soccer",
+        "id": "way/1247686303"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.9492996,
+              -23.3716954
+            ],
+            [
+              -51.9492501,
+              -23.3718602
+            ],
+            [
+              -51.9490726,
+              -23.3726748
+            ],
+            [
+              -51.9471452,
+              -23.3721501
+            ],
+            [
+              -51.9474836,
+              -23.37147
+            ],
+            [
+              -51.9476693,
+              -23.371076
+            ],
+            [
+              -51.9492996,
+              -23.3716954
             ]
           ]
         ]

@@ -1213,9 +1213,9 @@
       "type": "Feature",
       "id": "way/200863585",
       "properties": {
-        "timestamp": "2017-04-11T02:34:58Z",
-        "version": 5,
-        "changeset": 47643644,
+        "timestamp": "2024-02-09T15:55:00Z",
+        "version": 6,
+        "changeset": 147262813,
         "addr:city": "São Paulo",
         "addr:country": "BR",
         "addr:housenumber": "220",
@@ -1223,6 +1223,7 @@
         "addr:street": "Rua Encruzilhada do Sul",
         "amenity": "clinic",
         "contact:phone": "+55 11 3972-2916;+55 11 3971-5342",
+        "healthcare": "clinic",
         "name": "Assistência Médica Ambulatorial e Unidade Básica de Saúde Integrada Jardim Paulistano",
         "short_name": "AMA UBS Integrada Jardim Paulistano",
         "id": "way/200863585"
@@ -18644,6 +18645,37 @@
         "coordinates": [
           -46.6714997,
           -23.4930153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11601734248",
+      "properties": {
+        "timestamp": "2024-02-09T09:36:10Z",
+        "version": 1,
+        "changeset": 147248422,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "101",
+        "addr:postcode": "01305-900",
+        "addr:street": "Entrada Hotel Ca’d’Oro",
+        "addr:suburb": "Consolação",
+        "amenity": "clinic",
+        "description": "Sala 1301",
+        "healthcare": "clinic",
+        "healthcare:speciality": "rinomodeling;aesthetics;facial_harmonization;hof;botox",
+        "name": "Clínica Dr. Filipe Duque",
+        "opening_hours": "Mo-Fr 09:00-18:00",
+        "operator": "Dr. Filipe Duque",
+        "operator:type": "private",
+        "phone": "+55 11 9 4469-3535",
+        "id": "node/11601734248"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6470408,
+          -23.5503423
         ]
       }
     }

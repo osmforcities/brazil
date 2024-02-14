@@ -5700,37 +5700,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/4988213623",
-      "properties": {
-        "timestamp": "2022-07-20T23:50:15Z",
-        "version": 3,
-        "changeset": 123869777,
-        "addr:city": "Fortaleza",
-        "addr:housenumber": "1957",
-        "addr:postcode": "60150-161",
-        "addr:street": "Avenida Santos Dumont",
-        "addr:suburb": "Aldeota",
-        "amenity": "pharmacy",
-        "brand": "Extrafarma",
-        "brand:wikidata": "Q20055480",
-        "healthcare": "pharmacy",
-        "name": "Extrafarma",
-        "opening_hours": "Mo-Sa 09:00-17:00",
-        "parking": "yes",
-        "phone": "+55 85 3224 2145",
-        "website": "https://www.extrafarma.com.br/",
-        "id": "node/4988213623"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -38.5064063,
-          -3.7333396
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/4988219025",
       "properties": {
         "timestamp": "2020-04-15T16:12:53Z",
@@ -7772,6 +7741,34 @@
     },
     {
       "type": "Feature",
+      "id": "node/10148408695",
+      "properties": {
+        "timestamp": "2024-02-12T14:26:24Z",
+        "version": 2,
+        "changeset": 147369690,
+        "addr:city": "Fortaleza",
+        "addr:housenumber": "1501",
+        "addr:postcode": "60120-024",
+        "addr:street": "Avenida Barão de Studart",
+        "addr:suburb": "Aldeota",
+        "amenity": "pharmacy",
+        "brand": "Drogasil",
+        "brand:wikidata": "Q5308185",
+        "healthcare": "pharmacy",
+        "name": "Drogasil",
+        "wheelchair": "yes",
+        "id": "node/10148408695"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5072418,
+          -3.7375625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/10148408817",
       "properties": {
         "timestamp": "2024-02-08T00:26:12Z",
@@ -8555,6 +8552,97 @@
         "coordinates": [
           -38.5020989,
           -3.7438493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11613285183",
+      "properties": {
+        "timestamp": "2024-02-12T12:18:47Z",
+        "version": 1,
+        "changeset": 147364644,
+        "addr:city": "Fortaleza",
+        "addr:housenumber": "620",
+        "addr:postcode": "60135-100",
+        "addr:street": "Avenida Antônio Sales",
+        "addr:suburb": "Joaquim Távora",
+        "amenity": "pharmacy",
+        "brand": "Pague Menos",
+        "brand:wikidata": "Q7124466",
+        "healthcare": "pharmacy",
+        "name": "Pague Menos",
+        "opening_hours": "24/7",
+        "phone": "+55 4002 8282",
+        "id": "node/11613285183"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5161762,
+          -3.7412752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11613285187",
+      "properties": {
+        "timestamp": "2024-02-12T12:18:47Z",
+        "version": 1,
+        "changeset": 147364644,
+        "addr:city": "Fortaleza",
+        "addr:housenumber": "666",
+        "addr:postcode": "60135-100",
+        "addr:street": "Avenida Antônio Sales",
+        "addr:suburb": "Joaquim Távora",
+        "amenity": "pharmacy",
+        "brand": "Drogasil",
+        "brand:wikidata": "Q5308185",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Drogasil",
+        "opening_hours": "07:00-23:00",
+        "phone": "+55 85 98103 5925",
+        "wheelchair": "yes",
+        "id": "node/11613285187"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5158511,
+          -3.7415185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11613633895",
+      "properties": {
+        "timestamp": "2024-02-12T14:41:09Z",
+        "version": 1,
+        "changeset": 147370263,
+        "addr:city": "Fortaleza",
+        "addr:housenumber": "1205",
+        "addr:postcode": "60120-024",
+        "addr:street": "Avenida Barão de Studart",
+        "addr:suburb": "Aldeota",
+        "amenity": "pharmacy",
+        "brand": "Extrafarma",
+        "brand:wikidata": "Q20055480",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Extrafarma",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00",
+        "phone": "+55 4004 7474",
+        "id": "node/11613633895"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5067167,
+          -3.7355673
         ]
       }
     }

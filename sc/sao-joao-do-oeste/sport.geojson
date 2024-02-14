@@ -256,14 +256,15 @@
       "type": "Feature",
       "id": "way/661406462",
       "properties": {
-        "timestamp": "2023-04-15T00:13:44Z",
-        "version": 4,
-        "changeset": 134924187,
+        "timestamp": "2024-02-11T20:09:14Z",
+        "version": 5,
+        "changeset": 147342092,
+        "access": "yes",
         "leisure": "pitch",
         "lit": "yes",
         "owner": "Município de São João do Oeste",
         "ownership": "municipal",
-        "sport": "five-a-side",
+        "sport": "soccer",
         "surface": "artificial_turf",
         "id": "way/661406462"
       },
@@ -272,11 +273,11 @@
         "coordinates": [
           [
             [
-              -53.5892519,
-              -27.1000473
+              -53.5893377,
+              -27.1000545
             ],
             [
-              -53.5892591,
+              -53.5893382,
               -27.1003646
             ],
             [
@@ -288,8 +289,8 @@
               -27.100057
             ],
             [
-              -53.5892519,
-              -27.1000473
+              -53.5893377,
+              -27.1000545
             ]
           ]
         ]
@@ -750,10 +751,10 @@
       "type": "Feature",
       "id": "way/1157081960",
       "properties": {
-        "timestamp": "2023-03-24T23:20:28Z",
-        "version": 1,
-        "changeset": 134087579,
-        "addr:hamlet": "Linha Fortaleza",
+        "timestamp": "2024-02-11T20:41:47Z",
+        "version": 2,
+        "changeset": 147343230,
+        "addr:hamlet": "Fortaleza",
         "addr:street": "Estrada Geral Fortaleza",
         "leisure": "pitch",
         "sport": "soccer",
@@ -783,6 +784,46 @@
             [
               -53.6107296,
               -27.1472059
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1249116877",
+      "properties": {
+        "timestamp": "2024-02-11T15:05:15Z",
+        "version": 1,
+        "changeset": 147331166,
+        "leisure": "pitch",
+        "sport": "soccer",
+        "surface": "grass",
+        "id": "way/1249116877"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -53.6446276,
+              -27.0565762
+            ],
+            [
+              -53.6447988,
+              -27.0563203
+            ],
+            [
+              -53.6452317,
+              -27.05655
+            ],
+            [
+              -53.6450605,
+              -27.0568059
+            ],
+            [
+              -53.6446276,
+              -27.0565762
             ]
           ]
         ]

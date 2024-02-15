@@ -3,55 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": "way/45823161",
-      "properties": {
-        "timestamp": "2022-06-30T07:34:34Z",
-        "version": 6,
-        "changeset": 123031713,
-        "amenity": "hospital",
-        "building": "yes",
-        "healthcare": "hospital",
-        "name": "Hospital da Unimed",
-        "id": "way/45823161"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -35.2048738,
-              -5.8160312
-            ],
-            [
-              -35.2050486,
-              -5.8164851
-            ],
-            [
-              -35.2048074,
-              -5.816577
-            ],
-            [
-              -35.2047575,
-              -5.8165961
-            ],
-            [
-              -35.2045827,
-              -5.8161422
-            ],
-            [
-              -35.2047457,
-              -5.81608
-            ],
-            [
-              -35.2048738,
-              -5.8160312
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/93197757",
       "properties": {
         "timestamp": "2018-08-14T12:11:11Z",
@@ -2975,19 +2926,53 @@
     },
     {
       "type": "Feature",
-      "id": "node/501619315",
+      "id": "way/1249906392",
       "properties": {
-        "timestamp": "2022-06-30T07:29:30Z",
-        "version": 5,
-        "changeset": 123031560,
-        "entrance": "yes",
-        "id": "node/501619315"
+        "timestamp": "2024-02-13T13:40:37Z",
+        "version": 1,
+        "changeset": 147409812,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Complexo de Saúde Unimed Natal",
+        "id": "way/1249906392"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -35.2047457,
-          -5.81608
+          [
+            [
+              -35.2055476,
+              -5.8164127
+            ],
+            [
+              -35.2056402,
+              -5.8166546
+            ],
+            [
+              -35.2045536,
+              -5.8170557
+            ],
+            [
+              -35.2042548,
+              -5.8162177
+            ],
+            [
+              -35.2049306,
+              -5.8159663
+            ],
+            [
+              -35.2051391,
+              -5.816563
+            ],
+            [
+              -35.2054477,
+              -5.81645
+            ],
+            [
+              -35.2055476,
+              -5.8164127
+            ]
+          ]
         ]
       }
     },

@@ -21609,9 +21609,9 @@
       "type": "Feature",
       "id": "way/231044849",
       "properties": {
-        "timestamp": "2023-08-16T06:55:27Z",
-        "version": 17,
-        "changeset": 139947283,
+        "timestamp": "2024-02-13T17:53:29Z",
+        "version": 18,
+        "changeset": 147419944,
         "addr:city": "São Paulo",
         "addr:housenumber": "1840",
         "addr:postcode": "05005-000",
@@ -21626,6 +21626,7 @@
         "old_name": "Estádio Palestra Itália",
         "operator": "Sociedade Esportiva Palmeiras",
         "phone": "(11) 4800-6680",
+        "roof:colour": "#d2d2d2",
         "sport": "soccer",
         "start_date": "2014-11-19",
         "website": "http://www.allianzparque.com.br",
@@ -102927,9 +102928,9 @@
       "type": "Feature",
       "id": "way/418134467",
       "properties": {
-        "timestamp": "2019-09-02T21:43:53Z",
-        "version": 7,
-        "changeset": 74014145,
+        "timestamp": "2024-02-13T15:48:06Z",
+        "version": 8,
+        "changeset": 147414662,
         "club": "sport",
         "name": "Nacional Atlético Clube",
         "sport": "multi",
@@ -102973,12 +102974,12 @@
             -23.516735
           ],
           [
-            -46.6846746,
-            -23.5167213
+            -46.6846759,
+            -23.5167285
           ],
           [
-            -46.6862312,
-            -23.5162771
+            -46.6862116,
+            -23.5163178
           ],
           [
             -46.6862233,
@@ -108141,9 +108142,9 @@
       "type": "Feature",
       "id": "node/5580503528",
       "properties": {
-        "timestamp": "2018-04-26T13:28:49Z",
-        "version": 1,
-        "changeset": 58443939,
+        "timestamp": "2024-02-13T15:48:06Z",
+        "version": 2,
+        "changeset": 147414662,
         "addr:city": "São Paulo",
         "addr:housenumber": "2477",
         "addr:street": "Avenida Marquês de São Vicente",
@@ -108155,8 +108156,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -46.6846746,
-          -23.5167213
+          -46.6847646,
+          -23.516817
         ]
       }
     },
@@ -111828,6 +111829,39 @@
         "coordinates": [
           -46.6870638,
           -23.6219267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11617147240",
+      "properties": {
+        "timestamp": "2024-02-13T01:22:38Z",
+        "version": 1,
+        "changeset": 147389772,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "364",
+        "addr:postcode": "03112-100",
+        "addr:street": "Rua Javari",
+        "addr:suburb": "Mooca",
+        "description": "Loja de produtos oficiais e licenciados do Clube Atlético Juventus.",
+        "name": "Camiseteria di Mooca",
+        "opening_hours": "Mo-Sa 10:00-18:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:pix": "yes",
+        "phone": "+55 11 2362 5905",
+        "shop": "sports",
+        "sport": "soccer",
+        "website": "https://www.camiseteriadimooca.com.br/",
+        "id": "node/11617147240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6025402,
+          -23.5543212
         ]
       }
     }

@@ -3700,77 +3700,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/468762630",
-      "properties": {
-        "timestamp": "2023-08-01T22:05:27Z",
-        "version": 4,
-        "changeset": 139320218,
-        "addr:city": "São Paulo",
-        "addr:housenumber": "2",
-        "addr:postcode": "02842-260",
-        "addr:street": "Rua Rui de Morais Apocalipse",
-        "addr:suburb": "Vila Penteado",
-        "alt_name": "Redel Hora Certa",
-        "amenity": "clinic",
-        "building": "yes",
-        "email": "mcdonnangelo@yahoo.com.br",
-        "healthcare": "clinic",
-        "name": "UBS Maria Cecília Ferreira Donnangelo",
-        "operator:ref:vatin": "BR46392130000380",
-        "phone": "+55 11 3921 7759",
-        "ref:CNES": "2788071",
-        "id": "way/468762630"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -46.6843125,
-              -23.4730835
-            ],
-            [
-              -46.684114,
-              -23.473519
-            ],
-            [
-              -46.6840684,
-              -23.4735067
-            ],
-            [
-              -46.6840362,
-              -23.4735731
-            ],
-            [
-              -46.6838914,
-              -23.4735337
-            ],
-            [
-              -46.6838833,
-              -23.4735559
-            ],
-            [
-              -46.6838056,
-              -23.4735362
-            ],
-            [
-              -46.6838109,
-              -23.4734279
-            ],
-            [
-              -46.6840416,
-              -23.4729777
-            ],
-            [
-              -46.6843125,
-              -23.4730835
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/485980376",
       "properties": {
         "timestamp": "2017-04-11T02:21:18Z",
@@ -8368,6 +8297,81 @@
             [
               -46.4037213,
               -23.6031896
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/777280838",
+      "properties": {
+        "timestamp": "2024-02-14T21:37:46Z",
+        "version": 3,
+        "changeset": 147467672,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "2",
+        "addr:postcode": "02842-260",
+        "addr:street": "Rua Rui de Morais Apocalipse",
+        "addr:suburb": "Vila Penteado",
+        "alt_name": "Redel Hora Certa",
+        "amenity": "clinic",
+        "barrier": "wall",
+        "email": "mcdonnangelo@yahoo.com.br",
+        "healthcare": "clinic",
+        "name": "UBS Maria Cecília Ferreira Donnangelo",
+        "operator:ref:vatin": "BR46392130000380",
+        "phone": "+55 11 3921 7759",
+        "ref:CNES": "2788071",
+        "id": "way/777280838"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.6843507,
+              -23.4730598
+            ],
+            [
+              -46.6843434,
+              -23.4730761
+            ],
+            [
+              -46.6841591,
+              -23.473486
+            ],
+            [
+              -46.6841139,
+              -23.4735867
+            ],
+            [
+              -46.6840392,
+              -23.4736312
+            ],
+            [
+              -46.6839374,
+              -23.4736225
+            ],
+            [
+              -46.6838355,
+              -23.4735932
+            ],
+            [
+              -46.6837633,
+              -23.4735465
+            ],
+            [
+              -46.6836492,
+              -23.4733138
+            ],
+            [
+              -46.6838539,
+              -23.4728711
+            ],
+            [
+              -46.6843507,
+              -23.4730598
             ]
           ]
         ]
@@ -17143,6 +17147,60 @@
         "coordinates": [
           -46.7273227,
           -23.6228852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7252878827",
+      "properties": {
+        "timestamp": "2020-02-29T14:10:45Z",
+        "version": 1,
+        "changeset": 81621118,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "2",
+        "addr:postcode": "02842-260",
+        "addr:street": "Rua Rui de Morais Apocalipse",
+        "entrance": "yes",
+        "id": "node/7252878827"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6841591,
+          -23.473486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7252989521",
+      "properties": {
+        "timestamp": "2021-05-16T16:44:49Z",
+        "version": 2,
+        "changeset": 104777112,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "56",
+        "addr:postcode": "02844-130",
+        "addr:street": "Avenida José da Natividade Saldanha",
+        "bus": "yes",
+        "departures_board": "yes",
+        "gtfs_id": "1114322",
+        "highway": "bus_stop",
+        "name": "Avenida José Da Natividade Saldanha, 108",
+        "network": "SPTrans",
+        "operator": "SPTrans",
+        "public_transport": "platform",
+        "route_ref": "9162-10",
+        "shelter": "no",
+        "wheelchair": "yes",
+        "id": "node/7252989521"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6843434,
+          -23.4730761
         ]
       }
     },

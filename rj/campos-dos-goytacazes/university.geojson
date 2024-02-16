@@ -5,11 +5,18 @@
       "type": "Feature",
       "id": "way/108686239",
       "properties": {
-        "timestamp": "2023-09-19T00:45:07Z",
-        "version": 5,
-        "changeset": 141445769,
+        "timestamp": "2024-02-14T09:39:42Z",
+        "version": 6,
+        "changeset": 147442596,
+        "addr:city": "Campos dos Goytacazes",
+        "addr:housenumber": "2000",
+        "addr:postcode": "28013-602",
+        "addr:street": "Avenida Alberto Lamego",
+        "addr:suburb": "Parque Califórnia",
         "amenity": "university",
-        "name": "UENF",
+        "name": "Uenf",
+        "phone": "+55 22 2739 7119",
+        "website": "www.uenf.br",
         "wikidata": "Q7603631",
         "id": "way/108686239"
       },
@@ -144,12 +151,12 @@
       "type": "Feature",
       "id": "way/259383966",
       "properties": {
-        "timestamp": "2022-04-12T00:14:19Z",
-        "version": 6,
-        "changeset": 119599120,
+        "timestamp": "2024-02-14T11:37:27Z",
+        "version": 7,
+        "changeset": 147446964,
         "addr:city": "Campos dos Goytacazes",
         "addr:housenumber": "217",
-        "addr:postcode": "28035581",
+        "addr:postcode": "28035-581",
         "addr:street": "Avenida Alberto Torres",
         "addr:suburb": "Centro",
         "amenity": "university",
@@ -157,6 +164,8 @@
         "internet_access": "yes",
         "internet_access:fee": "customers",
         "name": "Faculdade de Medicina de Campos",
+        "operator": "Fundação Benedito Pereira Nunes",
+        "operator:type": "private",
         "website": "http://www.fmc.br/",
         "wikidata": "Q10279534",
         "id": "way/259383966"
@@ -166,32 +175,92 @@
         "coordinates": [
           [
             [
-              -41.3293248,
-              -21.753408
+              -41.3293017,
+              -21.7534425
             ],
             [
-              -41.3293455,
-              -21.7534545
+              -41.3293505,
+              -21.7535481
             ],
             [
-              -41.329444,
-              -21.7537539
+              -41.3291944,
+              -21.7536103
             ],
             [
-              -41.3289052,
-              -21.7539453
+              -41.3291706,
+              -21.7535588
             ],
             [
-              -41.3287737,
-              -21.7536248
+              -41.3291549,
+              -21.753565
             ],
             [
-              -41.3292683,
-              -21.753417
+              -41.3292308,
+              -21.753729
             ],
             [
-              -41.3293248,
-              -21.753408
+              -41.3291015,
+              -21.7537806
+            ],
+            [
+              -41.3291139,
+              -21.7538074
+            ],
+            [
+              -41.3293235,
+              -21.7537235
+            ],
+            [
+              -41.3293499,
+              -21.7537804
+            ],
+            [
+              -41.3293199,
+              -21.7537925
+            ],
+            [
+              -41.3293323,
+              -21.753819
+            ],
+            [
+              -41.329084,
+              -21.7539186
+            ],
+            [
+              -41.3290661,
+              -21.75388
+            ],
+            [
+              -41.3289361,
+              -21.7539323
+            ],
+            [
+              -41.3289281,
+              -21.7539151
+            ],
+            [
+              -41.3288949,
+              -21.7539284
+            ],
+            [
+              -41.3289104,
+              -21.7539617
+            ],
+            [
+              -41.3287498,
+              -21.7540264
+            ],
+            [
+              -41.3286016,
+              -21.7537091
+            ],
+            [
+              -41.3292858,
+              -21.7534333
+            ],
+            [
+              -41.3293017,
+              -21.7534425
             ]
           ]
         ]
@@ -1014,9 +1083,9 @@
       "type": "Feature",
       "id": "way/1073746598",
       "properties": {
-        "timestamp": "2022-06-27T06:43:52Z",
-        "version": 2,
-        "changeset": 122892084,
+        "timestamp": "2024-02-14T09:39:42Z",
+        "version": 3,
+        "changeset": 147442596,
         "alt_name": "Estácio",
         "amenity": "university",
         "name": "Universidade Estácio de Sá",
@@ -1051,6 +1120,10 @@
               -21.7668769
             ],
             [
+              -41.3270589,
+              -21.7670517
+            ],
+            [
               -41.3269635,
               -21.7670883
             ],
@@ -1061,6 +1134,10 @@
             [
               -41.3269052,
               -21.7670544
+            ],
+            [
+              -41.3268693,
+              -21.7669556
             ],
             [
               -41.3265806,
@@ -1129,25 +1206,6 @@
         "coordinates": [
           -41.2907916,
           -21.7622989
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/2647883694",
-      "properties": {
-        "timestamp": "2014-02-01T17:04:19Z",
-        "version": 1,
-        "changeset": 20319976,
-        "addr:housenumber": "213",
-        "addr:street": "Avenida Alberto Torres",
-        "id": "node/2647883694"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -41.3292683,
-          -21.753417
         ]
       }
     },

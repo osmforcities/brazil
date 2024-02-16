@@ -51586,6 +51586,72 @@
     },
     {
       "type": "Feature",
+      "id": "way/681382692",
+      "properties": {
+        "timestamp": "2024-02-14T21:37:46Z",
+        "version": 4,
+        "changeset": 147467672,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "49",
+        "addr:postcode": "02867-000",
+        "addr:street": "Rua Caiapé",
+        "alt_name": "E.E Chiquinha Rodrigues",
+        "amenity": "school",
+        "barrier": "wall",
+        "landuse": "education",
+        "name": "Escola Estadual Chiquinha Rodrigues",
+        "id": "way/681382692"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.6837833,
+              -23.4714951
+            ],
+            [
+              -46.6839425,
+              -23.4716618
+            ],
+            [
+              -46.6837647,
+              -23.4719197
+            ],
+            [
+              -46.6836297,
+              -23.4723634
+            ],
+            [
+              -46.6834636,
+              -23.4724065
+            ],
+            [
+              -46.6830181,
+              -23.4719544
+            ],
+            [
+              -46.6831215,
+              -23.4718742
+            ],
+            [
+              -46.6834319,
+              -23.4716345
+            ],
+            [
+              -46.683448,
+              -23.4716226
+            ],
+            [
+              -46.6837833,
+              -23.4714951
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/681392465",
       "properties": {
         "timestamp": "2023-05-28T06:20:30Z",
@@ -59397,76 +59463,6 @@
             [
               -46.7638952,
               -23.6268644
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/777280831",
-      "properties": {
-        "timestamp": "2020-02-29T14:10:45Z",
-        "version": 1,
-        "changeset": 81621118,
-        "addr:city": "São Paulo",
-        "addr:housenumber": "49",
-        "addr:postcode": "02867-000",
-        "addr:street": "Rua Caiapé",
-        "alt_name": "E.E Chiquinha Rodrigues",
-        "amenity": "school",
-        "building": "yes",
-        "height": "10",
-        "name": "Escola Estadual Chiquinha Rodrigues",
-        "id": "way/777280831"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -46.6835268,
-              -23.4716757
-            ],
-            [
-              -46.6836135,
-              -23.4717596
-            ],
-            [
-              -46.6835446,
-              -23.4718194
-            ],
-            [
-              -46.6837284,
-              -23.4719974
-            ],
-            [
-              -46.6836505,
-              -23.4720651
-            ],
-            [
-              -46.6834581,
-              -23.4718788
-            ],
-            [
-              -46.683339,
-              -23.4719822
-            ],
-            [
-              -46.6836048,
-              -23.4722396
-            ],
-            [
-              -46.6835364,
-              -23.472299
-            ],
-            [
-              -46.6831926,
-              -23.4719659
-            ],
-            [
-              -46.6835268,
-              -23.4716757
             ]
           ]
         ]
@@ -95796,6 +95792,25 @@
     },
     {
       "type": "Feature",
+      "id": "node/6380965260",
+      "properties": {
+        "timestamp": "2020-03-04T14:55:29Z",
+        "version": 3,
+        "changeset": 81781034,
+        "barrier": "gate",
+        "foot": "yes",
+        "id": "node/6380965260"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6834319,
+          -23.4716345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/6380965261",
       "properties": {
         "timestamp": "2019-04-03T14:11:21Z",
@@ -97355,6 +97370,40 @@
         "coordinates": [
           -46.7030823,
           -23.5283237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7252878793",
+      "properties": {
+        "timestamp": "2021-03-11T10:22:50Z",
+        "version": 3,
+        "changeset": 100834087,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "30",
+        "addr:postcode": "02867-000",
+        "addr:street": "Rua Caiapé",
+        "bench": "no",
+        "bus": "yes",
+        "departures_board": "yes",
+        "description": "Ref.: Av Padre Orlando Garcia Da Silveira/ R Amauri de Medeiros",
+        "gtfs_id": "110001134",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Rua Caiapé",
+        "network": "SPTRANS",
+        "operator": "SPTrans",
+        "public_transport": "platform",
+        "route_ref": "8542-21;8545-10;9006-10;9181-10",
+        "shelter": "no",
+        "id": "node/7252878793"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6831215,
+          -23.4718742
         ]
       }
     },

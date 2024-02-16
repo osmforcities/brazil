@@ -135,11 +135,12 @@
       "type": "Feature",
       "id": "node/11619217021",
       "properties": {
-        "timestamp": "2024-02-13T17:34:53Z",
-        "version": 1,
-        "changeset": 147419286,
+        "timestamp": "2024-02-14T03:41:57Z",
+        "version": 2,
+        "changeset": 147433446,
         "amenity": "pharmacy",
         "healthcare": "pharmacy",
+        "name": "Farmácias Associadas",
         "id": "node/11619217021"
       },
       "geometry": {
@@ -147,6 +148,50 @@
         "coordinates": [
           -49.9994715,
           -29.7250919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11621247105",
+      "properties": {
+        "timestamp": "2024-02-14T03:45:31Z",
+        "version": 1,
+        "changeset": 147433481,
+        "amenity": "pharmacy",
+        "brand": "São João",
+        "brand:wikidata": "Q62663306",
+        "healthcare": "pharmacy",
+        "name": "São João",
+        "id": "node/11621247105"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.0049589,
+          -29.7338309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11622239072",
+      "properties": {
+        "timestamp": "2024-02-14T11:11:14Z",
+        "version": 1,
+        "changeset": 147445908,
+        "amenity": "pharmacy",
+        "brand": "Panvel",
+        "brand:wikidata": "Q10344254",
+        "healthcare": "pharmacy",
+        "name": "Panvel",
+        "id": "node/11622239072"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.0157338,
+          -29.7542339
         ]
       }
     }

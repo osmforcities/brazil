@@ -2252,6 +2252,48 @@
     },
     {
       "type": "Feature",
+      "id": "way/1250658300",
+      "properties": {
+        "timestamp": "2024-02-15T03:36:23Z",
+        "version": 1,
+        "changeset": 147473152,
+        "amenity": "school",
+        "id": "way/1250658300"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.4418564,
+              -1.3366055
+            ],
+            [
+              -48.4417625,
+              -1.3370641
+            ],
+            [
+              -48.4416311,
+              -1.3370346
+            ],
+            [
+              -48.441725,
+              -1.3365895
+            ],
+            [
+              -48.4417907,
+              -1.3365962
+            ],
+            [
+              -48.4418564,
+              -1.3366055
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/505204961",
       "properties": {
         "timestamp": "2015-03-03T05:22:58Z",
@@ -4114,6 +4156,54 @@
         "coordinates": [
           -48.4530944,
           -1.3572152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11625822634",
+      "properties": {
+        "timestamp": "2024-02-15T03:36:23Z",
+        "version": 1,
+        "changeset": 147473152,
+        "addr:city": "Belém",
+        "addr:housenumber": "58",
+        "addr:postcode": "66823-068",
+        "addr:street": "Avenida Central I",
+        "addr:suburb": "Coqueiro",
+        "amenity": "school",
+        "name": "Colégio CEEC",
+        "id": "node/11625822634"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.4454425,
+          -1.3311386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11625822642",
+      "properties": {
+        "timestamp": "2024-02-15T03:36:23Z",
+        "version": 1,
+        "changeset": 147473152,
+        "addr:city": "Belém",
+        "addr:street": "Alameda NS 13",
+        "addr:suburb": "Coqueiro",
+        "amenity": "school",
+        "denomination": "catholic",
+        "name": "EEEF Clube de Mães Santa Rita de Cássia",
+        "religion": "christian",
+        "id": "node/11625822642"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.4417451,
+          -1.336812
         ]
       }
     }

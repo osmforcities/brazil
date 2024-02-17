@@ -192,6 +192,74 @@
     },
     {
       "type": "Feature",
+      "id": "way/422974560",
+      "properties": {
+        "timestamp": "2024-02-15T21:16:23Z",
+        "version": 2,
+        "changeset": 147508506,
+        "addr:city": "Guarulhos",
+        "addr:housenumber": "237",
+        "addr:street": "Rua Tapiramuta",
+        "addr:suburb": "Vila Nova Bonsucesso",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "UBS Nova Bonsucesso",
+        "id": "way/422974560"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.4037889,
+              -23.4082379
+            ],
+            [
+              -46.4038437,
+              -23.4082616
+            ],
+            [
+              -46.4038231,
+              -23.4083412
+            ],
+            [
+              -46.4030357,
+              -23.4086442
+            ],
+            [
+              -46.4030093,
+              -23.4086285
+            ],
+            [
+              -46.4030064,
+              -23.4086001
+            ],
+            [
+              -46.4031364,
+              -23.4082917
+            ],
+            [
+              -46.4032538,
+              -23.4080113
+            ],
+            [
+              -46.4035502,
+              -23.4081099
+            ],
+            [
+              -46.403577,
+              -23.4081714
+            ],
+            [
+              -46.4037889,
+              -23.4082379
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/441479957",
       "properties": {
         "timestamp": "2016-09-08T16:26:28Z",
@@ -2148,6 +2216,24 @@
         "coordinates": [
           -46.5604239,
           -23.4636108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4226927003",
+      "properties": {
+        "timestamp": "2024-02-15T21:16:23Z",
+        "version": 2,
+        "changeset": 147508506,
+        "entrance": "main",
+        "id": "node/4226927003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4031364,
+          -23.4082917
         ]
       }
     },

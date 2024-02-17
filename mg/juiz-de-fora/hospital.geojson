@@ -210,11 +210,12 @@
       "type": "Feature",
       "id": "way/119142490",
       "properties": {
-        "timestamp": "2014-04-02T07:36:36Z",
-        "version": 4,
-        "changeset": 21452052,
+        "timestamp": "2024-02-15T18:06:38Z",
+        "version": 5,
+        "changeset": 147502680,
         "amenity": "hospital",
         "emergency": "yes",
+        "healthcare": "hospital",
         "name": "Hospital Monte Sinai",
         "id": "way/119142490"
       },
@@ -1292,6 +1293,80 @@
     },
     {
       "type": "Feature",
+      "id": "way/1250610292",
+      "properties": {
+        "timestamp": "2024-02-15T00:30:44Z",
+        "version": 1,
+        "changeset": 147470893,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hospital Unimed Juiz de Fora",
+        "operator": "Unimed",
+        "operator:type": "private",
+        "id": "way/1250610292"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.3715781,
+              -21.8046571
+            ],
+            [
+              -43.3716361,
+              -21.8046013
+            ],
+            [
+              -43.3720523,
+              -21.8048842
+            ],
+            [
+              -43.3724579,
+              -21.8049579
+            ],
+            [
+              -43.3724407,
+              -21.8049898
+            ],
+            [
+              -43.3723163,
+              -21.8050575
+            ],
+            [
+              -43.3723249,
+              -21.8052766
+            ],
+            [
+              -43.3723764,
+              -21.8055317
+            ],
+            [
+              -43.372279,
+              -21.8057876
+            ],
+            [
+              -43.3722395,
+              -21.8058177
+            ],
+            [
+              -43.3723149,
+              -21.8060003
+            ],
+            [
+              -43.3712477,
+              -21.805434
+            ],
+            [
+              -43.3715781,
+              -21.8046571
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/1341286680",
       "properties": {
         "timestamp": "2011-06-27T16:19:08Z",
@@ -1365,6 +1440,26 @@
         "coordinates": [
           -43.4081914,
           -21.7175279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11624963107",
+      "properties": {
+        "timestamp": "2024-02-15T00:30:44Z",
+        "version": 1,
+        "changeset": 147470893,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hospital Unimed Juiz de Fora",
+        "id": "node/11624963107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3718785,
+          -21.8052707
         ]
       }
     }

@@ -754,82 +754,6 @@
     },
     {
       "type": "Feature",
-      "id": "relation/16507676",
-      "properties": {
-        "timestamp": "2023-10-17T12:12:00Z",
-        "version": 1,
-        "changeset": 142710500,
-        "addr:city": "Fortaleza",
-        "addr:housenumber": "746",
-        "addr:postcode": "60130-080",
-        "addr:street": "Rua Padre Chevalier",
-        "addr:suburb": "Joaquim Távora",
-        "amenity": "hospital",
-        "healthcare": "hospital",
-        "name": "Unimed",
-        "operator": "Unimed",
-        "operator:wikidata": "Q7865295",
-        "type": "multipolygon",
-        "id": "relation/16507676"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -38.5142823,
-              -3.7485256
-            ],
-            [
-              -38.5143453,
-              -3.7487154
-            ],
-            [
-              -38.5142186,
-              -3.7487538
-            ],
-            [
-              -38.5142164,
-              -3.7487466
-            ],
-            [
-              -38.5141067,
-              -3.7484078
-            ],
-            [
-              -38.5141876,
-              -3.7483835
-            ],
-            [
-              -38.5141761,
-              -3.7483459
-            ],
-            [
-              -38.5142398,
-              -3.7483261
-            ],
-            [
-              -38.5142527,
-              -3.7483601
-            ],
-            [
-              -38.514269,
-              -3.7483543
-            ],
-            [
-              -38.5143204,
-              -3.7485071
-            ],
-            [
-              -38.5142823,
-              -3.7485256
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/193187815",
       "properties": {
         "timestamp": "2023-05-07T18:08:01Z",
@@ -5428,6 +5352,158 @@
     },
     {
       "type": "Feature",
+      "id": "way/1093810561",
+      "properties": {
+        "timestamp": "2024-02-15T23:42:45Z",
+        "version": 2,
+        "changeset": 147511460,
+        "addr:city": "Fortaleza",
+        "addr:housenumber": "3443",
+        "addr:postcode": "60192-165",
+        "addr:street": "Avenida Antônio Sales",
+        "addr:suburb": "Cocó",
+        "amenity": "hospital",
+        "building": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general;dentist",
+        "height": "19.1",
+        "name": "Hospital Jório da Escóssia",
+        "id": "way/1093810561"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.491977,
+              -3.7483294
+            ],
+            [
+              -38.4920129,
+              -3.7483148
+            ],
+            [
+              -38.4920237,
+              -3.7483397
+            ],
+            [
+              -38.4920235,
+              -3.7483511
+            ],
+            [
+              -38.4920195,
+              -3.7483586
+            ],
+            [
+              -38.4919901,
+              -3.74837
+            ],
+            [
+              -38.4919925,
+              -3.7483766
+            ],
+            [
+              -38.4917973,
+              -3.7484453
+            ],
+            [
+              -38.4916861,
+              -3.7481262
+            ],
+            [
+              -38.4916968,
+              -3.7481225
+            ],
+            [
+              -38.4916879,
+              -3.748097
+            ],
+            [
+              -38.4916756,
+              -3.7480616
+            ],
+            [
+              -38.4917582,
+              -3.7480325
+            ],
+            [
+              -38.491774,
+              -3.7480778
+            ],
+            [
+              -38.4918758,
+              -3.748042
+            ],
+            [
+              -38.4918822,
+              -3.7480605
+            ],
+            [
+              -38.4919056,
+              -3.748053
+            ],
+            [
+              -38.4919209,
+              -3.7480561
+            ],
+            [
+              -38.4919352,
+              -3.7480871
+            ],
+            [
+              -38.4918999,
+              -3.7481016
+            ],
+            [
+              -38.4919218,
+              -3.7481145
+            ],
+            [
+              -38.4919244,
+              -3.7481019
+            ],
+            [
+              -38.4919372,
+              -3.7480904
+            ],
+            [
+              -38.4919461,
+              -3.7480889
+            ],
+            [
+              -38.49196,
+              -3.7480981
+            ],
+            [
+              -38.492025,
+              -3.7482846
+            ],
+            [
+              -38.4920255,
+              -3.7483015
+            ],
+            [
+              -38.4920138,
+              -3.7483122
+            ],
+            [
+              -38.4919959,
+              -3.7483107
+            ],
+            [
+              -38.4919867,
+              -3.7483016
+            ],
+            [
+              -38.491977,
+              -3.7483294
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1161532931",
       "properties": {
         "timestamp": "2023-09-20T10:48:56Z",
@@ -6835,32 +6911,6 @@
         "coordinates": [
           -38.5202994,
           -3.7349648
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/9223992564",
-      "properties": {
-        "timestamp": "2022-01-18T18:22:25Z",
-        "version": 2,
-        "changeset": 116310875,
-        "addr:city": "Fortaleza",
-        "addr:housenumber": "3443",
-        "addr:postcode": "60192-165",
-        "addr:street": "Avenida Antônio Sales",
-        "addr:suburb": "Cocó",
-        "amenity": "hospital",
-        "healthcare": "hospital",
-        "healthcare:speciality": "general;dentist",
-        "name": "Hospital Jório da Escóssia",
-        "id": "node/9223992564"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -38.4918518,
-          -3.7482524
         ]
       }
     },

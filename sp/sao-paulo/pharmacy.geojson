@@ -1111,9 +1111,9 @@
       "type": "Feature",
       "id": "way/375808308",
       "properties": {
-        "timestamp": "2023-08-18T15:43:28Z",
-        "version": 4,
-        "changeset": 140063672,
+        "timestamp": "2024-02-16T10:13:39Z",
+        "version": 5,
+        "changeset": 147525336,
         "addr:city": "São Paulo",
         "addr:housenumber": "139",
         "addr:postcode": "02515-000",
@@ -1123,8 +1123,10 @@
         "building": "yes",
         "dispensing": "yes",
         "healthcare": "pharmacy",
+        "height": "5",
         "name": "Promofarma",
         "opening_hours": "Mo-Su 07:00-23:00",
+        "roof:colour": "silver",
         "roof:material": "metal",
         "id": "way/375808308"
       },
@@ -1133,24 +1135,32 @@
         "coordinates": [
           [
             [
-              -46.6597536,
-              -23.5119497
+              -46.6597387,
+              -23.5120099
             ],
             [
-              -46.6597545,
-              -23.5120638
+              -46.6597518,
+              -23.5121174
             ],
             [
-              -46.6594322,
-              -23.5121252
+              -46.6594781,
+              -23.5121456
             ],
             [
-              -46.6593955,
-              -23.5119803
+              -46.6594694,
+              -23.5120744
             ],
             [
-              -46.6597536,
-              -23.5119497
+              -46.6594793,
+              -23.5120484
+            ],
+            [
+              -46.6595095,
+              -23.5120335
+            ],
+            [
+              -46.6597387,
+              -23.5120099
             ]
           ]
         ]
@@ -23548,6 +23558,60 @@
     },
     {
       "type": "Feature",
+      "id": "way/1251102418",
+      "properties": {
+        "timestamp": "2024-02-16T10:13:39Z",
+        "version": 1,
+        "changeset": 147525336,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "225",
+        "addr:postcode": "02515-000",
+        "addr:street": "Rua Doutor César Castiglioni Junior",
+        "amenity": "pharmacy",
+        "brand": "Drogaria São Paulo",
+        "brand:wikidata": "Q5308184",
+        "healthcare": "pharmacy",
+        "name": "Drogaria São Paulo",
+        "id": "way/1251102418"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.6597362,
+              -23.5111247
+            ],
+            [
+              -46.6597542,
+              -23.5112329
+            ],
+            [
+              -46.6597709,
+              -23.5113326
+            ],
+            [
+              -46.6596447,
+              -23.5113474
+            ],
+            [
+              -46.6593917,
+              -23.5113796
+            ],
+            [
+              -46.6593635,
+              -23.5111721
+            ],
+            [
+              -46.6597362,
+              -23.5111247
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/444963390",
       "properties": {
         "timestamp": "2022-04-02T15:19:33Z",
@@ -23586,24 +23650,6 @@
         "coordinates": [
           -46.7365315,
           -23.5234135
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/462043004",
-      "properties": {
-        "timestamp": "2020-10-13T07:24:28Z",
-        "version": 5,
-        "changeset": 92395402,
-        "highway": "traffic_signals",
-        "id": "node/462043004"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -46.6593955,
-          -23.5119803
         ]
       }
     },

@@ -1701,6 +1701,65 @@
     },
     {
       "type": "Feature",
+      "id": "way/1251257665",
+      "properties": {
+        "timestamp": "2024-02-16T18:01:43Z",
+        "version": 1,
+        "changeset": 147543097,
+        "amenity": "pharmacy",
+        "brand": "Drogasil",
+        "brand:wikidata": "Q5308185",
+        "brand:wikipedia": "pt:Drogasil",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Drogasil",
+        "name:pt": "Farmácia Drogasil",
+        "opening_hours": "PH,Mo-Su 00:00-24:00",
+        "wheelchair": "yes",
+        "id": "way/1251257665"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -37.0535448,
+              -10.9394451
+            ],
+            [
+              -37.0535596,
+              -10.9397218
+            ],
+            [
+              -37.0533695,
+              -10.939735
+            ],
+            [
+              -37.0533635,
+              -10.9396599
+            ],
+            [
+              -37.0534079,
+              -10.9396095
+            ],
+            [
+              -37.0534546,
+              -10.939606
+            ],
+            [
+              -37.0534476,
+              -10.9394536
+            ],
+            [
+              -37.0535448,
+              -10.9394451
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/1071386918",
       "properties": {
         "timestamp": "2023-03-31T14:14:34Z",
@@ -2229,33 +2288,6 @@
         "coordinates": [
           -37.0491067,
           -10.9123259
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/4438451190",
-      "properties": {
-        "timestamp": "2022-01-12T13:54:33Z",
-        "version": 5,
-        "changeset": 116068100,
-        "amenity": "pharmacy",
-        "brand": "Drogasil",
-        "brand:wikidata": "Q5308185",
-        "brand:wikipedia": "pt:Drogasil",
-        "dispensing": "yes",
-        "healthcare": "pharmacy",
-        "name": "Drogasil",
-        "name:pt": "Farmácia Drogasil",
-        "opening_hours": "PH,Mo-Su 00:00-24:00",
-        "wheelchair": "yes",
-        "id": "node/4438451190"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -37.0533353,
-          -10.9395302
         ]
       }
     },

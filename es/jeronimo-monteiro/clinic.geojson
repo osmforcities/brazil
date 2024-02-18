@@ -51,9 +51,9 @@
       "type": "Feature",
       "id": "node/7162341739",
       "properties": {
-        "timestamp": "2021-12-15T10:15:59Z",
-        "version": 4,
-        "changeset": 114957331,
+        "timestamp": "2024-02-16T12:04:42Z",
+        "version": 5,
+        "changeset": 147529581,
         "addr:city": "Jerônimo Monteiro",
         "addr:housenumber": "33",
         "addr:postcode": "29550-000",
@@ -62,9 +62,9 @@
         "addr:suburb": "Centro",
         "amenity": "clinic",
         "healthcare": "clinic",
-        "healthcare:speciality": "general;fisioterapia;psicologia;fonoaudiologia",
-        "name": "Medicina & Saúde",
-        "operator": "Clínica Médica Medicina e Saúde Limitada",
+        "healthcare:speciality": "general",
+        "name": "Laboratório Liparizi",
+        "operator": "Liparizi Serviços Médicos e Laboratoriais Limitada",
         "operator:type": "private",
         "id": "node/7162341739"
       },
@@ -191,6 +191,35 @@
         "coordinates": [
           -41.3795412,
           -20.7908068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11630218288",
+      "properties": {
+        "timestamp": "2024-02-16T12:04:42Z",
+        "version": 1,
+        "changeset": 147529581,
+        "addr:city": "Jerônimo Monteiro",
+        "addr:housenumber": "54",
+        "addr:postcode": "29550-000",
+        "addr:province": "Espírito Santo",
+        "addr:street": "Rua Enivaldo Sessa",
+        "addr:suburb": "Centro",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general;fisioterapia;psicologia",
+        "name": "Medicina & Saúde",
+        "operator": "Clínica Médica Medicina e Saúde Limitada",
+        "operator:type": "private",
+        "id": "node/11630218288"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.392917,
+          -20.7876091
         ]
       }
     }

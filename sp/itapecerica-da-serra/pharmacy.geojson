@@ -139,6 +139,168 @@
     },
     {
       "type": "Feature",
+      "id": "way/968927026",
+      "properties": {
+        "timestamp": "2024-02-17T17:33:32Z",
+        "version": 3,
+        "changeset": 147581243,
+        "addr:city": "Itapecerica da Serra",
+        "addr:housenumber": "80",
+        "addr:postcode": "06850-040",
+        "addr:street": "Avenida Eduardo Roberto Daher",
+        "addr:suburb": "Centro",
+        "amenity": "pharmacy",
+        "building": "pharmacy",
+        "building:levels": "1",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Ultrafarma Popular",
+        "opening_hours": "Domingo-sexta, 08-22. Sábado 08-21.",
+        "id": "way/968927026"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.8508568,
+              -23.7158194
+            ],
+            [
+              -46.850891,
+              -23.715938
+            ],
+            [
+              -46.8507831,
+              -23.7159776
+            ],
+            [
+              -46.8507616,
+              -23.7159127
+            ],
+            [
+              -46.8507417,
+              -23.7158524
+            ],
+            [
+              -46.8508568,
+              -23.7158194
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1251715304",
+      "properties": {
+        "timestamp": "2024-02-17T17:27:51Z",
+        "version": 1,
+        "changeset": 147581050,
+        "addr:city": "Itapecerica da Serra",
+        "addr:housenumber": "52",
+        "addr:postcode": "06850-036",
+        "addr:street": "Avenida Eduardo Roberto Daher",
+        "addr:suburb": "Centro",
+        "amenity": "pharmacy",
+        "brand": "Drogasil",
+        "brand:wikidata": "Q5308185",
+        "building": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Drogasil",
+        "opening_hours": "24/7",
+        "wheelchair": "yes",
+        "id": "way/1251715304"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.8500749,
+              -23.7160354
+            ],
+            [
+              -46.8501333,
+              -23.7160236
+            ],
+            [
+              -46.8501718,
+              -23.7160119
+            ],
+            [
+              -46.8502314,
+              -23.7161733
+            ],
+            [
+              -46.8501426,
+              -23.7162224
+            ],
+            [
+              -46.8501176,
+              -23.7161531
+            ],
+            [
+              -46.8500749,
+              -23.7160354
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1251736136",
+      "properties": {
+        "timestamp": "2024-02-17T18:12:01Z",
+        "version": 1,
+        "changeset": 147582676,
+        "addr:city": "Itapecerica da Serra",
+        "addr:housenumber": "142",
+        "addr:postcode": "06850-100",
+        "addr:street": "Avenida Quinze de Novembro",
+        "addr:suburb": "Centro",
+        "amenity": "pharmacy",
+        "building": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pense Farma Mega Store",
+        "id": "way/1251736136"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.8493737,
+              -23.7151856
+            ],
+            [
+              -46.8491241,
+              -23.7152914
+            ],
+            [
+              -46.849101,
+              -23.7152999
+            ],
+            [
+              -46.8490347,
+              -23.7151179
+            ],
+            [
+              -46.8493244,
+              -23.7150319
+            ],
+            [
+              -46.8493737,
+              -23.7151856
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/8936359170",
       "properties": {
         "timestamp": "2021-07-20T17:24:44Z",
@@ -266,32 +428,6 @@
         "coordinates": [
           -46.8494748,
           -23.7105445
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/8964353960",
-      "properties": {
-        "timestamp": "2021-07-30T22:11:02Z",
-        "version": 1,
-        "changeset": 108912091,
-        "addr:street": "Avenida Eduardo Roberto Daher",
-        "addr:suburb": "Centro",
-        "amenity": "pharmacy",
-        "contact:mobile": "+55 11 98436 0509",
-        "dispensing": "yes",
-        "drive_through": "no",
-        "healthcare": "pharmacy",
-        "name": "DrogaDélia",
-        "phone": "+55 11 4667 3141",
-        "id": "node/8964353960"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -46.8508532,
-          -23.715915
         ]
       }
     },

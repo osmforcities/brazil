@@ -1764,6 +1764,102 @@
     },
     {
       "type": "Feature",
+      "id": "way/1251411579",
+      "properties": {
+        "timestamp": "2024-02-17T01:12:03Z",
+        "version": 1,
+        "changeset": 147553964,
+        "addr:city": "Campos dos Goytacazes",
+        "addr:district": "Travessão",
+        "addr:postcode": "28175-000",
+        "addr:suburb": "Centro",
+        "amenity": "school",
+        "name": "Ciep 268 Luiz Carlos de Lacerda",
+        "operator": "Secretaria de Estado da Educação do Rio de Janeiro",
+        "operator:type": "public",
+        "phone": "+55 22 2748 5020",
+        "id": "way/1251411579"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.316273,
+              -21.6077625
+            ],
+            [
+              -41.3160882,
+              -21.6089205
+            ],
+            [
+              -41.3149721,
+              -21.6090752
+            ],
+            [
+              -41.3149684,
+              -21.6087315
+            ],
+            [
+              -41.3154895,
+              -21.607687
+            ],
+            [
+              -41.316273,
+              -21.6077625
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1251411581",
+      "properties": {
+        "timestamp": "2024-02-17T01:12:03Z",
+        "version": 1,
+        "changeset": 147553964,
+        "addr:city": "Campos dos Goytacazes",
+        "addr:housenumber": "260",
+        "addr:postcode": "28175-000",
+        "addr:street": "Avenida Antônio Luís da Silveira",
+        "addr:suburb": "Centro",
+        "amenity": "school",
+        "name": "Colégio Estadual Nelson Pereira Rebel",
+        "operator": "Secretaria de Estado da Educação do Rio de Janeiro",
+        "operator:type": "public",
+        "id": "way/1251411581"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.3117908,
+              -21.6093472
+            ],
+            [
+              -41.3107227,
+              -21.6093541
+            ],
+            [
+              -41.3107116,
+              -21.6091204
+            ],
+            [
+              -41.311739,
+              -21.6091204
+            ],
+            [
+              -41.3117908,
+              -21.6093472
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/1232303210",
       "properties": {
         "timestamp": "2014-01-23T23:08:12Z",
@@ -2058,6 +2154,47 @@
         "coordinates": [
           -41.4509494,
           -21.2681965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11632836449",
+      "properties": {
+        "timestamp": "2024-02-17T01:58:37Z",
+        "version": 1,
+        "changeset": 147554508,
+        "amenity": "school",
+        "name": "Escola Municipal Albertina Azeredo Venâncio",
+        "id": "node/11632836449"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.3125261,
+          -21.6085983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11632836450",
+      "properties": {
+        "timestamp": "2024-02-17T01:58:37Z",
+        "version": 1,
+        "changeset": 147554508,
+        "addr:city": "Campos dos Goytacazes",
+        "addr:district": "Travessão",
+        "addr:street": "Avenida Antônio Luís da Silveira",
+        "amenity": "school",
+        "name": "Centro Educacional Anisio Spínola Teixeira",
+        "id": "node/11632836450"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.3114783,
+          -21.6355692
         ]
       }
     }

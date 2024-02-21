@@ -5,11 +5,17 @@
       "type": "Feature",
       "id": "way/110845809",
       "properties": {
-        "timestamp": "2022-04-12T23:11:52Z",
-        "version": 3,
-        "changeset": 119641996,
+        "timestamp": "2024-02-19T12:25:00Z",
+        "version": 4,
+        "changeset": 147648039,
+        "addr:city": "Campos dos Goytacazes",
+        "addr:housenumber": "229",
+        "addr:postcode": "28035-641",
+        "addr:street": "Rua Gil de Gois",
+        "addr:suburb": "Centro",
         "amenity": "school",
-        "name": "Colégio Cenecista Bitencourt",
+        "name": "Colégio Bittencourt",
+        "phone": "+55 22 2733 0303",
         "id": "way/110845809"
       },
       "geometry": {
@@ -17,8 +23,8 @@
         "coordinates": [
           [
             [
-              -41.3342427,
-              -21.752736
+              -41.3342078,
+              -21.7527295
             ],
             [
               -41.334545,
@@ -77,12 +83,12 @@
               -21.7534286
             ],
             [
-              -41.3337023,
+              -41.3336911,
               -21.7529065
             ],
             [
-              -41.3342427,
-              -21.752736
+              -41.3342078,
+              -21.7527295
             ]
           ]
         ]
@@ -92,9 +98,9 @@
       "type": "Feature",
       "id": "way/110845861",
       "properties": {
-        "timestamp": "2022-04-12T11:45:05Z",
-        "version": 4,
-        "changeset": 119618357,
+        "timestamp": "2024-02-19T12:25:00Z",
+        "version": 5,
+        "changeset": 147648039,
         "addr:city": "Campos dos Goytacazes",
         "addr:housenumber": "15",
         "addr:postcode": "28035-220",
@@ -104,7 +110,6 @@
         "name": "Liceu de Humanidades de Campos",
         "operator": "Governo do Estado do Rio de Janeiro/SEEDUC - Secretaria Estadual de Educação",
         "operator:type": "government",
-        "religion": "none",
         "website": "http://www.rj.gov.br/secretaria/Default.aspx?sec=EDUCA%c3%87%c3%83O",
         "wikidata": "Q10317963",
         "id": "way/110845861"
@@ -114,64 +119,24 @@
         "coordinates": [
           [
             [
-              -41.3338689,
-              -21.7540072
+              -41.3338625,
+              -21.7540044
             ],
             [
-              -41.3331929,
-              -21.7542191
+              -41.3331912,
+              -21.7542224
             ],
             [
-              -41.3329585,
-              -21.7536042
+              -41.3329641,
+              -21.7535855
             ],
             [
-              -41.3329794,
-              -21.7535835
+              -41.3336121,
+              -21.753376
             ],
             [
-              -41.3330125,
-              -21.7535701
-            ],
-            [
-              -41.3330754,
-              -21.7535446
-            ],
-            [
-              -41.333139,
-              -21.7535188
-            ],
-            [
-              -41.333262,
-              -21.7534689
-            ],
-            [
-              -41.3334431,
-              -21.7534191
-            ],
-            [
-              -41.3335338,
-              -21.7534007
-            ],
-            [
-              -41.3335738,
-              -21.7533983
-            ],
-            [
-              -41.3336138,
-              -21.753396
-            ],
-            [
-              -41.333621,
-              -21.7534133
-            ],
-            [
-              -41.3336286,
-              -21.7534314
-            ],
-            [
-              -41.3338689,
-              -21.7540072
+              -41.3338625,
+              -21.7540044
             ]
           ]
         ]
@@ -2040,20 +2005,107 @@
     },
     {
       "type": "Feature",
-      "id": "node/1232303210",
+      "id": "way/1252351169",
       "properties": {
-        "timestamp": "2014-01-23T23:08:12Z",
+        "timestamp": "2024-02-19T13:55:20Z",
         "version": 2,
-        "changeset": 20169427,
+        "changeset": 147651562,
+        "addr:city": "Campos dos Goytacazes",
+        "addr:housenumber": "139",
+        "addr:postcode": "28035-310",
+        "addr:street": "Rua Salvador Corrêa",
+        "addr:suburb": "Centro",
         "amenity": "school",
-        "name": "Colégio Escola Nossa Senhora Auxiliadora",
-        "id": "node/1232303210"
+        "email": "censa@censa.com.br",
+        "name": "Centro Educacional Nossa Senhora Auxiliadora - Censa",
+        "operator": "Centro Educacional Nossa Senhora Auxiliadora",
+        "operator:type": "private",
+        "phone": "+55 22 2726 2700",
+        "id": "way/1252351169"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -41.3311448,
-          -21.7553954
+          [
+            [
+              -41.331574,
+              -21.754814
+            ],
+            [
+              -41.3319301,
+              -21.7557373
+            ],
+            [
+              -41.3304922,
+              -21.756205
+            ],
+            [
+              -41.3301431,
+              -21.7552604
+            ],
+            [
+              -41.331574,
+              -21.754814
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1252391975",
+      "properties": {
+        "timestamp": "2024-02-19T13:55:20Z",
+        "version": 1,
+        "changeset": 147651562,
+        "addr:city": "Campos dos Goytacazes",
+        "addr:housenumber": "183",
+        "addr:postcode": "28035-290",
+        "addr:street": "Rua Benta Pereira",
+        "addr:suburb": "Centro",
+        "amenity": "school",
+        "email": "secretaria@lauravicunha.com.br",
+        "mobile": "+55 22 99797 3119",
+        "name": "Colégio Laura Vicunha",
+        "operator": "Instituto Profissional Laura Vicunha",
+        "operator:type": "private",
+        "phone": "+55 22 2722 4988",
+        "website": "http://lauravicunha.com.br/",
+        "id": "way/1252391975"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.3321697,
+              -21.7564323
+            ],
+            [
+              -41.3319745,
+              -21.7565229
+            ],
+            [
+              -41.3318205,
+              -21.7565785
+            ],
+            [
+              -41.3314371,
+              -21.7566103
+            ],
+            [
+              -41.3312282,
+              -21.7560841
+            ],
+            [
+              -41.3319437,
+              -21.7558409
+            ],
+            [
+              -41.3321697,
+              -21.7564323
+            ]
+          ]
         ]
       }
     },

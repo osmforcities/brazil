@@ -213,9 +213,9 @@
       "type": "Feature",
       "id": "way/338894444",
       "properties": {
-        "timestamp": "2020-02-09T14:18:31Z",
-        "version": 3,
-        "changeset": 80752978,
+        "timestamp": "2024-02-19T00:54:43Z",
+        "version": 4,
+        "changeset": 147629568,
         "addr:city": "Londrina",
         "addr:housenumber": "544",
         "addr:postcode": "86010-460",
@@ -224,8 +224,12 @@
         "amenity": "school",
         "email": "arthur.thomas@londrina.pr.gov.br",
         "name": "Escola Municipal Arthur Thomas",
-        "opening_hours": "Mo-Fr 08:00-12:00,13:30-17:30",
+        "opening_hours": "Mo-Fr 07:30-11:30,13:30-17:30; PH off",
+        "operator": "Secretaria Municipal de Educação",
+        "operator:type": "government",
         "phone": "+55 43 3375 0266",
+        "religion": "none",
+        "source": "https://repositorio.londrina.pr.gov.br/index.php/menu-educacao/unidades-escolares/225-escolas-urbanas/file",
         "id": "way/338894444"
       },
       "geometry": {
@@ -7344,45 +7348,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/617390561",
-      "properties": {
-        "timestamp": "2018-08-16T11:18:37Z",
-        "version": 1,
-        "changeset": 61712346,
-        "amenity": "school",
-        "name": "SANTA RITA - PROV. BRAS. CONG. IRMÃS FILHAS CARIDADE SÃO V. DE PAULO",
-        "id": "way/617390561"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -51.1453631,
-              -23.3168229
-            ],
-            [
-              -51.1453942,
-              -23.3174512
-            ],
-            [
-              -51.1450168,
-              -23.3175334
-            ],
-            [
-              -51.1448832,
-              -23.3169157
-            ],
-            [
-              -51.1453631,
-              -23.3168229
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/617390798",
       "properties": {
         "timestamp": "2018-08-16T11:19:46Z",
@@ -8226,9 +8191,9 @@
       "type": "Feature",
       "id": "way/617408901",
       "properties": {
-        "timestamp": "2024-01-24T02:39:06Z",
-        "version": 2,
-        "changeset": 146614680,
+        "timestamp": "2024-02-19T01:12:46Z",
+        "version": 3,
+        "changeset": 147629841,
         "addr:housenumber": "195",
         "addr:postcode": "86020-380",
         "addr:street": "Rua Pio XII",
@@ -8236,7 +8201,7 @@
         "amenity": "school",
         "email": "ldahugosimas@seed.pr.gov.br",
         "name": "Colégio Estadual Hugo Simas",
-        "operator": "Secretaria Da Educação do Estado do Paraná",
+        "operator": "Secretaria da Educação do Estado do Paraná",
         "operator:type": "government",
         "phone": "+55 43 3323 7303",
         "religion": "none",
@@ -9831,16 +9796,23 @@
       "type": "Feature",
       "id": "way/740695873",
       "properties": {
-        "timestamp": "2019-10-31T11:56:28Z",
-        "version": 1,
-        "changeset": 76446816,
-        "addr:housenumber": "845",
-        "addr:street": "Rua Pará",
+        "timestamp": "2024-02-19T00:49:19Z",
+        "version": 2,
+        "changeset": 147629484,
+        "addr:housenumber": "670",
+        "addr:postcode": "86010-150",
+        "addr:street": "Avenida Rio de Janeiro",
         "addr:suburb": "Centro",
         "amenity": "school",
-        "denomination": "catholic",
+        "denomination": "roman_catholic",
+        "email": "contato@maededeus.edu.br",
+        "mobile": "+55 43 98811 7207",
         "name": "Colégio Mãe de Deus",
+        "operator": "Instituto Secular das Irmãs Maria de Schoenstatt",
+        "operator:type": "religious",
+        "phone": "+55 43 3878 6800",
         "religion": "christian",
+        "website": "https://www.maededeus.edu.br/",
         "id": "way/740695873"
       },
       "geometry": {

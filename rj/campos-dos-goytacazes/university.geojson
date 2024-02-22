@@ -510,12 +510,13 @@
       "type": "Feature",
       "id": "way/783762569",
       "properties": {
-        "timestamp": "2022-04-10T20:43:10Z",
-        "version": 3,
-        "changeset": 119550599,
+        "timestamp": "2024-02-20T18:45:08Z",
+        "version": 4,
+        "changeset": 147704080,
         "addr:city": "Campos dos Goytacazes",
+        "addr:housenumber": "52",
         "addr:street": "Rua Senador Viana",
-        "addr:suburb": "CENTRO",
+        "addr:suburb": "Centro",
         "amenity": "university",
         "internet_access": "no",
         "name": "Universidade Federal Fluminense - UFF - campus Campos 2",
@@ -854,6 +855,56 @@
             [
               -41.3214249,
               -21.7607811
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1252964697",
+      "properties": {
+        "timestamp": "2024-02-20T18:45:08Z",
+        "version": 1,
+        "changeset": 147704080,
+        "addr:city": "Campos dos Goytacazes",
+        "addr:housenumber": "904",
+        "addr:postcode": "28030-002",
+        "addr:street": "Avenida Vinte e Oito de Março",
+        "addr:suburb": "Parque Dom Bosco",
+        "amenity": "university",
+        "name": "Universo - Polo Campos dos Goytacazes-RJ",
+        "operator": "Associação Salgado de Oliveira de Educação e Cultura - Universo",
+        "operator:type": "private",
+        "id": "way/1252964697"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.3406158,
+              -21.7611721
+            ],
+            [
+              -41.3407303,
+              -21.7614835
+            ],
+            [
+              -41.3406191,
+              -21.7615466
+            ],
+            [
+              -41.3393359,
+              -21.7619769
+            ],
+            [
+              -41.3392143,
+              -21.7616313
+            ],
+            [
+              -41.3406158,
+              -21.7611721
             ]
           ]
         ]

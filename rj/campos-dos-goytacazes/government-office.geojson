@@ -423,9 +423,9 @@
       "type": "Feature",
       "id": "way/1035348838",
       "properties": {
-        "timestamp": "2024-02-19T16:00:12Z",
-        "version": 2,
-        "changeset": 147657101,
+        "timestamp": "2024-02-20T18:45:08Z",
+        "version": 3,
+        "changeset": 147704080,
         "addr:city": "Campos dos Goytacazes-RJ",
         "addr:housenumber": "40",
         "addr:postcode": "28035-140",
@@ -434,9 +434,10 @@
         "air_conditioning": "yes",
         "building": "yes",
         "government": "prosecutor",
-        "name": "Ministério Público do Estado do Rio de Janeiro",
+        "name": "Promotoria de Justiça da Comarca de Campos dos Goytacazes",
         "office": "government",
         "opening_hours": "Mo-Fr 13:00-16:00",
+        "operator": "Ministério Público do Estado do Rio de Janeiro",
         "phone": "+552227381181",
         "source": "local knowledge;streetlevel imagery;aerial imagery",
         "website": "https://www.mprj.mp.br/",
@@ -1336,6 +1337,53 @@
             [
               -41.3384357,
               -21.7519599
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1252864170",
+      "properties": {
+        "timestamp": "2024-02-20T13:30:01Z",
+        "version": 1,
+        "changeset": 147692643,
+        "addr:city": "Campos dos Goytacazes",
+        "addr:housenumber": "80",
+        "addr:postcode": "28010-117",
+        "addr:street": "Avenida Alberto Torres",
+        "addr:suburb": "Centro",
+        "building": "yes",
+        "email": "irf1001@fazenda.rj.gov.br",
+        "government": "tax",
+        "name": "Agência da Secretaria da Fazenda do Estado do Rio de Janeiro",
+        "office": "government",
+        "id": "way/1252864170"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.3255727,
+              -21.7546802
+            ],
+            [
+              -41.3254814,
+              -21.7547184
+            ],
+            [
+              -41.3253148,
+              -21.754359
+            ],
+            [
+              -41.3253922,
+              -21.7542794
+            ],
+            [
+              -41.3255727,
+              -21.7546802
             ]
           ]
         ]

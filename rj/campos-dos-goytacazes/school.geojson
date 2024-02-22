@@ -246,12 +246,18 @@
       "type": "Feature",
       "id": "way/678852050",
       "properties": {
-        "timestamp": "2019-03-23T13:41:26Z",
-        "version": 2,
-        "changeset": 68444635,
+        "timestamp": "2024-02-20T18:45:08Z",
+        "version": 3,
+        "changeset": 147704080,
+        "addr:city": "Campos dos Goytacazes",
+        "addr:housenumber": "49",
+        "addr:postcode": "28035-003",
+        "addr:street": "Avenida Dom Bosco",
+        "addr:suburb": "Parque Dom Bosco",
         "amenity": "school",
-        "name": "Salesiano School",
-        "name:br": "Salesiano",
+        "name": "Colégio Salesiano",
+        "operator": "Instituto Dom Bosco",
+        "operator:type": "private",
         "id": "way/678852050"
       },
       "geometry": {
@@ -259,28 +265,32 @@
         "coordinates": [
           [
             [
-              -41.3385333,
-              -21.7597226
+              -41.3385401,
+              -21.75975
             ],
             [
-              -41.3398958,
-              -21.7592892
+              -41.3386282,
+              -21.7596257
             ],
             [
-              -41.3405584,
-              -21.7611973
+              -41.339948,
+              -21.7592238
             ],
             [
-              -41.3392575,
-              -21.7616208
+              -41.3406158,
+              -21.7611721
+            ],
+            [
+              -41.3392143,
+              -21.7616313
             ],
             [
               -41.3387023,
               -21.7602109
             ],
             [
-              -41.3385333,
-              -21.7597226
+              -41.3385401,
+              -21.75975
             ]
           ]
         ]
@@ -2111,20 +2121,90 @@
     },
     {
       "type": "Feature",
-      "id": "node/1246396486",
+      "id": "way/1252964694",
       "properties": {
-        "timestamp": "2011-04-15T23:28:15Z",
+        "timestamp": "2024-02-20T18:45:08Z",
         "version": 1,
-        "changeset": 7874645,
+        "changeset": 147704080,
+        "addr:city": "Campos dos Goytacazes",
+        "addr:housenumber": "14",
+        "addr:postcode": "28030-105",
+        "addr:street": "Rua Nuno Tavares",
+        "addr:suburb": "Parque Santo Amaro",
         "amenity": "school",
-        "name": "Salesiano",
-        "id": "node/1246396486"
+        "name": "Colégio Estadual Julião Nogueira",
+        "operator": "Secretaria de Educação do Estado do Rio de Janeiro",
+        "operator:type": "public",
+        "phone": "+55 22 2731 0707",
+        "id": "way/1252964694"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -41.3388815,
-          -21.759932
+          [
+            [
+              -41.338788,
+              -21.7631582
+            ],
+            [
+              -41.3388902,
+              -21.7637657
+            ],
+            [
+              -41.3381112,
+              -21.763713
+            ],
+            [
+              -41.3380862,
+              -21.7632911
+            ],
+            [
+              -41.338788,
+              -21.7631582
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1252964698",
+      "properties": {
+        "timestamp": "2024-02-20T18:45:08Z",
+        "version": 1,
+        "changeset": 147704080,
+        "addr:city": "Campos dos Goytacazes",
+        "addr:housenumber": "35",
+        "addr:postcode": "28030-255",
+        "addr:street": "Rua Operários Campistas",
+        "addr:suburb": "Parque São Caetano",
+        "amenity": "school",
+        "name": "Colégio Estadual João Pessoa",
+        "operator": "Secretaria de Educação do Estado do Rio de Janeiro",
+        "operator:type": "public",
+        "id": "way/1252964698"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.343449,
+              -21.7567954
+            ],
+            [
+              -41.3434846,
+              -21.7579192
+            ],
+            [
+              -41.3424419,
+              -21.7579456
+            ],
+            [
+              -41.343449,
+              -21.7567954
+            ]
+          ]
         ]
       }
     },
@@ -2162,25 +2242,6 @@
         "coordinates": [
           -41.3295,
           -21.7533306
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/2793911706",
-      "properties": {
-        "timestamp": "2014-04-16T00:54:48Z",
-        "version": 1,
-        "changeset": 21720735,
-        "amenity": "school",
-        "name": "Colégio Estadua Julião Nogueira",
-        "id": "node/2793911706"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -41.338549,
-          -21.7637642
         ]
       }
     },

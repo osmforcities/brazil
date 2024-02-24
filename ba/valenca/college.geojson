@@ -3,73 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": "way/1051304391",
-      "properties": {
-        "timestamp": "2023-09-12T22:54:12Z",
-        "version": 2,
-        "changeset": 141183702,
-        "amenity": "college",
-        "description": "Instituto Federal da Bahia de formação técnica e superior.",
-        "image": "https://www.google.com/maps/uv?pb=!1s0x73e43f1dee38183%3A0x37a27a34fe0b8f07!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOs_Sn2BeKax5B0GSKxmBWx5hG8soxrYpYZd-Zh%3Dw284-h160-k-no!5sifba%20-%20Pesquisa%20Google!15sCgIgAQ&imagekey=!1e10!2sA",
-        "internet_access": "yes",
-        "internet_access:fee": "customers",
-        "name": "Instituto Federal da Bahia - Campus Valença",
-        "not:name": "cefet",
-        "operator": "Governo Federal",
-        "operator:type": "government",
-        "wheelchair": "yes",
-        "id": "way/1051304391"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -39.0615982,
-              -13.3716774
-            ],
-            [
-              -39.0616008,
-              -13.3722132
-            ],
-            [
-              -39.0615315,
-              -13.373632
-            ],
-            [
-              -39.0602848,
-              -13.3735924
-            ],
-            [
-              -39.0593682,
-              -13.3727081
-            ],
-            [
-              -39.0590423,
-              -13.3723937
-            ],
-            [
-              -39.0601749,
-              -13.3717135
-            ],
-            [
-              -39.0604674,
-              -13.3712005
-            ],
-            [
-              -39.0609004,
-              -13.3712546
-            ],
-            [
-              -39.0615982,
-              -13.3716774
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/4748904530",
       "properties": {
         "timestamp": "2017-03-22T13:57:52Z",
@@ -91,9 +24,9 @@
       "type": "Feature",
       "id": "node/11186817271",
       "properties": {
-        "timestamp": "2023-09-13T00:09:24Z",
-        "version": 2,
-        "changeset": 141184783,
+        "timestamp": "2024-02-22T00:57:40Z",
+        "version": 3,
+        "changeset": 147754562,
         "addr:city": "Valença",
         "addr:housenumber": "S/N",
         "addr:postcode": "45400-000",
@@ -104,6 +37,7 @@
         "grades": "10-12",
         "internet_access": "yes",
         "name": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia - Campus Valença",
+        "operator": "Governo Federal",
         "start_date": "2023-12-29",
         "website": "https://portal.ifba.edu.br/valenca",
         "id": "node/11186817271"
@@ -111,8 +45,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -39.0614163,
-          -13.3722632
+          -39.0610006,
+          -13.3722267
         ]
       }
     }

@@ -513,17 +513,19 @@
       "type": "Feature",
       "id": "way/1026520276",
       "properties": {
-        "timestamp": "2022-01-31T21:24:36Z",
-        "version": 1,
-        "changeset": 116840835,
+        "timestamp": "2024-02-22T00:06:16Z",
+        "version": 2,
+        "changeset": 147753857,
         "addr:city": "Campos dos Goytacazes",
         "addr:housenumber": "354",
         "addr:postcode": "28051-271",
         "addr:street": "Rua Visconde Alvarenga",
         "addr:suburb": "Parque Leopoldina",
         "amenity": "school",
+        "building": "yes",
         "denomination": "roman_catholic",
         "grades": "7-12",
+        "level": "3",
         "name": "Colégio Três Pastorinhos",
         "operator": "Administração Apostólica São João Maria Vianey",
         "operator:type": "private",
@@ -536,148 +538,48 @@
         "coordinates": [
           [
             [
-              -41.3480459,
-              -21.7498143
+              -41.3480074,
+              -21.749826
             ],
             [
-              -41.3480593,
-              -21.7498491
+              -41.3481115,
+              -21.7501029
             ],
             [
-              -41.3480861,
-              -21.7499114
+              -41.3479862,
+              -21.7501435
             ],
             [
-              -41.3480968,
-              -21.7499538
+              -41.347922,
+              -21.7499728
             ],
             [
-              -41.3481076,
-              -21.7499986
+              -41.3476247,
+              -21.7500692
             ],
             [
-              -41.348129,
-              -21.7500459
+              -41.3476915,
+              -21.7502469
             ],
             [
-              -41.3481424,
-              -21.7500833
+              -41.3476209,
+              -21.7502698
             ],
             [
-              -41.3481049,
-              -21.7501032
+              -41.3476262,
+              -21.7502841
             ],
             [
-              -41.3480647,
-              -21.7501157
+              -41.3475564,
+              -21.7503067
             ],
             [
-              -41.348003,
-              -21.7501456
+              -41.3474443,
+              -21.7500086
             ],
             [
-              -41.3479735,
-              -21.7501531
-            ],
-            [
-              -41.3479815,
-              -21.7501755
-            ],
-            [
-              -41.3479171,
-              -21.7501979
-            ],
-            [
-              -41.3478259,
-              -21.7502278
-            ],
-            [
-              -41.3477428,
-              -21.7502502
-            ],
-            [
-              -41.3476865,
-              -21.7502677
-            ],
-            [
-              -41.3476275,
-              -21.7502901
-            ],
-            [
-              -41.3475658,
-              -21.7503175
-            ],
-            [
-              -41.3475121,
-              -21.75033
-            ],
-            [
-              -41.3474719,
-              -21.7502677
-            ],
-            [
-              -41.3474504,
-              -21.7502154
-            ],
-            [
-              -41.347437,
-              -21.7501705
-            ],
-            [
-              -41.3474209,
-              -21.7501207
-            ],
-            [
-              -41.3474102,
-              -21.7500858
-            ],
-            [
-              -41.3474021,
-              -21.7500584
-            ],
-            [
-              -41.3473995,
-              -21.7500285
-            ],
-            [
-              -41.3474488,
-              -21.7499883
-            ],
-            [
-              -41.3475228,
-              -21.7499787
-            ],
-            [
-              -41.34761,
-              -21.7499563
-            ],
-            [
-              -41.347665,
-              -21.7499388
-            ],
-            [
-              -41.3477307,
-              -21.7499127
-            ],
-            [
-              -41.3478192,
-              -21.7498865
-            ],
-            [
-              -41.3479051,
-              -21.7498591
-            ],
-            [
-              -41.3479681,
-              -21.7498367
-            ],
-            [
-              -41.348011,
-              -21.7498205
-            ],
-            [
-              -41.3480459,
-              -21.7498143
+              -41.3480074,
+              -21.749826
             ]
           ]
         ]
@@ -2178,6 +2080,277 @@
             [
               -41.2127522,
               -22.0087674
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1253569296",
+      "properties": {
+        "timestamp": "2024-02-22T10:52:14Z",
+        "version": 1,
+        "changeset": 147767459,
+        "addr:city": "Campos dos Goytacazes-RJ",
+        "addr:street": "Rua Santa Cecília",
+        "addr:suburb": "Cambaíba",
+        "amenity": "school",
+        "name": "Escola Municipal Doutor Luiz Guaraná",
+        "operator": "Secretaria Municipal de Educação",
+        "operator:type": "public",
+        "id": "way/1253569296"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.235689,
+              -21.7827494
+            ],
+            [
+              -41.2354508,
+              -21.783452
+            ],
+            [
+              -41.2351021,
+              -21.7829085
+            ],
+            [
+              -41.2352021,
+              -21.7826187
+            ],
+            [
+              -41.235689,
+              -21.7827494
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1253569297",
+      "properties": {
+        "timestamp": "2024-02-22T10:52:14Z",
+        "version": 1,
+        "changeset": 147767459,
+        "amenity": "school",
+        "name": "Escola Municipal Lucia Caldas",
+        "operator": "Secretaria de Educação de Campos dos Goytacazes",
+        "operator:type": "public",
+        "id": "way/1253569297"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.2400825,
+              -21.8625776
+            ],
+            [
+              -41.2399989,
+              -21.8627179
+            ],
+            [
+              -41.2396932,
+              -21.8625716
+            ],
+            [
+              -41.2397769,
+              -21.8624253
+            ],
+            [
+              -41.2400825,
+              -21.8625776
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1253569298",
+      "properties": {
+        "timestamp": "2024-02-22T10:52:14Z",
+        "version": 1,
+        "changeset": 147767459,
+        "amenity": "school",
+        "name": "Escola Municipal Gervásio Vasconcelos Cordeiro",
+        "id": "way/1253569298"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.2491789,
+              -21.8451752
+            ],
+            [
+              -41.2489887,
+              -21.8453064
+            ],
+            [
+              -41.2483059,
+              -21.8447316
+            ],
+            [
+              -41.2487741,
+              -21.8445098
+            ],
+            [
+              -41.2491789,
+              -21.8451752
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1253569299",
+      "properties": {
+        "timestamp": "2024-02-22T10:52:14Z",
+        "version": 1,
+        "changeset": 147767459,
+        "addr:city": "Campos dos Goytacazes",
+        "addr:street": "Avenida Dário Canela Tavares",
+        "amenity": "school",
+        "name": "Ciep  462 Nação Goytacá",
+        "id": "way/1253569299"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.2628966,
+              -21.8290631
+            ],
+            [
+              -41.2624636,
+              -21.8292917
+            ],
+            [
+              -41.2619329,
+              -21.8297015
+            ],
+            [
+              -41.2613682,
+              -21.8301429
+            ],
+            [
+              -41.2608418,
+              -21.829268
+            ],
+            [
+              -41.2620857,
+              -21.8285665
+            ],
+            [
+              -41.2629009,
+              -21.829004
+            ],
+            [
+              -41.2628966,
+              -21.8290631
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1253696820",
+      "properties": {
+        "timestamp": "2024-02-22T18:52:19Z",
+        "version": 1,
+        "changeset": 147785374,
+        "addr:city": "Campos dos Goytacazes",
+        "addr:postcode": "28026-450",
+        "addr:street": "Estrada do Carvão",
+        "addr:suburb": "Cantagalo",
+        "amenity": "school",
+        "email": "em.manoelrezende@edu.campos.rj.gov.br",
+        "name": "Escola Municipal Manoel Simões de Rezende",
+        "operator": "Secretaria Municipal de Educação de Campos dos Goytacazes",
+        "operator:type": "public",
+        "phone": "+55 22 98131 0698",
+        "id": "way/1253696820"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.341475,
+              -21.8142999
+            ],
+            [
+              -41.3411571,
+              -21.8150299
+            ],
+            [
+              -41.3407166,
+              -21.8148642
+            ],
+            [
+              -41.34104,
+              -21.8141342
+            ],
+            [
+              -41.341475,
+              -21.8142999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1253696831",
+      "properties": {
+        "timestamp": "2024-02-22T18:52:19Z",
+        "version": 1,
+        "changeset": 147785374,
+        "addr:city": "Campos dos Goytacazes",
+        "addr:postcode": "28110-000",
+        "addr:street": "Estrada do Carvão",
+        "addr:suburb": "Carvão",
+        "amenity": "school",
+        "email": "em.goncalofrancisco@edu.campos.rj.gov.br",
+        "name": "Escola Municipal Gonçalo Francisco Nunes",
+        "operator": "Secretaria Municipal de Educação de Campos dos Goytacazes",
+        "operator:type": "public",
+        "phone": "+55 22 98131 0496",
+        "id": "way/1253696831"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.3437009,
+              -21.8438081
+            ],
+            [
+              -41.3434374,
+              -21.8439915
+            ],
+            [
+              -41.3433466,
+              -21.843884
+            ],
+            [
+              -41.3436146,
+              -21.8436943
+            ],
+            [
+              -41.3437009,
+              -21.8438081
             ]
           ]
         ]

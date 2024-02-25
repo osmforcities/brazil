@@ -990,21 +990,22 @@
       "type": "Feature",
       "id": "way/1032668911",
       "properties": {
-        "timestamp": "2022-02-18T16:09:23Z",
-        "version": 2,
-        "changeset": 117572053,
+        "timestamp": "2024-02-23T01:43:10Z",
+        "version": 3,
+        "changeset": 147794501,
         "addr:city": "Campos dos Goytacazes",
         "addr:housenumber": "119",
         "addr:postcode": "28010075",
         "addr:street": "Avenida Doutor Lacerda Sobrinho",
         "addr:suburb": "Centro",
         "amenity": "school",
+        "building": "yes",
         "grades": "1-12",
         "internet_access": "yes",
-        "name": "C.E. Nilo Peçanha",
-        "operator": "SEEDUC-RJ/GOV-RJ",
+        "name": "C0légio Estadual Nilo Peçanha",
+        "operator": "Scecretaria de Educação do Estado do Rio de Janeiro",
         "operator:type": "public",
-        "phone": "+552227312847",
+        "phone": "+55 22 2731 2847",
         "religion": "none",
         "id": "way/1032668911"
       },
@@ -1013,92 +1014,88 @@
         "coordinates": [
           [
             [
-              -41.3248882,
-              -21.7597133
+              -41.3248345,
+              -21.7597428
             ],
             [
-              -41.3249123,
-              -21.7597481
+              -41.3248811,
+              -21.759847
             ],
             [
-              -41.3249472,
-              -21.7598154
+              -41.3248611,
+              -21.7598547
             ],
             [
-              -41.3249847,
-              -21.7598827
+              -41.3248765,
+              -21.7598893
             ],
             [
-              -41.3250089,
-              -21.7599549
+              -41.3247815,
+              -21.7599259
             ],
             [
-              -41.3248815,
-              -21.7600022
+              -41.3248067,
+              -21.7599823
             ],
             [
-              -41.3248184,
-              -21.7600346
+              -41.3246236,
+              -21.7600528
             ],
             [
-              -41.3247111,
-              -21.7600745
+              -41.3246553,
+              -21.7601236
             ],
             [
-              -41.3246602,
-              -21.7600944
+              -41.3246418,
+              -21.7601289
             ],
             [
-              -41.3246977,
-              -21.7601891
+              -41.3246682,
+              -21.7601881
             ],
             [
-              -41.3245985,
-              -21.760219
+              -41.3246007,
+              -21.7602141
             ],
             [
-              -41.3245046,
-              -21.7600147
+              -41.3244857,
+              -21.7599558
             ],
             [
-              -41.3243678,
-              -21.760057
+              -41.3243104,
+              -21.7600232
             ],
             [
-              -41.3243383,
-              -21.7599723
+              -41.324283,
+              -21.7599618
             ],
             [
-              -41.3244778,
-              -21.759915
+              -41.324456,
+              -21.7598953
             ],
             [
-              -41.3244349,
-              -21.7598279
+              -41.3244304,
+              -21.7598377
             ],
             [
-              -41.3246548,
-              -21.7597432
+              -41.324696,
+              -21.7597356
             ],
             [
-              -41.324687,
-              -21.7597681
+              -41.3247041,
+              -21.7597538
             ],
             [
-              -41.3247165,
-              -21.7597706
+              -41.3248008,
+              -21.7597166
             ],
             [
-              -41.3247688,
-              -21.7597444
+              -41.3248157,
+              -21.75975
             ],
             [
-              -41.3248359,
-              -21.7597245
-            ],
-            [
-              -41.3248882,
-              -21.7597133
+              -41.3248345,
+              -21.7597428
             ]
           ]
         ]
@@ -1224,10 +1221,16 @@
       "type": "Feature",
       "id": "way/1248628042",
       "properties": {
-        "timestamp": "2024-02-09T22:44:31Z",
-        "version": 1,
-        "changeset": 147275990,
+        "timestamp": "2024-02-23T19:23:28Z",
+        "version": 2,
+        "changeset": 147831631,
+        "addr:city": "Campos dos Goytacazes",
+        "addr:street": "Estrada Codin",
+        "addr:suburb": "Codim",
         "amenity": "school",
+        "name": "CIEP 332 Pedro Álvares Cabral",
+        "operator": "Secretaria de Educação do Estado do Rio de Janeiro",
+        "operator:type": "public",
         "id": "way/1248628042"
       },
       "geometry": {
@@ -2351,6 +2354,397 @@
             [
               -41.3437009,
               -21.8438081
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1253815084",
+      "properties": {
+        "timestamp": "2024-02-23T01:43:10Z",
+        "version": 1,
+        "changeset": 147794501,
+        "addr:city": "Campos dos Goytacazes",
+        "addr:housenumber": "114",
+        "addr:postcode": "28010-076",
+        "addr:street": "Avenida Doutor Lacerda Sobrinho",
+        "addr:suburb": "Centro",
+        "amenity": "school",
+        "building": "yes",
+        "email": "em.cemstiac@edu.campos.rj.gov.br",
+        "name": "Escola Municipal Cemstiac",
+        "operator": "Secrecretaria Municipal de Educação de Campos dos Goytacazes",
+        "operator:type": "public",
+        "phone": "+55 98131 0529",
+        "id": "way/1253815084"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.3252004,
+              -21.7601132
+            ],
+            [
+              -41.3251216,
+              -21.7599444
+            ],
+            [
+              -41.3253854,
+              -21.7598234
+            ],
+            [
+              -41.3253983,
+              -21.7598488
+            ],
+            [
+              -41.3255414,
+              -21.75978
+            ],
+            [
+              -41.3255994,
+              -21.7598891
+            ],
+            [
+              -41.3255253,
+              -21.7599175
+            ],
+            [
+              -41.3255302,
+              -21.7599399
+            ],
+            [
+              -41.3255012,
+              -21.7599504
+            ],
+            [
+              -41.3255334,
+              -21.7600131
+            ],
+            [
+              -41.3252004,
+              -21.7601132
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1253917827",
+      "properties": {
+        "timestamp": "2024-02-23T10:58:41Z",
+        "version": 1,
+        "changeset": 147806872,
+        "addr:city": "Campos dos Goytacazes",
+        "addr:street": "Rua Marechal Floriano",
+        "addr:suburb": "Centro",
+        "alt_name": "C.E.Dó Ré Mi",
+        "amenity": "school",
+        "email": "ce.ritachardelli@edu.campos.rj.gov.br",
+        "name": "Centro Educação Municipal Professora Rita de Cássia Rocha Soares Chardelli",
+        "operator": "Secretaria Municipal de Educação de Campos dos Goytacazes",
+        "operator:type": "public",
+        "phone": "+55 22 98131 0415",
+        "id": "way/1253917827"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.3207756,
+              -21.7638597
+            ],
+            [
+              -41.3204233,
+              -21.7638941
+            ],
+            [
+              -41.3204008,
+              -21.763661
+            ],
+            [
+              -41.3207274,
+              -21.7636252
+            ],
+            [
+              -41.3207756,
+              -21.7638597
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1253917828",
+      "properties": {
+        "timestamp": "2024-02-23T10:58:41Z",
+        "version": 1,
+        "changeset": 147806872,
+        "addr:city": "Campos dos Goytacazes",
+        "addr:housenumber": "110",
+        "addr:postcode": "28013-470",
+        "addr:street": "Rua Saldanha Marinho",
+        "addr:suburb": "Chácara João Ferreira",
+        "amenity": "school",
+        "email": "em.pequenojornaleiro@edu.campos.rj.gov.br",
+        "name": "Escola Municipal Pequeno Jornaleiro",
+        "operator": "Secretária Municipal de Campos dos Goytacazes",
+        "operator:type": "public",
+        "phone": "+55 22 98131 0926",
+        "id": "way/1253917828"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.3151714,
+              -21.7644705
+            ],
+            [
+              -41.3152543,
+              -21.7647264
+            ],
+            [
+              -41.3151836,
+              -21.7647378
+            ],
+            [
+              -41.315247,
+              -21.7648963
+            ],
+            [
+              -41.3145521,
+              -21.7649801
+            ],
+            [
+              -41.3145131,
+              -21.7646358
+            ],
+            [
+              -41.3148813,
+              -21.7645906
+            ],
+            [
+              -41.3148739,
+              -21.764509
+            ],
+            [
+              -41.3148828,
+              -21.7645089
+            ],
+            [
+              -41.3151236,
+              -21.7644767
+            ],
+            [
+              -41.3151714,
+              -21.7644705
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1253965322",
+      "properties": {
+        "timestamp": "2024-02-23T14:07:14Z",
+        "version": 1,
+        "changeset": 147813790,
+        "addr:city": "Campos dos Goytacazes",
+        "addr:postcode": "28950-000",
+        "addr:street": "Rua Dionísio Antônio Carvalho",
+        "addr:suburb": "Lapa",
+        "amenity": "school",
+        "name": "Colégio Estadual Visconde do Rio Branco",
+        "operator": "Secretaria de Educação do Estado do Rio de Janeiro",
+        "operator:type": "public",
+        "id": "way/1253965322"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.3104084,
+              -21.7578469
+            ],
+            [
+              -41.309541,
+              -21.7582527
+            ],
+            [
+              -41.30915,
+              -21.75765
+            ],
+            [
+              -41.3100938,
+              -21.7572179
+            ],
+            [
+              -41.3104084,
+              -21.7578469
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1254167651",
+      "properties": {
+        "timestamp": "2024-02-23T19:23:28Z",
+        "version": 1,
+        "changeset": 147831631,
+        "addr:city": "Campos dos Goytacazes",
+        "addr:postcode": "28090-580",
+        "addr:street": "Rua Professora Ruth Ribeiro de Rosário",
+        "addr:suburb": "Vila Industrial",
+        "amenity": "school",
+        "email": "ce.gilbertodoespiritosanto@edu.campos.rj.gov.br",
+        "name": "Colégio Estadual Gilberto do Espírito Santo Amaral",
+        "operator": "Secretaria de Educação do Estado do Rio de Janeiro",
+        "operator:type": "public",
+        "phone": "+55 22 98131 0800",
+        "id": "way/1254167651"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.2914192,
+              -21.7162175
+            ],
+            [
+              -41.291373,
+              -21.7165728
+            ],
+            [
+              -41.2909912,
+              -21.7166023
+            ],
+            [
+              -41.2909557,
+              -21.7165704
+            ],
+            [
+              -41.2909274,
+              -21.7162683
+            ],
+            [
+              -41.2914192,
+              -21.7162175
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1254167652",
+      "properties": {
+        "timestamp": "2024-02-23T19:23:28Z",
+        "version": 1,
+        "changeset": 147831631,
+        "addr:city": "Campos dos Goytacazes",
+        "addr:postcode": "28090-580",
+        "addr:street": "Rua F",
+        "addr:suburb": "Vila Industrial",
+        "amenity": "school",
+        "name": "Escola Municipal Augusto Machado Viana",
+        "operator": "Secretaria Municipal de Educação de Campos dos Goytacazes",
+        "operator:type": "public",
+        "id": "way/1254167652"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.2913726,
+              -21.7157273
+            ],
+            [
+              -41.2914262,
+              -21.7160861
+            ],
+            [
+              -41.2914192,
+              -21.7162175
+            ],
+            [
+              -41.2909274,
+              -21.7162683
+            ],
+            [
+              -41.2908657,
+              -21.7158145
+            ],
+            [
+              -41.290871,
+              -21.7157871
+            ],
+            [
+              -41.2913726,
+              -21.7157273
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1254167653",
+      "properties": {
+        "timestamp": "2024-02-23T19:23:28Z",
+        "version": 1,
+        "changeset": 147831631,
+        "addr:city": "Campos dos Goytacazes",
+        "addr:street": "Rua Santo Antonio",
+        "addr:suburb": "Terra Prometida",
+        "amenity": "school",
+        "name": "CEM Gandur Assed",
+        "id": "way/1254167653"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.2800728,
+              -21.712409
+            ],
+            [
+              -41.2800317,
+              -21.7126491
+            ],
+            [
+              -41.2800112,
+              -21.712673
+            ],
+            [
+              -41.2797253,
+              -21.7126571
+            ],
+            [
+              -41.2797082,
+              -21.7126252
+            ],
+            [
+              -41.2797476,
+              -21.7123819
+            ],
+            [
+              -41.2800728,
+              -21.712409
             ]
           ]
         ]

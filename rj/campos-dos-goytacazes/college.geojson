@@ -143,6 +143,77 @@
     },
     {
       "type": "Feature",
+      "id": "way/783761750",
+      "properties": {
+        "timestamp": "2024-02-23T14:07:14Z",
+        "version": 2,
+        "changeset": 147813790,
+        "addr:city": "Campos dos Goytacazes",
+        "addr:housenumber": "37",
+        "addr:postcode": "28024-600",
+        "addr:street": "Avenida 28 de Março",
+        "addr:suburb": "Turfe Clube",
+        "amenity": "college",
+        "internet_access": "wlan",
+        "name": "Instituto Superior de Educação Professor Aldo Muylaert",
+        "website": "http://www.faetec.rj.gov.br/",
+        "wheelchair": "limited",
+        "id": "way/783761750"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.317706,
+              -21.7706658
+            ],
+            [
+              -41.3170574,
+              -21.7708378
+            ],
+            [
+              -41.3164835,
+              -21.769901
+            ],
+            [
+              -41.317123,
+              -21.7695636
+            ],
+            [
+              -41.3173011,
+              -21.7698524
+            ],
+            [
+              -41.3172491,
+              -21.7698767
+            ],
+            [
+              -41.3175274,
+              -21.7703431
+            ],
+            [
+              -41.3175699,
+              -21.7704033
+            ],
+            [
+              -41.3175958,
+              -21.7703918
+            ],
+            [
+              -41.3176519,
+              -21.7704885
+            ],
+            [
+              -41.317706,
+              -21.7706658
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/785130968",
       "properties": {
         "timestamp": "2022-04-06T14:32:24Z",
@@ -604,6 +675,86 @@
               -21.7208028
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1253965321",
+      "properties": {
+        "timestamp": "2024-02-23T14:07:14Z",
+        "version": 1,
+        "changeset": 147813790,
+        "addr:city": "Campos dos Goytacazes",
+        "addr:housenumber": "720",
+        "addr:postcode": "28016-821",
+        "addr:street": "Avenida Alberto Lamego",
+        "addr:suburb": "Parque Califórnia",
+        "amenity": "college",
+        "email": "camposceramica.direcao@faetec.rj.gov.br",
+        "internet_access": "yes",
+        "name": "Faetec Campos - Unidade Cerâmica",
+        "operator": "Fundação de Apoio à Escola Técnica - Faetec",
+        "operator:type": "public",
+        "phone": "+55 22 2725 7712;+55 22  2726 4901;+55 22 2725 7650",
+        "website": "http://www.faetec.rj.gov.br/",
+        "id": "way/1253965321"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.2983468,
+              -21.7621741
+            ],
+            [
+              -41.2976914,
+              -21.7623141
+            ],
+            [
+              -41.2964505,
+              -21.7604981
+            ],
+            [
+              -41.2969989,
+              -21.7601633
+            ],
+            [
+              -41.2983468,
+              -21.7621741
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11656369494",
+      "properties": {
+        "timestamp": "2024-02-23T14:07:14Z",
+        "version": 1,
+        "changeset": 147813790,
+        "addr:city": "Campos dos Goytacazes",
+        "addr:housenumber": "100",
+        "addr:postcode": "28950-000",
+        "addr:street": "Rua Dionísio Antônio Carvalho",
+        "addr:suburb": "Lapa",
+        "amenity": "college",
+        "email": "amposlapa.pedagogico@faetec.rj.gov.br",
+        "internet_access": "yes",
+        "name": "Faetec Campos - Unidade Lapa",
+        "operator": "Fundação de Apoio à Escola Técnica - Faetec",
+        "operator:type": "public",
+        "phone": "+55 22 2738 6453",
+        "website": "http://www.faetec.rj.gov.br/",
+        "id": "node/11656369494"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.3101331,
+          -21.7574654
         ]
       }
     }

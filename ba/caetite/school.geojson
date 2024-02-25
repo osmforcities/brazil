@@ -112,19 +112,84 @@
     },
     {
       "type": "Feature",
-      "id": "way/348735090",
+      "id": "way/348735086",
       "properties": {
-        "timestamp": "2016-01-19T20:25:36Z",
-        "version": 9,
-        "changeset": 36687988,
+        "timestamp": "2024-02-23T14:12:20Z",
+        "version": 8,
+        "changeset": 147814047,
         "addr:city": "Caetité",
         "addr:postcode": "46400-000",
         "addr:street": "Rua Clemente Tanajura",
         "addr:suburb": "Centro",
         "amenity": "school",
-        "name": "Colégio Estadual Tereza Borges de Cerqueira",
+        "building": "school",
+        "building:levels": "2",
+        "contact:mobile": "+55 77 9 9184 4974",
+        "is_in": "Instituto de Educação Anísio Teixeira",
+        "name": "Escola Municipal de Aplicação",
+        "operator:type": "public",
+        "ref:INEP": "29241464",
+        "id": "way/348735086"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.4937942,
+              -14.0692882
+            ],
+            [
+              -42.4936542,
+              -14.0692055
+            ],
+            [
+              -42.4938592,
+              -14.0688818
+            ],
+            [
+              -42.4939478,
+              -14.0689345
+            ],
+            [
+              -42.4939725,
+              -14.0688954
+            ],
+            [
+              -42.4940232,
+              -14.0689255
+            ],
+            [
+              -42.4938221,
+              -14.0692435
+            ],
+            [
+              -42.4937942,
+              -14.0692882
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/348735090",
+      "properties": {
+        "timestamp": "2024-02-23T14:12:20Z",
+        "version": 10,
+        "changeset": 147814047,
+        "addr:city": "Caetité",
+        "addr:postcode": "46400-000",
+        "addr:street": "Rua Clemente Tanajura",
+        "addr:suburb": "Centro",
+        "amenity": "school",
+        "contact:phone": "+55 77 3454 2973",
+        "name": "Complexo Integrado de Educação de Caetité - CIE",
+        "old_name": "Colégio Estadual Tereza Borges de Cerqueira",
         "operator": "Estado da Bahia",
         "photo": "http://www.panoramio.com/photo_explorer#view=photo&position=0&with_photo_id=119916844&order=date_desc&user=4313773",
+        "ref:INEP": "29242231",
+        "short_name": "CIEC;CIE",
         "wheelchair": "yes",
         "id": "way/348735090"
       },
@@ -601,16 +666,19 @@
       "type": "Feature",
       "id": "way/349960857",
       "properties": {
-        "timestamp": "2021-10-24T01:35:28Z",
-        "version": 5,
-        "changeset": 112891186,
+        "timestamp": "2024-02-23T14:12:20Z",
+        "version": 6,
+        "changeset": 147814047,
         "addr:city": "Caetité",
         "addr:housenumber": "09",
         "addr:postcode": "46400-000",
         "addr:street": "Rua Barão de Caetité",
         "addr:suburb": "Centro",
         "amenity": "school",
+        "contact:phone": "+55 77 3454 1380",
         "name": "Escolinha Grão de Areia",
+        "operator:type": "private",
+        "ref:INEP": "29242223",
         "id": "way/349960857"
       },
       "geometry": {
@@ -839,15 +907,19 @@
       "type": "Feature",
       "id": "way/349960862",
       "properties": {
-        "timestamp": "2015-06-27T21:06:20Z",
-        "version": 3,
-        "changeset": 32251528,
+        "timestamp": "2024-02-23T14:12:20Z",
+        "version": 4,
+        "changeset": 147814047,
+        "addr:city": "Caetité",
         "addr:postcode": "46400-000",
         "addr:street": "Rua Paraiba",
         "addr:suburb": "Nossa Senhora da Paz",
         "amenity": "school",
+        "contact:mobile": "+55 77 9 9994 0213",
         "name": "Grupo Escolar Dácio Alves de Oliveira",
-        "operator": "Município",
+        "operator": "Secretaria Municipal de Educação",
+        "operator:type": "public",
+        "ref:INEP": "29242053",
         "source": "Plano de Desenvolvimento do Município de Caetité",
         "id": "way/349960862"
       },
@@ -1067,15 +1139,20 @@
       "type": "Feature",
       "id": "way/445546297",
       "properties": {
-        "timestamp": "2020-12-24T15:50:13Z",
-        "version": 2,
-        "changeset": 96395154,
+        "timestamp": "2024-02-23T14:12:20Z",
+        "version": 3,
+        "changeset": 147814047,
         "addr:city": "Caetité",
+        "addr:housenumber": "339",
         "addr:postcode": "46400-000",
         "addr:street": "Rua Almerinda de Brito",
         "addr:suburb": "Alto Buenos Aires",
         "amenity": "school",
-        "name": "Escola Municipal Conceição Pontes",
+        "contact:mobile": "+55 77 9 9818 5575",
+        "name": "Escola Municipal Mria da Conceição Pontes",
+        "operator": "Secretaria Municipal de Educação",
+        "operator:type": "public",
+        "ref:INEP": "29242240",
         "id": "way/445546297"
       },
       "geometry": {
@@ -1407,18 +1484,21 @@
       "type": "Feature",
       "id": "way/1091305778",
       "properties": {
-        "timestamp": "2023-03-19T02:26:00Z",
-        "version": 2,
-        "changeset": 133843651,
+        "timestamp": "2024-02-23T00:57:33Z",
+        "version": 3,
+        "changeset": 147793897,
         "addr:city": "Caetité",
         "addr:postcode": "46405-000",
         "addr:street": "Rua Joaquim de Brito Gondim",
         "amenity": "school",
         "building": "school",
         "building:use": "education",
+        "contact:mobile": "+55 77 9 9140 8539",
         "isced:level": "1;2",
-        "name": "Grupo Escolar Joaquim de Brito Gondrim",
+        "name": "Grupo Escolar Joaquim de Brito Gondim",
+        "operator": "Secretaria Municipal de Educação",
         "operator:type": "public",
+        "ref:INEP": "29241472",
         "id": "way/1091305778"
       },
       "geometry": {
@@ -1714,14 +1794,19 @@
       "type": "Feature",
       "id": "node/3942729056",
       "properties": {
-        "timestamp": "2016-01-13T01:39:08Z",
-        "version": 1,
-        "changeset": 36541807,
+        "timestamp": "2024-02-23T14:12:20Z",
+        "version": 2,
+        "changeset": 147814047,
         "addr:city": "Caetité",
         "addr:postcode": "46400-000",
+        "addr:street": "Rua das Quaresmeiras",
         "addr:suburb": "Santa Rita",
         "amenity": "school",
+        "contact:instagram": "https://www.instagram.com/carrosselcaetite/",
+        "contact:phone": "+55 77 3454 4510",
         "name": "Escola Carrossel",
+        "operator:type": "private",
+        "ref:INEP": "29242045",
         "id": "node/3942729056"
       },
       "geometry": {
@@ -1779,10 +1864,17 @@
       "type": "Feature",
       "id": "node/4924645285",
       "properties": {
-        "timestamp": "2017-06-19T15:55:45Z",
-        "version": 1,
-        "changeset": 49670879,
+        "timestamp": "2024-02-23T00:57:33Z",
+        "version": 2,
+        "changeset": 147793897,
+        "addr:city": "Caetité",
+        "addr:hamlet": "Santa Luzia",
         "amenity": "school",
+        "contact:mobile": "+55 77 9 9942 2043",
+        "name": "Escola Municipal Luiz Viana Filho",
+        "operator": "Secretaria Municipal de Educação",
+        "operator:type": "public",
+        "ref:INEP": "29241790",
         "id": "node/4924645285"
       },
       "geometry": {
@@ -1956,6 +2048,136 @@
         "coordinates": [
           -42.4876238,
           -14.0650088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11654787815",
+      "properties": {
+        "timestamp": "2024-02-23T00:57:33Z",
+        "version": 1,
+        "changeset": 147793897,
+        "addr:city": "Caetité",
+        "addr:hamlet": "Fazenda do Juazeiro",
+        "amenity": "school",
+        "contact:instagram": "https://www.instagram.com/escolabentooliveira/?hl=pt",
+        "contact:mobile": "+55 77 9 9140 3649",
+        "contact:youtube": "https://www.youtube.com/@escolamunicipalbentoolivei8246",
+        "name": "Escola Municipal Bento de Oliveira Lédo",
+        "operator": "Secretaria Municipal de Educação",
+        "operator:type": "public",
+        "ref:INEP": "29241480",
+        "id": "node/11654787815"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.227858,
+          -13.8656289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11654787816",
+      "properties": {
+        "timestamp": "2024-02-23T00:57:33Z",
+        "version": 1,
+        "changeset": 147793897,
+        "addr:city": "Caetité",
+        "addr:hamlet": "Pedra Grande",
+        "amenity": "school",
+        "contact:mobile": "+55 77 9 9932 7750",
+        "fixme": "localização aproximada",
+        "name": "Escola Municipal Frei Henrique de Coimbra",
+        "operator": "Secretaria Municipal de Educação",
+        "operator:type": "public",
+        "ref:INEP": "29241677",
+        "id": "node/11654787816"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.3502823,
+          -14.192616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11654787817",
+      "properties": {
+        "timestamp": "2024-02-23T00:57:33Z",
+        "version": 1,
+        "changeset": 147793897,
+        "addr:city": "Caetité",
+        "addr:hamlet": "Fazenda Tanquinho",
+        "amenity": "school",
+        "contact:mobile": "+55 77 9 9962 6096",
+        "fixme": "localização aproximada",
+        "name": "Escola Municipal Manoel Soares Cruz",
+        "operator": "Secretaria Municipal de Educação",
+        "operator:type": "public",
+        "ref:INEP": "29241707",
+        "id": "node/11654787817"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.6652534,
+          -14.0857674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11656354856",
+      "properties": {
+        "timestamp": "2024-02-23T14:12:20Z",
+        "version": 1,
+        "changeset": 147814047,
+        "addr:city": "Caetité",
+        "addr:hamlet": "Aroeira",
+        "amenity": "school",
+        "contact:mobile": "+55 77 9 9911 0638",
+        "name": "Escola Municipal Prudencio Rodrigues Sobrinho",
+        "operator": "Secretaria Municipal de Educação",
+        "operator:type": "public",
+        "ref:INEP": "29241898",
+        "id": "node/11656354856"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.6522243,
+          -14.0624222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11656354857",
+      "properties": {
+        "timestamp": "2024-02-23T14:12:20Z",
+        "version": 1,
+        "changeset": 147814047,
+        "addr:city": "Caetité",
+        "addr:hamlet": "Campinas",
+        "amenity": "school",
+        "contact:mobile": "+55 77 9 9977 9052",
+        "fixme": "Localização aproximada, quando possível ajustar",
+        "name": "Escola Municipal José Ferreira Pinto",
+        "operator": "Secretaria Municipal de Caetité",
+        "operator:type": "public",
+        "ref:INEP": "29242100",
+        "id": "node/11656354857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.4353148,
+          -14.2188163
         ]
       }
     }

@@ -943,6 +943,59 @@
     },
     {
       "type": "Feature",
+      "id": "way/1254120737",
+      "properties": {
+        "timestamp": "2024-02-23T17:20:26Z",
+        "version": 1,
+        "changeset": 147827565,
+        "addr:city": "Guarulhos",
+        "addr:housenumber": "1604",
+        "addr:postcode": "07023-000",
+        "addr:street": "Avenida Guarulhos",
+        "addr:suburb": "Vila Augusta",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "height": "7",
+        "name": "Feliz Farma",
+        "roof:colour": "#9a9a9a",
+        "id": "way/1254120737"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.5418676,
+              -23.4818737
+            ],
+            [
+              -46.5419192,
+              -23.4819783
+            ],
+            [
+              -46.5417427,
+              -23.4820516
+            ],
+            [
+              -46.5416911,
+              -23.4819469
+            ],
+            [
+              -46.5418183,
+              -23.4818942
+            ],
+            [
+              -46.5418676,
+              -23.4818737
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/4109582590",
       "properties": {
         "timestamp": "2022-07-30T13:58:13Z",
@@ -1115,31 +1168,6 @@
         "coordinates": [
           -46.4043863,
           -23.4142977
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/9695874279",
-      "properties": {
-        "timestamp": "2022-04-26T19:47:50Z",
-        "version": 1,
-        "changeset": 120228204,
-        "addr:city": "Guarulhos",
-        "addr:housenumber": "1604",
-        "addr:street": "Avenida Guarulhos",
-        "addr:suburb": "Vila Augusta",
-        "amenity": "pharmacy",
-        "dispensing": "yes",
-        "healthcare": "pharmacy",
-        "name": "Feliz Farma",
-        "id": "node/9695874279"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -46.5417833,
-          -23.4819624
         ]
       }
     },

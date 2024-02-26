@@ -766,13 +766,54 @@
     },
     {
       "type": "Feature",
-      "id": "way/1134631025",
+      "id": "way/547518232",
       "properties": {
-        "timestamp": "2023-02-22T21:34:41Z",
-        "version": 5,
-        "changeset": 132900752,
+        "timestamp": "2024-02-24T15:57:46Z",
+        "version": 2,
+        "changeset": 147861120,
+        "access": "permit",
         "leisure": "pitch",
         "lit": "yes",
+        "sport": "futsal",
+        "id": "way/547518232"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.5228765,
+              -21.3713156
+            ],
+            [
+              -46.5229709,
+              -21.3715278
+            ],
+            [
+              -46.5226114,
+              -21.3716664
+            ],
+            [
+              -46.5225171,
+              -21.3714542
+            ],
+            [
+              -46.5228765,
+              -21.3713156
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1134631025",
+      "properties": {
+        "timestamp": "2024-02-24T15:57:46Z",
+        "version": 6,
+        "changeset": 147861120,
+        "access": "yes",
+        "leisure": "pitch",
         "source": "local knowledge;aerial imagery",
         "sport": "soccer",
         "surface": "grass",

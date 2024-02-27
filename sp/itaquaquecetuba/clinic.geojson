@@ -239,16 +239,25 @@
       "type": "Feature",
       "id": "way/1254388669",
       "properties": {
-        "timestamp": "2024-02-24T20:29:30Z",
-        "version": 1,
-        "changeset": 147869940,
+        "timestamp": "2024-02-25T15:31:35Z",
+        "version": 2,
+        "changeset": 147896388,
+        "addr:housenumber": "221",
+        "addr:postcode": "08570-220",
         "addr:street": "Rua João Vagnotti",
+        "addr:suburb": "Centro",
         "amenity": "clinic",
         "building": "yes",
         "healthcare": "clinic",
-        "healthcare:speciality": "general",
-        "name": "Unidade Básica de Saúde Centro",
+        "healthcare:speciality": "general;vaccination;ginecologia",
+        "name": "Unidade Básica de Saúde Euripes de Fátima Gaudino",
+        "opening_hours": "Mo-Fr 07:00-17:00; PH off",
+        "operator": "Secretaria de Saúde",
+        "operator:type": "government",
+        "phone": "+55 11 4647 0487",
+        "ref:CNES": "277323",
         "short_name": "UBS Centro",
+        "source": "CNES",
         "id": "way/1254388669"
       },
       "geometry": {
@@ -274,6 +283,47 @@
             [
               -46.3523695,
               -23.4748278
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1254614858",
+      "properties": {
+        "timestamp": "2024-02-25T15:05:41Z",
+        "version": 1,
+        "changeset": 147895344,
+        "addr:street": "Rua Quinze de Novembro",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "short_name": "UBS Caio",
+        "id": "way/1254614858"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.3439978,
+              -23.4969319
+            ],
+            [
+              -46.343989,
+              -23.4970284
+            ],
+            [
+              -46.3432986,
+              -23.4969753
+            ],
+            [
+              -46.3433074,
+              -23.4968787
+            ],
+            [
+              -46.3439978,
+              -23.4969319
             ]
           ]
         ]

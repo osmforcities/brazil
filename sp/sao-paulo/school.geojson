@@ -57327,14 +57327,16 @@
       "type": "Feature",
       "id": "way/740857058",
       "properties": {
-        "timestamp": "2019-11-01T00:30:22Z",
-        "version": 1,
-        "changeset": 76471382,
+        "timestamp": "2024-02-25T14:29:45Z",
+        "version": 2,
+        "changeset": 147893705,
+        "addr:city": "São Paulo",
         "addr:housenumber": "137",
         "addr:postcode": "03463-070",
         "addr:street": "Rua Leôncio da Costa Vieira",
         "addr:suburb": "Jardim Piqueroby",
         "amenity": "school",
+        "barrier": "wall",
         "email": "e046048a@educacao.sp.gov.br",
         "name": "Escola Estadual Brigadeiro Eduardo Gomes",
         "phone": "+55 11 2216-6068;+55 11 23010-556",
@@ -57353,6 +57355,10 @@
             [
               -46.5292345,
               -23.5726954
+            ],
+            [
+              -46.5286959,
+              -23.5729374
             ],
             [
               -46.5282342,
@@ -84981,6 +84987,90 @@
     },
     {
       "type": "Feature",
+      "id": "way/1254630105",
+      "properties": {
+        "timestamp": "2024-02-25T16:01:51Z",
+        "version": 1,
+        "changeset": 147897724,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "222",
+        "addr:postcode": "03461-000",
+        "addr:street": "Avenida Monsenhor Antônio Castro",
+        "amenity": "school",
+        "barrier": "wall",
+        "name": "EMEF Doutor João Naoki Sumita",
+        "id": "way/1254630105"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.5285167,
+              -23.5713413
+            ],
+            [
+              -46.5285116,
+              -23.5713566
+            ],
+            [
+              -46.5279609,
+              -23.5716878
+            ],
+            [
+              -46.5279437,
+              -23.5716901
+            ],
+            [
+              -46.5279322,
+              -23.5716807
+            ],
+            [
+              -46.5278267,
+              -23.5715309
+            ],
+            [
+              -46.5277227,
+              -23.571384
+            ],
+            [
+              -46.527562,
+              -23.5711499
+            ],
+            [
+              -46.5278399,
+              -23.5709849
+            ],
+            [
+              -46.5281581,
+              -23.570796
+            ],
+            [
+              -46.5281767,
+              -23.5708256
+            ],
+            [
+              -46.528305,
+              -23.5710164
+            ],
+            [
+              -46.5284991,
+              -23.5712975
+            ],
+            [
+              -46.5285112,
+              -23.5713235
+            ],
+            [
+              -46.5285167,
+              -23.5713413
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/222842154",
       "properties": {
         "timestamp": "2023-06-07T15:20:09Z",
@@ -108496,6 +108586,46 @@
         "coordinates": [
           -46.7076528,
           -23.4945615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11662906718",
+      "properties": {
+        "timestamp": "2024-02-25T14:29:45Z",
+        "version": 1,
+        "changeset": 147893705,
+        "entrance": "main",
+        "id": "node/11662906718"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5286959,
+          -23.5729374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11663095623",
+      "properties": {
+        "timestamp": "2024-02-25T16:01:51Z",
+        "version": 1,
+        "changeset": 147897724,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "177",
+        "addr:postcode": "Avenida Monsenhor Antônio de Castro",
+        "addr:street": "Avenida Monsenhor Antônio Castro",
+        "entrance": "main",
+        "id": "node/11663095623"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5278399,
+          -23.5709849
         ]
       }
     }

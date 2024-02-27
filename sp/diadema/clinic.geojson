@@ -3,6 +3,57 @@
   "features": [
     {
       "type": "Feature",
+      "id": "relation/17268584",
+      "properties": {
+        "timestamp": "2024-02-25T21:16:12Z",
+        "version": 1,
+        "changeset": 147909034,
+        "addr:city": "Diadema",
+        "addr:street": "Avenida São José",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "UBS Centro",
+        "type": "multipolygon",
+        "id": "relation/17268584"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.6282156,
+              -23.6889907
+            ],
+            [
+              -46.6284187,
+              -23.6888485
+            ],
+            [
+              -46.6287678,
+              -23.6892783
+            ],
+            [
+              -46.6285876,
+              -23.6893756
+            ],
+            [
+              -46.6285658,
+              -23.6893777
+            ],
+            [
+              -46.6285505,
+              -23.6893699
+            ],
+            [
+              -46.6282156,
+              -23.6889907
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/254180303",
       "properties": {
         "timestamp": "2020-05-30T18:42:20Z",
@@ -1067,6 +1118,70 @@
               -46.6159541,
               -23.7290063
             ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1254706373",
+      "properties": {
+        "timestamp": "2024-02-25T21:16:12Z",
+        "version": 1,
+        "changeset": 147909034,
+        "barrier": "wall",
+        "id": "way/1254706373"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.6287678,
+            -23.6892783
+          ],
+          [
+            -46.6284187,
+            -23.6888485
+          ],
+          [
+            -46.6282156,
+            -23.6889907
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1254706374",
+      "properties": {
+        "timestamp": "2024-02-25T21:16:12Z",
+        "version": 1,
+        "changeset": 147909034,
+        "barrier": "fence",
+        "id": "way/1254706374"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.6282156,
+            -23.6889907
+          ],
+          [
+            -46.6285505,
+            -23.6893699
+          ],
+          [
+            -46.6285658,
+            -23.6893777
+          ],
+          [
+            -46.6285876,
+            -23.6893756
+          ],
+          [
+            -46.6287678,
+            -23.6892783
           ]
         ]
       }

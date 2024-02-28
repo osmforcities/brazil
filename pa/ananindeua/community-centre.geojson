@@ -3,6 +3,47 @@
   "features": [
     {
       "type": "Feature",
+      "id": "way/1255058266",
+      "properties": {
+        "timestamp": "2024-02-26T23:45:13Z",
+        "version": 1,
+        "changeset": 147952832,
+        "addr:street": "Avenida Rio Solimões",
+        "amenity": "community_centre",
+        "building": "yes",
+        "name": "Centro Comunitário do Paar",
+        "id": "way/1255058266"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.3866004,
+              -1.3373033
+            ],
+            [
+              -48.3867049,
+              -1.3375349
+            ],
+            [
+              -48.3865932,
+              -1.3375877
+            ],
+            [
+              -48.3864888,
+              -1.3373561
+            ],
+            [
+              -48.3866004,
+              -1.3373033
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/5440065232",
       "properties": {
         "timestamp": "2023-12-26T18:50:36Z",
@@ -22,27 +63,6 @@
         "coordinates": [
           -48.4009174,
           -1.3268193
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/5821704553",
-      "properties": {
-        "timestamp": "2018-08-10T02:30:26Z",
-        "version": 1,
-        "changeset": 61517279,
-        "addr:street": "Avenida Rio Solimões",
-        "amenity": "community_centre",
-        "name": "Do paar",
-        "name:pt": "CONSELHO COMUNITÁRIO DO CONJUNTO PAAR",
-        "id": "node/5821704553"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.3864954,
-          -1.3372942
         ]
       }
     },

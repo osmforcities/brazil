@@ -357,9 +357,9 @@
       "type": "Feature",
       "id": "way/1251164920",
       "properties": {
-        "timestamp": "2024-02-16T13:42:57Z",
-        "version": 1,
-        "changeset": 147533256,
+        "timestamp": "2024-02-26T17:10:49Z",
+        "version": 2,
+        "changeset": 147941158,
         "amenity": "school",
         "name": "OsvaIdo Pereira",
         "id": "way/1251164920"
@@ -371,6 +371,26 @@
             [
               -40.4209253,
               -10.9432155
+            ],
+            [
+              -40.4210166,
+              -10.9432351
+            ],
+            [
+              -40.4209824,
+              -10.9433534
+            ],
+            [
+              -40.4209467,
+              -10.9435206
+            ],
+            [
+              -40.4209194,
+              -10.9436446
+            ],
+            [
+              -40.4208808,
+              -10.9438679
             ],
             [
               -40.4207823,
@@ -579,6 +599,53 @@
     },
     {
       "type": "Feature",
+      "id": "way/1254939157",
+      "properties": {
+        "timestamp": "2024-02-26T17:10:49Z",
+        "version": 1,
+        "changeset": 147941158,
+        "amenity": "school",
+        "name": "EMFP",
+        "id": "way/1254939157"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.4214791,
+              -10.9399369
+            ],
+            [
+              -40.4216393,
+              -10.9402419
+            ],
+            [
+              -40.421427,
+              -10.9403645
+            ],
+            [
+              -40.4212677,
+              -10.9400982
+            ],
+            [
+              -40.4212665,
+              -10.9400586
+            ],
+            [
+              -40.4212956,
+              -10.9400344
+            ],
+            [
+              -40.4214791,
+              -10.9399369
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/2666199765",
       "properties": {
         "timestamp": "2023-06-04T18:09:53Z",
@@ -689,16 +756,16 @@
       "type": "Feature",
       "id": "node/10955944673",
       "properties": {
-        "timestamp": "2024-02-02T16:12:02Z",
-        "version": 2,
-        "changeset": 146991639,
+        "timestamp": "2024-02-26T17:10:49Z",
+        "version": 3,
+        "changeset": 147941158,
         "addr:city": "Saúde - Bahia",
         "addr:postcode": "44740-000",
         "addr:street": "Avenida Edgar Pereira",
         "addr:suburb": "Centro",
         "amenity": "school",
         "grades": "6-9",
-        "name": "Colégio Municipal Navarro de Brito",
+        "name": "Colégio Municipal Dr. Navarro de Brito",
         "operator": "prefeitura",
         "operator:type": "public",
         "id": "node/10955944673"

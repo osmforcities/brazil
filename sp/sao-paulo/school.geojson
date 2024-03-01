@@ -85124,6 +85124,68 @@
     },
     {
       "type": "Feature",
+      "id": "way/1255671885",
+      "properties": {
+        "timestamp": "2024-02-28T15:15:02Z",
+        "version": 1,
+        "changeset": 148017477,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "2001",
+        "addr:postcode": "05458-001",
+        "addr:street": "Avenida Diógenes Ribeiro de Lima",
+        "amenity": "school",
+        "barrier": "wall",
+        "name": "E.E Emiliano Augusto Cavalcanti de Albuquerque e Melo",
+        "phone": "+55 11 3022-5387;+55 11 3021-7553",
+        "website": "http://www.educacao.sp.gov.br/",
+        "id": "way/1255671885"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.7173761,
+              -23.543642
+            ],
+            [
+              -46.7166487,
+              -23.543642
+            ],
+            [
+              -46.7166441,
+              -23.5431511
+            ],
+            [
+              -46.7167254,
+              -23.5430527
+            ],
+            [
+              -46.7167254,
+              -23.5427193
+            ],
+            [
+              -46.716945,
+              -23.542712
+            ],
+            [
+              -46.7170336,
+              -23.5427762
+            ],
+            [
+              -46.7173682,
+              -23.5427859
+            ],
+            [
+              -46.7173761,
+              -23.543642
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/222842154",
       "properties": {
         "timestamp": "2023-06-07T15:20:09Z",
@@ -108697,6 +108759,24 @@
         "coordinates": [
           -46.5743957,
           -23.5434534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11672856319",
+      "properties": {
+        "timestamp": "2024-02-28T15:15:02Z",
+        "version": 1,
+        "changeset": 148017477,
+        "entrance": "main",
+        "id": "node/11672856319"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7167254,
+          -23.5430527
         ]
       }
     }

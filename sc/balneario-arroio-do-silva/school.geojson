@@ -5,13 +5,14 @@
       "type": "Feature",
       "id": "way/274103821",
       "properties": {
-        "timestamp": "2017-03-30T02:20:34Z",
-        "version": 2,
-        "changeset": 47278322,
+        "timestamp": "2024-02-27T01:40:28Z",
+        "version": 3,
+        "changeset": 147954329,
         "addr:housenumber": "1550",
         "addr:street": "Rua Maria Rabello",
         "amenity": "school",
         "name": "Escola Municipal Jardim Atlântico",
+        "wikidata": "Q124667708",
         "id": "way/274103821"
       },
       "geometry": {
@@ -46,10 +47,13 @@
       "type": "Feature",
       "id": "node/9675796342",
       "properties": {
-        "timestamp": "2022-04-18T22:43:34Z",
-        "version": 1,
-        "changeset": 119880621,
+        "timestamp": "2024-02-27T01:23:18Z",
+        "version": 2,
+        "changeset": 147954174,
         "amenity": "school",
+        "grades": "1-5",
+        "name": "EMEB Professora Jaira Vieira Borges",
+        "wikidata": "Q124667689",
         "id": "node/9675796342"
       },
       "geometry": {
@@ -81,6 +85,26 @@
         "coordinates": [
           -49.4142852,
           -28.9826816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11667606113",
+      "properties": {
+        "timestamp": "2024-02-27T01:48:01Z",
+        "version": 1,
+        "changeset": 147954412,
+        "amenity": "school",
+        "name": "EMEB Luiza Tomasi Scaini",
+        "wikidata": "Q124667713",
+        "id": "node/11667606113"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.3847571,
+          -28.9591567
         ]
       }
     }

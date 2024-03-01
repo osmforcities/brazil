@@ -5,9 +5,9 @@
       "type": "Feature",
       "id": "way/265275751",
       "properties": {
-        "timestamp": "2022-05-03T10:55:51Z",
-        "version": 22,
-        "changeset": 120495034,
+        "timestamp": "2024-02-27T10:56:55Z",
+        "version": 23,
+        "changeset": 147967956,
         "access": "yes",
         "access:conditional": "private @ (Mo-Su 21:00-06:00); private @ (Sa 14:00-00:00); private @ (Su)",
         "addr:city": "Cuiabá",
@@ -169,6 +169,10 @@
             [
               -56.0687298,
               -15.6136969
+            ],
+            [
+              -56.0684864,
+              -15.6135033
             ],
             [
               -56.0678237,
@@ -972,6 +976,24 @@
         "coordinates": [
           -55.9793211,
           -15.6433245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11668823685",
+      "properties": {
+        "timestamp": "2024-02-27T10:56:55Z",
+        "version": 1,
+        "changeset": 147967956,
+        "barrier": "gate",
+        "id": "node/11668823685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.0684864,
+          -15.6135033
         ]
       }
     }

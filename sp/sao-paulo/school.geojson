@@ -85071,6 +85071,59 @@
     },
     {
       "type": "Feature",
+      "id": "way/1255370792",
+      "properties": {
+        "timestamp": "2024-02-27T20:04:30Z",
+        "version": 1,
+        "changeset": 147988283,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "2051",
+        "addr:postcode": "03307-005",
+        "addr:street": "Rua Tuiuti",
+        "amenity": "school",
+        "barrier": "wall",
+        "name": "E.E Visconde Congonhas do Campo",
+        "phone": "+55 11 2295-2594",
+        "id": "way/1255370792"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.5746339,
+              -23.5438623
+            ],
+            [
+              -46.5739724,
+              -23.5437401
+            ],
+            [
+              -46.5740558,
+              -23.5433869
+            ],
+            [
+              -46.5743957,
+              -23.5434534
+            ],
+            [
+              -46.5746872,
+              -23.5435104
+            ],
+            [
+              -46.5747111,
+              -23.5435422
+            ],
+            [
+              -46.5746339,
+              -23.5438623
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/222842154",
       "properties": {
         "timestamp": "2023-06-07T15:20:09Z",
@@ -108626,6 +108679,24 @@
         "coordinates": [
           -46.5278399,
           -23.5709849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11669999653",
+      "properties": {
+        "timestamp": "2024-02-27T20:04:30Z",
+        "version": 1,
+        "changeset": 147988283,
+        "entrance": "main",
+        "id": "node/11669999653"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5743957,
+          -23.5434534
         ]
       }
     }

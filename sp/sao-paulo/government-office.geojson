@@ -1418,160 +1418,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/115800685",
-      "properties": {
-        "timestamp": "2022-10-15T14:42:34Z",
-        "version": 8,
-        "changeset": 127574149,
-        "addr:city": "São Paulo",
-        "addr:housenumber": "1804",
-        "addr:postcode": "01310-200",
-        "addr:street": "Avenida Paulista",
-        "building": "yes",
-        "government": "tax",
-        "height": "82.1",
-        "name": "Banco Central do Brasil",
-        "office": "government",
-        "id": "way/115800685"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -46.6572206,
-              -23.5597767
-            ],
-            [
-              -46.6572141,
-              -23.5597704
-            ],
-            [
-              -46.6572276,
-              -23.5597585
-            ],
-            [
-              -46.6572036,
-              -23.5597354
-            ],
-            [
-              -46.6573374,
-              -23.5596171
-            ],
-            [
-              -46.6573643,
-              -23.5596429
-            ],
-            [
-              -46.6573777,
-              -23.5596311
-            ],
-            [
-              -46.6574149,
-              -23.5596668
-            ],
-            [
-              -46.6574065,
-              -23.5596742
-            ],
-            [
-              -46.6574134,
-              -23.5596809
-            ],
-            [
-              -46.6574396,
-              -23.5596578
-            ],
-            [
-              -46.6574456,
-              -23.5596525
-            ],
-            [
-              -46.6576207,
-              -23.5598209
-            ],
-            [
-              -46.6575849,
-              -23.5598526
-            ],
-            [
-              -46.6575914,
-              -23.5598588
-            ],
-            [
-              -46.6576009,
-              -23.5598504
-            ],
-            [
-              -46.6576412,
-              -23.5598892
-            ],
-            [
-              -46.6576281,
-              -23.5599008
-            ],
-            [
-              -46.6576508,
-              -23.5599226
-            ],
-            [
-              -46.6575847,
-              -23.5599811
-            ],
-            [
-              -46.6575157,
-              -23.560042
-            ],
-            [
-              -46.6574903,
-              -23.5600175
-            ],
-            [
-              -46.6574779,
-              -23.5600285
-            ],
-            [
-              -46.6574398,
-              -23.5599918
-            ],
-            [
-              -46.6574485,
-              -23.5599841
-            ],
-            [
-              -46.6574424,
-              -23.5599783
-            ],
-            [
-              -46.6574091,
-              -23.5600077
-            ],
-            [
-              -46.6572321,
-              -23.5598374
-            ],
-            [
-              -46.6572668,
-              -23.5598068
-            ],
-            [
-              -46.6572597,
-              -23.5597999
-            ],
-            [
-              -46.6572519,
-              -23.5598067
-            ],
-            [
-              -46.6572206,
-              -23.5597767
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/123656148",
       "properties": {
         "timestamp": "2023-04-18T04:50:49Z",
@@ -7747,28 +7593,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/4128426692",
-      "properties": {
-        "timestamp": "2020-01-17T14:20:44Z",
-        "version": 3,
-        "changeset": 79701972,
-        "addr:city": "São Paulo",
-        "addr:housenumber": "1804",
-        "addr:postcode": "01310-200",
-        "addr:street": "Avenida Paulista",
-        "entrance": "yes",
-        "id": "node/4128426692"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -46.6575847,
-          -23.5599811
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/4153901001",
       "properties": {
         "timestamp": "2019-08-21T19:45:44Z",
@@ -10002,6 +9826,53 @@
         "coordinates": [
           -46.5260036,
           -23.5329009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11677440684",
+      "properties": {
+        "timestamp": "2024-02-29T17:11:53Z",
+        "version": 1,
+        "changeset": 148062733,
+        "addr:floor": "SUBSOLO",
+        "addr:housenumber": "913",
+        "addr:street": "Avenida Professor Lineu Prestes",
+        "check_date": "2024-02-29",
+        "internet_access": "no",
+        "name": "Instituto Geográfico E Cartográfico - IGC",
+        "office": "government",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "wheelchair": "limited",
+        "id": "node/11677440684"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7254741,
+          -23.5671582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11677440686",
+      "properties": {
+        "timestamp": "2024-02-29T17:11:53Z",
+        "version": 1,
+        "changeset": 148062733,
+        "check_date": "2024-02-29",
+        "name": "Fundação SEADE",
+        "office": "government",
+        "wheelchair": "limited",
+        "id": "node/11677440686"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7260005,
+          -23.567207
         ]
       }
     }

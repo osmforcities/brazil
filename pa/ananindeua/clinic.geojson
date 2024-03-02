@@ -3,6 +3,58 @@
   "features": [
     {
       "type": "Feature",
+      "id": "way/259864001",
+      "properties": {
+        "timestamp": "2024-02-29T17:46:48Z",
+        "version": 5,
+        "changeset": 148064046,
+        "addr:postcode": "67120-000",
+        "addr:street": "Quadra E",
+        "addr:suburb": "40 Horas",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "loc_name": "Unidade Básica de Saúde do Conjunto Residencial Ariri",
+        "name": "Unidade Básica de Saúde Ariri",
+        "opening_hours": "Mo-Fr 08:00-18:00; PH off",
+        "operator": "Secretaria da Saúde",
+        "operator:type": "government",
+        "ref:CNES": "2328623",
+        "short_name": "UBS Ariri",
+        "source": "CNES",
+        "id": "way/259864001"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.4275837,
+              -1.3399543
+            ],
+            [
+              -48.4274384,
+              -1.3399968
+            ],
+            [
+              -48.4274145,
+              -1.3398929
+            ],
+            [
+              -48.4275591,
+              -1.3398521
+            ],
+            [
+              -48.4275837,
+              -1.3399543
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/506518799",
       "properties": {
         "timestamp": "2022-04-16T22:55:02Z",
@@ -104,14 +156,18 @@
       "type": "Feature",
       "id": "way/569087563",
       "properties": {
-        "timestamp": "2023-06-26T09:49:04Z",
-        "version": 3,
-        "changeset": 137784077,
+        "timestamp": "2024-02-29T01:46:49Z",
+        "version": 4,
+        "changeset": 148033770,
         "addr:street": "Avenida Rio Solimões",
         "amenity": "clinic",
         "healthcare": "clinic",
         "name": "Posto de Saúde do PAAR",
         "opening_hours": "24/7",
+        "operator": "Secretaria da Saúde",
+        "operator:type": "government",
+        "ref:CNES": "0942979",
+        "source": "CNES",
         "id": "way/569087563"
       },
       "geometry": {

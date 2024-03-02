@@ -5,9 +5,9 @@
       "type": "Feature",
       "id": "way/259865053",
       "properties": {
-        "timestamp": "2022-10-10T20:35:43Z",
-        "version": 5,
-        "changeset": 127322966,
+        "timestamp": "2024-02-29T03:08:31Z",
+        "version": 6,
+        "changeset": 148034785,
         "amenity": "school",
         "id": "way/259865053"
       },
@@ -16,44 +16,32 @@
         "coordinates": [
           [
             [
-              -48.424767,
-              -1.3389409
+              -48.4246223,
+              -1.3388957
             ],
             [
-              -48.4247154,
-              -1.3393246
+              -48.4245512,
+              -1.339251
             ],
             [
-              -48.4242136,
-              -1.3392063
+              -48.4238549,
+              -1.3390217
             ],
             [
-              -48.4239612,
-              -1.3391467
+              -48.4238028,
+              -1.3391408
             ],
             [
-              -48.423584,
-              -1.3390578
+              -48.4236408,
+              -1.3390972
             ],
             [
-              -48.423752,
-              -1.3387216
+              -48.4237656,
+              -1.3387274
             ],
             [
-              -48.4240666,
-              -1.3387838
-            ],
-            [
-              -48.4243266,
-              -1.3388376
-            ],
-            [
-              -48.4247476,
-              -1.3389376
-            ],
-            [
-              -48.424767,
-              -1.3389409
+              -48.4246223,
+              -1.3388957
             ]
           ]
         ]
@@ -732,20 +720,20 @@
       "type": "Feature",
       "id": "way/1182344414",
       "properties": {
-        "timestamp": "2023-06-15T21:06:10Z",
-        "version": 1,
-        "changeset": 137389981,
+        "timestamp": "2024-02-29T17:20:32Z",
+        "version": 2,
+        "changeset": 148063104,
         "addr:city": "Ananindeua",
         "addr:housenumber": "171",
         "addr:postcode": "67133-310",
-        "addr:street": "Tv. We Quarenta e Oito",
-        "addr:suburb": "coqueiro",
+        "addr:street": "Travessa WE 48 B",
+        "addr:suburb": "Coqueiro",
         "amenity": "school",
-        "building": "school",
         "grades": "10-12",
         "name": "EEEFM Jornalista Rômulo Maiorana",
         "operator": "Seduc",
         "operator:type": "public",
+        "religion": "none",
         "id": "way/1182344414"
       },
       "geometry": {
@@ -757,16 +745,32 @@
               -1.3536442
             ],
             [
-              -48.4125547,
-              -1.354855
+              -48.4125784,
+              -1.354384
             ],
             [
-              -48.4116281,
-              -1.3548306
+              -48.4123151,
+              -1.3543741
             ],
             [
-              -48.4116607,
-              -1.3536361
+              -48.4122995,
+              -1.3545349
+            ],
+            [
+              -48.4115784,
+              -1.3545158
+            ],
+            [
+              -48.4115973,
+              -1.3536041
+            ],
+            [
+              -48.4116299,
+              -1.3535769
+            ],
+            [
+              -48.4125818,
+              -1.3535916
             ],
             [
               -48.4126198,
@@ -1130,6 +1134,90 @@
     },
     {
       "type": "Feature",
+      "id": "way/1256028213",
+      "properties": {
+        "timestamp": "2024-02-29T15:55:43Z",
+        "version": 2,
+        "changeset": 148059223,
+        "addr:housenumber": "1856",
+        "addr:street": "Avenida Governador Hélio da Mota Gueiros",
+        "addr:suburb": "Coqueiro",
+        "amenity": "school",
+        "brunch": "Ananindeua",
+        "contact:facebook": "https://www.facebook.com/lasalleananindeua",
+        "contact:instagram": "https://www.instagram.com/lasalle.ananindeua/",
+        "email": "matriculas.pa@lasalle.org.br",
+        "mobile": "+55 91 99324 1557",
+        "name": "Colégio La Salle",
+        "website": "https://matriculas.lasalle.edu.br/ananindeua",
+        "id": "way/1256028213"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.4194845,
+              -1.3566065
+            ],
+            [
+              -48.4199231,
+              -1.3575005
+            ],
+            [
+              -48.4165998,
+              -1.3590531
+            ],
+            [
+              -48.4164335,
+              -1.3589965
+            ],
+            [
+              -48.4165395,
+              -1.3589628
+            ],
+            [
+              -48.416565,
+              -1.3588889
+            ],
+            [
+              -48.4172721,
+              -1.3585631
+            ],
+            [
+              -48.4169759,
+              -1.3584726
+            ],
+            [
+              -48.4170329,
+              -1.3580195
+            ],
+            [
+              -48.4170998,
+              -1.3579441
+            ],
+            [
+              -48.4175331,
+              -1.3579422
+            ],
+            [
+              -48.4176378,
+              -1.3580261
+            ],
+            [
+              -48.4176861,
+              -1.3574442
+            ],
+            [
+              -48.4194845,
+              -1.3566065
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/4070944347",
       "properties": {
         "timestamp": "2016-03-21T02:38:26Z",
@@ -1405,62 +1493,6 @@
         "coordinates": [
           -48.3934435,
           -1.353357
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/10979642316",
-      "properties": {
-        "timestamp": "2023-06-15T21:08:43Z",
-        "version": 1,
-        "changeset": 137390055,
-        "addr:city": "Ananindeua",
-        "addr:housenumber": "171",
-        "addr:postcode": "67133-310",
-        "addr:street": "Tv. We Quarenta e Oito",
-        "addr:suburb": "Coqueiro",
-        "amenity": "school",
-        "grades": "10-12",
-        "name": "EEEFM Jornalista Rômulo Maiorana",
-        "operator": "Seduc",
-        "operator:type": "public",
-        "id": "node/10979642316"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.4120914,
-          -1.3541968
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/11194595883",
-      "properties": {
-        "timestamp": "2023-09-15T21:32:07Z",
-        "version": 2,
-        "changeset": 141320899,
-        "addr:city": "Ananindeua",
-        "addr:housenumber": "1856",
-        "addr:postcode": "67120370",
-        "addr:street": "Av. Hélio da Mota Gueiros",
-        "addr:suburb": "Coqueiro",
-        "amenity": "school",
-        "denomination": "catholic",
-        "name": "La salle Ananindeua",
-        "operator": "Jasmim moara",
-        "operator:type": "aluna_la_salle",
-        "religion": "christian",
-        "website": "https://lasalle.edu.br/ananindeua",
-        "id": "node/11194595883"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.4185689,
-          -1.3575406
         ]
       }
     }

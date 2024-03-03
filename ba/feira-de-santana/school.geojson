@@ -1393,9 +1393,9 @@
       "type": "Feature",
       "id": "way/1255781829",
       "properties": {
-        "timestamp": "2024-02-29T23:07:47Z",
-        "version": 2,
-        "changeset": 148074809,
+        "timestamp": "2024-03-01T23:03:06Z",
+        "version": 4,
+        "changeset": 148114908,
         "addr:city": "Feira de Santana",
         "addr:postcode": "44028-120",
         "addr:street": "Rua Arivaldo de Carvalho",
@@ -1403,7 +1403,7 @@
         "amenity": "school",
         "building": "school",
         "grades": "6-12",
-        "name": "Centro Integrado de Educação Assis Chateaubriand (CIEAC))",
+        "name": "Centro Integrado de Educação Assis Chateaubriand (CIEAC)",
         "id": "way/1255781829"
       },
       "geometry": {
@@ -1413,6 +1413,10 @@
             [
               -38.9761681,
               -12.2353443
+            ],
+            [
+              -38.9759885,
+              -12.2358875
             ],
             [
               -38.975979,
@@ -1478,9 +1482,9 @@
       "type": "Feature",
       "id": "way/1255787095",
       "properties": {
-        "timestamp": "2024-02-29T23:07:47Z",
-        "version": 2,
-        "changeset": 148074809,
+        "timestamp": "2024-03-01T11:31:36Z",
+        "version": 3,
+        "changeset": 148092506,
         "amenity": "school",
         "name": "Colégio Estadual Carmen Andrade Lima (CECAL)",
         "id": "way/1255787095"
@@ -1492,6 +1496,10 @@
             [
               -38.9751945,
               -12.2362447
+            ],
+            [
+              -38.9747865,
+              -12.2368711
             ],
             [
               -38.9746931,
@@ -2179,6 +2187,48 @@
         "coordinates": [
           -38.9358732,
           -12.2737907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11681456187",
+      "properties": {
+        "timestamp": "2024-03-01T23:11:21Z",
+        "version": 2,
+        "changeset": 148115033,
+        "access": "customers",
+        "door": "gate",
+        "entrance": "main",
+        "wheelchair": "yes",
+        "id": "node/11681456187"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.9759885,
+          -12.2358875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11681456188",
+      "properties": {
+        "timestamp": "2024-03-01T11:31:36Z",
+        "version": 1,
+        "changeset": 148092506,
+        "access": "customers",
+        "door": "gate",
+        "entrance": "main",
+        "wheelchair": "limited",
+        "id": "node/11681456188"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.9747865,
+          -12.2368711
         ]
       }
     }

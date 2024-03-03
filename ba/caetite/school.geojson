@@ -253,10 +253,11 @@
       "type": "Feature",
       "id": "way/348740046",
       "properties": {
-        "timestamp": "2024-02-24T13:30:11Z",
-        "version": 9,
-        "changeset": 147855186,
+        "timestamp": "2024-03-01T10:27:42Z",
+        "version": 10,
+        "changeset": 148090096,
         "addr:city": "Caetité",
+        "addr:housenumber": "170",
         "addr:postcode": "46400-000",
         "addr:street": "Avenida Professor Anísio Teixeira",
         "addr:suburb": "Centro",
@@ -380,15 +381,19 @@
       "type": "Feature",
       "id": "way/348812457",
       "properties": {
-        "timestamp": "2015-11-16T20:09:15Z",
-        "version": 3,
-        "changeset": 35360480,
+        "timestamp": "2024-03-01T10:27:42Z",
+        "version": 4,
+        "changeset": 148090096,
         "addr:postcode": "46400-000",
         "addr:street": "Avenida Divino Espírito Santo",
         "addr:suburb": "Alto do Cristo",
         "amenity": "school",
+        "contact:mobile": "+55 77 9 9157 6535",
         "name": "Escola Municipal Professor Manoel Teixeira Ladeia",
         "note": "Local sem número",
+        "operator": "Secretaria Municipal de Educação",
+        "operator_type": "public",
+        "ref:INEP": "29378010",
         "id": "way/348812457"
       },
       "geometry": {
@@ -1738,11 +1743,18 @@
       "type": "Feature",
       "id": "node/3655051186",
       "properties": {
-        "timestamp": "2022-10-08T18:03:52Z",
-        "version": 2,
-        "changeset": 127215308,
+        "timestamp": "2024-03-01T10:27:42Z",
+        "version": 3,
+        "changeset": 148090096,
+        "addr:city": "Caetité",
+        "addr:hamlet": "Cercado",
+        "addr:postcode": "46400-000",
         "amenity": "school",
-        "name": "Escola José Marques dos Santos",
+        "contact:mobile": "+55 77 9 9867 8465",
+        "name": "Escola Municipal José Marques dos Santos",
+        "operator": "Secretaria Municipal de Educação de Caetité",
+        "operator:type": "public",
+        "ref:INEP": "29242525",
         "id": "node/3655051186"
       },
       "geometry": {
@@ -2144,15 +2156,15 @@
       "type": "Feature",
       "id": "node/11654787817",
       "properties": {
-        "timestamp": "2024-02-23T00:57:33Z",
-        "version": 1,
-        "changeset": 147793897,
+        "timestamp": "2024-03-01T10:27:42Z",
+        "version": 2,
+        "changeset": 148090096,
         "addr:city": "Caetité",
         "addr:hamlet": "Fazenda Tanquinho",
         "amenity": "school",
         "contact:mobile": "+55 77 9 9962 6096",
         "fixme": "localização aproximada",
-        "name": "Escola Municipal Manoel Soares Cruz",
+        "name": "Escola Municipal Manoel Soares da Cruz",
         "operator": "Secretaria Municipal de Educação",
         "operator:type": "public",
         "ref:INEP": "29241707",
@@ -2195,16 +2207,16 @@
       "type": "Feature",
       "id": "node/11656354857",
       "properties": {
-        "timestamp": "2024-02-23T14:12:20Z",
-        "version": 1,
-        "changeset": 147814047,
+        "timestamp": "2024-03-01T10:27:42Z",
+        "version": 2,
+        "changeset": 148090096,
         "addr:city": "Caetité",
         "addr:hamlet": "Campinas",
         "amenity": "school",
         "contact:mobile": "+55 77 9 9977 9052",
         "fixme": "Localização aproximada, quando possível ajustar",
         "name": "Escola Municipal José Ferreira Pinto",
-        "operator": "Secretaria Municipal de Caetité",
+        "operator": "Secretaria Municipal de Educação de Caetité",
         "operator:type": "public",
         "ref:INEP": "29242100",
         "id": "node/11656354857"
@@ -2221,10 +2233,10 @@
       "type": "Feature",
       "id": "node/11659715134",
       "properties": {
-        "timestamp": "2024-02-24T14:45:54Z",
-        "version": 1,
-        "changeset": 147858227,
-        "addr:city": "Brejinho das Ametistas",
+        "timestamp": "2024-03-01T10:27:42Z",
+        "version": 2,
+        "changeset": 148090096,
+        "addr:city": "Caetité",
         "addr:postcode": "46405-000",
         "addr:street": "Rua Caetite",
         "addr:village": "Brejinho das Ametistas",
@@ -2242,6 +2254,59 @@
         "coordinates": [
           -42.5225174,
           -14.2594361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11681322779",
+      "properties": {
+        "timestamp": "2024-03-01T10:27:42Z",
+        "version": 1,
+        "changeset": 148090096,
+        "addr:city": "Caetité",
+        "addr:hamlet": "Sambaiba",
+        "addr:postcode": "46400-000",
+        "amenity": "school",
+        "contact:mobile": "+55 77 9 9854 9985",
+        "name": "Escola Municipal Vinte e Cinco de Dezembro",
+        "operator": "Secretaria Municipal de Educação de Caetité",
+        "operator:type": "public",
+        "ref:INEP": "29242711",
+        "id": "node/11681322779"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.7125221,
+          -13.6143216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11681322780",
+      "properties": {
+        "timestamp": "2024-03-01T10:27:42Z",
+        "version": 1,
+        "changeset": 148090096,
+        "addr:city": "Caetité",
+        "addr:postcode": "46420-000",
+        "addr:village": "Caldeiras",
+        "amenity": "school",
+        "contact:mobile": "+55 77 9 8847 6383",
+        "fixme": "Localização aproximada",
+        "name": "Escola Municipal Antônio Carlos Magalhães",
+        "operator": "Secretaria Municipal de Educação de Caetité",
+        "operator:type": "public",
+        "ref:INEP": "29242819",
+        "id": "node/11681322780"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.5718118,
+          -13.6337396
         ]
       }
     }

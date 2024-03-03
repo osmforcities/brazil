@@ -85186,6 +85186,71 @@
     },
     {
       "type": "Feature",
+      "id": "way/1256621753",
+      "properties": {
+        "timestamp": "2024-03-01T16:20:17Z",
+        "version": 1,
+        "changeset": 148103075,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "151",
+        "addr:postcode": "03720-040",
+        "addr:street": "Rua Ilha da Figueira",
+        "amenity": "school",
+        "barrier": "wall",
+        "name": "E.E Professora Annita Guastini Eiras",
+        "phone": "+55 11 2958-3375",
+        "id": "way/1256621753"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.5306023,
+              -23.5020034
+            ],
+            [
+              -46.5308318,
+              -23.5016536
+            ],
+            [
+              -46.5308529,
+              -23.5016507
+            ],
+            [
+              -46.5317496,
+              -23.5021254
+            ],
+            [
+              -46.5317514,
+              -23.5021413
+            ],
+            [
+              -46.5316964,
+              -23.502195
+            ],
+            [
+              -46.5314649,
+              -23.502421
+            ],
+            [
+              -46.5313005,
+              -23.5023417
+            ],
+            [
+              -46.5312167,
+              -23.5023008
+            ],
+            [
+              -46.5306023,
+              -23.5020034
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/222842154",
       "properties": {
         "timestamp": "2023-06-07T15:20:09Z",
@@ -108777,6 +108842,28 @@
         "coordinates": [
           -46.7167254,
           -23.5430527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11681960554",
+      "properties": {
+        "timestamp": "2024-03-01T16:20:17Z",
+        "version": 1,
+        "changeset": 148103075,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "151",
+        "addr:postcode": "03720-040",
+        "addr:street": "Rua Ilha da Figueira",
+        "entrance": "main",
+        "id": "node/11681960554"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5316964,
+          -23.502195
         ]
       }
     }

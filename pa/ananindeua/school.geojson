@@ -109,45 +109,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/538121833",
-      "properties": {
-        "timestamp": "2017-11-04T02:59:31Z",
-        "version": 1,
-        "changeset": 53494177,
-        "amenity": "school",
-        "name": "CNA",
-        "id": "way/538121833"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -48.4101799,
-              -1.3727356
-            ],
-            [
-              -48.4101817,
-              -1.3728559
-            ],
-            [
-              -48.4100454,
-              -1.3727763
-            ],
-            [
-              -48.4100436,
-              -1.3726578
-            ],
-            [
-              -48.4101799,
-              -1.3727356
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/546353911",
       "properties": {
         "timestamp": "2024-02-26T23:45:13Z",
@@ -297,6 +258,58 @@
             [
               -48.4134263,
               -1.3822297
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/724074203",
+      "properties": {
+        "timestamp": "2024-03-02T22:24:31Z",
+        "version": 4,
+        "changeset": 148148659,
+        "addr:housenumber": "02",
+        "addr:street": "Travessa WE 26",
+        "addr:suburb": "Cidade IV",
+        "amenity": "school",
+        "contact:facebook": "https://www.facebook.com/colegiointelectualbilingue/",
+        "contact:instagram": "https://www.instagram.com/colegiointelectualbilingue/",
+        "description": "Dependências da UFPA - Campus Ananindeua",
+        "email": "colegiointelectual@hotmail.com",
+        "name": "Colégio Intelectual Bilingue",
+        "phone": "+55 91 3263- 6303",
+        "website": "https://www.colegiointelectualbilingue.com.br/",
+        "id": "way/724074203"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.4058097,
+              -1.3632663
+            ],
+            [
+              -48.4058214,
+              -1.3634306
+            ],
+            [
+              -48.4058207,
+              -1.3636451
+            ],
+            [
+              -48.4051566,
+              -1.3636518
+            ],
+            [
+              -48.405162,
+              -1.3632635
+            ],
+            [
+              -48.4058097,
+              -1.3632663
             ]
           ]
         ]
@@ -822,16 +835,15 @@
       "type": "Feature",
       "id": "way/1182346210",
       "properties": {
-        "timestamp": "2023-06-15T21:17:29Z",
-        "version": 1,
-        "changeset": 137390279,
+        "timestamp": "2024-03-02T22:24:31Z",
+        "version": 2,
+        "changeset": 148148659,
         "addr:city": "Ananindeua",
         "addr:housenumber": "S/N",
         "addr:postcode": "67133-200",
         "addr:street": "Rua WE 36",
         "addr:suburb": "Coqueiro",
         "amenity": "school",
-        "building": "school",
         "grades": "1-9",
         "name": "E.E.E.F.M Luiz Nunes Direito",
         "operator": "Seduc",
@@ -1429,21 +1441,94 @@
     },
     {
       "type": "Feature",
-      "id": "node/4070944347",
+      "id": "way/1256745148",
       "properties": {
-        "timestamp": "2016-03-21T02:38:26Z",
+        "timestamp": "2024-03-02T02:19:15Z",
         "version": 1,
-        "changeset": 37967343,
+        "changeset": 148117006,
         "amenity": "school",
-        "name": "Escola Estadual Luiz Nunes Direito",
-        "source": "SEDUC–PA",
-        "id": "node/4070944347"
+        "id": "way/1256745148"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -48.4033073,
-          -1.3582997
+          [
+            [
+              -48.4083364,
+              -1.3693029
+            ],
+            [
+              -48.4083364,
+              -1.3699015
+            ],
+            [
+              -48.4077185,
+              -1.3699003
+            ],
+            [
+              -48.4077236,
+              -1.369535
+            ],
+            [
+              -48.4077401,
+              -1.3695071
+            ],
+            [
+              -48.4077439,
+              -1.3694779
+            ],
+            [
+              -48.4077248,
+              -1.3694779
+            ],
+            [
+              -48.4077261,
+              -1.3693079
+            ],
+            [
+              -48.4083364,
+              -1.3693029
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1257003793",
+      "properties": {
+        "timestamp": "2024-03-02T23:54:44Z",
+        "version": 1,
+        "changeset": 148150234,
+        "amenity": "school",
+        "name": "Escola Estadual de Ensino Fundamental e Médio  Doutor Agostinho Monteiro",
+        "id": "way/1257003793"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.4101101,
+              -1.3683923
+            ],
+            [
+              -48.410087,
+              -1.3692824
+            ],
+            [
+              -48.4090389,
+              -1.3692766
+            ],
+            [
+              -48.4090408,
+              -1.3683807
+            ],
+            [
+              -48.4101101,
+              -1.3683923
+            ]
+          ]
         ]
       }
     },
@@ -1607,44 +1692,6 @@
         "coordinates": [
           -48.3819287,
           -1.2747879
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/9823323050",
-      "properties": {
-        "timestamp": "2023-02-01T00:00:10Z",
-        "version": 2,
-        "changeset": 131941954,
-        "amenity": "school",
-        "name": "Escola Estadual de Ensino Fundamental e Médio Dr. Agostinho Monteiro",
-        "id": "node/9823323050"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.4094731,
-          -1.3687912
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/10831663709",
-      "properties": {
-        "timestamp": "2023-04-22T10:29:54Z",
-        "version": 1,
-        "changeset": 135222922,
-        "amenity": "school",
-        "name": "Colégio Intelectual e Campus de Ananindeua UFPA",
-        "id": "node/10831663709"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.4058293,
-          -1.3635281
         ]
       }
     },

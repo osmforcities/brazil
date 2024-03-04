@@ -8479,9 +8479,9 @@
       "type": "Feature",
       "id": "way/237853942",
       "properties": {
-        "timestamp": "2021-07-05T00:33:50Z",
-        "version": 9,
-        "changeset": 107410062,
+        "timestamp": "2024-03-02T20:54:21Z",
+        "version": 10,
+        "changeset": 148146375,
         "addr:city": "Curitiba",
         "addr:housenumber": "2299",
         "addr:postcode": "82800-000",
@@ -8490,6 +8490,7 @@
         "leisure": "sports_centre",
         "name": "Hipódromo do Tarumã",
         "sport": "horse_racing",
+        "wheelchair": "yes",
         "id": "way/237853942"
       },
       "geometry": {
@@ -12727,9 +12728,9 @@
       "type": "Feature",
       "id": "way/354631240",
       "properties": {
-        "timestamp": "2015-06-18T16:40:36Z",
-        "version": 1,
-        "changeset": 32055681,
+        "timestamp": "2024-03-02T14:45:30Z",
+        "version": 2,
+        "changeset": 148134673,
         "leisure": "pitch",
         "sport": "multi",
         "surface": "concrete",
@@ -12740,24 +12741,32 @@
         "coordinates": [
           [
             [
-              -49.2758586,
-              -25.4325998
+              -49.2757194,
+              -25.4325088
             ],
             [
-              -49.275751,
-              -25.4326978
+              -49.275604,
+              -25.4326077
             ],
             [
-              -49.2755783,
-              -25.4325432
+              -49.2755166,
+              -25.4325244
             ],
             [
-              -49.2756859,
-              -25.4324452
+              -49.2754408,
+              -25.4324523
             ],
             [
-              -49.2758586,
-              -25.4325998
+              -49.2755561,
+              -25.4323534
+            ],
+            [
+              -49.2756326,
+              -25.4324262
+            ],
+            [
+              -49.2757194,
+              -25.4325088
             ]
           ]
         ]
@@ -31649,6 +31658,46 @@
     },
     {
       "type": "Feature",
+      "id": "way/1106636952",
+      "properties": {
+        "timestamp": "2024-03-02T15:03:50Z",
+        "version": 3,
+        "changeset": 148135367,
+        "leisure": "pitch",
+        "sport": "soccer",
+        "surface": "grass",
+        "id": "way/1106636952"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.2428486,
+              -25.4976851
+            ],
+            [
+              -49.2428484,
+              -25.49783
+            ],
+            [
+              -49.2425272,
+              -25.4978295
+            ],
+            [
+              -49.2425275,
+              -25.4976846
+            ],
+            [
+              -49.2428486,
+              -25.4976851
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1106854216",
       "properties": {
         "timestamp": "2022-10-25T14:19:04Z",
@@ -36987,6 +37036,84 @@
     },
     {
       "type": "Feature",
+      "id": "way/1256882353",
+      "properties": {
+        "timestamp": "2024-03-02T14:45:30Z",
+        "version": 1,
+        "changeset": 148134673,
+        "leisure": "fitness_station",
+        "sport": "fitness",
+        "id": "way/1256882353"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.2757279,
+              -25.4324732
+            ],
+            [
+              -49.2757157,
+              -25.4324836
+            ],
+            [
+              -49.27567,
+              -25.4324396
+            ],
+            [
+              -49.2756823,
+              -25.4324292
+            ],
+            [
+              -49.2757279,
+              -25.4324732
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1256882354",
+      "properties": {
+        "timestamp": "2024-03-02T14:45:30Z",
+        "version": 1,
+        "changeset": 148134673,
+        "leisure": "fitness_station",
+        "sport": "fitness",
+        "id": "way/1256882354"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.2756648,
+              -25.4324116
+            ],
+            [
+              -49.2756523,
+              -25.4324219
+            ],
+            [
+              -49.275623,
+              -25.4323932
+            ],
+            [
+              -49.2756355,
+              -25.4323828
+            ],
+            [
+              -49.2756648,
+              -25.4324116
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/120578701",
       "properties": {
         "timestamp": "2023-12-16T22:50:17Z",
@@ -39852,6 +39979,80 @@
         "coordinates": [
           -49.2362719,
           -25.4541625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11684833335",
+      "properties": {
+        "timestamp": "2024-03-02T14:45:30Z",
+        "version": 1,
+        "changeset": 148134673,
+        "entrance": "yes",
+        "id": "node/11684833335"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2756326,
+          -25.4324262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11684833336",
+      "properties": {
+        "timestamp": "2024-03-02T14:45:30Z",
+        "version": 1,
+        "changeset": 148134673,
+        "entrance": "yes",
+        "id": "node/11684833336"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2755166,
+          -25.4325244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11684833340",
+      "properties": {
+        "timestamp": "2024-03-02T14:45:30Z",
+        "version": 1,
+        "changeset": 148134673,
+        "leisure": "picnic_table",
+        "sport": "chess",
+        "id": "node/11684833340"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2757485,
+          -25.4326418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11684833341",
+      "properties": {
+        "timestamp": "2024-03-02T14:45:30Z",
+        "version": 1,
+        "changeset": 148134673,
+        "leisure": "picnic_table",
+        "sport": "chess",
+        "id": "node/11684833341"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2758557,
+          -25.4325461
         ]
       }
     }

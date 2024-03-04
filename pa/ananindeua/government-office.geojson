@@ -5,12 +5,22 @@
       "type": "Feature",
       "id": "way/494750573",
       "properties": {
-        "timestamp": "2017-05-19T20:01:39Z",
-        "version": 1,
-        "changeset": 48831109,
+        "timestamp": "2024-03-02T02:06:00Z",
+        "version": 3,
+        "changeset": 148116930,
+        "addr:postcode": "67630-000",
+        "addr:street": "Travessa WE 17",
+        "addr:suburb": "Conjunto Cidade Nova II",
         "building": "yes",
-        "name": "SESAN",
+        "email": "gabinete.sesan@ananindeua.pa.gov.br",
+        "government": "administrative",
+        "mobile": "+55 91 99183 1059",
+        "name": "Secretaria Municipal de Saneamento e Infra-Estrutura",
         "office": "government",
+        "opening_hours": "Mo-Fr 08:00-13:00; PH off",
+        "short_name": "SESAN",
+        "source": "https://ananindeua.pa.gov.br/mapas/index?grupo=1",
+        "website": "https://ananindeua.pa.gov.br/sesan",
         "id": "way/494750573"
       },
       "geometry": {
@@ -18,28 +28,24 @@
         "coordinates": [
           [
             [
-              -48.4057665,
-              -1.3679691
+              -48.4056617,
+              -1.3679809
             ],
             [
-              -48.4057952,
-              -1.3680403
+              -48.4057023,
+              -1.3680638
             ],
             [
-              -48.4057619,
-              -1.3680537
+              -48.4057887,
+              -1.3682707
             ],
             [
-              -48.4058123,
-              -1.3681787
+              -48.4057562,
+              -1.3683057
             ],
             [
-              -48.4058001,
-              -1.3682682
-            ],
-            [
-              -48.4056146,
-              -1.3683419
+              -48.4056273,
+              -1.3683584
             ],
             [
               -48.4054932,
@@ -50,20 +56,8 @@
               -1.3680137
             ],
             [
-              -48.4056883,
-              -1.3679593
-            ],
-            [
-              -48.4057107,
-              -1.3679694
-            ],
-            [
-              -48.4057184,
-              -1.3679885
-            ],
-            [
-              -48.4057665,
-              -1.3679691
+              -48.4056617,
+              -1.3679809
             ]
           ]
         ]
@@ -111,6 +105,54 @@
             [
               -48.4119406,
               -1.3808649
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1090577699",
+      "properties": {
+        "timestamp": "2024-03-02T02:06:00Z",
+        "version": 3,
+        "changeset": 148116930,
+        "addr:street": "Travessa WE 16",
+        "addr:suburb": "Conjunto Cidade Nova II",
+        "building": "yes",
+        "email": "relacionamento@ananindeua.pa.gov.br",
+        "government": "administrative",
+        "name": "Secretaria Municipal de Administração",
+        "office": "government",
+        "opening_hours": "Mo-Fr 08:00-14:00; PH off",
+        "phone": "+55 91 3073 2510",
+        "source": "https://ananindeua.pa.gov.br/mapas/index?grupo=1",
+        "website": "https://ananindeua.pa.gov.br/semad",
+        "id": "way/1090577699"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.4079629,
+              -1.3680531
+            ],
+            [
+              -48.4080365,
+              -1.3680519
+            ],
+            [
+              -48.4080379,
+              -1.3682013
+            ],
+            [
+              -48.4079607,
+              -1.3682059
+            ],
+            [
+              -48.4079629,
+              -1.3680531
             ]
           ]
         ]

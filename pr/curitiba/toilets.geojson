@@ -457,6 +457,53 @@
     },
     {
       "type": "Feature",
+      "id": "way/1256882349",
+      "properties": {
+        "timestamp": "2024-03-02T14:45:30Z",
+        "version": 1,
+        "changeset": 148134673,
+        "amenity": "toilets",
+        "building": "yes",
+        "fee": "yes",
+        "female": "yes",
+        "male": "yes",
+        "wheelchair": "yes",
+        "id": "way/1256882349"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.2759952,
+              -25.4326584
+            ],
+            [
+              -49.2760157,
+              -25.4326778
+            ],
+            [
+              -49.276001,
+              -25.4326905
+            ],
+            [
+              -49.2759863,
+              -25.4327031
+            ],
+            [
+              -49.2759658,
+              -25.4326837
+            ],
+            [
+              -49.2759952,
+              -25.4326584
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/270511217",
       "properties": {
         "timestamp": "2021-12-01T21:44:41Z",
@@ -539,29 +586,6 @@
         "coordinates": [
           -49.2880812,
           -25.4043369
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/3603128085",
-      "properties": {
-        "timestamp": "2017-08-29T21:25:36Z",
-        "version": 5,
-        "changeset": 51557575,
-        "access": "public",
-        "amenity": "toilets",
-        "fee": "yes",
-        "toilets:disposal": "flush",
-        "unisex": "yes",
-        "wheelchair": "yes",
-        "id": "node/3603128085"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.2760466,
-          -25.4328275
         ]
       }
     },
@@ -1503,6 +1527,24 @@
         "coordinates": [
           -49.2358352,
           -25.4567163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11684833295",
+      "properties": {
+        "timestamp": "2024-03-02T14:45:30Z",
+        "version": 1,
+        "changeset": 148134673,
+        "entrance": "yes",
+        "id": "node/11684833295"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.276001,
+          -25.4326905
         ]
       }
     }

@@ -1023,13 +1023,14 @@
       "type": "Feature",
       "id": "way/544843371",
       "properties": {
-        "timestamp": "2022-05-20T00:45:51Z",
-        "version": 3,
-        "changeset": 121218606,
+        "timestamp": "2024-03-03T23:29:21Z",
+        "version": 4,
+        "changeset": 148185058,
         "addr:city": "Curitiba",
         "addr:housenumber": "1572",
         "addr:postcode": "81200-100",
         "addr:street": "Rua Professor Pedro Viriato Parigot de Souza",
+        "addr:suburb": "Mossunguê",
         "amenity": "pharmacy",
         "brand": "Panvel",
         "brand:wikidata": "Q10344254",
@@ -2388,14 +2389,75 @@
     },
     {
       "type": "Feature",
+      "id": "way/995066729",
+      "properties": {
+        "timestamp": "2024-03-03T23:29:21Z",
+        "version": 2,
+        "changeset": 148185058,
+        "addr:city": "Curitiba",
+        "addr:housenumber": "2248",
+        "addr:postcode": "81200-100",
+        "addr:street": "Rua Professor Pedro Viriato Parigot de Souza",
+        "addr:suburb": "Mossunguê",
+        "amenity": "pharmacy",
+        "building": "retail",
+        "building:levels": "2",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "height": "5",
+        "name": "Callfarma",
+        "opening_hours": "Mo-Sa 07:00-23:00; Su 08:00-22:00: PH 08:00-22:00",
+        "id": "way/995066729"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.3313407,
+              -25.4359407
+            ],
+            [
+              -49.3312687,
+              -25.4359812
+            ],
+            [
+              -49.3311695,
+              -25.4359473
+            ],
+            [
+              -49.3311581,
+              -25.4359065
+            ],
+            [
+              -49.3311346,
+              -25.4358226
+            ],
+            [
+              -49.3312151,
+              -25.4357932
+            ],
+            [
+              -49.3313407,
+              -25.4359407
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/997505970",
       "properties": {
-        "timestamp": "2021-10-29T17:04:10Z",
-        "version": 1,
-        "changeset": 113133517,
+        "timestamp": "2024-03-03T23:29:21Z",
+        "version": 2,
+        "changeset": 148185058,
+        "addr:city": "Curitiba",
         "addr:housenumber": "2380",
         "addr:postcode": "81200-100",
         "addr:street": "Rua Professor Pedro Viriato Parigot de Souza",
+        "addr:suburb": "Mossunguê",
         "amenity": "pharmacy",
         "building": "yes",
         "dispensing": "yes",
@@ -5901,32 +5963,6 @@
         "coordinates": [
           -49.294479,
           -25.4391824
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/6174880816",
-      "properties": {
-        "timestamp": "2021-10-21T01:08:51Z",
-        "version": 3,
-        "changeset": 112767632,
-        "addr:housenumber": "2248",
-        "addr:postcode": "81200-100",
-        "addr:street": "Rua Professor Pedro Viriato Parigot de Souza",
-        "amenity": "pharmacy",
-        "dispensing": "yes",
-        "drive_through": "no",
-        "healthcare": "pharmacy",
-        "name": "Callfarma",
-        "opening_hours": "Mo-Sa 07:00-23:00; Su 08:00-22:00: PH 08:00-22:00",
-        "id": "node/6174880816"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.3312197,
-          -25.4359069
         ]
       }
     },

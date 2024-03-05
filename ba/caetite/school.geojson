@@ -1369,11 +1369,17 @@
       "type": "Feature",
       "id": "way/983858630",
       "properties": {
-        "timestamp": "2021-09-16T10:19:19Z",
-        "version": 1,
-        "changeset": 111283833,
+        "timestamp": "2024-03-03T22:29:38Z",
+        "version": 2,
+        "changeset": 148183988,
+        "addr:city": "Caetité",
+        "addr:hamlet": "Cachoeirinha",
+        "addr:postcode": "46400-000",
         "amenity": "school",
+        "name": "Escola Municipal Monsenhor Osvaldo Magalhães",
+        "operator": "Secretaria Municipal de Educação de Caetité",
         "operator:type": "public",
+        "ref:INEP": "29243246",
         "id": "way/983858630"
       },
       "geometry": {
@@ -1636,12 +1642,15 @@
       "type": "Feature",
       "id": "way/1181360255",
       "properties": {
-        "timestamp": "2023-06-12T13:19:32Z",
-        "version": 1,
-        "changeset": 137244835,
+        "timestamp": "2024-03-03T22:29:38Z",
+        "version": 2,
+        "changeset": 148183988,
         "addr:city": "Caetité",
+        "addr:hamlet": "Tamboril",
         "amenity": "school",
+        "contact:mobile": "+55 77 9 8851 3428",
         "name": "Escola Municipal Mem de Sá",
+        "ref:INEP": "29243319",
         "id": "way/1181360255"
       },
       "geometry": {
@@ -2307,6 +2316,31 @@
         "coordinates": [
           -42.5718118,
           -13.6337396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11688714658",
+      "properties": {
+        "timestamp": "2024-03-03T22:29:38Z",
+        "version": 1,
+        "changeset": 148183988,
+        "addr:city": "Caetité",
+        "addr:postcode": "46410-000",
+        "addr:village": "Maniaçu",
+        "amenity": "school",
+        "contact:mobile": "+55 77 9 9940 8903",
+        "name": "Escola Municipal Maurício Gumes",
+        "operator": "Secretaria Municipal de Educação de Caetité",
+        "operator:type": "public",
+        "id": "node/11688714658"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.3885607,
+          -13.8408261
         ]
       }
     }

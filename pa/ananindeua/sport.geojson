@@ -281,9 +281,9 @@
       "type": "Feature",
       "id": "way/682176421",
       "properties": {
-        "timestamp": "2024-03-02T23:23:26Z",
-        "version": 2,
-        "changeset": 148149778,
+        "timestamp": "2024-03-04T18:31:41Z",
+        "version": 3,
+        "changeset": 148220610,
         "building": "yes",
         "leisure": "pitch",
         "sport": "soccer",
@@ -294,24 +294,28 @@
         "coordinates": [
           [
             [
-              -48.4081122,
-              -1.3736348
+              -48.4081323,
+              -1.3736254
             ],
             [
-              -48.4081081,
-              -1.3738909
+              -48.4081397,
+              -1.3737602
             ],
             [
-              -48.4077382,
-              -1.3738827
+              -48.4081255,
+              -1.373903
             ],
             [
-              -48.4077585,
-              -1.3736308
+              -48.4077436,
+              -1.3739001
             ],
             [
-              -48.4081122,
-              -1.3736348
+              -48.4077706,
+              -1.3736228
+            ],
+            [
+              -48.4081323,
+              -1.3736254
             ]
           ]
         ]
@@ -512,49 +516,6 @@
             [
               -48.4178252,
               -1.371297
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1068481863",
-      "properties": {
-        "timestamp": "2022-06-10T11:59:36Z",
-        "version": 1,
-        "changeset": 122207831,
-        "leisure": "pitch",
-        "sport": "tennis",
-        "id": "way/1068481863"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -48.4169645,
-              -1.3706134
-            ],
-            [
-              -48.4170322,
-              -1.3706254
-            ],
-            [
-              -48.4170083,
-              -1.3707484
-            ],
-            [
-              -48.4169328,
-              -1.3707314
-            ],
-            [
-              -48.416954,
-              -1.3706526
-            ],
-            [
-              -48.4169645,
-              -1.3706134
             ]
           ]
         ]
@@ -1080,45 +1041,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/1078283822",
-      "properties": {
-        "timestamp": "2022-07-13T17:40:11Z",
-        "version": 1,
-        "changeset": 123575057,
-        "leisure": "pitch",
-        "sport": "soccer",
-        "id": "way/1078283822"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -48.4186863,
-              -1.3674617
-            ],
-            [
-              -48.4181979,
-              -1.367781
-            ],
-            [
-              -48.4180512,
-              -1.3675568
-            ],
-            [
-              -48.4185398,
-              -1.3672376
-            ],
-            [
-              -48.4186863,
-              -1.3674617
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/1078283823",
       "properties": {
         "timestamp": "2022-07-13T17:40:11Z",
@@ -1199,14 +1121,15 @@
       "type": "Feature",
       "id": "way/1088930445",
       "properties": {
-        "timestamp": "2023-06-15T01:56:09Z",
-        "version": 2,
-        "changeset": 137349915,
+        "timestamp": "2024-03-04T20:18:20Z",
+        "version": 3,
+        "changeset": 148224469,
         "access": "yes",
+        "building": "yes",
         "leisure": "pitch",
         "lit": "yes",
         "name": "Quadra CN 8",
-        "sport": "soccer;basketball;running;volleyball",
+        "sport": "multi",
         "surface": "concrete",
         "id": "way/1088930445"
       },
@@ -1223,12 +1146,12 @@
               -1.3511979
             ],
             [
-              -48.4123958,
-              -1.3509417
+              -48.4123982,
+              -1.3510498
             ],
             [
-              -48.412708,
-              -1.3509464
+              -48.412714,
+              -1.3510558
             ],
             [
               -48.4127096,
@@ -1272,6 +1195,45 @@
             [
               -48.4058295,
               -1.346807
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1095043136",
+      "properties": {
+        "timestamp": "2024-03-04T13:50:08Z",
+        "version": 2,
+        "changeset": 148207965,
+        "leisure": "pitch",
+        "sport": "soccer",
+        "id": "way/1095043136"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.3673763,
+              -1.3758921
+            ],
+            [
+              -48.3673429,
+              -1.3760249
+            ],
+            [
+              -48.3671158,
+              -1.3759679
+            ],
+            [
+              -48.3671492,
+              -1.375835
+            ],
+            [
+              -48.3673763,
+              -1.3758921
             ]
           ]
         ]
@@ -3501,26 +3463,240 @@
     },
     {
       "type": "Feature",
-      "id": "node/3359776664",
+      "id": "way/1257265756",
       "properties": {
-        "timestamp": "2023-06-15T02:12:45Z",
-        "version": 3,
-        "changeset": 137350134,
-        "access": "yes",
-        "addr:city": "Ananindeua",
-        "addr:housenumber": "SN",
-        "addr:street": "Travessa WE 73",
-        "addr:suburb": "Cidade Nova",
-        "leisure": "sports_hall",
-        "name": "Ginásio de Esportes Almir Gabriel (Abacatão)",
-        "sport": "soccer;basketball;volleyball;futsal;multi",
-        "id": "node/3359776664"
+        "timestamp": "2024-03-04T00:15:10Z",
+        "version": 1,
+        "changeset": 148185676,
+        "leisure": "pitch",
+        "sport": "soccer",
+        "surface": "artificial_turf",
+        "id": "way/1257265756"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -48.4084315,
-          -1.350017
+          [
+            [
+              -48.4111881,
+              -1.3686484
+            ],
+            [
+              -48.4111729,
+              -1.3688066
+            ],
+            [
+              -48.4108868,
+              -1.3687792
+            ],
+            [
+              -48.4109019,
+              -1.368621
+            ],
+            [
+              -48.4111881,
+              -1.3686484
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1257305685",
+      "properties": {
+        "timestamp": "2024-03-04T03:06:23Z",
+        "version": 1,
+        "changeset": 148187790,
+        "leisure": "pitch",
+        "sport": "soccer",
+        "surface": "artificial_turf",
+        "id": "way/1257305685"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.3981238,
+              -1.3912604
+            ],
+            [
+              -48.3980658,
+              -1.3914135
+            ],
+            [
+              -48.3978003,
+              -1.391313
+            ],
+            [
+              -48.3978584,
+              -1.3911598
+            ],
+            [
+              -48.3981238,
+              -1.3912604
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1257530791",
+      "properties": {
+        "timestamp": "2024-03-04T16:49:08Z",
+        "version": 1,
+        "changeset": 148215974,
+        "leisure": "pitch",
+        "sport": "soccer",
+        "surface": "grass",
+        "id": "way/1257530791"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.3624913,
+              -1.3557644
+            ],
+            [
+              -48.3620912,
+              -1.3560209
+            ],
+            [
+              -48.3616843,
+              -1.3553865
+            ],
+            [
+              -48.3620845,
+              -1.3551299
+            ],
+            [
+              -48.3624913,
+              -1.3557644
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1257530792",
+      "properties": {
+        "timestamp": "2024-03-04T16:49:08Z",
+        "version": 1,
+        "changeset": 148215974,
+        "leisure": "pitch",
+        "sport": "soccer",
+        "surface": "grass",
+        "id": "way/1257530792"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.3619093,
+              -1.3544055
+            ],
+            [
+              -48.3622089,
+              -1.3547458
+            ],
+            [
+              -48.3616015,
+              -1.355296
+            ],
+            [
+              -48.3612987,
+              -1.3549607
+            ],
+            [
+              -48.3619093,
+              -1.3544055
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1257619928",
+      "properties": {
+        "timestamp": "2024-03-04T22:55:04Z",
+        "version": 1,
+        "changeset": 148228205,
+        "leisure": "pitch",
+        "sport": "soccer",
+        "id": "way/1257619928"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.4224906,
+              -1.3627232
+            ],
+            [
+              -48.4224044,
+              -1.3631411
+            ],
+            [
+              -48.4216872,
+              -1.3629923
+            ],
+            [
+              -48.4217744,
+              -1.3625764
+            ],
+            [
+              -48.4224906,
+              -1.3627232
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1257625911",
+      "properties": {
+        "timestamp": "2024-03-04T23:21:07Z",
+        "version": 1,
+        "changeset": 148228641,
+        "leisure": "pitch",
+        "sport": "soccer",
+        "surface": "grass",
+        "id": "way/1257625911"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.4180027,
+              -1.3532642
+            ],
+            [
+              -48.4180168,
+              -1.3535524
+            ],
+            [
+              -48.4178719,
+              -1.3535594
+            ],
+            [
+              -48.4178578,
+              -1.3532713
+            ],
+            [
+              -48.4180027,
+              -1.3532642
+            ]
+          ]
         ]
       }
     }

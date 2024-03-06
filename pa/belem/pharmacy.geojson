@@ -644,6 +644,50 @@
     },
     {
       "type": "Feature",
+      "id": "way/1257610927",
+      "properties": {
+        "timestamp": "2024-03-04T22:07:19Z",
+        "version": 1,
+        "changeset": 148227262,
+        "addr:street": "Passagem Karina",
+        "amenity": "pharmacy",
+        "brand": "Extrafarma",
+        "brand:wikidata": "Q20055480",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Extrafarma",
+        "id": "way/1257610927"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.4283183,
+              -1.3594121
+            ],
+            [
+              -48.4283699,
+              -1.3594429
+            ],
+            [
+              -48.4283191,
+              -1.3595436
+            ],
+            [
+              -48.4282575,
+              -1.3595045
+            ],
+            [
+              -48.4283183,
+              -1.3594121
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/505204983",
       "properties": {
         "timestamp": "2009-09-22T14:36:15Z",
@@ -1249,26 +1293,6 @@
         "coordinates": [
           -48.4906836,
           -1.4569646
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/5308616322",
-      "properties": {
-        "timestamp": "2017-12-28T16:25:03Z",
-        "version": 1,
-        "changeset": 54987793,
-        "addr:street": "Avenida Independência",
-        "amenity": "pharmacy",
-        "name": "ExtraFarma",
-        "id": "node/5308616322"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.4283478,
-          -1.3594621
         ]
       }
     },

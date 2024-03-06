@@ -327,6 +327,56 @@
     },
     {
       "type": "Feature",
+      "id": "way/1257482630",
+      "properties": {
+        "timestamp": "2024-03-04T14:38:18Z",
+        "version": 1,
+        "changeset": 148210086,
+        "addr:city": "Niterói",
+        "addr:housenumber": "186",
+        "addr:postcode": "24220-261",
+        "addr:street": "Rua Mem de Sá",
+        "amenity": "doctors",
+        "building": "yes",
+        "building:levels": "2",
+        "healthcare": "doctor",
+        "name": "Otorrinos Reunidos",
+        "id": "way/1257482630"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.1087476,
+              -22.9034376
+            ],
+            [
+              -43.1089025,
+              -22.9035739
+            ],
+            [
+              -43.1088539,
+              -22.9036208
+            ],
+            [
+              -43.1086989,
+              -22.9034845
+            ],
+            [
+              -43.1087233,
+              -22.903461
+            ],
+            [
+              -43.1087476,
+              -22.9034376
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/335419101",
       "properties": {
         "timestamp": "2011-07-31T19:39:19Z",
@@ -343,29 +393,6 @@
         "coordinates": [
           -43.1095382,
           -22.9031352
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/448777827",
-      "properties": {
-        "timestamp": "2013-08-15T22:42:01Z",
-        "version": 6,
-        "changeset": 17365852,
-        "addr:city": "Niterói",
-        "addr:housenumber": "186",
-        "addr:postcode": "24220-261",
-        "addr:street": "Rua Mem de Sá",
-        "amenity": "doctors",
-        "name": "Otorrinos Reunidos",
-        "id": "node/448777827"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.108667,
-          -22.9035151
         ]
       }
     },
@@ -485,6 +512,24 @@
         "coordinates": [
           -43.056726,
           -22.9425868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11690957598",
+      "properties": {
+        "timestamp": "2024-03-04T14:38:18Z",
+        "version": 1,
+        "changeset": 148210086,
+        "entrance": "main",
+        "id": "node/11690957598"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1087233,
+          -22.903461
         ]
       }
     }

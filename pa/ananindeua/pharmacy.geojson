@@ -3,60 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": "way/503087982",
-      "properties": {
-        "timestamp": "2021-01-25T01:57:26Z",
-        "version": 2,
-        "changeset": 98080935,
-        "addr:city": "Ananindeua",
-        "addr:postcode": "67015-000",
-        "addr:street": "Rodovia Mário Covas",
-        "addr:suburb": "Coqueiro",
-        "amenity": "pharmacy",
-        "building": "yes",
-        "healthcare": "pharmacy",
-        "name": "Extrafarma Mário Covas",
-        "operator": "IMI Farma",
-        "id": "way/503087982"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -48.4211963,
-              -1.369073
-            ],
-            [
-              -48.4212114,
-              -1.3691323
-            ],
-            [
-              -48.4211273,
-              -1.3692322
-            ],
-            [
-              -48.4210424,
-              -1.3691747
-            ],
-            [
-              -48.421107,
-              -1.3691022
-            ],
-            [
-              -48.4211264,
-              -1.3691101
-            ],
-            [
-              -48.4211963,
-              -1.369073
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/1253952831",
       "properties": {
         "timestamp": "2024-02-23T13:17:05Z",
@@ -177,12 +123,15 @@
       "type": "Feature",
       "id": "node/4863246786",
       "properties": {
-        "timestamp": "2021-01-25T01:57:26Z",
-        "version": 2,
-        "changeset": 98080935,
+        "timestamp": "2024-03-04T22:55:04Z",
+        "version": 3,
+        "changeset": 148228205,
         "amenity": "pharmacy",
+        "branch": "Mário Covas",
+        "brand": "Extrafarma",
+        "brand:wikidata": "Q20055480",
         "healthcare": "pharmacy",
-        "name": "Extrafarma Mário Covas",
+        "name": "Extrafarma",
         "id": "node/4863246786"
       },
       "geometry": {

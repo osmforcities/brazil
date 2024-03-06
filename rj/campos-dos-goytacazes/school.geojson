@@ -1373,14 +1373,21 @@
       "type": "Feature",
       "id": "way/1251172326",
       "properties": {
-        "timestamp": "2024-02-16T14:38:31Z",
-        "version": 2,
-        "changeset": 147535191,
+        "timestamp": "2024-03-05T18:42:01Z",
+        "version": 3,
+        "changeset": 148263515,
         "addr:city": "Campos dos Goytacazes",
+        "addr:housenumber": "500",
+        "addr:postcode": "28083-102",
         "addr:street": "Avenida Senador José Carlos Pereira Pinto",
-        "addr:suburb": "Parque Calabouço",
+        "addr:suburb": "Parque Barão do Rio Branco",
+        "alt_name": "Ciep 056 Custódio Siqueira",
         "amenity": "school",
-        "name": "Ciep 056",
+        "email": "em.custodiosiqueira@edu.campos.rj.gov.br",
+        "name": "Escola Municipal Custódio Siqueira",
+        "operator": "Secretaria Municipal de Educação de Campos dos Goytacazes",
+        "operator:type": "public",
+        "phone": "+55 22 98131 1021",
         "id": "way/1251172326"
       },
       "geometry": {
@@ -1985,14 +1992,14 @@
       "type": "Feature",
       "id": "way/1253284086",
       "properties": {
-        "timestamp": "2024-02-21T14:31:45Z",
-        "version": 1,
-        "changeset": 147735640,
+        "timestamp": "2024-03-05T18:42:01Z",
+        "version": 2,
+        "changeset": 148263515,
         "addr:city": "Campos dos Goytacazes",
         "addr:housenumber": "03",
         "addr:postcode": "28022-030",
         "addr:street": "Rua das Hortências",
-        "addr:suburb": "Parque Imperial",
+        "addr:suburb": "Parque Bela Vista",
         "amenity": "school",
         "name": "Escola Municipal Rotary Um",
         "id": "way/1253284086"
@@ -4637,6 +4644,160 @@
             [
               -41.3335654,
               -21.7581317
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1257927042",
+      "properties": {
+        "timestamp": "2024-03-05T18:42:01Z",
+        "version": 1,
+        "changeset": 148263515,
+        "addr:city": "Campos dos Goytacazes",
+        "addr:housenumber": "647",
+        "addr:postcode": "28035-042",
+        "addr:street": "Avenida Tenente Coronel Cardoso",
+        "addr:suburb": "Parque Avenida Pelinca",
+        "amenity": "school",
+        "email": "em.amaroprata@edu.campos.rj.gov.br",
+        "name": "Escola Municipal Amaro Prata Tavares",
+        "operator": "Secretaria Municipal de Educação de Campos do Goytacazes",
+        "operator:type": "public",
+        "phone": "+55 22 98131 1028",
+        "id": "way/1257927042"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.3294777,
+              -21.7583494
+            ],
+            [
+              -41.3293488,
+              -21.7583937
+            ],
+            [
+              -41.3291819,
+              -21.7579754
+            ],
+            [
+              -41.3293109,
+              -21.757931
+            ],
+            [
+              -41.3294777,
+              -21.7583494
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1257927045",
+      "properties": {
+        "timestamp": "2024-03-05T18:42:01Z",
+        "version": 1,
+        "changeset": 148263515,
+        "addr:city": "Campos dos Goytacazes",
+        "addr:street": "Rua Capitão Menezes",
+        "addr:suburb": "Parque Barão do Rio Branco",
+        "amenity": "school",
+        "email": "ce.franciscoalvesdias@edu.campos.rj.gov.br",
+        "name": "Centro Escolar Francisco Alves Dias",
+        "operator": "Secretaria Municipal de Educação de Campos dos Goytacazes",
+        "operator:type": "public",
+        "phone": "+55 22 98131 0600",
+        "id": "way/1257927045"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.3085636,
+              -21.7326507
+            ],
+            [
+              -41.3080866,
+              -21.7330294
+            ],
+            [
+              -41.3080509,
+              -21.7330313
+            ],
+            [
+              -41.3078765,
+              -21.7328068
+            ],
+            [
+              -41.3078407,
+              -21.7327151
+            ],
+            [
+              -41.3082232,
+              -21.7323949
+            ],
+            [
+              -41.3083451,
+              -21.7323774
+            ],
+            [
+              -41.3085594,
+              -21.7326155
+            ],
+            [
+              -41.3085636,
+              -21.7326507
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1257927048",
+      "properties": {
+        "timestamp": "2024-03-05T18:42:01Z",
+        "version": 1,
+        "changeset": 148263515,
+        "addr:city": "Campos dos Goytacazes",
+        "addr:street": "Rua Amaro Machado",
+        "addr:suburb": "Parque Bela Vista",
+        "amenity": "school",
+        "name": "Creche Escolar Carlos Roberto Nunes de Carvalho",
+        "operator": "Secretaria Municipal de Educação de Campos dos Goytacazes",
+        "operator:type": "public",
+        "id": "way/1257927048"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.2931535,
+              -21.7993643
+            ],
+            [
+              -41.2930642,
+              -21.7995001
+            ],
+            [
+              -41.2928137,
+              -21.7993583
+            ],
+            [
+              -41.292903,
+              -21.7992224
+            ],
+            [
+              -41.2931535,
+              -21.7993643
             ]
           ]
         ]

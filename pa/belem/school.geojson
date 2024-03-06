@@ -2332,6 +2332,83 @@
     },
     {
       "type": "Feature",
+      "id": "way/1257633504",
+      "properties": {
+        "timestamp": "2024-03-05T00:38:21Z",
+        "version": 1,
+        "changeset": 148229654,
+        "amenity": "school",
+        "official_name": "Escola Municipal Deputado João Carlos Batista",
+        "id": "way/1257633504"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.437139,
+              -1.3662247
+            ],
+            [
+              -48.4374456,
+              -1.3664419
+            ],
+            [
+              -48.4369797,
+              -1.3670657
+            ],
+            [
+              -48.4366647,
+              -1.3668425
+            ],
+            [
+              -48.437139,
+              -1.3662247
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1257633506",
+      "properties": {
+        "timestamp": "2024-03-05T00:38:21Z",
+        "version": 1,
+        "changeset": 148229654,
+        "amenity": "school",
+        "id": "way/1257633506"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.4371889,
+              -1.3711043
+            ],
+            [
+              -48.4368375,
+              -1.3708371
+            ],
+            [
+              -48.4368643,
+              -1.3705772
+            ],
+            [
+              -48.4373776,
+              -1.3706401
+            ],
+            [
+              -48.4371889,
+              -1.3711043
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/505204961",
       "properties": {
         "timestamp": "2015-03-03T05:22:58Z",
@@ -3200,13 +3277,13 @@
       "type": "Feature",
       "id": "node/6860561071",
       "properties": {
-        "timestamp": "2019-11-12T18:23:15Z",
-        "version": 3,
-        "changeset": 76976462,
+        "timestamp": "2024-03-05T12:49:00Z",
+        "version": 4,
+        "changeset": 148249134,
         "addr:street": "Rua 6 de Setembro",
-        "addr:suburb": "TERRA FIRME",
+        "addr:suburb": "Terra Firme",
         "amenity": "school",
-        "name": "Escola de ensino fundamental ``novas luzes``",
+        "name": "Escola de Ensino Fundamental `Novas Luzes",
         "id": "node/6860561071"
       },
       "geometry": {
@@ -3214,103 +3291,6 @@
         "coordinates": [
           -48.4484587,
           -1.4659583
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/6860561072",
-      "properties": {
-        "timestamp": "2019-11-12T18:23:15Z",
-        "version": 2,
-        "changeset": 76976462,
-        "amenity": "school",
-        "name": "Escola de reforço",
-        "id": "node/6860561072"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.4498985,
-          -1.4655812
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/6860561073",
-      "properties": {
-        "timestamp": "2019-10-08T14:23:13Z",
-        "version": 1,
-        "changeset": 75418234,
-        "amenity": "school",
-        "name": "Escola Priv. Infantil",
-        "id": "node/6860561073"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.4485908,
-          -1.4653817
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/6860561074",
-      "properties": {
-        "timestamp": "2019-10-08T14:23:13Z",
-        "version": 1,
-        "changeset": 75418234,
-        "amenity": "school",
-        "name": "Escola de reforço",
-        "id": "node/6860561074"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.4490601,
-          -1.4652554
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/6860561075",
-      "properties": {
-        "timestamp": "2019-10-08T14:23:13Z",
-        "version": 1,
-        "changeset": 75418234,
-        "amenity": "school",
-        "name": "Escola de reforço (Matematica, quimica e física)",
-        "id": "node/6860561075"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.4485649,
-          -1.464903
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/6860561076",
-      "properties": {
-        "timestamp": "2019-10-08T14:23:13Z",
-        "version": 1,
-        "changeset": 75418234,
-        "addr:street": "Passagem Samaumeira",
-        "addr:suburb": "TERRA FIRME",
-        "amenity": "school",
-        "name": "Escola Priv. Infantil",
-        "id": "node/6860561076"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.4486388,
-          -1.4644166
         ]
       }
     },
@@ -3786,27 +3766,6 @@
         "coordinates": [
           -48.4485623,
           -1.4637674
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/6903684610",
-      "properties": {
-        "timestamp": "2019-10-21T18:52:46Z",
-        "version": 1,
-        "changeset": 76014340,
-        "addr:street": "Rua da Paz",
-        "addr:suburb": "TERRA FIRME",
-        "amenity": "school",
-        "name": "Escola de reforço",
-        "id": "node/6903684610"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.4480116,
-          -1.4641636
         ]
       }
     },

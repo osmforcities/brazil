@@ -5,12 +5,18 @@
       "type": "Feature",
       "id": "relation/7115836",
       "properties": {
-        "timestamp": "2017-03-28T15:35:50Z",
-        "version": 1,
-        "changeset": 47233061,
+        "timestamp": "2024-03-05T11:49:10Z",
+        "version": 2,
+        "changeset": 148246791,
+        "addr:city": "Caetité",
+        "addr:street": "Rua Augusto Ladeia",
+        "alt_name": "Colégio Municipal Deputado Luís Cabral",
         "amenity": "school",
         "barrier": "wall",
-        "name": "Colégio Municipal Deputado Luís Cabral",
+        "contact:mobile": "+55 77 9 8817 6719",
+        "operator": "Secretaria Municipal de Educação de Caetité",
+        "operator:type": "public",
+        "ref:INEP": "29334942",
         "type": "multipolygon",
         "id": "relation/7115836"
       },
@@ -2024,10 +2030,17 @@
       "type": "Feature",
       "id": "node/5493578384",
       "properties": {
-        "timestamp": "2018-03-21T12:15:36Z",
-        "version": 1,
-        "changeset": 57382971,
+        "timestamp": "2024-03-05T13:46:21Z",
+        "version": 2,
+        "changeset": 148251519,
+        "addr:city": "Caetité",
+        "addr:hamlet": "Curral Velho",
         "amenity": "school",
+        "contact:mobile": "+55 77 9 9962 4006",
+        "name": "Escola Municipal Professor Almir Públio de Castro",
+        "operator": "Secretaria Municipal de Educação de Caetité",
+        "operator:type": "public",
+        "ref:INEP": "29345600",
         "id": "node/5493578384"
       },
       "geometry": {
@@ -2400,6 +2413,59 @@
         "coordinates": [
           -42.3885607,
           -13.8408261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11693725242",
+      "properties": {
+        "timestamp": "2024-03-05T11:45:12Z",
+        "version": 1,
+        "changeset": 148246621,
+        "addr:city": "Caetité",
+        "addr:pos": "46420-000",
+        "addr:village": "Caldeiras",
+        "amenity": "school",
+        "contact:mobile": "+55 77 9 8838 4325",
+        "fixme": "Localização aproximada",
+        "name": "Escola Municipal Professora Emiliana Nogueira Pita",
+        "operator": "Secretaria Municipal de Educação de Caetité",
+        "operator:type": "public",
+        "ref:INEP": "29334810",
+        "id": "node/11693725242"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.5714088,
+          -13.6361083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11693976265",
+      "properties": {
+        "timestamp": "2024-03-05T13:32:55Z",
+        "version": 1,
+        "changeset": 148250974,
+        "addr:city": "Caetité",
+        "addr:hamlet": "Santa Luzia",
+        "amenity": "school",
+        "contact:mobile": "+55 77 9 9959 1908",
+        "fixme": "localização aproximada",
+        "name": "Escola Municipal Dom Manoel Raimundo de Melo",
+        "operator": "Secretaria Municipal de Educação de Caetité",
+        "operator:type": "public",
+        "ref:INEP": "29335019",
+        "id": "node/11693976265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.4380661,
+          -14.1455491
         ]
       }
     }

@@ -3016,11 +3016,11 @@
       "type": "Feature",
       "id": "node/2675797956",
       "properties": {
-        "timestamp": "2014-12-07T19:00:48Z",
-        "version": 3,
-        "changeset": 27318373,
+        "timestamp": "2024-03-07T17:56:31Z",
+        "version": 4,
+        "changeset": 148354130,
         "amenity": "toilets",
-        "emergency_service": "lifeguard",
+        "emergency": "lifeguard",
         "name": "Posto 10",
         "id": "node/2675797956"
       },
@@ -3036,11 +3036,11 @@
       "type": "Feature",
       "id": "node/2675797969",
       "properties": {
-        "timestamp": "2014-12-16T20:56:11Z",
-        "version": 4,
-        "changeset": 27516204,
+        "timestamp": "2024-03-07T17:56:16Z",
+        "version": 5,
+        "changeset": 148354122,
         "amenity": "toilets",
-        "emergency_service": "lifeguard",
+        "emergency": "lifeguard",
         "name": "Posto 11",
         "id": "node/2675797969"
       },
@@ -3056,11 +3056,11 @@
       "type": "Feature",
       "id": "node/2675797972",
       "properties": {
-        "timestamp": "2014-12-16T20:56:11Z",
-        "version": 5,
-        "changeset": 27516204,
+        "timestamp": "2024-03-07T17:56:02Z",
+        "version": 6,
+        "changeset": 148354115,
         "amenity": "toilets",
-        "emergency_service": "lifeguard",
+        "emergency": "lifeguard",
         "name": "Posto 12",
         "id": "node/2675797972"
       },
@@ -3076,11 +3076,11 @@
       "type": "Feature",
       "id": "node/2675797979",
       "properties": {
-        "timestamp": "2014-12-16T20:56:10Z",
-        "version": 5,
-        "changeset": 27516204,
+        "timestamp": "2024-03-07T17:56:44Z",
+        "version": 6,
+        "changeset": 148354141,
         "amenity": "toilets",
-        "emergency_service": "lifeguard",
+        "emergency": "lifeguard",
         "name": "Posto 9",
         "id": "node/2675797979"
       },
@@ -5654,6 +5654,25 @@
         "coordinates": [
           -43.1985512,
           -22.9407017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11699134991",
+      "properties": {
+        "timestamp": "2024-03-07T00:08:29Z",
+        "version": 1,
+        "changeset": 148319313,
+        "access": "yes",
+        "amenity": "toilets",
+        "id": "node/11699134991"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2033175,
+          -22.9722829
         ]
       }
     }

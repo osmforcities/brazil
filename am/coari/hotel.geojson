@@ -3,6 +3,49 @@
   "features": [
     {
       "type": "Feature",
+      "id": "way/1258628371",
+      "properties": {
+        "timestamp": "2024-03-07T12:18:17Z",
+        "version": 1,
+        "changeset": 148338874,
+        "addr:city": "Coari",
+        "addr:postcode": "69460-000",
+        "addr:street": "Rua Dois de Dezembro",
+        "addr:suburb": "Centro",
+        "building": "yes",
+        "tourism": "hotel",
+        "id": "way/1258628371"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -63.143916,
+              -4.084707
+            ],
+            [
+              -63.1439592,
+              -4.0847503
+            ],
+            [
+              -63.1438591,
+              -4.0848497
+            ],
+            [
+              -63.1438159,
+              -4.0848064
+            ],
+            [
+              -63.143916,
+              -4.084707
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/3051955247",
       "properties": {
         "timestamp": "2022-10-21T21:35:49Z",
@@ -207,28 +250,6 @@
         "coordinates": [
           -63.1395464,
           -4.0915384
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/3283770826",
-      "properties": {
-        "timestamp": "2022-10-21T21:33:09Z",
-        "version": 4,
-        "changeset": 127903458,
-        "addr:city": "Coari",
-        "addr:postcode": "69460-000",
-        "addr:street": "Rua Dois de Dezembro",
-        "addr:suburb": "Centro",
-        "tourism": "hotel",
-        "id": "node/3283770826"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.1439366,
-          -4.084759
         ]
       }
     },

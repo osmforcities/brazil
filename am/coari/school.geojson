@@ -844,27 +844,46 @@
     },
     {
       "type": "Feature",
-      "id": "node/3002808444",
+      "id": "way/719417354",
       "properties": {
-        "timestamp": "2015-11-16T20:10:31Z",
-        "version": 5,
-        "changeset": 35360480,
+        "timestamp": "2024-03-08T19:12:07Z",
+        "version": 3,
+        "changeset": 148398107,
         "addr:city": "Coari",
         "addr:postcode": "69460-000",
-        "addr:street": "Estrada Coari-Itapéua",
+        "addr:street": "Estrada Coari Itapeua",
         "addr:suburb": "Itamarati",
         "amenity": "school",
         "name": "Instituto Federal do Amazonas - Campus Coari",
-        "note": "Local sem número",
         "phone": "+55 97 35612470",
-        "website": "http://cco.ifam.edu.br",
-        "id": "node/3002808444"
+        "website": "http://www2.ifam.edu.br/campus/coari/",
+        "id": "way/719417354"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -63.1334879,
-          -4.1059176
+          [
+            [
+              -63.1347812,
+              -4.1057471
+            ],
+            [
+              -63.1332818,
+              -4.1068593
+            ],
+            [
+              -63.1316167,
+              -4.1054878
+            ],
+            [
+              -63.1333609,
+              -4.1045709
+            ],
+            [
+              -63.1347812,
+              -4.1057471
+            ]
+          ]
         ]
       }
     },

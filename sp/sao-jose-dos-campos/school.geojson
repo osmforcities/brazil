@@ -6581,11 +6581,17 @@
       "type": "Feature",
       "id": "node/1950127545",
       "properties": {
-        "timestamp": "2019-01-09T05:32:36Z",
-        "version": 2,
-        "changeset": 66149765,
+        "timestamp": "2024-03-08T17:16:03Z",
+        "version": 3,
+        "changeset": 148393923,
         "amenity": "school",
+        "contact:instagram": "univapcolegios",
+        "internet_access": "wlan",
         "name": "Univap",
+        "opening_hours": "Mo-Fr 07:00-17:00; Sa 07:00-12:30",
+        "operator": "FVE (Fundação Vale de Ensino)",
+        "phone": "01239289816",
+        "website": "https://www.univap.br/colegios/unidade-centro",
         "id": "node/1950127545"
       },
       "geometry": {
@@ -7298,6 +7304,30 @@
         "coordinates": [
           -45.7656573,
           -23.1318437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11705124069",
+      "properties": {
+        "timestamp": "2024-03-08T21:23:33Z",
+        "version": 3,
+        "changeset": 148402070,
+        "amenity": "school",
+        "contact:facebook": "colegiopoiese",
+        "contact:instagram": "colegiopoiese",
+        "name": "Poiese",
+        "name:pt": "Poíese",
+        "opening_hours": "Mo-Fr 07:00-18:30",
+        "phone": "012992126685",
+        "id": "node/11705124069"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.8881943,
+          -23.2365121
         ]
       }
     }

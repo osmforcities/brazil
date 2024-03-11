@@ -698,12 +698,61 @@
     },
     {
       "type": "Feature",
+      "id": "way/1259371500",
+      "properties": {
+        "timestamp": "2024-03-09T13:00:31Z",
+        "version": 1,
+        "changeset": 148421485,
+        "addr:city": "Campos do Goytacazes",
+        "addr:street": "Rua Rio Bonito",
+        "addr:suburb": "Parque Guarus",
+        "amenity": "clinic",
+        "building": "yes",
+        "building:levels": "1",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Unidade Básica de Saúde Doutor Félix Miranda",
+        "operator": "Secretaria Municipal de Saúde de Campos dos Goytacazes",
+        "operator:type": "public",
+        "id": "way/1259371500"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.3231261,
+              -21.7206216
+            ],
+            [
+              -41.3231527,
+              -21.7208638
+            ],
+            [
+              -41.3230226,
+              -21.7208761
+            ],
+            [
+              -41.3230067,
+              -21.7207304
+            ],
+            [
+              -41.3231261,
+              -21.7206216
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/3218311688",
       "properties": {
-        "timestamp": "2014-12-04T02:15:01Z",
-        "version": 1,
-        "changeset": 27216748,
+        "timestamp": "2024-03-09T10:45:42Z",
+        "version": 2,
+        "changeset": 148416411,
         "amenity": "clinic",
+        "healthcare": "clinic",
         "name": "UBS",
         "id": "node/3218311688"
       },

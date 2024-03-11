@@ -404,20 +404,22 @@
       "type": "Feature",
       "id": "way/1253955026",
       "properties": {
-        "timestamp": "2024-02-24T13:46:56Z",
-        "version": 2,
-        "changeset": 147855870,
+        "timestamp": "2024-03-09T21:53:29Z",
+        "version": 3,
+        "changeset": 148441443,
         "addr:postcode": "67030-325",
         "addr:street": "Rua Cláudio Sanders",
         "addr:suburb": "Centro",
         "amenity": "clinic",
         "building": "yes",
         "healthcare": "clinic",
+        "healthcare:speciality": "general",
         "name": "Unidade Básica de Saúde Ananindeua",
         "opening_hours": "Mo-Fr 07:00-18:00; Sa,Su 07:00-13:00; PH off",
         "operator": "Secretaria Municipal de Saúde",
         "operator:type": "government",
         "ref:CNES": "2328690",
+        "short_name": "UBS Ananindeua",
         "source": "CNES",
         "id": "way/1253955026"
       },
@@ -852,6 +854,61 @@
             [
               -48.3624397,
               -1.3538958
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1259534977",
+      "properties": {
+        "timestamp": "2024-03-09T22:47:47Z",
+        "version": 1,
+        "changeset": 148442892,
+        "addr:postcode": "67113-784",
+        "addr:street": "Rua da Paz",
+        "addr:suburb": "Loteamento Nova Zelândia",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Unidade Básica de Saúde Nova Zelândia",
+        "opening_hours": "Mo-Fr 07:00-18:00; Sa 08:00-13:00; PH off",
+        "operator": "Secretaria Municipal de Saúde",
+        "operator:type": "government",
+        "ref:CNES": "7550545",
+        "short_name": "UBS Nova Zelândia",
+        "source": "CNES;https://ananindeua.pa.gov.br/mapas/index?grupo=5",
+        "id": "way/1259534977"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.4197321,
+              -1.3819592
+            ],
+            [
+              -48.4197103,
+              -1.3820653
+            ],
+            [
+              -48.4193989,
+              -1.3819891
+            ],
+            [
+              -48.4194139,
+              -1.3819361
+            ],
+            [
+              -48.4194234,
+              -1.3818709
+            ],
+            [
+              -48.4197321,
+              -1.3819592
             ]
           ]
         ]

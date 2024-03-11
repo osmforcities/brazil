@@ -1629,64 +1629,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/966596814",
-      "properties": {
-        "timestamp": "2021-07-25T19:21:53Z",
-        "version": 2,
-        "changeset": 108578024,
-        "addr:housenumber": "11",
-        "addr:postcode": "06864-170",
-        "addr:street": "Rua Monteiro Lobato",
-        "addr:suburb": "Jardim Jacira",
-        "amenity": "school",
-        "contact:phone": "+55 11 4669 0285",
-        "email": "e036407a@educacao.sp.gov.br",
-        "name": "Escola Estadual Jardim Jacira",
-        "operator": "Secrataria da Educação do Estado de São Paulo",
-        "operator:type": "government",
-        "phone": "+55 11 4669 1678",
-        "ref": "INEP-35036407",
-        "source": "CADMEC 2017;INEP",
-        "id": "way/966596814"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -46.7983077,
-              -23.7461721
-            ],
-            [
-              -46.7985439,
-              -23.746683
-            ],
-            [
-              -46.7979169,
-              -23.747129
-            ],
-            [
-              -46.7972033,
-              -23.7465228
-            ],
-            [
-              -46.7980103,
-              -23.7462331
-            ],
-            [
-              -46.7982611,
-              -23.7461356
-            ],
-            [
-              -46.7983077,
-              -23.7461721
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/966611969",
       "properties": {
         "timestamp": "2021-07-23T00:01:16Z",
@@ -2433,6 +2375,51 @@
             [
               -46.7957843,
               -23.7459538
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/967362066",
+      "properties": {
+        "timestamp": "2024-03-09T22:26:56Z",
+        "version": 2,
+        "changeset": 148442359,
+        "addr:street": "Rua Monteiro Lobato",
+        "addr:suburb": "Jardim Jacira",
+        "amenity": "school",
+        "email": "e036407a@educacao.sp.gov.br",
+        "name": "Escola Estadual Jardim Jacira",
+        "operator": "Secrataria da Educação do Estado de São Paulo",
+        "operator:type": "government",
+        "source": "INEP;CADMEC 2017",
+        "id": "way/967362066"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.7972001,
+              -23.7465532
+            ],
+            [
+              -46.7980479,
+              -23.7473097
+            ],
+            [
+              -46.7972137,
+              -23.7472687
+            ],
+            [
+              -46.7966284,
+              -23.7467668
+            ],
+            [
+              -46.7972001,
+              -23.7465532
             ]
           ]
         ]

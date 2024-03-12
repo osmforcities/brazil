@@ -1714,9 +1714,9 @@
       "type": "Feature",
       "id": "way/438167742",
       "properties": {
-        "timestamp": "2017-08-13T01:32:33Z",
-        "version": 5,
-        "changeset": 51070683,
+        "timestamp": "2024-03-10T22:36:32Z",
+        "version": 7,
+        "changeset": 148482500,
         "addr:city": "Guarulhos",
         "addr:country": "BR",
         "addr:housenumber": "302",
@@ -1724,6 +1724,7 @@
         "addr:street": "Rua Professora Maria Del Pilar Muñoz Bononato",
         "addr:suburb": "Parque Cecap",
         "amenity": "school",
+        "barrier": "wall",
         "contact:phone": "+55 11 2408 9248",
         "email": "e006166a@educacao.sp.gov.br",
         "name": "Escola Estadual Francisco Antunes Filho",
@@ -1736,20 +1737,28 @@
         "coordinates": [
           [
             [
-              -46.4966851,
-              -23.4622976
+              -46.4967082,
+              -23.462323
             ],
             [
-              -46.496314,
-              -23.4631488
+              -46.4966934,
+              -23.4623586
             ],
             [
-              -46.4962737,
-              -23.4632153
+              -46.496488,
+              -23.4628529
             ],
             [
-              -46.4962416,
-              -23.46323
+              -46.496351,
+              -23.4631827
+            ],
+            [
+              -46.4962752,
+              -23.4632549
+            ],
+            [
+              -46.4962092,
+              -23.4632752
             ],
             [
               -46.4961048,
@@ -1760,16 +1769,24 @@
               -23.4630086
             ],
             [
+              -46.4954299,
+              -23.4629777
+            ],
+            [
               -46.4954047,
               -23.4629298
             ],
             [
-              -46.4957782,
-              -23.4619792
+              -46.4956158,
+              -23.462453
             ],
             [
-              -46.4966851,
-              -23.4622976
+              -46.4958106,
+              -23.4620131
+            ],
+            [
+              -46.4967082,
+              -23.462323
             ]
           ]
         ]
@@ -10834,6 +10851,28 @@
         "coordinates": [
           -46.4008358,
           -23.4424909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11712237964",
+      "properties": {
+        "timestamp": "2024-03-10T22:32:55Z",
+        "version": 1,
+        "changeset": 148482395,
+        "addr:city": "Guarulhos",
+        "addr:housenumber": "302",
+        "addr:postcode": "07190-029",
+        "addr:street": "Rua Professora Maria Del Pilar Muñoz Bononato",
+        "entrance": "main",
+        "id": "node/11712237964"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4956158,
+          -23.462453
         ]
       }
     }

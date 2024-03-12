@@ -57,13 +57,23 @@
       "type": "Feature",
       "id": "way/506518799",
       "properties": {
-        "timestamp": "2022-04-16T22:55:02Z",
-        "version": 5,
-        "changeset": 119800700,
+        "timestamp": "2024-03-10T22:56:23Z",
+        "version": 6,
+        "changeset": 148482935,
         "addr:city": "Ananindeua",
+        "addr:housenumber": "01",
+        "addr:street": "Rodovia Mário Covas",
         "amenity": "clinic",
         "building": "yes",
         "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Unidade Básica de Saúde Coqueiro",
+        "opening_hours": "Mo-Fr 08:00-18:00; PH off",
+        "operator": "Secretaria Municipal da Saúde",
+        "operator:type": "government",
+        "ref:CNES": "3438260",
+        "short_name": "UBS Coqueiro",
+        "source": "CNES",
         "id": "way/506518799"
       },
       "geometry": {
@@ -395,6 +405,61 @@
             [
               -48.3678233,
               -1.3524742
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1133941411",
+      "properties": {
+        "timestamp": "2024-03-10T22:46:37Z",
+        "version": 2,
+        "changeset": 148482711,
+        "addr:street": "Estrada do Icui Guajará II",
+        "addr:suburb": "40 Horas",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Unidae Básica de Saúde Pérola II",
+        "operator": "Secretaria Municipal de Saúde",
+        "short_name": "UBS Pérola II",
+        "source": "https://ananindeua.pa.gov.br/mapas/index?grupo=5",
+        "id": "way/1133941411"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.4150546,
+              -1.3408394
+            ],
+            [
+              -48.4150475,
+              -1.3409497
+            ],
+            [
+              -48.4148985,
+              -1.3409401
+            ],
+            [
+              -48.414903,
+              -1.3408688
+            ],
+            [
+              -48.4149326,
+              -1.3408707
+            ],
+            [
+              -48.4149351,
+              -1.3408317
+            ],
+            [
+              -48.4150546,
+              -1.3408394
             ]
           ]
         ]

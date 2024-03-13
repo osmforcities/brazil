@@ -101,6 +101,59 @@
     },
     {
       "type": "Feature",
+      "id": "way/1260419403",
+      "properties": {
+        "timestamp": "2024-03-11T02:39:15Z",
+        "version": 1,
+        "changeset": 148486246,
+        "addr:street": "Rua Santa Fé",
+        "addr:suburb": "Icuí-Guajará",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Drogarias paraense",
+        "id": "way/1260419403"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.4040746,
+              -1.3337353
+            ],
+            [
+              -48.4041072,
+              -1.3338196
+            ],
+            [
+              -48.4040012,
+              -1.3338672
+            ],
+            [
+              -48.4039577,
+              -1.3337666
+            ],
+            [
+              -48.4039971,
+              -1.3337475
+            ],
+            [
+              -48.4040025,
+              -1.3337638
+            ],
+            [
+              -48.4040746,
+              -1.3337353
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/4570219190",
       "properties": {
         "timestamp": "2021-01-25T01:57:26Z",
@@ -182,6 +235,32 @@
         "coordinates": [
           -48.4025448,
           -1.3555312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11715131221",
+      "properties": {
+        "timestamp": "2024-03-11T02:39:15Z",
+        "version": 1,
+        "changeset": 148486246,
+        "addr:housenumber": "35",
+        "addr:street": "Rua Santa Fé",
+        "addr:suburb": "Icuí-Guajará",
+        "amenity": "pharmacy",
+        "branch": "Icuí",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "website": "https://precobaixoatacadista.com.br/icui/",
+        "id": "node/11715131221"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.403532,
+          -1.3330936
         ]
       }
     }

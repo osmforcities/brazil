@@ -315,6 +315,52 @@
     },
     {
       "type": "Feature",
+      "id": "way/1261997150",
+      "properties": {
+        "timestamp": "2024-03-12T22:11:35Z",
+        "version": 1,
+        "changeset": 148569153,
+        "addr:city": "Coronel Fabriciano",
+        "addr:housenumber": "170",
+        "addr:postcode": "35171-095",
+        "addr:street": "Rua Joaquim Gomes da Silveira Neto",
+        "addr:suburb": "JK",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general;dentistry;emergency;palliative;vaccination;trauma",
+        "name": "UBS JK",
+        "id": "way/1261997150"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.6268479,
+              -19.5104167
+            ],
+            [
+              -42.6269583,
+              -19.5105598
+            ],
+            [
+              -42.626744,
+              -19.5106877
+            ],
+            [
+              -42.6266312,
+              -19.5105361
+            ],
+            [
+              -42.6268479,
+              -19.5104167
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/2593214392",
       "properties": {
         "timestamp": "2021-01-26T14:03:25Z",
@@ -370,26 +416,6 @@
         "coordinates": [
           -42.6219101,
           -19.4887886
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/2974821338",
-      "properties": {
-        "timestamp": "2021-03-25T19:25:01Z",
-        "version": 2,
-        "changeset": 101741498,
-        "amenity": "hospital",
-        "healthcare": "hospital",
-        "name": "Unidade Básica de Saúde - JK",
-        "id": "node/2974821338"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -42.6270872,
-          -19.510118
         ]
       }
     },

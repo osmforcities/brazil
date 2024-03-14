@@ -2272,11 +2272,11 @@
       "type": "Feature",
       "id": "way/722624378",
       "properties": {
-        "timestamp": "2020-12-07T03:58:36Z",
-        "version": 3,
-        "changeset": 95389695,
+        "timestamp": "2024-03-12T02:43:07Z",
+        "version": 4,
+        "changeset": 148529590,
         "amenity": "school",
-        "name": "C. E. Margarida Pires Leal",
+        "name": "Centro Educa Mais Professora Margarida Pires Leal",
         "id": "way/722624378"
       },
       "geometry": {
@@ -2284,32 +2284,28 @@
         "coordinates": [
           [
             [
-              -44.2691637,
-              -2.5383112
+              -44.2693658,
+              -2.5382355
             ],
             [
-              -44.2693896,
-              -2.5386603
+              -44.2695563,
+              -2.5385896
             ],
             [
-              -44.2689184,
-              -2.53893
+              -44.2689583,
+              -2.538922
             ],
             [
-              -44.2688787,
-              -2.5388498
-            ],
-            [
-              -44.2685707,
-              -2.5390228
+              -44.26863,
+              -2.5391003
             ],
             [
               -44.2683934,
               -2.5386977
             ],
             [
-              -44.2691637,
-              -2.5383112
+              -44.2693658,
+              -2.5382355
             ]
           ]
         ]
@@ -4708,11 +4704,11 @@
       "type": "Feature",
       "id": "way/873108275",
       "properties": {
-        "timestamp": "2021-12-17T15:47:37Z",
-        "version": 2,
-        "changeset": 115061811,
+        "timestamp": "2024-03-12T02:43:07Z",
+        "version": 3,
+        "changeset": 148529590,
         "amenity": "school",
-        "name": "Centro De Ensino Estado De Alagoas",
+        "name": "Centro De Ensino Professora Janilde Silva de Aquino",
         "id": "way/873108275"
       },
       "geometry": {
@@ -4960,11 +4956,11 @@
       "type": "Feature",
       "id": "way/880327610",
       "properties": {
-        "timestamp": "2020-12-02T18:31:42Z",
-        "version": 1,
-        "changeset": 95172436,
+        "timestamp": "2024-03-12T02:43:07Z",
+        "version": 2,
+        "changeset": 148529590,
         "amenity": "school",
-        "name": "U. E. Sagarana II",
+        "name": "Centro de Ensino. Sagarana II",
         "id": "way/880327610"
       },
       "geometry": {
@@ -4972,24 +4968,77 @@
         "coordinates": [
           [
             [
-              -44.2712124,
-              -2.538792
+              -44.2711687,
+              -2.5387982
             ],
             [
-              -44.2707081,
-              -2.5390358
+              -44.2710764,
+              -2.5388497
             ],
             [
-              -44.2703275,
-              -2.538311
+              -44.2708038,
+              -2.5383693
             ],
             [
-              -44.2709847,
-              -2.5380737
+              -44.2704924,
+              -2.5385338
             ],
             [
-              -44.2712124,
-              -2.538792
+              -44.270462,
+              -2.5384755
+            ],
+            [
+              -44.2704316,
+              -2.5384171
+            ],
+            [
+              -44.2709868,
+              -2.5381236
+            ],
+            [
+              -44.2711687,
+              -2.5387982
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/880327611",
+      "properties": {
+        "timestamp": "2024-03-12T02:43:07Z",
+        "version": 4,
+        "changeset": 148529590,
+        "addr:street": "Rua Carlos Macieira",
+        "addr:suburb": "Caratatiua",
+        "amenity": "school",
+        "name": "Centro de Educação Especial Professora Maria da Glória Costa Arcangeli",
+        "id": "way/880327611"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.2692258,
+              -2.5394418
+            ],
+            [
+              -44.268857,
+              -2.5395298
+            ],
+            [
+              -44.26863,
+              -2.5391003
+            ],
+            [
+              -44.2689583,
+              -2.538922
+            ],
+            [
+              -44.2692258,
+              -2.5394418
             ]
           ]
         ]
@@ -17503,6 +17552,24 @@
         "coordinates": [
           -44.2453373,
           -2.5152705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11721667020",
+      "properties": {
+        "timestamp": "2024-03-12T02:43:07Z",
+        "version": 1,
+        "changeset": 148529590,
+        "entrance": "yes",
+        "id": "node/11721667020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.270462,
+          -2.5384755
         ]
       }
     }

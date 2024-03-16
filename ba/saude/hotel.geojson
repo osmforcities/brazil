@@ -1,0 +1,79 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1262325461",
+      "properties": {
+        "timestamp": "2024-03-13T21:08:24Z",
+        "version": 1,
+        "changeset": 148613305,
+        "building": "yes",
+        "height": "20",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "rooms": "15",
+        "tourism": "hotel",
+        "id": "way/1262325461"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.4199035,
+              -10.9427776
+            ],
+            [
+              -40.4199165,
+              -10.9427721
+            ],
+            [
+              -40.4199676,
+              -10.9428888
+            ],
+            [
+              -40.4197891,
+              -10.9429642
+            ],
+            [
+              -40.4197554,
+              -10.9428875
+            ],
+            [
+              -40.4197379,
+              -10.9428475
+            ],
+            [
+              -40.4197406,
+              -10.9428464
+            ],
+            [
+              -40.4199035,
+              -10.9427776
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11728736246",
+      "properties": {
+        "timestamp": "2024-03-13T21:08:24Z",
+        "version": 1,
+        "changeset": 148613305,
+        "name": "Hotel Brasil",
+        "tourism": "hotel",
+        "id": "node/11728736246"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.4198551,
+          -10.9428691
+        ]
+      }
+    }
+  ]
+}

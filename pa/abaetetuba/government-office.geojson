@@ -5,12 +5,16 @@
       "type": "Feature",
       "id": "way/1128105859",
       "properties": {
-        "timestamp": "2023-01-08T01:22:53Z",
-        "version": 1,
-        "changeset": 131000764,
+        "timestamp": "2024-03-13T19:03:08Z",
+        "version": 2,
+        "changeset": 148609005,
         "building": "yes",
+        "government": "social_security",
         "name": "Instituto Nacional do Seguro Social - Abaetetuba",
         "office": "government",
+        "operator": "Instituto Nacional do Seguro Social",
+        "operator:short": "INSS",
+        "operator:wikidata": "Q10302614",
         "id": "way/1128105859"
       },
       "geometry": {
@@ -178,6 +182,54 @@
     },
     {
       "type": "Feature",
+      "id": "node/4365306509",
+      "properties": {
+        "timestamp": "2024-03-13T19:03:08Z",
+        "version": 2,
+        "changeset": 148609005,
+        "addr:city": "Abaetetuba",
+        "addr:housenumber": "1730",
+        "addr:street": "Rua Lauro Sodré",
+        "addr:suburb": "Centro",
+        "government": "healthcare",
+        "name": "Setor de Endemias",
+        "office": "government",
+        "id": "node/4365306509"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.8856026,
+          -1.7222504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4365306510",
+      "properties": {
+        "timestamp": "2024-03-13T19:03:08Z",
+        "version": 2,
+        "changeset": 148609005,
+        "addr:city": "Abaetetuba",
+        "addr:housenumber": "1730",
+        "addr:street": "Rua Lauro Sodré",
+        "addr:suburb": "Centro",
+        "government": "healthcare",
+        "name": "Coordenação de Vigilância em Saúde",
+        "office": "government",
+        "id": "node/4365306510"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.8856636,
+          -1.7222382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/4365439191",
       "properties": {
         "timestamp": "2016-09-26T14:30:18Z",
@@ -278,9 +330,10 @@
       "type": "Feature",
       "id": "node/4365439196",
       "properties": {
-        "timestamp": "2016-08-24T21:02:15Z",
-        "version": 1,
-        "changeset": 41673560,
+        "timestamp": "2024-03-13T19:03:08Z",
+        "version": 2,
+        "changeset": 148609005,
+        "government": "yes",
         "name": "Secretaria Municipal de Agricultura",
         "office": "government",
         "id": "node/4365439196"
@@ -290,6 +343,25 @@
         "coordinates": [
           -48.8852303,
           -1.7202746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5615381810",
+      "properties": {
+        "timestamp": "2024-03-13T19:03:08Z",
+        "version": 2,
+        "changeset": 148609005,
+        "name": "DETRAN de Abaetetuba",
+        "office": "government",
+        "id": "node/5615381810"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.8821325,
+          -1.7163119
         ]
       }
     }

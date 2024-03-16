@@ -1667,6 +1667,63 @@
     },
     {
       "type": "Feature",
+      "id": "way/1114977028",
+      "properties": {
+        "timestamp": "2024-03-13T14:33:28Z",
+        "version": 2,
+        "changeset": 148597012,
+        "addr:city": "Teresina",
+        "addr:street": "Avenida Nossa Senhora de Fátima",
+        "amenity": "pharmacy",
+        "brand": "Drogaria Globo",
+        "brand:wikidata": "Q56351623",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Drogaria Globo",
+        "id": "way/1114977028"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.7910735,
+              -5.076521
+            ],
+            [
+              -42.7910448,
+              -5.0766436
+            ],
+            [
+              -42.7910266,
+              -5.0766506
+            ],
+            [
+              -42.7908182,
+              -5.0765921
+            ],
+            [
+              -42.7908161,
+              -5.076583
+            ],
+            [
+              -42.7908385,
+              -5.0764918
+            ],
+            [
+              -42.7908826,
+              -5.0764688
+            ],
+            [
+              -42.7910735,
+              -5.076521
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1176799893",
       "properties": {
         "timestamp": "2023-05-28T02:45:33Z",
@@ -1985,6 +2042,52 @@
             [
               -42.779556,
               -5.0813683
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1262213912",
+      "properties": {
+        "timestamp": "2024-03-13T14:33:28Z",
+        "version": 1,
+        "changeset": 148597012,
+        "addr:city": "Teresina",
+        "addr:street": "Avenida Jóquei Clube",
+        "addr:suburb": "Jóquei",
+        "amenity": "pharmacy",
+        "brand": "Pague Menos",
+        "brand:wikidata": "Q7124466",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Pague Menos",
+        "id": "way/1262213912"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.787261,
+              -5.075383
+            ],
+            [
+              -42.7872285,
+              -5.0755106
+            ],
+            [
+              -42.7870028,
+              -5.0754458
+            ],
+            [
+              -42.7870374,
+              -5.0753202
+            ],
+            [
+              -42.787261,
+              -5.075383
             ]
           ]
         ]
@@ -3989,33 +4092,6 @@
         "coordinates": [
           -42.8159558,
           -5.091568
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/9247348437",
-      "properties": {
-        "timestamp": "2023-11-29T22:14:23Z",
-        "version": 3,
-        "changeset": 144605638,
-        "addr:city": "Teresina",
-        "addr:street": "Avenida João XXIII",
-        "addr:suburb": "Noivos",
-        "amenity": "pharmacy",
-        "brand": "Drogaria Globo",
-        "brand:wikidata": "Q56351623",
-        "brand:wikipedia": "pt:Drogarias Globo",
-        "dispensing": "yes",
-        "healthcare": "pharmacy",
-        "name": "Drogaria Globo",
-        "id": "node/9247348437"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -42.7794397,
-          -5.0814039
         ]
       }
     },

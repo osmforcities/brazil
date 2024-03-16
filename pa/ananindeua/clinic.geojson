@@ -285,6 +285,68 @@
     },
     {
       "type": "Feature",
+      "id": "way/1088544523",
+      "properties": {
+        "timestamp": "2024-03-13T21:58:12Z",
+        "version": 2,
+        "changeset": 148614661,
+        "amenity": "clinic",
+        "building": "house",
+        "healthcare": "clinic",
+        "name": "Unidade Básica de Saúde Icuí",
+        "short_name": "UBS Icuí",
+        "id": "way/1088544523"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.4102392,
+              -1.3358547
+            ],
+            [
+              -48.4100058,
+              -1.335779
+            ],
+            [
+              -48.4100243,
+              -1.3357346
+            ],
+            [
+              -48.410038,
+              -1.3356783
+            ],
+            [
+              -48.4102734,
+              -1.3357493
+            ],
+            [
+              -48.4102691,
+              -1.3357607
+            ],
+            [
+              -48.4102801,
+              -1.3357659
+            ],
+            [
+              -48.4102629,
+              -1.335817
+            ],
+            [
+              -48.4102526,
+              -1.3358127
+            ],
+            [
+              -48.4102392,
+              -1.3358547
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1090538584",
       "properties": {
         "timestamp": "2024-02-28T21:04:13Z",
@@ -328,6 +390,72 @@
             [
               -48.393207,
               -1.3942962
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1093911016",
+      "properties": {
+        "timestamp": "2024-03-13T02:37:56Z",
+        "version": 2,
+        "changeset": 148573371,
+        "addr:postcode": "67143-380",
+        "addr:street": "Travessa We 62A",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general;https://ananindeua.pa.gov.br/mapas/index?grupo=5",
+        "name": "Unidade Básica de Saúde Guajará I",
+        "opening_hours": "MO-Fr 07:00-17:00; Sa,Su 08:00-13:00; PH off",
+        "operator": "Secretaria Municipal de Saúde",
+        "operator:type": "government",
+        "ref:CNES": "5808324",
+        "short_name": "UBS Guajará I",
+        "source": "CNES",
+        "id": "way/1093911016"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.3863684,
+              -1.3552929
+            ],
+            [
+              -48.3861042,
+              -1.3552858
+            ],
+            [
+              -48.3861064,
+              -1.3552022
+            ],
+            [
+              -48.3861658,
+              -1.3552058
+            ],
+            [
+              -48.3861759,
+              -1.3551832
+            ],
+            [
+              -48.3862362,
+              -1.3551781
+            ],
+            [
+              -48.3862372,
+              -1.355203
+            ],
+            [
+              -48.3863707,
+              -1.3552094
+            ],
+            [
+              -48.3863684,
+              -1.3552929
             ]
           ]
         ]
@@ -731,20 +859,21 @@
       "type": "Feature",
       "id": "way/1256392878",
       "properties": {
-        "timestamp": "2024-03-01T02:10:48Z",
-        "version": 2,
-        "changeset": 148078085,
+        "timestamp": "2024-03-13T21:24:09Z",
+        "version": 3,
+        "changeset": 148613727,
         "addr:postcode": "67.033-215",
         "addr:street": "Rua 2 de Junho",
         "amenity": "clinic",
         "building": "yes",
         "healthcare": "clinic",
         "healthcare:speciality": "general",
-        "name": "Unidade de Saúde Águas Brancas",
+        "name": "Unidade Básica de Saúde Águas Brancas",
         "opening_hours": "Mo-Fr 07:00-18:00; Sa,Su 08:00-13:00; PH off",
         "operator": "Secretaria Municipal de Saúde",
         "operator:type": "government",
         "ref:CNES": "2614995",
+        "short_name": "UBS Águas Brancas",
         "source": "CNES;https://ananindeua.pa.gov.br/mapas/index?grupo=5",
         "id": "way/1256392878"
       },

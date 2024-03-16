@@ -1155,6 +1155,54 @@
     },
     {
       "type": "Feature",
+      "id": "way/1262250844",
+      "properties": {
+        "timestamp": "2024-03-13T16:41:40Z",
+        "version": 1,
+        "changeset": 148603157,
+        "addr:city": "Mossoró-RN",
+        "addr:housenumber": "44",
+        "addr:postcode": "59600012",
+        "addr:street": "Travessa Mossoroense",
+        "addr:suburb": "Centro",
+        "building": "commercial",
+        "government": "register_office",
+        "name": "4º Cartório Mossoró",
+        "office": "government",
+        "operator": "valdantaz",
+        "phone": "+558433216610",
+        "id": "way/1262250844"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -37.3402118,
+              -5.1941192
+            ],
+            [
+              -37.3400792,
+              -5.1940646
+            ],
+            [
+              -37.3401708,
+              -5.1938833
+            ],
+            [
+              -37.340266,
+              -5.1939595
+            ],
+            [
+              -37.3402118,
+              -5.1941192
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/5700718256",
       "properties": {
         "timestamp": "2018-09-06T18:32:45Z",
@@ -1227,9 +1275,9 @@
       "type": "Feature",
       "id": "node/9393333894",
       "properties": {
-        "timestamp": "2022-01-05T01:08:23Z",
-        "version": 1,
-        "changeset": 115776600,
+        "timestamp": "2024-03-13T16:41:40Z",
+        "version": 2,
+        "changeset": 148603157,
         "addr:city": "Mossoró-RN",
         "addr:housenumber": "44A",
         "addr:postcode": "59600010",
@@ -1243,8 +1291,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -37.3402606,
-          -5.1939736
+          -37.340266,
+          -5.1939595
         ]
       }
     }

@@ -1234,57 +1234,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/456476181",
-      "properties": {
-        "timestamp": "2023-10-29T18:11:45Z",
-        "version": 5,
-        "changeset": 143325071,
-        "addr:housenumber": "20",
-        "addr:postcode": "40020-000",
-        "addr:street": "Rua Chile",
-        "building": "yes",
-        "building:levels": "8",
-        "name": "Fera Palace Hotel",
-        "phone": "+55 71 30369200",
-        "stars": "5",
-        "tourism": "hotel",
-        "website": "https://ferapalacehotel.com.br/",
-        "id": "way/456476181"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -38.5135899,
-              -12.975996
-            ],
-            [
-              -38.5138704,
-              -12.9762895
-            ],
-            [
-              -38.5138437,
-              -12.9763151
-            ],
-            [
-              -38.5133398,
-              -12.9761851
-            ],
-            [
-              -38.5133871,
-              -12.9761521
-            ],
-            [
-              -38.5135899,
-              -12.975996
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/456634061",
       "properties": {
         "timestamp": "2022-08-29T03:30:22Z",
@@ -1895,54 +1844,6 @@
             [
               -38.5324541,
               -13.0021146
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/742155845",
-      "properties": {
-        "timestamp": "2023-11-05T15:11:27Z",
-        "version": 4,
-        "changeset": 143654326,
-        "addr:housenumber": "5",
-        "addr:street": "Praça Castro Alves",
-        "building": "yes",
-        "building:levels": "8",
-        "name": "Hotel Fasano",
-        "phone": "+55 71 2201 6300",
-        "stars": "5",
-        "tourism": "hotel",
-        "website": "https://fasano.com.br/hoteis/fasano-salvador",
-        "wikidata": "Q105215538",
-        "wikimedia_commons": "Category:Hotel Fasano Salvador",
-        "id": "way/742155845"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -38.5142708,
-              -12.9767778
-            ],
-            [
-              -38.5142219,
-              -12.9770567
-            ],
-            [
-              -38.5139398,
-              -12.9770062
-            ],
-            [
-              -38.5140177,
-              -12.976719
-            ],
-            [
-              -38.5142708,
-              -12.9767778
             ]
           ]
         ]
@@ -2611,50 +2512,6 @@
             [
               -38.4058522,
               -12.9626636
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1219359746",
-      "properties": {
-        "timestamp": "2023-10-29T18:15:12Z",
-        "version": 2,
-        "changeset": 143325177,
-        "addr:housenumber": "7",
-        "building": "yes",
-        "tourism": "hotel",
-        "id": "way/1219359746"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -38.5137045,
-              -12.9755474
-            ],
-            [
-              -38.5134889,
-              -12.9757355
-            ],
-            [
-              -38.5133494,
-              -12.9755923
-            ],
-            [
-              -38.5133703,
-              -12.9755765
-            ],
-            [
-              -38.5135865,
-              -12.9754135
-            ],
-            [
-              -38.5137045,
-              -12.9755474
             ]
           ]
         ]
@@ -6332,6 +6189,24 @@
         "coordinates": [
           -38.4408527,
           -12.9936508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11729279998",
+      "properties": {
+        "timestamp": "2024-03-14T01:26:51Z",
+        "version": 1,
+        "changeset": 148618388,
+        "tourism": "hotel",
+        "id": "node/11729279998"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5135301,
+          -12.9755612
         ]
       }
     }

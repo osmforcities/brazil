@@ -287,14 +287,19 @@
       "type": "Feature",
       "id": "way/1088544523",
       "properties": {
-        "timestamp": "2024-03-13T21:58:12Z",
-        "version": 2,
-        "changeset": 148614661,
+        "timestamp": "2024-03-14T00:00:36Z",
+        "version": 3,
+        "changeset": 148617265,
+        "addr:street": "Estrada do Icuí Guajará",
         "amenity": "clinic",
         "building": "house",
         "healthcare": "clinic",
+        "healthcare:speciality": "general",
         "name": "Unidade Básica de Saúde Icuí",
+        "operator": "Secretaria Municipal de Saúde",
+        "operator:type": "government",
         "short_name": "UBS Icuí",
+        "source": "https://ananindeua.pa.gov.br/mapas/index?grupo=5",
         "id": "way/1088544523"
       },
       "geometry": {
@@ -465,9 +470,9 @@
       "type": "Feature",
       "id": "way/1095648852",
       "properties": {
-        "timestamp": "2024-03-03T23:46:18Z",
-        "version": 3,
-        "changeset": 148185337,
+        "timestamp": "2024-03-14T02:22:59Z",
+        "version": 4,
+        "changeset": 148618989,
         "addr:housenumber": "01",
         "addr:postcode": "67130-040",
         "addr:street": "Estrada do Curucamba",
@@ -476,11 +481,12 @@
         "building": "yes",
         "healthcare": "clinic",
         "healthcare:speciality": "general",
-        "name": "Unidade Básica de Saúde Curuçambá",
+        "name": "Unidade Básica de Saúde Curuçambá Rural",
         "opening_hours": "Mo-Fr 08:00-17:00; PH off",
         "operator": "Secretaria Municipal de Saúde",
         "operator:type": "government",
         "ref:CNES": "2328569",
+        "short_name": "UBS Curuçambá Rural",
         "source": "CNES",
         "id": "way/1095648852"
       },
@@ -626,9 +632,9 @@
       "type": "Feature",
       "id": "way/1120072923",
       "properties": {
-        "timestamp": "2024-03-08T21:16:31Z",
-        "version": 2,
-        "changeset": 148401851,
+        "timestamp": "2024-03-14T14:24:55Z",
+        "version": 4,
+        "changeset": 148644524,
         "addr:housenumber": "69",
         "addr:postcode": "67030-305",
         "addr:street": "Passagem Daniel Reis",
@@ -637,12 +643,13 @@
         "building": "yes",
         "healthcare": "clinic",
         "healthcare:speciality": "general",
-        "name": "Unidade da Saúde da Família I e II",
+        "name": "Unidade de Saúde da Família Elo I e II",
         "opening_hours": "Mo-Fr 08:00-18:00; PH off",
         "operator": "Secretaria Municipal de Saúde",
         "operator:type": "government",
         "ref:CNES": "2328615",
-        "source": "CNES",
+        "short_name": "USF Elo I e II",
+        "source": "CNES;https://ananindeua.pa.gov.br/mapas/index?grupo=5",
         "id": "way/1120072923"
       },
       "geometry": {
@@ -1126,9 +1133,9 @@
       "type": "Feature",
       "id": "way/1259116989",
       "properties": {
-        "timestamp": "2024-03-08T18:06:27Z",
-        "version": 2,
-        "changeset": 148395980,
+        "timestamp": "2024-03-14T14:18:14Z",
+        "version": 3,
+        "changeset": 148644140,
         "addr:postcode": "67040-110",
         "addr:street": "Quadra 14",
         "addr:suburb": "Distrito Industrial",
@@ -1141,6 +1148,7 @@
         "operator": "Secretaria Municipal de Saúde",
         "operator:type": "government",
         "ref:CNES": "2328712",
+        "short_name": "UBS José Araújo",
         "source": "CNES",
         "id": "way/1259116989"
       },
@@ -1238,6 +1246,106 @@
             [
               -48.4197321,
               -1.3819592
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1262550769",
+      "properties": {
+        "timestamp": "2024-03-14T13:41:13Z",
+        "version": 2,
+        "changeset": 148642169,
+        "addr:housenumber": "131",
+        "addr:postcode": "67133-760",
+        "addr:street": "Secretaria Municipal de Saúde",
+        "addr:suburb": "Cidade Nova VIII",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Unidade Básica de Saúde Doutor Carlos Guimarães",
+        "opening_hours": "Mo-Fr 07:00-19:00; PH off",
+        "operator": "Secretaria Municipal de Saúde",
+        "operator:type": "government",
+        "ref:CNES": "2328887",
+        "short_name": "UBS Doutor Carlos Guimarães",
+        "source": "CNES",
+        "id": "way/1262550769"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.4119998,
+              -1.3513076
+            ],
+            [
+              -48.4119975,
+              -1.3514766
+            ],
+            [
+              -48.4119236,
+              -1.3514811
+            ],
+            [
+              -48.4119292,
+              -1.3513053
+            ],
+            [
+              -48.4119998,
+              -1.3513076
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1262584766",
+      "properties": {
+        "timestamp": "2024-03-14T22:06:14Z",
+        "version": 2,
+        "changeset": 148663657,
+        "addr:housenumber": "68",
+        "addr:street": "Rua 8 de Outubro",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Unidade Básica de Saúde Nova Esperança II e III",
+        "operator": "Secretaria Municipal de Saúde",
+        "operator:type": "government",
+        "short_name": "UBS Nova Esperança II e III",
+        "source": "https://ananindeua.pa.gov.br/mapas/index?grupo=5",
+        "id": "way/1262584766"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.4167205,
+              -1.3470516
+            ],
+            [
+              -48.4166569,
+              -1.347136
+            ],
+            [
+              -48.4166183,
+              -1.347102
+            ],
+            [
+              -48.4166852,
+              -1.3470215
+            ],
+            [
+              -48.4167205,
+              -1.3470516
             ]
           ]
         ]

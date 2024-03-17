@@ -229,6 +229,50 @@
     },
     {
       "type": "Feature",
+      "id": "way/1262386743",
+      "properties": {
+        "timestamp": "2024-03-14T00:59:53Z",
+        "version": 1,
+        "changeset": 148618055,
+        "addr:city": "Pontal do Paraná",
+        "addr:postcode": "83255-000",
+        "addr:street": "Rua Pau-Brasil",
+        "addr:suburb": "Pontal do Sul",
+        "amenity": "school",
+        "building": "school",
+        "name": "Colégio Estadual Sully da Rosa Vilarinho",
+        "id": "way/1262386743"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.3614426,
+              -25.5776032
+            ],
+            [
+              -48.3611508,
+              -25.5780455
+            ],
+            [
+              -48.3605016,
+              -25.5777191
+            ],
+            [
+              -48.3607655,
+              -25.5772873
+            ],
+            [
+              -48.3614426,
+              -25.5776032
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/10939804309",
       "properties": {
         "timestamp": "2023-05-30T12:17:25Z",
@@ -244,6 +288,77 @@
         "coordinates": [
           -48.3612161,
           -25.5775857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11729261785",
+      "properties": {
+        "timestamp": "2024-03-14T00:59:53Z",
+        "version": 1,
+        "changeset": 148618055,
+        "addr:city": "Pontal do Paraná",
+        "addr:postcode": "83255-000",
+        "addr:street": "Rua Iguassu",
+        "addr:suburb": "Praia de Leste",
+        "amenity": "school",
+        "name": "Colégio Absoluto",
+        "id": "node/11729261785"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.4749018,
+          -25.6930236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11729261786",
+      "properties": {
+        "timestamp": "2024-03-14T00:59:53Z",
+        "version": 1,
+        "changeset": 148618055,
+        "addr:city": "Pontal do Paraná",
+        "addr:postcode": "83255-000",
+        "addr:street": "Rua Romário Martins",
+        "addr:suburb": "Praia de Leste",
+        "amenity": "school",
+        "grades": "6-9 e Ensino Médio",
+        "name": "Colégio Estadual Hélio Antônio de Souza",
+        "id": "node/11729261786"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.4694478,
+          -25.6921051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11729261787",
+      "properties": {
+        "timestamp": "2024-03-14T00:59:53Z",
+        "version": 1,
+        "changeset": 148618055,
+        "addr:city": "Pontal do Paraná",
+        "addr:postcode": "83255-000",
+        "addr:street": "Rua Independência",
+        "addr:suburb": "Praia de Leste",
+        "amenity": "school",
+        "grades": "6-9 e Ensino Médio",
+        "name": "Colégio Estadual Paulo Freire",
+        "id": "node/11729261787"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.4718851,
+          -25.7015003
         ]
       }
     }

@@ -48208,55 +48208,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/621029553",
-      "properties": {
-        "timestamp": "2019-12-23T03:43:24Z",
-        "version": 2,
-        "changeset": 78750688,
-        "amenity": "school",
-        "height": "3.941",
-        "name": "EMEI Ítalo Bettarello",
-        "source": "pmsp",
-        "id": "way/621029553"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -46.5844005,
-              -23.4797235
-            ],
-            [
-              -46.584485,
-              -23.4795736
-            ],
-            [
-              -46.5847942,
-              -23.4797491
-            ],
-            [
-              -46.5847864,
-              -23.4797601
-            ],
-            [
-              -46.5847914,
-              -23.4797633
-            ],
-            [
-              -46.5847028,
-              -23.4798951
-            ],
-            [
-              -46.5844005,
-              -23.4797235
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/621527884",
       "properties": {
         "timestamp": "2018-08-31T15:49:19Z",
@@ -85640,6 +85591,76 @@
     },
     {
       "type": "Feature",
+      "id": "way/1263064724",
+      "properties": {
+        "timestamp": "2024-03-15T21:02:16Z",
+        "version": 1,
+        "changeset": 148707623,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "2680",
+        "addr:postcode": "02201-003",
+        "addr:street": "Avenida Júlio Buono",
+        "amenity": "school",
+        "barrier": "wall",
+        "height": "3.941",
+        "name": "EMEI Ítalo Bettarello",
+        "source": "pmsp",
+        "id": "way/1263064724"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.5849521,
+              -23.4798057
+            ],
+            [
+              -46.585095,
+              -23.4801694
+            ],
+            [
+              -46.5850629,
+              -23.4801957
+            ],
+            [
+              -46.5847793,
+              -23.4804352
+            ],
+            [
+              -46.5843476,
+              -23.4808087
+            ],
+            [
+              -46.5843281,
+              -23.4798114
+            ],
+            [
+              -46.5842959,
+              -23.4795228
+            ],
+            [
+              -46.5843522,
+              -23.4794228
+            ],
+            [
+              -46.5846268,
+              -23.4795888
+            ],
+            [
+              -46.5849414,
+              -23.4797789
+            ],
+            [
+              -46.5849521,
+              -23.4798057
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/222842154",
       "properties": {
         "timestamp": "2023-06-07T15:20:09Z",
@@ -109298,6 +109319,28 @@
         "coordinates": [
           -46.525098,
           -23.5336038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11735131554",
+      "properties": {
+        "timestamp": "2024-03-15T21:02:16Z",
+        "version": 1,
+        "changeset": 148707623,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "2680",
+        "addr:postcode": "02201-003",
+        "addr:street": "Avenida Júlio Buono",
+        "entrance": "main",
+        "id": "node/11735131554"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5846268,
+          -23.4795888
         ]
       }
     }

@@ -5,9 +5,9 @@
       "type": "Feature",
       "id": "way/557824015",
       "properties": {
-        "timestamp": "2018-02-02T00:16:12Z",
-        "version": 1,
-        "changeset": 55981791,
+        "timestamp": "2024-03-15T21:55:20Z",
+        "version": 2,
+        "changeset": 148709673,
         "amenity": "university",
         "name": "Universidade de Passo Fundo - Campus Sarandi",
         "id": "way/557824015"
@@ -21,6 +21,10 @@
               -27.9462347
             ],
             [
+              -52.9259965,
+              -27.9466427
+            ],
+            [
               -52.9255956,
               -27.9467977
             ],
@@ -31,6 +35,10 @@
             [
               -52.926066,
               -27.9453099
+            ],
+            [
+              -52.9261797,
+              -27.9454166
             ],
             [
               -52.9270522,
@@ -57,6 +65,26 @@
         "coordinates": [
           -52.8971431,
           -27.9947181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11735216958",
+      "properties": {
+        "timestamp": "2024-03-15T21:55:20Z",
+        "version": 1,
+        "changeset": 148709673,
+        "access": "permit",
+        "barrier": "gate",
+        "vehicle": "permit",
+        "id": "node/11735216958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.9261797,
+          -27.9454166
         ]
       }
     }

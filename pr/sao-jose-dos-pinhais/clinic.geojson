@@ -358,23 +358,16 @@
       "type": "Feature",
       "id": "way/499893280",
       "properties": {
-        "timestamp": "2023-04-06T03:29:38Z",
-        "version": 9,
-        "changeset": 134559515,
-        "addr:city": "São José dos Pinhais",
-        "addr:country": "BR",
+        "timestamp": "2024-03-15T05:57:16Z",
+        "version": 10,
+        "changeset": 148671098,
         "addr:housenumber": "1629",
-        "addr:postcode": "83005-010",
         "addr:street": "Rua Dona Isabel A Redentora",
-        "addr:suburb": "Centro",
+        "alt_name": "Unidade de Saúde Central",
         "amenity": "clinic",
-        "building": "yes",
+        "building": "hospital",
         "healthcare": "clinic",
-        "name": "Unidade Básica de Saúde Central",
-        "opening_hours": "Mo-Fr 07:00-17:00; PH off",
-        "operator:type": "public",
-        "phone": "+55 41 3398 2776",
-        "wheelchair": "yes",
+        "name": "Unidade de Saúde Paulino Siqueira Cortês",
         "id": "way/499893280"
       },
       "geometry": {
@@ -382,44 +375,24 @@
         "coordinates": [
           [
             [
-              -49.2027025,
-              -25.5380357
+              -49.2023769,
+              -25.5378983
             ],
             [
-              -49.202479,
-              -25.538127
+              -49.2023061,
+              -25.5377491
             ],
             [
-              -49.202317,
-              -25.5378043
+              -49.2026423,
+              -25.5376192
             ],
             [
-              -49.2022837,
-              -25.5377379
+              -49.2027131,
+              -25.5377684
             ],
             [
-              -49.2023361,
-              -25.5377165
-            ],
-            [
-              -49.2024033,
-              -25.5378503
-            ],
-            [
-              -49.2026166,
-              -25.5377632
-            ],
-            [
-              -49.2026409,
-              -25.5378117
-            ],
-            [
-              -49.2025987,
-              -25.537829
-            ],
-            [
-              -49.2027025,
-              -25.5380357
+              -49.2023769,
+              -25.5378983
             ]
           ]
         ]
@@ -1345,24 +1318,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/1438678084",
-      "properties": {
-        "timestamp": "2023-04-06T03:29:38Z",
-        "version": 5,
-        "changeset": 134559515,
-        "operator:type": "public",
-        "id": "node/1438678084"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.202317,
-          -25.5378043
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/3810310264",
       "properties": {
         "timestamp": "2021-06-24T00:27:48Z",
@@ -1564,150 +1519,6 @@
         "coordinates": [
           -49.1260446,
           -25.5936168
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/4910833425",
-      "properties": {
-        "timestamp": "2023-04-06T03:29:38Z",
-        "version": 6,
-        "changeset": 134559515,
-        "operator:type": "public",
-        "id": "node/4910833425"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.2025987,
-          -25.537829
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/4910833426",
-      "properties": {
-        "timestamp": "2023-04-06T03:29:38Z",
-        "version": 6,
-        "changeset": 134559515,
-        "operator:type": "public",
-        "id": "node/4910833426"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.2026409,
-          -25.5378117
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/4910833427",
-      "properties": {
-        "timestamp": "2023-04-06T03:29:38Z",
-        "version": 6,
-        "changeset": 134559515,
-        "operator:type": "public",
-        "id": "node/4910833427"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.2026166,
-          -25.5377632
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/4910833428",
-      "properties": {
-        "timestamp": "2023-04-06T03:29:38Z",
-        "version": 6,
-        "changeset": 134559515,
-        "operator:type": "public",
-        "id": "node/4910833428"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.2024033,
-          -25.5378503
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/4910833429",
-      "properties": {
-        "timestamp": "2023-04-06T03:29:38Z",
-        "version": 6,
-        "changeset": 134559515,
-        "operator:type": "public",
-        "id": "node/4910833429"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.2023361,
-          -25.5377165
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/4910833430",
-      "properties": {
-        "timestamp": "2023-04-06T03:29:38Z",
-        "version": 6,
-        "changeset": 134559515,
-        "operator:type": "public",
-        "id": "node/4910833430"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.2022837,
-          -25.5377379
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/4910833431",
-      "properties": {
-        "timestamp": "2023-04-06T03:29:38Z",
-        "version": 6,
-        "changeset": 134559515,
-        "operator:type": "public",
-        "id": "node/4910833431"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.202479,
-          -25.538127
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/4910833432",
-      "properties": {
-        "timestamp": "2023-04-06T03:29:38Z",
-        "version": 6,
-        "changeset": 134559515,
-        "operator:type": "public",
-        "id": "node/4910833432"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.2027025,
-          -25.5380357
         ]
       }
     },
@@ -3244,6 +3055,37 @@
         "coordinates": [
           -49.2068723,
           -25.5494309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11733160701",
+      "properties": {
+        "timestamp": "2024-03-15T05:57:16Z",
+        "version": 1,
+        "changeset": 148671098,
+        "addr:city": "São José dos Pinhais",
+        "addr:country": "BR",
+        "addr:housenumber": "1629",
+        "addr:postcode": "83005-010",
+        "addr:street": "Rua Dona Isabel A Redentora",
+        "addr:suburb": "Centro",
+        "alt_name": "Unidade de Saúde Central",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Unidade de Saúde Paulino Siqueira Cortês",
+        "opening_hours": "Mo-Fr 07:00-17:00; PH off",
+        "operator:type": "public",
+        "phone": "+55 41 3398 2776",
+        "wheelchair": "yes",
+        "id": "node/11733160701"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2026123,
+          -25.5379675
         ]
       }
     }

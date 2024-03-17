@@ -1234,6 +1234,57 @@
     },
     {
       "type": "Feature",
+      "id": "way/456476181",
+      "properties": {
+        "timestamp": "2024-03-15T12:41:52Z",
+        "version": 7,
+        "changeset": 148686588,
+        "addr:housenumber": "20",
+        "addr:postcode": "40020-000",
+        "addr:street": "Rua Chile",
+        "building": "yes",
+        "building:levels": "8",
+        "name": "Fera Palace Hotel",
+        "phone": "+55 71 30369200",
+        "stars": "5",
+        "tourism": "hotel",
+        "website": "https://ferapalacehotel.com.br/",
+        "id": "way/456476181"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.5135899,
+              -12.975996
+            ],
+            [
+              -38.5138704,
+              -12.9762895
+            ],
+            [
+              -38.5138437,
+              -12.9763151
+            ],
+            [
+              -38.5133398,
+              -12.9761851
+            ],
+            [
+              -38.5133871,
+              -12.9761521
+            ],
+            [
+              -38.5135899,
+              -12.975996
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/456634061",
       "properties": {
         "timestamp": "2022-08-29T03:30:22Z",
@@ -6207,6 +6258,25 @@
         "coordinates": [
           -38.5135301,
           -12.9755612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11734805559",
+      "properties": {
+        "timestamp": "2024-03-15T17:47:32Z",
+        "version": 1,
+        "changeset": 148700909,
+        "name": "Hotel Cruz do Pascoal",
+        "tourism": "hotel",
+        "id": "node/11734805559"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5068611,
+          -12.9676156
         ]
       }
     }

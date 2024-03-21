@@ -32,15 +32,18 @@
       "type": "Feature",
       "id": "node/2467692504",
       "properties": {
-        "timestamp": "2023-03-13T07:05:00Z",
-        "version": 11,
-        "changeset": 133611431,
+        "timestamp": "2024-03-18T12:38:14Z",
+        "version": 12,
+        "changeset": 148814730,
         "amenity": "bicycle_rental",
-        "capacity": "15",
+        "brand": "Bike Salvador",
+        "brand:wikidata": "Q20052802",
+        "capacity": "19",
         "check_date": "2022-12-21",
-        "name": "Bike Salvador",
+        "name": "Campo Grande",
         "network": "Bike Salvador",
         "opening_hours": "Mo-Su 05:00-24:00",
+        "operator": "Tembici",
         "payment:credit_cards": "yes",
         "phone": "+55 71 40039892",
         "ref": "21",
@@ -50,8 +53,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -38.5205137,
-          -12.9886881
+          -38.520411,
+          -12.9888072
         ]
       }
     },
@@ -253,15 +256,17 @@
       "type": "Feature",
       "id": "node/2518515274",
       "properties": {
-        "timestamp": "2021-07-03T20:50:19Z",
-        "version": 8,
-        "changeset": 107368907,
+        "timestamp": "2024-03-18T12:38:14Z",
+        "version": 9,
+        "changeset": 148814730,
         "amenity": "bicycle_rental",
+        "brand": "Bike Salvador",
+        "brand:wikidata": "Q20052802",
         "capacity": "7",
         "name": "Hotel Bahia do Sol",
         "network": "Bike Salvador",
         "opening_hours": "Mo-Su 05:00-24:00",
-        "operator": "tembici",
+        "operator": "Tembici",
         "payment:credit_cards": "yes",
         "phone": "+55 71 40039892",
         "ref": "32",
@@ -271,8 +276,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -38.5249776,
-          -12.9910363
+          -38.525036,
+          -12.9910114
         ]
       }
     },
@@ -700,15 +705,17 @@
       "type": "Feature",
       "id": "node/5639672405",
       "properties": {
-        "timestamp": "2021-07-03T20:50:19Z",
-        "version": 3,
-        "changeset": 107368907,
+        "timestamp": "2024-03-18T12:38:14Z",
+        "version": 4,
+        "changeset": 148814730,
         "amenity": "bicycle_rental",
+        "brand": "Bike Salvador",
+        "brand:wikidata": "Q20052802",
         "capacity": "11",
         "name": "Largo da Graça",
         "network": "Bike Salvador",
         "opening_hours": "Mo-Su 05:00-24:00",
-        "operator": "tembici",
+        "operator": "Tembici",
         "payment:credit_cards": "yes",
         "phone": "+55 71 40039892",
         "ref": "22",
@@ -784,16 +791,18 @@
       "type": "Feature",
       "id": "node/5678466961",
       "properties": {
-        "timestamp": "2022-09-23T02:42:21Z",
-        "version": 7,
-        "changeset": 126526709,
+        "timestamp": "2024-03-18T12:38:14Z",
+        "version": 8,
+        "changeset": 148814730,
         "amenity": "bicycle_rental",
         "bicycle_rental": "docking_station",
-        "capacity": "11",
+        "brand": "Bike Salvador",
+        "brand:wikidata": "Q20052802",
+        "capacity": "15",
         "name": "Largo da Vitória",
         "network": "Bike Salvador",
         "opening_hours": "Mo-Su 05:00-24:00",
-        "operator": "tembici",
+        "operator": "Tembici",
         "payment:credit_cards": "yes",
         "phone": "+55 71 40039892",
         "ref": "28",
@@ -1471,6 +1480,36 @@
         "coordinates": [
           -38.459062,
           -13.0039161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11741219258",
+      "properties": {
+        "timestamp": "2024-03-18T12:38:14Z",
+        "version": 1,
+        "changeset": 148814730,
+        "amenity": "bicycle_rental",
+        "brand": "Bike Salvador",
+        "brand:wikidata": "Q20052802",
+        "capacity": "11",
+        "check_date": "2022-12-21",
+        "name": "Campo Grande II",
+        "network": "Bike Salvador",
+        "opening_hours": "Mo-Su 05:00-24:00",
+        "operator": "Tembici",
+        "payment:credit_cards": "yes",
+        "phone": "+55 71 40039892",
+        "ref": "52",
+        "website": "https://bikeitau.com.br/salvador/",
+        "id": "node/11741219258"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5221592,
+          -12.98833
         ]
       }
     }

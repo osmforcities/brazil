@@ -5798,9 +5798,9 @@
       "type": "Feature",
       "id": "node/6827880372",
       "properties": {
-        "timestamp": "2019-09-26T14:21:33Z",
-        "version": 1,
-        "changeset": 74965935,
+        "timestamp": "2024-03-18T12:26:40Z",
+        "version": 2,
+        "changeset": 148814194,
         "amenity": "pharmacy",
         "brand": "Drogasil",
         "brand:wikidata": "Q5308185",
@@ -5814,8 +5814,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -38.3418538,
-          -12.9393093
+          -38.3418297,
+          -12.9391773
         ]
       }
     },
@@ -6826,13 +6826,15 @@
       "type": "Feature",
       "id": "node/9273120651",
       "properties": {
-        "timestamp": "2021-11-21T21:09:37Z",
-        "version": 1,
-        "changeset": 114073330,
+        "timestamp": "2024-03-18T12:26:40Z",
+        "version": 2,
+        "changeset": 148814194,
         "amenity": "pharmacy",
+        "brand": "Drogaria Globo",
+        "brand:wikidata": "Q56351623",
         "dispensing": "yes",
         "healthcare": "pharmacy",
-        "name": "Drogarias Globo",
+        "name": "Drogaria Globo",
         "id": "node/9273120651"
       },
       "geometry": {
@@ -7743,6 +7745,30 @@
         "coordinates": [
           -38.5039001,
           -12.9297432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11741156516",
+      "properties": {
+        "timestamp": "2024-03-18T12:18:00Z",
+        "version": 2,
+        "changeset": 148813777,
+        "amenity": "pharmacy",
+        "brand": "Pague Menos",
+        "brand:wikidata": "Q7124466",
+        "check_date": "2024-03-17",
+        "healthcare": "pharmacy",
+        "name": "Pague Menos",
+        "wheelchair": "yes",
+        "id": "node/11741156516"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.3451692,
+          -12.9328225
         ]
       }
     }

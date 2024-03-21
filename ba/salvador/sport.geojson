@@ -5,15 +5,19 @@
       "type": "Feature",
       "id": "relation/3346613",
       "properties": {
-        "timestamp": "2024-03-15T17:52:35Z",
-        "version": 9,
-        "changeset": 148701121,
+        "timestamp": "2024-03-18T12:38:14Z",
+        "version": 10,
+        "changeset": 148814730,
         "2016olympicgames": "venue",
+        "alt_name": "Arena Fonte Nova",
         "building": "stadium",
         "height": "20",
+        "layer": "1",
         "leisure": "stadium",
+        "loc_name": "Fonte Nova",
         "name": "Casa de Apostas Arena Fonte Nova",
         "note": "Não realinhar com a imagem do Bing porque existe um deslocamento/distorção causado pela imagem de satélite",
+        "old_name": "Itaipava Arena Fonte Nova",
         "sport": "soccer",
         "type": "multipolygon",
         "website": "https://www.itaipavaarenafontenova.com.br/",
@@ -2843,10 +2847,11 @@
       "type": "Feature",
       "id": "way/248504366",
       "properties": {
-        "timestamp": "2023-02-02T19:58:47Z",
-        "version": 13,
-        "changeset": 132017185,
+        "timestamp": "2024-03-18T12:38:14Z",
+        "version": 14,
+        "changeset": 148814730,
         "access": "private",
+        "layer": "0",
         "leisure": "pitch",
         "lit": "yes",
         "sport": "soccer",
@@ -2858,24 +2863,24 @@
         "coordinates": [
           [
             [
-              -38.5044563,
-              -12.9793544
+              -38.5045872,
+              -12.9795193
             ],
             [
-              -38.5039563,
-              -12.9793534
+              -38.503817,
+              -12.9795203
             ],
             [
-              -38.5039581,
-              -12.9784841
+              -38.5038156,
+              -12.9783382
             ],
             [
-              -38.5044581,
-              -12.9784851
+              -38.5045856,
+              -12.9783372
             ],
             [
-              -38.5044563,
-              -12.9793544
+              -38.5045872,
+              -12.9795193
             ]
           ]
         ]
@@ -30406,6 +30411,45 @@
             [
               -38.4930467,
               -12.9965929
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1263808844",
+      "properties": {
+        "timestamp": "2024-03-18T16:48:58Z",
+        "version": 1,
+        "changeset": 148825921,
+        "leisure": "pitch",
+        "sport": "soccer",
+        "id": "way/1263808844"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.3467222,
+              -12.9311994
+            ],
+            [
+              -38.3466203,
+              -12.9314059
+            ],
+            [
+              -38.3462327,
+              -12.9312399
+            ],
+            [
+              -38.346332,
+              -12.9310295
+            ],
+            [
+              -38.3467222,
+              -12.9311994
             ]
           ]
         ]

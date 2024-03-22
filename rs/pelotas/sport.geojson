@@ -3,123 +3,23 @@
   "features": [
     {
       "type": "Feature",
-      "id": "relation/7494460",
-      "properties": {
-        "timestamp": "2023-02-23T16:42:59Z",
-        "version": 4,
-        "changeset": 132935044,
-        "addr:city": "Pelotas",
-        "addr:housenumber": "849",
-        "addr:postcode": "96030-003",
-        "addr:street": "Avenida Duque de Caxias",
-        "addr:suburb": "Fragata",
-        "leisure": "stadium",
-        "name": "Estádio Nicolau Fico - Grêmio Atlético Farroupilha",
-        "phone": "+55 53 98477-6985",
-        "sport": "soccer",
-        "type": "multipolygon",
-        "website": "http://gafarroupilha.blogspot.com.br/",
-        "wikidata": "Q9255252",
-        "wikipedia": "pt:Estádio General Nicolau Fico",
-        "id": "relation/7494460"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -52.3802682,
-              -31.7576515
-            ],
-            [
-              -52.3801653,
-              -31.7572776
-            ],
-            [
-              -52.3806391,
-              -31.7572068
-            ],
-            [
-              -52.3806758,
-              -31.7572013
-            ],
-            [
-              -52.3807125,
-              -31.7571958
-            ],
-            [
-              -52.3810742,
-              -31.7571417
-            ],
-            [
-              -52.3810917,
-              -31.7571391
-            ],
-            [
-              -52.3811093,
-              -31.7571365
-            ],
-            [
-              -52.3811344,
-              -31.7571327
-            ],
-            [
-              -52.3811535,
-              -31.7571798
-            ],
-            [
-              -52.3812596,
-              -31.7571648
-            ],
-            [
-              -52.3812894,
-              -31.757346
-            ],
-            [
-              -52.3815128,
-              -31.7580653
-            ],
-            [
-              -52.3814666,
-              -31.7580733
-            ],
-            [
-              -52.3815788,
-              -31.7585442
-            ],
-            [
-              -52.3805057,
-              -31.7587178
-            ],
-            [
-              -52.3802119,
-              -31.757662
-            ],
-            [
-              -52.3802682,
-              -31.7576515
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "relation/7627051",
       "properties": {
-        "timestamp": "2017-10-04T13:01:27Z",
-        "version": 1,
-        "changeset": 52624613,
+        "timestamp": "2024-03-20T04:58:11Z",
+        "version": 3,
+        "changeset": 148892027,
         "addr:city": "Pelotas",
         "addr:housenumber": "1875",
         "addr:postcode": "96050-460",
         "addr:street": "Av. Herbert Hadler",
         "addr:suburb": "Fragata",
         "leisure": "stadium",
-        "name": "Fragata F.C.",
+        "name": "Ninho do Cardeal",
         "sport": "soccer",
         "type": "multipolygon",
-        "website": "www.fragatafc.com.br/",
+        "website": "https://pt.wikipedia.org/wiki/Gr%C3%AAmio_Atl%C3%A9tico_Farroupilha",
+        "wikidata": "Q5612797",
+        "wikipedia": "pt:Grêmio Atlético Farroupilha",
         "id": "relation/7627051"
       },
       "geometry": {
@@ -874,16 +774,16 @@
       "type": "Feature",
       "id": "way/203838196",
       "properties": {
-        "timestamp": "2017-08-21T14:32:53Z",
-        "version": 7,
-        "changeset": 51308300,
+        "timestamp": "2024-03-20T03:57:15Z",
+        "version": 8,
+        "changeset": 148891043,
         "addr:city": "Pelotas",
         "addr:housenumber": "849",
         "addr:street": "Avenida Duque de Caxias",
         "addr:suburb": "Fragata",
         "leisure": "pitch",
         "lit": "yes",
-        "name": "G.A. Farroupilha",
+        "name": "Antigo Campo G.A. Farroupilha",
         "source": "survey",
         "sport": "soccer",
         "surface": "grass",
@@ -5364,34 +5264,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/312271773",
-      "properties": {
-        "timestamp": "2017-08-21T15:00:19Z",
-        "version": 5,
-        "changeset": 51309139,
-        "barrier": "gate",
-        "id": "way/312271773"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -52.3806391,
-            -31.7572068
-          ],
-          [
-            -52.3806758,
-            -31.7572013
-          ],
-          [
-            -52.3807125,
-            -31.7571958
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/323292134",
       "properties": {
         "timestamp": "2020-12-14T20:09:31Z",
@@ -5937,34 +5809,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/517327346",
-      "properties": {
-        "timestamp": "2017-08-21T15:00:19Z",
-        "version": 2,
-        "changeset": 51309139,
-        "barrier": "gate",
-        "id": "way/517327346"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -52.3810742,
-            -31.7571417
-          ],
-          [
-            -52.3810917,
-            -31.7571391
-          ],
-          [
-            -52.3811093,
-            -31.7571365
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/529992108",
       "properties": {
         "timestamp": "2017-10-04T13:01:26Z",
@@ -6144,46 +5988,6 @@
         "coordinates": [
           -52.2264665,
           -31.7724788
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/5048557787",
-      "properties": {
-        "timestamp": "2017-08-21T15:00:19Z",
-        "version": 1,
-        "changeset": 51309139,
-        "access": "permissive",
-        "entrance": "yes",
-        "name": "Portão 01",
-        "id": "node/5048557787"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -52.3806758,
-          -31.7572013
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/5048557788",
-      "properties": {
-        "timestamp": "2017-08-21T15:00:19Z",
-        "version": 1,
-        "changeset": 51309139,
-        "access": "permissive",
-        "entrance": "service",
-        "name": "Portão 02",
-        "id": "node/5048557788"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -52.3810917,
-          -31.7571391
         ]
       }
     },

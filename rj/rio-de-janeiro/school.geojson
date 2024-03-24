@@ -31174,6 +31174,59 @@
     },
     {
       "type": "Feature",
+      "id": "way/1083236736",
+      "properties": {
+        "timestamp": "2024-03-22T20:21:56Z",
+        "version": 2,
+        "changeset": 149029748,
+        "IPP:BAIRRO": "Tijuca",
+        "IPP:CHAVE": "10853",
+        "IPP:CODATIVIDA": "0",
+        "IPP:CODBAIRRO": "033",
+        "IPP:COD_INEP": "33067074",
+        "IPP:COD_SMA": "010853",
+        "IPP:CRE": "02",
+        "IPP:DESIGNACAO": "0208009",
+        "IPP:ENDERECO": "Rua Alzira Brandão, 500  ",
+        "IPP:ENDNOVO": "http://webapp.sme.rio.rj.gov.br/jcartela/publico/pesquisa.do?idSetor=10853&cmd=load",
+        "IPP:FLG_VALIDA": "S",
+        "IPP:TELEFONES": "2264-5395",
+        "amenity": "school",
+        "building": "yes",
+        "name": "Escola Municipal General Euclydes de Figueiredo",
+        "source": "IPP",
+        "id": "way/1083236736"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.2249312,
+              -22.9202567
+            ],
+            [
+              -43.2247235,
+              -22.9202272
+            ],
+            [
+              -43.2247502,
+              -22.9200376
+            ],
+            [
+              -43.2249579,
+              -22.9200588
+            ],
+            [
+              -43.2249312,
+              -22.9202567
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1083256517",
       "properties": {
         "timestamp": "2023-06-23T03:03:43Z",
@@ -39506,38 +39559,6 @@
         "coordinates": [
           -43.5306224,
           -22.8767748
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/823942396",
-      "properties": {
-        "timestamp": "2010-07-19T01:16:01Z",
-        "version": 1,
-        "changeset": 5256902,
-        "IPP:BAIRRO": "Tijuca",
-        "IPP:CHAVE": "10853",
-        "IPP:CODATIVIDA": "0",
-        "IPP:CODBAIRRO": "033",
-        "IPP:COD_INEP": "33067074",
-        "IPP:COD_SMA": "010853",
-        "IPP:CRE": "02",
-        "IPP:DESIGNACAO": "0208009",
-        "IPP:ENDERECO": "Rua Alzira Brandão, 500  ",
-        "IPP:ENDNOVO": "http://webapp.sme.rio.rj.gov.br/jcartela/publico/pesquisa.do?idSetor=10853&cmd=load",
-        "IPP:FLG_VALIDA": "S",
-        "IPP:TELEFONES": "2264-5395",
-        "amenity": "school",
-        "name": "Escola Municipal General Euclydes de Figueiredo",
-        "source": "IPP",
-        "id": "node/823942396"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.2249185,
-          -22.9201609
         ]
       }
     },

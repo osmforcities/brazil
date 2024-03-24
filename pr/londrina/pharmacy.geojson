@@ -99,13 +99,14 @@
       "type": "Feature",
       "id": "way/291253724",
       "properties": {
-        "timestamp": "2014-07-03T23:26:30Z",
-        "version": 1,
-        "changeset": 23910210,
+        "timestamp": "2024-03-22T02:17:19Z",
+        "version": 2,
+        "changeset": 148992154,
         "addr:city": "Londrina",
         "addr:street": "Avenida Tiradentes",
         "amenity": "pharmacy",
         "building": "yes",
+        "healthcare": "pharmacy",
         "operator": "Nissei",
         "id": "way/291253724"
       },
@@ -114,24 +115,24 @@
         "coordinates": [
           [
             [
-              -51.1760328,
-              -23.3015695
+              -51.1760112,
+              -23.3015721
             ],
             [
-              -51.175797,
-              -23.3016042
+              -51.1757754,
+              -23.3016068
             ],
             [
-              -51.1757663,
-              -23.3014278
+              -51.1757447,
+              -23.3014304
             ],
             [
-              -51.1760021,
-              -23.3013932
+              -51.1759805,
+              -23.3013958
             ],
             [
-              -51.1760328,
-              -23.3015695
+              -51.1760112,
+              -23.3015721
             ]
           ]
         ]
@@ -2139,6 +2140,55 @@
         "coordinates": [
           -51.1361353,
           -23.3742842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11753477891",
+      "properties": {
+        "timestamp": "2024-03-22T17:32:50Z",
+        "version": 1,
+        "changeset": 149024203,
+        "addr:street": "Avenida da Liberdade",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Farmácias São João",
+        "id": "node/11753477891"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1723845,
+          -23.2785262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11753477898",
+      "properties": {
+        "timestamp": "2024-03-22T17:32:50Z",
+        "version": 1,
+        "changeset": 149024203,
+        "addr:housenumber": "1493",
+        "addr:street": "Avenida Winston Churchill",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "mobile": "+55 43 99976 5375",
+        "name": "Farmácia Super Popular",
+        "phone": "+55 43 3348 3050",
+        "id": "node/11753477898"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1729047,
+          -23.2792819
         ]
       }
     }

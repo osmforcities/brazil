@@ -5,15 +5,22 @@
       "type": "Feature",
       "id": "relation/10300732",
       "properties": {
-        "timestamp": "2019-11-15T13:57:19Z",
-        "version": 1,
-        "changeset": 77130477,
+        "timestamp": "2024-03-22T13:06:35Z",
+        "version": 2,
+        "changeset": 149012861,
         "addr:city": "Londrina",
         "addr:housenumber": "20",
+        "addr:postcode": "86015-490",
         "addr:street": "Rua Silvio Pegoraro",
         "addr:suburb": "Jardim Petrópolis",
         "amenity": "school",
-        "name": "Colégio Estadual Barão Rio Branco E.F.M",
+        "email": "ldariobranco@seed.pr.gov.br",
+        "name": "Colégio Estadual Barão do Rio Branco",
+        "operator": "Secretaria da Educação do Estado do Paraná",
+        "operator:type": "government",
+        "phone": "+55 43 3342 0892",
+        "religion": "none",
+        "source": "https://www.nre.seed.pr.gov.br/modules/conteudo/conteudo.php?conteudo=538",
         "type": "multipolygon",
         "id": "relation/10300732"
       },
@@ -362,11 +369,22 @@
       "type": "Feature",
       "id": "way/352100096",
       "properties": {
-        "timestamp": "2015-06-07T15:34:36Z",
-        "version": 1,
-        "changeset": 31793024,
+        "timestamp": "2024-03-22T17:32:50Z",
+        "version": 3,
+        "changeset": 149024203,
+        "addr:housenumber": "1577",
+        "addr:postcode": "86080-120",
+        "addr:street": "Avenida Winston Churchill",
+        "addr:suburb": "Parque Ouro Verde",
         "amenity": "school",
+        "email": "david.dequech@londrina.pr.gov.br",
         "name": "Escola Municipal David Dequech",
+        "opening_hours": "Mo-Fr 07:30-11:30,13:30-17:30; PH off",
+        "operator": "Secretaria Municipal da Educação",
+        "operator:type": "government",
+        "phone": "+55 43 3375 0127",
+        "religion": "none",
+        "source": "https://repositorio.londrina.pr.gov.br/index.php/menu-educacao/unidades-escolares/226-lista-simples-un-municipais/file",
         "id": "way/352100096"
       },
       "geometry": {
@@ -374,7 +392,7 @@
         "coordinates": [
           [
             [
-              -51.1734883,
+              -51.1735066,
               -23.2788697
             ],
             [
@@ -382,19 +400,23 @@
               -23.2788469
             ],
             [
-              -51.1727898,
-              -23.2780358
+              -51.172802,
+              -23.2780983
             ],
             [
-              -51.1734921,
-              -23.2780408
+              -51.1735209,
+              -23.2781009
             ],
             [
-              -51.1734884,
-              -23.2784705
+              -51.1735155,
+              -23.2782781
             ],
             [
-              -51.1734883,
+              -51.1735259,
+              -23.2784697
+            ],
+            [
+              -51.1735066,
               -23.2788697
             ]
           ]
@@ -1634,13 +1656,19 @@
       "type": "Feature",
       "id": "way/581734146",
       "properties": {
-        "timestamp": "2020-07-10T08:14:57Z",
-        "version": 2,
-        "changeset": 87804145,
+        "timestamp": "2024-03-22T13:12:00Z",
+        "version": 3,
+        "changeset": 149013093,
         "addr:city": "Londrina",
+        "addr:housenumber": "1589",
         "addr:street": "Avenida Duque de Caxias",
+        "addr:suburb": "Jardim Petrópolis",
         "amenity": "school",
-        "name": "Colegio Maxi",
+        "name": "Colégio Maxi",
+        "operator": "Cognita",
+        "operator:type": "private",
+        "phone": "+55 43 3372 5555",
+        "website": "https://www.colegiomaxi.com.br/",
         "id": "way/581734146"
       },
       "geometry": {
@@ -2935,88 +2963,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/611212653",
-      "properties": {
-        "timestamp": "2018-08-15T11:41:25Z",
-        "version": 2,
-        "changeset": 61682920,
-        "addr:city": "Londrina",
-        "addr:housenumber": "38",
-        "addr:street": "Rua Eliton Villela Ramos",
-        "amenity": "school",
-        "name": "ESCOLA MUNICIPAL LAVÍNIA MONTEIRO DE MORAES",
-        "id": "way/611212653"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -51.1834647,
-              -23.2786144
-            ],
-            [
-              -51.1834488,
-              -23.2786291
-            ],
-            [
-              -51.1834223,
-              -23.2786323
-            ],
-            [
-              -51.183086,
-              -23.2785901
-            ],
-            [
-              -51.1830666,
-              -23.2785673
-            ],
-            [
-              -51.1830577,
-              -23.2785397
-            ],
-            [
-              -51.1831055,
-              -23.2782601
-            ],
-            [
-              -51.1831161,
-              -23.2782503
-            ],
-            [
-              -51.1831285,
-              -23.2782389
-            ],
-            [
-              -51.1831462,
-              -23.2782308
-            ],
-            [
-              -51.18347,
-              -23.2782991
-            ],
-            [
-              -51.1834877,
-              -23.278317
-            ],
-            [
-              -51.1835001,
-              -23.2783414
-            ],
-            [
-              -51.1835054,
-              -23.2783722
-            ],
-            [
-              -51.1834647,
-              -23.2786144
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/614197515",
       "properties": {
         "timestamp": "2018-08-05T11:31:53Z",
@@ -4051,11 +3997,22 @@
       "type": "Feature",
       "id": "way/616910393",
       "properties": {
-        "timestamp": "2018-08-14T11:29:24Z",
-        "version": 1,
-        "changeset": 61654909,
+        "timestamp": "2024-03-22T19:25:51Z",
+        "version": 2,
+        "changeset": 149028199,
+        "addr:housenumber": "320",
+        "addr:postcode": "86081-450",
+        "addr:street": "Rua Ibrahim Soubhia",
+        "addr:suburb": "Jardim Parati",
         "amenity": "school",
-        "name": "ESCOLA MUNICIPAL CLÁUDIA RIZZI",
+        "email": "claudia.rizzi@londrina.pr.gov.br",
+        "name": "Escola Municipal Claúdia Rizzi",
+        "opening_hours": "Mo-Fr 07:30-11:30,13:30-17:30; PH off",
+        "operator": "Secretaria Municipal da Educação",
+        "operator:type": "government",
+        "phone": "+55 43 3375 0124",
+        "religion": "none",
+        "source": "https://repositorio.londrina.pr.gov.br/index.php/menu-educacao/unidades-escolares/226-lista-simples-un-municipais/file",
         "id": "way/616910393"
       },
       "geometry": {
@@ -4067,16 +4024,16 @@
               -23.2609868
             ],
             [
-              -51.1873166,
-              -23.2614859
+              -51.1873463,
+              -23.2614841
             ],
             [
-              -51.1867685,
-              -23.2615086
+              -51.1867823,
+              -23.2615032
             ],
             [
-              -51.1867438,
-              -23.261005
+              -51.1867735,
+              -23.2610086
             ],
             [
               -51.1873413,
@@ -5065,11 +5022,22 @@
       "type": "Feature",
       "id": "way/616925535",
       "properties": {
-        "timestamp": "2018-08-14T12:51:43Z",
-        "version": 1,
-        "changeset": 61657439,
+        "timestamp": "2024-03-22T12:28:18Z",
+        "version": 2,
+        "changeset": 149011325,
+        "addr:housenumber": "91",
+        "addr:postcode": "86062-140",
+        "addr:street": "Rua Afonso Pena",
+        "addr:suburb": "Jardim Heidi",
         "amenity": "school",
-        "name": "ESCOLA MUNICIPAL MELVIN JONES",
+        "email": "melvin.jones@londrina.pr.gov.br",
+        "name": "Escola Municipal Melvin Jones",
+        "opening_hours": "Mo-Fr 07:30-11:30,13:30-17:30; PH off",
+        "operator": "Secretaria Municipal da Educação",
+        "operator:type": "government",
+        "phone": "+55 43 3375 0147",
+        "religion": "none",
+        "source": "https://repositorio.londrina.pr.gov.br/index.php/menu-educacao/unidades-escolares/226-lista-simples-un-municipais/file",
         "id": "way/616925535"
       },
       "geometry": {
@@ -5085,12 +5053,12 @@
               -23.3143665
             ],
             [
-              -51.1848848,
-              -23.3134646
+              -51.1850538,
+              -23.3139646
             ],
             [
-              -51.1853312,
-              -23.3133683
+              -51.1856611,
+              -23.3138363
             ],
             [
               -51.1858824,
@@ -5104,11 +5072,21 @@
       "type": "Feature",
       "id": "way/616925996",
       "properties": {
-        "timestamp": "2018-08-14T12:53:15Z",
-        "version": 1,
-        "changeset": 61657485,
+        "timestamp": "2024-03-22T15:59:52Z",
+        "version": 2,
+        "changeset": 149020237,
+        "addr:housenumber": "342",
+        "addr:postcode": "86070-070",
+        "addr:street": "Rua Darcirio Egger",
+        "addr:suburb": "Jardim Shangri-lá B",
         "amenity": "school",
-        "name": "ESCOLA MUNICIPAL MERCEDES MARTINS MADUREIRA",
+        "email": "mercedes.madureira@londrina.pr.gov.br",
+        "name": "Escola Municipal Mercedes Martins Madureira",
+        "opening_hours": "Mo-Fr 07:30-11:30,13:30-17:30; PH off",
+        "operator": "Secretaria Municipal da Educação",
+        "operator:type": "government",
+        "phone": "+55 43 3375 0115",
+        "religion": "none",
         "id": "way/616925996"
       },
       "geometry": {
@@ -5116,24 +5094,24 @@
         "coordinates": [
           [
             [
-              -51.1755749,
-              -23.2949843
+              -51.1756232,
+              -23.2950434
             ],
             [
-              -51.1761454,
-              -23.2945033
+              -51.17614,
+              -23.2946117
             ],
             [
-              -51.1765257,
-              -23.2948983
+              -51.1764908,
+              -23.2949402
             ],
             [
-              -51.1759669,
-              -23.2953955
+              -51.1759562,
+              -23.2953832
             ],
             [
-              -51.1755749,
-              -23.2949843
+              -51.1756232,
+              -23.2950434
             ]
           ]
         ]
@@ -5549,11 +5527,21 @@
       "type": "Feature",
       "id": "way/616931363",
       "properties": {
-        "timestamp": "2018-08-14T13:15:46Z",
-        "version": 1,
-        "changeset": 61658169,
+        "timestamp": "2024-03-22T15:12:19Z",
+        "version": 3,
+        "changeset": 149018238,
+        "addr:housenumber": "589",
+        "addr:postcode": "86070-150",
+        "addr:street": "Rua Adulcino José Jordão",
+        "addr:suburb": "Jardim do Sol",
         "amenity": "school",
-        "name": "ESCOLA MUNICIPAL ODILON GONÇALVES NOCETTI, E. M. REVERENDO",
+        "email": "odilon.nocetti@londrina.pr.gov.br",
+        "name": "Escola Municipal Reverendo Odilon Gonçalves Nocetti",
+        "opening_hours": "Mo-Fr 07:30-11:30,13:30-17:30; PH off",
+        "operator": "Secretaria Municipal da Educação",
+        "operator:type": "government",
+        "phone": "+55 43 3375 0169",
+        "religion": "none",
         "id": "way/616931363"
       },
       "geometry": {
@@ -5561,8 +5549,8 @@
         "coordinates": [
           [
             [
-              -51.1856176,
-              -23.2935811
+              -51.1855715,
+              -23.2936235
             ],
             [
               -51.1849866,
@@ -5573,16 +5561,28 @@
               -23.2939477
             ],
             [
-              -51.1846299,
-              -23.2934316
+              -51.1846308,
+              -23.2937708
             ],
             [
-              -51.1853166,
-              -23.2934869
+              -51.1848199,
+              -23.2937701
             ],
             [
-              -51.1856176,
-              -23.2935811
+              -51.1848254,
+              -23.2935045
+            ],
+            [
+              -51.1853055,
+              -23.2935479
+            ],
+            [
+              -51.1854643,
+              -23.2935637
+            ],
+            [
+              -51.1855715,
+              -23.2936235
             ]
           ]
         ]
@@ -6050,11 +6050,20 @@
       "type": "Feature",
       "id": "way/616941100",
       "properties": {
-        "timestamp": "2018-08-14T13:49:07Z",
-        "version": 1,
-        "changeset": 61659163,
+        "timestamp": "2024-03-22T00:19:28Z",
+        "version": 2,
+        "changeset": 148990674,
+        "addr:housenumber": "40",
+        "addr:postcode": "86025-435",
+        "addr:street": "Travessa Iguaçu",
+        "addr:suburb": "Vila Nova",
         "amenity": "school",
-        "name": "ESCOLA MUNICIPAL APED - FASE I / SME - CEEBJA HERBERT DE SOUZA",
+        "email": "ldaceebjahsouza@seed.pr.gov.br",
+        "name": "Centro Estadual de Educação Básica de Jovens e Adultos Herbert de Souza",
+        "operator": "Secretaria da Educação do Estado do Paraná",
+        "operator:type": "government",
+        "phone": "+55 43 3328 3747",
+        "source": "https://www.nre.seed.pr.gov.br/modules/conteudo/conteudo.php?conteudo=538",
         "id": "way/616941100"
       },
       "geometry": {
@@ -6390,45 +6399,6 @@
             [
               -51.1471146,
               -23.3584701
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/617165304",
-      "properties": {
-        "timestamp": "2018-08-15T11:37:49Z",
-        "version": 1,
-        "changeset": 61682830,
-        "amenity": "school",
-        "name": "ESCOLA MUNICIPAL KALIN YOUSSEF YOUSSEF",
-        "id": "way/617165304"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -51.1761996,
-              -23.2820469
-            ],
-            [
-              -51.1762036,
-              -23.2823174
-            ],
-            [
-              -51.1753934,
-              -23.2822992
-            ],
-            [
-              -51.1754094,
-              -23.2820395
-            ],
-            [
-              -51.1761996,
-              -23.2820469
             ]
           ]
         ]
@@ -6774,45 +6744,6 @@
             [
               -51.1511749,
               -23.3079333
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/617169630",
-      "properties": {
-        "timestamp": "2018-08-15T12:10:51Z",
-        "version": 1,
-        "changeset": 61683592,
-        "amenity": "school",
-        "name": "ASSOCIAÇÃO ALAÍDE FAUSTO DE SOUZA",
-        "id": "way/617169630"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -51.16442,
-              -23.2992287
-            ],
-            [
-              -51.1644174,
-              -23.2995399
-            ],
-            [
-              -51.1641273,
-              -23.2995446
-            ],
-            [
-              -51.1641324,
-              -23.2992287
-            ],
-            [
-              -51.16442,
-              -23.2992287
             ]
           ]
         ]
@@ -7359,11 +7290,12 @@
       "type": "Feature",
       "id": "way/617390798",
       "properties": {
-        "timestamp": "2018-08-16T11:19:46Z",
-        "version": 1,
-        "changeset": 61712382,
+        "timestamp": "2024-03-22T20:21:49Z",
+        "version": 2,
+        "changeset": 149029745,
+        "addr:street": "Rua Basílio Zani",
         "amenity": "school",
-        "name": "SANTA TEREZINHA DO MENINO JESUS - ASSOC. FAÇA UMA CRIANÇA FELIZ",
+        "name": "Centro de Educação Infantil Santa Terezinha do Menino Jesus",
         "id": "way/617390798"
       },
       "geometry": {
@@ -7371,24 +7303,24 @@
         "coordinates": [
           [
             [
-              -51.18222,
-              -23.2571551
+              -51.1823473,
+              -23.2571907
             ],
             [
-              -51.1822154,
-              -23.2573518
+              -51.1823538,
+              -23.2573925
             ],
             [
-              -51.1820737,
-              -23.2573617
+              -51.1820885,
+              -23.2573939
             ],
             [
-              -51.1820598,
-              -23.2571438
+              -51.1820893,
+              -23.2571879
             ],
             [
-              -51.18222,
-              -23.2571551
+              -51.1823473,
+              -23.2571907
             ]
           ]
         ]
@@ -8977,11 +8909,20 @@
       "type": "Feature",
       "id": "way/618549342",
       "properties": {
-        "timestamp": "2018-08-21T14:04:10Z",
-        "version": 1,
-        "changeset": 61857743,
+        "timestamp": "2024-03-22T20:21:49Z",
+        "version": 3,
+        "changeset": 149029745,
+        "addr:housenumber": "27",
+        "addr:postcode": "86082-440",
+        "addr:street": "Rua Basílio Zani",
+        "addr:suburb": "Conjunto Habitacional José Giordano",
         "amenity": "school",
-        "name": "Roseli Piotto Roehrig, C E Profa-EF M",
+        "email": "ldaroselipiotto@seed.pr.gov.br",
+        "name": "Colégio Estadual Professora Roseli Piotto Roehrig",
+        "operator": "Secretaria da Educação do Estado do Paraná",
+        "operator:type": "government",
+        "religion": "none",
+        "source": "https://www.nre.seed.pr.gov.br/modules/conteudo/conteudo.php?conteudo=538",
         "id": "way/618549342"
       },
       "geometry": {
@@ -8989,8 +8930,8 @@
         "coordinates": [
           [
             [
-              -51.1820506,
-              -23.2571506
+              -51.1820598,
+              -23.2571947
             ],
             [
               -51.1820589,
@@ -9002,11 +8943,19 @@
             ],
             [
               -51.1815788,
-              -23.2571377
+              -23.2572394
             ],
             [
-              -51.1820506,
-              -23.2571506
+              -51.1816179,
+              -23.2572104
+            ],
+            [
+              -51.1816717,
+              -23.2572018
+            ],
+            [
+              -51.1820598,
+              -23.2571947
             ]
           ]
         ]
@@ -9016,11 +8965,20 @@
       "type": "Feature",
       "id": "way/618549550",
       "properties": {
-        "timestamp": "2018-08-21T14:05:23Z",
-        "version": 1,
-        "changeset": 61857781,
+        "timestamp": "2024-03-22T02:17:19Z",
+        "version": 2,
+        "changeset": 148992154,
+        "addr:housenumber": "303",
+        "addr:postcode": "86070-130",
+        "addr:street": "Rua Saturno",
+        "addr:suburb": "Jardim do Sol",
         "amenity": "school",
-        "name": "Sagrada Familia, C E-EF M",
+        "email": "ldasagradafamilia@seed.pr.gov.br",
+        "name": "Colégio Estadual Sagrada Família",
+        "operator": "Secretaria da Educação do Estado do Paraná",
+        "operator:type": "government",
+        "phone": "+55 43 3327 2984",
+        "religion": "none",
         "id": "way/618549550"
       },
       "geometry": {
@@ -9236,11 +9194,21 @@
       "type": "Feature",
       "id": "way/618553066",
       "properties": {
-        "timestamp": "2018-08-21T14:19:19Z",
-        "version": 1,
-        "changeset": 61858215,
+        "timestamp": "2024-03-22T18:11:03Z",
+        "version": 2,
+        "changeset": 149025803,
+        "addr:housenumber": "110",
+        "addr:postcode": "86.080-010",
+        "addr:street": "Rua Tanzânia",
+        "addr:suburb": "Parque Ouro Verde",
         "amenity": "school",
-        "name": "Wistremundo R P Garcia, C E Pe-EF M",
+        "email": "ldawgarcia@seed.pr.gov.br",
+        "name": "Colégio Estadual Padre Wistremundo Roberto Perez Garcia",
+        "operator": "Secretaria da Educação do Estado do Paraná",
+        "operator:type": "government",
+        "phone": "+55 43 3348 6146",
+        "religion": "none",
+        "source": "https://www.nre.seed.pr.gov.br/modules/conteudo/conteudo.php?conteudo=538",
         "id": "way/618553066"
       },
       "geometry": {
@@ -9248,16 +9216,20 @@
         "coordinates": [
           [
             [
-              -51.1747384,
-              -23.2817835
+              -51.174727,
+              -23.2818224
             ],
             [
-              -51.1746584,
-              -23.2819117
+              -51.1746356,
+              -23.2819386
             ],
             [
               -51.1736432,
               -23.2819012
+            ],
+            [
+              -51.1736031,
+              -23.2818758
             ],
             [
               -51.1735792,
@@ -9268,12 +9240,20 @@
               -23.2813593
             ],
             [
-              -51.1737141,
-              -23.28129
+              -51.1736321,
+              -23.2813187
             ],
             [
-              -51.1747384,
-              -23.2817835
+              -51.1737383,
+              -23.2813305
+            ],
+            [
+              -51.1738411,
+              -23.2813573
+            ],
+            [
+              -51.174727,
+              -23.2818224
             ]
           ]
         ]
@@ -9322,16 +9302,20 @@
       "type": "Feature",
       "id": "way/618789826",
       "properties": {
-        "timestamp": "2022-04-24T04:20:42Z",
-        "version": 3,
-        "changeset": 120110301,
+        "timestamp": "2024-03-22T23:41:39Z",
+        "version": 4,
+        "changeset": 149034358,
         "addr:city": "Londrina",
         "addr:housenumber": "880",
-        "addr:postcode": "86010160",
+        "addr:postcode": "86010-160",
         "addr:street": "Rua Senador Souza Naves",
         "addr:suburb": "Centro",
         "amenity": "school",
+        "denomination": "pentecostal",
         "name": "Centro Educacional Evangélico ISBL",
+        "opening_hours": "Mo-Th 09:00-12:00,14:00-22:15; Fr 09:00-12:00,14:00-18:00; PH off",
+        "phone": "+55 43 3379 7000",
+        "religion": "christian",
         "website": "https://www.isbl.org.br/",
         "id": "way/618789826"
       },
@@ -10691,6 +10675,52 @@
     },
     {
       "type": "Feature",
+      "id": "way/1265175529",
+      "properties": {
+        "timestamp": "2024-03-22T14:00:14Z",
+        "version": 1,
+        "changeset": 149015054,
+        "addr:housenumber": "1700",
+        "addr:postcode": "86060-000",
+        "addr:street": "Avenida Maringá",
+        "addr:suburb": "Jardim Presidente",
+        "amenity": "school",
+        "contact:facebook": "https://www.facebook.com/colegiomaxiglobal",
+        "name": "Maxi Global School",
+        "operator": "Cognita",
+        "website": "https://www.colegiomaxi.com.br/maxi-global-school/sobre-o-colegio/",
+        "id": "way/1265175529"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.1777312,
+              -23.3167914
+            ],
+            [
+              -51.1776759,
+              -23.3171772
+            ],
+            [
+              -51.1771434,
+              -23.3171354
+            ],
+            [
+              -51.1772004,
+              -23.3167421
+            ],
+            [
+              -51.1777312,
+              -23.3167914
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/361223532",
       "properties": {
         "timestamp": "2009-03-16T22:12:57Z",
@@ -11042,6 +11072,24 @@
         "coordinates": [
           -51.1580988,
           -23.2474839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11753477882",
+      "properties": {
+        "timestamp": "2024-03-22T17:32:50Z",
+        "version": 1,
+        "changeset": 149024203,
+        "entrance": "yes",
+        "id": "node/11753477882"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1735155,
+          -23.2782781
         ]
       }
     }

@@ -2531,6 +2531,58 @@
     },
     {
       "type": "Feature",
+      "id": "way/910886918",
+      "properties": {
+        "timestamp": "2024-03-23T12:14:21Z",
+        "version": 2,
+        "changeset": 149048542,
+        "amenity": "arts_centre",
+        "building:levels": "2",
+        "name": "Fábrica de Cultura",
+        "id": "way/910886918"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.372705,
+              -23.5017139
+            ],
+            [
+              -46.372775,
+              -23.5017774
+            ],
+            [
+              -46.372858,
+              -23.502044
+            ],
+            [
+              -46.3725794,
+              -23.5021337
+            ],
+            [
+              -46.371836,
+              -23.5018816
+            ],
+            [
+              -46.3717994,
+              -23.5017639
+            ],
+            [
+              -46.3719149,
+              -23.5014389
+            ],
+            [
+              -46.372705,
+              -23.5017139
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1025649448",
       "properties": {
         "timestamp": "2022-01-28T20:51:02Z",
@@ -4092,9 +4144,9 @@
       "type": "Feature",
       "id": "node/6779683556",
       "properties": {
-        "timestamp": "2022-10-22T09:04:18Z",
-        "version": 3,
-        "changeset": 127913667,
+        "timestamp": "2024-03-23T13:57:42Z",
+        "version": 4,
+        "changeset": 149051896,
         "addr:housenumber": "245",
         "addr:postcode": "01222-020",
         "addr:street": "Rua Doutor Vila Nova",
@@ -4112,6 +4164,7 @@
         "opening_hours": "Mo-Fr 10:00-22:00; Sa 10:00-19:00; PH 10:00-19:00",
         "short_name": "SESC",
         "website": "https://www.sescsp.org.br",
+        "wheelchair": "yes",
         "wikidata": "Q28680380",
         "wikipedia": "pt:Sesc Consolação",
         "id": "node/6779683556"

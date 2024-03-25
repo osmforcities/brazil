@@ -909,6 +909,66 @@
     },
     {
       "type": "Feature",
+      "id": "way/472013588",
+      "properties": {
+        "timestamp": "2024-03-23T22:58:44Z",
+        "version": 2,
+        "changeset": 149070140,
+        "addr:street": "Avenida Bandeirantes",
+        "amenity": "pharmacy",
+        "brand": "Droga Raia",
+        "brand:wikidata": "Q10357101",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Droga Raia",
+        "id": "way/472013588"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.1607399,
+              -23.3250578
+            ],
+            [
+              -51.1609014,
+              -23.3250604
+            ],
+            [
+              -51.1608614,
+              -23.3251697
+            ],
+            [
+              -51.1607522,
+              -23.3251358
+            ],
+            [
+              -51.1607069,
+              -23.3251195
+            ],
+            [
+              -51.1606209,
+              -23.3250991
+            ],
+            [
+              -51.1606403,
+              -23.3250537
+            ],
+            [
+              -51.1606912,
+              -23.3250572
+            ],
+            [
+              -51.1607399,
+              -23.3250578
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/472172557",
       "properties": {
         "timestamp": "2023-08-02T23:51:28Z",
@@ -2189,6 +2249,30 @@
         "coordinates": [
           -51.1729047,
           -23.2792819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11754506244",
+      "properties": {
+        "timestamp": "2024-03-23T02:35:53Z",
+        "version": 1,
+        "changeset": 149036672,
+        "addr:street": "Avenida Ayrton Senna da Silva",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Vale Verde",
+        "opening_hours": "24/7",
+        "id": "node/11754506244"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.177835,
+          -23.3341492
         ]
       }
     }

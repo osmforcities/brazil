@@ -608,73 +608,88 @@
     },
     {
       "type": "Feature",
-      "id": "way/472202608",
+      "id": "way/472011965",
       "properties": {
-        "timestamp": "2022-07-05T11:16:16Z",
-        "version": 5,
-        "changeset": 123230183,
+        "timestamp": "2024-03-23T22:58:44Z",
+        "version": 3,
+        "changeset": 149070140,
         "addr:city": "Londrina",
-        "addr:housenumber": "648",
-        "addr:street": "Rua Senador Souza Naves",
-        "addr:suburb": "Centro",
+        "addr:housenumber": "476",
+        "addr:street": "Avenida Bandeirantes",
+        "addr:suburb": "Vila Ipiranga",
         "amenity": "hospital",
-        "building": "hospital",
+        "building:levels": "1",
+        "email": "neuroclinica@sercomtel.com.br",
         "healthcare": "hospital",
-        "healthcare:speciality": "ophthalmology",
-        "name": "Hospital de Olhos - Hoftalon",
-        "id": "way/472202608"
+        "mobile": "+55 43 98828 4677",
+        "name": "NeuroClinica",
+        "phone": "+55 43 3376 1500",
+        "website": "https://neuroclinicalondrina.com.br/",
+        "id": "way/472011965"
       },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              -51.1579222,
-              -23.3182061
+              -51.1617273,
+              -23.3253534
             ],
             [
-              -51.1579219,
-              -23.3182345
+              -51.1616028,
+              -23.3253146
             ],
             [
-              -51.1577505,
-              -23.3182328
+              -51.1616479,
+              -23.3251623
             ],
             [
-              -51.1577515,
-              -23.3181447
+              -51.1616307,
+              -23.3251573
             ],
             [
-              -51.1577518,
-              -23.3181213
+              -51.1616217,
+              -23.3251839
             ],
             [
-              -51.157752,
-              -23.3181009
+              -51.161599,
+              -23.3251774
             ],
             [
-              -51.1578732,
-              -23.3181021
+              -51.1616087,
+              -23.3251486
             ],
             [
-              -51.1582025,
-              -23.3181052
+              -51.1615891,
+              -23.325143
             ],
             [
-              -51.158201,
-              -23.3182357
+              -51.161538,
+              -23.3252945
             ],
             [
-              -51.1580112,
-              -23.3182339
+              -51.1614155,
+              -23.3252565
             ],
             [
-              -51.1580115,
-              -23.318207
+              -51.1614808,
+              -23.3250513
             ],
             [
-              -51.1579222,
-              -23.3182061
+              -51.161679,
+              -23.3251083
+            ],
+            [
+              -51.161688,
+              -23.3250816
+            ],
+            [
+              -51.1618074,
+              -23.325116
+            ],
+            [
+              -51.1617273,
+              -23.3253534
             ]
           ]
         ]
@@ -1780,31 +1795,6 @@
         "coordinates": [
           -51.1638715,
           -23.3413494
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/6782491888",
-      "properties": {
-        "timestamp": "2019-11-15T15:52:53Z",
-        "version": 2,
-        "changeset": 77136649,
-        "addr:city": "Londrina",
-        "addr:housenumber": "714",
-        "addr:street": "Rua Cambará",
-        "addr:suburb": "Centro",
-        "amenity": "hospital",
-        "healthcare": "hospital",
-        "healthcare:speciality": "ophthalmology",
-        "name": "Hoftalon - Ambulatório",
-        "id": "node/6782491888"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -51.1582717,
-          -23.3185213
         ]
       }
     },

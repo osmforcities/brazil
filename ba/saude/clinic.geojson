@@ -3,47 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": "way/1184895819",
-      "properties": {
-        "timestamp": "2023-06-25T23:14:12Z",
-        "version": 1,
-        "changeset": 137768904,
-        "amenity": "clinic",
-        "building": "yes",
-        "healthcare": "clinic",
-        "name": "Unidade Básica de Saúde de Água Branca",
-        "id": "way/1184895819"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -40.2853482,
-              -10.926617
-            ],
-            [
-              -40.2853683,
-              -10.9266627
-            ],
-            [
-              -40.2853016,
-              -10.9266958
-            ],
-            [
-              -40.2852739,
-              -10.9266459
-            ],
-            [
-              -40.2853482,
-              -10.926617
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/1245619798",
       "properties": {
         "timestamp": "2024-02-02T17:32:51Z",
@@ -104,6 +63,26 @@
               -10.9447981
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11755851998",
+      "properties": {
+        "timestamp": "2024-03-23T16:27:04Z",
+        "version": 1,
+        "changeset": 149058618,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Unidade Básica da Família - AGUA BRANCA",
+        "id": "node/11755851998"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.2850717,
+          -10.9257226
         ]
       }
     }

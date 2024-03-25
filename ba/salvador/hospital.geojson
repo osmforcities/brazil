@@ -1233,73 +1233,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/379963446",
-      "properties": {
-        "timestamp": "2020-06-02T01:05:32Z",
-        "version": 3,
-        "changeset": 86067720,
-        "addr:housenumber": "1291",
-        "addr:street": "Avenida Dom João VI",
-        "addr:suburb": "Brotas",
-        "amenity": "hospital",
-        "building": "hospital",
-        "emergency": "yes",
-        "healthcare": "hospital",
-        "name": "Hospital Evangélico da Bahia",
-        "phone": "+55 71 3357-8890",
-        "website": "http://heb.org.br/",
-        "id": "way/379963446"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -38.4890117,
-              -12.9900506
-            ],
-            [
-              -38.4887432,
-              -12.9901717
-            ],
-            [
-              -38.4886983,
-              -12.9901576
-            ],
-            [
-              -38.4886387,
-              -12.9900157
-            ],
-            [
-              -38.488675,
-              -12.9899982
-            ],
-            [
-              -38.4886023,
-              -12.989835
-            ],
-            [
-              -38.4887936,
-              -12.9897734
-            ],
-            [
-              -38.4888157,
-              -12.9898196
-            ],
-            [
-              -38.4889848,
-              -12.9897641
-            ],
-            [
-              -38.4890117,
-              -12.9900506
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/452156402",
       "properties": {
         "timestamp": "2023-03-03T13:12:39Z",
@@ -5766,6 +5699,63 @@
     },
     {
       "type": "Feature",
+      "id": "way/1265514124",
+      "properties": {
+        "timestamp": "2024-03-23T13:42:09Z",
+        "version": 1,
+        "changeset": 149051348,
+        "addr:street": "Rua Jayme Vieira Lima",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Centro de parto normal Marieta de Souza Pereira",
+        "id": "way/1265514124"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.445267,
+              -12.9165705
+            ],
+            [
+              -38.4452548,
+              -12.9166714
+            ],
+            [
+              -38.4449757,
+              -12.9166392
+            ],
+            [
+              -38.4449775,
+              -12.9166244
+            ],
+            [
+              -38.4449426,
+              -12.9166204
+            ],
+            [
+              -38.4449449,
+              -12.9166013
+            ],
+            [
+              -38.4449201,
+              -12.9165985
+            ],
+            [
+              -38.4449282,
+              -12.9165314
+            ],
+            [
+              -38.445267,
+              -12.9165705
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/1774921161",
       "properties": {
         "timestamp": "2022-06-29T10:34:06Z",
@@ -6575,6 +6565,25 @@
         "coordinates": [
           -38.5247045,
           -13.0028228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11755480068",
+      "properties": {
+        "timestamp": "2024-03-23T13:43:01Z",
+        "version": 1,
+        "changeset": 149051375,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "id": "node/11755480068"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4887947,
+          -12.9899579
         ]
       }
     }

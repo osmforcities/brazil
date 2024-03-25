@@ -2807,6 +2807,146 @@
     },
     {
       "type": "Feature",
+      "id": "way/1265337561",
+      "properties": {
+        "timestamp": "2024-03-23T01:05:07Z",
+        "version": 1,
+        "changeset": 149035455,
+        "amenity": "pharmacy",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "id": "way/1265337561"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.4798101,
+              -12.988467
+            ],
+            [
+              -38.4799078,
+              -12.9884785
+            ],
+            [
+              -38.4798809,
+              -12.9886562
+            ],
+            [
+              -38.4798655,
+              -12.9886544
+            ],
+            [
+              -38.4797844,
+              -12.9886447
+            ],
+            [
+              -38.4798101,
+              -12.988467
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1265337571",
+      "properties": {
+        "timestamp": "2024-03-23T01:05:07Z",
+        "version": 1,
+        "changeset": 149035455,
+        "amenity": "pharmacy",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "id": "way/1265337571"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.4795526,
+              -12.9884189
+            ],
+            [
+              -38.4795333,
+              -12.9884858
+            ],
+            [
+              -38.4795591,
+              -12.9884942
+            ],
+            [
+              -38.4795162,
+              -12.9886437
+            ],
+            [
+              -38.4794335,
+              -12.9886311
+            ],
+            [
+              -38.4794829,
+              -12.9884775
+            ],
+            [
+              -38.4794625,
+              -12.9884743
+            ],
+            [
+              -38.4794786,
+              -12.9884053
+            ],
+            [
+              -38.4795526,
+              -12.9884189
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1265379192",
+      "properties": {
+        "timestamp": "2024-03-23T01:31:34Z",
+        "version": 1,
+        "changeset": 149035796,
+        "amenity": "pharmacy",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "id": "way/1265379192"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.4829934,
+              -12.9901334
+            ],
+            [
+              -38.4828174,
+              -12.9902881
+            ],
+            [
+              -38.4827284,
+              -12.9901941
+            ],
+            [
+              -38.482899,
+              -12.9900414
+            ],
+            [
+              -38.4829934,
+              -12.9901334
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/566435510",
       "properties": {
         "timestamp": "2021-08-03T20:12:35Z",
@@ -2952,9 +3092,9 @@
       "type": "Feature",
       "id": "node/740234371",
       "properties": {
-        "timestamp": "2021-08-03T20:12:35Z",
-        "version": 4,
-        "changeset": 109112240,
+        "timestamp": "2024-03-23T13:41:57Z",
+        "version": 5,
+        "changeset": 149051341,
         "amenity": "pharmacy",
         "brand": "Pague Menos",
         "brand:wikidata": "Q7124466",
@@ -2963,6 +3103,7 @@
         "healthcare": "pharmacy",
         "name": "Pague Menos",
         "source": "survey",
+        "wheelchair": "yes",
         "id": "node/740234371"
       },
       "geometry": {
@@ -4671,12 +4812,13 @@
       "type": "Feature",
       "id": "node/5325562034",
       "properties": {
-        "timestamp": "2018-01-07T14:22:05Z",
-        "version": 1,
-        "changeset": 55236876,
+        "timestamp": "2024-03-23T15:56:58Z",
+        "version": 2,
+        "changeset": 149057284,
         "amenity": "pharmacy",
         "healthcare": "pharmacy",
         "name": "Farmácia Preço Popular",
+        "wheelchair": "yes",
         "id": "node/5325562034"
       },
       "geometry": {
@@ -4691,9 +4833,9 @@
       "type": "Feature",
       "id": "node/5325562037",
       "properties": {
-        "timestamp": "2022-01-11T19:58:01Z",
-        "version": 2,
-        "changeset": 116038624,
+        "timestamp": "2024-03-23T13:37:18Z",
+        "version": 3,
+        "changeset": 149051179,
         "amenity": "pharmacy",
         "brand": "Drogaria Globo",
         "brand:wikidata": "Q56351623",
@@ -4701,6 +4843,7 @@
         "dispensing": "yes",
         "healthcare": "pharmacy",
         "name": "Drogaria Globo",
+        "wheelchair": "yes",
         "id": "node/5325562037"
       },
       "geometry": {
@@ -4715,12 +4858,13 @@
       "type": "Feature",
       "id": "node/5325562041",
       "properties": {
-        "timestamp": "2018-01-07T14:22:05Z",
-        "version": 1,
-        "changeset": 55236876,
+        "timestamp": "2024-03-23T13:39:43Z",
+        "version": 2,
+        "changeset": 149051260,
         "amenity": "pharmacy",
         "healthcare": "pharmacy",
         "name": "Farmácia do Trabalhador Brasileiro",
+        "wheelchair": "yes",
         "id": "node/5325562041"
       },
       "geometry": {
@@ -4735,12 +4879,14 @@
       "type": "Feature",
       "id": "node/5325562044",
       "properties": {
-        "timestamp": "2018-01-07T14:22:06Z",
-        "version": 1,
-        "changeset": 55236876,
+        "timestamp": "2024-03-23T16:43:42Z",
+        "version": 3,
+        "changeset": 149059165,
         "amenity": "pharmacy",
         "healthcare": "pharmacy",
         "name": "Farmácia Ultraeconômica",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes",
         "id": "node/5325562044"
       },
       "geometry": {

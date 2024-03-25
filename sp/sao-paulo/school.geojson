@@ -64122,6 +64122,79 @@
     },
     {
       "type": "Feature",
+      "id": "way/910601657",
+      "properties": {
+        "timestamp": "2024-03-23T12:17:08Z",
+        "version": 4,
+        "changeset": 149048633,
+        "addr:housenumber": "570",
+        "addr:postcode": "08131-220",
+        "addr:street": "Rua Estudantes da China",
+        "amenity": "school",
+        "building:levels": "1",
+        "email": "e916535a@educacao.sp.gov.br",
+        "name": "Escola Estadual Roger Jules de Carvalho Mange",
+        "operator": "Secretaria da Educação do Estado de São Paulo",
+        "operator:type": "government",
+        "phone": "+55 11 2963 1772",
+        "religion": "none",
+        "residential": "university",
+        "id": "way/910601657"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.3715779,
+              -23.501303
+            ],
+            [
+              -46.3714399,
+              -23.5014739
+            ],
+            [
+              -46.3709896,
+              -23.5014712
+            ],
+            [
+              -46.3708469,
+              -23.5014263
+            ],
+            [
+              -46.3706616,
+              -23.5013539
+            ],
+            [
+              -46.3705908,
+              -23.5010878
+            ],
+            [
+              -46.3705861,
+              -23.5010232
+            ],
+            [
+              -46.3706128,
+              -23.5010141
+            ],
+            [
+              -46.3706688,
+              -23.5009922
+            ],
+            [
+              -46.3709302,
+              -23.501085
+            ],
+            [
+              -46.3715779,
+              -23.501303
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/914516368",
       "properties": {
         "timestamp": "2021-03-08T21:15:15Z",
@@ -92657,11 +92730,12 @@
       "type": "Feature",
       "id": "node/3755216504",
       "properties": {
-        "timestamp": "2015-09-23T20:51:11Z",
-        "version": 2,
-        "changeset": 34214700,
+        "timestamp": "2024-03-23T15:15:16Z",
+        "version": 3,
+        "changeset": 149055257,
         "amenity": "school",
         "name": "Escola Mundial de Línguas",
+        "wheelchair": "no",
         "id": "node/3755216504"
       },
       "geometry": {
@@ -94205,9 +94279,9 @@
       "type": "Feature",
       "id": "node/4653755316",
       "properties": {
-        "timestamp": "2017-11-30T13:49:43Z",
-        "version": 2,
-        "changeset": 54205311,
+        "timestamp": "2024-03-23T14:36:44Z",
+        "version": 3,
+        "changeset": 149053670,
         "addr:city": "São Paulo",
         "addr:housenumber": "228",
         "addr:postcode": "01222-020",
@@ -94217,6 +94291,7 @@
         "name:en": "Senac",
         "name:pt": "Senac Sede",
         "opening_hours": "Mo-Fr 09:00-18:00",
+        "wheelchair": "yes",
         "id": "node/4653755316"
       },
       "geometry": {

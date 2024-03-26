@@ -5164,10 +5164,11 @@
       "type": "Feature",
       "id": "way/587616681",
       "properties": {
-        "timestamp": "2018-05-12T04:33:23Z",
-        "version": 1,
-        "changeset": 58894151,
+        "timestamp": "2024-03-24T01:55:39Z",
+        "version": 2,
+        "changeset": 149072954,
         "building": "roof",
+        "layer": "1",
         "sport": "multi",
         "id": "way/587616681"
       },
@@ -5176,24 +5177,36 @@
         "coordinates": [
           [
             [
-              -51.1400798,
-              -23.2510475
+              -51.140078,
+              -23.2510526
             ],
             [
               -51.1400901,
               -23.2513234
             ],
             [
-              -51.1398497,
-              -23.251331
+              -51.1399736,
+              -23.2513052
             ],
             [
-              -51.1398394,
-              -23.2510551
+              -51.1398515,
+              -23.2513378
             ],
             [
-              -51.1400798,
-              -23.2510475
+              -51.1398468,
+              -23.2510585
+            ],
+            [
+              -51.1399642,
+              -23.2510403
+            ],
+            [
+              -51.1400119,
+              -23.2510447
+            ],
+            [
+              -51.140078,
+              -23.2510526
             ]
           ]
         ]
@@ -9152,45 +9165,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/772553764",
-      "properties": {
-        "timestamp": "2020-02-14T23:48:21Z",
-        "version": 1,
-        "changeset": 81029353,
-        "leisure": "fitness_station",
-        "sport": "fitness",
-        "id": "way/772553764"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -51.142214,
-              -23.2544965
-            ],
-            [
-              -51.1421177,
-              -23.2544984
-            ],
-            [
-              -51.1421151,
-              -23.254383
-            ],
-            [
-              -51.1422114,
-              -23.2543812
-            ],
-            [
-              -51.142214,
-              -23.2544965
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/772719677",
       "properties": {
         "timestamp": "2020-02-15T15:30:13Z",
@@ -12139,6 +12113,46 @@
     },
     {
       "type": "Feature",
+      "id": "way/1265699274",
+      "properties": {
+        "timestamp": "2024-03-24T03:11:53Z",
+        "version": 1,
+        "changeset": 149073711,
+        "leisure": "pitch",
+        "sport": "soccer",
+        "surface": "grass",
+        "id": "way/1265699274"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.1434241,
+              -23.2532916
+            ],
+            [
+              -51.1434477,
+              -23.2541336
+            ],
+            [
+              -51.1427895,
+              -23.2541492
+            ],
+            [
+              -51.1427657,
+              -23.2533073
+            ],
+            [
+              -51.1434241,
+              -23.2532916
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/118729437",
       "properties": {
         "timestamp": "2021-01-03T23:34:17Z",
@@ -14550,9 +14564,9 @@
       "type": "Feature",
       "id": "node/6620361540",
       "properties": {
-        "timestamp": "2019-07-16T14:15:16Z",
-        "version": 1,
-        "changeset": 72308239,
+        "timestamp": "2024-03-24T23:24:03Z",
+        "version": 2,
+        "changeset": 149109338,
         "leisure": "fitness_station",
         "sport": "fitness",
         "id": "node/6620361540"
@@ -14560,8 +14574,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -51.1491861,
-          -23.2562885
+          -51.149253,
+          -23.2563039
         ]
       }
     },
@@ -14744,6 +14758,47 @@
         "coordinates": [
           -51.173671,
           -23.2787083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11757030425",
+      "properties": {
+        "timestamp": "2024-03-24T02:43:52Z",
+        "version": 1,
+        "changeset": 149073476,
+        "blind": "no",
+        "fitness_station": "yes",
+        "leisure": "fitness_station",
+        "sport": "fitness",
+        "wheelchair": "no",
+        "id": "node/11757030425"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1394442,
+          -23.2496744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11757094670",
+      "properties": {
+        "timestamp": "2024-03-24T03:11:53Z",
+        "version": 1,
+        "changeset": 149073711,
+        "leisure": "fitness_station",
+        "sport": "fitness",
+        "id": "node/11757094670"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1421487,
+          -23.2544642
         ]
       }
     }

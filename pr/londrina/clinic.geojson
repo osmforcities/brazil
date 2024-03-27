@@ -60,13 +60,25 @@
       "type": "Feature",
       "id": "way/469830096",
       "properties": {
-        "timestamp": "2022-08-23T12:07:09Z",
-        "version": 2,
-        "changeset": 125268478,
+        "timestamp": "2024-03-25T00:17:23Z",
+        "version": 3,
+        "changeset": 149110072,
+        "addr:housenumber": "98",
+        "addr:postcode": "86077-130",
+        "addr:street": "Rua da Esperança",
+        "addr:suburb": "Conjunto Habitacional Carnascialli 1",
         "amenity": "clinic",
         "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
         "name": "Unidade Básica de Saúde Carnascialli",
+        "opening_hours": "Mo-Fr 07:00-19:00; PH off",
+        "operator": "Secretaria Municipal da Saúde",
+        "operator:type": "government",
+        "phone": "+55 43 3379 0869",
+        "ref:CNES": "2578913",
         "short_name": "UBS de Carnascialli",
+        "source": "https://saude.londrina.pr.gov.br/index.php/unidade-basica-saude/ubs-regiao-norte.html;CNES",
         "id": "way/469830096"
       },
       "geometry": {
@@ -74,48 +86,48 @@
         "coordinates": [
           [
             [
-              -51.1661212,
-              -23.2775019
+              -51.1658255,
+              -23.2775203
             ],
             [
-              -51.1660682,
-              -23.277658
+              -51.1656862,
+              -23.2774774
             ],
             [
-              -51.1657249,
-              -23.2775503
+              -51.1657707,
+              -23.2772967
             ],
             [
-              -51.1657818,
-              -23.2774001
+              -51.1658109,
+              -23.2773014
             ],
             [
-              -51.1658036,
-              -23.2774086
+              -51.165766,
+              -23.277412
             ],
             [
-              -51.1658417,
-              -23.2772928
+              -51.1657833,
+              -23.2774205
             ],
             [
-              -51.1659125,
-              -23.2773105
+              -51.1658343,
+              -23.277303
+            ],
+            [
+              -51.1658904,
+              -23.2773207
             ],
             [
               -51.1658473,
-              -23.2774867
+              -23.2774528
             ],
             [
-              -51.1659666,
-              -23.2775169
+              -51.1658664,
+              -23.2774603
             ],
             [
-              -51.1659881,
-              -23.2774629
-            ],
-            [
-              -51.1661212,
-              -23.2775019
+              -51.1658255,
+              -23.2775203
             ]
           ]
         ]
@@ -938,11 +950,12 @@
       "type": "Feature",
       "id": "way/587621983",
       "properties": {
-        "timestamp": "2023-02-04T14:11:32Z",
-        "version": 2,
-        "changeset": 132077804,
+        "timestamp": "2024-03-25T01:00:03Z",
+        "version": 3,
+        "changeset": 149110486,
         "addr:city": "Londrina",
-        "addr:housenumber": "1640",
+        "addr:housenumber": "1660",
+        "addr:postcode": "86084-830",
         "addr:street": "Avenida Bento Amado Monteiro",
         "addr:suburb": "Campos Verdes",
         "amenity": "clinic",
@@ -950,7 +963,14 @@
         "building:levels": "1",
         "healthcare": "clinic",
         "healthcare:speciality": "general",
-        "name": "Unidade Básica de Saúde Campos Verdes",
+        "name": "Unidade Básica de Saúde Doutor Humberto Botura",
+        "opening_hours": "Mo-Fr 07:00-19:00; PH off",
+        "operator": "Secretaria municipal da Saúde",
+        "operator:type": "government",
+        "phone": "+55 43 3378 0141",
+        "ref:CNES": "7586248",
+        "short_name": "Unidade Básica de Saúde Campos Verdes",
+        "source": "CNES;https://saude.londrina.pr.gov.br/index.php/unidade-basica-saude/ubs-regiao-norte.html",
         "id": "way/587621983"
       },
       "geometry": {
@@ -1446,9 +1466,9 @@
       "type": "Feature",
       "id": "way/699088839",
       "properties": {
-        "timestamp": "2024-01-20T02:10:18Z",
-        "version": 2,
-        "changeset": 146463434,
+        "timestamp": "2024-03-25T00:55:56Z",
+        "version": 3,
+        "changeset": 149110445,
         "addr:city": "Londrina",
         "addr:housenumber": "585",
         "addr:postcode": "86081-585",
@@ -1465,8 +1485,9 @@
         "operator:type": "government",
         "phone": "+55 43 3379 0850",
         "ref:CNES": "Guidugli",
-        "short_name": "Unidade Básica de Saúde Padovani",
+        "short_name": "Unidade Básica de Saúde Padovani/ Vista Bela",
         "source": "CNES;https://saude.londrina.pr.gov.br/index.php/unidade-basica-saude/ubs-regiao-norte.html",
+        "wheelchair": "yes",
         "id": "way/699088839"
       },
       "geometry": {
@@ -2193,6 +2214,111 @@
             [
               -51.1560482,
               -23.3208127
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1265939053",
+      "properties": {
+        "timestamp": "2024-03-25T00:52:41Z",
+        "version": 2,
+        "changeset": 149110399,
+        "addr:housenumber": "342",
+        "addr:street": "Rua John Lennon",
+        "addr:suburb": "Conjunto Vivi Xavier",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Unidade Básica de Saúde Doutor Justiniano Clímaco da Silva",
+        "opening_hours": "Mo-Fr 07:00-19:00; PH off",
+        "operator": "Secretaria Municipal da Saúde",
+        "operator:type": "government",
+        "phone": "+55 43 3379 0775",
+        "ref:CNES": "2579197",
+        "short_name": "Unidade Básica de Saúde Vivi Xavier",
+        "source": "CNES;https://saude.londrina.pr.gov.br/index.php/unidade-basica-saude/ubs-regiao-norte.html",
+        "wheelchair": "yes",
+        "id": "way/1265939053"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.1688575,
+              -23.2580694
+            ],
+            [
+              -51.1687995,
+              -23.2581317
+            ],
+            [
+              -51.1687836,
+              -23.2581487
+            ],
+            [
+              -51.1687251,
+              -23.2580878
+            ],
+            [
+              -51.1687328,
+              -23.2581982
+            ],
+            [
+              -51.1686773,
+              -23.2581926
+            ],
+            [
+              -51.1686265,
+              -23.2582053
+            ],
+            [
+              -51.1686218,
+              -23.2580949
+            ],
+            [
+              -51.1685525,
+              -23.2581572
+            ],
+            [
+              -51.1685202,
+              -23.2581119
+            ],
+            [
+              -51.1684755,
+              -23.2580765
+            ],
+            [
+              -51.1686018,
+              -23.2579562
+            ],
+            [
+              -51.1686295,
+              -23.257969
+            ],
+            [
+              -51.1686665,
+              -23.2579392
+            ],
+            [
+              -51.1687097,
+              -23.2579633
+            ],
+            [
+              -51.1687374,
+              -23.2579548
+            ],
+            [
+              -51.1688121,
+              -23.2580261
+            ],
+            [
+              -51.1688575,
+              -23.2580694
             ]
           ]
         ]

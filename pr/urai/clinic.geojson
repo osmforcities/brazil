@@ -3,6 +3,110 @@
   "features": [
     {
       "type": "Feature",
+      "id": "way/500722220",
+      "properties": {
+        "timestamp": "2024-03-25T23:54:45Z",
+        "version": 3,
+        "changeset": 149153753,
+        "addr:city": "Uraí",
+        "addr:housenumber": "1143",
+        "addr:postcode": "86280-000",
+        "addr:street": "Avenida Brasil",
+        "addr:suburb": "Centro",
+        "amenity": "clinic",
+        "building": "yes",
+        "building:levels": "1",
+        "email": "ubslaurindourai@gmail.com",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Unidade Básica de Saúde Laurindo de Oliveira",
+        "official_name": "UBS -Laurindo de Oliveira",
+        "opening_hours": "Mo-Fr 07:00-17:00; PH off",
+        "operator": "Secretaria de Saúde",
+        "operator:type": "government",
+        "phone": "+55 43 3541 1821",
+        "ref:CNES": "7332033",
+        "source": "CNES;https://www.urai.pr.gov.br/?pag=T1RjPU9EZz1PVFU9T0dVPU9HST1PVEE9T0dFPU9HRT0=&idmenu=228",
+        "id": "way/500722220"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -50.7905941,
+              -23.2042042
+            ],
+            [
+              -50.7904528,
+              -23.2043539
+            ],
+            [
+              -50.7904206,
+              -23.2043305
+            ],
+            [
+              -50.7904307,
+              -23.20432
+            ],
+            [
+              -50.7904126,
+              -23.2043058
+            ],
+            [
+              -50.7904052,
+              -23.2043139
+            ],
+            [
+              -50.7903774,
+              -23.204294
+            ],
+            [
+              -50.7904153,
+              -23.204253
+            ],
+            [
+              -50.7903713,
+              -23.2042197
+            ],
+            [
+              -50.7904383,
+              -23.2041489
+            ],
+            [
+              -50.7904789,
+              -23.2041816
+            ],
+            [
+              -50.7905136,
+              -23.204145
+            ],
+            [
+              -50.7905436,
+              -23.2041668
+            ],
+            [
+              -50.7905233,
+              -23.2041896
+            ],
+            [
+              -50.790541,
+              -23.2042026
+            ],
+            [
+              -50.7905622,
+              -23.2041798
+            ],
+            [
+              -50.7905941,
+              -23.2042042
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/594254016",
       "properties": {
         "timestamp": "2022-04-16T22:55:02Z",
@@ -92,33 +196,6 @@
               -23.201055
             ]
           ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/5053774622",
-      "properties": {
-        "timestamp": "2022-07-29T09:38:46Z",
-        "version": 2,
-        "changeset": 124221846,
-        "addr:city": "Uraí",
-        "addr:postcode": "86280-000",
-        "addr:street": "Avenida Brasil",
-        "addr:suburb": "Centro",
-        "amenity": "clinic",
-        "healthcare": "clinic",
-        "name": "UBS",
-        "operator": "Sistema Único de Saúde",
-        "operator:short": "SUS",
-        "operator:wikidata": "Q7531056",
-        "id": "node/5053774622"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -50.790472,
-          -23.2042442
         ]
       }
     },

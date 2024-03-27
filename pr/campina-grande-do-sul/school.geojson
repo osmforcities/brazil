@@ -132,15 +132,17 @@
       "type": "Feature",
       "id": "way/1260626310",
       "properties": {
-        "timestamp": "2024-03-11T14:53:22Z",
-        "version": 1,
-        "changeset": 148510175,
+        "timestamp": "2024-03-25T11:21:21Z",
+        "version": 2,
+        "changeset": 149125899,
         "addr:city": "Campina Grande do Sul",
         "addr:housenumber": "704",
+        "addr:postcode": "83430-000",
         "addr:street": "Celestino Ferrarini",
         "addr:suburb": "Jardim Graciosa",
         "amenity": "school",
         "name": "Colegio Estadual Bandeirantes",
+        "website": "http://www.campinagrandedosul.pr.gov.br/",
         "id": "way/1260626310"
       },
       "geometry": {
@@ -213,10 +215,14 @@
       "type": "Feature",
       "id": "way/1260626694",
       "properties": {
-        "timestamp": "2024-03-11T14:54:00Z",
-        "version": 1,
-        "changeset": 148510202,
+        "timestamp": "2024-03-25T11:13:16Z",
+        "version": 2,
+        "changeset": 149125565,
+        "addr:city": "Campina Grande do Sul",
+        "addr:street": "Avenida Lindolfo Henrique Ferreira",
+        "addr:suburb": "Jardim Ceccon",
         "amenity": "school",
+        "name": "Escola Municipal Antonio José de Carvalho",
         "id": "way/1260626694"
       },
       "geometry": {
@@ -306,6 +312,50 @@
             [
               -49.108458,
               -25.3664617
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1266076568",
+      "properties": {
+        "timestamp": "2024-03-25T11:23:33Z",
+        "version": 1,
+        "changeset": 149126008,
+        "addr:city": "Campina Grande do Sul",
+        "addr:housenumber": "2254",
+        "addr:postcode": "83430-000",
+        "addr:street": "Rua Presidente Arthur da Costa e Silva",
+        "addr:suburb": "Jardim Paulista",
+        "amenity": "school",
+        "name": "Escola Municipal LUCIDIO FLORENCIO RIBEIRO",
+        "id": "way/1266076568"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.1139266,
+              -25.3624125
+            ],
+            [
+              -49.1138531,
+              -25.3627566
+            ],
+            [
+              -49.1136783,
+              -25.3627262
+            ],
+            [
+              -49.1137518,
+              -25.362382
+            ],
+            [
+              -49.1139266,
+              -25.3624125
             ]
           ]
         ]

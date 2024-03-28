@@ -109,18 +109,25 @@
       "type": "Feature",
       "id": "way/594254016",
       "properties": {
-        "timestamp": "2022-04-16T22:55:02Z",
-        "version": 4,
-        "changeset": 119800700,
+        "timestamp": "2024-03-26T00:02:31Z",
+        "version": 5,
+        "changeset": 149153915,
         "addr:city": "Uraí",
-        "addr:housenumber": "677",
+        "addr:housenumber": "577",
         "addr:postcode": "86280-000",
         "addr:street": "Rua José de Oliveira Borges",
         "addr:suburb": "Centro",
         "amenity": "clinic",
         "building": "yes",
         "building:levels": "1",
+        "email": "ubsuzires@hotmail.com",
         "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Unidade Básica de Saúde Doutor Uzires Portugal",
+        "opening_hours": "Mo-Fr 07:00-17:00; PH off",
+        "operator": "Secretaria de Saúde",
+        "operator:type": "government",
+        "short_name": "UBS Central",
         "id": "way/594254016"
       },
       "geometry": {
@@ -201,29 +208,51 @@
     },
     {
       "type": "Feature",
-      "id": "node/5754916998",
+      "id": "way/607174129",
       "properties": {
-        "timestamp": "2022-07-29T09:48:12Z",
+        "timestamp": "2024-03-26T00:34:07Z",
         "version": 2,
-        "changeset": 124222334,
+        "changeset": 149154477,
         "addr:city": "Distrito Cruzeiro do Norte",
-        "addr:postcode": "86285-000",
+        "addr:postcode": "86285-970",
         "addr:street": "Avenida Paraná",
         "addr:suburb": "Centro",
         "amenity": "clinic",
+        "building": "yes",
+        "building:levels": "1",
         "healthcare": "clinic",
-        "name": "U.B.S - Unidade Básica de Saúde - José Doneze",
-        "operator": "Sistema Único de Saúde",
-        "operator:short": "SUS",
-        "operator:wikidata": "Q7531056",
-        "phone": "+55 43 3584 1145",
-        "id": "node/5754916998"
+        "healthcare:speciality": "general",
+        "name": "Unidade Básica de Saúde José Doneze",
+        "opening_hours": "Mo-Fr 07:00-17:00; PH off",
+        "operator": "Secretaria Municipal",
+        "operator:type": "government",
+        "id": "way/607174129"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -50.8624748,
-          -23.2294073
+          [
+            [
+              -50.8624594,
+              -23.2294639
+            ],
+            [
+              -50.8624178,
+              -23.2293875
+            ],
+            [
+              -50.8624871,
+              -23.2293563
+            ],
+            [
+              -50.8625287,
+              -23.2294328
+            ],
+            [
+              -50.8624594,
+              -23.2294639
+            ]
+          ]
         ]
       }
     }

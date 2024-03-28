@@ -392,9 +392,9 @@
       "type": "Feature",
       "id": "way/472184010",
       "properties": {
-        "timestamp": "2018-07-27T16:37:12Z",
-        "version": 3,
-        "changeset": 61125130,
+        "timestamp": "2024-03-26T19:01:50Z",
+        "version": 4,
+        "changeset": 149191980,
         "addr:city": "Londrina",
         "addr:housenumber": "1455",
         "addr:postcode": "86025-080",
@@ -403,7 +403,14 @@
         "amenity": "clinic",
         "building": "yes",
         "healthcare": "clinic",
-        "name": "Unidade Básica de Saúde Dr. Ody Silveira",
+        "healthcare:speciality": "general",
+        "name": "Unidade Básica de Saúde Doutor Ody Silveira",
+        "opening_hours": "Mo-Fr 07:00-19:00; PH off",
+        "operator": "Secretaria Municipal da Saúde",
+        "operator:type": "government",
+        "ref:CNES": "2577895",
+        "short_name": "Unidade Básica de Saúde Centro Social Urbano",
+        "source": "CNES;https://saude.londrina.pr.gov.br/index.php/unidade-basica-saude/ubs-regiao-centro.html",
         "id": "way/472184010"
       },
       "geometry": {
@@ -568,14 +575,26 @@
       "type": "Feature",
       "id": "way/579040598",
       "properties": {
-        "timestamp": "2018-04-11T21:05:10Z",
-        "version": 1,
-        "changeset": 58017789,
+        "timestamp": "2024-03-26T14:40:57Z",
+        "version": 2,
+        "changeset": 149181254,
+        "addr:housenumber": "605",
+        "addr:postcode": "86050-020",
+        "addr:street": "Rua Montevidéu",
+        "addr:suburb": "Jardim Arco-Íris",
         "amenity": "clinic",
         "building": "yes",
         "building:levels": "1",
         "healthcare": "clinic",
-        "name": "Unidade Básica de Saúde - Guanabara - Pastor Ivo Luiz de Souza",
+        "healthcare:speciality": "general;paediatrics;ginecologia",
+        "name": "Unidade Básica de Saúde Pastor Ivo Luiz de Souza",
+        "opening_hours": "Mo-Fr 07:00-19:00; PH off",
+        "operator": "Secretaria Municipal da Saúde",
+        "operator:type": "government",
+        "phone": "+55 43 3379 0883",
+        "ref:CNES": "2577720",
+        "short_name": "Unidade Básica de Saúde Guanabara",
+        "source": "CNES;https://saude.londrina.pr.gov.br/index.php/unidade-basica-saude/ubs-regiao-centro.html",
         "id": "way/579040598"
       },
       "geometry": {
@@ -1982,14 +2001,13 @@
       "type": "Feature",
       "id": "way/1238955355",
       "properties": {
-        "timestamp": "2024-01-11T21:18:00Z",
-        "version": 1,
-        "changeset": 146158814,
+        "timestamp": "2024-03-26T14:20:38Z",
+        "version": 2,
+        "changeset": 149180368,
         "addr:housenumber": "600",
         "addr:postcode": "86010-260",
         "addr:street": "Rua Argentina",
         "addr:suburb": "Vila Brasil",
-        "alt_name": "Unidade Básica de Saúde Vila Brasil",
         "amenity": "clinic",
         "building": "yes",
         "healthcare": "clinic",
@@ -2000,6 +2018,7 @@
         "operator:type": "government",
         "phone": "+55 43 3339 5223",
         "ref:CNES": "2579057",
+        "short_name": "Unidade Básica de Saúde Vila Brasil",
         "source": "CNES;Sistema de Informação Geográfica de Londrina",
         "id": "way/1238955355"
       },
@@ -2042,6 +2061,188 @@
             [
               -51.1502854,
               -23.3278459
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1240043423",
+      "properties": {
+        "timestamp": "2024-03-26T23:58:43Z",
+        "version": 2,
+        "changeset": 149199626,
+        "addr:housenumber": "374",
+        "addr:postcode": "86035-430",
+        "addr:street": "Rua das Goiabeiras",
+        "addr:suburb": "Jardim Marabá",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Unidade Básica de Saúde Doutor Eugênio Molin",
+        "opening_hours": "Mo-Fr 07:00-19:00; PH off",
+        "operator": "Secretaria Municipal da Saúde",
+        "operator:type": "government",
+        "phone": "+55 43 3379 0898",
+        "ref:CNES": "2579170",
+        "short_name": "Unidade Básica de Saúde Marabá",
+        "source": "CNES;https://saude.londrina.pr.gov.br/index.php/unidade-basica-saude/ubs-regiao-leste.html",
+        "wheelchair": "yes",
+        "id": "way/1240043423"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.1315053,
+              -23.3104838
+            ],
+            [
+              -51.1316446,
+              -23.3104742
+            ],
+            [
+              -51.1316521,
+              -23.3105526
+            ],
+            [
+              -51.1316746,
+              -23.3105512
+            ],
+            [
+              -51.1316661,
+              -23.3107012
+            ],
+            [
+              -51.1316311,
+              -23.310704
+            ],
+            [
+              -51.1316296,
+              -23.3107356
+            ],
+            [
+              -51.1314903,
+              -23.3107576
+            ],
+            [
+              -51.1314993,
+              -23.3106641
+            ],
+            [
+              -51.1315787,
+              -23.3106641
+            ],
+            [
+              -51.1315772,
+              -23.3106379
+            ],
+            [
+              -51.1315188,
+              -23.3106393
+            ],
+            [
+              -51.1315217,
+              -23.3105801
+            ],
+            [
+              -51.1316251,
+              -23.3105801
+            ],
+            [
+              -51.1316236,
+              -23.3105567
+            ],
+            [
+              -51.1315158,
+              -23.3105677
+            ],
+            [
+              -51.1315053,
+              -23.3104838
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1240761352",
+      "properties": {
+        "timestamp": "2024-03-26T19:40:44Z",
+        "version": 2,
+        "changeset": 149193043,
+        "addr:housenumber": "246",
+        "addr:street": "Rua Rosa Branca",
+        "addr:suburb": "Vila Ricardo",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Unidade Básica de Saúde Vila Ricardo",
+        "opening_hours": "Mo-Fr 07:00-19:00",
+        "operator": "Secretaria Municipal da Saúde",
+        "operator:type": "government",
+        "id": "way/1240761352"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.1394633,
+              -23.3075979
+            ],
+            [
+              -51.1394617,
+              -23.3076682
+            ],
+            [
+              -51.139574,
+              -23.307559
+            ],
+            [
+              -51.1396441,
+              -23.3076263
+            ],
+            [
+              -51.1395382,
+              -23.3077205
+            ],
+            [
+              -51.1396527,
+              -23.3077184
+            ],
+            [
+              -51.1396546,
+              -23.3078156
+            ],
+            [
+              -51.1394269,
+              -23.3078214
+            ],
+            [
+              -51.1393835,
+              -23.307798
+            ],
+            [
+              -51.1393493,
+              -23.3077489
+            ],
+            [
+              -51.1393601,
+              -23.3075924
+            ],
+            [
+              -51.1394047,
+              -23.3075859
+            ],
+            [
+              -51.1394633,
+              -23.3075979
             ]
           ]
         ]
@@ -2326,6 +2527,369 @@
     },
     {
       "type": "Feature",
+      "id": "way/1266343419",
+      "properties": {
+        "timestamp": "2024-03-26T02:22:37Z",
+        "version": 1,
+        "changeset": 149155853,
+        "addr:postcode": "86010-060",
+        "addr:street": "Rua Senador Souza Naves",
+        "addr:suburb": "Centro",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Unidade Básica de Saúde Clair Aparecida Pavan",
+        "opening_hours": "Mo-Fr 07:00-19:00; PH off",
+        "operator": "Secretaria Municipal da Saúde",
+        "operator:type": "government",
+        "phone": "+55 43 3379 0871",
+        "ref:CNES": "2577712",
+        "short_name": "UBS Centro",
+        "source": "https://saude.londrina.pr.gov.br/index.php/unidade-basica-saude/ubs-regiao-centro.html;CNES",
+        "id": "way/1266343419"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.1579577,
+              -23.3189363
+            ],
+            [
+              -51.1579572,
+              -23.3189819
+            ],
+            [
+              -51.1579116,
+              -23.3189831
+            ],
+            [
+              -51.1579044,
+              -23.3190485
+            ],
+            [
+              -51.1577971,
+              -23.3190509
+            ],
+            [
+              -51.1577958,
+              -23.3189936
+            ],
+            [
+              -51.1578172,
+              -23.3189972
+            ],
+            [
+              -51.1578137,
+              -23.3189379
+            ],
+            [
+              -51.1579577,
+              -23.3189363
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1266594920",
+      "properties": {
+        "timestamp": "2024-03-26T19:17:28Z",
+        "version": 1,
+        "changeset": 149192448,
+        "addr:housenumber": "150",
+        "addr:postcode": "86025-480",
+        "addr:street": "Rua Cabo Verde",
+        "addr:suburb": "Vila Nova",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Unidade Básica de Saúde Luiz Maques de Mendonça",
+        "opening_hours": "Mo-Fr 07:00-19:00; PH off",
+        "operator": "Secretaria Municipal da Saúde",
+        "operator:type": "government",
+        "phone": "+55 43 3379 0771",
+        "ref:CNES": "2577879",
+        "short_name": "Unidade Básica de Saúde Vila Nova",
+        "source": "CNES;https://saude.londrina.pr.gov.br/index.php/unidade-basica-saude/ubs-regiao-centro.html",
+        "id": "way/1266594920"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.1691393,
+              -23.3002329
+            ],
+            [
+              -51.1692028,
+              -23.3004572
+            ],
+            [
+              -51.1691116,
+              -23.3004796
+            ],
+            [
+              -51.1690905,
+              -23.3003779
+            ],
+            [
+              -51.1690612,
+              -23.3002927
+            ],
+            [
+              -51.1690774,
+              -23.3002867
+            ],
+            [
+              -51.1690742,
+              -23.3002448
+            ],
+            [
+              -51.1691393,
+              -23.3002329
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1266601393",
+      "properties": {
+        "timestamp": "2024-03-26T20:17:49Z",
+        "version": 2,
+        "changeset": 149194152,
+        "addr:housenumber": "89",
+        "addr:postcode": "86027-510",
+        "addr:street": "Rua Santa Madalena",
+        "addr:suburb": "Vila da Fraternidade",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Unidade Básica de Saúde Fraternidade",
+        "opening_hours": "Mo-Fr 07:00-19:00; PH off",
+        "operator": "Secretaria Municipal da Saúde",
+        "operator:type": "government",
+        "phone": "+55 43 3379 0770",
+        "ref:CNES": "2577836",
+        "source": "https://saude.londrina.pr.gov.br/index.php/unidade-basica-saude/ubs-regiao-centro.html",
+        "wheelchair": "yes",
+        "id": "way/1266601393"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.1468497,
+              -23.3088775
+            ],
+            [
+              -51.1469175,
+              -23.3089176
+            ],
+            [
+              -51.1468793,
+              -23.3089788
+            ],
+            [
+              -51.1468752,
+              -23.308988
+            ],
+            [
+              -51.1469277,
+              -23.3090157
+            ],
+            [
+              -51.146908,
+              -23.3090421
+            ],
+            [
+              -51.1469259,
+              -23.3090598
+            ],
+            [
+              -51.1468771,
+              -23.3091355
+            ],
+            [
+              -51.1468231,
+              -23.3091047
+            ],
+            [
+              -51.1467546,
+              -23.3090709
+            ],
+            [
+              -51.1467774,
+              -23.3090407
+            ],
+            [
+              -51.1467152,
+              -23.3090069
+            ],
+            [
+              -51.1467698,
+              -23.3089253
+            ],
+            [
+              -51.1468304,
+              -23.3089621
+            ],
+            [
+              -51.1468405,
+              -23.3089536
+            ],
+            [
+              -51.1468129,
+              -23.3089399
+            ],
+            [
+              -51.1468497,
+              -23.3088775
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1266631975",
+      "properties": {
+        "timestamp": "2024-03-26T23:07:24Z",
+        "version": 2,
+        "changeset": 149198728,
+        "addr:housenumber": "4321",
+        "addr:postcode": "86036-030",
+        "addr:street": "Avenida São João",
+        "addr:suburb": "Conjunto Armindo Guazzi",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Unidade Básica de Saúde Doutor Paulo Roberto Moita da Silva",
+        "opening_hours": "Mo-Fr 07:00-19:00; PH off",
+        "operator": "Secretaria Municipal da Saúde",
+        "operator:type": "government",
+        "phone": "+55 43 3379 0861",
+        "ref:CNES": "2578824",
+        "short_name": "Unidade Básica de Saúde Armindo Guazzi",
+        "source": "CNES",
+        "id": "way/1266631975"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.1133533,
+              -23.322721
+            ],
+            [
+              -51.1133841,
+              -23.3227341
+            ],
+            [
+              -51.1134113,
+              -23.3227993
+            ],
+            [
+              -51.1133367,
+              -23.3228373
+            ],
+            [
+              -51.1133521,
+              -23.3228591
+            ],
+            [
+              -51.1134006,
+              -23.322883
+            ],
+            [
+              -51.1134006,
+              -23.3228993
+            ],
+            [
+              -51.1133497,
+              -23.3229406
+            ],
+            [
+              -51.1133036,
+              -23.3229884
+            ],
+            [
+              -51.1132835,
+              -23.3230123
+            ],
+            [
+              -51.1132752,
+              -23.3229678
+            ],
+            [
+              -51.1132018,
+              -23.3230167
+            ],
+            [
+              -51.1131805,
+              -23.322958
+            ],
+            [
+              -51.1131367,
+              -23.3229439
+            ],
+            [
+              -51.1132207,
+              -23.3228895
+            ],
+            [
+              -51.1132006,
+              -23.3228091
+            ],
+            [
+              -51.1130384,
+              -23.3228786
+            ],
+            [
+              -51.1130266,
+              -23.3228395
+            ],
+            [
+              -51.1131757,
+              -23.3227819
+            ],
+            [
+              -51.1131887,
+              -23.3228004
+            ],
+            [
+              -51.1131887,
+              -23.322783
+            ],
+            [
+              -51.1132148,
+              -23.3227612
+            ],
+            [
+              -51.1132491,
+              -23.3228014
+            ],
+            [
+              -51.1133533,
+              -23.322721
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/3408849393",
       "properties": {
         "timestamp": "2015-03-20T13:08:11Z",
@@ -2419,9 +2983,9 @@
       "type": "Feature",
       "id": "node/6575139217",
       "properties": {
-        "timestamp": "2019-06-27T16:42:38Z",
-        "version": 1,
-        "changeset": 71679576,
+        "timestamp": "2024-03-26T02:00:11Z",
+        "version": 2,
+        "changeset": 149155528,
         "addr:city": "Londrina",
         "addr:housenumber": "979",
         "addr:street": "Rua Senador Souza Naves",
@@ -2430,7 +2994,7 @@
         "healthcare": "clinic",
         "healthcare:speciality": "clinic",
         "name": "Clínica de Imunização Dr. Baldy - Vacinas",
-        "opening_hours": "Mo-Sa 08:00-18:00",
+        "opening_hours": "Mo-Sa 08:00-18:00; PH off",
         "payment:credit_cards": "yes",
         "payment:maestro": "yes",
         "payment:visa": "yes",

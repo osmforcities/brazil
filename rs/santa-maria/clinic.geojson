@@ -744,6 +744,61 @@
     },
     {
       "type": "Feature",
+      "id": "way/353695711",
+      "properties": {
+        "timestamp": "2024-03-26T17:59:15Z",
+        "version": 3,
+        "changeset": 149189585,
+        "addr:housenumber": "245",
+        "addr:postcode": "97020-270",
+        "addr:street": "Rua Ernesto Alves",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Unidade Básica de Saúde Centro Social Urbano Maria Ribas de Nardin",
+        "operator": "Secretaria da Saúde",
+        "operator:type": "government",
+        "id": "way/353695711"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -53.8329556,
+              -29.6828684
+            ],
+            [
+              -53.832839,
+              -29.6828464
+            ],
+            [
+              -53.8328602,
+              -29.6827742
+            ],
+            [
+              -53.8329115,
+              -29.6827791
+            ],
+            [
+              -53.8329001,
+              -29.6828076
+            ],
+            [
+              -53.8329716,
+              -29.6828207
+            ],
+            [
+              -53.8329556,
+              -29.6828684
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/363056689",
       "properties": {
         "timestamp": "2021-10-06T12:54:01Z",
@@ -1855,31 +1910,6 @@
         "coordinates": [
           -53.9305645,
           -29.6409867
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/7776751070",
-      "properties": {
-        "timestamp": "2021-07-24T23:52:27Z",
-        "version": 2,
-        "changeset": 108549618,
-        "addr:housenumber": "245",
-        "addr:postcode": "97020-270",
-        "addr:street": "Rua Ernesto Alves",
-        "amenity": "clinic",
-        "name": "Unidade Básica de Saúde Centro Social Urbano Maria Ribas de Nardin",
-        "operator": "Secretaria da Saúde",
-        "ref:CNES": "9831681",
-        "short_name": "UBS Centro Social Urbano Maria Ribas de Nardin",
-        "id": "node/7776751070"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -53.8329033,
-          -29.6828262
         ]
       }
     },

@@ -2836,6 +2836,79 @@
     },
     {
       "type": "Feature",
+      "id": "way/1266496644",
+      "properties": {
+        "timestamp": "2024-03-26T12:51:13Z",
+        "version": 1,
+        "changeset": 149176262,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "351",
+        "addr:postcode": "01140-030",
+        "addr:street": "Rua Doutor Edgard Theotônio Santana",
+        "amenity": "library",
+        "name": "Arquivo Geral do TRT",
+        "opening_hours": "Mo-Fr 11:30-18:00",
+        "phone": "1131502000  9729",
+        "id": "way/1266496644"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.6763034,
+              -23.5171805
+            ],
+            [
+              -46.675969,
+              -23.5175798
+            ],
+            [
+              -46.6757665,
+              -23.517438
+            ],
+            [
+              -46.6752177,
+              -23.5170543
+            ],
+            [
+              -46.6752149,
+              -23.5170001
+            ],
+            [
+              -46.6753545,
+              -23.5168252
+            ],
+            [
+              -46.6754149,
+              -23.5167495
+            ],
+            [
+              -46.6754786,
+              -23.516674
+            ],
+            [
+              -46.6756657,
+              -23.5168049
+            ],
+            [
+              -46.6760505,
+              -23.5170864
+            ],
+            [
+              -46.6760935,
+              -23.517034
+            ],
+            [
+              -46.6763034,
+              -23.5171805
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/745741470",
       "properties": {
         "timestamp": "2019-09-13T19:27:12Z",
@@ -4217,25 +4290,22 @@
     },
     {
       "type": "Feature",
-      "id": "node/11741132469",
+      "id": "node/11763807476",
       "properties": {
-        "timestamp": "2024-03-18T11:43:45Z",
+        "timestamp": "2024-03-26T12:51:13Z",
         "version": 1,
-        "changeset": 148812319,
+        "changeset": 149176262,
+        "addr:city": "São Paulo",
         "addr:housenumber": "351",
         "addr:postcode": "01140-030",
         "addr:street": "Rua Doutor Edgard Theotônio Santana",
-        "amenity": "library",
-        "name": "Arquivo Geral do TRT",
-        "opening_hours": "Mo-Fr 11:30-18:00",
-        "phone": "1131502000  9729",
-        "id": "node/11741132469"
+        "id": "node/11763807476"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -46.675401,
-          -23.5167128
+          -46.6753545,
+          -23.5168252
         ]
       }
     }

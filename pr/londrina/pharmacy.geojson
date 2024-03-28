@@ -140,50 +140,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/291968566",
-      "properties": {
-        "timestamp": "2014-07-08T18:41:58Z",
-        "version": 1,
-        "changeset": 24031853,
-        "amenity": "pharmacy",
-        "building": "yes",
-        "name": "Farmácias Vale Verde",
-        "id": "way/291968566"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -51.157962,
-              -23.3196134
-            ],
-            [
-              -51.1579626,
-              -23.3197102
-            ],
-            [
-              -51.1577763,
-              -23.3197112
-            ],
-            [
-              -51.157776,
-              -23.319664
-            ],
-            [
-              -51.1577757,
-              -23.3196143
-            ],
-            [
-              -51.157962,
-              -23.3196134
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/292971978",
       "properties": {
         "timestamp": "2020-02-09T13:54:39Z",
@@ -1747,6 +1703,56 @@
     },
     {
       "type": "Feature",
+      "id": "way/1266343418",
+      "properties": {
+        "timestamp": "2024-03-26T14:09:30Z",
+        "version": 2,
+        "changeset": 149179913,
+        "addr:housenumber": "796",
+        "addr:street": "Avenida Juscelino Kubitschek",
+        "addr:suburb": "Centro",
+        "amenity": "pharmacy",
+        "brand": "Panvel",
+        "brand:wikidata": "Q10344254",
+        "building": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "mobile": "+55 43 99177 1261",
+        "name": "Panvel",
+        "opening_hours": "Ph,Mo-Su 07:00-23:00",
+        "website": "https://www.panvel.com/panvel/nossas-lojas/pr/londrina",
+        "id": "way/1266343418"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.1580204,
+              -23.3194427
+            ],
+            [
+              -51.1580198,
+              -23.3195282
+            ],
+            [
+              -51.1577954,
+              -23.3195268
+            ],
+            [
+              -51.157796,
+              -23.3194413
+            ],
+            [
+              -51.1580204,
+              -23.3194427
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/2888072222",
       "properties": {
         "timestamp": "2014-05-29T20:49:21Z",
@@ -1760,24 +1766,6 @@
         "coordinates": [
           -51.1770291,
           -23.314127
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/2954785268",
-      "properties": {
-        "timestamp": "2014-07-08T18:41:58Z",
-        "version": 1,
-        "changeset": 24031853,
-        "entrance": "yes",
-        "id": "node/2954785268"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -51.157776,
-          -23.319664
         ]
       }
     },
@@ -2349,6 +2337,28 @@
         "coordinates": [
           -51.1681196,
           -23.2579817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11764893790",
+      "properties": {
+        "timestamp": "2024-03-26T23:22:05Z",
+        "version": 1,
+        "changeset": 149198993,
+        "addr:street": "Avenida São João",
+        "addr:suburb": "Conjunto Armindo Guazzi",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "DrogaMais",
+        "id": "node/11764893790"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1139137,
+          -23.3230789
         ]
       }
     }

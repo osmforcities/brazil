@@ -5,13 +5,14 @@
       "type": "Feature",
       "id": "way/583983938",
       "properties": {
-        "timestamp": "2018-04-29T23:12:32Z",
-        "version": 2,
-        "changeset": 58539462,
+        "timestamp": "2024-03-27T00:23:15Z",
+        "version": 3,
+        "changeset": 149199986,
         "amenity": "clinic",
         "building": "yes",
         "healthcare": "clinic",
-        "name": "Unidade Básica de Saúde - Dr. Ernani Barreira",
+        "healthcare:speciality": "general",
+        "name": "Unidade Básica de Saúde Doutor Ernani Barreira",
         "id": "way/583983938"
       },
       "geometry": {
@@ -240,6 +241,56 @@
             [
               -39.3081741,
               -6.3684502
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1266672727",
+      "properties": {
+        "timestamp": "2024-03-27T21:28:48Z",
+        "version": 2,
+        "changeset": 149243822,
+        "addr:street": "Avenida Joaquim Ailton Alexandre",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "Centro de Nefrologia do Iguatú",
+        "id": "way/1266672727"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -39.3075929,
+              -6.3730431
+            ],
+            [
+              -39.3075824,
+              -6.3733691
+            ],
+            [
+              -39.3073125,
+              -6.3733691
+            ],
+            [
+              -39.3073099,
+              -6.3731325
+            ],
+            [
+              -39.3073734,
+              -6.3731273
+            ],
+            [
+              -39.3073681,
+              -6.3730458
+            ],
+            [
+              -39.3075929,
+              -6.3730431
             ]
           ]
         ]

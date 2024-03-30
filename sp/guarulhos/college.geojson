@@ -304,21 +304,64 @@
     },
     {
       "type": "Feature",
-      "id": "node/4345148790",
+      "id": "way/1267002284",
       "properties": {
-        "timestamp": "2017-03-05T23:18:20Z",
-        "version": 2,
-        "changeset": 46608817,
+        "timestamp": "2024-03-28T04:22:37Z",
+        "version": 1,
+        "changeset": 149250384,
+        "addr:city": "Guarulhos",
         "addr:street": "Rua Padre Celestino",
         "amenity": "college",
+        "building": "yes",
+        "height": "14",
         "name": "Senac",
-        "id": "node/4345148790"
+        "id": "way/1267002284"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -46.5269704,
-          -23.4706183
+          [
+            [
+              -46.5272464,
+              -23.4705767
+            ],
+            [
+              -46.5271082,
+              -23.470614
+            ],
+            [
+              -46.527098,
+              -23.4705628
+            ],
+            [
+              -46.5270513,
+              -23.4705683
+            ],
+            [
+              -46.5270584,
+              -23.4706196
+            ],
+            [
+              -46.5269568,
+              -23.4706411
+            ],
+            [
+              -46.5269481,
+              -23.4705879
+            ],
+            [
+              -46.5269395,
+              -23.4705348
+            ],
+            [
+              -46.5272302,
+              -23.4704966
+            ],
+            [
+              -46.5272464,
+              -23.4705767
+            ]
+          ]
         ]
       }
     },
@@ -344,6 +387,27 @@
         "coordinates": [
           -46.5537449,
           -23.5040652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11768050194",
+      "properties": {
+        "timestamp": "2024-03-28T04:22:37Z",
+        "version": 1,
+        "changeset": 149250384,
+        "addr:city": "Guarulhos",
+        "addr:housenumber": "108",
+        "addr:street": "Rua Padre Celestino",
+        "entrance": "main",
+        "id": "node/11768050194"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5269481,
+          -23.4705879
         ]
       }
     }

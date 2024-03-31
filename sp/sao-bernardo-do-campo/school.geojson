@@ -5192,9 +5192,9 @@
       "type": "Feature",
       "id": "way/430130318",
       "properties": {
-        "timestamp": "2021-06-26T17:30:05Z",
-        "version": 8,
-        "changeset": 107011604,
+        "timestamp": "2024-03-29T15:55:46Z",
+        "version": 9,
+        "changeset": 149319318,
         "addr:city": "São Bernardo do Campo",
         "addr:country": "BR",
         "addr:housenumber": "2650",
@@ -5202,6 +5202,7 @@
         "addr:street": "Estrada dos Casa",
         "addr:suburb": "Dos Casa",
         "amenity": "school",
+        "barrier": "wall",
         "contact:phone": "+55 11 4356 1459",
         "email": "e907182a@educacao.sp.gov.br",
         "name": "Escola Estadual Mário Franciscon",
@@ -5221,15 +5222,19 @@
             ],
             [
               -46.5768765,
-              -23.7410029
+              -23.741029
             ],
             [
-              -46.5768117,
-              -23.7414734
+              -46.5768356,
+              -23.7414762
             ],
             [
-              -46.576801,
-              -23.7415213
+              -46.5768295,
+              -23.7415326
+            ],
+            [
+              -46.5765575,
+              -23.7414801
             ],
             [
               -46.5761438,
@@ -10145,6 +10150,27 @@
         "coordinates": [
           -46.5709055,
           -23.7030411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11771899504",
+      "properties": {
+        "timestamp": "2024-03-29T15:55:46Z",
+        "version": 1,
+        "changeset": 149319318,
+        "addr:city": "São Bernardo do Campo",
+        "addr:housenumber": "2650",
+        "addr:street": "Estrada dos Casa",
+        "entrance": "main",
+        "id": "node/11771899504"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5765575,
+          -23.7414801
         ]
       }
     }

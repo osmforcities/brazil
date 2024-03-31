@@ -73,6 +73,68 @@
     },
     {
       "type": "Feature",
+      "id": "relation/17404078",
+      "properties": {
+        "timestamp": "2024-03-29T15:55:46Z",
+        "version": 1,
+        "changeset": 149319318,
+        "addr:city": "São Bernardo do Campo",
+        "addr:housenumber": "329",
+        "addr:postcode": "09840-620",
+        "addr:street": "Rua Lago da Mangueira",
+        "addr:suburb": "Dos Casa",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general;paediatrics;emergency;gynaecology",
+        "loc_name": "UBS Jardim Ipê",
+        "name": "Unidade Básica de Saúde Ipê",
+        "opening_hours": "Mo-Fr 07:00-22:00; Sa,Su,PH off",
+        "opening_hours:covid19": "Mo-Fr 07:00-21:00; PH off",
+        "operator:ref:vatin": "BR46523239000147",
+        "phone": "+55 11 4342 3199",
+        "ref": "CNES-2045338",
+        "ref:CNES": "2045338",
+        "type": "multipolygon",
+        "id": "relation/17404078"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.5772844,
+              -23.7413522
+            ],
+            [
+              -46.5769894,
+              -23.7415291
+            ],
+            [
+              -46.5768295,
+              -23.7415326
+            ],
+            [
+              -46.5768765,
+              -23.741029
+            ],
+            [
+              -46.5770418,
+              -23.7410356
+            ],
+            [
+              -46.5770703,
+              -23.7410539
+            ],
+            [
+              -46.5772844,
+              -23.7413522
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/126738510",
       "properties": {
         "timestamp": "2023-09-02T17:00:04Z",
@@ -1649,84 +1711,6 @@
             [
               -46.548846,
               -23.7167175
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/430130317",
-      "properties": {
-        "timestamp": "2023-09-02T17:00:04Z",
-        "version": 11,
-        "changeset": 140728449,
-        "addr:city": "São Bernardo do Campo",
-        "addr:housenumber": "329",
-        "addr:postcode": "09840-620",
-        "addr:street": "Rua Lago da Mangueira",
-        "addr:suburb": "Dos Casa",
-        "amenity": "clinic",
-        "building": "yes",
-        "healthcare": "clinic",
-        "healthcare:speciality": "general;paediatrics;emergency;gynaecology",
-        "loc_name": "UBS Jardim Ipê",
-        "name": "Unidade Básica de Saúde Ipê",
-        "opening_hours": "Mo-Fr 07:00-22:00; Sa,Su,PH off",
-        "opening_hours:covid19": "Mo-Fr 07:00-21:00; PH off",
-        "operator:ref:vatin": "BR46523239000147",
-        "phone": "+55 11 4342 3199",
-        "ref": "CNES-2045338",
-        "ref:CNES": "2045338",
-        "id": "way/430130317"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -46.5771067,
-              -23.7411838
-            ],
-            [
-              -46.5770746,
-              -23.7413752
-            ],
-            [
-              -46.5771201,
-              -23.7413703
-            ],
-            [
-              -46.5771054,
-              -23.7414562
-            ],
-            [
-              -46.5770316,
-              -23.7414538
-            ],
-            [
-              -46.5768787,
-              -23.741444
-            ],
-            [
-              -46.5769066,
-              -23.7411834
-            ],
-            [
-              -46.5768755,
-              -23.7411852
-            ],
-            [
-              -46.5768819,
-              -23.7410643
-            ],
-            [
-              -46.5770397,
-              -23.7410622
-            ],
-            [
-              -46.5771067,
-              -23.7411838
             ]
           ]
         ]
@@ -3805,6 +3789,90 @@
     },
     {
       "type": "Feature",
+      "id": "way/1267484801",
+      "properties": {
+        "timestamp": "2024-03-29T15:55:46Z",
+        "version": 1,
+        "changeset": 149319318,
+        "barrier": "wall",
+        "id": "way/1267484801"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5768765,
+            -23.741029
+          ],
+          [
+            -46.5768295,
+            -23.7415326
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1267484802",
+      "properties": {
+        "timestamp": "2024-03-29T15:55:46Z",
+        "version": 1,
+        "changeset": 149319318,
+        "barrier": "wall",
+        "id": "way/1267484802"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5772844,
+            -23.7413522
+          ],
+          [
+            -46.5770703,
+            -23.7410539
+          ],
+          [
+            -46.5770418,
+            -23.7410356
+          ],
+          [
+            -46.5768765,
+            -23.741029
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1267484803",
+      "properties": {
+        "timestamp": "2024-03-29T15:55:46Z",
+        "version": 1,
+        "changeset": 149319318,
+        "barrier": "fence",
+        "id": "way/1267484803"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5768295,
+            -23.7415326
+          ],
+          [
+            -46.5769894,
+            -23.7415291
+          ],
+          [
+            -46.5772844,
+            -23.7413522
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/3205315748",
       "properties": {
         "timestamp": "2019-10-24T13:19:55Z",
@@ -4238,6 +4306,28 @@
         "coordinates": [
           -46.5308698,
           -23.7261708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11771899498",
+      "properties": {
+        "timestamp": "2024-03-29T15:55:46Z",
+        "version": 1,
+        "changeset": 149319318,
+        "addr:city": "São Bernardo do Campo",
+        "addr:housenumber": "329",
+        "addr:postcode": "09840-620",
+        "addr:street": "Rua Lago da Mangueira",
+        "entrance": "main",
+        "id": "node/11771899498"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5769894,
+          -23.7415291
         ]
       }
     }

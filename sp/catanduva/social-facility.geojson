@@ -468,26 +468,54 @@
     },
     {
       "type": "Feature",
-      "id": "node/5126334900",
+      "id": "way/1267471820",
       "properties": {
-        "timestamp": "2022-12-06T14:04:19Z",
-        "version": 3,
-        "changeset": 129785031,
+        "timestamp": "2024-03-29T15:03:53Z",
+        "version": 1,
+        "changeset": 149317008,
         "addr:street": "Estrada Vicinal Manoel Antônio Prado",
         "amenity": "social_facility",
         "name": "Recanto Monsenhor Albino",
         "operator": "Fundação Padre Albino",
-        "operator:type": "community",
+        "operator:type": "private",
         "social_facility": "group_home",
         "social_facility:for": "senior",
         "wheelchair": "yes",
-        "id": "node/5126334900"
+        "id": "way/1267471820"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -48.96432,
-          -21.0939847
+          [
+            [
+              -48.9661878,
+              -21.0945541
+            ],
+            [
+              -48.9654048,
+              -21.0963469
+            ],
+            [
+              -48.9640874,
+              -21.0959323
+            ],
+            [
+              -48.964052,
+              -21.0934705
+            ],
+            [
+              -48.9649406,
+              -21.0939911
+            ],
+            [
+              -48.9650238,
+              -21.0938434
+            ],
+            [
+              -48.9661878,
+              -21.0945541
+            ]
+          ]
         ]
       }
     },

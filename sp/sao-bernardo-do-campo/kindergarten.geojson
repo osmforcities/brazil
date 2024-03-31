@@ -1602,9 +1602,9 @@
       "type": "Feature",
       "id": "way/375805063",
       "properties": {
-        "timestamp": "2021-06-26T17:41:42Z",
-        "version": 8,
-        "changeset": 107011904,
+        "timestamp": "2024-03-29T15:55:46Z",
+        "version": 9,
+        "changeset": 149319318,
         "addr:city": "São Bernardo do Campo",
         "addr:country": "BR",
         "addr:housenumber": "3681",
@@ -1612,6 +1612,7 @@
         "addr:street": "Estrada dos Casa",
         "addr:suburb": "Jardim Ipê",
         "amenity": "kindergarten",
+        "barrier": "wall",
         "contact:phone": "+55 11 4351 6367",
         "email": "marcos.rogerio@saobernardo.sp.gov.br",
         "name": "Escola Municipal de Educação Básica Marcos Rogério da Rosa",
@@ -1627,24 +1628,40 @@
         "coordinates": [
           [
             [
-              -46.5761968,
-              -23.7425046
+              -46.5762624,
+              -23.7425483
             ],
             [
-              -46.5755732,
-              -23.7424731
+              -46.5756001,
+              -23.7425166
             ],
             [
-              -46.5756014,
-              -23.7415991
+              -46.5755654,
+              -23.7425164
             ],
             [
-              -46.5762772,
-              -23.7416269
+              -46.5755697,
+              -23.7424272
             ],
             [
-              -46.5761968,
-              -23.7425046
+              -46.5755796,
+              -23.7422439
+            ],
+            [
+              -46.5756111,
+              -23.7415942
+            ],
+            [
+              -46.5760268,
+              -23.7416138
+            ],
+            [
+              -46.5762935,
+              -23.7416264
+            ],
+            [
+              -46.5762624,
+              -23.7425483
             ]
           ]
         ]
@@ -5927,6 +5944,28 @@
         "coordinates": [
           -46.5788779,
           -23.7208779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11771899548",
+      "properties": {
+        "timestamp": "2024-03-29T15:55:46Z",
+        "version": 1,
+        "changeset": 149319318,
+        "addr:city": "São Bernardo do Campo",
+        "addr:housenumber": "3681",
+        "addr:postcode": "09840-000",
+        "addr:street": "Estrada dos Casa",
+        "entrance": "main",
+        "id": "node/11771899548"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5760268,
+          -23.7416138
         ]
       }
     }

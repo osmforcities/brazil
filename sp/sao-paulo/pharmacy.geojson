@@ -29393,10 +29393,12 @@
       "type": "Feature",
       "id": "node/5270652116",
       "properties": {
-        "timestamp": "2018-04-24T02:30:08Z",
-        "version": 2,
-        "changeset": 58358562,
+        "timestamp": "2024-03-29T00:36:02Z",
+        "version": 3,
+        "changeset": 149291887,
         "amenity": "pharmacy",
+        "brand": "Drogasil",
+        "brand:wikidata": "Q5308185",
         "healthcare": "pharmacy",
         "name": "Drogasil",
         "id": "node/5270652116"
@@ -35785,6 +35787,27 @@
         "coordinates": [
           -46.6504552,
           -23.554424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11770278781",
+      "properties": {
+        "timestamp": "2024-03-29T01:13:36Z",
+        "version": 1,
+        "changeset": 149292378,
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Rua Ivoturucaia Farmácia",
+        "organic": "only",
+        "id": "node/11770278781"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5212143,
+          -23.5225483
         ]
       }
     }

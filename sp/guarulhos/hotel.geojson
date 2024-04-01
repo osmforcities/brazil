@@ -3,111 +3,85 @@
   "features": [
     {
       "type": "Feature",
-      "id": "way/469690962",
+      "id": "way/199771848",
       "properties": {
-        "timestamp": "2019-03-06T04:32:11Z",
-        "version": 3,
-        "changeset": 67829806,
+        "timestamp": "2024-03-30T01:51:50Z",
+        "version": 5,
+        "changeset": 149335822,
         "addr:city": "Guarulhos",
         "addr:country": "BR",
         "addr:housenumber": "10",
         "addr:postcode": "07190-017",
         "addr:street": "Avenida Ministro Evandro Lins e Silva",
-        "building": "yes",
+        "barrier": "wall",
+        "brand": "Marriott",
+        "brand:wikidata": "Q3918608",
         "fax": "+55 11 2464 0594",
         "name": "São Paulo Airport Marriott Hotel",
         "phone": "+55 11 2468 6999",
         "tourism": "hotel",
         "website": "https://www.marriott.com.br/hotels/travel/saoap-sao-paulo-airport-marriott-hotel/",
-        "id": "way/469690962"
+        "id": "way/199771848"
       },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              -46.4930016,
-              -23.4566206
+              -46.4932697,
+              -23.4561233
             ],
             [
-              -46.4928943,
-              -23.4568224
+              -46.4931414,
+              -23.45648
             ],
             [
-              -46.4926609,
-              -23.4567338
+              -46.4928983,
+              -23.4569341
             ],
             [
-              -46.492626,
-              -23.4567928
+              -46.4927224,
+              -23.4570793
             ],
             [
-              -46.4923095,
-              -23.4566797
+              -46.4925728,
+              -23.4571431
             ],
             [
-              -46.4922586,
-              -23.4567387
+              -46.4925286,
+              -23.4571579
             ],
             [
-              -46.4920547,
-              -23.4566674
+              -46.492487,
+              -23.4571692
             ],
             [
-              -46.4921057,
-              -23.456564
+              -46.4924506,
+              -23.4571885
             ],
             [
-              -46.491977,
-              -23.456505
+              -46.4922356,
+              -23.4572096
             ],
             [
-              -46.4920521,
-              -23.4563253
+              -46.4920151,
+              -23.4571601
             ],
             [
-              -46.4920279,
-              -23.4563032
+              -46.4918468,
+              -23.4570365
             ],
             [
-              -46.4921245,
-              -23.4560424
+              -46.491566,
+              -23.4555537
             ],
             [
-              -46.4921593,
-              -23.4560325
+              -46.4930731,
+              -23.4560461
             ],
             [
-              -46.4922184,
-              -23.4558455
-            ],
-            [
-              -46.4924222,
-              -23.4559169
-            ],
-            [
-              -46.4923471,
-              -23.4561088
-            ],
-            [
-              -46.4923042,
-              -23.4561039
-            ],
-            [
-              -46.4922398,
-              -23.4562614
-            ],
-            [
-              -46.4922613,
-              -23.4562761
-            ],
-            [
-              -46.492221,
-              -23.4563721
-            ],
-            [
-              -46.4930016,
-              -23.4566206
+              -46.4932697,
+              -23.4561233
             ]
           ]
         ]
@@ -117,12 +91,14 @@
       "type": "Feature",
       "id": "way/469692439",
       "properties": {
-        "timestamp": "2021-05-26T18:38:39Z",
-        "version": 3,
-        "changeset": 105374974,
+        "timestamp": "2024-03-30T01:46:31Z",
+        "version": 4,
+        "changeset": 149335757,
         "addr:city": "Guarulhos",
         "addr:postcode": "07190-100",
         "addr:street": "Rodovia Hélio Smidt",
+        "brand": "Pullman",
+        "brand:wikidata": "Q3410757",
         "fax": "+55 11 2124 5801",
         "internet_access": "yes",
         "internet_access:fee": "no",
@@ -547,6 +523,42 @@
         "coordinates": [
           -46.5304244,
           -23.471112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2097654811",
+      "properties": {
+        "timestamp": "2020-09-29T09:23:32Z",
+        "version": 4,
+        "changeset": 91694816,
+        "barrier": "lift_gate",
+        "id": "node/2097654811"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4925286,
+          -23.4571579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2097654813",
+      "properties": {
+        "timestamp": "2020-09-28T08:53:45Z",
+        "version": 3,
+        "changeset": 91626166,
+        "barrier": "lift_gate",
+        "id": "node/2097654813"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.492487,
+          -23.4571692
         ]
       }
     },

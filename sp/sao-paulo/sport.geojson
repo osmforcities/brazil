@@ -106704,12 +106704,13 @@
       "type": "Feature",
       "id": "node/205160834",
       "properties": {
-        "timestamp": "2024-03-15T02:33:12Z",
-        "version": 7,
-        "changeset": 148668372,
+        "timestamp": "2024-03-30T08:23:43Z",
+        "version": 8,
+        "changeset": 149341250,
         "alt_name": "Kartódromo de Interlagos",
         "name": "Kartódromo Municipal Ayrton Senna",
         "operator": "Prefeitura de São Paulo",
+        "operator:type": "government",
         "sport": "karting",
         "start_date": "1970",
         "tourism": "attraction",
@@ -107907,20 +107908,22 @@
       "type": "Feature",
       "id": "node/4998886893",
       "properties": {
-        "timestamp": "2018-11-16T10:53:50Z",
-        "version": 9,
-        "changeset": 64561516,
+        "timestamp": "2024-03-30T07:58:33Z",
+        "version": 10,
+        "changeset": 149340595,
         "addr:city": "São Paulo",
         "addr:housenumber": "2163",
         "addr:postcode": "05601-000",
         "addr:street": "Avenida Lineu de Paula Machado",
         "addr:suburb": "Cidade Jardim",
-        "alt_name": "Hipódromo de Cidade Jardim",
+        "alt_name": "Jockey Club de São Paulo",
         "description": "Jóquei Clube",
         "leisure": "sports_centre",
+        "loc_name": "Hipódromo de Cidade Jardim",
         "name": "Jóquei Clube de São Paulo",
         "opening_hours": "08:00-17:00",
         "phone": "(11) 2161-8300",
+        "short_name": "Jóquei Clube",
         "sport": "horse_racing",
         "start_date": "1941-01-25",
         "website": "http://www.jockeysp.com.br/",
@@ -112191,6 +112194,28 @@
         "coordinates": [
           -46.532214,
           -23.6102587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11302354787",
+      "properties": {
+        "timestamp": "2024-03-30T23:31:38Z",
+        "version": 2,
+        "changeset": 149371939,
+        "brand": "Smart Fit",
+        "brand:wikidata": "Q30930959",
+        "leisure": "fitness_centre",
+        "name": "Smart Fit",
+        "sport": "fitness",
+        "id": "node/11302354787"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7343534,
+          -23.6429427
         ]
       }
     },

@@ -90,9 +90,9 @@
       "type": "Feature",
       "id": "way/849054638",
       "properties": {
-        "timestamp": "2020-09-19T00:23:53Z",
-        "version": 1,
-        "changeset": 91136913,
+        "timestamp": "2024-03-30T19:09:50Z",
+        "version": 2,
+        "changeset": 149365052,
         "amenity": "college",
         "name": "SESI - Araçagi",
         "id": "way/849054638"
@@ -114,6 +114,14 @@
               -2.4769329
             ],
             [
+              -44.1991251,
+              -2.4766784
+            ],
+            [
+              -44.1991381,
+              -2.4765201
+            ],
+            [
               -44.1991669,
               -2.4761725
             ],
@@ -122,6 +130,44 @@
               -2.4762635
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11774113270",
+      "properties": {
+        "timestamp": "2024-03-30T19:09:50Z",
+        "version": 1,
+        "changeset": 149365052,
+        "access": "permissive",
+        "barrier": "gate",
+        "id": "node/11774113270"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.1991251,
+          -2.4766784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11774113271",
+      "properties": {
+        "timestamp": "2024-03-30T19:09:50Z",
+        "version": 1,
+        "changeset": 149365052,
+        "access": "permissive",
+        "barrier": "gate",
+        "id": "node/11774113271"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.1991381,
+          -2.4765201
         ]
       }
     }

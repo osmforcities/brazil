@@ -3785,6 +3785,85 @@
     },
     {
       "type": "Feature",
+      "id": "way/1267720240",
+      "properties": {
+        "timestamp": "2024-03-30T16:55:42Z",
+        "version": 1,
+        "changeset": 149360394,
+        "addr:city": "Mauá",
+        "addr:housenumber": "10",
+        "addr:postcode": "09341-150",
+        "addr:street": "Rua do Pilar Velho",
+        "alt_name": "Escola Estadual Dona Florisbella de Campos Werneck",
+        "amenity": "school",
+        "barrier": "wall",
+        "email": "e037308a@educacao.sp.gov.br",
+        "name": "E.E Dona Florisbella de Campos Werneck",
+        "operator": "Secretaria da Educação do Estado de São Paulo",
+        "operator:type": "government",
+        "phone": "+55 11 4576-0695",
+        "ref": "INEP-35037308",
+        "source": "CADMEC 2017",
+        "id": "way/1267720240"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.4224345,
+              -23.6757561
+            ],
+            [
+              -46.4228328,
+              -23.676551
+            ],
+            [
+              -46.4225851,
+              -23.6767001
+            ],
+            [
+              -46.4224417,
+              -23.6767552
+            ],
+            [
+              -46.4223462,
+              -23.6767876
+            ],
+            [
+              -46.4222435,
+              -23.6767746
+            ],
+            [
+              -46.42216,
+              -23.6767456
+            ],
+            [
+              -46.4221179,
+              -23.6767309
+            ],
+            [
+              -46.4220117,
+              -23.6766693
+            ],
+            [
+              -46.4219462,
+              -23.6765915
+            ],
+            [
+              -46.4216826,
+              -23.676235
+            ],
+            [
+              -46.4224345,
+              -23.6757561
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/2860500216",
       "properties": {
         "timestamp": "2014-05-15T18:40:11Z",
@@ -3891,6 +3970,28 @@
         "coordinates": [
           -46.4780919,
           -23.6326941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11773882019",
+      "properties": {
+        "timestamp": "2024-03-30T16:55:42Z",
+        "version": 1,
+        "changeset": 149360394,
+        "addr:city": "Mauá",
+        "addr:housenumber": "10",
+        "addr:postcode": "09341-150",
+        "addr:street": "Rua do Pilar Velho",
+        "entrance": "main",
+        "id": "node/11773882019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.42216,
+          -23.6767456
         ]
       }
     }

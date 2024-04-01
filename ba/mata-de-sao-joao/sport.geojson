@@ -256,11 +256,13 @@
       "type": "Feature",
       "id": "way/499569663",
       "properties": {
-        "timestamp": "2017-06-11T03:03:28Z",
-        "version": 1,
-        "changeset": 49432869,
+        "timestamp": "2024-03-30T21:44:02Z",
+        "version": 3,
+        "changeset": 149369497,
         "leisure": "pitch",
+        "lit": "yes",
         "sport": "volleyball",
+        "surface": "dirt",
         "id": "way/499569663"
       },
       "geometry": {
@@ -2785,6 +2787,45 @@
             -38.0015409,
             -12.5766813
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11774134154",
+      "properties": {
+        "timestamp": "2024-03-30T19:49:22Z",
+        "version": 1,
+        "changeset": 149366197,
+        "fitness_station": "sit-up",
+        "leisure": "fitness_station",
+        "sport": "fitness",
+        "id": "node/11774134154"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.9617262,
+          -12.4952391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11774134155",
+      "properties": {
+        "timestamp": "2024-03-30T19:49:22Z",
+        "version": 1,
+        "changeset": 149366197,
+        "leisure": "fitness_station",
+        "sport": "fitness",
+        "id": "node/11774134155"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.9617004,
+          -12.4952167
         ]
       }
     }

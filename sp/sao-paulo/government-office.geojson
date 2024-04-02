@@ -667,6 +667,121 @@
     },
     {
       "type": "Feature",
+      "id": "relation/6379650",
+      "properties": {
+        "timestamp": "2024-03-31T22:59:00Z",
+        "version": 7,
+        "changeset": 149410793,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "707",
+        "addr:postcode": "04121-000",
+        "addr:street": "Rua Santa Cruz",
+        "alt_name": "Agência de Previdência Social",
+        "building": "public",
+        "building:levels": "2",
+        "government": "social_security",
+        "height": "9.13",
+        "name": "Instituto Nacional do Seguro Social",
+        "office": "government",
+        "opening_hours": "Mo-Fr 07:00-17:00",
+        "operator": "INSS",
+        "operator:wikidata": "Q10302614",
+        "short_name": "INSS",
+        "smoking": "outside",
+        "type": "multipolygon",
+        "wikidata": "Q10302614",
+        "id": "relation/6379650"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.6292445,
+              -23.5968355
+            ],
+            [
+              -46.6292601,
+              -23.5968332
+            ],
+            [
+              -46.6292522,
+              -23.5967881
+            ],
+            [
+              -46.6300217,
+              -23.5966727
+            ],
+            [
+              -46.6300903,
+              -23.5970616
+            ],
+            [
+              -46.6293208,
+              -23.5971769
+            ],
+            [
+              -46.6292942,
+              -23.5970263
+            ],
+            [
+              -46.6292785,
+              -23.5970286
+            ],
+            [
+              -46.6292445,
+              -23.5968355
+            ]
+          ],
+          [
+            [
+              -46.6293526,
+              -23.596951
+            ],
+            [
+              -46.6293598,
+              -23.5969924
+            ],
+            [
+              -46.6296459,
+              -23.5969502
+            ],
+            [
+              -46.6296387,
+              -23.5969089
+            ],
+            [
+              -46.6293526,
+              -23.596951
+            ]
+          ],
+          [
+            [
+              -46.6296994,
+              -23.5968997
+            ],
+            [
+              -46.6297067,
+              -23.5969405
+            ],
+            [
+              -46.6299898,
+              -23.5968981
+            ],
+            [
+              -46.6299826,
+              -23.5968573
+            ],
+            [
+              -46.6296994,
+              -23.5968997
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "relation/16406118",
       "properties": {
         "timestamp": "2023-10-01T15:29:49Z",
@@ -2713,14 +2828,16 @@
       "type": "Feature",
       "id": "way/371376197",
       "properties": {
-        "timestamp": "2022-05-17T18:02:00Z",
-        "version": 6,
-        "changeset": 121112125,
+        "timestamp": "2024-03-31T23:00:16Z",
+        "version": 7,
+        "changeset": 149410812,
         "addr:city": "São Paulo",
         "addr:street": "Rua Leopoldo Miguez",
         "government": "social_security",
         "name": "Instituto Nacional do Seguro Social",
         "office": "government",
+        "operator": "INSS",
+        "operator:wikidata": "Q10302614",
         "short_name": "INSS",
         "id": "way/371376197"
       },
@@ -2820,9 +2937,9 @@
       "type": "Feature",
       "id": "way/371377832",
       "properties": {
-        "timestamp": "2022-05-17T18:02:50Z",
-        "version": 3,
-        "changeset": 121112159,
+        "timestamp": "2024-03-31T23:00:48Z",
+        "version": 4,
+        "changeset": 149410825,
         "addr:city": "São Paulo",
         "addr:country": "BR",
         "addr:street": "Rua Glicério",
@@ -2830,6 +2947,8 @@
         "name": "Instituto Nacional do Seguro Social",
         "office": "government",
         "opening_hours": "Mo-Fr 07:00-17:00",
+        "operator": "INSS",
+        "operator:wikidata": "Q10302614",
         "short_name": "INSS",
         "id": "way/371377832"
       },

@@ -585,54 +585,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/896831736",
-      "properties": {
-        "timestamp": "2021-01-19T01:13:11Z",
-        "version": 1,
-        "changeset": 97727236,
-        "addr:city": "Sorocaba",
-        "addr:housenumber": "48",
-        "addr:postcode": "18075-042",
-        "addr:street": "Avenida Itavuvu",
-        "addr:suburb": "Jardim Santa Cecília",
-        "amenity": "pharmacy",
-        "building": "yes",
-        "dispensing": "yes",
-        "healthcare": "pharmacy",
-        "name": "Biothera Farmácia de Manipulação",
-        "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-13:00",
-        "id": "way/896831736"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -47.471618,
-              -23.4834099
-            ],
-            [
-              -47.4715937,
-              -23.4834492
-            ],
-            [
-              -47.4715173,
-              -23.4834095
-            ],
-            [
-              -47.4715416,
-              -23.4833702
-            ],
-            [
-              -47.471618,
-              -23.4834099
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/896831737",
       "properties": {
         "timestamp": "2021-02-15T07:01:29Z",
@@ -2689,6 +2641,55 @@
             [
               -47.4885622,
               -23.4510075
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1234587772",
+      "properties": {
+        "timestamp": "2024-04-01T03:30:42Z",
+        "version": 2,
+        "changeset": 149414472,
+        "addr:city": "Sorocaba",
+        "addr:housenumber": "48",
+        "addr:postcode": "18075-042",
+        "addr:street": "Avenida Itavuvu",
+        "addr:suburb": "Jardim Santa Cecília",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "dispensing": "yes",
+        "healthcare": "psychotherapist;pharmacy",
+        "name": "Biothera Farmácia de Manipulação",
+        "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-13:00",
+        "phone": "+55 15 3211-4114",
+        "id": "way/1234587772"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.4715301,
+              -23.4835765
+            ],
+            [
+              -47.4713423,
+              -23.483488
+            ],
+            [
+              -47.4713788,
+              -23.483423
+            ],
+            [
+              -47.4715665,
+              -23.4835115
+            ],
+            [
+              -47.4715301,
+              -23.4835765
             ]
           ]
         ]

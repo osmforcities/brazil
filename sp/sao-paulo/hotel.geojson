@@ -3094,78 +3094,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/358727994",
-      "properties": {
-        "timestamp": "2017-04-18T11:33:03Z",
-        "version": 4,
-        "changeset": 47902916,
-        "addr:city": "São Paulo",
-        "addr:country": "BR",
-        "addr:housenumber": "1323",
-        "addr:postcode": "04719-002",
-        "addr:street": "Rua Verbo Divino",
-        "addr:suburb": "Chácara Santo Antônio",
-        "building": "hotel",
-        "building:levels": "7",
-        "contact:website": "www.bluetree.com.br/hotel/blue-tree-premium-verbo-divino/",
-        "email": "reservas.verbodivino@bluetree.com.br",
-        "internet_access": "wlan",
-        "internet_access:fee": "no",
-        "internet_access:ssid": "BlueTree",
-        "name": "Blue Tree Premium",
-        "phone": "+55 11 5683 4600",
-        "rooms": "380",
-        "tourism": "hotel",
-        "website": "https://www.bluetree.com.br/hotel/blue-tree-premium-verbo-divino/",
-        "wheelchair": "yes",
-        "id": "way/358727994"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -46.7084947,
-              -23.6318404
-            ],
-            [
-              -46.7079652,
-              -23.6327539
-            ],
-            [
-              -46.7078476,
-              -23.6326966
-            ],
-            [
-              -46.7080593,
-              -23.6323313
-            ],
-            [
-              -46.707745,
-              -23.6321784
-            ],
-            [
-              -46.7078186,
-              -23.6320514
-            ],
-            [
-              -46.7081281,
-              -23.6322019
-            ],
-            [
-              -46.7083721,
-              -23.6317808
-            ],
-            [
-              -46.7084947,
-              -23.6318404
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/362856404",
       "properties": {
         "timestamp": "2020-09-18T13:44:19Z",
@@ -11221,9 +11149,11 @@
       "type": "Feature",
       "id": "way/450169223",
       "properties": {
-        "timestamp": "2021-07-12T08:55:38Z",
-        "version": 5,
-        "changeset": 107824345,
+        "timestamp": "2024-04-02T01:34:03Z",
+        "version": 6,
+        "changeset": 149458199,
+        "brand": "Ibis Styles",
+        "brand:wikidata": "Q3147425",
         "building": "yes",
         "height": "59.519",
         "internet_access": "wlan",
@@ -17733,6 +17663,88 @@
             [
               -46.6605076,
               -23.5228416
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1268279436",
+      "properties": {
+        "timestamp": "2024-04-02T02:01:05Z",
+        "version": 1,
+        "changeset": 149458644,
+        "addr:city": "São Paulo",
+        "addr:country": "BR",
+        "addr:housenumber": "1323",
+        "addr:postcode": "04719-002",
+        "addr:street": "Rua Verbo Divino",
+        "addr:suburb": "Chácara Santo Antônio",
+        "contact:website": "www.bluetree.com.br/hotel/blue-tree-premium-verbo-divino/",
+        "email": "reservas.verbodivino@bluetree.com.br",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:ssid": "BlueTree",
+        "name": "Blue Tree Premium",
+        "phone": "+55 11 5683 4600",
+        "rooms": "380",
+        "tourism": "hotel",
+        "website": "https://www.bluetree.com.br/hotel/blue-tree-premium-verbo-divino/",
+        "wheelchair": "yes",
+        "id": "way/1268279436"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.7085308,
+              -23.6317806
+            ],
+            [
+              -46.7084986,
+              -23.6320927
+            ],
+            [
+              -46.7083912,
+              -23.632563
+            ],
+            [
+              -46.7082385,
+              -23.6327021
+            ],
+            [
+              -46.7081017,
+              -23.63268
+            ],
+            [
+              -46.7079783,
+              -23.6327807
+            ],
+            [
+              -46.7078496,
+              -23.632793
+            ],
+            [
+              -46.7076242,
+              -23.6322942
+            ],
+            [
+              -46.7078415,
+              -23.6319821
+            ],
+            [
+              -46.7081097,
+              -23.6321173
+            ],
+            [
+              -46.7083216,
+              -23.6317069
+            ],
+            [
+              -46.7085308,
+              -23.6317806
             ]
           ]
         ]
@@ -25703,6 +25715,25 @@
         "coordinates": [
           -46.6875028,
           -23.501956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11779813452",
+      "properties": {
+        "timestamp": "2024-04-02T04:07:09Z",
+        "version": 1,
+        "changeset": 149460506,
+        "name": "Palácio Tangará",
+        "tourism": "hotel",
+        "id": "node/11779813452"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7225683,
+          -23.6318149
         ]
       }
     }

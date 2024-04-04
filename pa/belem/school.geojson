@@ -2492,6 +2492,50 @@
     },
     {
       "type": "Feature",
+      "id": "way/1268491785",
+      "properties": {
+        "timestamp": "2024-04-02T21:54:48Z",
+        "version": 1,
+        "changeset": 149500352,
+        "addr:city": "Belém",
+        "addr:street": "Rua F",
+        "addr:suburb": "Marambaia",
+        "amenity": "school",
+        "building": "school",
+        "grades": "1-9",
+        "name": "Palmira Lins de Carvalho",
+        "id": "way/1268491785"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.448471,
+              -1.3995585
+            ],
+            [
+              -48.4480391,
+              -1.3995934
+            ],
+            [
+              -48.4479606,
+              -1.3984876
+            ],
+            [
+              -48.4483925,
+              -1.3984501
+            ],
+            [
+              -48.448471,
+              -1.3995585
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/505204961",
       "properties": {
         "timestamp": "2015-03-03T05:22:58Z",
@@ -4265,6 +4309,25 @@
         "coordinates": [
           -48.4417451,
           -1.336812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11781493919",
+      "properties": {
+        "timestamp": "2024-04-02T21:24:48Z",
+        "version": 1,
+        "changeset": 149499642,
+        "amenity": "school",
+        "name": "Escola Profª Rosa Maria",
+        "id": "node/11781493919"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.4369052,
+          -1.2683068
         ]
       }
     }

@@ -3,6 +3,85 @@
   "features": [
     {
       "type": "Feature",
+      "id": "relation/17419160",
+      "properties": {
+        "timestamp": "2024-04-02T22:52:36Z",
+        "version": 1,
+        "changeset": 149501298,
+        "alt_name": "E.M.E.F. Maria Amália",
+        "amenity": "school",
+        "name": "Escola Maria Amália",
+        "official_name": "Escola Municipal de Ensino Fundamental Maria Amália",
+        "short_name": "EMEF Maria Amália",
+        "type": "multipolygon",
+        "id": "relation/17419160"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -54.7422349,
+              -2.4280837
+            ],
+            [
+              -54.741882,
+              -2.4280095
+            ],
+            [
+              -54.7417885,
+              -2.427488
+            ],
+            [
+              -54.7417885,
+              -2.4273969
+            ],
+            [
+              -54.7418991,
+              -2.4274249
+            ],
+            [
+              -54.7423561,
+              -2.4275299
+            ],
+            [
+              -54.7423911,
+              -2.4275379
+            ],
+            [
+              -54.7424796,
+              -2.4275582
+            ],
+            [
+              -54.7427215,
+              -2.4276185
+            ],
+            [
+              -54.7427122,
+              -2.4276605
+            ],
+            [
+              -54.7426347,
+              -2.4279968
+            ],
+            [
+              -54.742505,
+              -2.427967
+            ],
+            [
+              -54.7424763,
+              -2.4281363
+            ],
+            [
+              -54.7422349,
+              -2.4280837
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/250206231",
       "properties": {
         "timestamp": "2022-06-15T05:29:18Z",
@@ -1475,6 +1554,164 @@
               -55.601576,
               -2.7897303
             ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1268500605",
+      "properties": {
+        "timestamp": "2024-04-02T22:52:36Z",
+        "version": 1,
+        "changeset": 149501298,
+        "building": "school",
+        "building:levels": "1",
+        "name": "Escola Maria Amalia",
+        "id": "way/1268500605"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -54.7422349,
+            -2.4280837
+          ],
+          [
+            -54.741882,
+            -2.4280095
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1268500606",
+      "properties": {
+        "timestamp": "2024-04-02T22:52:36Z",
+        "version": 1,
+        "changeset": 149501298,
+        "barrier": "wall",
+        "id": "way/1268500606"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -54.7424763,
+            -2.4281363
+          ],
+          [
+            -54.7422349,
+            -2.4280837
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1268500612",
+      "properties": {
+        "timestamp": "2024-04-02T22:52:36Z",
+        "version": 1,
+        "changeset": 149501298,
+        "barrier": "wall",
+        "id": "way/1268500612"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -54.7423911,
+            -2.4275379
+          ],
+          [
+            -54.7423561,
+            -2.4275299
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1268500618",
+      "properties": {
+        "timestamp": "2024-04-02T22:52:36Z",
+        "version": 1,
+        "changeset": 149501298,
+        "barrier": "wall",
+        "id": "way/1268500618"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -54.7424796,
+            -2.4275582
+          ],
+          [
+            -54.7427215,
+            -2.4276185
+          ],
+          [
+            -54.7427122,
+            -2.4276605
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1268500619",
+      "properties": {
+        "timestamp": "2024-04-02T22:52:36Z",
+        "version": 1,
+        "changeset": 149501298,
+        "barrier": "wall",
+        "id": "way/1268500619"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -54.741882,
+            -2.4280095
+          ],
+          [
+            -54.7417885,
+            -2.427488
+          ],
+          [
+            -54.7417885,
+            -2.4273969
+          ],
+          [
+            -54.7418991,
+            -2.4274249
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1268500620",
+      "properties": {
+        "timestamp": "2024-04-02T22:52:36Z",
+        "version": 1,
+        "changeset": 149501298,
+        "barrier": "wall",
+        "id": "way/1268500620"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -54.7424763,
+            -2.4281363
+          ],
+          [
+            -54.742505,
+            -2.427967
           ]
         ]
       }

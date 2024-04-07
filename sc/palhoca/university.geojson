@@ -304,46 +304,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/1177700065",
-      "properties": {
-        "timestamp": "2023-06-02T22:49:52Z",
-        "version": 2,
-        "changeset": 136886114,
-        "amenity": "university",
-        "building": "university",
-        "name": "Fadesc Uniasselvi",
-        "id": "way/1177700065"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -48.6456976,
-              -27.6342161
-            ],
-            [
-              -48.6455121,
-              -27.6345363
-            ],
-            [
-              -48.6453718,
-              -27.6344605
-            ],
-            [
-              -48.6455573,
-              -27.6341486
-            ],
-            [
-              -48.6456976,
-              -27.6342161
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/4193513785",
       "properties": {
         "timestamp": "2016-05-18T22:42:23Z",
@@ -358,6 +318,28 @@
         "coordinates": [
           -48.6795053,
           -27.6255399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11784058016",
+      "properties": {
+        "timestamp": "2024-04-03T19:05:09Z",
+        "version": 1,
+        "changeset": 149539903,
+        "addr:city": "Palhoça",
+        "addr:street": "Avenida Aniceto Zacchi",
+        "addr:suburb": "Ponte do Imaruim",
+        "amenity": "university",
+        "name": "Fadesc Uniasselvi",
+        "id": "node/11784058016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.6454391,
+          -27.6343678
         ]
       }
     }

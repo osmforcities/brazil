@@ -89809,10 +89809,14 @@
       "type": "Feature",
       "id": "way/984718151",
       "properties": {
-        "timestamp": "2021-09-18T16:52:35Z",
-        "version": 1,
-        "changeset": 111383182,
-        "leisure": "pitch",
+        "timestamp": "2024-04-03T14:57:26Z",
+        "version": 2,
+        "changeset": 149529614,
+        "building": "roof",
+        "height": "11",
+        "layer": "1",
+        "roof:colour": "silver",
+        "roof:shape": "gabled",
         "sport": "multi",
         "id": "way/984718151"
       },
@@ -89821,24 +89825,36 @@
         "coordinates": [
           [
             [
-              -46.6692647,
-              -23.6564071
+              -46.6692413,
+              -23.6563941
             ],
             [
-              -46.6689576,
-              -23.6564772
+              -46.6692492,
+              -23.6564087
             ],
             [
-              -46.6689201,
-              -23.6563482
+              -46.6689541,
+              -23.6564769
             ],
             [
-              -46.6692017,
-              -23.6562843
+              -46.6689515,
+              -23.6564684
             ],
             [
-              -46.6692647,
-              -23.6564071
+              -46.6689181,
+              -23.6563536
+            ],
+            [
+              -46.6691861,
+              -23.6562865
+            ],
+            [
+              -46.6692284,
+              -23.6563689
+            ],
+            [
+              -46.6692413,
+              -23.6563941
             ]
           ]
         ]
@@ -95827,6 +95843,54 @@
             [
               -46.7058703,
               -23.4983615
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1148907526",
+      "properties": {
+        "timestamp": "2024-04-03T08:24:35Z",
+        "version": 2,
+        "changeset": 149512265,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "556",
+        "addr:postcode": "04537-002",
+        "addr:street": "Rua Clodomiro Amazonas",
+        "addr:suburb": "Itaim Bibi",
+        "building": "yes",
+        "leisure": "fitness_centre",
+        "name": "Sett Academia",
+        "phone": "11 3368 8556",
+        "sport": "fitness",
+        "website": "https://settacademia.com.br/",
+        "id": "way/1148907526"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.6787666,
+              -23.5889665
+            ],
+            [
+              -46.6790829,
+              -23.58904
+            ],
+            [
+              -46.6790131,
+              -23.589255
+            ],
+            [
+              -46.6786911,
+              -23.5892042
+            ],
+            [
+              -46.6787666,
+              -23.5889665
             ]
           ]
         ]
@@ -111590,6 +111654,33 @@
         "coordinates": [
           -46.4718448,
           -23.5456598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7850807428",
+      "properties": {
+        "timestamp": "2024-04-03T07:24:15Z",
+        "version": 4,
+        "changeset": 149510056,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "720",
+        "addr:postcode": "01502-001",
+        "addr:street": "Avenida da Liberdade",
+        "brand": "Blue Fit",
+        "brand:wikidata": "Q111154874",
+        "leisure": "fitness_centre",
+        "name": "Blue Fit",
+        "opening_hours": "24/7",
+        "sport": "fitness",
+        "id": "node/7850807428"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.637662,
+          -23.5590082
         ]
       }
     },

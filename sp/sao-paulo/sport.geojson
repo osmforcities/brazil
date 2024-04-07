@@ -9967,9 +9967,10 @@
       "type": "Feature",
       "id": "way/120938125",
       "properties": {
-        "timestamp": "2019-03-27T14:16:32Z",
-        "version": 8,
-        "changeset": 68588346,
+        "timestamp": "2024-04-04T22:52:27Z",
+        "version": 9,
+        "changeset": 149590772,
+        "addr:city": "São Paulo",
         "addr:housenumber": "1256",
         "addr:postcode": "04657-001",
         "addr:street": "Avenida Yervant Kissajikian",
@@ -113530,9 +113531,9 @@
       "type": "Feature",
       "id": "node/11779986611",
       "properties": {
-        "timestamp": "2024-04-02T07:42:37Z",
-        "version": 1,
-        "changeset": 149466456,
+        "timestamp": "2024-04-04T07:02:16Z",
+        "version": 2,
+        "changeset": 149555420,
         "addr:city": "São Paulo",
         "addr:housenumber": "16741",
         "addr:postcode": "05693-000",
@@ -113543,6 +113544,8 @@
         "lgbtq": "friendly",
         "name": "Arena Ice Brasil - Esportes no Gelo em São Paulo",
         "opening_hours": "Mo-Tu 12:00-20:00; We 12:00-19:00; Th-Fr 12:00-20:00; Sa-Su 14:00-20:00",
+        "parking": "yes",
+        "parking:fee": "no",
         "sport": "ice_skating;ice_hockey",
         "toilets": "yes",
         "toilets:wheelchair": "yes",
@@ -113585,6 +113588,35 @@
         "coordinates": [
           -46.6024702,
           -23.6183334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11784993835",
+      "properties": {
+        "timestamp": "2024-04-04T00:41:46Z",
+        "version": 1,
+        "changeset": 149548420,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "1287",
+        "addr:postcode": "04636-001",
+        "addr:street": "Avenida Professor Vicente Rao",
+        "addr:suburb": "Brooklin",
+        "leisure": "sports_centre",
+        "mobile": "(11) 96075-1824",
+        "name": "Praiana Beach Sports",
+        "opening_hours": "Mo-Fr 07:00-22:00; Sa 08:00-17:00; Su 09:00-18:00",
+        "phone": "(11) 5533-3522",
+        "sport": "beachvolleyball;beachtennis;footvolley",
+        "website": "https://www.praianasp.com/",
+        "id": "node/11784993835"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6787721,
+          -23.6345204
         ]
       }
     }

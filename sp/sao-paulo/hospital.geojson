@@ -9646,55 +9646,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/623872216",
-      "properties": {
-        "timestamp": "2023-07-31T21:52:47Z",
-        "version": 3,
-        "changeset": 139273151,
-        "addr:city": "são paulo",
-        "addr:housenumber": "828-914",
-        "addr:postcode": "08042130",
-        "addr:street": "Rua Mohamad Ibrahin Saleh",
-        "addr:suburb": "Cidade Nova São Miguel",
-        "amenity": "hospital",
-        "healthcare": "hospital",
-        "height": "7.96",
-        "name": "UBS Cidade Nova São Miguel",
-        "operator:ref:vatin": "BR46392130000380",
-        "ref:CNES": "7018517",
-        "source": "pmsp;local knowledge",
-        "id": "way/623872216"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -46.432125,
-              -23.5040093
-            ],
-            [
-              -46.4317424,
-              -23.5039784
-            ],
-            [
-              -46.4317626,
-              -23.5036492
-            ],
-            [
-              -46.432142,
-              -23.5036585
-            ],
-            [
-              -46.432125,
-              -23.5040093
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/636607756",
       "properties": {
         "timestamp": "2023-09-02T17:00:04Z",
@@ -18660,10 +18611,13 @@
       "type": "Feature",
       "id": "node/9201222237",
       "properties": {
-        "timestamp": "2022-07-05T11:46:34Z",
-        "version": 3,
-        "changeset": 123231511,
-        "entrance": "yes",
+        "timestamp": "2024-04-04T02:20:42Z",
+        "version": 4,
+        "changeset": 149549627,
+        "access": "customers",
+        "amenity": "parking_entrance",
+        "barrier": "lift_gate",
+        "maxheight": "2.2",
         "id": "node/9201222237"
       },
       "geometry": {

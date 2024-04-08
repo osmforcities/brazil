@@ -2080,24 +2080,24 @@
         "coordinates": [
           [
             [
-              -48.4998029,
-              -1.4569418
+              -48.499823,
+              -1.4569492
             ],
             [
-              -48.4996532,
-              -1.4571136
+              -48.4996828,
+              -1.4571087
             ],
             [
-              -48.4995656,
-              -1.4570373
+              -48.4995968,
+              -1.4570351
             ],
             [
-              -48.4997152,
-              -1.4568655
+              -48.4997367,
+              -1.4568739
             ],
             [
-              -48.4998029,
-              -1.4569418
+              -48.499823,
+              -1.4569492
             ]
           ]
         ]
@@ -7020,6 +7020,88 @@
     },
     {
       "type": "Feature",
+      "id": "way/1269233112",
+      "properties": {
+        "timestamp": "2024-04-05T01:37:30Z",
+        "version": 1,
+        "changeset": 149593618,
+        "leisure": "pitch",
+        "sport": "soccer",
+        "id": "way/1269233112"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.4998713,
+              -1.4556306
+            ],
+            [
+              -48.4999896,
+              -1.4557313
+            ],
+            [
+              -48.4998085,
+              -1.4559439
+            ],
+            [
+              -48.4996903,
+              -1.4558433
+            ],
+            [
+              -48.4998713,
+              -1.4556306
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1269237756",
+      "properties": {
+        "timestamp": "2024-04-05T02:01:00Z",
+        "version": 1,
+        "changeset": 149593852,
+        "leisure": "pitch",
+        "sport": "soccer",
+        "id": "way/1269237756"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.4873215,
+              -1.4494502
+            ],
+            [
+              -48.4873708,
+              -1.4493167
+            ],
+            [
+              -48.4874413,
+              -1.4493427
+            ],
+            [
+              -48.4874583,
+              -1.4493489
+            ],
+            [
+              -48.487409,
+              -1.4494824
+            ],
+            [
+              -48.4873215,
+              -1.4494502
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/490954984",
       "properties": {
         "timestamp": "2017-05-02T17:04:43Z",
@@ -8363,6 +8445,41 @@
         "coordinates": [
           -48.4269249,
           -1.2751388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11793350645",
+      "properties": {
+        "timestamp": "2024-04-05T15:58:41Z",
+        "version": 1,
+        "changeset": 149622164,
+        "addr:city": "Belém",
+        "addr:housenumber": "720",
+        "addr:postcode": "66615-850",
+        "addr:street": "Avenida Dalva",
+        "addr:suburb": "Marambaia",
+        "amenity": "dojo",
+        "check_date": "2024-04-05",
+        "contact:facebook": "https://www.facebook.com/wyngtjunpara",
+        "contact:instagram": "https://www.instagram.com/daviborgeswt/",
+        "currency:XBT": "yes",
+        "name": "SiFu Davi Borges A Arte de Defesa Pessoal",
+        "opening_hours": "Sa 09:00-10:30",
+        "payment:lightning": "no",
+        "payment:lightning_contactless": "no",
+        "payment:onchain": "yes",
+        "phone": "+55 91 9826 96193",
+        "sport": "wyngtjun",
+        "website": "https://www.defesapessoalbelem.com.br/",
+        "id": "node/11793350645"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.4388568,
+          -1.4057386
         ]
       }
     }

@@ -5,9 +5,9 @@
       "type": "Feature",
       "id": "way/95463723",
       "properties": {
-        "timestamp": "2024-01-30T15:59:55Z",
-        "version": 8,
-        "changeset": 146869717,
+        "timestamp": "2024-04-05T13:42:48Z",
+        "version": 9,
+        "changeset": 149615863,
         "amenity": "library",
         "building": "yes",
         "name": "Biblioteca Central Cesar Lattes",
@@ -46,6 +46,10 @@
             [
               -47.0709504,
               -22.8161042
+            ],
+            [
+              -47.071018,
+              -22.8160467
             ],
             [
               -47.0711945,
@@ -135,9 +139,9 @@
       "type": "Feature",
       "id": "way/554951132",
       "properties": {
-        "timestamp": "2024-01-30T15:59:55Z",
-        "version": 3,
-        "changeset": 146869717,
+        "timestamp": "2024-04-05T13:42:48Z",
+        "version": 4,
+        "changeset": 149615863,
         "amenity": "library",
         "building": "yes",
         "name": "Biblioteca de Obras Raras",
@@ -162,6 +166,10 @@
             [
               -47.0710191,
               -22.8157873
+            ],
+            [
+              -47.0708938,
+              -22.8159197
             ],
             [
               -47.0708513,
@@ -502,6 +510,42 @@
         "coordinates": [
           -47.1447718,
           -22.9881342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11792912480",
+      "properties": {
+        "timestamp": "2024-04-05T13:42:48Z",
+        "version": 1,
+        "changeset": 149615863,
+        "entrance": "yes",
+        "id": "node/11792912480"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.071018,
+          -22.8160467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11792912481",
+      "properties": {
+        "timestamp": "2024-04-05T13:42:48Z",
+        "version": 1,
+        "changeset": 149615863,
+        "entrance": "yes",
+        "id": "node/11792912481"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0708938,
+          -22.8159197
         ]
       }
     }

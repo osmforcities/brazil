@@ -26491,6 +26491,46 @@
     },
     {
       "type": "Feature",
+      "id": "way/269113552",
+      "properties": {
+        "timestamp": "2024-04-07T22:12:05Z",
+        "version": 2,
+        "changeset": 149711813,
+        "leisure": "fitness_centre",
+        "name": "Academia",
+        "sport": "fitness",
+        "id": "way/269113552"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.5258613,
+              -23.4948605
+            ],
+            [
+              -46.5258622,
+              -23.4949835
+            ],
+            [
+              -46.525594,
+              -23.4949852
+            ],
+            [
+              -46.5255931,
+              -23.4948622
+            ],
+            [
+              -46.5258613,
+              -23.4948605
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/269333412",
       "properties": {
         "timestamp": "2016-11-06T05:12:34Z",
@@ -28153,13 +28193,13 @@
       "type": "Feature",
       "id": "way/291696590",
       "properties": {
-        "timestamp": "2019-08-19T16:42:33Z",
-        "version": 4,
-        "changeset": 73507096,
-        "building": "yes",
+        "timestamp": "2024-04-07T17:11:33Z",
+        "version": 5,
+        "changeset": 149702308,
+        "building": "sports_hall",
         "building:levels": "1",
         "height": "12.482",
-        "leisure": "pitch",
+        "leisure": "sports_hall",
         "name": "Ginásio Poliesportivo",
         "source": "pmsp",
         "sport": "soccer;multi",
@@ -108824,6 +108864,28 @@
     },
     {
       "type": "Feature",
+      "id": "node/4654009693",
+      "properties": {
+        "timestamp": "2024-04-07T22:39:11Z",
+        "version": 2,
+        "changeset": 149712325,
+        "addr:street": "Rua Serra de Bragança",
+        "leisure": "fitness_centre",
+        "name": "FSAKM - Federação Sulamericana de Krav Maga",
+        "name:pt": "FSAKM - Federação Sulamericana de Krav Maga",
+        "sport": "fitness",
+        "id": "node/4654009693"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5713322,
+          -23.5456506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/4658041542",
       "properties": {
         "timestamp": "2017-02-02T22:41:37Z",
@@ -111617,6 +111679,54 @@
     },
     {
       "type": "Feature",
+      "id": "node/7212822091",
+      "properties": {
+        "timestamp": "2024-04-07T00:09:41Z",
+        "version": 2,
+        "changeset": 149675051,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "77",
+        "addr:postcode": "03127-010",
+        "addr:street": "Praça Visconde de Sousa Fontes",
+        "leisure": "fitness_centre",
+        "name": "Central Caro",
+        "sport": "fitness",
+        "id": "node/7212822091"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5877418,
+          -23.5771673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7212822095",
+      "properties": {
+        "timestamp": "2024-04-07T00:10:19Z",
+        "version": 2,
+        "changeset": 149675060,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "137",
+        "addr:postcode": "03127-010",
+        "addr:street": "Praça Visconde de Sousa Fontes",
+        "leisure": "fitness_centre",
+        "name": "Contours Academia Para Mulheres",
+        "sport": "fitness",
+        "id": "node/7212822095"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5880545,
+          -23.577618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/7460757118",
       "properties": {
         "timestamp": "2023-10-02T01:56:47Z",
@@ -113152,6 +113262,31 @@
         "coordinates": [
           -46.6503282,
           -23.5514515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10922303751",
+      "properties": {
+        "timestamp": "2024-04-07T00:41:43Z",
+        "version": 2,
+        "changeset": 149675430,
+        "brand": "Smartfit",
+        "brand:wikidata": "Q30930959",
+        "check_date": "2023-05-23",
+        "leisure": "fitness_centre",
+        "name": "Smartfit",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "sport": "fitness",
+        "id": "node/10922303751"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5822872,
+          -23.5853099
         ]
       }
     },

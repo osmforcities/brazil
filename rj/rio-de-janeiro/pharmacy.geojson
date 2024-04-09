@@ -2260,9 +2260,9 @@
       "type": "Feature",
       "id": "node/346243972",
       "properties": {
-        "timestamp": "2020-11-17T21:22:43Z",
-        "version": 5,
-        "changeset": 94308700,
+        "timestamp": "2024-04-07T21:05:00Z",
+        "version": 6,
+        "changeset": 149710014,
         "addr:city": "Rio de Janeiro",
         "addr:housenumber": "211",
         "addr:street": "Rua das Laranjeiras",
@@ -2280,8 +2280,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -43.1857899,
-          -22.9335691
+          -43.1857341,
+          -22.9335801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/346245038",
+      "properties": {
+        "timestamp": "2024-04-07T21:05:00Z",
+        "version": 5,
+        "changeset": 149710014,
+        "addr:city": "Rio de Janeiro",
+        "addr:housenumber": "183A",
+        "addr:street": "Rua das Laranjeiras",
+        "addr:suburb": "Laranjeiras",
+        "amenity": "pharmacy",
+        "atm": "yes",
+        "brand": "Itaú Unibanco",
+        "healthcare": "pharmacy",
+        "name": "Venâncio",
+        "id": "node/346245038"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1852616,
+          -22.9334589
         ]
       }
     },
@@ -3117,28 +3143,6 @@
         "coordinates": [
           -43.1768404,
           -22.9311938
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/810378103",
-      "properties": {
-        "timestamp": "2020-11-17T17:48:03Z",
-        "version": 3,
-        "changeset": 94296693,
-        "amenity": "pharmacy",
-        "drive_through": "no",
-        "healthcare": "pharmacy",
-        "name": "Drogasmil",
-        "phone": "+55-21-24723000",
-        "id": "node/810378103"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.1804142,
-          -22.9316507
         ]
       }
     },
@@ -9989,6 +9993,31 @@
         "coordinates": [
           -43.3425149,
           -22.9411521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11800289953",
+      "properties": {
+        "timestamp": "2024-04-07T19:58:32Z",
+        "version": 1,
+        "changeset": 149708012,
+        "addr:city": "Rio de Janeiro",
+        "addr:housenumber": "403",
+        "addr:postcode": "20510-060",
+        "addr:street": "Rua Uruguai",
+        "addr:suburb": "Tijuca",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Drogaria Unidas",
+        "id": "node/11800289953"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2414133,
+          -22.9317001
         ]
       }
     }

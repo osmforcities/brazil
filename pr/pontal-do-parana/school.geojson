@@ -838,6 +838,50 @@
     },
     {
       "type": "Feature",
+      "id": "way/1270458814",
+      "properties": {
+        "timestamp": "2024-04-06T22:40:43Z",
+        "version": 1,
+        "changeset": 149673909,
+        "addr:city": "Pontal do Paraná",
+        "addr:postcode": "83255-000",
+        "addr:street": "Rodovia Engenheiro Argus Thá Heyn",
+        "addr:suburb": "Guaraguaçu",
+        "amenity": "school",
+        "name": "CMEIFranscisco Antônio Vieira",
+        "religion": "anos_iniciais",
+        "id": "way/1270458814"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.5124808,
+              -25.6727457
+            ],
+            [
+              -48.5122258,
+              -25.672888
+            ],
+            [
+              -48.5121234,
+              -25.672745
+            ],
+            [
+              -48.5123752,
+              -25.6726026
+            ],
+            [
+              -48.5124808,
+              -25.6727457
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/10939804309",
       "properties": {
         "timestamp": "2023-05-30T12:17:25Z",
@@ -1188,6 +1232,30 @@
         "coordinates": [
           -48.4662668,
           -25.6785392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11796250673",
+      "properties": {
+        "timestamp": "2024-04-06T22:40:43Z",
+        "version": 1,
+        "changeset": 149673909,
+        "addr:city": "Pontal do Paraná",
+        "addr:postcode": "83255-000",
+        "addr:street": "Rodovia Engenheiro Argus Thá Heyn",
+        "addr:suburb": "Guaraguaçu",
+        "amenity": "school",
+        "grades": "Anos Iniciais",
+        "name": "CMEI Francisco Antônio Vieira",
+        "id": "node/11796250673"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.5122556,
+          -25.6726814
         ]
       }
     }

@@ -1174,6 +1174,105 @@
     },
     {
       "type": "Feature",
+      "id": "way/472203529",
+      "properties": {
+        "timestamp": "2024-04-08T13:48:47Z",
+        "version": 5,
+        "changeset": 149736639,
+        "addr:city": "Londrina",
+        "addr:housenumber": "1155",
+        "addr:postcode": "86020-121",
+        "addr:street": "Rua Pernambuco",
+        "addr:suburb": "Centro",
+        "amenity": "pharmacy",
+        "building:levels": "1",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "mobile": "+55 43 98825 5365",
+        "name": "Remed Farmácias",
+        "phone": "0800 200 2429",
+        "website": "https://www.remed.com.br/",
+        "id": "way/472203529"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.1625482,
+              -23.3183508
+            ],
+            [
+              -51.16264,
+              -23.3183506
+            ],
+            [
+              -51.1626408,
+              -23.3186237
+            ],
+            [
+              -51.1625513,
+              -23.3186239
+            ],
+            [
+              -51.1625511,
+              -23.3185719
+            ],
+            [
+              -51.162585,
+              -23.3185718
+            ],
+            [
+              -51.1625849,
+              -23.3185562
+            ],
+            [
+              -51.162551,
+              -23.3185562
+            ],
+            [
+              -51.1625509,
+              -23.3184964
+            ],
+            [
+              -51.1625829,
+              -23.3184963
+            ],
+            [
+              -51.1625829,
+              -23.3184833
+            ],
+            [
+              -51.1625518,
+              -23.3184834
+            ],
+            [
+              -51.1625516,
+              -23.3184065
+            ],
+            [
+              -51.1625772,
+              -23.3184065
+            ],
+            [
+              -51.1625772,
+              -23.3183932
+            ],
+            [
+              -51.1625484,
+              -23.3183933
+            ],
+            [
+              -51.1625482,
+              -23.3183508
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/472203762",
       "properties": {
         "timestamp": "2017-02-04T20:50:24Z",
@@ -1912,13 +2011,16 @@
       "type": "Feature",
       "id": "node/3810451485",
       "properties": {
-        "timestamp": "2015-10-30T20:39:56Z",
-        "version": 1,
-        "changeset": 34980532,
+        "timestamp": "2024-04-08T14:21:50Z",
+        "version": 2,
+        "changeset": 149737999,
         "addr:city": "Londrina",
         "addr:street": "Rua Maranhão",
         "addr:suburb": "Centro",
         "amenity": "pharmacy",
+        "dispensing": "yes",
+        "drive_through": "yes",
+        "healthcare": "pharmacy",
         "name": "Preço Popular",
         "id": "node/3810451485"
       },

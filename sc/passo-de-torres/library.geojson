@@ -3,21 +3,50 @@
   "features": [
     {
       "type": "Feature",
-      "id": "node/8531751098",
+      "id": "way/1227587651",
       "properties": {
-        "timestamp": "2021-04-16T18:36:19Z",
+        "timestamp": "2024-04-08T19:55:56Z",
         "version": 2,
-        "changeset": 103075689,
+        "changeset": 149750814,
         "amenity": "library",
-        "name": "Biblioteca Pública Municipal Livro Aberto",
-        "operator": "Prefeitura Municipal de Passo de Torres",
-        "id": "node/8531751098"
+        "building": "yes",
+        "name": "Biblioteca Pública Municipal Ney Azambuja",
+        "source": "microsoft/BuildingFootprints",
+        "id": "way/1227587651"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -49.7214894,
-          -29.32375
+          [
+            [
+              -49.7208738,
+              -29.3223411
+            ],
+            [
+              -49.7208309,
+              -29.3223494
+            ],
+            [
+              -49.7208043,
+              -29.3222455
+            ],
+            [
+              -49.7209183,
+              -29.3222234
+            ],
+            [
+              -49.7209443,
+              -29.3223251
+            ],
+            [
+              -49.7208732,
+              -29.3223388
+            ],
+            [
+              -49.7208738,
+              -29.3223411
+            ]
+          ]
         ]
       }
     }

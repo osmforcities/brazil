@@ -544,9 +544,9 @@
       "type": "Feature",
       "id": "way/450581688",
       "properties": {
-        "timestamp": "2021-05-24T08:48:21Z",
-        "version": 2,
-        "changeset": 105209597,
+        "timestamp": "2024-04-08T04:23:49Z",
+        "version": 3,
+        "changeset": 149716840,
         "waterway": "dam",
         "id": "way/450581688"
       },
@@ -585,10 +585,6 @@
             [
               -39.1610263,
               -5.1496896
-            ],
-            [
-              -39.1610856,
-              -5.1496674
             ],
             [
               -39.1612521,
@@ -1410,9 +1406,9 @@
       "type": "Feature",
       "id": "way/450581687",
       "properties": {
-        "timestamp": "2018-02-19T19:24:14Z",
-        "version": 2,
-        "changeset": 56500985,
+        "timestamp": "2024-04-08T17:51:27Z",
+        "version": 3,
+        "changeset": 149746203,
         "barrier": "retaining_wall",
         "height": "1",
         "waterway": "dam",
@@ -1422,20 +1418,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -39.1790305,
-            -5.1580202
+            -39.1797684,
+            -5.1583735
           ],
           [
-            -39.179256,
-            -5.1583391
+            -39.1795903,
+            -5.1584259
           ],
           [
             -39.1794187,
             -5.1582336
           ],
           [
-            -39.1795903,
-            -5.1584259
+            -39.179256,
+            -5.1583391
+          ],
+          [
+            -39.1790305,
+            -5.1580202
           ]
         ]
       }
@@ -3045,6 +3045,58 @@
           [
             -39.1766989,
             -5.1720844
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1270953170",
+      "properties": {
+        "timestamp": "2024-04-08T17:51:27Z",
+        "version": 1,
+        "changeset": 149746203,
+        "barrier": "retaining_wall",
+        "height": "1",
+        "waterway": "dam",
+        "id": "way/1270953170"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -39.1713192,
+            -5.1663877
+          ],
+          [
+            -39.1714512,
+            -5.1661172
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1270953171",
+      "properties": {
+        "timestamp": "2024-04-08T17:51:27Z",
+        "version": 1,
+        "changeset": 149746203,
+        "barrier": "retaining_wall",
+        "height": "1",
+        "waterway": "dam",
+        "id": "way/1270953171"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -39.1766694,
+            -5.1623711
+          ],
+          [
+            -39.1763395,
+            -5.1624217
           ]
         ]
       }

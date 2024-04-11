@@ -1502,6 +1502,53 @@
     },
     {
       "type": "Feature",
+      "id": "way/472179915",
+      "properties": {
+        "timestamp": "2024-04-09T12:57:08Z",
+        "version": 2,
+        "changeset": 149776469,
+        "addr:housenumber": "91",
+        "addr:street": "Rua Fortaleza",
+        "amenity": "school",
+        "name": "Elite Rede de Ensino",
+        "phone": "+55 43 3029 0070",
+        "website": "https://ensinoelite.com.br/unidade/londrina/",
+        "id": "way/472179915"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.1705949,
+              -23.3025933
+            ],
+            [
+              -51.1708083,
+              -23.3028556
+            ],
+            [
+              -51.1702086,
+              -23.3032643
+            ],
+            [
+              -51.1698599,
+              -23.3027808
+            ],
+            [
+              -51.1704362,
+              -23.3023988
+            ],
+            [
+              -51.1705949,
+              -23.3025933
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/492222073",
       "properties": {
         "timestamp": "2019-02-06T12:28:38Z",
@@ -4254,9 +4301,9 @@
       "type": "Feature",
       "id": "way/616912574",
       "properties": {
-        "timestamp": "2024-01-20T18:45:58Z",
-        "version": 4,
-        "changeset": 146489524,
+        "timestamp": "2024-04-09T13:43:22Z",
+        "version": 5,
+        "changeset": 149778207,
         "addr:housenumber": "178",
         "addr:postcode": "86087-460",
         "addr:street": "Rua Maria Garcia Lopes",
@@ -4275,32 +4322,24 @@
         "coordinates": [
           [
             [
-              -51.1423275,
-              -23.2820419
+              -51.142209,
+              -23.2823565
             ],
             [
-              -51.142368,
-              -23.2820209
+              -51.1423966,
+              -23.2820471
             ],
             [
-              -51.1424278,
-              -23.2820498
+              -51.1427585,
+              -23.2822511
             ],
             [
-              -51.1432041,
-              -23.282511
+              -51.1425661,
+              -23.282541
             ],
             [
-              -51.1430629,
-              -23.2829316
-            ],
-            [
-              -51.1422748,
-              -23.2827042
-            ],
-            [
-              -51.1423275,
-              -23.2820419
+              -51.142209,
+              -23.2823565
             ]
           ]
         ]
@@ -11108,30 +11147,6 @@
         "coordinates": [
           -51.1828968,
           -23.2135875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/8998820517",
-      "properties": {
-        "timestamp": "2021-08-13T05:00:41Z",
-        "version": 3,
-        "changeset": 109603337,
-        "addr:city": "Londrina",
-        "addr:housenumber": "91",
-        "addr:street": "Rua Fortaleza",
-        "addr:suburb": "Centro",
-        "amenity": "school",
-        "name": "Elite Rede de Ensino - Londrina",
-        "website": "https://ensinoelite.com.br",
-        "id": "node/8998820517"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -51.1700838,
-          -23.3027584
         ]
       }
     },

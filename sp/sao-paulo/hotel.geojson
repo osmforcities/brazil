@@ -17758,6 +17758,124 @@
     },
     {
       "type": "Feature",
+      "id": "way/1271252823",
+      "properties": {
+        "timestamp": "2024-04-09T18:26:16Z",
+        "version": 1,
+        "changeset": 149789823,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "652",
+        "addr:postcode": "01415-002",
+        "addr:street": "Rua Bela Cintra",
+        "name": "Carrilon Plaza Hotel",
+        "tourism": "hotel",
+        "id": "way/1271252823"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.6589757,
+              -23.5534341
+            ],
+            [
+              -46.658755,
+              -23.5536289
+            ],
+            [
+              -46.6586878,
+              -23.5535705
+            ],
+            [
+              -46.6586221,
+              -23.5535135
+            ],
+            [
+              -46.6588596,
+              -23.5533189
+            ],
+            [
+              -46.6589548,
+              -23.5534143
+            ],
+            [
+              -46.6589757,
+              -23.5534341
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1271252824",
+      "properties": {
+        "timestamp": "2024-04-09T18:26:16Z",
+        "version": 1,
+        "changeset": 149789823,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "672",
+        "addr:postcode": "01415-002",
+        "addr:street": "Rua Bela Cintra",
+        "name": "Riema Paulista Classic Flat",
+        "tourism": "hotel",
+        "id": "way/1271252824"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.658755,
+              -23.5536289
+            ],
+            [
+              -46.6589757,
+              -23.5534341
+            ],
+            [
+              -46.659042,
+              -23.553376
+            ],
+            [
+              -46.6590502,
+              -23.5533835
+            ],
+            [
+              -46.659129,
+              -23.5534598
+            ],
+            [
+              -46.6591572,
+              -23.5534864
+            ],
+            [
+              -46.6590026,
+              -23.5536221
+            ],
+            [
+              -46.658961,
+              -23.5536586
+            ],
+            [
+              -46.6588762,
+              -23.553734
+            ],
+            [
+              -46.6588305,
+              -23.5536944
+            ],
+            [
+              -46.658755,
+              -23.5536289
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/905643820",
       "properties": {
         "timestamp": "2021-02-10T02:03:22Z",
@@ -18438,29 +18556,6 @@
         "coordinates": [
           -46.6598164,
           -23.5715183
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/1883209214",
-      "properties": {
-        "timestamp": "2017-07-25T15:24:12Z",
-        "version": 2,
-        "changeset": 50562033,
-        "addr:city": "São Paulo",
-        "addr:housenumber": "672",
-        "addr:postcode": "01415-002",
-        "addr:street": "Rua Bela Cintra",
-        "name": "Riema Paulista Classic Flat",
-        "tourism": "hotel",
-        "id": "node/1883209214"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -46.6588003,
-          -23.5536681
         ]
       }
     },
@@ -21957,29 +22052,6 @@
         "coordinates": [
           -46.6579765,
           -23.5543732
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/4992804786",
-      "properties": {
-        "timestamp": "2017-07-25T15:24:10Z",
-        "version": 1,
-        "changeset": 50562033,
-        "addr:city": "São Paulo",
-        "addr:housenumber": "652",
-        "addr:postcode": "01415-002",
-        "addr:street": "Rua Bela Cintra",
-        "name": "Carrilon Plaza Hotel",
-        "tourism": "hotel",
-        "id": "node/4992804786"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -46.6586705,
-          -23.5535555
         ]
       }
     },
@@ -25785,6 +25857,48 @@
         "coordinates": [
           -46.7068121,
           -23.6286671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11805536986",
+      "properties": {
+        "timestamp": "2024-04-09T18:26:16Z",
+        "version": 1,
+        "changeset": 149789823,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "652",
+        "addr:postcode": "01415-002",
+        "addr:street": "Rua Bela Cintra",
+        "id": "node/11805536986"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6586878,
+          -23.5535705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11805536989",
+      "properties": {
+        "timestamp": "2024-04-09T18:26:16Z",
+        "version": 1,
+        "changeset": 149789823,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "672",
+        "addr:postcode": "01415-002",
+        "addr:street": "Rua Bela Cintra",
+        "id": "node/11805536989"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6588305,
+          -23.5536944
         ]
       }
     }

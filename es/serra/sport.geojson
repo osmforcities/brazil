@@ -9312,6 +9312,67 @@
     },
     {
       "type": "Feature",
+      "id": "way/1271222198",
+      "properties": {
+        "timestamp": "2024-04-09T16:20:37Z",
+        "version": 1,
+        "changeset": 149785010,
+        "addr:city": "Serra",
+        "addr:housenumber": "207",
+        "addr:postcode": "29175-252",
+        "addr:street": "Rua Paraguaçu",
+        "addr:suburb": "Jardim Atlântico",
+        "leisure": "sports_centre",
+        "name": "Virando Peixe Escola de Natação",
+        "sport": "swimming",
+        "id": "way/1271222198"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.1886963,
+              -20.1363862
+            ],
+            [
+              -40.1887151,
+              -20.1366406
+            ],
+            [
+              -40.1885702,
+              -20.1366557
+            ],
+            [
+              -40.1883208,
+              -20.1366557
+            ],
+            [
+              -40.188294,
+              -20.1364013
+            ],
+            [
+              -40.1882886,
+              -20.1361395
+            ],
+            [
+              -40.1885649,
+              -20.1361168
+            ],
+            [
+              -40.1885863,
+              -20.1363888
+            ],
+            [
+              -40.1886963,
+              -20.1363862
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/162803240",
       "properties": {
         "timestamp": "2021-01-04T00:30:57Z",
@@ -11052,6 +11113,48 @@
         "coordinates": [
           -40.2317276,
           -20.2203479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11805094886",
+      "properties": {
+        "timestamp": "2024-04-09T15:11:43Z",
+        "version": 1,
+        "changeset": 149781952,
+        "access": "private",
+        "leisure": "pitch",
+        "name": "Society Katavento Cerimonial",
+        "sport": "soccer;multi",
+        "surface": "plastic",
+        "id": "node/11805094886"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.1936012,
+          -20.1370456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11805241740",
+      "properties": {
+        "timestamp": "2024-04-09T16:21:31Z",
+        "version": 1,
+        "changeset": 149785050,
+        "leisure": "sports_centre",
+        "name": "Virando Peixe",
+        "sport": "swimming",
+        "id": "node/11805241740"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.1886015,
+          -20.1365424
         ]
       }
     }

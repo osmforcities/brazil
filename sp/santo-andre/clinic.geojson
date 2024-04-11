@@ -1035,108 +1035,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/800405540",
-      "properties": {
-        "timestamp": "2023-09-20T18:18:23Z",
-        "version": 3,
-        "changeset": 141526399,
-        "amenity": "clinic",
-        "healthcare": "clinic",
-        "name": "Unidade de Saúde Cidade São Jorge",
-        "operator": "Prefeitura Municipal de Santo André",
-        "source:geometry": "PMSA;Esri",
-        "id": "way/800405540"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -46.4868421,
-              -23.6699378
-            ],
-            [
-              -46.4869013,
-              -23.6698898
-            ],
-            [
-              -46.4869455,
-              -23.6698685
-            ],
-            [
-              -46.4869989,
-              -23.6698544
-            ],
-            [
-              -46.4870334,
-              -23.6698499
-            ],
-            [
-              -46.4870792,
-              -23.6698511
-            ],
-            [
-              -46.487117,
-              -23.6698531
-            ],
-            [
-              -46.4871744,
-              -23.6698722
-            ],
-            [
-              -46.487214,
-              -23.6698894
-            ],
-            [
-              -46.4872526,
-              -23.6699137
-            ],
-            [
-              -46.4873059,
-              -23.6699667
-            ],
-            [
-              -46.4873324,
-              -23.6700088
-            ],
-            [
-              -46.4873472,
-              -23.6700425
-            ],
-            [
-              -46.4873594,
-              -23.6700914
-            ],
-            [
-              -46.4873639,
-              -23.6701392
-            ],
-            [
-              -46.4873701,
-              -23.6702179
-            ],
-            [
-              -46.4868939,
-              -23.6702786
-            ],
-            [
-              -46.4868561,
-              -23.6700301
-            ],
-            [
-              -46.4866973,
-              -23.6700503
-            ],
-            [
-              -46.4868421,
-              -23.6699378
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/804968985",
       "properties": {
         "timestamp": "2023-12-20T18:02:04Z",
@@ -2187,9 +2085,9 @@
       "type": "Feature",
       "id": "way/1206498883",
       "properties": {
-        "timestamp": "2023-09-10T01:11:18Z",
-        "version": 1,
-        "changeset": 141044407,
+        "timestamp": "2024-04-09T00:23:46Z",
+        "version": 2,
+        "changeset": 149756371,
         "addr:housenumber": "256",
         "addr:postcode": "09181-720",
         "addr:street": "Rua Juquiá",
@@ -2198,7 +2096,7 @@
         "amenity": "clinic",
         "emergency": "no",
         "healthcare": "clinic",
-        "healthcare:speciality": "general;paediatrics;vaccination;gynaecology",
+        "healthcare:speciality": "general;paediatrics;vaccination;ginecologia",
         "name": "Unidade Básica de Saúde Bairro Paraíso",
         "opening_hours": "Mo-Fr 07:00-17:00; Sa,Su,PH off",
         "operator:ref:vatin": "BR46522942000130",
@@ -3269,6 +3167,32 @@
         "coordinates": [
           -46.5227196,
           -23.6619128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11803544076",
+      "properties": {
+        "timestamp": "2024-04-09T00:45:17Z",
+        "version": 1,
+        "changeset": 149756572,
+        "addr:street": "Avenida São Paulo",
+        "addr:suburb": "Parque Marajoara",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Clínica da Família São Jorge",
+        "opening_hours": "Mo-Fr 08:00-17:00; PH off",
+        "operator": "Secretaria Municipal da Saúde",
+        "operator:type": "government",
+        "source": "https://web.santoandre.sp.gov.br/portal/noticias/0/3/17628/santo-andre-inaugura-clinica-da-familia-sao-jorge-com-atendimento-especial-a-povos-indigenas/",
+        "id": "node/11803544076"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4869493,
+          -23.6700874
         ]
       }
     }

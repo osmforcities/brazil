@@ -246,9 +246,10 @@
       "type": "Feature",
       "id": "way/348735087",
       "properties": {
-        "timestamp": "2020-12-30T11:44:57Z",
-        "version": 3,
-        "changeset": 96664504,
+        "timestamp": "2024-04-10T17:09:38Z",
+        "version": 4,
+        "changeset": 149830469,
+        "access": "permit",
         "leisure": "pitch",
         "sport": "soccer",
         "surface": "concrete",
@@ -290,9 +291,10 @@
       "type": "Feature",
       "id": "way/348735088",
       "properties": {
-        "timestamp": "2020-12-30T11:44:55Z",
-        "version": 3,
-        "changeset": 96664504,
+        "timestamp": "2024-04-10T17:09:38Z",
+        "version": 4,
+        "changeset": 149830469,
+        "access": "permit",
         "leisure": "pitch",
         "sport": "soccer",
         "surface": "concrete",
@@ -2807,6 +2809,89 @@
             [
               -42.6787272,
               -14.0146595
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1271506511",
+      "properties": {
+        "timestamp": "2024-04-10T17:09:38Z",
+        "version": 1,
+        "changeset": 149830469,
+        "access": "permit",
+        "leisure": "pitch",
+        "lit": "yes",
+        "sport": "soccer",
+        "id": "way/1271506511"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.492933,
+              -14.0687776
+            ],
+            [
+              -42.4926661,
+              -14.0686372
+            ],
+            [
+              -42.4928798,
+              -14.0682551
+            ],
+            [
+              -42.4931466,
+              -14.0683955
+            ],
+            [
+              -42.492933,
+              -14.0687776
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1271506512",
+      "properties": {
+        "timestamp": "2024-04-10T17:09:38Z",
+        "version": 1,
+        "changeset": 149830469,
+        "access": "permit",
+        "leisure": "pitch",
+        "lit": "yes",
+        "sport": "futsal",
+        "surface": "concrete",
+        "id": "way/1271506512"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.493495,
+              -14.0680484
+            ],
+            [
+              -42.4936528,
+              -14.0677856
+            ],
+            [
+              -42.493795,
+              -14.067866
+            ],
+            [
+              -42.4936371,
+              -14.0681287
+            ],
+            [
+              -42.493495,
+              -14.0680484
             ]
           ]
         ]

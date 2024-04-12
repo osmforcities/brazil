@@ -7890,6 +7890,97 @@
     },
     {
       "type": "Feature",
+      "id": "way/1271382487",
+      "properties": {
+        "timestamp": "2024-04-10T07:20:27Z",
+        "version": 1,
+        "changeset": 149805838,
+        "addr:city": "Belém",
+        "addr:street": "Alameda NS 24",
+        "addr:suburb": "Coqueiro",
+        "building": "yes",
+        "leisure": "fitness_centre",
+        "name": "Academia Total Fitness",
+        "sport": "fitness",
+        "id": "way/1271382487"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.4370723,
+              -1.3300829
+            ],
+            [
+              -48.4370583,
+              -1.3301529
+            ],
+            [
+              -48.4373222,
+              -1.3302008
+            ],
+            [
+              -48.437307,
+              -1.3302661
+            ],
+            [
+              -48.4368517,
+              -1.3301739
+            ],
+            [
+              -48.436882,
+              -1.3300385
+            ],
+            [
+              -48.4370723,
+              -1.3300829
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1271589064",
+      "properties": {
+        "timestamp": "2024-04-10T23:42:16Z",
+        "version": 1,
+        "changeset": 149842198,
+        "leisure": "pitch",
+        "sport": "futsal",
+        "id": "way/1271589064"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.4418052,
+              -1.3361897
+            ],
+            [
+              -48.4419211,
+              -1.3361978
+            ],
+            [
+              -48.4418845,
+              -1.336462
+            ],
+            [
+              -48.4417584,
+              -1.3364356
+            ],
+            [
+              -48.4418052,
+              -1.3361897
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/490954984",
       "properties": {
         "timestamp": "2017-05-02T17:04:43Z",
@@ -9268,6 +9359,28 @@
         "coordinates": [
           -48.4388568,
           -1.4057386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11806564959",
+      "properties": {
+        "timestamp": "2024-04-10T07:20:27Z",
+        "version": 1,
+        "changeset": 149805838,
+        "leisure": "fitness_centre",
+        "level": "2",
+        "name": "Academia Smart Fit - Maguari",
+        "sport": "fitness",
+        "wheelchair": "yes",
+        "id": "node/11806564959"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.449286,
+          -1.3314126
         ]
       }
     }

@@ -5,11 +5,12 @@
       "type": "Feature",
       "id": "way/246566749",
       "properties": {
-        "timestamp": "2023-03-20T02:31:55Z",
-        "version": 4,
-        "changeset": 133879927,
+        "timestamp": "2024-04-10T00:22:44Z",
+        "version": 5,
+        "changeset": 149798358,
         "access": "yes",
         "leisure": "pitch",
+        "lit": "yes",
         "name": "Estádio Municipal Serra Negra",
         "sport": "soccer",
         "surface": "grass",
@@ -1298,11 +1299,13 @@
       "type": "Feature",
       "id": "way/668661298",
       "properties": {
-        "timestamp": "2019-02-06T13:24:42Z",
-        "version": 1,
-        "changeset": 66963761,
+        "timestamp": "2024-04-10T00:26:51Z",
+        "version": 3,
+        "changeset": 149798358,
         "leisure": "pitch",
+        "lit": "yes",
         "sport": "tennis",
+        "surface": "concrete",
         "id": "way/668661298"
       },
       "geometry": {
@@ -1310,24 +1313,24 @@
         "coordinates": [
           [
             [
-              -46.6988338,
-              -22.6161733
+              -46.6989347,
+              -22.6161586
             ],
             [
-              -46.6987892,
-              -22.6163792
+              -46.6988874,
+              -22.6164347
             ],
             [
-              -46.6986968,
-              -22.6163622
+              -46.6987481,
+              -22.6164079
             ],
             [
-              -46.6987414,
-              -22.6161562
+              -46.6987848,
+              -22.6161358
             ],
             [
-              -46.6988338,
-              -22.6161733
+              -46.6989347,
+              -22.6161586
             ]
           ]
         ]
@@ -1337,15 +1340,15 @@
       "type": "Feature",
       "id": "way/839752538",
       "properties": {
-        "timestamp": "2023-04-29T21:46:06Z",
-        "version": 4,
-        "changeset": 135518967,
+        "timestamp": "2024-04-10T12:15:34Z",
+        "version": 5,
+        "changeset": 149817074,
         "access": "yes",
         "building": "sports_hall",
         "covered": "yes",
-        "leisure": "sports_hall",
+        "leisure": "pitch",
         "lit": "yes",
-        "sport": "multi",
+        "sport": "futsal",
         "surface": "concrete",
         "id": "way/839752538"
       },
@@ -1354,24 +1357,24 @@
         "coordinates": [
           [
             [
-              -46.6966993,
-              -22.6164474
+              -46.6967075,
+              -22.6164733
             ],
             [
-              -46.6968754,
-              -22.6162154
+              -46.6968941,
+              -22.6162348
             ],
             [
-              -46.697084,
-              -22.616383
+              -46.6971113,
+              -22.6164042
             ],
             [
-              -46.6969111,
-              -22.616599
+              -46.6969415,
+              -22.6166281
             ],
             [
-              -46.6966993,
-              -22.6164474
+              -46.6967075,
+              -22.6164733
             ]
           ]
         ]
@@ -1411,6 +1414,46 @@
             [
               -46.6915576,
               -22.5957755
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1271438612",
+      "properties": {
+        "timestamp": "2024-04-10T12:15:34Z",
+        "version": 1,
+        "changeset": 149817074,
+        "leisure": "pitch",
+        "sport": "soccer",
+        "surface": "sintético",
+        "id": "way/1271438612"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.6969374,
+              -22.6166404
+            ],
+            [
+              -46.6967542,
+              -22.6169036
+            ],
+            [
+              -46.6965078,
+              -22.6167406
+            ],
+            [
+              -46.6967074,
+              -22.6164841
+            ],
+            [
+              -46.6969374,
+              -22.6166404
             ]
           ]
         ]

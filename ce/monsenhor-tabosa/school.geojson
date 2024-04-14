@@ -3,44 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": "way/522455053",
-      "properties": {
-        "timestamp": "2017-09-08T11:59:20Z",
-        "version": 1,
-        "changeset": 51842475,
-        "amenity": "school",
-        "id": "way/522455053"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -40.1102232,
-              -5.0667164
-            ],
-            [
-              -40.1102061,
-              -5.0676572
-            ],
-            [
-              -40.1093039,
-              -5.067641
-            ],
-            [
-              -40.109321,
-              -5.0667001
-            ],
-            [
-              -40.1102232,
-              -5.0667164
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/522455055",
       "properties": {
         "timestamp": "2017-09-08T11:59:20Z",
@@ -433,6 +395,30 @@
         "coordinates": [
           -40.1085116,
           -4.7534599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11812541143",
+      "properties": {
+        "timestamp": "2024-04-12T20:29:28Z",
+        "version": 1,
+        "changeset": 149928030,
+        "addr:city": "Monsenhor Tabosa",
+        "addr:housenumber": "S/N",
+        "addr:place": "Assentamento Santana – Zona Rural",
+        "addr:postcode": "63780000",
+        "addr:suburb": "Distrito Barreiro",
+        "amenity": "school",
+        "name": "EEM FLORESTAN FERNANDES",
+        "id": "node/11812541143"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.1097074,
+          -5.0671758
         ]
       }
     }

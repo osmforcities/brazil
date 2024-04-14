@@ -18151,32 +18151,34 @@
       "type": "Feature",
       "id": "way/165472951",
       "properties": {
-        "timestamp": "2024-04-09T23:50:41Z",
-        "version": 16,
-        "changeset": 149797914,
-        "access": "yes",
-        "addr:city": "São Paulo",
-        "addr:housenumber": "s/n",
-        "addr:postcode": "01246-020",
-        "addr:street": "Rua Capivari",
-        "addr:suburb": "Pacaembu",
+        "timestamp": "2024-04-12T07:36:51Z",
+        "version": 18,
+        "changeset": 149896759,
+        "access": "no",
         "covered": "no",
         "depth": "2",
+        "disused:leisure": "swimming_pool",
         "fee": "no",
         "heating": "yes",
-        "leisure": "swimming_pool",
+        "landuse": "construction",
         "length": "50",
         "lit": "yes",
         "location": "outdoor",
-        "name": "Piscina Pública do Pacaembu",
-        "opening_hours": "Tu-Sa 08:00-17:00; Su 10:00-19:00; Mo off",
-        "operator": "Prefeitura de São Paulo",
-        "operator:type": "government",
-        "phone": "(11) 3664-4650",
-        "source": "Prefeitura de São Paulo",
+        "old_addr:city": "São Paulo",
+        "old_addr:housenumber": "s/n",
+        "old_addr:postcode": "01246-020",
+        "old_addr:street": "Rua Capivari",
+        "old_addr:suburb": "Pacaembu",
+        "old_name": "Piscina Pública do Pacaembu",
+        "old_operator": "Prefeitura de São Paulo",
+        "old_operator:type": "government",
+        "old_phone": "(11) 3664-4650",
+        "old_source": "Prefeitura de São Paulo",
+        "old_website": "https://www.prefeitura.sp.gov.br/cidade/secretarias/esportes/estadio_pacaembu/centro_esportivo/index.php?p=746",
+        "opening_hours": "off",
         "sport": "swimming",
+        "swimming_lanes": "9",
         "swimming_pool": "swimming",
-        "website": "https://www.prefeitura.sp.gov.br/cidade/secretarias/esportes/estadio_pacaembu/centro_esportivo/index.php?p=746",
         "width": "25",
         "id": "way/165472951"
       },
@@ -108466,6 +108468,30 @@
     },
     {
       "type": "Feature",
+      "id": "node/4383984432",
+      "properties": {
+        "timestamp": "2024-04-12T06:12:16Z",
+        "version": 5,
+        "changeset": 149892292,
+        "addr:housenumber": "558",
+        "addr:street": "Rua Pires da Mota",
+        "leisure": "fitness_centre",
+        "name": "Academia Top Swim",
+        "phone": "+55 11 3277-3033",
+        "sport": "fitness",
+        "website": "https://topswim.com.br/",
+        "id": "node/4383984432"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6340617,
+          -23.5670586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/4385718843",
       "properties": {
         "timestamp": "2020-03-22T00:39:11Z",
@@ -114149,6 +114175,34 @@
         "coordinates": [
           -46.6649521,
           -23.5504221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11810579772",
+      "properties": {
+        "timestamp": "2024-04-12T00:21:48Z",
+        "version": 1,
+        "changeset": 149886239,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "2755",
+        "addr:postcode": "04063-005",
+        "addr:street": "Avenida Indianópolis",
+        "addr:suburb": "Planalto Paulista",
+        "leisure": "sports_centre",
+        "name": "Posto 011 - Esporte & Areia",
+        "opening_hours": "Mo-Fr 06:00-23:00; Sa-Su 08:00-16:00",
+        "sport": "beachtennis;footvolley;beachvolleyball",
+        "website": "https://www.posto011.com.br/",
+        "wheelchair": "yes",
+        "id": "node/11810579772"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.646554,
+          -23.6219696
         ]
       }
     }

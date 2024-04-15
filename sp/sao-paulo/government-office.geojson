@@ -2424,12 +2424,13 @@
       "type": "Feature",
       "id": "way/283273755",
       "properties": {
-        "timestamp": "2017-04-30T01:25:08Z",
-        "version": 2,
-        "changeset": 48270682,
+        "timestamp": "2024-04-13T13:24:18Z",
+        "version": 3,
+        "changeset": 149951733,
         "addr:city": "São Paulo",
         "addr:street": "Avenida Presidente Wilson",
         "addr:suburb": "Vila Prudente",
+        "government": "administrative",
         "name": "Receita Federal",
         "office": "government",
         "id": "way/283273755"
@@ -2742,6 +2743,60 @@
             [
               -46.4496069,
               -23.529268
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/351269881",
+      "properties": {
+        "timestamp": "2024-04-13T13:24:18Z",
+        "version": 3,
+        "changeset": 149951733,
+        "addr:housenumber": "5330",
+        "addr:street": "Avenida Presidente Wilson",
+        "addr:suburb": "Vila Prudente",
+        "building": "yes",
+        "government": "administrative",
+        "height": "8.49",
+        "name": "Justiça Federal - TRF3",
+        "office": "government",
+        "source": "pmsp",
+        "id": "way/351269881"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.5889949,
+              -23.598475
+            ],
+            [
+              -46.5874275,
+              -23.5973401
+            ],
+            [
+              -46.5886323,
+              -23.5959259
+            ],
+            [
+              -46.5889949,
+              -23.596188
+            ],
+            [
+              -46.5902925,
+              -23.5971256
+            ],
+            [
+              -46.5890855,
+              -23.5985407
+            ],
+            [
+              -46.5889949,
+              -23.598475
             ]
           ]
         ]

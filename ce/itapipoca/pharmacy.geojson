@@ -3,21 +3,69 @@
   "features": [
     {
       "type": "Feature",
+      "id": "way/230984029",
+      "properties": {
+        "timestamp": "2024-04-14T17:01:43Z",
+        "version": 2,
+        "changeset": 150002094,
+        "addr:city": "Itapipoca",
+        "addr:housenumber": "560",
+        "addr:postcode": "62500-043",
+        "addr:street": "Avenida Anastácio Braga",
+        "addr:suburb": "Centro",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farma Tudo Bons Amigos",
+        "source": "bing",
+        "id": "way/230984029"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -39.5808738,
+              -3.5000312
+            ],
+            [
+              -39.5807316,
+              -3.5000809
+            ],
+            [
+              -39.5806856,
+              -3.499948
+            ],
+            [
+              -39.580827,
+              -3.4998978
+            ],
+            [
+              -39.5808738,
+              -3.5000312
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/9573099817",
       "properties": {
-        "timestamp": "2022-03-12T16:23:51Z",
-        "version": 1,
-        "changeset": 118404180,
+        "timestamp": "2024-04-14T14:44:42Z",
+        "version": 2,
+        "changeset": 149996046,
         "addr:street": "Avenida José do Patrocínio",
         "amenity": "pharmacy",
+        "healthcare": "pharmacy",
         "name": "Farmácia Prista",
         "id": "node/9573099817"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -39.5790072,
-          -3.4996919
+          -39.5789943,
+          -3.4996908
         ]
       }
     }

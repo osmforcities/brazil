@@ -11584,9 +11584,9 @@
       "type": "Feature",
       "id": "way/251020162",
       "properties": {
-        "timestamp": "2016-01-14T11:26:47Z",
-        "version": 5,
-        "changeset": 36568038,
+        "timestamp": "2024-04-14T18:41:36Z",
+        "version": 6,
+        "changeset": 150005661,
         "addr:city": "Brasília",
         "addr:housenumber": "AE",
         "addr:postcode": "72015-240",
@@ -11607,6 +11607,14 @@
               -15.8422429
             ],
             [
+              -48.0471132,
+              -15.841501
+            ],
+            [
+              -48.0475412,
+              -15.8407334
+            ],
+            [
               -48.0480382,
               -15.8398418
             ],
@@ -11617,6 +11625,10 @@
             [
               -48.0486,
               -15.8410255
+            ],
+            [
+              -48.0484894,
+              -15.8412276
             ],
             [
               -48.0476691,
@@ -14052,9 +14064,9 @@
       "type": "Feature",
       "id": "way/284872742",
       "properties": {
-        "timestamp": "2017-12-02T01:45:41Z",
-        "version": 3,
-        "changeset": 54255547,
+        "timestamp": "2024-04-14T18:41:36Z",
+        "version": 4,
+        "changeset": 150005661,
         "amenity": "school",
         "name": "Isaac Newton",
         "id": "way/284872742"
@@ -14064,32 +14076,28 @@
         "coordinates": [
           [
             [
-              -48.0503327,
-              -15.841948
+              -48.0502596,
+              -15.8419475
             ],
             [
-              -48.0507454,
-              -15.842631
+              -48.0506733,
+              -15.8426646
             ],
             [
-              -48.0503038,
-              -15.842876
+              -48.0502815,
+              -15.8428817
             ],
             [
-              -48.0502108,
-              -15.8427155
+              -48.0501897,
+              -15.8427395
             ],
             [
-              -48.049895,
-              -15.8421942
+              -48.0498565,
+              -15.8421714
             ],
             [
-              -48.0501873,
-              -15.8420298
-            ],
-            [
-              -48.0503327,
-              -15.841948
+              -48.0502596,
+              -15.8419475
             ]
           ]
         ]
@@ -18414,9 +18422,9 @@
       "type": "Feature",
       "id": "way/336595119",
       "properties": {
-        "timestamp": "2016-01-14T11:37:16Z",
-        "version": 3,
-        "changeset": 36568226,
+        "timestamp": "2024-04-14T18:41:36Z",
+        "version": 4,
+        "changeset": 150005661,
         "addr:city": "Brasília",
         "addr:housenumber": "AE 02",
         "addr:postcode": "72020-010",
@@ -18433,8 +18441,8 @@
         "coordinates": [
           [
             [
-              -48.0502108,
-              -15.8427155
+              -48.0501897,
+              -15.8427395
             ],
             [
               -48.0499256,
@@ -18445,16 +18453,20 @@
               -15.843116
             ],
             [
-              -48.0491714,
-              -15.8425999
+              -48.0494285,
+              -15.8430475
             ],
             [
-              -48.049895,
-              -15.8421942
+              -48.0491505,
+              -15.8425564
             ],
             [
-              -48.0502108,
-              -15.8427155
+              -48.0498565,
+              -15.8421714
+            ],
+            [
+              -48.0501897,
+              -15.8427395
             ]
           ]
         ]
@@ -40863,6 +40875,73 @@
     },
     {
       "type": "Feature",
+      "id": "way/1272581731",
+      "properties": {
+        "timestamp": "2024-04-14T19:03:20Z",
+        "version": 1,
+        "changeset": 150006366,
+        "addr:city": "Taguatinga",
+        "addr:housenumber": "AE 5/6",
+        "addr:postcode": "72015610",
+        "addr:street": "Setor D Sul",
+        "addr:suburb": "Taguatinga sul",
+        "amenity": "school",
+        "name": "Colégio Certo",
+        "operator": "Eliana matos",
+        "operator:type": "private",
+        "website": "https://www.rededeensinocerto.com.br/",
+        "id": "way/1272581731"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.0525882,
+              -15.8428592
+            ],
+            [
+              -48.0528876,
+              -15.843342
+            ],
+            [
+              -48.0531657,
+              -15.8438108
+            ],
+            [
+              -48.0524087,
+              -15.8442014
+            ],
+            [
+              -48.0521259,
+              -15.8436345
+            ],
+            [
+              -48.0520133,
+              -15.8436973
+            ],
+            [
+              -48.0517846,
+              -15.8433009
+            ],
+            [
+              -48.0521474,
+              -15.8431013
+            ],
+            [
+              -48.0521957,
+              -15.8430748
+            ],
+            [
+              -48.0525882,
+              -15.8428592
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/979379974",
       "properties": {
         "timestamp": "2019-11-07T12:55:17Z",
@@ -46337,33 +46416,6 @@
         "coordinates": [
           -47.9159772,
           -15.8371015
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/7945913172",
-      "properties": {
-        "timestamp": "2020-10-15T19:16:58Z",
-        "version": 2,
-        "changeset": 92540217,
-        "addr:city": "Taguatinga",
-        "addr:housenumber": "AE 5/6",
-        "addr:postcode": "72015610",
-        "addr:street": "Avenida Samdu Sul",
-        "addr:suburb": "Taguatinga sul",
-        "amenity": "school",
-        "name": "Colégio Certo",
-        "operator": "Eliana matos",
-        "operator:type": "private",
-        "website": "https://www.rededeensinocerto.com.br/",
-        "id": "node/7945913172"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.0520959,
-          -15.8433318
         ]
       }
     },

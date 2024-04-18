@@ -521,11 +521,20 @@
       "type": "Feature",
       "id": "node/2652517679",
       "properties": {
-        "timestamp": "2014-02-03T20:35:42Z",
-        "version": 1,
-        "changeset": 20360279,
+        "timestamp": "2024-04-15T23:12:23Z",
+        "version": 2,
+        "changeset": 150060989,
+        "addr:city": "São Gonçalo",
+        "addr:housenumber": "78",
+        "addr:postcode": "24435005",
+        "addr:street": "Rua Doutor Francisco Portela",
+        "addr:suburb": "Paraíso",
         "amenity": "pharmacy",
-        "name": "Drogaria Pacheco",
+        "brand": "Pacheco",
+        "brand:wikidata": "Q10268813",
+        "healthcare": "pharmacy",
+        "name": "Pacheco",
+        "operator": "Pacheco",
         "id": "node/2652517679"
       },
       "geometry": {
@@ -771,6 +780,32 @@
         "coordinates": [
           -43.0204675,
           -22.8566944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11820267529",
+      "properties": {
+        "timestamp": "2024-04-15T23:19:41Z",
+        "version": 1,
+        "changeset": 150061103,
+        "addr:city": "São Gonçalo",
+        "addr:housenumber": "15",
+        "addr:postcode": "24435001",
+        "addr:street": "Rua Doutor Francisco Portela",
+        "addr:suburb": "Paraíso",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Tamoio",
+        "operator": "Tamoio",
+        "id": "node/11820267529"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.0795623,
+          -22.8334661
         ]
       }
     }

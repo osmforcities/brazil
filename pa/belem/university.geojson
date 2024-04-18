@@ -996,9 +996,9 @@
       "type": "Feature",
       "id": "way/362763796",
       "properties": {
-        "timestamp": "2021-08-19T06:19:32Z",
-        "version": 5,
-        "changeset": 109910363,
+        "timestamp": "2024-04-15T20:43:30Z",
+        "version": 8,
+        "changeset": 150057692,
         "addr:city": "Belém",
         "addr:housenumber": "817",
         "addr:street": "Avenida João Paulo II",
@@ -1031,20 +1031,32 @@
               -1.4406795
             ],
             [
+              -48.4588962,
+              -1.4422651
+            ],
+            [
               -48.4588145,
               -1.4423202
+            ],
+            [
+              -48.4587456,
+              -1.4422145
             ],
             [
               -48.4584598,
               -1.4417759
             ],
             [
-              -48.4579978,
-              -1.4410668
+              -48.4580398,
+              -1.4410429
             ],
             [
               -48.460249,
               -1.4395146
+            ],
+            [
+              -48.4604261,
+              -1.4394049
             ],
             [
               -48.4604555,
@@ -2254,6 +2266,66 @@
         "coordinates": [
           -48.4497674,
           -1.4737812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11818739589",
+      "properties": {
+        "timestamp": "2024-04-15T13:49:08Z",
+        "version": 1,
+        "changeset": 150039919,
+        "crossing": "uncontrolled",
+        "crossing:markings": "yes",
+        "highway": "crossing",
+        "id": "node/11818739589"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.4604261,
+          -1.4394049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11820106784",
+      "properties": {
+        "timestamp": "2024-04-15T20:43:30Z",
+        "version": 1,
+        "changeset": 150057692,
+        "crossing": "uncontrolled",
+        "crossing:markings": "yes",
+        "highway": "crossing",
+        "id": "node/11820106784"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.4587456,
+          -1.4422145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11820106796",
+      "properties": {
+        "timestamp": "2024-04-15T20:43:30Z",
+        "version": 1,
+        "changeset": 150057692,
+        "crossing": "uncontrolled",
+        "crossing:markings": "yes",
+        "highway": "crossing",
+        "id": "node/11820106796"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.4588962,
+          -1.4422651
         ]
       }
     }

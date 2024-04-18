@@ -144,13 +144,13 @@
       "type": "Feature",
       "id": "way/259797280",
       "properties": {
-        "timestamp": "2023-08-08T22:12:36Z",
-        "version": 3,
-        "changeset": 139632615,
+        "timestamp": "2024-04-15T23:30:57Z",
+        "version": 4,
+        "changeset": 150061254,
         "amenity": "clinic",
         "building": "yes",
         "healthcare": "clinic",
-        "name": "Dr. Roberto Koch",
+        "landuse": "healthcare",
         "id": "way/259797280"
       },
       "geometry": {
@@ -628,6 +628,29 @@
         "coordinates": [
           -43.0114446,
           -22.8585428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11820288919",
+      "properties": {
+        "timestamp": "2024-04-15T23:30:57Z",
+        "version": 1,
+        "changeset": 150061254,
+        "addr:city": "São Gonçalo",
+        "addr:street": "Rua Comandante Ari Parreiras",
+        "addr:suburb": "Porto da Madama",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Dr. Roberto Koch",
+        "id": "node/11820288919"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.0835689,
+          -22.8345792
         ]
       }
     }

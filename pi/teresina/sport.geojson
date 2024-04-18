@@ -7526,9 +7526,12 @@
       "type": "Feature",
       "id": "way/886518738",
       "properties": {
-        "timestamp": "2020-12-19T19:04:19Z",
-        "version": 1,
-        "changeset": 96119176,
+        "timestamp": "2024-04-15T10:18:07Z",
+        "version": 2,
+        "changeset": 150029331,
+        "addr:housenumber": "1951",
+        "addr:postcode": "640",
+        "addr:street": "Rua Jornalista Dondon",
         "leisure": "pitch",
         "sport": "soccer",
         "id": "way/886518738"
@@ -18674,6 +18677,31 @@
     },
     {
       "type": "Feature",
+      "id": "node/6059179785",
+      "properties": {
+        "timestamp": "2024-04-15T10:18:07Z",
+        "version": 2,
+        "changeset": 150029331,
+        "addr:housenumber": "1951",
+        "addr:postcode": "64050210",
+        "addr:street": "Rua Jornalista Dondon",
+        "leisure": "water_park",
+        "name": "APCEF",
+        "name:en": "APCEF( Personal Association of economic Bank)",
+        "opening_hours": "Mo-Su 09:00-18:00",
+        "sport": "fitness;swimming;soccer;futsal",
+        "id": "node/6059179785"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.7703187,
+          -5.0645407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/6407874373",
       "properties": {
         "timestamp": "2020-12-25T18:59:34Z",
@@ -19343,6 +19371,52 @@
         "coordinates": [
           -42.7814838,
           -5.0621833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11817468063",
+      "properties": {
+        "timestamp": "2024-04-15T00:32:57Z",
+        "version": 1,
+        "changeset": 150013984,
+        "addr:housenumber": "1986",
+        "addr:postcode": "64056640",
+        "addr:street": "Rua Capitão Vanderley",
+        "addr:suburb": "Piçarreira",
+        "leisure": "fitness_centre",
+        "name": "Craveiro Fit Academia",
+        "sport": "fitness",
+        "id": "node/11817468063"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.7621887,
+          -5.0622811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11817473398",
+      "properties": {
+        "timestamp": "2024-04-15T00:12:24Z",
+        "version": 1,
+        "changeset": 150013668,
+        "blind": "no",
+        "fitness_station": "yes",
+        "leisure": "fitness_station",
+        "sport": "fitness",
+        "wheelchair": "no",
+        "id": "node/11817473398"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.7807425,
+          -5.0573479
         ]
       }
     }

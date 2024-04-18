@@ -2105,6 +2105,86 @@
     },
     {
       "type": "Feature",
+      "id": "way/1272640841",
+      "properties": {
+        "timestamp": "2024-04-15T02:37:56Z",
+        "version": 1,
+        "changeset": 150015435,
+        "IJSN:tipoUnidad": "Centro de Saúde/Unidade Básica",
+        "addr:city": "Vila Velha",
+        "addr:place": "Vila Garrido",
+        "addr:postcode": "29116-300",
+        "addr:street": "Rua Sebastião Gaiba",
+        "amenity": "clinic",
+        "contact:phone": "+55 27 3388-3547",
+        "healthcare": "clinic",
+        "name": "Unidade de Saúde de Vila Garrido",
+        "operator": "PMVV",
+        "source": "IJSN",
+        "id": "way/1272640841"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.3371795,
+              -20.3376826
+            ],
+            [
+              -40.3368241,
+              -20.337577
+            ],
+            [
+              -40.3368347,
+              -20.3375458
+            ],
+            [
+              -40.336897,
+              -20.3373613
+            ],
+            [
+              -40.3369778,
+              -20.337122
+            ],
+            [
+              -40.3370995,
+              -20.3371582
+            ],
+            [
+              -40.337104,
+              -20.3371447
+            ],
+            [
+              -40.3373377,
+              -20.3372141
+            ],
+            [
+              -40.3373254,
+              -20.3372504
+            ],
+            [
+              -40.3372523,
+              -20.3374669
+            ],
+            [
+              -40.3372184,
+              -20.3375673
+            ],
+            [
+              -40.33719,
+              -20.3376514
+            ],
+            [
+              -40.3371795,
+              -20.3376826
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/1070090661",
       "properties": {
         "timestamp": "2019-07-07T03:34:18Z",
@@ -2401,34 +2481,6 @@
         "coordinates": [
           -40.35418,
           -20.3730499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/3353305060",
-      "properties": {
-        "timestamp": "2019-07-11T17:33:19Z",
-        "version": 4,
-        "changeset": 72146221,
-        "IJSN:tipoUnidad": "Centro de Saúde/Unidade Básica",
-        "addr:city": "Vila Velha",
-        "addr:place": "Vila Garrido",
-        "addr:postcode": "29116-300",
-        "addr:street": "Rua Sebastião Gaiba",
-        "amenity": "clinic",
-        "contact:phone": "+55 27 3388-3547",
-        "healthcare": "clinic",
-        "name": "Unidade de Saúde de Vila Garrido",
-        "operator": "PMVV",
-        "source": "IJSN",
-        "id": "node/3353305060"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -40.3370774,
-          -20.3374708
         ]
       }
     },

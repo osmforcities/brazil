@@ -139,15 +139,17 @@
       "type": "Feature",
       "id": "way/459017039",
       "properties": {
-        "timestamp": "2023-01-17T03:03:52Z",
-        "version": 3,
-        "changeset": 131359381,
+        "timestamp": "2024-04-15T06:05:14Z",
+        "version": 4,
+        "changeset": 150019014,
         "addr:housenumber": "305",
         "addr:street": "Rua Francisco Vicente Blanco",
         "addr:suburb": "Santa Ifigênia",
         "building": "yes",
-        "name": "Celebration Resort",
+        "leisure": "resort",
+        "name": "Celebration Resort Olímpia",
         "phone": "+55 17 2786 0163",
+        "stars": "5",
         "tourism": "hotel",
         "website": "https://www.olimpiaresorts.com.br/hospedagem/celebration-resort-olimpia/2",
         "id": "way/459017039"
@@ -477,9 +479,9 @@
       "type": "Feature",
       "id": "node/9966017587",
       "properties": {
-        "timestamp": "2023-01-17T02:39:22Z",
-        "version": 3,
-        "changeset": 131359045,
+        "timestamp": "2024-04-15T06:15:31Z",
+        "version": 4,
+        "changeset": 150019372,
         "addr:housenumber": "1123",
         "addr:street": "Avenida Aurora Forti Neves",
         "air_conditioning": "yes",
@@ -487,6 +489,7 @@
         "brand:wikidata": "Q1709809",
         "email": "contato@centralthermas.com.br",
         "internet_access": "wlan",
+        "leisure": "resort",
         "name": "Thermas de Olimpia Resorts",
         "phone": "+55 11 3090 1282",
         "rooms": "302",
@@ -521,6 +524,47 @@
         "coordinates": [
           -48.9178447,
           -20.7177809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11817869618",
+      "properties": {
+        "timestamp": "2024-04-15T06:05:14Z",
+        "version": 1,
+        "changeset": 150019014,
+        "leisure": "resort",
+        "name": "Enjoy Olímpia Park Resort",
+        "stars": "5",
+        "tourism": "hotel",
+        "id": "node/11817869618"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.9162113,
+          -20.725429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11817869619",
+      "properties": {
+        "timestamp": "2024-04-15T06:05:14Z",
+        "version": 1,
+        "changeset": 150019014,
+        "name": "Pousada Vale dos Tamanduás",
+        "stars": "5",
+        "tourism": "hotel",
+        "id": "node/11817869619"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.953781,
+          -20.7056201
         ]
       }
     }

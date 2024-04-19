@@ -3,6 +3,87 @@
   "features": [
     {
       "type": "Feature",
+      "id": "relation/17479940",
+      "properties": {
+        "timestamp": "2024-04-16T23:01:42Z",
+        "version": 1,
+        "changeset": 150105295,
+        "addr:city": "Itapipoca",
+        "addr:housenumber": "1622",
+        "addr:postcode": "62508-018",
+        "addr:street": "Avenida Monsenhor Tabosa",
+        "addr:suburb": "Coqueiro",
+        "amenity": "school",
+        "grades": "10-12",
+        "landuse": "education",
+        "name": "Centro Cearense de Idiomas de Itapipoca",
+        "operator": "CREDE 2",
+        "operator:type": "public",
+        "type": "multipolygon",
+        "website": "https://crede02.seduc.ce.gov.br/",
+        "wheelchair": "yes",
+        "id": "relation/17479940"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -39.5754925,
+              -3.4928582
+            ],
+            [
+              -39.5759148,
+              -3.4923474
+            ],
+            [
+              -39.5759694,
+              -3.4923934
+            ],
+            [
+              -39.5761754,
+              -3.4925669
+            ],
+            [
+              -39.5762361,
+              -3.4926179
+            ],
+            [
+              -39.5758113,
+              -3.4931318
+            ],
+            [
+              -39.5754925,
+              -3.4928582
+            ]
+          ],
+          [
+            [
+              -39.5761754,
+              -3.4925669
+            ],
+            [
+              -39.5759694,
+              -3.4923934
+            ],
+            [
+              -39.5758534,
+              -3.49253
+            ],
+            [
+              -39.5760607,
+              -3.4927087
+            ],
+            [
+              -39.5761754,
+              -3.4925669
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/630037320",
       "properties": {
         "timestamp": "2018-10-02T21:39:58Z",
@@ -49,6 +130,50 @@
     },
     {
       "type": "Feature",
+      "id": "way/736667022",
+      "properties": {
+        "timestamp": "2022-02-17T19:53:38Z",
+        "version": 3,
+        "changeset": 117535842,
+        "addr:city": "Itapipoca",
+        "addr:housenumber": "1622",
+        "addr:street": "Avenida Monsenhor Tabosa",
+        "addr:suburb": "Coqueiro",
+        "building": "yes",
+        "leisure": "sports_hall",
+        "name": "Quadra do Centro Cearense de Idiomas",
+        "id": "way/736667022"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -39.5761754,
+              -3.4925669
+            ],
+            [
+              -39.5760607,
+              -3.4927087
+            ],
+            [
+              -39.5758534,
+              -3.49253
+            ],
+            [
+              -39.5759694,
+              -3.4923934
+            ],
+            [
+              -39.5761754,
+              -3.4925669
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/817260985",
       "properties": {
         "timestamp": "2020-06-18T14:35:31Z",
@@ -81,63 +206,6 @@
             [
               -39.5766226,
               -3.4851964
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/966011366",
-      "properties": {
-        "timestamp": "2024-04-14T14:44:42Z",
-        "version": 3,
-        "changeset": 149996046,
-        "addr:city": "Itapipoca",
-        "addr:housenumber": "1622",
-        "addr:street": "Avenida Monsenhor Tabosa",
-        "addr:suburb": "Coqueiro",
-        "amenity": "school",
-        "grades": "10-12",
-        "landuse": "education",
-        "name": "Centro Cearense de Idiomas de Itapipoca",
-        "operator": "CREDE 2",
-        "operator:type": "public",
-        "website": "https://crede02.seduc.ce.gov.br/",
-        "wheelchair": "yes",
-        "id": "way/966011366"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -39.5754925,
-              -3.4928582
-            ],
-            [
-              -39.5759148,
-              -3.4923474
-            ],
-            [
-              -39.5759694,
-              -3.4923934
-            ],
-            [
-              -39.5761754,
-              -3.4925669
-            ],
-            [
-              -39.5762361,
-              -3.4926179
-            ],
-            [
-              -39.5757984,
-              -3.4931228
-            ],
-            [
-              -39.5754925,
-              -3.4928582
             ]
           ]
         ]

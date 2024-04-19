@@ -4027,13 +4027,17 @@
       "type": "Feature",
       "id": "way/1229549329",
       "properties": {
-        "timestamp": "2023-12-07T22:27:53Z",
-        "version": 1,
-        "changeset": 144882594,
+        "timestamp": "2024-04-16T18:57:59Z",
+        "version": 2,
+        "changeset": 150099266,
+        "addr:postcode": "40150080",
+        "addr:street": "Av. Princesa Leopoldina, 443/457 - Graça, Salvador - BA",
         "amenity": "clinic",
         "building": "yes",
+        "contact:instagram": "clinicaprobaby",
         "healthcare": "clinic",
         "name": "Probaby",
+        "phone": "(71) 3339-9522",
         "id": "way/1229549329"
       },
       "geometry": {
@@ -7955,13 +7959,18 @@
       "type": "Feature",
       "id": "node/11275482133",
       "properties": {
-        "timestamp": "2023-10-19T16:48:51Z",
-        "version": 1,
-        "changeset": 142826105,
+        "timestamp": "2024-04-16T02:04:17Z",
+        "version": 2,
+        "changeset": 150062963,
+        "addr:housenumber": "6783",
+        "addr:postcode": "40220-005",
+        "addr:street": "Av. Vasco da Gama, 6783 - Engenho Velho da Federação, Salvador - BA",
         "amenity": "clinic",
         "check_date": "2023-10-19",
         "healthcare": "clinic",
         "name": "MaterDei",
+        "phone": "(71)3330-7000",
+        "website": "https://materdei.com.br/unidades/materdeisalvador",
         "id": "node/11275482133"
       },
       "geometry": {
@@ -8013,6 +8022,47 @@
         "coordinates": [
           -38.4577874,
           -12.9901677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11821857020",
+      "properties": {
+        "timestamp": "2024-04-16T11:40:36Z",
+        "version": 1,
+        "changeset": 150080854,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "vaccination",
+        "name": "Amo Vacinas",
+        "id": "node/11821857020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4550985,
+          -12.9786062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11821857021",
+      "properties": {
+        "timestamp": "2024-04-16T11:40:36Z",
+        "version": 1,
+        "changeset": 150080854,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Clivale",
+        "id": "node/11821857021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4547546,
+          -12.9782886
         ]
       }
     }

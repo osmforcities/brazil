@@ -2229,10 +2229,11 @@
       "type": "Feature",
       "id": "way/1253569297",
       "properties": {
-        "timestamp": "2024-03-10T22:56:01Z",
-        "version": 2,
-        "changeset": 148482928,
+        "timestamp": "2024-04-16T17:32:35Z",
+        "version": 3,
+        "changeset": 150096188,
         "addr:city": "Campos dos Goytacazes",
+        "addr:suburb": "Campo Limpo",
         "amenity": "school",
         "name": "Escola Municipal Lucia Caldas",
         "operator": "Secretaria de Educação de Campos dos Goytacazes",
@@ -4544,9 +4545,14 @@
       "type": "Feature",
       "id": "way/1257221313",
       "properties": {
-        "timestamp": "2024-03-03T19:58:09Z",
-        "version": 1,
-        "changeset": 148179969,
+        "timestamp": "2024-04-16T00:23:05Z",
+        "version": 2,
+        "changeset": 150061799,
+        "addr:city": "Campos dos Goytacazes",
+        "addr:housenumber": "471",
+        "addr:postcode": "28083-101",
+        "addr:street": "Avenida Senador José Carlos Pereira Pinto",
+        "addr:suburb": "Parque Calabouço",
         "amenity": "school",
         "name": "Escola Municipal Prisco de Almeida",
         "id": "way/1257221313"
@@ -6826,6 +6832,236 @@
             [
               -41.3137489,
               -21.7293089
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1272919019",
+      "properties": {
+        "timestamp": "2024-04-16T00:23:05Z",
+        "version": 1,
+        "changeset": 150061799,
+        "addr:city": "Campos dos Goytacazes",
+        "addr:housenumber": "751",
+        "addr:postcode": "28083-101",
+        "addr:street": "Avenida Senador José Carlos Pereira Pinto",
+        "addr:suburb": "Parque Zuza Mota",
+        "amenity": "school",
+        "email": "em.olgalinhares@smec.campos.rj.gov.br",
+        "name": "Escola Municipal Professora Olga Linhares Correa",
+        "operator": "Secretaria Municipal de Educação de Campos dos Goytacazes",
+        "operator:type": "public",
+        "phone": "+55 22 2734 2023",
+        "id": "way/1272919019"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.316258,
+              -21.7337998
+            ],
+            [
+              -41.3160956,
+              -21.7340428
+            ],
+            [
+              -41.3158805,
+              -21.7339224
+            ],
+            [
+              -41.3158394,
+              -21.7335568
+            ],
+            [
+              -41.316258,
+              -21.7337998
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1272919021",
+      "properties": {
+        "timestamp": "2024-04-16T09:51:16Z",
+        "version": 2,
+        "changeset": 150075538,
+        "addr:city": "Campos dos Goytacazes",
+        "addr:street": "Rua Acyr Bello de Campos",
+        "addr:suburb": "Parque Zuza Mota",
+        "amenity": "school",
+        "name": "Escola Espírita Cristã Maria de Nazaré",
+        "id": "way/1272919021"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.3166169,
+              -21.7355902
+            ],
+            [
+              -41.3164562,
+              -21.7358095
+            ],
+            [
+              -41.3160709,
+              -21.7355914
+            ],
+            [
+              -41.3161882,
+              -21.7353271
+            ],
+            [
+              -41.3166169,
+              -21.7355902
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1273053326",
+      "properties": {
+        "timestamp": "2024-04-16T10:58:56Z",
+        "version": 1,
+        "changeset": 150079060,
+        "addr:city": "Campos dos Goytacazes",
+        "addr:suburb": "Poço Gordo",
+        "amenity": "school",
+        "email": "em.albertolamego@smec.campos.rj.gov.br",
+        "name": "Escola Municipal Alberto Lamego",
+        "phone": "+55 22 98131 0511",
+        "id": "way/1273053326"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.231026,
+              -21.8301024
+            ],
+            [
+              -41.2304631,
+              -21.8303319
+            ],
+            [
+              -41.2301365,
+              -21.8300438
+            ],
+            [
+              -41.2301004,
+              -21.8299802
+            ],
+            [
+              -41.2306525,
+              -21.8298663
+            ],
+            [
+              -41.2308997,
+              -21.8298478
+            ],
+            [
+              -41.231026,
+              -21.8301024
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1273053327",
+      "properties": {
+        "timestamp": "2024-04-16T10:58:56Z",
+        "version": 1,
+        "changeset": 150079060,
+        "addr:city": "Campos dos Goytacazes",
+        "addr:street": "Rua Rodrigues Peixoto",
+        "addr:suburb": "São Sebastião",
+        "amenity": "school",
+        "name": "Escola Municipal Leoncio Pereira Gomes",
+        "phone": "+55 22 2721 7068",
+        "id": "way/1273053327"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.2113423,
+              -21.8532524
+            ],
+            [
+              -41.2113781,
+              -21.8536976
+            ],
+            [
+              -41.2109672,
+              -21.8538397
+            ],
+            [
+              -41.2105462,
+              -21.8533708
+            ],
+            [
+              -41.2113423,
+              -21.8532524
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1273143939",
+      "properties": {
+        "timestamp": "2024-04-16T17:10:31Z",
+        "version": 1,
+        "changeset": 150095359,
+        "addr:city": "Campos dos Goytacazes",
+        "addr:district": "São Sebastião",
+        "addr:street": "Estrada do Espinho",
+        "addr:suburb": "Beira do Taí",
+        "amenity": "school",
+        "name": "Escola Municipal Tarcílio Siqueira Cordeiro",
+        "operator": "Secretaria Municipal de Educação de Campos dos Goytacazes",
+        "operator:type": "public",
+        "phone": "+55 22 98131 1048",
+        "id": "way/1273143939"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.1550789,
+              -21.8202148
+            ],
+            [
+              -41.1547731,
+              -21.8203608
+            ],
+            [
+              -41.1546639,
+              -21.8201783
+            ],
+            [
+              -41.1549238,
+              -21.8201093
+            ],
+            [
+              -41.1550789,
+              -21.8202148
             ]
           ]
         ]

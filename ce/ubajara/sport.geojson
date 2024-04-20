@@ -212,6 +212,51 @@
     },
     {
       "type": "Feature",
+      "id": "way/1273498292",
+      "properties": {
+        "timestamp": "2024-04-17T18:57:42Z",
+        "version": 1,
+        "changeset": 150144915,
+        "access": "yes",
+        "covered": "no",
+        "fee": "no",
+        "indoor": "no",
+        "leisure": "pitch",
+        "lit": "no",
+        "sport": "soccer",
+        "surface": "grass",
+        "id": "way/1273498292"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.9130536,
+              -3.8508275
+            ],
+            [
+              -40.9131487,
+              -3.8517203
+            ],
+            [
+              -40.9125781,
+              -3.8518396
+            ],
+            [
+              -40.9125099,
+              -3.850937
+            ],
+            [
+              -40.9130536,
+              -3.8508275
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/7323237807",
       "properties": {
         "timestamp": "2020-03-23T17:41:43Z",
@@ -227,31 +272,6 @@
         "coordinates": [
           -40.9572378,
           -3.8239421
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/9814732824",
-      "properties": {
-        "timestamp": "2022-06-13T13:13:05Z",
-        "version": 1,
-        "changeset": 122325582,
-        "access": "yes",
-        "covered": "no",
-        "fee": "no",
-        "indoor": "no",
-        "leisure": "pitch",
-        "lit": "no",
-        "sport": "soccer",
-        "surface": "grass",
-        "id": "node/9814732824"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -40.9128786,
-          -3.8512309
         ]
       }
     }

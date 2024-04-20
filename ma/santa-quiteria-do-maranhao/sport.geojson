@@ -5,10 +5,12 @@
       "type": "Feature",
       "id": "way/688447745",
       "properties": {
-        "timestamp": "2019-05-07T16:40:46Z",
-        "version": 1,
-        "changeset": 69988650,
-        "leisure": "pitch",
+        "timestamp": "2024-04-17T18:53:51Z",
+        "version": 2,
+        "changeset": 150144795,
+        "building": "yes",
+        "leisure": "sports_hall",
+        "name": "Quadra Minicipal",
         "sport": "volleyball",
         "id": "way/688447745"
       },
@@ -85,41 +87,119 @@
     },
     {
       "type": "Feature",
-      "id": "node/6455846201",
+      "id": "way/1273497127",
       "properties": {
-        "timestamp": "2019-05-07T16:40:45Z",
+        "timestamp": "2024-04-17T18:53:51Z",
         "version": 1,
-        "changeset": 69988650,
-        "leisure": "pitch",
-        "name": "Quadra Minicipal",
-        "sport": "volleyball",
-        "id": "node/6455846201"
+        "changeset": 150144795,
+        "leisure": "stadium",
+        "name": "Estadio Rodrigão",
+        "sport": "soccer",
+        "id": "way/1273497127"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -42.5606781,
-          -3.4934905
+          [
+            [
+              -42.5605315,
+              -3.4939853
+            ],
+            [
+              -42.5595342,
+              -3.4944405
+            ],
+            [
+              -42.5590807,
+              -3.4934329
+            ],
+            [
+              -42.5600048,
+              -3.4929242
+            ],
+            [
+              -42.5605315,
+              -3.4939853
+            ]
+          ]
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "node/6455846202",
+      "id": "way/1273497128",
       "properties": {
-        "timestamp": "2019-05-07T16:40:45Z",
+        "timestamp": "2024-04-17T18:53:51Z",
         "version": 1,
-        "changeset": 69988650,
+        "changeset": 150144795,
         "leisure": "pitch",
-        "name": "Estadio Rodrigão",
         "sport": "soccer",
-        "id": "node/6455846202"
+        "id": "way/1273497128"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -42.5597926,
-          -3.4936599
+          [
+            [
+              -42.5592699,
+              -3.4944241
+            ],
+            [
+              -42.5586945,
+              -3.4947001
+            ],
+            [
+              -42.5583177,
+              -3.4939176
+            ],
+            [
+              -42.5588932,
+              -3.4936415
+            ],
+            [
+              -42.5592699,
+              -3.4944241
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1273497130",
+      "properties": {
+        "timestamp": "2024-04-17T18:53:51Z",
+        "version": 1,
+        "changeset": 150144795,
+        "leisure": "pitch",
+        "sport": "soccer",
+        "id": "way/1273497130"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.558441,
+              -3.4942511
+            ],
+            [
+              -42.5586467,
+              -3.4947165
+            ],
+            [
+              -42.5583552,
+              -3.4948448
+            ],
+            [
+              -42.5581496,
+              -3.4943794
+            ],
+            [
+              -42.558441,
+              -3.4942511
+            ]
+          ]
         ]
       }
     }

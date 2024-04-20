@@ -2374,15 +2374,22 @@
       "type": "Feature",
       "id": "way/587472196",
       "properties": {
-        "timestamp": "2018-05-11T12:38:16Z",
-        "version": 2,
-        "changeset": 58877627,
+        "timestamp": "2024-04-18T00:42:48Z",
+        "version": 3,
+        "changeset": 150152073,
         "addr:city": "Londrina",
         "addr:housenumber": "163",
+        "addr:postcode": "86087-460",
         "addr:street": "Rua Jorge Ribeiro",
         "addr:suburb": "Parque das Indústrias",
         "amenity": "school",
+        "email": "eugenio.brugin@londrina.pr.gov.br",
         "name": "Escola Municipal Eugênio Brugin",
+        "opening_hours": "Mo-Fr 07:30-11:30, 13:30-17:30,18:00- 22:00; PH off",
+        "operator": "Secretaria Municipal da Educação",
+        "operator:type": "government",
+        "phone": "+55 43 3375 0131",
+        "religion": "none",
         "id": "way/587472196"
       },
       "geometry": {
@@ -2465,15 +2472,21 @@
       "type": "Feature",
       "id": "way/587472197",
       "properties": {
-        "timestamp": "2018-05-11T12:38:16Z",
-        "version": 2,
-        "changeset": 58877627,
+        "timestamp": "2024-04-18T00:48:04Z",
+        "version": 3,
+        "changeset": 150152119,
         "addr:city": "Londrina",
         "addr:housenumber": "165",
+        "addr:postcode": "86043-520",
         "addr:street": "Rua Giuseppe Vittori",
         "addr:suburb": "Parque das Indústrias",
         "amenity": "school",
-        "name": "Escola Estadual Professora Vani Ruiz Viessi",
+        "email": "ldavaniruiz@seed.pr.gov.br",
+        "name": "Colégio Estadual Professora Vani Ruiz Viessi",
+        "operator": "Secretaria da Educação do Estado do Paraná",
+        "operator:type": "government",
+        "phone": "+55 43 3341 2590",
+        "religion": "none",
         "id": "way/587472197"
       },
       "geometry": {
@@ -6742,15 +6755,21 @@
       "type": "Feature",
       "id": "way/617169289",
       "properties": {
-        "timestamp": "2019-04-13T11:56:43Z",
-        "version": 2,
-        "changeset": 69174911,
+        "timestamp": "2024-04-18T22:56:10Z",
+        "version": 3,
+        "changeset": 150197033,
         "addr:city": "Londrina",
         "addr:housenumber": "80",
+        "addr:postcode": "86026-145",
         "addr:street": "Rua Potiguares",
+        "addr:suburb": "Vila Matos",
         "amenity": "school",
-        "name": "Centro Municipal de Educação Infantil Professor Walter Okano",
-        "operator": "Prefeitura de Londrina",
+        "name": "CMEI Water Okano",
+        "operator": "Secretaria Municipal da Educação",
+        "operator:type": "government",
+        "phone": "+55 43 3375 0186",
+        "religion": "none",
+        "source": "water.okano@londrina.pr.gov.br",
         "id": "way/617169289"
       },
       "geometry": {
@@ -6841,11 +6860,17 @@
       "type": "Feature",
       "id": "way/617170337",
       "properties": {
-        "timestamp": "2018-08-15T12:14:34Z",
-        "version": 1,
-        "changeset": 61683670,
+        "timestamp": "2024-04-18T23:33:12Z",
+        "version": 2,
+        "changeset": 150197658,
         "amenity": "school",
-        "name": "ALEGRIA - INSTITUTO ESPERANÇA",
+        "denomination": "methodist",
+        "email": "ceiaalegria@hotmail.com",
+        "name": "CEI Alegria",
+        "operator": "Ministério de Ação Social e Diaconia da Primeira Igreja Presbiteriana Independente de Londrina",
+        "operator:type": "religious",
+        "religion": "christian",
+        "website": "http://www.institutoesperanca.org/index.php",
         "id": "way/617170337"
       },
       "geometry": {
@@ -6853,24 +6878,32 @@
         "coordinates": [
           [
             [
-              -51.1526886,
-              -23.293583
+              -51.1527195,
+              -23.2937311
             ],
             [
-              -51.1526868,
-              -23.2934432
+              -51.1527145,
+              -23.2934731
             ],
             [
-              -51.1530288,
-              -23.2934489
+              -51.1530516,
+              -23.2934743
             ],
             [
-              -51.1530235,
-              -23.2935797
+              -51.1530463,
+              -23.2936051
             ],
             [
-              -51.1526886,
-              -23.293583
+              -51.1528992,
+              -23.2936023
+            ],
+            [
+              -51.1529006,
+              -23.29374
+            ],
+            [
+              -51.1527195,
+              -23.2937311
             ]
           ]
         ]
@@ -7351,84 +7384,6 @@
             [
               -51.1823473,
               -23.2571907
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/617394058",
-      "properties": {
-        "timestamp": "2018-08-16T11:26:23Z",
-        "version": 1,
-        "changeset": 61712573,
-        "amenity": "school",
-        "name": "SEBASTIÃO SANCHES SARAUZA - ASSOCIAÇÃO MULHERES SOLIDÁRIAS JD INTERLAGOS",
-        "id": "way/617394058"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -51.1279974,
-              -23.3135233
-            ],
-            [
-              -51.1279761,
-              -23.3137127
-            ],
-            [
-              -51.1276537,
-              -23.3136886
-            ],
-            [
-              -51.1276652,
-              -23.3134782
-            ],
-            [
-              -51.1279974,
-              -23.3135233
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/617395996",
-      "properties": {
-        "timestamp": "2018-11-03T22:25:52Z",
-        "version": 3,
-        "changeset": 64153475,
-        "amenity": "school",
-        "name": "VICTORIA MAZETTI DINARDI - CASA DO BOM SAMARITANO",
-        "id": "way/617395996"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -51.1529627,
-              -23.2938708
-            ],
-            [
-              -51.1529448,
-              -23.2941143
-            ],
-            [
-              -51.1525383,
-              -23.2941176
-            ],
-            [
-              -51.1525043,
-              -23.2938725
-            ],
-            [
-              -51.1529627,
-              -23.2938708
             ]
           ]
         ]
@@ -9244,11 +9199,20 @@
       "type": "Feature",
       "id": "way/618552926",
       "properties": {
-        "timestamp": "2018-08-21T14:18:31Z",
-        "version": 1,
-        "changeset": 61858194,
+        "timestamp": "2024-04-18T22:41:01Z",
+        "version": 2,
+        "changeset": 150196778,
+        "addr:housenumber": "874",
+        "addr:postcode": "86026-160",
+        "addr:street": "Rua Guaranis",
+        "addr:suburb": "Vila Casoni",
         "amenity": "school",
-        "name": "Willie Davids, C E Dr-EF M",
+        "email": "ldawilliedavids@seed.pr.gov.br",
+        "name": "Colégio Estadual Doutor Willie Davids",
+        "operator": "Secretaria da Educação do Estado do Paraná",
+        "operator:type": "government",
+        "phone": "+55 43 3325 2349",
+        "religion": "none",
         "id": "way/618552926"
       },
       "geometry": {
@@ -9260,16 +9224,16 @@
               -23.299851
             ],
             [
-              -51.1495192,
-              -23.3001073
+              -51.1494952,
+              -23.3002954
             ],
             [
-              -51.1489981,
-              -23.300097
+              -51.1490368,
+              -23.3002868
             ],
             [
-              -51.1490126,
-              -23.2998218
+              -51.1490496,
+              -23.299825
             ],
             [
               -51.149516,

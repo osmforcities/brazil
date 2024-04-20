@@ -950,26 +950,25 @@
       "type": "Feature",
       "id": "relation/8822987",
       "properties": {
-        "timestamp": "2023-01-21T13:19:26Z",
-        "version": 13,
-        "changeset": 131540961,
+        "timestamp": "2024-04-18T14:42:38Z",
+        "version": 14,
+        "changeset": 150179078,
         "2014worldcup": "venue",
         "addr:city": "Fortaleza",
         "addr:housenumber": "2901",
         "addr:postcode": "60861-211",
         "addr:street": "Avenida Alberto Craveiro",
-        "addr:suburb": "Boa Vista/Castelão",
-        "alt_name": "Estádio Castelão;Gigante da Boa Vista",
+        "addr:suburb": "Boa Vista",
+        "alt_name": "Gigante da Boa Vista",
         "description": "O Estádio Governador Plácido Castelo, também conhecido como Arena Castelão, ou simplesmente Castelão, é um estádio de futebol brasileiro localizado em Fortaleza, Ceará, e inaugurado em 1973.",
         "leisure": "stadium",
         "loc_name": "Castelão",
         "name": "Arena Castelão",
-        "official_name": "Estádio Governador Plácido Castelo",
+        "official_name": "Casa de Apostas Arena Fonte Nova",
         "sport": "soccer",
         "start_date": "1973-11-11",
         "type": "multipolygon",
-        "wikidata": "Q958185",
-        "wikipedia": "pt:Estádio Governador Plácido Castelo",
+        "wikipedia": "en:Casa de Apostas Arena Fonte Nova",
         "id": "relation/8822987"
       },
       "geometry": {
@@ -17841,6 +17840,51 @@
             [
               -38.5631442,
               -3.7303798
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/626281919",
+      "properties": {
+        "timestamp": "2024-04-18T15:35:50Z",
+        "version": 3,
+        "changeset": 150181963,
+        "addr:city": "Fortaleza",
+        "addr:housenumber": "s/n",
+        "addr:street": "Avenida E",
+        "addr:suburb": "Prefeito José Walter",
+        "landuse": "meadow",
+        "leisure": "pitch",
+        "name": "Campo de Futebol do Onélio Porto",
+        "sport": "soccer",
+        "id": "way/626281919"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.5575779,
+              -3.8349348
+            ],
+            [
+              -38.5570125,
+              -3.8351164
+            ],
+            [
+              -38.5568569,
+              -3.8346054
+            ],
+            [
+              -38.5574179,
+              -3.8344229
+            ],
+            [
+              -38.5575779,
+              -3.8349348
             ]
           ]
         ]
@@ -59298,6 +59342,45 @@
     },
     {
       "type": "Feature",
+      "id": "way/1273853747",
+      "properties": {
+        "timestamp": "2024-04-18T15:35:50Z",
+        "version": 1,
+        "changeset": 150181963,
+        "leisure": "pitch",
+        "sport": "soccer",
+        "id": "way/1273853747"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.5562275,
+              -3.8351408
+            ],
+            [
+              -38.556699,
+              -3.8349967
+            ],
+            [
+              -38.5568164,
+              -3.835379
+            ],
+            [
+              -38.556345,
+              -3.8355232
+            ],
+            [
+              -38.5562275,
+              -3.8351408
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/384699585",
       "properties": {
         "timestamp": "2015-12-06T17:24:28Z",
@@ -62022,30 +62105,6 @@
         "coordinates": [
           -38.5743295,
           -3.8161267
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/4466530091",
-      "properties": {
-        "timestamp": "2016-10-27T15:45:55Z",
-        "version": 1,
-        "changeset": 43220589,
-        "addr:city": "Fortaleza",
-        "addr:housenumber": "s/n",
-        "addr:street": "Avenida E",
-        "addr:suburb": "Prefeito José Walter",
-        "leisure": "pitch",
-        "name": "Campo de Futebol do Onélio Porto",
-        "sport": "soccer",
-        "id": "node/4466530091"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -38.5570511,
-          -3.8345584
         ]
       }
     },

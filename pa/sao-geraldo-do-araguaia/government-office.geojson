@@ -3,70 +3,11 @@
   "features": [
     {
       "type": "Feature",
-      "id": "way/1223097296",
-      "properties": {
-        "timestamp": "2023-11-13T01:23:37Z",
-        "version": 1,
-        "changeset": 143952871,
-        "building": "yes",
-        "government": "social_security",
-        "office": "government",
-        "operator": "Instituto Nacional do Seguro Social",
-        "operator:short": "INSS",
-        "operator:wikidata": "Q10302614",
-        "id": "way/1223097296"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -48.5607803,
-              -6.3874856
-            ],
-            [
-              -48.5607784,
-              -6.3875586
-            ],
-            [
-              -48.5607654,
-              -6.3875582
-            ],
-            [
-              -48.5607645,
-              -6.3875909
-            ],
-            [
-              -48.5605523,
-              -6.3875854
-            ],
-            [
-              -48.5605536,
-              -6.3875355
-            ],
-            [
-              -48.5605387,
-              -6.3875352
-            ],
-            [
-              -48.5605402,
-              -6.3874794
-            ],
-            [
-              -48.5607803,
-              -6.3874856
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/1223097303",
       "properties": {
-        "timestamp": "2024-03-30T02:14:01Z",
-        "version": 2,
-        "changeset": 149336032,
+        "timestamp": "2024-04-18T04:15:48Z",
+        "version": 3,
+        "changeset": 150154482,
         "addr:city": "São Geraldo do Araguaia",
         "addr:postcode": "68570000",
         "addr:street": "Rua Humberto de Campos",
@@ -81,44 +22,40 @@
         "coordinates": [
           [
             [
-              -48.5607094,
-              -6.3874145
+              -48.5607082,
+              -6.3874133
             ],
             [
-              -48.5604877,
-              -6.3874115
+              -48.560486,
+              -6.3874131
             ],
             [
-              -48.5604886,
-              -6.3873236
+              -48.5604861,
+              -6.3873226
             ],
             [
-              -48.5607081,
-              -6.3873258
+              -48.5605719,
+              -6.3873227
             ],
             [
-              -48.5607077,
-              -6.3873251
+              -48.5606673,
+              -6.3873227
+            ],
+            [
+              -48.5607057,
+              -6.3873227
+            ],
+            [
+              -48.560706,
+              -6.3873337
+            ],
+            [
+              -48.5607068,
+              -6.3873627
             ],
             [
               -48.5607082,
-              -6.3873336
-            ],
-            [
-              -48.5607087,
-              -6.3873654
-            ],
-            [
-              -48.5607089,
-              -6.3873761
-            ],
-            [
-              -48.5607091,
-              -6.3873941
-            ],
-            [
-              -48.5607094,
-              -6.3874145
+              -6.3874133
             ]
           ]
         ]
@@ -176,9 +113,9 @@
       "type": "Feature",
       "id": "way/1223097305",
       "properties": {
-        "timestamp": "2024-03-30T02:14:01Z",
-        "version": 2,
-        "changeset": 149336032,
+        "timestamp": "2024-04-18T04:15:48Z",
+        "version": 3,
+        "changeset": 150154482,
         "addr:city": "São Geraldo do Araguaia",
         "addr:postcode": "68570000",
         "addr:street": "Rua Humberto de Campos",
@@ -201,24 +138,16 @@
               -6.3874155
             ],
             [
-              -48.5607094,
-              -6.3874145
-            ],
-            [
-              -48.5607091,
-              -6.3873941
-            ],
-            [
-              -48.5607089,
-              -6.3873761
-            ],
-            [
-              -48.5607087,
-              -6.3873654
-            ],
-            [
               -48.5607082,
-              -6.3873336
+              -6.3874133
+            ],
+            [
+              -48.5607068,
+              -6.3873627
+            ],
+            [
+              -48.560706,
+              -6.3873337
             ],
             [
               -48.5607719,
@@ -313,6 +242,33 @@
               -6.3957984
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11828579031",
+      "properties": {
+        "timestamp": "2024-04-18T14:56:10Z",
+        "version": 1,
+        "changeset": 150179834,
+        "addr:city": "São Geraldo do Araguaia",
+        "addr:postcode": "68570000",
+        "addr:street": "Rua Tavares",
+        "addr:suburb": "Vila Administrativa",
+        "government": "social_security",
+        "name": "INSS SAGA",
+        "office": "government",
+        "operator": "Instituto Nacional do Seguro Social",
+        "operator:short": "INSS",
+        "operator:wikidata": "Q10302614",
+        "id": "node/11828579031"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.5606604,
+          -6.3875339
         ]
       }
     }

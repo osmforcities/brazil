@@ -187,9 +187,9 @@
       "type": "Feature",
       "id": "way/940912600",
       "properties": {
-        "timestamp": "2023-08-18T16:05:42Z",
-        "version": 2,
-        "changeset": 140064725,
+        "timestamp": "2024-04-18T02:18:06Z",
+        "version": 4,
+        "changeset": 150153117,
         "addr:city": "Guarujá",
         "addr:housenumber": "333",
         "addr:postcode": "11410-140",
@@ -197,13 +197,15 @@
         "addr:suburb": "Vila Maia",
         "air_conditioning": "yes",
         "amenity": "pharmacy",
-        "brand": "Drogasil",
-        "brand:wikidata": "Q5308185",
-        "brand:wikipedia": "pt:Drogasil",
+        "brand": "Droga Raia",
+        "brand:wikidata": "Q10357101",
+        "brand:wikipedia": "pt:RaiaDrogasil",
         "building": "yes",
         "dispensing": "yes",
         "healthcare": "pharmacy",
-        "name": "Drogasil",
+        "name": "Droga Raia",
+        "old_brand": "Drogasil",
+        "old_name": "Drogasil",
         "parking": "yes",
         "wheelchair": "yes",
         "id": "way/940912600"
@@ -354,6 +356,50 @@
         "coordinates": [
           -46.2392498,
           -23.9841514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11410280418",
+      "properties": {
+        "timestamp": "2024-04-18T01:24:13Z",
+        "version": 2,
+        "changeset": 150152537,
+        "amenity": "pharmacy",
+        "brand": "Drogaria São Paulo",
+        "brand:wikidata": "Q5308184",
+        "healthcare": "pharmacy",
+        "name": "Drogeria São Paulo",
+        "id": "node/11410280418"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.2600871,
+          -23.9974513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11826594133",
+      "properties": {
+        "timestamp": "2024-04-18T02:13:20Z",
+        "version": 1,
+        "changeset": 150153073,
+        "amenity": "pharmacy",
+        "brand": "Farma Conde",
+        "brand:wikidata": "Q100492677",
+        "healthcare": "pharmacy",
+        "name": "Farma Conde",
+        "id": "node/11826594133"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.2557921,
+          -23.9918225
         ]
       }
     }

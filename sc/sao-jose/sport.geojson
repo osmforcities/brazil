@@ -493,47 +493,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/139192791",
-      "properties": {
-        "timestamp": "2023-03-08T12:59:39Z",
-        "version": 4,
-        "changeset": 133439761,
-        "building": "yes",
-        "leisure": "sports_centre",
-        "name": "SESI",
-        "sport": "multi",
-        "id": "way/139192791"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -48.6082131,
-              -27.5878176
-            ],
-            [
-              -48.6079003,
-              -27.5880291
-            ],
-            [
-              -48.6076123,
-              -27.5876946
-            ],
-            [
-              -48.6079251,
-              -27.5874831
-            ],
-            [
-              -48.6082131,
-              -27.5878176
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/191605893",
       "properties": {
         "timestamp": "2012-11-19T17:58:27Z",
@@ -4681,6 +4640,51 @@
               -48.6112763,
               -27.6029787
             ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/139192791",
+      "properties": {
+        "timestamp": "2024-04-20T19:23:56Z",
+        "version": 7,
+        "changeset": 150277704,
+        "addr:housenumber": "150",
+        "addr:postcode": "88117-902",
+        "addr:street": "Rua Farroupilha",
+        "addr:suburb": "Campinas",
+        "brand": "São José",
+        "club": "social",
+        "name": "SESI",
+        "operator": "Serviço Social da Indústria",
+        "phone": "+55 48 3381 9100",
+        "sport": "multi",
+        "id": "way/139192791"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -48.608348,
+            -27.5879603
+          ],
+          [
+            -48.6072587,
+            -27.5887069
+          ],
+          [
+            -48.6065706,
+            -27.5877764
+          ],
+          [
+            -48.6076505,
+            -27.5870991
+          ],
+          [
+            -48.608348,
+            -27.5879603
           ]
         ]
       }

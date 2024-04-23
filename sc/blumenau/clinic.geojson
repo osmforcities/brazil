@@ -198,20 +198,23 @@
       "type": "Feature",
       "id": "way/351726235",
       "properties": {
-        "timestamp": "2022-04-08T23:09:52Z",
-        "version": 9,
-        "changeset": 119487646,
+        "timestamp": "2024-04-21T20:17:16Z",
+        "version": 10,
+        "changeset": 150317530,
         "access": "yes",
         "addr:housenumber": "1244",
         "addr:street": "Rua 2 de Setembro",
+        "addr:suburb": "Itopouva  Norte",
         "amenity": "clinic",
-        "brand": "Sistema Único de Saúde",
-        "brand:short": "SUS",
         "contact:phone": "+55 47 3381-6100",
-        "healthcare": "centre",
+        "healthcare": "clinic",
+        "healthcare:speciality": "rheumatology;dermatology;cardiology;ortopedia",
         "name": "Policlínica Lindolf Bell",
-        "operator": "Prefeitura Municipal de Blumenau",
-        "operator:type": "public",
+        "opening_hours": "Mo-Fr 07:00-19:00; PH off",
+        "operator": "Secretaria de Promoção da Saúde",
+        "operator:type": "government",
+        "ref:CNES": "2552841",
+        "source": "CNES",
         "id": "way/351726235"
       },
       "geometry": {
@@ -1347,78 +1350,27 @@
     },
     {
       "type": "Feature",
-      "id": "way/380463291",
-      "properties": {
-        "timestamp": "2022-04-08T23:09:52Z",
-        "version": 7,
-        "changeset": 119487646,
-        "access": "yes",
-        "addr:housenumber": "1212",
-        "addr:street": "Rua 2 de Setembro",
-        "amenity": "clinic",
-        "brand": "Sistema Único de Saúde",
-        "brand:short": "SUS",
-        "building": "yes",
-        "healthcare": "clinic",
-        "name": "Centro de Saúde Rosânia Machado Pereira",
-        "opening_hours": "Mo-Fr 07:00-17:00",
-        "operator": "Prefeitura Municipal de Blumenau",
-        "operator:type": "public",
-        "id": "way/380463291"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -49.071799,
-              -26.8960895
-            ],
-            [
-              -49.0718053,
-              -26.8962222
-            ],
-            [
-              -49.0718203,
-              -26.8965361
-            ],
-            [
-              -49.0717645,
-              -26.8965382
-            ],
-            [
-              -49.0716234,
-              -26.8965435
-            ],
-            [
-              -49.0716022,
-              -26.8960969
-            ],
-            [
-              -49.071799,
-              -26.8960895
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/380463292",
       "properties": {
-        "timestamp": "2022-04-08T23:09:52Z",
-        "version": 6,
-        "changeset": 119487646,
+        "timestamp": "2024-04-21T20:17:16Z",
+        "version": 7,
+        "changeset": 150317530,
         "access": "yes",
+        "addr:housenumber": "1212",
+        "addr:postcode": "89010-100",
+        "addr:street": "Rua 2 de Setembro",
+        "addr:suburb": "Itopouva  Norte",
         "amenity": "clinic",
-        "brand": "Sistema Único de Saúde",
-        "brand:short": "SUS",
         "building": "yes",
-        "contact:phone": "+55 47 3381-7570",
+        "contact:phone": "+55 47 3381 7570",
+        "healthcare": "clinic",
+        "healthcare:speciality": "leite_humano",
         "name": "Banco de Leite Humano Blumenau",
         "opening_hours": "Mo-Fr 08:00-12:00,13:00-17:00; Sa,Su,PH off",
-        "operator": "Prefeitura Municipal de Blumenau",
-        "operator:type": "public",
+        "operator": "Secretaria de Promoção da Saúde",
+        "operator:type": "government",
+        "ref:CNES": "3137392",
+        "source": "CNES;https://www.blumenau.sc.gov.br/governo/secretaria-de-saude/pagina/estrutura-semus/centro-rosania-machado-semus",
         "id": "way/380463292"
       },
       "geometry": {
@@ -1427,31 +1379,31 @@
           [
             [
               -49.0717645,
-              -26.8965382
+              -26.8964856
             ],
             [
               -49.0717665,
-              -26.8965788
+              -26.8965212
             ],
             [
               -49.0717178,
-              -26.8965806
+              -26.8965214
             ],
             [
-              -49.0717198,
-              -26.8966218
+              -49.071718,
+              -26.8965741
             ],
             [
-              -49.0716273,
-              -26.8966253
+              -49.0716328,
+              -26.896571
             ],
             [
               -49.0716234,
-              -26.8965435
+              -26.8964909
             ],
             [
               -49.0717645,
-              -26.8965382
+              -26.8964856
             ]
           ]
         ]

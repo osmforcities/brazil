@@ -464,6 +464,71 @@
     },
     {
       "type": "Feature",
+      "id": "way/458577076",
+      "properties": {
+        "timestamp": "2024-04-21T07:10:08Z",
+        "version": 3,
+        "changeset": 150289178,
+        "building": "yes",
+        "name": "Futuras instalações do Hotel Vila Galé",
+        "source:name": "IBGE",
+        "tourism": "hotel",
+        "id": "way/458577076"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.658717,
+              -20.3660831
+            ],
+            [
+              -43.6587698,
+              -20.3669009
+            ],
+            [
+              -43.6583148,
+              -20.3669267
+            ],
+            [
+              -43.6582993,
+              -20.3666863
+            ],
+            [
+              -43.6578873,
+              -20.3667097
+            ],
+            [
+              -43.6579043,
+              -20.3669735
+            ],
+            [
+              -43.6577669,
+              -20.3669813
+            ],
+            [
+              -43.6577548,
+              -20.3667939
+            ],
+            [
+              -43.6575556,
+              -20.3668052
+            ],
+            [
+              -43.6575134,
+              -20.3661514
+            ],
+            [
+              -43.658717,
+              -20.3660831
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/505969858",
       "properties": {
         "timestamp": "2017-07-08T03:47:56Z",
@@ -1660,6 +1725,47 @@
         "coordinates": [
           -43.5050814,
           -20.3860081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11834321530",
+      "properties": {
+        "timestamp": "2024-04-21T05:18:25Z",
+        "version": 1,
+        "changeset": 150287154,
+        "name": "Hotel Bandeirantes",
+        "tourism": "hotel",
+        "id": "node/11834321530"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.6753718,
+          -20.3480326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11834321532",
+      "properties": {
+        "timestamp": "2024-04-21T05:18:25Z",
+        "version": 1,
+        "changeset": 150287154,
+        "email": "reservas@chaodeminas.com.br",
+        "name": "Pouysada Chão de Minas",
+        "phone": "+55 31 3553-1384",
+        "tourism": "hotel",
+        "website": "https://www.chaodeminas.com.br/",
+        "id": "node/11834321532"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.6753115,
+          -20.346848
         ]
       }
     }

@@ -389,9 +389,9 @@
       "type": "Feature",
       "id": "way/1177700074",
       "properties": {
-        "timestamp": "2023-06-02T22:49:52Z",
-        "version": 2,
-        "changeset": 136886114,
+        "timestamp": "2024-04-23T17:04:19Z",
+        "version": 3,
+        "changeset": 150406603,
         "access": "yes",
         "addr:housenumber": "180",
         "addr:postcode": "88130-280",
@@ -399,14 +399,12 @@
         "amenity": "clinic",
         "brand": "Sistema Único de Saúde",
         "brand:short": "SUS",
-        "brand:wikidata": "Q7531056",
-        "brand:wikipedia": "pt:Sistema Único de Saúde",
         "contact:phone": "+55 48 3047-5537",
         "healthcare": "clinic",
         "loc_name": "Posto de Saúde Central",
         "name": "Centro de Saúde Central",
         "opening_hours": "Mo-Fr 07:00-22:00; Sa,Su,PH off",
-        "operator": "Prefeitura Municipal de Palhoça",
+        "operator": "Secretaria Municipal de Saúde",
         "operator:type": "government",
         "ref:CNES": "2418398",
         "id": "way/1177700074"
@@ -569,32 +567,101 @@
         "coordinates": [
           [
             [
-              -48.6660075,
-              -27.6454108
+              -48.6659784,
+              -27.6453663
             ],
             [
-              -48.6660425,
-              -27.6454793
+              -48.6660134,
+              -27.6454348
             ],
             [
-              -48.6655766,
-              -27.6456392
+              -48.6655594,
+              -27.6455947
             ],
             [
-              -48.6655287,
-              -27.6455168
+              -48.6654996,
+              -27.6454723
             ],
             [
-              -48.6657,
-              -27.6454532
+              -48.6656815,
+              -27.6454227
             ],
             [
-              -48.6657423,
-              -27.6455152
+              -48.6657053,
+              -27.645466
             ],
             [
-              -48.6660075,
-              -27.6454108
+              -48.6659784,
+              -27.6453663
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1275350143",
+      "properties": {
+        "timestamp": "2024-04-23T17:04:19Z",
+        "version": 1,
+        "changeset": 150406603,
+        "addr:street": "Avenida Barão do Rio Branco",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "id": "way/1275350143"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.6679963,
+              -27.6432903
+            ],
+            [
+              -48.6680267,
+              -27.6434238
+            ],
+            [
+              -48.6674976,
+              -27.6435082
+            ],
+            [
+              -48.6674839,
+              -27.6434871
+            ],
+            [
+              -48.667457,
+              -27.6434566
+            ],
+            [
+              -48.6674785,
+              -27.6434274
+            ],
+            [
+              -48.6674589,
+              -27.6433846
+            ],
+            [
+              -48.6674737,
+              -27.6433629
+            ],
+            [
+              -48.6674726,
+              -27.6433465
+            ],
+            [
+              -48.6675284,
+              -27.6433418
+            ],
+            [
+              -48.6675472,
+              -27.6433535
+            ],
+            [
+              -48.6679963,
+              -27.6432903
             ]
           ]
         ]

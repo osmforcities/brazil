@@ -2823,9 +2823,9 @@
       "type": "Feature",
       "id": "node/3460745646",
       "properties": {
-        "timestamp": "2019-07-11T17:33:19Z",
-        "version": 3,
-        "changeset": 72146221,
+        "timestamp": "2024-04-23T02:56:20Z",
+        "version": 4,
+        "changeset": 150372419,
         "IJSN:administra": "Estadual",
         "IJSN:classeCnae": "Fundamental e Médio",
         "addr:city": "Cariacica",
@@ -2836,6 +2836,7 @@
         "addr:street": "Rua I",
         "alt_name": "Escola Estadual de Ensino Fundamental e Médio",
         "amenity": "school",
+        "check_date": "2024-04-22",
         "contact:phone": "+55 27 3386-1734;+55 27 3386-0263",
         "name": "EEEFM Maria de Lourdes Poyares Labuto",
         "id": "node/3460745646"
@@ -3878,9 +3879,9 @@
       "type": "Feature",
       "id": "node/3460745691",
       "properties": {
-        "timestamp": "2019-07-11T17:33:19Z",
-        "version": 3,
-        "changeset": 72146221,
+        "timestamp": "2024-04-23T02:48:42Z",
+        "version": 4,
+        "changeset": 150372419,
         "IJSN:administra": "Municipal",
         "IJSN:classeCnae": "Fundamental",
         "addr:city": "Cariacica",
@@ -3891,6 +3892,7 @@
         "addr:street": "Rua Laurinda Pereira do Nascimento",
         "alt_name": "Escola Municipal de Ensino Fundamental",
         "amenity": "school",
+        "check_date": "2024-04-22",
         "contact:phone": "+55 27 3236-5758;+55 27 3343-3888",
         "name": "EMEF Laurinda Pereira do Nascimento",
         "id": "node/3460745691"
@@ -4788,6 +4790,44 @@
         "coordinates": [
           -40.3646458,
           -20.3459003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11842219821",
+      "properties": {
+        "timestamp": "2024-04-23T20:07:25Z",
+        "version": 2,
+        "changeset": 150414047,
+        "amenity": "school",
+        "name": "Colégio Castro Alves",
+        "id": "node/11842219821"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.3875213,
+          -20.3094871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11842237638",
+      "properties": {
+        "timestamp": "2024-04-23T20:07:26Z",
+        "version": 1,
+        "changeset": 150414047,
+        "amenity": "school",
+        "name": "Ifes - Campus Cariacica",
+        "id": "node/11842237638"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.3715519,
+          -20.3246057
         ]
       }
     }

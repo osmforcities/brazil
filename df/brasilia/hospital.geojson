@@ -554,16 +554,22 @@
       "type": "Feature",
       "id": "way/47092241",
       "properties": {
-        "timestamp": "2017-04-08T00:04:04Z",
-        "version": 14,
-        "changeset": 47555460,
+        "timestamp": "2024-04-24T23:10:14Z",
+        "version": 15,
+        "changeset": 150470173,
+        "addr:housenumber": "QNM 28",
+        "addr:postcode": "72215-270",
         "addr:street": "QNM 27 - Área Especial 01",
         "alt_name": "Centro de saude 01 de Ceilândia",
         "amenity": "hospital",
         "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "leite_humano;cirurgia_de_hérniorrafia_umbilical;colecistectomia",
         "name": "Hospital Regional de Ceilândia",
+        "phone": "+55 61 3449 6027",
         "short_name": "HRC",
         "source": "Bing",
+        "website": "https://www.saude.df.gov.br/hospital-regional-de-ceilandia/",
         "id": "way/47092241"
       },
       "geometry": {
@@ -571,24 +577,32 @@
         "coordinates": [
           [
             [
-              -48.0956614,
-              -15.8141256
+              -48.0959838,
+              -15.8132169
             ],
             [
-              -48.0971948,
-              -15.814931
+              -48.0972341,
+              -15.8138938
             ],
             [
-              -48.0962687,
-              -15.8168934
+              -48.0968638,
+              -15.8146443
+            ],
+            [
+              -48.0972697,
+              -15.8148683
+            ],
+            [
+              -48.0963664,
+              -15.8168746
             ],
             [
               -48.0945364,
               -15.8162758
             ],
             [
-              -48.0956614,
-              -15.8141256
+              -48.0959838,
+              -15.8132169
             ]
           ]
         ]
@@ -2532,12 +2546,12 @@
         "coordinates": [
           [
             [
-              -48.0979094,
-              -15.8149736
+              -48.0978638,
+              -15.8150237
             ],
             [
-              -48.097786,
-              -15.8152171
+              -48.0977697,
+              -15.8152014
             ],
             [
               -48.0977177,
@@ -2564,16 +2578,16 @@
               -15.8150789
             ],
             [
-              -48.09766,
-              -15.8149475
+              -48.0976437,
+              -15.8149757
             ],
             [
-              -48.0976972,
-              -15.8148741
+              -48.0976744,
+              -15.814918
             ],
             [
-              -48.0979094,
-              -15.8149736
+              -48.0978638,
+              -15.8150237
             ]
           ]
         ]
@@ -6939,17 +6953,17 @@
       "type": "Feature",
       "id": "node/6473815123",
       "properties": {
-        "timestamp": "2022-07-08T06:03:02Z",
-        "version": 4,
-        "changeset": 123344351,
+        "timestamp": "2024-04-24T23:10:14Z",
+        "version": 5,
+        "changeset": 150470173,
         "entrance": "main",
         "id": "node/6473815123"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -48.09766,
-          -15.8149475
+          -48.0976437,
+          -15.8149757
         ]
       }
     },
@@ -7537,6 +7551,28 @@
         "coordinates": [
           -48.0418964,
           -15.8605127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11843609469",
+      "properties": {
+        "timestamp": "2024-04-24T10:33:04Z",
+        "version": 1,
+        "changeset": 150438259,
+        "amenity": "hospital",
+        "internet_access": "wlan",
+        "name": "Hospital Santa Marta",
+        "opening_hours": "24/7",
+        "website": "http://www.hospitalsantamarta.com.br/",
+        "id": "node/11843609469"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.8774036,
+          -15.76
         ]
       }
     }

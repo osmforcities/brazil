@@ -1098,9 +1098,9 @@
       "type": "Feature",
       "id": "way/261158307",
       "properties": {
-        "timestamp": "2023-09-06T03:51:40Z",
-        "version": 4,
-        "changeset": 140874920,
+        "timestamp": "2024-04-24T23:12:52Z",
+        "version": 6,
+        "changeset": 150470216,
         "addr:city": "Taguatinga",
         "addr:housenumber": "PJ A",
         "addr:postcode": "72161-430",
@@ -1112,12 +1112,14 @@
         "building": "yes",
         "healthcare": "clinic",
         "healthcare:speciality": "general",
-        "name": "Unidae Básica de Saúde 8 de Taguatinga",
+        "name": "Unidade Básica de Saúde 8 de Taguatinga",
         "old_name": "Centro de Saúde nº8 de Taguatinga",
-        "opening_hours": "Mo-Fr 07:00-18:00",
-        "operator": "SES DF;SUS",
-        "operator:type": "public",
-        "phone": "+55 61 2017-1145",
+        "opening_hours": "Mo-Fr 07:00-18:00; Sa 07:00-12:00; PH off",
+        "operator": "Secretaria da Saúde",
+        "operator:type": "government",
+        "phone": "+55 61 2017 1145",
+        "ref:CNES": "2617269",
+        "source": "CNES",
         "wheelchair": "limited",
         "id": "way/261158307"
       },
@@ -1742,10 +1744,11 @@
       "type": "Feature",
       "id": "way/300584376",
       "properties": {
-        "timestamp": "2014-08-27T23:20:58Z",
-        "version": 1,
-        "changeset": 25064046,
+        "timestamp": "2024-04-24T23:10:14Z",
+        "version": 2,
+        "changeset": 150470173,
         "amenity": "clinic",
+        "healthcare": "clinic",
         "name": "Posto de Saúde número 1",
         "id": "way/300584376"
       },
@@ -4219,15 +4222,20 @@
       "type": "Feature",
       "id": "way/1204739961",
       "properties": {
-        "timestamp": "2023-09-03T20:40:18Z",
-        "version": 2,
-        "changeset": 140776452,
+        "timestamp": "2024-04-24T18:42:21Z",
+        "version": 3,
+        "changeset": 150462562,
+        "addr:housenumber": "01",
+        "addr:postcode": "71884-690",
+        "addr:street": "Área Especial N 01 CAUB I",
         "amenity": "clinic",
-        "building": "yes",
         "healthcare": "clinic",
         "layer": "1",
         "name": "Centro de Saúde 4 de Riacho Fundo II",
-        "opening_hours": "Mo-Fr 08:00-17:00",
+        "opening_hours": "Mo-Fr 07:00-17:00; PH off",
+        "phone": "+55 61 2017 1145",
+        "ref:CNES": "2673924",
+        "source": "CNES",
         "id": "way/1204739961"
       },
       "geometry": {
@@ -4235,24 +4243,24 @@
         "coordinates": [
           [
             [
-              -48.0441498,
-              -15.9226649
+              -48.043914,
+              -15.9227931
             ],
             [
-              -48.0438659,
-              -15.9234624
+              -48.0437834,
+              -15.923192
             ],
             [
-              -48.0432588,
-              -15.9232868
+              -48.0435668,
+              -15.9231264
             ],
             [
-              -48.0435352,
-              -15.9224798
+              -48.0436974,
+              -15.9227275
             ],
             [
-              -48.0441498,
-              -15.9226649
+              -48.043914,
+              -15.9227931
             ]
           ]
         ]
@@ -5675,55 +5683,6 @@
         "coordinates": [
           -48.059756,
           -16.0020742
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/6473660645",
-      "properties": {
-        "timestamp": "2021-03-23T17:44:08Z",
-        "version": 4,
-        "changeset": 101591136,
-        "addr:housenumber": "QNL 30 Conjunto A lotes 02, 04 e 06",
-        "addr:street": "Avenida Hélio Prates",
-        "amenity": "clinic",
-        "description": "Sábado 06:30 às 12:00.",
-        "healthcare": "clinic",
-        "healthcare:speciality": "clinic",
-        "name": "Laboratório Sabin",
-        "opening_hours": "06:30 - 17:00 de segunda à sexta.",
-        "id": "node/6473660645"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.09457,
-          -15.8126957
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/6473692729",
-      "properties": {
-        "timestamp": "2019-05-14T20:10:30Z",
-        "version": 3,
-        "changeset": 70251446,
-        "addr:postcode": "72215-200",
-        "addr:street": "Av. Hélio Prates, QNL 30, Conj. A, Lt. 2, 4 e 6, Lj. 2",
-        "addr:suburb": "Taguainga Norte",
-        "amenity": "clinic",
-        "healthcare": "clinic",
-        "name": "CENTRUS DIAGNÓSTICO POR IMAGENS",
-        "opening_hours": "8:00 - 20:00",
-        "id": "node/6473692729"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.0941571,
-          -15.8125079
         ]
       }
     },

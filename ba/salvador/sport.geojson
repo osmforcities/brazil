@@ -5616,9 +5616,10 @@
       "type": "Feature",
       "id": "way/436807864",
       "properties": {
-        "timestamp": "2022-09-26T23:50:23Z",
-        "version": 2,
-        "changeset": 126675053,
+        "timestamp": "2024-04-24T01:06:49Z",
+        "version": 3,
+        "changeset": 150419721,
+        "landuse": "recreation_ground",
         "leisure": "pitch",
         "name": "Campo do Lasca",
         "sport": "soccer",
@@ -12363,9 +12364,10 @@
       "type": "Feature",
       "id": "way/721126165",
       "properties": {
-        "timestamp": "2022-12-11T00:34:26Z",
-        "version": 4,
-        "changeset": 129949729,
+        "timestamp": "2024-04-24T19:38:44Z",
+        "version": 5,
+        "changeset": 150464586,
+        "access": "private",
         "leisure": "pitch",
         "lit": "yes",
         "sport": "multi",
@@ -12404,9 +12406,10 @@
       "type": "Feature",
       "id": "way/721126166",
       "properties": {
-        "timestamp": "2022-12-11T00:29:13Z",
-        "version": 3,
-        "changeset": 129949729,
+        "timestamp": "2024-04-24T19:38:44Z",
+        "version": 4,
+        "changeset": 150464586,
+        "access": "private",
         "leisure": "pitch",
         "lit": "yes",
         "sport": "tennis",
@@ -12445,9 +12448,10 @@
       "type": "Feature",
       "id": "way/721126167",
       "properties": {
-        "timestamp": "2022-12-11T00:29:13Z",
-        "version": 3,
-        "changeset": 129949729,
+        "timestamp": "2024-04-24T19:38:44Z",
+        "version": 4,
+        "changeset": 150464586,
+        "access": "private",
         "leisure": "pitch",
         "lit": "yes",
         "sport": "tennis",
@@ -32374,6 +32378,46 @@
     },
     {
       "type": "Feature",
+      "id": "way/1275443428",
+      "properties": {
+        "timestamp": "2024-04-24T01:30:55Z",
+        "version": 1,
+        "changeset": 150420060,
+        "leisure": "pitch",
+        "sport": "soccer",
+        "surface": "sand",
+        "id": "way/1275443428"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.4082454,
+              -12.9032219
+            ],
+            [
+              -38.4081659,
+              -12.9035158
+            ],
+            [
+              -38.4079735,
+              -12.9034256
+            ],
+            [
+              -38.4080198,
+              -12.9031804
+            ],
+            [
+              -38.4082454,
+              -12.9032219
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/704411342",
       "properties": {
         "timestamp": "2023-03-25T03:06:02Z",
@@ -33163,9 +33207,9 @@
       "type": "Feature",
       "id": "node/3715038227",
       "properties": {
-        "timestamp": "2021-11-19T10:56:13Z",
-        "version": 6,
-        "changeset": 113985501,
+        "timestamp": "2024-04-24T19:38:44Z",
+        "version": 7,
+        "changeset": 150464586,
         "addr:housenumber": "2435",
         "addr:postcode": "41950-495",
         "addr:street": "Avenida Cardeal da Silva",
@@ -33173,7 +33217,7 @@
         "leisure": "sports_centre",
         "name": "Villa Forma",
         "phone": "+55 71 33349633",
-        "sport": "fitness;swimming;yoga",
+        "sport": "fitness;swimming;yoga;squash;martial_arts",
         "website": "https://www.villaforma.com.br",
         "id": "node/3715038227"
       },
@@ -33543,6 +33587,26 @@
     },
     {
       "type": "Feature",
+      "id": "node/5085617280",
+      "properties": {
+        "timestamp": "2024-04-24T19:38:44Z",
+        "version": 3,
+        "changeset": 150464586,
+        "leisure": "fitness_centre",
+        "name": "Well Academia",
+        "sport": "fitness",
+        "id": "node/5085617280"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4897877,
+          -13.010533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/5126432117",
       "properties": {
         "timestamp": "2023-04-06T19:43:38Z",
@@ -33600,6 +33664,28 @@
         "coordinates": [
           -38.4866003,
           -13.0129419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6071917589",
+      "properties": {
+        "timestamp": "2024-04-24T19:38:44Z",
+        "version": 6,
+        "changeset": 150464586,
+        "leisure": "fitness_centre",
+        "level": "1",
+        "name": "Itaigara Fitness",
+        "sport": "fitness",
+        "wheelchair": "no",
+        "id": "node/6071917589"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4610071,
+          -12.9929314
         ]
       }
     },
@@ -35034,6 +35120,27 @@
     },
     {
       "type": "Feature",
+      "id": "node/11000714954",
+      "properties": {
+        "timestamp": "2024-04-24T19:38:44Z",
+        "version": 3,
+        "changeset": 150464586,
+        "amenity": "dojo",
+        "check_date": "2023-06-22",
+        "name": "Alliance",
+        "sport": "jiu-jitsu",
+        "id": "node/11000714954"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4530396,
+          -12.9927921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/11012871554",
       "properties": {
         "timestamp": "2023-06-28T19:31:05Z",
@@ -35332,6 +35439,75 @@
         "coordinates": [
           -38.487736,
           -12.957052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11844575541",
+      "properties": {
+        "timestamp": "2024-04-24T14:32:35Z",
+        "version": 1,
+        "changeset": 150450764,
+        "addr:housenumber": "4",
+        "addr:postcode": "41810-105",
+        "addr:street": "Rua Marechal Andréa",
+        "leisure": "fitness_centre",
+        "name": "CF SSA",
+        "phone": "+55 71 997080717",
+        "sport": "crossfit",
+        "website": "https://crosscfssa.com.br/",
+        "id": "node/11844575541"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4542903,
+          -12.9966901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11845337324",
+      "properties": {
+        "timestamp": "2024-04-24T19:38:44Z",
+        "version": 1,
+        "changeset": 150464586,
+        "addr:housenumber": "313",
+        "addr:street": "Rua São Paulo",
+        "contact:instagram": "https://www.instagram.com/inspiretreinamento",
+        "leisure": "fitness_centre",
+        "name": "Inspire CT",
+        "phone": "+55 71 99729-7699",
+        "sport": "crossfit",
+        "id": "node/11845337324"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4575933,
+          -13.0038933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11845453906",
+      "properties": {
+        "timestamp": "2024-04-24T20:27:26Z",
+        "version": 1,
+        "changeset": 150466271,
+        "leisure": "sports_centre",
+        "name": "Beach Tennis School",
+        "sport": "beachtennis",
+        "id": "node/11845453906"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4639535,
+          -12.9869564
         ]
       }
     }

@@ -21878,6 +21878,127 @@
     },
     {
       "type": "Feature",
+      "id": "way/1275442688",
+      "properties": {
+        "timestamp": "2024-04-24T01:19:29Z",
+        "version": 1,
+        "changeset": 150419908,
+        "amenity": "school",
+        "name": "Colégio Estadual Professor Cleto",
+        "id": "way/1275442688"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.2802979,
+              -25.4278949
+            ],
+            [
+              -49.2805811,
+              -25.427299
+            ],
+            [
+              -49.280848,
+              -25.4274044
+            ],
+            [
+              -49.2808039,
+              -25.4274939
+            ],
+            [
+              -49.2809196,
+              -25.4275366
+            ],
+            [
+              -49.2809062,
+              -25.4275669
+            ],
+            [
+              -49.2809215,
+              -25.4275726
+            ],
+            [
+              -49.2808836,
+              -25.4276614
+            ],
+            [
+              -49.2806947,
+              -25.4280796
+            ],
+            [
+              -49.2803094,
+              -25.4279234
+            ],
+            [
+              -49.2802979,
+              -25.4278949
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1275813386",
+      "properties": {
+        "timestamp": "2024-04-24T18:38:57Z",
+        "version": 1,
+        "changeset": 150462448,
+        "addr:postcode": "80220390",
+        "amenity": "school",
+        "email": "cmeijbfontana@sme.curitiba.pr.gov.br",
+        "name": "Centro De Educação Infantil João Baptista Fontana",
+        "operator": "Prefeitura Municipal de Curitiba",
+        "operator:type": "public/government",
+        "phone": "+55413336896",
+        "religion": "none",
+        "website": "https://educacao.curitiba.pr.gov.br/unidade/joao-baptista-fontanacentro-municipal-de-educacao-infantil/18199",
+        "id": "way/1275813386"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.2622848,
+              -25.4658001
+            ],
+            [
+              -49.262114,
+              -25.4661726
+            ],
+            [
+              -49.2616303,
+              -25.4659887
+            ],
+            [
+              -49.2618093,
+              -25.4656126
+            ],
+            [
+              -49.2621277,
+              -25.4657386
+            ],
+            [
+              -49.2621419,
+              -25.4657437
+            ],
+            [
+              -49.2621621,
+              -25.4657517
+            ],
+            [
+              -49.2622848,
+              -25.4658001
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/613537226",
       "properties": {
         "timestamp": "2023-10-22T23:28:18Z",
@@ -24717,25 +24838,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/4244189955",
-      "properties": {
-        "timestamp": "2016-06-15T11:26:09Z",
-        "version": 1,
-        "changeset": 40036594,
-        "amenity": "school",
-        "name": "Escola Municipal",
-        "id": "node/4244189955"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.2619345,
-          -25.4658097
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/4244827429",
       "properties": {
         "timestamp": "2016-06-15T18:21:52Z",
@@ -26682,30 +26784,6 @@
         "coordinates": [
           -49.2797178,
           -25.442475
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/9922866244",
-      "properties": {
-        "timestamp": "2022-07-31T17:22:36Z",
-        "version": 1,
-        "changeset": 124312108,
-        "addr:city": "Curitiba",
-        "addr:housenumber": "460",
-        "addr:street": "Rua Professor Dario Velloso",
-        "addr:suburb": "Vila Izabel",
-        "amenity": "school",
-        "name": "Instituto Neo-Pitagórico",
-        "website": "http://www.pitagorico.org.br/",
-        "id": "node/9922866244"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.2937771,
-          -25.458788
         ]
       }
     },
@@ -33195,6 +33273,26 @@
         "coordinates": [
           -49.2832588,
           -25.4208431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11845218931",
+      "properties": {
+        "timestamp": "2024-04-24T18:38:57Z",
+        "version": 1,
+        "changeset": 150462448,
+        "barrier": "gate",
+        "foot": "no",
+        "motor_vehicle": "designated",
+        "id": "node/11845218931"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2621419,
+          -25.4657437
         ]
       }
     }

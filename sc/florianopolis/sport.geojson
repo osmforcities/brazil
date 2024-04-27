@@ -31791,6 +31791,50 @@
     },
     {
       "type": "Feature",
+      "id": "way/1276038873",
+      "properties": {
+        "timestamp": "2024-04-25T10:52:28Z",
+        "version": 1,
+        "changeset": 150489586,
+        "addr:housenumber": "127",
+        "addr:street": "Rua Laureano",
+        "leisure": "sports_centre",
+        "name": "Adrenalina Club Campeche",
+        "phone": "+55 48 99118-4255",
+        "sport": "athletics;beachvolleyball;fitness;soccer;tennis",
+        "website": "https://adrenalina club.com.br",
+        "id": "way/1276038873"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.5058688,
+              -27.6750507
+            ],
+            [
+              -48.5062398,
+              -27.6745813
+            ],
+            [
+              -48.5066553,
+              -27.6748389
+            ],
+            [
+              -48.5062842,
+              -27.6753083
+            ],
+            [
+              -48.5058688,
+              -27.6750507
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/158918725",
       "properties": {
         "timestamp": "2021-01-03T23:34:17Z",
@@ -33331,12 +33375,14 @@
       "type": "Feature",
       "id": "node/1453290633",
       "properties": {
-        "timestamp": "2017-01-17T02:44:43Z",
-        "version": 2,
-        "changeset": 45232334,
+        "timestamp": "2024-04-25T09:56:37Z",
+        "version": 3,
+        "changeset": 150486245,
         "amenity": "college",
         "name": "Escola de Surf",
+        "operator:type": "private",
         "sport": "surfing",
+        "wheelchair": "no",
         "id": "node/1453290633"
       },
       "geometry": {

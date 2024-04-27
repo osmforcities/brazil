@@ -137,20 +137,23 @@
       "type": "Feature",
       "id": "way/126738510",
       "properties": {
-        "timestamp": "2023-09-02T17:00:04Z",
-        "version": 4,
-        "changeset": 140728449,
+        "timestamp": "2024-04-25T18:07:22Z",
+        "version": 5,
+        "changeset": 150508717,
         "addr:housenumber": "380",
         "addr:postcode": "09851-707",
         "addr:street": "Rua João XXIII",
+        "addr:suburb": "Jardim Nazareth",
         "amenity": "clinic",
         "building": "yes",
         "email": "ubs.nazareth@saobernardo.sp.gov.br",
         "healthcare": "clinic",
-        "healthcare:speciality": "general;paediatrics;gynaecology;community",
+        "healthcare:speciality": "general;paediatrics;ginecologia;vaccination",
         "name": "Unidade Básica de Saúde Jardim Nazareth",
         "opening_hours": "Mo-Fr 07:00-22:00; Sa,Su,PH off",
+        "operator": "Secretaria Municipal da Saúde",
         "operator:ref:vatin": "BR46523239000147",
+        "operator:type": "government",
         "phone": "+55 11 4343 4166",
         "ref:CNES": "2045370",
         "short_name": "UBS Jd. Nazareth",
@@ -4107,33 +4110,6 @@
         "coordinates": [
           -46.5573181,
           -23.6928787
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/8685717338",
-      "properties": {
-        "timestamp": "2022-06-21T23:28:05Z",
-        "version": 3,
-        "changeset": 122687246,
-        "addr:housenumber": "440",
-        "addr:street": "Rua Pedro Jacobucci",
-        "addr:suburb": "Jardim das Américas",
-        "amenity": "clinic",
-        "healthcare": "clinic",
-        "healthcare:speciality": "blood_bank",
-        "name": "Colsan Hemocentro Regional de São Bernardo do Campo",
-        "opening_hours": "Mo-Sa 08:30-15:00; Su,PH off",
-        "phone": "+55 11 4332 3900",
-        "website": "https://www.colsan.org.br/site/",
-        "id": "node/8685717338"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -46.5554827,
-          -23.698901
         ]
       }
     },

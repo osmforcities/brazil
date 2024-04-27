@@ -227,12 +227,17 @@
       "type": "Feature",
       "id": "way/94667537",
       "properties": {
-        "timestamp": "2019-05-09T23:29:05Z",
-        "version": 3,
-        "changeset": 70092296,
+        "timestamp": "2024-04-25T00:39:42Z",
+        "version": 4,
+        "changeset": 150471333,
+        "addr:city": "Belo Horizonte",
+        "addr:street": "MGC-356",
         "government": "water_utility_company",
-        "name": "COPASA",
+        "name": "Copasa",
         "office": "government",
+        "phone": "115",
+        "website": "https://www.copasa.com.br/wps/portal/internet",
+        "wikidata": "Q9831814",
         "id": "way/94667537"
       },
       "geometry": {
@@ -278,6 +283,14 @@
             [
               -43.9479197,
               -19.977367
+            ],
+            [
+              -43.947555,
+              -19.9762694
+            ],
+            [
+              -43.9475293,
+              -19.9761922
             ],
             [
               -43.9474959,
@@ -508,9 +521,9 @@
       "type": "Feature",
       "id": "way/164760270",
       "properties": {
-        "timestamp": "2019-05-14T14:02:10Z",
-        "version": 3,
-        "changeset": 70236381,
+        "timestamp": "2024-04-25T00:58:42Z",
+        "version": 4,
+        "changeset": 150471596,
         "addr:city": "Belo Horizonte",
         "addr:housenumber": "525",
         "addr:street": "Rua Mar de Espanha",
@@ -518,7 +531,12 @@
         "government": "water_utility_company",
         "name": "Companhia de Saneamento de Minas Gerais",
         "office": "government",
+        "opening_hours": "Mo-Fr 08:00-18:00",
+        "phone": "115",
         "short_name": "COPASA",
+        "website": "https://www.copasa.com.br/wps/portal/internet",
+        "wheelchair": "yes",
+        "wikidata": "Q9831814",
         "id": "way/164760270"
       },
       "geometry": {
@@ -534,16 +552,20 @@
               -19.9437434
             ],
             [
-              -43.9440653,
-              -19.9443839
+              -43.9440783,
+              -19.9446056
             ],
             [
-              -43.9439757,
-              -19.9449582
+              -43.9440131,
+              -19.9450041
             ],
             [
-              -43.943105,
-              -19.9451302
+              -43.9431326,
+              -19.945225
+            ],
+            [
+              -43.9429077,
+              -19.9444592
             ],
             [
               -43.9426812,
@@ -1958,6 +1980,27 @@
     },
     {
       "type": "Feature",
+      "id": "node/8983044326",
+      "properties": {
+        "timestamp": "2024-04-25T00:58:42Z",
+        "version": 3,
+        "changeset": 150471596,
+        "access": "permit",
+        "barrier": "gate",
+        "locked": "yes",
+        "material": "metal",
+        "id": "node/8983044326"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.9429077,
+          -19.9444592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/9112503656",
       "properties": {
         "timestamp": "2021-09-22T05:29:00Z",
@@ -1993,6 +2036,52 @@
         "coordinates": [
           -43.9371884,
           -19.9257603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11845850307",
+      "properties": {
+        "timestamp": "2024-04-25T00:39:42Z",
+        "version": 1,
+        "changeset": 150471333,
+        "barrier": "lift_gate",
+        "bicycle": "no",
+        "foot": "no",
+        "horse": "no",
+        "lift_gate:type": "single",
+        "motor_vehicle": "permit",
+        "id": "node/11845850307"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.9475293,
+          -19.9761922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11845850308",
+      "properties": {
+        "timestamp": "2024-04-25T00:39:42Z",
+        "version": 1,
+        "changeset": 150471333,
+        "barrier": "lift_gate",
+        "bicycle": "no",
+        "foot": "no",
+        "horse": "no",
+        "lift_gate:type": "single",
+        "motor_vehicle": "permit",
+        "id": "node/11845850308"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.947555,
+          -19.9762694
         ]
       }
     }

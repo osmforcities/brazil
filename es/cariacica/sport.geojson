@@ -5354,10 +5354,13 @@
       "type": "Feature",
       "id": "node/11845433246",
       "properties": {
-        "timestamp": "2024-04-24T20:31:01Z",
-        "version": 1,
-        "changeset": 150466406,
+        "timestamp": "2024-04-25T19:48:17Z",
+        "version": 2,
+        "changeset": 150512008,
         "access": "yes",
+        "covered": "no",
+        "fee": "no",
+        "indoor": "no",
         "leisure": "pitch",
         "name:pt": "Campo VG",
         "sport": "soccer",
@@ -5369,6 +5372,52 @@
         "coordinates": [
           -40.3838736,
           -20.3053966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11848257027",
+      "properties": {
+        "timestamp": "2024-04-25T19:49:24Z",
+        "version": 3,
+        "changeset": 150512043,
+        "bench": "yes",
+        "covered": "no",
+        "leisure": "picnic_table",
+        "lit": "yes",
+        "material": "concrete",
+        "sport": "chess",
+        "id": "node/11848257027"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.3874106,
+          -20.3087124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11848260974",
+      "properties": {
+        "timestamp": "2024-04-25T19:49:24Z",
+        "version": 3,
+        "changeset": 150512043,
+        "bench": "yes",
+        "covered": "no",
+        "leisure": "picnic_table",
+        "lit": "yes",
+        "material": "concrete",
+        "sport": "chess",
+        "id": "node/11848260974"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.3873758,
+          -20.3086717
         ]
       }
     }

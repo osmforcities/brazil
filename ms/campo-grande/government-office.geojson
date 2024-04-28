@@ -5,10 +5,11 @@
       "type": "Feature",
       "id": "way/160181080",
       "properties": {
-        "timestamp": "2014-02-13T03:48:12Z",
-        "version": 4,
-        "changeset": 20534483,
+        "timestamp": "2024-04-26T23:51:34Z",
+        "version": 5,
+        "changeset": 150560670,
         "building": "yes",
+        "government": "administrative",
         "name": "Receita Federal",
         "office": "government",
         "id": "way/160181080"
@@ -231,11 +232,12 @@
       "type": "Feature",
       "id": "way/243914754",
       "properties": {
-        "timestamp": "2014-02-13T03:48:32Z",
-        "version": 3,
-        "changeset": 20534483,
+        "timestamp": "2024-04-26T23:51:34Z",
+        "version": 4,
+        "changeset": 150560670,
         "addr:city": "Campo Grande",
         "building": "yes",
+        "government": "administrative",
         "name": "Secretaria de Estado e Fazenda",
         "office": "government",
         "opening_hours": "07:30 - 13:30",
@@ -527,6 +529,47 @@
             [
               -54.6746594,
               -20.4219425
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1276614188",
+      "properties": {
+        "timestamp": "2024-04-26T23:51:34Z",
+        "version": 1,
+        "changeset": 150560670,
+        "building": "yes",
+        "government": "administrative",
+        "name": "Secretaria Estadual do Meio Ambiente",
+        "office": "government",
+        "id": "way/1276614188"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -54.5586432,
+              -20.4402585
+            ],
+            [
+              -54.558619,
+              -20.4404093
+            ],
+            [
+              -54.5581872,
+              -20.4403239
+            ],
+            [
+              -54.558214,
+              -20.4401806
+            ],
+            [
+              -54.5586432,
+              -20.4402585
             ]
           ]
         ]

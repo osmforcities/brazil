@@ -5,15 +5,17 @@
       "type": "Feature",
       "id": "way/583789300",
       "properties": {
-        "timestamp": "2020-05-16T19:04:45Z",
-        "version": 2,
-        "changeset": 85314400,
+        "timestamp": "2024-04-27T22:27:40Z",
+        "version": 3,
+        "changeset": 150598517,
         "addr:city": "Itaperuna",
         "addr:postcode": "28300-000",
         "addr:street": "Avenida Presidente Dutra",
         "addr:suburb": "Centro",
         "amenity": "university",
         "name": "CIEP 263 - Lina Bo Bardi",
+        "operator": "Secretaria de Educação do Estado do Rio de Janeiro",
+        "operator:type": "public",
         "id": "way/583789300"
       },
       "geometry": {
@@ -21,24 +23,24 @@
         "coordinates": [
           [
             [
-              -41.8982432,
-              -21.200055
+              -41.8982514,
+              -21.2001353
             ],
             [
-              -41.8982783,
-              -21.2005088
+              -41.8982865,
+              -21.2005891
             ],
             [
-              -41.8974002,
-              -21.200568
+              -41.8974084,
+              -21.2006483
             ],
             [
-              -41.897365,
-              -21.2001142
+              -41.8973732,
+              -21.2001945
             ],
             [
-              -41.8982432,
-              -21.200055
+              -41.8982514,
+              -21.2001353
             ]
           ]
         ]
@@ -84,6 +86,32 @@
               -21.1935174
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11860899606",
+      "properties": {
+        "timestamp": "2024-04-27T22:27:40Z",
+        "version": 1,
+        "changeset": 150598517,
+        "addr:city": "Itaperuna",
+        "addr:housenumber": "1155",
+        "addr:postcode": "28300-000",
+        "addr:street": "Avenida Presidente Dutra",
+        "addr:suburb": "Cidade Nova",
+        "amenity": "university",
+        "name": "Uni Redentor",
+        "operator": "Sociedade Universitaria Redentor S.a.",
+        "operator:type": "private",
+        "id": "node/11860899606"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.9053873,
+          -21.2005514
         ]
       }
     }

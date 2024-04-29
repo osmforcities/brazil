@@ -3,6 +3,149 @@
   "features": [
     {
       "type": "Feature",
+      "id": "relation/17524752",
+      "properties": {
+        "timestamp": "2024-04-27T02:18:50Z",
+        "version": 1,
+        "changeset": 150562297,
+        "addr:city": "Joinville",
+        "addr:housenumber": "565",
+        "addr:postcode": "89202-450",
+        "addr:street": "Rua Doutor Plácido Olímpio de Oliveira",
+        "addr:suburb": "Bucarein",
+        "amenity": "social_facility",
+        "building": "yes",
+        "name": "Lar do Idoso Betânia",
+        "phone": "+55 47 3422 5258",
+        "social_facility": "nursing_home",
+        "social_facility:for": "senior",
+        "type": "multipolygon",
+        "id": "relation/17524752"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -48.8401748,
+                -26.3113047
+              ],
+              [
+                -48.8401916,
+                -26.3113053
+              ],
+              [
+                -48.8401922,
+                -26.3112975
+              ],
+              [
+                -48.8401924,
+                -26.3112963
+              ],
+              [
+                -48.8405052,
+                -26.3113089
+              ],
+              [
+                -48.8404999,
+                -26.311444
+              ],
+              [
+                -48.8401961,
+                -26.3114319
+              ],
+              [
+                -48.840197,
+                -26.3113924
+              ],
+              [
+                -48.8401958,
+                -26.3113925
+              ],
+              [
+                -48.8401712,
+                -26.3113922
+              ],
+              [
+                -48.8401726,
+                -26.3113046
+              ],
+              [
+                -48.8401748,
+                -26.3113047
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -48.8401712,
+                -26.3113922
+              ],
+              [
+                -48.8401958,
+                -26.3113925
+              ],
+              [
+                -48.840197,
+                -26.3113924
+              ],
+              [
+                -48.8401961,
+                -26.3114319
+              ],
+              [
+                -48.8404999,
+                -26.311444
+              ],
+              [
+                -48.8405953,
+                -26.3114478
+              ],
+              [
+                -48.8405897,
+                -26.3115564
+              ],
+              [
+                -48.8404776,
+                -26.3115524
+              ],
+              [
+                -48.8404772,
+                -26.3115623
+              ],
+              [
+                -48.8404314,
+                -26.3115613
+              ],
+              [
+                -48.8404316,
+                -26.3115508
+              ],
+              [
+                -48.8403348,
+                -26.3115476
+              ],
+              [
+                -48.8403365,
+                -26.3115183
+              ],
+              [
+                -48.840165,
+                -26.3115106
+              ],
+              [
+                -48.8401712,
+                -26.3113922
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/257572732",
       "properties": {
         "timestamp": "2022-02-19T18:44:43Z",
@@ -1637,94 +1780,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/791548713",
-      "properties": {
-        "timestamp": "2021-07-02T05:53:20Z",
-        "version": 3,
-        "changeset": 107290607,
-        "addr:city": "Joinville",
-        "addr:housenumber": "565",
-        "addr:postcode": "89202-450",
-        "addr:street": "Rua Doutor Plácido Olímpio de Oliveira",
-        "addr:suburb": "Bucarein",
-        "amenity": "social_facility",
-        "building": "yes",
-        "name": "Lar do Idoso Betânia",
-        "phone": "+55 47 3422 5258",
-        "social_facility": "nursing_home",
-        "social_facility:for": "senior",
-        "id": "way/791548713"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -48.8401712,
-              -26.3113922
-            ],
-            [
-              -48.8401958,
-              -26.3113925
-            ],
-            [
-              -48.840197,
-              -26.3113924
-            ],
-            [
-              -48.8401961,
-              -26.3114319
-            ],
-            [
-              -48.8404999,
-              -26.311444
-            ],
-            [
-              -48.8405953,
-              -26.3114478
-            ],
-            [
-              -48.8405897,
-              -26.3115564
-            ],
-            [
-              -48.8404776,
-              -26.3115524
-            ],
-            [
-              -48.8404772,
-              -26.3115623
-            ],
-            [
-              -48.8404314,
-              -26.3115613
-            ],
-            [
-              -48.8404316,
-              -26.3115508
-            ],
-            [
-              -48.8403348,
-              -26.3115476
-            ],
-            [
-              -48.8403365,
-              -26.3115183
-            ],
-            [
-              -48.840165,
-              -26.3115106
-            ],
-            [
-              -48.8401712,
-              -26.3113922
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/791550588",
       "properties": {
         "timestamp": "2022-07-20T19:02:17Z",
@@ -2040,6 +2095,55 @@
             [
               -48.8489554,
               -26.3168081
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/960643423",
+      "properties": {
+        "timestamp": "2024-04-27T02:18:50Z",
+        "version": 2,
+        "changeset": 150562297,
+        "addr:city": "Joinville",
+        "addr:housenumber": "444",
+        "addr:postcode": "89202-400",
+        "addr:street": "Rua Urussanga",
+        "addr:suburb": "Bucarein",
+        "amenity": "social_facility",
+        "building": "yes",
+        "contact:facebook": "https://www.facebook.com/CENEF-Centro-de-Estudos-e-Orientação-da-Família-142111835985224/",
+        "name": "Centro de Estudos e Orientação da Família",
+        "short_name": "CENEF",
+        "social_facility": "assisted_living",
+        "social_facility:for": "underprivileged",
+        "id": "way/960643423"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.8398973,
+              -26.3113629
+            ],
+            [
+              -48.8396743,
+              -26.3113546
+            ],
+            [
+              -48.8396823,
+              -26.3111812
+            ],
+            [
+              -48.8399052,
+              -26.3111894
+            ],
+            [
+              -48.8398973,
+              -26.3113629
             ]
           ]
         ]
@@ -2525,34 +2629,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/2942781907",
-      "properties": {
-        "timestamp": "2022-04-22T05:01:42Z",
-        "version": 3,
-        "changeset": 120028226,
-        "addr:city": "Joinville",
-        "addr:housenumber": "444",
-        "addr:postcode": "89202-400",
-        "addr:street": "Rua Urussanga",
-        "addr:suburb": "Bucarein",
-        "amenity": "social_facility",
-        "contact:facebook": "https://www.facebook.com/CENEF-Centro-de-Estudos-e-Orientação-da-Família-142111835985224/",
-        "name": "Centro de Estudos e Orientação da Família",
-        "short_name": "CENEF",
-        "social_facility": "assisted_living",
-        "social_facility:for": "underprivileged",
-        "id": "node/2942781907"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.8397567,
-          -26.3112371
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/2942783063",
       "properties": {
         "timestamp": "2022-04-22T05:31:32Z",
@@ -2996,33 +3072,6 @@
         "coordinates": [
           -48.8007186,
           -26.3270794
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/8886767064",
-      "properties": {
-        "timestamp": "2021-07-02T05:53:05Z",
-        "version": 1,
-        "changeset": 107290599,
-        "addr:city": "Joinville",
-        "addr:housenumber": "565",
-        "addr:postcode": "89202-450",
-        "addr:street": "Rua Doutor Plácido Olímpio de Oliveira",
-        "addr:suburb": "Bucarein",
-        "amenity": "social_facility",
-        "name": "Lar do Idoso Betânia",
-        "phone": "+55 47 3422 5258",
-        "social_facility": "nursing_home",
-        "social_facility:for": "senior",
-        "id": "node/8886767064"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.8403949,
-          -26.3113491
         ]
       }
     }

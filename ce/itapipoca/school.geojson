@@ -215,9 +215,9 @@
       "type": "Feature",
       "id": "way/968893705",
       "properties": {
-        "timestamp": "2023-07-05T14:49:46Z",
-        "version": 2,
-        "changeset": 138151882,
+        "timestamp": "2024-04-27T13:57:25Z",
+        "version": 3,
+        "changeset": 150581341,
         "amenity": "school",
         "name": "UECE Itapipoca",
         "operator": "Governo do Estado do Ceará",
@@ -230,24 +230,28 @@
         "coordinates": [
           [
             [
-              -39.5678156,
-              -3.4877144
+              -39.5678175,
+              -3.4877331
             ],
             [
-              -39.5684612,
-              -3.4898671
+              -39.5679911,
+              -3.488288
             ],
             [
-              -39.5677592,
-              -3.4900628
+              -39.5684893,
+              -3.4898802
+            ],
+            [
+              -39.5677536,
+              -3.4901133
             ],
             [
               -39.567085,
-              -3.4879526
+              -3.4879694
             ],
             [
-              -39.5678156,
-              -3.4877144
+              -39.5678175,
+              -3.4877331
             ]
           ]
         ]
@@ -451,6 +455,57 @@
             [
               -39.6453479,
               -3.2652498
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1276634569",
+      "properties": {
+        "timestamp": "2024-04-27T00:34:24Z",
+        "version": 1,
+        "changeset": 150561193,
+        "addr:city": "Itapipoca",
+        "addr:postcode": "62508-480",
+        "addr:street": "Rua Pergentina Araújo",
+        "addr:suburb": "Senharão",
+        "amenity": "school",
+        "name": "EEM Joaquim Magalhães",
+        "id": "way/1276634569"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -39.5835777,
+              -3.5011131
+            ],
+            [
+              -39.5837379,
+              -3.5015747
+            ],
+            [
+              -39.5836337,
+              -3.501702
+            ],
+            [
+              -39.5837918,
+              -3.5022494
+            ],
+            [
+              -39.5827784,
+              -3.5026498
+            ],
+            [
+              -39.5823947,
+              -3.5015651
+            ],
+            [
+              -39.5835777,
+              -3.5011131
             ]
           ]
         ]
@@ -681,6 +736,26 @@
         "coordinates": [
           -39.6940104,
           -3.396839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11860931669",
+      "properties": {
+        "timestamp": "2024-04-27T22:57:19Z",
+        "version": 1,
+        "changeset": 150599108,
+        "addr:street": "Rua Raimundo de Castro",
+        "amenity": "school",
+        "name": "Colégio ERE",
+        "id": "node/11860931669"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.5797523,
+          -3.4931404
         ]
       }
     }

@@ -57,10 +57,15 @@
       "type": "Feature",
       "id": "way/584322720",
       "properties": {
-        "timestamp": "2018-04-29T03:16:30Z",
-        "version": 1,
-        "changeset": 58517383,
+        "timestamp": "2024-04-28T14:05:14Z",
+        "version": 2,
+        "changeset": 150620286,
+        "addr:city": "Itaperuna",
+        "addr:postcode": "28300-000",
+        "addr:street": "Avenida Cardoso Moreira",
+        "addr:suburb": "Centro",
         "building": "yes",
+        "government": "education",
         "name": "Secretaria Municipal de Educação",
         "office": "government",
         "id": "way/584322720"
@@ -70,26 +75,78 @@
         "coordinates": [
           [
             [
-              -41.8899925,
-              -21.2060963
+              -41.8899648,
+              -21.2061788
             ],
             [
-              -41.8898076,
-              -21.2063052
+              -41.8897799,
+              -21.2063877
             ],
             [
-              -41.8896806,
-              -21.2062075
+              -41.8896529,
+              -21.20629
             ],
             [
-              -41.8898655,
-              -21.2059986
+              -41.8898378,
+              -21.2060811
             ],
             [
-              -41.8899925,
-              -21.2060963
+              -41.8899648,
+              -21.2061788
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11862015248",
+      "properties": {
+        "timestamp": "2024-04-28T11:03:11Z",
+        "version": 1,
+        "changeset": 150613090,
+        "addr:city": "Itaperuna",
+        "addr:postcode": "28300-000",
+        "addr:street": "Rua Expedicionário Cabo Gama",
+        "addr:suburb": "Cidade Nova",
+        "government": "education",
+        "name": "Diretoria Regional Noroeste Fluminense de Educação",
+        "office": "government",
+        "operator": "Secretaria de Educação do Estado do Rio de Janeiro",
+        "phone": "+55 22 3824 2877",
+        "website": "https://www.seeduc.rj.gov.br/cidad%C3%A3o/mapa-das-regionais",
+        "id": "node/11862015248"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.9068011,
+          -21.2034454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11862334311",
+      "properties": {
+        "timestamp": "2024-04-28T14:05:14Z",
+        "version": 1,
+        "changeset": 150620286,
+        "addr:city": "Itaperuna",
+        "addr:housenumber": "623",
+        "addr:postcode": "28300-000",
+        "addr:street": "Avenida Cardoso Moreira",
+        "addr:suburb": "Centro",
+        "government": "tax",
+        "name": "Agência da Receita Federal do Brasil",
+        "office": "government",
+        "id": "node/11862334311"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.8905202,
+          -21.2052681
         ]
       }
     }

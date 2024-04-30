@@ -1466,6 +1466,47 @@
     },
     {
       "type": "Feature",
+      "id": "way/194683903",
+      "properties": {
+        "timestamp": "2024-04-28T18:23:09Z",
+        "version": 2,
+        "changeset": 150631264,
+        "leisure": "pitch",
+        "name": "Campo do CSU",
+        "sport": "soccer",
+        "surface": "dirt",
+        "id": "way/194683903"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -34.8577845,
+              -7.0990696
+            ],
+            [
+              -34.8575485,
+              -7.0999319
+            ],
+            [
+              -34.8570147,
+              -7.0997749
+            ],
+            [
+              -34.8572507,
+              -7.0989226
+            ],
+            [
+              -34.8577845,
+              -7.0990696
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/194687373",
       "properties": {
         "timestamp": "2024-03-23T10:31:20Z",
@@ -10762,10 +10803,13 @@
       "type": "Feature",
       "id": "way/1087599264",
       "properties": {
-        "timestamp": "2022-08-19T21:56:38Z",
-        "version": 1,
-        "changeset": 125127969,
+        "timestamp": "2024-04-28T23:01:42Z",
+        "version": 2,
+        "changeset": 150639369,
+        "access": "private",
         "leisure": "pitch",
+        "lit": "yes",
+        "name": "Open Arena",
         "sport": "soccer;multi;volleyball",
         "id": "way/1087599264"
       },
@@ -12096,6 +12140,48 @@
     },
     {
       "type": "Feature",
+      "id": "way/1277903121",
+      "properties": {
+        "timestamp": "2024-04-28T19:33:08Z",
+        "version": 1,
+        "changeset": 150633736,
+        "access": "yes",
+        "leisure": "pitch",
+        "lit": "yes",
+        "name": "Quadra Poliesportiva do Padre Zé",
+        "sport": "baseball;futsal",
+        "id": "way/1277903121"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -34.8696691,
+              -7.1062474
+            ],
+            [
+              -34.8696271,
+              -7.1063609
+            ],
+            [
+              -34.8694636,
+              -7.1063123
+            ],
+            [
+              -34.8695033,
+              -7.1061964
+            ],
+            [
+              -34.8696691,
+              -7.1062474
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/118247643",
       "properties": {
         "timestamp": "2013-11-09T23:15:33Z",
@@ -12946,6 +13032,25 @@
         "coordinates": [
           -34.913805,
           -7.1374714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11863324591",
+      "properties": {
+        "timestamp": "2024-04-28T23:56:54Z",
+        "version": 1,
+        "changeset": 150640103,
+        "leisure": "fitness_station",
+        "sport": "fitness",
+        "id": "node/11863324591"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.8287843,
+          -7.1055904
         ]
       }
     }

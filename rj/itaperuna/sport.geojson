@@ -88,10 +88,13 @@
       "type": "Feature",
       "id": "way/583380205",
       "properties": {
-        "timestamp": "2018-04-26T06:52:11Z",
-        "version": 2,
-        "changeset": 58432393,
+        "timestamp": "2024-04-28T20:07:10Z",
+        "version": 4,
+        "changeset": 150634860,
         "leisure": "sports_centre",
+        "name": "Centro Poliesportivo e Administrativo Doutor Edgard Pinheiro Dias",
+        "operator": "Município de Itaperuna",
+        "operator:type": "public",
         "sport": "soccer;basketball;swimming;beachvolleyball;running;skateboard",
         "id": "way/583380205"
       },
@@ -108,12 +111,16 @@
               -21.1944112
             ],
             [
-              -41.9088213,
-              -21.1942984
+              -41.9090638,
+              -21.1942864
             ],
             [
-              -41.9088893,
-              -21.1957543
+              -41.9091106,
+              -21.1944952
+            ],
+            [
+              -41.9091554,
+              -21.1957523
             ],
             [
               -41.9061071,
@@ -169,12 +176,11 @@
       "type": "Feature",
       "id": "way/583847474",
       "properties": {
-        "timestamp": "2018-04-27T04:00:08Z",
-        "version": 1,
-        "changeset": 58463102,
+        "timestamp": "2024-04-28T14:05:14Z",
+        "version": 2,
+        "changeset": 150620286,
         "leisure": "pitch",
         "lit": "yes",
-        "name": "AABB",
         "sport": "soccer",
         "surface": "wood",
         "id": "way/583847474"
@@ -184,24 +190,24 @@
         "coordinates": [
           [
             [
-              -41.8938161,
-              -21.2020898
+              -41.8938084,
+              -21.2021802
             ],
             [
-              -41.8937236,
-              -21.202336
+              -41.8937159,
+              -21.2024264
             ],
             [
-              -41.8933411,
-              -21.2022111
+              -41.8933334,
+              -21.2023015
             ],
             [
-              -41.8934335,
-              -21.2019649
+              -41.8934258,
+              -21.2020553
             ],
             [
-              -41.8938161,
-              -21.2020898
+              -41.8938084,
+              -21.2021802
             ]
           ]
         ]
@@ -609,24 +615,24 @@
         "coordinates": [
           [
             [
-              -41.8948184,
-              -21.2022478
+              -41.8947801,
+              -21.2023263
             ],
             [
-              -41.8947197,
-              -21.2025797
+              -41.8946814,
+              -21.2026582
             ],
             [
-              -41.8941969,
-              -21.2024445
+              -41.8941586,
+              -21.202523
             ],
             [
-              -41.8942956,
-              -21.2021125
+              -41.8942573,
+              -21.202191
             ],
             [
-              -41.8948184,
-              -21.2022478
+              -41.8947801,
+              -21.2023263
             ]
           ]
         ]
@@ -707,6 +713,114 @@
               -21.2949172
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1277834688",
+      "properties": {
+        "timestamp": "2024-04-28T14:05:14Z",
+        "version": 1,
+        "changeset": 150620286,
+        "addr:city": "Itaperuna",
+        "brand": "AABB",
+        "brand:wikidata": "Q9633503",
+        "leisure": "sports_centre",
+        "name": "AABB",
+        "name:en": "Banco do Brasil Athletic Association",
+        "name:pt": "Associação Atlética Banco do Brasil",
+        "short_name": "AABB",
+        "sport": "multi",
+        "id": "way/1277834688"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.8952863,
+              -21.2022754
+            ],
+            [
+              -41.8952684,
+              -21.2024491
+            ],
+            [
+              -41.8950362,
+              -21.2026156
+            ],
+            [
+              -41.8947224,
+              -21.2027822
+            ],
+            [
+              -41.8943166,
+              -21.2028797
+            ],
+            [
+              -41.8939492,
+              -21.2030891
+            ],
+            [
+              -41.893079,
+              -21.2027988
+            ],
+            [
+              -41.8930663,
+              -21.2024515
+            ],
+            [
+              -41.8930152,
+              -21.2021541
+            ],
+            [
+              -41.893472,
+              -21.2018139
+            ],
+            [
+              -41.8938675,
+              -21.2015807
+            ],
+            [
+              -41.8944315,
+              -21.2013476
+            ],
+            [
+              -41.8949061,
+              -21.2012263
+            ],
+            [
+              -41.8952863,
+              -21.2022754
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11862015178",
+      "properties": {
+        "timestamp": "2024-04-28T11:03:11Z",
+        "version": 1,
+        "changeset": 150613090,
+        "addr:city": "Itaperuna",
+        "addr:postcode": "28300-000",
+        "addr:street": "Avenida Luiz Eugênio Monteiro de Barros",
+        "addr:suburb": "Cidade Nova",
+        "leisure": "sports_centre",
+        "name": "Itapuã Clube",
+        "operator": "Itapuã Clube Campo Esportes e Náutica",
+        "operator:type": "private",
+        "sport": "multi",
+        "id": "node/11862015178"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.9040897,
+          -21.2060895
         ]
       }
     }

@@ -875,9 +875,9 @@
       "type": "Feature",
       "id": "way/464341632",
       "properties": {
-        "timestamp": "2021-09-26T22:59:27Z",
-        "version": 5,
-        "changeset": 111742842,
+        "timestamp": "2024-04-29T15:18:11Z",
+        "version": 6,
+        "changeset": 150668578,
         "addr:housenumber": "1040",
         "addr:street": "Rua Lauro Linhares",
         "amenity": "pharmacy",
@@ -886,6 +886,7 @@
         "brand:wikipedia": "pt:RaiaDrogasil",
         "building": "retail",
         "dispensing": "yes",
+        "drive_through": "no",
         "healthcare": "pharmacy",
         "name": "Droga Raia",
         "phone": "+55 48 3024-0576",
@@ -896,24 +897,24 @@
         "coordinates": [
           [
             [
-              -48.5235295,
-              -27.5885312
+              -48.5235784,
+              -27.5884267
             ],
             [
-              -48.5233759,
-              -27.5884171
+              -48.5234794,
+              -27.5883432
             ],
             [
-              -48.5235368,
-              -27.5882679
+              -48.5235742,
+              -27.588301
             ],
             [
-              -48.5236716,
-              -27.5883725
+              -48.5236385,
+              -27.5883687
             ],
             [
-              -48.5235295,
-              -27.5885312
+              -48.5235784,
+              -27.5884267
             ]
           ]
         ]
@@ -2469,11 +2470,23 @@
       "type": "Feature",
       "id": "node/3603175575",
       "properties": {
-        "timestamp": "2021-07-28T13:30:11Z",
-        "version": 2,
-        "changeset": 108761799,
+        "timestamp": "2024-04-29T20:09:16Z",
+        "version": 3,
+        "changeset": 150679952,
+        "addr:housenumber": "5288",
+        "addr:postcode": "88025-202",
+        "addr:street": "Avenida Governador Irineu Bornhausen",
+        "addr:suburb": "Agronômica",
         "amenity": "pharmacy",
+        "branch": "Beira Mar",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
         "name": "Farmácia Angeloni",
+        "opening_hours": "Mo-Su, PH 08:00-23:00; Dec 25 off; Jan 01 off",
+        "operator": "Angeloni",
+        "phone": "+55 48 3215 6100",
+        "source": "https://www.angeloni.com.br/lojas/index",
         "id": "node/3603175575"
       },
       "geometry": {

@@ -981,6 +981,51 @@
     },
     {
       "type": "Feature",
+      "id": "way/1278389548",
+      "properties": {
+        "timestamp": "2024-04-30T05:08:48Z",
+        "version": 1,
+        "changeset": 150688791,
+        "addr:city": "João Pessoa",
+        "addr:street": "Rua Melvin Jones",
+        "addr:suburb": "Mandacaru",
+        "amenity": "college",
+        "name": "Escola Cidadã Integral Técnica (ECIT) Pedro Anísio",
+        "not:operator:wikidata": "Q96476089",
+        "operator": "Governo do Estado da Paraíba",
+        "operator:type": "government",
+        "id": "way/1278389548"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -34.8584478,
+              -7.1054159
+            ],
+            [
+              -34.8589223,
+              -7.1055015
+            ],
+            [
+              -34.8587313,
+              -7.106113
+            ],
+            [
+              -34.8582753,
+              -7.1060274
+            ],
+            [
+              -34.8584478,
+              -7.1054159
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/7278499326",
       "properties": {
         "timestamp": "2022-07-28T09:44:31Z",
@@ -1030,24 +1075,6 @@
         "coordinates": [
           -34.8644889,
           -7.1021588
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/9964842854",
-      "properties": {
-        "timestamp": "2022-08-19T21:56:38Z",
-        "version": 1,
-        "changeset": 125127969,
-        "amenity": "college",
-        "id": "node/9964842854"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -34.8583484,
-          -7.1058885
         ]
       }
     }

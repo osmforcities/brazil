@@ -3,50 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": "way/583791095",
-      "properties": {
-        "timestamp": "2023-01-23T19:41:52Z",
-        "version": 3,
-        "changeset": 131622536,
-        "alt_name": "Centro de Referência Especializado de Assistência Social",
-        "amenity": "social_facility",
-        "building": "yes",
-        "name": "CREAS Itaperuna",
-        "social_facility": "outreach",
-        "social_facility:for": "underprivileged;abused;victim",
-        "wheelchair": "yes",
-        "id": "way/583791095"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -41.8866923,
-              -21.2094751
-            ],
-            [
-              -41.8865663,
-              -21.2096319
-            ],
-            [
-              -41.8864594,
-              -21.2095572
-            ],
-            [
-              -41.8865854,
-              -21.2094004
-            ],
-            [
-              -41.8866923,
-              -21.2094751
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/583791098",
       "properties": {
         "timestamp": "2018-04-26T20:02:54Z",
@@ -110,6 +66,29 @@
         "coordinates": [
           -41.8878033,
           -21.2011361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11868593820",
+      "properties": {
+        "timestamp": "2024-04-30T09:49:36Z",
+        "version": 1,
+        "changeset": 150698484,
+        "alt_name": "Centro de Referência Especializado de Assistência Social",
+        "amenity": "social_facility",
+        "name": "CREAS Itaperuna",
+        "social_facility": "outreach",
+        "social_facility:for": "underprivileged;abused;victim",
+        "wheelchair": "yes",
+        "id": "node/11868593820"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.8864106,
+          -21.2095762
         ]
       }
     }

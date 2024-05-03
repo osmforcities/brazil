@@ -2364,6 +2364,98 @@
     },
     {
       "type": "Feature",
+      "id": "way/1278647080",
+      "properties": {
+        "timestamp": "2024-05-01T00:05:41Z",
+        "version": 1,
+        "changeset": 150730659,
+        "addr:city": "Rio de Janeiro",
+        "addr:housenumber": "2545",
+        "addr:postcode": "22750005",
+        "addr:street": "Estrada do Itanhangá",
+        "addr:suburb": "Itanhangá",
+        "amenity": "kindergarten",
+        "name": "Centro Educacional Muzema",
+        "preschool": "no",
+        "id": "way/1278647080"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.3214724,
+              -22.9912013
+            ],
+            [
+              -43.3214665,
+              -22.9913413
+            ],
+            [
+              -43.321375,
+              -22.9913388
+            ],
+            [
+              -43.3213806,
+              -22.9911986
+            ],
+            [
+              -43.3214724,
+              -22.9912013
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1278647085",
+      "properties": {
+        "timestamp": "2024-05-01T00:05:41Z",
+        "version": 1,
+        "changeset": 150730659,
+        "addr:city": "Rio de Janeiro",
+        "addr:housenumber": "405",
+        "addr:postcode": "22753083",
+        "addr:street": "Estrada de Jacarepaguá",
+        "addr:suburb": "Itanhangá",
+        "amenity": "kindergarten",
+        "name": "Espaço de desenvolvimento infantil Matilde Rosa Lopes de Araujo",
+        "operator": "Secretaria de educação do município do Rio de Janeiro",
+        "operator:type": "public/government",
+        "preschool": "yes",
+        "id": "way/1278647085"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.3217932,
+              -22.9877397
+            ],
+            [
+              -43.3217758,
+              -22.9878562
+            ],
+            [
+              -43.3216562,
+              -22.9878431
+            ],
+            [
+              -43.3216696,
+              -22.9877254
+            ],
+            [
+              -43.3217932,
+              -22.9877397
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/415826502",
       "properties": {
         "timestamp": "2009-07-21T23:48:12Z",
@@ -5579,6 +5671,30 @@
         "coordinates": [
           -43.2451529,
           -22.8775923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11870291970",
+      "properties": {
+        "timestamp": "2024-05-01T01:38:43Z",
+        "version": 1,
+        "changeset": 150731611,
+        "addr:city": "Rio de Janeiro",
+        "addr:housenumber": "2545",
+        "addr:postcode": "22750005",
+        "addr:street": "Estrada do Itanhangá",
+        "addr:suburb": "Itanhangá",
+        "amenity": "kindergarten",
+        "name": "Centro Educacional Muzema",
+        "id": "node/11870291970"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3215541,
+          -22.9910595
         ]
       }
     }

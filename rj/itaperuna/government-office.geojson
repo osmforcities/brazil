@@ -146,6 +146,56 @@
     },
     {
       "type": "Feature",
+      "id": "way/804723584",
+      "properties": {
+        "timestamp": "2024-05-02T14:07:33Z",
+        "version": 2,
+        "changeset": 150796130,
+        "addr:city": "Itaperuna",
+        "addr:housenumber": "92",
+        "addr:postcode": "28300-000",
+        "addr:street": "Avenida Senador Francisco Sá Tinoco",
+        "addr:suburb": "Centro",
+        "building": "house",
+        "building:levels": "4",
+        "government": "social_security",
+        "name": "Agência da Previdência Social em Itaperuna",
+        "office": "government",
+        "operator": "Instituto Nacional do Seguro Social",
+        "operator:short": "INSS",
+        "operator:wikidata": "Q10302614",
+        "id": "way/804723584"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.8875425,
+              -21.2091522
+            ],
+            [
+              -41.8878216,
+              -21.2093885
+            ],
+            [
+              -41.8877508,
+              -21.2094446
+            ],
+            [
+              -41.8874726,
+              -21.2092289
+            ],
+            [
+              -41.8875425,
+              -21.2091522
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/11862015248",
       "properties": {
         "timestamp": "2024-05-01T13:15:38Z",
@@ -193,6 +243,33 @@
         "coordinates": [
           -41.8905202,
           -21.2052681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11874220635",
+      "properties": {
+        "timestamp": "2024-05-02T14:07:33Z",
+        "version": 1,
+        "changeset": 150796130,
+        "addr:city": "Itaperuna",
+        "addr:housenumber": "470",
+        "addr:postcode": "28300-000",
+        "addr:street": "Rua Alcides Augusto Magalhães",
+        "addr:suburb": "Aeroporto",
+        "email": "defesacivil@itaperuna.rj.gov.br",
+        "government": "yes",
+        "name": "Defesa Civil em Itaperuna",
+        "office": "government",
+        "phone": "+55 22 3824 6334",
+        "id": "node/11874220635"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.8764687,
+          -21.2162933
         ]
       }
     }

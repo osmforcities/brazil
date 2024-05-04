@@ -1259,6 +1259,102 @@
     },
     {
       "type": "Feature",
+      "id": "way/1278944145",
+      "properties": {
+        "timestamp": "2024-05-02T01:14:54Z",
+        "version": 2,
+        "changeset": 150773916,
+        "addr:housenumber": "77",
+        "addr:postcode": "57025-340",
+        "addr:street": "Rua Pedro Paulino",
+        "addr:suburb": "Poço",
+        "amenity": "college",
+        "name": "Centro de Educação Profissional Carlos Milito",
+        "opening_hours": "Mo-Fr 08:00-20:30; Sa 08:00-11:30; PH off",
+        "operator": "Serviço Nacional do Comércio",
+        "operator:type": "private_non_profit",
+        "phone": "+55 82 2122 7858",
+        "short_name": "Unidade Poço",
+        "website": "https://al.senac.br/unidades",
+        "id": "way/1278944145"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -35.7278127,
+              -9.6649717
+            ],
+            [
+              -35.728162,
+              -9.6651275
+            ],
+            [
+              -35.7280326,
+              -9.6655172
+            ],
+            [
+              -35.7277293,
+              -9.6653968
+            ],
+            [
+              -35.7278127,
+              -9.6649717
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1278944793",
+      "properties": {
+        "timestamp": "2024-05-02T01:14:54Z",
+        "version": 1,
+        "changeset": 150773916,
+        "addr:housenumber": "137",
+        "addr:street": "Rua Pedro Paulino",
+        "addr:suburb": "Poço",
+        "amenity": "college",
+        "name": "Centro de Gastronomia",
+        "opening_hours": "Mo-Fr 08:00-20:00; PH off",
+        "operator": "Serviço Nacional do Comércio",
+        "operator:type": "private_non_profit",
+        "phone": "+55 82 2122 7836",
+        "website": "https://al.senac.br/unidades",
+        "id": "way/1278944793"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -35.7280225,
+              -9.6646132
+            ],
+            [
+              -35.7282468,
+              -9.6647039
+            ],
+            [
+              -35.7282065,
+              -9.6648059
+            ],
+            [
+              -35.7279694,
+              -9.6647124
+            ],
+            [
+              -35.7280225,
+              -9.6646132
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/2707995635",
       "properties": {
         "timestamp": "2014-03-09T02:14:13Z",
@@ -1293,46 +1389,6 @@
         "coordinates": [
           -35.7443069,
           -9.5609947
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/5010270225",
-      "properties": {
-        "timestamp": "2017-08-02T22:01:53Z",
-        "version": 1,
-        "changeset": 50792211,
-        "amenity": "college",
-        "name": "Senac",
-        "name:pt": "Senac",
-        "id": "node/5010270225"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -35.7278783,
-          -9.6652387
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/5010299821",
-      "properties": {
-        "timestamp": "2017-08-02T22:01:52Z",
-        "version": 1,
-        "changeset": 50792211,
-        "amenity": "college",
-        "name": "Senac",
-        "name:pt": "Senac",
-        "id": "node/5010299821"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -35.7275863,
-          -9.6646983
         ]
       }
     },

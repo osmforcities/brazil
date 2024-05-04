@@ -789,6 +789,88 @@
     },
     {
       "type": "Feature",
+      "id": "way/1279352808",
+      "properties": {
+        "timestamp": "2024-05-03T13:54:12Z",
+        "version": 1,
+        "changeset": 150839182,
+        "leisure": "pitch",
+        "lit": "no",
+        "name": "Campinho Santaella",
+        "sport": "soccer",
+        "surface": "grass",
+        "id": "way/1279352808"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.4518833,
+              -20.9478037
+            ],
+            [
+              -48.4527178,
+              -20.9483003
+            ],
+            [
+              -48.4523779,
+              -20.9487985
+            ],
+            [
+              -48.4515434,
+              -20.9483019
+            ],
+            [
+              -48.4518833,
+              -20.9478037
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1279352809",
+      "properties": {
+        "timestamp": "2024-05-03T13:54:12Z",
+        "version": 1,
+        "changeset": 150839182,
+        "leisure": "pitch",
+        "sport": "multi",
+        "surface": "concrete",
+        "id": "way/1279352809"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.4530615,
+              -20.948503
+            ],
+            [
+              -48.452965,
+              -20.948647
+            ],
+            [
+              -48.4527283,
+              -20.9485085
+            ],
+            [
+              -48.4528248,
+              -20.9483646
+            ],
+            [
+              -48.4530615,
+              -20.948503
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/5972445304",
       "properties": {
         "timestamp": "2018-10-10T15:04:14Z",
@@ -810,26 +892,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/5972473514",
-      "properties": {
-        "timestamp": "2020-10-13T21:53:44Z",
-        "version": 2,
-        "changeset": 92439864,
-        "leisure": "pitch",
-        "sport": "multi",
-        "surface": "concrete",
-        "id": "node/5972473514"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.452817,
-          -20.9485477
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/5972473515",
       "properties": {
         "timestamp": "2020-10-13T21:53:44Z",
@@ -846,28 +908,6 @@
         "coordinates": [
           -48.4527312,
           -20.9479265
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/5972473516",
-      "properties": {
-        "timestamp": "2018-10-10T15:17:52Z",
-        "version": 1,
-        "changeset": 63384518,
-        "leisure": "pitch",
-        "lit": "no",
-        "name": "Campinho Santaella",
-        "sport": "soccer",
-        "surface": "grass",
-        "id": "node/5972473516"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.4520298,
-          -20.948295
         ]
       }
     }

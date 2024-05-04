@@ -3,6 +3,49 @@
   "features": [
     {
       "type": "Feature",
+      "id": "way/1279381289",
+      "properties": {
+        "timestamp": "2024-05-03T16:07:21Z",
+        "version": 1,
+        "changeset": 150845359,
+        "addr:street": "Rodovia Santos Dumont",
+        "brand": "Ibis",
+        "brand:wikidata": "Q920166",
+        "building": "yes",
+        "name": "Ibis",
+        "tourism": "hotel",
+        "id": "way/1279381289"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.3802294,
+              -21.1460986
+            ],
+            [
+              -42.3803084,
+              -21.1461638
+            ],
+            [
+              -42.3800713,
+              -21.1463763
+            ],
+            [
+              -42.3799893,
+              -21.146297
+            ],
+            [
+              -42.3802294,
+              -21.1460986
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/8346949047",
       "properties": {
         "timestamp": "2021-01-21T21:50:06Z",
@@ -16,28 +59,6 @@
         "coordinates": [
           -42.3825673,
           -21.1256469
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/8347276469",
-      "properties": {
-        "timestamp": "2021-01-22T01:18:41Z",
-        "version": 1,
-        "changeset": 97933622,
-        "brand": "Ibis",
-        "brand:wikidata": "Q920166",
-        "brand:wikipedia": "en:Ibis (hotel)",
-        "name": "Ibis",
-        "tourism": "hotel",
-        "id": "node/8347276469"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -42.3801846,
-          -21.1462017
         ]
       }
     },

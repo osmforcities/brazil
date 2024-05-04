@@ -169,14 +169,23 @@
       "type": "Feature",
       "id": "way/52697742",
       "properties": {
-        "timestamp": "2020-07-06T07:58:14Z",
-        "version": 4,
-        "changeset": 87585450,
+        "timestamp": "2024-05-03T02:14:45Z",
+        "version": 5,
+        "changeset": 150816820,
         "addr:housenumber": "253",
+        "addr:postcode": "57050-730",
         "addr:street": "Rua Hugo Corrêa Paes",
+        "addr:suburb": "Farol",
         "amenity": "hospital",
+        "email": "sac@arthurramos.com.br",
         "healthcare": "hospital",
-        "name": "Hospital Arthur Ramos",
+        "healthcare:speciality": "general",
+        "name": "Hospital Memorial Arthur Ramos",
+        "old_name": "Hospital do SESI",
+        "operator": "Cooperativa de Serviços de Médicos e Hospitalares de Maceió",
+        "operator:type": "private",
+        "phone": "+55 82 2123 7000",
+        "website": "https://www.rededorsaoluiz.com.br/hospital/arthur-ramos",
         "id": "way/52697742"
       },
       "geometry": {
@@ -188,16 +197,16 @@
               -9.6213253
             ],
             [
-              -35.7364941,
-              -9.6208183
+              -35.7365311,
+              -9.6208327
             ],
             [
-              -35.7366013,
-              -9.6206407
+              -35.736622,
+              -9.6206451
             ],
             [
-              -35.7365456,
-              -9.6206027
+              -35.7365579,
+              -9.620585
             ],
             [
               -35.736823,
@@ -1331,12 +1340,17 @@
       "type": "Feature",
       "id": "way/493944181",
       "properties": {
-        "timestamp": "2021-02-07T15:40:47Z",
-        "version": 3,
-        "changeset": 98854659,
+        "timestamp": "2024-05-03T02:14:45Z",
+        "version": 4,
+        "changeset": 150816820,
+        "addr:street": "Avenida Aryosvaldo Pereira Cintra",
         "amenity": "hospital",
+        "email": "contato@hc.maceio.al.gov.br",
         "healthcare": "hospital",
-        "name": "Hospital do Coração",
+        "name": "Hospital da Cidade",
+        "old_name": "Hospital do Coração",
+        "operator": "Secretaria Municipal de Saúde",
+        "operator:type": "government",
         "id": "way/493944181"
       },
       "geometry": {
@@ -1344,12 +1358,20 @@
         "coordinates": [
           [
             [
-              -35.737709,
-              -9.6203029
+              -35.7377547,
+              -9.6202028
+            ],
+            [
+              -35.7377199,
+              -9.6202634
             ],
             [
               -35.7376738,
               -9.6202814
+            ],
+            [
+              -35.7373313,
+              -9.6201078
             ],
             [
               -35.7373124,
@@ -1360,52 +1382,64 @@
               -9.6200916
             ],
             [
-              -35.7373533,
-              -9.6198999
+              -35.7373964,
+              -9.6198774
             ],
             [
-              -35.7374525,
-              -9.6199297
+              -35.7374361,
+              -9.6198901
             ],
             [
-              -35.7375544,
-              -9.6199687
+              -35.7374606,
+              -9.6198479
             ],
             [
-              -35.7375662,
-              -9.6199425
+              -35.7375324,
+              -9.6198884
             ],
             [
-              -35.7376584,
-              -9.6199928
+              -35.737543,
+              -9.6199137
             ],
             [
-              -35.7376409,
-              -9.6200143
+              -35.7375611,
+              -9.6198875
             ],
             [
-              -35.7377476,
-              -9.6200797
+              -35.7376323,
+              -9.6199194
             ],
             [
-              -35.7377261,
-              -9.6201286
+              -35.7376567,
+              -9.6199303
             ],
             [
-              -35.7377703,
-              -9.6201511
+              -35.7377891,
+              -9.6199966
             ],
             [
-              -35.737764,
-              -9.6201657
+              -35.7378377,
+              -9.6200297
             ],
             [
-              -35.737772,
-              -9.62017
+              -35.7378111,
+              -9.6200911
             ],
             [
-              -35.737709,
-              -9.6203029
+              -35.7378528,
+              -9.6201061
+            ],
+            [
+              -35.737824,
+              -9.6201738
+            ],
+            [
+              -35.737797,
+              -9.6202208
+            ],
+            [
+              -35.7377547,
+              -9.6202028
             ]
           ]
         ]
@@ -1513,8 +1547,8 @@
               -9.6200916
             ],
             [
-              -35.7373533,
-              -9.6198999
+              -35.7373964,
+              -9.6198774
             ],
             [
               -35.7372889,
@@ -1878,12 +1912,17 @@
       "type": "Feature",
       "id": "way/1001489015",
       "properties": {
-        "timestamp": "2021-11-11T15:53:56Z",
-        "version": 1,
-        "changeset": 113658420,
+        "timestamp": "2024-05-03T00:03:08Z",
+        "version": 2,
+        "changeset": 150815236,
+        "addr:housenumber": "112",
+        "addr:street": "Rua Doutor Vicente de Paula Costa",
         "amenity": "hospital",
+        "contact:facebook": "https://www.facebook.com/people/Hospital-Alvorada-Macei%C3%B3/100076083751204/",
+        "emergency": "yes",
         "healthcare": "hospital",
-        "name": "Hospital Nova Alvorada",
+        "name": "Hospital Alvorada",
+        "phone": "+55 82 3432 8943",
         "id": "way/1001489015"
       },
       "geometry": {
@@ -1891,24 +1930,32 @@
         "coordinates": [
           [
             [
-              -35.7305989,
-              -9.6249592
+              -35.7306119,
+              -9.6249191
             ],
             [
-              -35.7303293,
-              -9.6248244
+              -35.7304156,
+              -9.6248421
             ],
             [
-              -35.7305023,
-              -9.6244237
+              -35.7304926,
+              -9.6246785
             ],
             [
-              -35.7307934,
-              -9.6245388
+              -35.730472,
+              -9.624669
             ],
             [
-              -35.7305989,
-              -9.6249592
+              -35.7305609,
+              -9.6244381
+            ],
+            [
+              -35.7307869,
+              -9.624526
+            ],
+            [
+              -35.7306119,
+              -9.6249191
             ]
           ]
         ]
@@ -2307,6 +2354,86 @@
             [
               -35.7278696,
               -9.6123102
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1279226795",
+      "properties": {
+        "timestamp": "2024-05-03T02:14:45Z",
+        "version": 1,
+        "changeset": 150816820,
+        "addr:street": "Avenida Aryosvaldo Pereira Cintra",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hospital da Cidade",
+        "old_name": "Centro Médico Hospital do Coração",
+        "operator": "Secretaria Municipal de Saúde",
+        "operator:type": "government",
+        "id": "way/1279226795"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -35.738067,
+              -9.6193719
+            ],
+            [
+              -35.7382567,
+              -9.6195092
+            ],
+            [
+              -35.7382713,
+              -9.6195013
+            ],
+            [
+              -35.7383055,
+              -9.6195182
+            ],
+            [
+              -35.7382662,
+              -9.6195995
+            ],
+            [
+              -35.7382281,
+              -9.6196271
+            ],
+            [
+              -35.7381545,
+              -9.6197109
+            ],
+            [
+              -35.7380365,
+              -9.6196183
+            ],
+            [
+              -35.7380264,
+              -9.6196033
+            ],
+            [
+              -35.7379706,
+              -9.6195307
+            ],
+            [
+              -35.737961,
+              -9.6194757
+            ],
+            [
+              -35.7379668,
+              -9.6194232
+            ],
+            [
+              -35.7380086,
+              -9.6193293
+            ],
+            [
+              -35.738067,
+              -9.6193719
             ]
           ]
         ]

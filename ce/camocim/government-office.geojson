@@ -45,6 +45,67 @@
     },
     {
       "type": "Feature",
+      "id": "way/917652368",
+      "properties": {
+        "timestamp": "2024-05-03T18:11:47Z",
+        "version": 5,
+        "changeset": 150850782,
+        "addr:city": "Camocim",
+        "addr:postcode": "62400000",
+        "addr:street": "Rua da Independência",
+        "addr:suburb": "Centro",
+        "building": "public",
+        "building:levels": "1",
+        "ele": "1",
+        "government": "social_security",
+        "name": "Instituto Nacional do Seguro Social",
+        "not:name": "Instituto_Nacional_da_Previdencia_Social;Instituto_Nacional_de_Seguridade_Social",
+        "office": "government",
+        "operator": "Instituto Nacional do Seguro Social",
+        "operator:short": "INSS",
+        "operator:wikidata": "Q10302614",
+        "polling_station": "yes",
+        "short_name": "INSS",
+        "id": "way/917652368"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.8458904,
+              -2.8987142
+            ],
+            [
+              -40.8457192,
+              -2.8991915
+            ],
+            [
+              -40.8454541,
+              -2.8990967
+            ],
+            [
+              -40.8456023,
+              -2.8986839
+            ],
+            [
+              -40.8456478,
+              -2.8986753
+            ],
+            [
+              -40.845663,
+              -2.8986329
+            ],
+            [
+              -40.8458904,
+              -2.8987142
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/918003212",
       "properties": {
         "timestamp": "2021-05-05T00:06:18Z",
@@ -287,6 +348,24 @@
         "coordinates": [
           -40.840856,
           -2.8986935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8695432862",
+      "properties": {
+        "timestamp": "2021-05-04T01:02:19Z",
+        "version": 1,
+        "changeset": 104084244,
+        "entrance": "yes",
+        "id": "node/8695432862"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.8456023,
+          -2.8986839
         ]
       }
     }

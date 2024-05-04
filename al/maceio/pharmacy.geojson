@@ -966,9 +966,9 @@
       "type": "Feature",
       "id": "way/647411819",
       "properties": {
-        "timestamp": "2019-12-29T02:44:15Z",
-        "version": 2,
-        "changeset": 78969886,
+        "timestamp": "2024-05-03T03:10:56Z",
+        "version": 3,
+        "changeset": 150817647,
         "amenity": "pharmacy",
         "brand": "Pague Menos",
         "brand:wikidata": "Q7124466",
@@ -985,32 +985,24 @@
         "coordinates": [
           [
             [
-              -35.7391011,
-              -9.6179507
+              -35.7391269,
+              -9.6179396
             ],
             [
-              -35.7390556,
-              -9.6180647
+              -35.7390927,
+              -9.618026
             ],
             [
-              -35.7387789,
-              -9.6179657
+              -35.738837,
+              -9.6179278
             ],
             [
-              -35.7388069,
-              -9.6178724
+              -35.7388712,
+              -9.6178413
             ],
             [
-              -35.7390124,
-              -9.6179415
-            ],
-            [
-              -35.73902,
-              -9.6179193
-            ],
-            [
-              -35.7391011,
-              -9.6179507
+              -35.7391269,
+              -9.6179396
             ]
           ]
         ]
@@ -1020,15 +1012,21 @@
       "type": "Feature",
       "id": "way/647411829",
       "properties": {
-        "timestamp": "2018-11-21T14:38:54Z",
-        "version": 1,
-        "changeset": 64744273,
+        "timestamp": "2024-05-03T03:00:26Z",
+        "version": 2,
+        "changeset": 150817486,
+        "addr:street": "Avenida Fernandes Lima",
+        "addr:suburb": "Farol",
         "amenity": "pharmacy",
         "building": "yes",
         "building:levels": "1",
+        "delivery": "yes",
         "dispensing": "yes",
+        "drive_through": "no",
         "healthcare": "pharmacy",
+        "mobile": "+55 82 99318 0796",
         "name": "Farmácia do Trabalhador",
+        "phone": "+55 82 3241 6100",
         "id": "way/647411829"
       },
       "geometry": {
@@ -1036,40 +1034,24 @@
         "coordinates": [
           [
             [
-              -35.7389888,
-              -9.6191103
+              -35.7389787,
+              -9.6192048
             ],
             [
-              -35.7389764,
-              -9.6192368
+              -35.7388749,
+              -9.6191944
             ],
             [
-              -35.738954,
-              -9.6192341
+              -35.7388859,
+              -9.6190878
             ],
             [
-              -35.7386198,
-              -9.6191949
+              -35.7389897,
+              -9.6190982
             ],
             [
-              -35.7386366,
-              -9.6190561
-            ],
-            [
-              -35.7389544,
-              -9.6191048
-            ],
-            [
-              -35.7389526,
-              -9.6190937
-            ],
-            [
-              -35.7389892,
-              -9.6190985
-            ],
-            [
-              -35.7389888,
-              -9.6191103
+              -35.7389787,
+              -9.6192048
             ]
           ]
         ]
@@ -1079,13 +1061,15 @@
       "type": "Feature",
       "id": "way/647411842",
       "properties": {
-        "timestamp": "2018-11-21T15:24:24Z",
-        "version": 2,
-        "changeset": 64745666,
+        "timestamp": "2024-05-03T03:10:56Z",
+        "version": 3,
+        "changeset": 150817647,
+        "addr:street": "Avenida Fernandes Lima",
         "amenity": "pharmacy",
         "building": "yes",
         "building:levels": "1",
         "dispensing": "yes",
+        "drive_through": "no",
         "healthcare": "pharmacy",
         "name": "Farmácia Permanente",
         "id": "way/647411842"
@@ -1095,40 +1079,32 @@
         "coordinates": [
           [
             [
-              -35.7391464,
-              -9.6173617
+              -35.7391485,
+              -9.617337
             ],
             [
-              -35.7391187,
-              -9.6174999
+              -35.7391229,
+              -9.6174566
             ],
             [
-              -35.7389123,
-              -9.6174301
+              -35.7390043,
+              -9.6174239
             ],
             [
-              -35.7389048,
-              -9.6174272
+              -35.7390133,
+              -9.6173976
             ],
             [
-              -35.7388231,
-              -9.6173955
+              -35.7389737,
+              -9.6173827
             ],
             [
-              -35.7387829,
-              -9.6173799
+              -35.7389947,
+              -9.6173061
             ],
             [
-              -35.7387921,
-              -9.6172934
-            ],
-            [
-              -35.7389863,
-              -9.6173308
-            ],
-            [
-              -35.7391464,
-              -9.6173617
+              -35.7391485,
+              -9.617337
             ]
           ]
         ]
@@ -1754,6 +1730,68 @@
     },
     {
       "type": "Feature",
+      "id": "way/1279230413",
+      "properties": {
+        "timestamp": "2024-05-03T03:00:26Z",
+        "version": 2,
+        "changeset": 150817486,
+        "addr:housenumber": "3204",
+        "addr:postcode": "57052-403",
+        "addr:street": "Avenida Fernandes Lima",
+        "addr:suburb": "Gruta de Lourdes",
+        "amenity": "pharmacy",
+        "branch": "Mc Gruta de Lourdes 2",
+        "brand": "Drogasil",
+        "brand:wikidata": "Q5308185",
+        "building": "yes",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Drogasil",
+        "opening_hours": "Mo-Sa 00:00-24:00; Su 07:00-23:00; PH off",
+        "phone": "+55 82 3027 7896",
+        "website": "https://www.drogasil.com.br/",
+        "wheelchair": "yes",
+        "id": "way/1279230413"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -35.738742,
+              -9.6205185
+            ],
+            [
+              -35.7387295,
+              -9.6206999
+            ],
+            [
+              -35.738648,
+              -9.6206834
+            ],
+            [
+              -35.7386521,
+              -9.6205968
+            ],
+            [
+              -35.738602,
+              -9.6205803
+            ],
+            [
+              -35.7386166,
+              -9.6204938
+            ],
+            [
+              -35.738742,
+              -9.6205185
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/645363672",
       "properties": {
         "timestamp": "2019-09-05T01:25:20Z",
@@ -2073,31 +2111,6 @@
         "coordinates": [
           -35.7411313,
           -9.6293458
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/8402275822",
-      "properties": {
-        "timestamp": "2021-02-07T15:40:47Z",
-        "version": 1,
-        "changeset": 98854659,
-        "amenity": "pharmacy",
-        "brand": "Drogasil",
-        "brand:wikidata": "Q5308185",
-        "brand:wikipedia": "pt:Drogasil",
-        "dispensing": "yes",
-        "healthcare": "pharmacy",
-        "name": "Drogasil",
-        "wheelchair": "yes",
-        "id": "node/8402275822"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -35.7388509,
-          -9.6204908
         ]
       }
     },

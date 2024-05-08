@@ -5,12 +5,19 @@
       "type": "Feature",
       "id": "way/577877848",
       "properties": {
-        "timestamp": "2022-07-28T21:12:28Z",
-        "version": 7,
-        "changeset": 124203824,
+        "timestamp": "2024-05-06T00:40:05Z",
+        "version": 9,
+        "changeset": 150943027,
+        "addr:housenumber": "555",
+        "addr:postcode": "36888-233",
+        "addr:street": "Avenida Cristiano Ferreira Varella",
+        "addr:suburb": "Universitário",
         "amenity": "hospital",
         "healthcare": "hospital",
-        "name": "Hospital do Câncer de Muriaé - Fundação Cristiano Varella",
+        "healthcare:speciality": "oncology;radiotherapy;quimioterapia;exames_de_análises_clínicas;transplante_de_medula_óssea",
+        "name": "Hospital do Câncer de Muriaé",
+        "operator": "Fundação Cristiano Varella",
+        "operator:type": "private_non_profit",
         "phone": "+55 32 3729 7000",
         "website": "https://www.fcv.org.br/site/principal/",
         "id": "way/577877848"
@@ -76,20 +83,24 @@
               -21.1133352
             ],
             [
-              -42.3838296,
-              -21.1129875
+              -42.3839112,
+              -21.1128809
             ],
             [
-              -42.3823785,
-              -21.1133339
+              -42.3824084,
+              -21.1131867
             ],
             [
-              -42.3819863,
-              -21.112528
+              -42.3819905,
+              -21.112526
             ],
             [
-              -42.3814165,
-              -21.1119878
+              -42.3815128,
+              -21.1123024
+            ],
+            [
+              -42.3813381,
+              -21.1120293
             ],
             [
               -42.3812097,
@@ -107,18 +118,22 @@
       "type": "Feature",
       "id": "way/1279448037",
       "properties": {
-        "timestamp": "2024-05-03T20:13:06Z",
-        "version": 1,
-        "changeset": 150854655,
+        "timestamp": "2024-05-06T22:30:39Z",
+        "version": 2,
+        "changeset": 150985167,
         "addr:housenumber": "409",
         "addr:street": "Rua Itagiba de Oliveira",
+        "addr:suburb": "Barra",
         "amenity": "hospital",
         "emergency": "yes",
         "healthcare": "hospital",
         "healthcare:speciality": "general",
-        "name": "Unidade de Pronto Atendimento",
+        "mobile": "+55 32 99939 2771",
+        "name": "Unidade de Pronto Atendimento Doutor Fernando Rodrigues Lauriano",
         "operator": "Secretaria Municipal da Saúde",
         "operator:type": "government",
+        "ref:CNES": "0039047",
+        "source": "CNES",
         "id": "way/1279448037"
       },
       "geometry": {

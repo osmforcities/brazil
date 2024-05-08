@@ -198,6 +198,51 @@
     },
     {
       "type": "Feature",
+      "id": "way/1280254945",
+      "properties": {
+        "timestamp": "2024-05-06T17:06:05Z",
+        "version": 1,
+        "changeset": 150975254,
+        "addr:city": "Loreto",
+        "addr:postcode": "65895-000",
+        "addr:street": "Rua Santa Maria",
+        "addr:suburb": "São João",
+        "amenity": "school",
+        "building": "yes",
+        "name": "Escola Infantil Senador Henrique De Laroque",
+        "source": "microsoft/BuildingFootprints",
+        "id": "way/1280254945"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -45.1358367,
+              -7.0944197
+            ],
+            [
+              -45.1359784,
+              -7.0943144
+            ],
+            [
+              -45.1360762,
+              -7.094444
+            ],
+            [
+              -45.1359345,
+              -7.0945493
+            ],
+            [
+              -45.1358367,
+              -7.0944197
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/9035479055",
       "properties": {
         "timestamp": "2021-08-25T15:48:39Z",
@@ -263,29 +308,6 @@
         "coordinates": [
           -45.1414637,
           -7.0837288
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/9051766259",
-      "properties": {
-        "timestamp": "2021-08-31T20:22:32Z",
-        "version": 1,
-        "changeset": 110531505,
-        "addr:city": "Loreto",
-        "addr:postcode": "65895-000",
-        "addr:street": "Rua Santa Maria",
-        "addr:suburb": "São João",
-        "amenity": "school",
-        "name": "Escola Infantil Senador Henrique De Laroque",
-        "id": "node/9051766259"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -45.1359518,
-          -7.0943996
         ]
       }
     },

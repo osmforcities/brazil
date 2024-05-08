@@ -3,53 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": "relation/14891588",
-      "properties": {
-        "timestamp": "2022-11-15T18:44:59Z",
-        "version": 1,
-        "changeset": 128954896,
-        "addr:city": "Cosmorama",
-        "addr:postcode": "15530-000",
-        "addr:street": "Avenida Rafael Sabadoto",
-        "addr:suburb": "Centro",
-        "amenity": "kindergarten",
-        "name": "Centro Educacional Edivaldo Antônio Papini III",
-        "operator": "Prefeitura Municipal de Cosmorama",
-        "operator:type": "government",
-        "preschool": "yes",
-        "type": "multipolygon",
-        "id": "relation/14891588"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -49.7760999,
-              -20.477913
-            ],
-            [
-              -49.7759926,
-              -20.4779712
-            ],
-            [
-              -49.7757637,
-              -20.4775774
-            ],
-            [
-              -49.7758725,
-              -20.4775219
-            ],
-            [
-              -49.7760999,
-              -20.477913
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "relation/14891608",
       "properties": {
         "timestamp": "2022-11-15T18:44:59Z",
@@ -94,143 +47,6 @@
             [
               -49.7732885,
               -20.4783084
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "relation/14911094",
-      "properties": {
-        "timestamp": "2022-11-20T17:07:02Z",
-        "version": 1,
-        "changeset": 129163574,
-        "addr:city": "Cosmorama",
-        "addr:postcode": "15530000",
-        "addr:street": "Rua Antônio Batista da Silveira",
-        "addr:suburb": "Vila Honório",
-        "amenity": "kindergarten",
-        "name": "Creche Municipal (Em Construção)",
-        "operator": "Prefeitura Municipal de Cosmorama",
-        "operator:type": "public",
-        "preschool": "yes",
-        "type": "multipolygon",
-        "id": "relation/14911094"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -49.781426,
-              -20.4745785
-            ],
-            [
-              -49.7815432,
-              -20.4747087
-            ],
-            [
-              -49.7816612,
-              -20.4748193
-            ],
-            [
-              -49.7817028,
-              -20.4748809
-            ],
-            [
-              -49.7817054,
-              -20.4749236
-            ],
-            [
-              -49.7816813,
-              -20.4749713
-            ],
-            [
-              -49.781657,
-              -20.4749882
-            ],
-            [
-              -49.7815767,
-              -20.4750442
-            ],
-            [
-              -49.781494,
-              -20.475087
-            ],
-            [
-              -49.78089,
-              -20.4753997
-            ],
-            [
-              -49.7806228,
-              -20.4749911
-            ],
-            [
-              -49.781426,
-              -20.4745785
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "relation/14911096",
-      "properties": {
-        "timestamp": "2022-11-20T17:07:02Z",
-        "version": 1,
-        "changeset": 129163574,
-        "addr:city": "Cosmorama",
-        "addr:postcode": "15530000",
-        "addr:street": "Avenida Domingos Baggio",
-        "addr:suburb": "Vila Honório",
-        "amenity": "kindergarten",
-        "name": "Centro Educacional Antônio Edivaldo Papini Unidade 2",
-        "operator": "Prefeitura Municipal de Cosmorama",
-        "operator:type": "government",
-        "type": "multipolygon",
-        "id": "relation/14911096"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -49.7806961,
-              -20.477064
-            ],
-            [
-              -49.7806506,
-              -20.4769849
-            ],
-            [
-              -49.7808989,
-              -20.4768589
-            ],
-            [
-              -49.7807034,
-              -20.4765207
-            ],
-            [
-              -49.7809535,
-              -20.476392
-            ],
-            [
-              -49.7811387,
-              -20.4766899
-            ],
-            [
-              -49.7810463,
-              -20.4767462
-            ],
-            [
-              -49.7810463,
-              -20.4768789
-            ],
-            [
-              -49.7806961,
-              -20.477064
             ]
           ]
         ]
@@ -285,6 +101,191 @@
     },
     {
       "type": "Feature",
+      "id": "way/1064731808",
+      "properties": {
+        "timestamp": "2024-05-06T20:34:34Z",
+        "version": 4,
+        "changeset": 150982360,
+        "addr:city": "Cosmorama",
+        "addr:postcode": "15530000",
+        "addr:street": "Avenida Domingos Baggio",
+        "addr:suburb": "Vila Honório",
+        "amenity": "kindergarten",
+        "name": "Centro Educacional Antônio Edivaldo Papini Unidade 2",
+        "operator": "Prefeitura Municipal de Cosmorama",
+        "operator:type": "government",
+        "id": "way/1064731808"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.7807273,
+              -20.4770475
+            ],
+            [
+              -49.780682,
+              -20.476969
+            ],
+            [
+              -49.7808989,
+              -20.4768589
+            ],
+            [
+              -49.7807273,
+              -20.476562
+            ],
+            [
+              -49.7809753,
+              -20.4764271
+            ],
+            [
+              -49.7811387,
+              -20.4766899
+            ],
+            [
+              -49.7810463,
+              -20.4767462
+            ],
+            [
+              -49.7810463,
+              -20.4768789
+            ],
+            [
+              -49.7807273,
+              -20.4770475
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1093582183",
+      "properties": {
+        "timestamp": "2024-05-06T00:30:48Z",
+        "version": 3,
+        "changeset": 150942906,
+        "addr:city": "Cosmorama",
+        "addr:postcode": "15530-000",
+        "addr:street": "Avenida Rafael Sabadoto",
+        "addr:suburb": "Centro",
+        "amenity": "kindergarten",
+        "name": "Centro Educacional Edivaldo Antônio Papini III",
+        "operator": "Prefeitura Municipal de Cosmorama",
+        "operator:type": "government",
+        "preschool": "yes",
+        "id": "way/1093582183"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.775968,
+              -20.4779288
+            ],
+            [
+              -49.7758627,
+              -20.4777477
+            ],
+            [
+              -49.7758222,
+              -20.477678
+            ],
+            [
+              -49.7757637,
+              -20.4775774
+            ],
+            [
+              -49.7758725,
+              -20.4775219
+            ],
+            [
+              -49.7760048,
+              -20.4777466
+            ],
+            [
+              -49.7760783,
+              -20.4778715
+            ],
+            [
+              -49.775968,
+              -20.4779288
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1280368444",
+      "properties": {
+        "timestamp": "2024-05-06T20:34:34Z",
+        "version": 1,
+        "changeset": 150982360,
+        "addr:city": "Cosmorama",
+        "addr:postcode": "15530000",
+        "addr:street": "Rua Antônio Batista da Silveira",
+        "addr:suburb": "Vila Honório",
+        "amenity": "kindergarten",
+        "name": "Creche Municipal (Em Construção)",
+        "operator": "Prefeitura Municipal de Cosmorama",
+        "operator:type": "public",
+        "preschool": "yes",
+        "id": "way/1280368444"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.7816505,
+              -20.474965
+            ],
+            [
+              -49.7809151,
+              -20.4753515
+            ],
+            [
+              -49.7808858,
+              -20.4753436
+            ],
+            [
+              -49.7806453,
+              -20.4749796
+            ],
+            [
+              -49.7813839,
+              -20.4746001
+            ],
+            [
+              -49.7816491,
+              -20.4748909
+            ],
+            [
+              -49.7816554,
+              -20.4749109
+            ],
+            [
+              -49.7816572,
+              -20.4749317
+            ],
+            [
+              -49.7816553,
+              -20.4749486
+            ],
+            [
+              -49.7816505,
+              -20.474965
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/814553866",
       "properties": {
         "timestamp": "2023-01-09T18:58:31Z",
@@ -309,42 +310,6 @@
           [
             -49.7729736,
             -20.4784674
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1064731808",
-      "properties": {
-        "timestamp": "2022-11-20T17:07:02Z",
-        "version": 3,
-        "changeset": 129163574,
-        "barrier": "wall",
-        "id": "way/1064731808"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -49.7806961,
-            -20.477064
-          ],
-          [
-            -49.7810463,
-            -20.4768789
-          ],
-          [
-            -49.7810463,
-            -20.4767462
-          ],
-          [
-            -49.7811387,
-            -20.4766899
-          ],
-          [
-            -49.7809535,
-            -20.476392
           ]
         ]
       }
@@ -377,294 +342,6 @@
           [
             -49.7729736,
             -20.4784674
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1093582183",
-      "properties": {
-        "timestamp": "2022-11-15T18:44:59Z",
-        "version": 2,
-        "changeset": 128954896,
-        "barrier": "wall",
-        "id": "way/1093582183"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -49.7760999,
-            -20.477913
-          ],
-          [
-            -49.7758725,
-            -20.4775219
-          ],
-          [
-            -49.7757637,
-            -20.4775774
-          ],
-          [
-            -49.7759926,
-            -20.4779712
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1113417521",
-      "properties": {
-        "timestamp": "2022-11-15T18:44:59Z",
-        "version": 1,
-        "changeset": 128954896,
-        "highway": "residential",
-        "name": "Avenida Rafael Sabadoto",
-        "surface": "asphalt",
-        "id": "way/1113417521"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -49.7759926,
-            -20.4779712
-          ],
-          [
-            -49.7760999,
-            -20.477913
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1113486280",
-      "properties": {
-        "timestamp": "2022-11-16T00:28:13Z",
-        "version": 1,
-        "changeset": 128964296,
-        "highway": "residential",
-        "name": "Avenida Rafael Sabadoto",
-        "surface": "asphalt",
-        "id": "way/1113486280"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -49.781657,
-            -20.4749882
-          ],
-          [
-            -49.7816813,
-            -20.4749713
-          ],
-          [
-            -49.7817054,
-            -20.4749236
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1113486323",
-      "properties": {
-        "timestamp": "2022-11-20T17:07:02Z",
-        "version": 2,
-        "changeset": 129163574,
-        "highway": "residential",
-        "name": "Rua Antônio Batista da Silveira",
-        "surface": "asphalt",
-        "id": "way/1113486323"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -49.7806228,
-            -20.4749911
-          ],
-          [
-            -49.78089,
-            -20.4753997
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1113486324",
-      "properties": {
-        "timestamp": "2022-11-16T00:28:13Z",
-        "version": 1,
-        "changeset": 128964296,
-        "highway": "residential",
-        "name": "Avenida Rafael Sabadoto",
-        "surface": "asphalt",
-        "id": "way/1113486324"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -49.781494,
-            -20.475087
-          ],
-          [
-            -49.7815767,
-            -20.4750442
-          ],
-          [
-            -49.781657,
-            -20.4749882
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1113486325",
-      "properties": {
-        "timestamp": "2022-11-20T17:07:02Z",
-        "version": 2,
-        "changeset": 129163574,
-        "highway": "residential",
-        "name": "Rua Boa Vista",
-        "surface": "asphalt",
-        "id": "way/1113486325"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -49.7817054,
-            -20.4749236
-          ],
-          [
-            -49.7817028,
-            -20.4748809
-          ],
-          [
-            -49.7816612,
-            -20.4748193
-          ],
-          [
-            -49.7815432,
-            -20.4747087
-          ],
-          [
-            -49.781426,
-            -20.4745785
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1115753930",
-      "properties": {
-        "timestamp": "2022-11-20T17:07:02Z",
-        "version": 1,
-        "changeset": 129163574,
-        "highway": "residential",
-        "name": "Avenida Rafael Sabadoto",
-        "surface": "asphalt",
-        "id": "way/1115753930"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -49.78089,
-            -20.4753997
-          ],
-          [
-            -49.781494,
-            -20.475087
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1115753935",
-      "properties": {
-        "timestamp": "2022-11-20T17:07:02Z",
-        "version": 1,
-        "changeset": 129163574,
-        "highway": "residential",
-        "name": "Rua Gumercindo Alves de Campos",
-        "surface": "asphalt",
-        "id": "way/1115753935"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -49.7806961,
-            -20.477064
-          ],
-          [
-            -49.7806506,
-            -20.4769849
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1115753937",
-      "properties": {
-        "timestamp": "2022-11-20T17:07:02Z",
-        "version": 1,
-        "changeset": 129163574,
-        "highway": "residential",
-        "name": "Avenida Domingos Baggio",
-        "surface": "asphalt",
-        "id": "way/1115753937"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -49.7809535,
-            -20.476392
-          ],
-          [
-            -49.7807034,
-            -20.4765207
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1115753939",
-      "properties": {
-        "timestamp": "2022-11-20T17:07:02Z",
-        "version": 1,
-        "changeset": 129163574,
-        "barrier": "wall",
-        "id": "way/1115753939"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -49.7807034,
-            -20.4765207
-          ],
-          [
-            -49.7808989,
-            -20.4768589
-          ],
-          [
-            -49.7806506,
-            -20.4769849
           ]
         ]
       }

@@ -3,71 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": "relation/14891591",
-      "properties": {
-        "timestamp": "2022-11-15T18:44:59Z",
-        "version": 1,
-        "changeset": 128954896,
-        "addr:city": "Cosmorama",
-        "addr:housenumber": "500",
-        "addr:postcode": "15530-000",
-        "addr:street": "Rua Jerônimo Hipólito da Silva",
-        "addr:suburb": "Centro",
-        "amenity": "clinic",
-        "building": "yes",
-        "healthcare": "clinic",
-        "healthcare:speciality": "general",
-        "name": "Unidade Básica de Saúde - Santo Antônio",
-        "opening_hours": "24/7",
-        "operator": "Prefeitura Municipal de Cosmorama",
-        "operator:type": "government",
-        "phone": "+55 (17) 3836-9210",
-        "type": "multipolygon",
-        "wheelchair": "yes",
-        "id": "relation/14891591"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -49.7753532,
-              -20.4783156
-            ],
-            [
-              -49.7755513,
-              -20.478209
-            ],
-            [
-              -49.7757533,
-              -20.4781
-            ],
-            [
-              -49.7757601,
-              -20.4781114
-            ],
-            [
-              -49.7758601,
-              -20.4782799
-            ],
-            [
-              -49.775941,
-              -20.4784163
-            ],
-            [
-              -49.7755401,
-              -20.4786273
-            ],
-            [
-              -49.7753532,
-              -20.4783156
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "relation/14908418",
       "properties": {
         "timestamp": "2022-11-19T19:09:51Z",
@@ -166,6 +101,116 @@
     },
     {
       "type": "Feature",
+      "id": "way/1113417530",
+      "properties": {
+        "timestamp": "2024-05-06T00:30:48Z",
+        "version": 2,
+        "changeset": 150942906,
+        "addr:city": "Cosmorama",
+        "addr:housenumber": "500",
+        "addr:postcode": "15530-000",
+        "addr:street": "Rua Jerônimo Hipólito da Silva",
+        "addr:suburb": "Centro",
+        "amenity": "clinic",
+        "building": "hospital",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Unidade Básica de Saúde - Santo Antônio",
+        "opening_hours": "24/7",
+        "operator": "Prefeitura Municipal de Cosmorama",
+        "operator:type": "government",
+        "phone": "+55 (17) 3836-9210",
+        "wheelchair": "yes",
+        "id": "way/1113417530"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.7753741,
+              -20.4783505
+            ],
+            [
+              -49.7756879,
+              -20.4781864
+            ],
+            [
+              -49.7757322,
+              -20.4781939
+            ],
+            [
+              -49.7758911,
+              -20.4784429
+            ],
+            [
+              -49.7755401,
+              -20.4786273
+            ],
+            [
+              -49.7753741,
+              -20.4783505
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1280052379",
+      "properties": {
+        "timestamp": "2024-05-06T00:30:48Z",
+        "version": 1,
+        "changeset": 150942906,
+        "addr:city": "Cosmorama",
+        "addr:housenumber": "500",
+        "addr:postcode": "15530-000",
+        "addr:street": "Avenida Domingos Baggio",
+        "addr:suburb": "Centro",
+        "amenity": "clinic",
+        "building": "hospital",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "opening_hours": "24/7",
+        "operator": "Prefeitura Municipal de Cosmorama",
+        "operator:type": "government",
+        "wheelchair": "yes",
+        "id": "way/1280052379"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.7752419,
+              -20.4790473
+            ],
+            [
+              -49.7755457,
+              -20.4788874
+            ],
+            [
+              -49.7757004,
+              -20.4791414
+            ],
+            [
+              -49.7754143,
+              -20.4792857
+            ],
+            [
+              -49.7753768,
+              -20.4792781
+            ],
+            [
+              -49.7752419,
+              -20.4790473
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1064731809",
       "properties": {
         "timestamp": "2022-11-19T19:09:51Z",
@@ -188,120 +233,6 @@
           [
             -49.7798596,
             -20.4769844
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1113417526",
-      "properties": {
-        "timestamp": "2022-11-15T18:44:59Z",
-        "version": 1,
-        "changeset": 128954896,
-        "highway": "residential",
-        "name": "Avenida Rafael Sabadoto",
-        "surface": "asphalt",
-        "id": "way/1113417526"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -49.7755513,
-            -20.478209
-          ],
-          [
-            -49.7757533,
-            -20.4781
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1113417528",
-      "properties": {
-        "timestamp": "2023-01-09T18:58:31Z",
-        "version": 5,
-        "changeset": 131071415,
-        "highway": "tertiary",
-        "name": "Rua Jerônimo Hipólito da Silva",
-        "surface": "asphalt",
-        "id": "way/1113417528"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -49.7757533,
-            -20.4781
-          ],
-          [
-            -49.7757601,
-            -20.4781114
-          ],
-          [
-            -49.7758601,
-            -20.4782799
-          ],
-          [
-            -49.775941,
-            -20.4784163
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1113417529",
-      "properties": {
-        "timestamp": "2022-11-15T18:44:59Z",
-        "version": 1,
-        "changeset": 128954896,
-        "highway": "residential",
-        "name": "Avenida Rafael Sabadoto",
-        "surface": "asphalt",
-        "id": "way/1113417529"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -49.7753532,
-            -20.4783156
-          ],
-          [
-            -49.7755513,
-            -20.478209
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1113417530",
-      "properties": {
-        "timestamp": "2022-11-15T18:44:59Z",
-        "version": 1,
-        "changeset": 128954896,
-        "barrier": "wall",
-        "id": "way/1113417530"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -49.7753532,
-            -20.4783156
-          ],
-          [
-            -49.7755401,
-            -20.4786273
-          ],
-          [
-            -49.775941,
-            -20.4784163
           ]
         ]
       }

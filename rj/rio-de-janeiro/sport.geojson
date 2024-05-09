@@ -99138,9 +99138,9 @@
       "type": "Feature",
       "id": "way/1171781429",
       "properties": {
-        "timestamp": "2023-05-11T21:18:27Z",
-        "version": 2,
-        "changeset": 135994352,
+        "timestamp": "2024-05-07T13:36:23Z",
+        "version": 3,
+        "changeset": 151011486,
         "addr:city": "Rio de Janeiro",
         "addr:street": "Avenida Arroio Fundo",
         "addr:suburb": "Jacarepaguá",
@@ -99182,12 +99182,16 @@
               -22.9557102
             ],
             [
+              -43.3647611,
+              -22.9569704
+            ],
+            [
               -43.364771,
               -22.9578392
             ],
             [
-              -43.3644856,
-              -22.9578419
+              -43.3644299,
+              -22.9578424
             ],
             [
               -43.364367,
@@ -115741,17 +115745,17 @@
       "type": "Feature",
       "id": "node/8962362904",
       "properties": {
-        "timestamp": "2023-05-11T21:17:09Z",
-        "version": 3,
-        "changeset": 135994314,
+        "timestamp": "2024-05-07T13:36:23Z",
+        "version": 4,
+        "changeset": 151011486,
         "barrier": "gate",
         "id": "node/8962362904"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -43.3644856,
-          -22.9578419
+          -43.3644299,
+          -22.9578424
         ]
       }
     },
@@ -117170,6 +117174,45 @@
         "coordinates": [
           -43.3160716,
           -22.8413054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11885264854",
+      "properties": {
+        "timestamp": "2024-05-07T01:43:59Z",
+        "version": 1,
+        "changeset": 150987802,
+        "blind": "limited",
+        "leisure": "fitness_station",
+        "sport": "fitness",
+        "wheelchair": "limited",
+        "id": "node/11885264854"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.4507749,
+          -23.0123217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11886660694",
+      "properties": {
+        "timestamp": "2024-05-07T13:36:23Z",
+        "version": 1,
+        "changeset": 151011486,
+        "barrier": "gate",
+        "id": "node/11886660694"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3647611,
+          -22.9569704
         ]
       }
     }

@@ -1790,110 +1790,6 @@
     },
     {
       "type": "Feature",
-      "id": "relation/7100617",
-      "properties": {
-        "timestamp": "2023-10-13T18:44:51Z",
-        "version": 2,
-        "changeset": 142535871,
-        "addr:housenumber": "630",
-        "addr:street": "Rua João Carvalho",
-        "addr:suburb": "Aldeota",
-        "alt_name": "Colégio Christus Central",
-        "amenity": "school",
-        "name": "Colégio Christus Silva Paulet",
-        "phone": "+55 85 3277-1515",
-        "type": "multipolygon",
-        "website": "https://www.christus.com.br/",
-        "id": "relation/7100617"
-      },
-      "geometry": {
-        "type": "MultiPolygon",
-        "coordinates": [
-          [
-            [
-              [
-                -38.5059473,
-                -3.738881
-              ],
-              [
-                -38.5060148,
-                -3.7388454
-              ],
-              [
-                -38.5059775,
-                -3.7387546
-              ],
-              [
-                -38.505706,
-                -3.7388452
-              ],
-              [
-                -38.5056192,
-                -3.7384208
-              ],
-              [
-                -38.5055809,
-                -3.7384336
-              ],
-              [
-                -38.5055481,
-                -3.738336
-              ],
-              [
-                -38.5064614,
-                -3.73803
-              ],
-              [
-                -38.5067498,
-                -3.7388871
-              ],
-              [
-                -38.5058316,
-                -3.7391947
-              ],
-              [
-                -38.5057436,
-                -3.7389604
-              ],
-              [
-                -38.5057921,
-                -3.7389325
-              ],
-              [
-                -38.5059473,
-                -3.738881
-              ]
-            ]
-          ],
-          [
-            [
-              [
-                -38.5074787,
-                -3.7377167
-              ],
-              [
-                -38.5077478,
-                -3.7385421
-              ],
-              [
-                -38.5068941,
-                -3.7388192
-              ],
-              [
-                -38.506625,
-                -3.7379938
-              ],
-              [
-                -38.5074787,
-                -3.7377167
-              ]
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "relation/7837323",
       "properties": {
         "timestamp": "2022-11-18T13:48:46Z",
@@ -7368,44 +7264,6 @@
             [
               -38.5179524,
               -3.7301484
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/482269138",
-      "properties": {
-        "timestamp": "2017-03-23T16:03:42Z",
-        "version": 1,
-        "changeset": 47100593,
-        "barrier": "wall",
-        "id": "way/482269138"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -38.5074787,
-              -3.7377167
-            ],
-            [
-              -38.5077478,
-              -3.7385421
-            ],
-            [
-              -38.5068941,
-              -3.7388192
-            ],
-            [
-              -38.506625,
-              -3.7379938
-            ],
-            [
-              -38.5074787,
-              -3.7377167
             ]
           ]
         ]
@@ -35975,94 +35833,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/482269139",
-      "properties": {
-        "timestamp": "2023-07-25T00:01:46Z",
-        "version": 2,
-        "changeset": 138962584,
-        "barrier": "fence",
-        "id": "way/482269139"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -38.5059473,
-            -3.738881
-          ],
-          [
-            -38.5060148,
-            -3.7388454
-          ],
-          [
-            -38.5059775,
-            -3.7387546
-          ],
-          [
-            -38.505706,
-            -3.7388452
-          ],
-          [
-            -38.5056192,
-            -3.7384208
-          ],
-          [
-            -38.5055809,
-            -3.7384336
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/482269140",
-      "properties": {
-        "timestamp": "2017-03-23T16:03:42Z",
-        "version": 1,
-        "changeset": 47100593,
-        "barrier": "wall",
-        "id": "way/482269140"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -38.5055809,
-            -3.7384336
-          ],
-          [
-            -38.5055481,
-            -3.738336
-          ],
-          [
-            -38.5064614,
-            -3.73803
-          ],
-          [
-            -38.5067498,
-            -3.7388871
-          ],
-          [
-            -38.5058316,
-            -3.7391947
-          ],
-          [
-            -38.5057436,
-            -3.7389604
-          ],
-          [
-            -38.5057921,
-            -3.7389325
-          ],
-          [
-            -38.5059473,
-            -3.738881
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/517081858",
       "properties": {
         "timestamp": "2017-08-20T18:46:13Z",
@@ -44141,6 +43911,33 @@
     },
     {
       "type": "Feature",
+      "id": "node/10148407393",
+      "properties": {
+        "timestamp": "2024-05-07T15:08:37Z",
+        "version": 2,
+        "changeset": 151015792,
+        "addr:city": "Fortaleza",
+        "addr:housenumber": "1655",
+        "addr:postcode": "60120-021",
+        "addr:street": "Rua Silva Paulet",
+        "addr:suburb": "Aldeota",
+        "amenity": "school",
+        "branch": "Silva Paulet",
+        "name": "Colégio Christus",
+        "phone": "+55 85 3266 1800",
+        "website": "https://www.christus.com.br/sedes/colegio-christus-silva-paulet/",
+        "id": "node/10148407393"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5066481,
+          -3.7385445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/10148408988",
       "properties": {
         "timestamp": "2024-04-24T02:42:09Z",
@@ -44427,6 +44224,33 @@
         "coordinates": [
           -38.6086405,
           -3.8207093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11886889018",
+      "properties": {
+        "timestamp": "2024-05-07T15:08:37Z",
+        "version": 1,
+        "changeset": 151015792,
+        "addr:city": "Fortaleza",
+        "addr:housenumber": "630",
+        "addr:postcode": "60140-140",
+        "addr:street": "Rua João Carvalho",
+        "addr:suburb": "Aldeota",
+        "amenity": "school",
+        "branch": "Barão de Studart",
+        "name": "Colégio Christus",
+        "phone": "+55 85 3266 1800",
+        "website": "https://www.christus.com.br/sedes/colegio-christus-barao-de-studart/",
+        "id": "node/11886889018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5074023,
+          -3.7378774
         ]
       }
     }

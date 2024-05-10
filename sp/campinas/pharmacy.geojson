@@ -1500,12 +1500,13 @@
       "type": "Feature",
       "id": "node/1799695179",
       "properties": {
-        "timestamp": "2021-02-20T23:20:44Z",
-        "version": 3,
-        "changeset": 99663646,
+        "timestamp": "2024-05-08T20:19:37Z",
+        "version": 4,
+        "changeset": 151074055,
         "amenity": "pharmacy",
         "healthcare": "pharmacy",
         "name": "Farmaxima",
+        "wheelchair": "yes",
         "id": "node/1799695179"
       },
       "geometry": {
@@ -1540,11 +1541,12 @@
       "type": "Feature",
       "id": "node/2354979136",
       "properties": {
-        "timestamp": "2021-02-20T23:20:44Z",
-        "version": 2,
-        "changeset": 99663646,
+        "timestamp": "2024-05-08T20:38:13Z",
+        "version": 3,
+        "changeset": 151074573,
         "amenity": "pharmacy",
         "healthcare": "pharmacy",
+        "wheelchair": "yes",
         "id": "node/2354979136"
       },
       "geometry": {
@@ -2998,6 +3000,31 @@
         "coordinates": [
           -47.0464543,
           -22.8560985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11888148569",
+      "properties": {
+        "timestamp": "2024-05-08T03:34:59Z",
+        "version": 1,
+        "changeset": 151035068,
+        "addr:housenumber": "884",
+        "addr:postcode": "13084-008",
+        "addr:street": "Avenida Albino José Barbosa de Oliveira",
+        "amenity": "pharmacy",
+        "name": "Drogaria São Paulo",
+        "name:en": "São Paulo Drug Store",
+        "opening_hours": "Mo-Fr 07:00-22:50",
+        "website": "https://www.drogariasaopaulo.com.br/",
+        "id": "node/11888148569"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0785499,
+          -22.8305475
         ]
       }
     }

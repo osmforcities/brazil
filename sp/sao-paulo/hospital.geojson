@@ -11942,19 +11942,23 @@
       "type": "Feature",
       "id": "way/816792425",
       "properties": {
-        "timestamp": "2023-07-27T23:32:38Z",
-        "version": 2,
-        "changeset": 139110824,
+        "timestamp": "2024-05-08T13:41:21Z",
+        "version": 4,
+        "changeset": 151057046,
         "addr:city": "São Paulo",
         "addr:housenumber": "719",
         "addr:postcode": "05513-000",
         "addr:street": "Avenida Professor Francisco Morato",
         "amenity": "hospital",
         "building": "yes",
+        "emergency": "yes",
         "healthcare": "hospital",
-        "name": "Hospital Metropolitano Butantã",
+        "name": "Hospital Luz Butantã",
+        "old_name": "Hospital Metropolitano Butantã",
+        "operator:type": "private",
+        "phone": "+55 11 3094 2300",
         "ref:CNES": "2089653",
-        "ref:vatin": "BR08100676000835",
+        "website": "https://butanta.hospitalluz.com.br/nossas-unidades",
         "id": "way/816792425"
       },
       "geometry": {
@@ -11962,24 +11966,24 @@
         "coordinates": [
           [
             [
-              -46.7084813,
-              -23.578544
+              -46.7084468,
+              -23.5784663
             ],
             [
-              -46.7083358,
-              -23.5786399
+              -46.7083099,
+              -23.5785543
             ],
             [
-              -46.707804,
-              -23.5779479
+              -46.7077767,
+              -23.5779018
             ],
             [
-              -46.7079428,
-              -23.5778514
+              -46.7079184,
+              -23.5778
             ],
             [
-              -46.7084813,
-              -23.578544
+              -46.7084468,
+              -23.5784663
             ]
           ]
         ]
@@ -16600,9 +16604,9 @@
       "type": "Feature",
       "id": "node/1693998312",
       "properties": {
-        "timestamp": "2023-10-28T13:41:23Z",
-        "version": 6,
-        "changeset": 143262701,
+        "timestamp": "2024-05-08T00:17:16Z",
+        "version": 8,
+        "changeset": 151032714,
         "addr:city": "São Paulo",
         "addr:housenumber": "230",
         "addr:postcode": "01551-010",
@@ -16619,10 +16623,12 @@
         "emergency": "yes",
         "fax": "+55 11 2915-1335",
         "healthcare": "hospital",
+        "military_service": "army",
         "name": "Hospital Militar de Área de São Paulo",
         "opening_hours": "Mo-Fr 07:00-19:00",
         "operator": "Exército Brasileiro",
-        "phone": "+55 11 2915-1198 ;+55 11 2915-1122",
+        "operator:wikidata": "Q2292358",
+        "phone": "+55 11 2915-1198;+55 11 2915-1122",
         "short_name": "HMASP",
         "start_date": "1920-05-03",
         "website": "https://www.hmasp.eb.mil.br/",
@@ -17699,17 +17705,17 @@
       "type": "Feature",
       "id": "node/5785077143",
       "properties": {
-        "timestamp": "2021-11-29T16:26:49Z",
-        "version": 4,
-        "changeset": 114338570,
+        "timestamp": "2024-05-08T13:38:17Z",
+        "version": 5,
+        "changeset": 151056940,
         "wheelchair": "yes",
         "id": "node/5785077143"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -46.7079428,
-          -23.5778514
+          -46.7079184,
+          -23.5778
         ]
       }
     },

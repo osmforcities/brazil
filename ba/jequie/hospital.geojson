@@ -98,6 +98,72 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1281146272",
+      "properties": {
+        "timestamp": "2024-05-09T12:04:25Z",
+        "version": 1,
+        "changeset": 151096593,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "UPA (Unidade de Pronto Atendimento)",
+        "id": "way/1281146272"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.1047318,
+              -13.8600297
+            ],
+            [
+              -40.1049249,
+              -13.8604619
+            ],
+            [
+              -40.1044529,
+              -13.8606911
+            ],
+            [
+              -40.1042276,
+              -13.8602067
+            ],
+            [
+              -40.1045011,
+              -13.8601078
+            ],
+            [
+              -40.1047318,
+              -13.8600297
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11891225647",
+      "properties": {
+        "timestamp": "2024-05-09T11:51:28Z",
+        "version": 1,
+        "changeset": 151096046,
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general;community",
+        "name": "UPA (Unidade de Pronto Atendimento)",
+        "id": "node/11891225647"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.1045507,
+          -13.8602684
+        ]
+      }
     }
   ]
 }

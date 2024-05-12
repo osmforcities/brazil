@@ -3,55 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": "relation/14908418",
-      "properties": {
-        "timestamp": "2022-11-19T19:09:51Z",
-        "version": 1,
-        "changeset": 129135492,
-        "addr:city": "Cosmorama",
-        "addr:postcode": "15530000",
-        "addr:street": "Rua Helena Alves Garcia",
-        "addr:suburb": "Vila Honório",
-        "amenity": "clinic",
-        "healthcare": "clinic",
-        "healthcare:speciality": "general",
-        "name": "USF Geraldo Octávio Rodrigues",
-        "opening_hours": "Mo-Fr 08:00-17:00",
-        "operator": "Prefeitura Municipal de Cosmorama",
-        "operator:type": "government",
-        "type": "multipolygon",
-        "id": "relation/14908418"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -49.7794837,
-              -20.4768878
-            ],
-            [
-              -49.7797079,
-              -20.4767626
-            ],
-            [
-              -49.7798596,
-              -20.4769844
-            ],
-            [
-              -49.7796273,
-              -20.4771101
-            ],
-            [
-              -49.7794837,
-              -20.4768878
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "relation/14929811",
       "properties": {
         "timestamp": "2022-11-24T01:50:51Z",
@@ -94,6 +45,59 @@
             [
               -49.6887307,
               -20.4128124
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1064731809",
+      "properties": {
+        "timestamp": "2024-05-10T21:18:20Z",
+        "version": 4,
+        "changeset": 151164801,
+        "addr:city": "Cosmorama",
+        "addr:postcode": "15530000",
+        "addr:street": "Rua Helena Alves Garcia",
+        "addr:suburb": "Vila Honório",
+        "amenity": "clinic",
+        "barrier": "wall",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "USF Geraldo Octávio Rodrigues",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "operator": "Prefeitura Municipal de Cosmorama",
+        "operator:type": "government",
+        "id": "way/1064731809"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.7795048,
+              -20.476876
+            ],
+            [
+              -49.7797106,
+              -20.4767664
+            ],
+            [
+              -49.7798404,
+              -20.4769564
+            ],
+            [
+              -49.7796549,
+              -20.4770519
+            ],
+            [
+              -49.7795999,
+              -20.477033
+            ],
+            [
+              -49.7795048,
+              -20.476876
             ]
           ]
         ]
@@ -205,85 +209,6 @@
               -49.7752419,
               -20.4790473
             ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1064731809",
-      "properties": {
-        "timestamp": "2022-11-19T19:09:51Z",
-        "version": 3,
-        "changeset": 129135492,
-        "barrier": "wall",
-        "id": "way/1064731809"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -49.7794837,
-            -20.4768878
-          ],
-          [
-            -49.7797079,
-            -20.4767626
-          ],
-          [
-            -49.7798596,
-            -20.4769844
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1115570137",
-      "properties": {
-        "timestamp": "2022-11-19T19:09:51Z",
-        "version": 1,
-        "changeset": 129135492,
-        "highway": "residential",
-        "name": "Avenida Domingos Baggio",
-        "surface": "asphalt",
-        "id": "way/1115570137"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -49.7798596,
-            -20.4769844
-          ],
-          [
-            -49.7796273,
-            -20.4771101
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1115570139",
-      "properties": {
-        "timestamp": "2022-11-19T19:09:51Z",
-        "version": 1,
-        "changeset": 129135492,
-        "highway": "residential",
-        "name": "Rua Helena Alves Garcia",
-        "id": "way/1115570139"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -49.7794837,
-            -20.4768878
-          ],
-          [
-            -49.7796273,
-            -20.4771101
           ]
         ]
       }

@@ -1214,13 +1214,15 @@
       "type": "Feature",
       "id": "node/6795472187",
       "properties": {
-        "timestamp": "2024-02-13T14:25:08Z",
-        "version": 6,
-        "changeset": 147411479,
+        "timestamp": "2024-05-10T01:22:25Z",
+        "version": 7,
+        "changeset": 151124107,
         "amenity": "clinic",
         "contact:instagram": "integra.pomerode",
         "contact:phone": "+55 47 3380-4911;+55 47 99971-2019",
         "description": "Psicologia, fonoaudiologia, nutrição",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
         "name": "Integra Saúde",
         "old_name": "Instituto Integra",
         "id": "node/6795472187"
@@ -1408,6 +1410,36 @@
         "coordinates": [
           -49.1774789,
           -26.7359032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11878744038",
+      "properties": {
+        "timestamp": "2024-05-10T01:22:25Z",
+        "version": 2,
+        "changeset": 151124107,
+        "amenity": "clinic",
+        "contact:email": "pomerode@clinica.saudelivrevacinas.com.br",
+        "contact:facebook": "https://www.facebook.com/people/Sa%C3%BAde-Livre-Vacinas-Pomerode/61550038936150/",
+        "contact:instagram": "saudelivre.pomerode",
+        "contact:phone": "+55 47 98855-8066",
+        "contact:website": "https://www.saudelivrevacinas.com.br",
+        "contact:whatsapp": "+55 47 98855-8066",
+        "healthcare": "vaccination_centre",
+        "healthcare:speciality": "vaccination",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Saúde Livre",
+        "opening_hours": "Mo-Fr 09:00-12:00, 13:30-19:00; Sa-Su off",
+        "id": "node/11878744038"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.1733429,
+          -26.7398604
         ]
       }
     },

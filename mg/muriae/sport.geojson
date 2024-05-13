@@ -858,13 +858,16 @@
       "type": "Feature",
       "id": "way/699785690",
       "properties": {
-        "timestamp": "2019-06-25T22:10:19Z",
-        "version": 1,
-        "changeset": 71616134,
+        "timestamp": "2024-05-11T02:34:42Z",
+        "version": 2,
+        "changeset": 151169279,
+        "access": "private",
         "leisure": "pitch",
         "lit": "yes",
-        "name": "Campo do Operario",
+        "name": "Estádio Joaquim de Castro Galvão",
+        "short_name": "Campo do Operario",
         "sport": "soccer",
+        "surface": "grass",
         "id": "way/699785690"
       },
       "geometry": {
@@ -872,24 +875,24 @@
         "coordinates": [
           [
             [
-              -42.3546018,
-              -21.1308808
+              -42.3545964,
+              -21.1309095
             ],
             [
-              -42.3545155,
-              -21.1314472
+              -42.3545138,
+              -21.1314451
             ],
             [
-              -42.3535066,
-              -21.1313134
+              -42.3535548,
+              -21.1313163
             ],
             [
-              -42.353593,
-              -21.1307469
+              -42.3536374,
+              -21.1307809
             ],
             [
-              -42.3546018,
-              -21.1308808
+              -42.3545964,
+              -21.1309095
             ]
           ]
         ]
@@ -1420,6 +1423,46 @@
             [
               -42.3610251,
               -21.1270509
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1281872263",
+      "properties": {
+        "timestamp": "2024-05-11T02:34:42Z",
+        "version": 1,
+        "changeset": 151169279,
+        "leisure": "stadium",
+        "name": "Estádio Joaquim de Castro Galvão",
+        "sport": "soccer",
+        "id": "way/1281872263"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.3548586,
+              -21.1308724
+            ],
+            [
+              -42.3547862,
+              -21.1314929
+            ],
+            [
+              -42.3535095,
+              -21.1313202
+            ],
+            [
+              -42.353598,
+              -21.1307148
+            ],
+            [
+              -42.3548586,
+              -21.1308724
             ]
           ]
         ]

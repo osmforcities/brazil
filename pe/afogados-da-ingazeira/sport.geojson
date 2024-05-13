@@ -595,12 +595,11 @@
       "type": "Feature",
       "id": "way/1116724945",
       "properties": {
-        "timestamp": "2022-11-24T04:19:13Z",
-        "version": 1,
-        "changeset": 129304959,
-        "building": "yes",
-        "leisure": "fitness_centre",
-        "name": "Academia Falcon",
+        "timestamp": "2024-05-11T02:23:08Z",
+        "version": 2,
+        "changeset": 151169168,
+        "industrial": "depot",
+        "landuse": "industrial",
         "opening_hours": "Mo-Sa 05:00-22:00",
         "sport": "judo;fitness;gymnastics;karate",
         "id": "way/1116724945"
@@ -816,6 +815,26 @@
         "coordinates": [
           -37.6390993,
           -7.7505903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7483283901",
+      "properties": {
+        "timestamp": "2024-05-11T02:23:08Z",
+        "version": 2,
+        "changeset": 151169168,
+        "leisure": "fitness_centre",
+        "name": "Academia Falcon",
+        "sport": "fitness;exercise;musculação;crossfit",
+        "id": "node/7483283901"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.6331413,
+          -7.7456966
         ]
       }
     }

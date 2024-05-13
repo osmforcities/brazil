@@ -338,6 +338,62 @@
     },
     {
       "type": "Feature",
+      "id": "way/252981914",
+      "properties": {
+        "timestamp": "2024-05-11T00:38:04Z",
+        "version": 2,
+        "changeset": 151168051,
+        "addr:housenumber": "63",
+        "addr:street": "Rua 23",
+        "alt_name": "Jeca",
+        "name": "Conselho Estadual de Educação de Goiás | CEE",
+        "office": "government",
+        "operator": "Governo de Goiás",
+        "website": "https://goias.gov.br/cee/",
+        "id": "way/252981914"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.2622151,
+              -16.6782648
+            ],
+            [
+              -49.2621871,
+              -16.6781455
+            ],
+            [
+              -49.2621529,
+              -16.6780004
+            ],
+            [
+              -49.2621107,
+              -16.6778206
+            ],
+            [
+              -49.2624825,
+              -16.6774871
+            ],
+            [
+              -49.2629518,
+              -16.6776165
+            ],
+            [
+              -49.2627708,
+              -16.6781421
+            ],
+            [
+              -49.2622151,
+              -16.6782648
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/362302383",
       "properties": {
         "timestamp": "2021-06-02T12:24:38Z",
@@ -1046,6 +1102,42 @@
     },
     {
       "type": "Feature",
+      "id": "node/2589802586",
+      "properties": {
+        "timestamp": "2013-12-22T00:27:00Z",
+        "version": 1,
+        "changeset": 19575072,
+        "entrance": "yes",
+        "id": "node/2589802586"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2621529,
+          -16.6780004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2589802602",
+      "properties": {
+        "timestamp": "2013-12-22T00:27:00Z",
+        "version": 1,
+        "changeset": 19575072,
+        "entrance": "yes",
+        "id": "node/2589802602"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2621871,
+          -16.6781455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/3001200664",
       "properties": {
         "timestamp": "2022-10-17T20:15:03Z",
@@ -1575,25 +1667,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/10110232772",
-      "properties": {
-        "timestamp": "2022-10-17T23:58:03Z",
-        "version": 1,
-        "changeset": 127698295,
-        "name": "SMS - Conselho Municipal de Saúde",
-        "office": "government",
-        "id": "node/10110232772"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.2541834,
-          -16.6815636
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/10110232773",
       "properties": {
         "timestamp": "2022-10-17T23:58:19Z",
@@ -1708,25 +1781,6 @@
         "coordinates": [
           -49.2576106,
           -16.6812488
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/10110279633",
-      "properties": {
-        "timestamp": "2022-10-18T00:07:54Z",
-        "version": 1,
-        "changeset": 127698447,
-        "name": "Secretaria Municipal de Esporte e Lazer - ESPORTE E LAZER",
-        "office": "government",
-        "id": "node/10110279633"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.259668,
-          -16.6817861
         ]
       }
     },
@@ -2351,25 +2405,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/10111887119",
-      "properties": {
-        "timestamp": "2022-10-18T18:13:57Z",
-        "version": 1,
-        "changeset": 127741698,
-        "name": "CONMUN",
-        "office": "government",
-        "id": "node/10111887119"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.25568,
-          -16.6786066
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/10111904041",
       "properties": {
         "timestamp": "2022-10-18T18:38:24Z",
@@ -2403,45 +2438,6 @@
         "coordinates": [
           -49.2624794,
           -16.6763995
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/10111931201",
-      "properties": {
-        "timestamp": "2022-10-18T18:14:24Z",
-        "version": 1,
-        "changeset": 127741714,
-        "name": "Procon",
-        "office": "government",
-        "id": "node/10111931201"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.2587216,
-          -16.6774735
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/10111934838",
-      "properties": {
-        "timestamp": "2023-12-21T19:45:35Z",
-        "version": 2,
-        "changeset": 145383265,
-        "government": "public_service",
-        "name": "VAPT - VUPT",
-        "office": "government",
-        "id": "node/10111934838"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.2585318,
-          -16.6759037
         ]
       }
     },
@@ -2863,25 +2859,6 @@
         "coordinates": [
           -49.2968104,
           -16.6777198
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/10116615751",
-      "properties": {
-        "timestamp": "2022-10-20T13:51:54Z",
-        "version": 2,
-        "changeset": 127840657,
-        "name": "SEDEM - Secretaria Municipal de Desenvolvimento Econômico de Goiânia",
-        "office": "government",
-        "id": "node/10116615751"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.2684748,
-          -16.6907053
         ]
       }
     },

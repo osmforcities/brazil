@@ -105,25 +105,28 @@
       "type": "Feature",
       "id": "way/438191871",
       "properties": {
-        "timestamp": "2022-06-15T19:40:45Z",
-        "version": 4,
-        "changeset": 122432655,
+        "timestamp": "2024-05-13T20:58:05Z",
+        "version": 5,
+        "changeset": 151285751,
         "access": "yes",
         "addr:housenumber": "250",
         "addr:postcode": "89080-069",
         "addr:street": "Rua São Francisco",
+        "addr:suburb": "Centro",
         "amenity": "clinic",
-        "brand": "Sistema Único de Saúde",
-        "brand:short": "SUS",
         "building": "public",
-        "contact:phone": "+55 47 3317-2100",
+        "contact:phone": "+55 47 3317 2100",
         "emergency": "no",
         "healthcare": "clinic",
+        "healthcare:speciality": "general",
         "loc_name": "Posto de Saúde Doutor Heinz Schütz",
         "name": "Unidade Sanitária Doutor Heinz Schutz",
-        "operator": "Prefeitura Municipal de Indaial",
-        "operator:type": "public",
-        "short_name": "U.S. Dr. Heinz Schutz",
+        "opening_hours": ":-Mo-Fr 08:00-17:00:; PH off",
+        "operator": "Secretaria Municipal de Saúde",
+        "operator:type": "government",
+        "ref:CNES": "2512874",
+        "short_name": "U.S. Doutor Heinz Schutz",
+        "source": "CNES",
         "id": "way/438191871"
       },
       "geometry": {
@@ -437,6 +440,56 @@
             [
               -49.2274911,
               -26.9202446
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1282629655",
+      "properties": {
+        "timestamp": "2024-05-13T21:49:14Z",
+        "version": 1,
+        "changeset": 151287077,
+        "addr:housenumber": "550",
+        "addr:street": "Rua Santa Maria",
+        "addr:suburb": "João Paulo II",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Unidade Básica Doutor Renato Ferreira de Mello",
+        "opening_hours": "Mo-Fr 08:00- 12:00,13:00- 17:00; We [1] 08:00- 12:00,13:00- 15:00; PH off",
+        "operator": "Secretaria Municipal de Saúde",
+        "operator:type": "government",
+        "short_name": "UBS João Paulo II",
+        "source": "https://indaial.atende.net/subportal/secretaria-municipal-de-saude/noticia/cerimonia-marca-inauguracao-oficial-da-revitalizacao-da-ubs-do-joao-paulo-ii",
+        "id": "way/1282629655"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.2601096,
+              -26.8870612
+            ],
+            [
+              -49.2599881,
+              -26.8872797
+            ],
+            [
+              -49.2598871,
+              -26.8872347
+            ],
+            [
+              -49.2600105,
+              -26.8870111
+            ],
+            [
+              -49.2601096,
+              -26.8870612
             ]
           ]
         ]

@@ -255,6 +255,46 @@
     },
     {
       "type": "Feature",
+      "id": "way/1283634989",
+      "properties": {
+        "timestamp": "2024-05-16T13:55:17Z",
+        "version": 1,
+        "changeset": 151409902,
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "id": "way/1283634989"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -35.3003204,
+              -5.7482904
+            ],
+            [
+              -35.3002197,
+              -5.7484651
+            ],
+            [
+              -35.3000469,
+              -5.7483665
+            ],
+            [
+              -35.3001477,
+              -5.7481918
+            ],
+            [
+              -35.3003204,
+              -5.7482904
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/5267022337",
       "properties": {
         "timestamp": "2017-12-06T00:56:45Z",
@@ -301,6 +341,28 @@
         "coordinates": [
           -35.2585279,
           -5.7754405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11909965021",
+      "properties": {
+        "timestamp": "2024-05-16T13:55:17Z",
+        "version": 1,
+        "changeset": 151409902,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Unidade Básica de Saúde - Cidade das Rosas",
+        "operator": "Prefeitura de São Gonçalo do Amarante",
+        "operator:type": "public",
+        "id": "node/11909965021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.3001775,
+          -5.7483925
         ]
       }
     }

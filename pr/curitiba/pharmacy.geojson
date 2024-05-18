@@ -4745,11 +4745,14 @@
       "type": "Feature",
       "id": "node/4051775247",
       "properties": {
-        "timestamp": "2016-03-10T23:56:17Z",
-        "version": 2,
-        "changeset": 37749458,
+        "timestamp": "2024-05-16T16:26:07Z",
+        "version": 3,
+        "changeset": 151416893,
         "amenity": "pharmacy",
-        "name": "Farmácia Pague Menos",
+        "brand": "Pague Menos",
+        "brand:wikidata": "Q7124466",
+        "healthcare": "pharmacy",
+        "name": "Pague Menos",
         "id": "node/4051775247"
       },
       "geometry": {
@@ -6454,6 +6457,28 @@
         "coordinates": [
           -49.2955094,
           -25.4769739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6359336518",
+      "properties": {
+        "timestamp": "2024-05-16T16:26:07Z",
+        "version": 2,
+        "changeset": 151416893,
+        "addr:housenumber": "1709",
+        "addr:street": "Rua Professor João Falarz",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Nissei",
+        "id": "node/6359336518"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.3436365,
+          -25.4430158
         ]
       }
     },

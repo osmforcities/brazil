@@ -2413,13 +2413,14 @@
       "type": "Feature",
       "id": "way/506315334",
       "properties": {
-        "timestamp": "2018-02-12T17:33:50Z",
-        "version": 2,
-        "changeset": 56300697,
+        "timestamp": "2024-05-16T14:15:04Z",
+        "version": 3,
+        "changeset": 151410919,
+        "access": "yes",
         "leisure": "pitch",
         "lit": "yes",
         "sport": "soccer",
-        "surface": "ground",
+        "surface": "sand",
         "id": "way/506315334"
       },
       "geometry": {
@@ -2458,12 +2459,14 @@
       "type": "Feature",
       "id": "way/506315337",
       "properties": {
-        "timestamp": "2017-07-10T03:16:28Z",
-        "version": 1,
-        "changeset": 50164863,
+        "timestamp": "2024-05-16T14:15:04Z",
+        "version": 2,
+        "changeset": 151410919,
+        "access": "yes",
         "leisure": "pitch",
+        "lit": "yes",
         "sport": "soccer",
-        "surface": "ground",
+        "surface": "sand",
         "id": "way/506315337"
       },
       "geometry": {
@@ -3840,9 +3843,10 @@
       "type": "Feature",
       "id": "way/560775979",
       "properties": {
-        "timestamp": "2018-02-12T17:33:49Z",
-        "version": 1,
-        "changeset": 56300697,
+        "timestamp": "2024-05-16T14:15:04Z",
+        "version": 2,
+        "changeset": 151410919,
+        "access": "yes",
         "leisure": "pitch",
         "lit": "yes",
         "sport": "soccer",
@@ -7108,6 +7112,45 @@
             [
               -47.229064,
               -23.1036489
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1283664075",
+      "properties": {
+        "timestamp": "2024-05-16T15:50:07Z",
+        "version": 1,
+        "changeset": 151415287,
+        "leisure": "pitch",
+        "sport": "soccer",
+        "id": "way/1283664075"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.2737135,
+              -23.0926025
+            ],
+            [
+              -47.2737014,
+              -23.093088
+            ],
+            [
+              -47.2733725,
+              -23.0930928
+            ],
+            [
+              -47.2733656,
+              -23.0926168
+            ],
+            [
+              -47.2737135,
+              -23.0926025
             ]
           ]
         ]

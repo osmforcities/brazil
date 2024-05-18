@@ -59,6 +59,64 @@
     },
     {
       "type": "Feature",
+      "id": "way/855159664",
+      "properties": {
+        "timestamp": "2024-05-16T00:47:49Z",
+        "version": 2,
+        "changeset": 151385574,
+        "addr:city": "Alegrete",
+        "addr:country": "BR",
+        "addr:district": "Passo Novo",
+        "addr:postcode": "97542-130",
+        "addr:state": "Rio Grande do Sul",
+        "addr:street": "Rua Álvaro Kruell",
+        "amenity": "clinic",
+        "contact:phone": "+55 55 34212052",
+        "name": "ESF Passo Novo",
+        "nohousenumber": "yes",
+        "official_name": "Estratégia Saúde da Família Passo Novo",
+        "operator": "Prefeitura Municipal de Alegrete",
+        "ref:CNES": "3242749",
+        "id": "way/855159664"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -55.5381792,
+              -29.67907
+            ],
+            [
+              -55.5381027,
+              -29.679197
+            ],
+            [
+              -55.5379656,
+              -29.6791347
+            ],
+            [
+              -55.5380163,
+              -29.6790506
+            ],
+            [
+              -55.5381068,
+              -29.6790918
+            ],
+            [
+              -55.5381327,
+              -29.6790488
+            ],
+            [
+              -55.5381792,
+              -29.67907
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/929882215",
       "properties": {
         "timestamp": "2023-12-01T21:16:27Z",
@@ -461,14 +519,24 @@
       "type": "Feature",
       "id": "way/1227183488",
       "properties": {
-        "timestamp": "2023-11-27T16:19:24Z",
-        "version": 2,
-        "changeset": 144514587,
+        "timestamp": "2024-05-16T00:47:49Z",
+        "version": 3,
+        "changeset": 151385574,
+        "addr:city": "Alegrete",
+        "addr:country": "BR",
+        "addr:housenumber": "280",
+        "addr:state": "Rio Grande do Sul",
+        "addr:street": "Avenida Marechal Rondon",
+        "addr:suburb": "Saudade",
         "amenity": "clinic",
         "building": "yes",
+        "contact:phone": "+55 55 39611039",
         "healthcare": "clinic",
         "name": "ESF Rondon",
+        "official_name": "Estratégia de Saúde da Família Rondon",
         "phone": "+55 55 34214885",
+        "postal_code": "97545-450",
+        "ref:CNES": "3029239",
         "id": "way/1227183488"
       },
       "geometry": {
@@ -1067,6 +1135,36 @@
               -29.8030244
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11908513704",
+      "properties": {
+        "timestamp": "2024-05-16T00:47:49Z",
+        "version": 1,
+        "changeset": 151385574,
+        "addr:city": "Alegrete",
+        "addr:country": "BR",
+        "addr:place": "Praça Vereador Gaspar Martins Silveira",
+        "addr:postcode": "97547-617",
+        "addr:state": "Rio Grande do Sul",
+        "addr:suburb": "Doutor Romário Araújo",
+        "amenity": "clinic",
+        "contact:phone": "+55 55 39611069",
+        "name": "ESF Doutor Romário Araújo",
+        "nohousenumber": "yes",
+        "official_name": "Estratégia Saúde da Família Doutor Romário Araújo",
+        "operator": "Prefeitura Municipal de Alegrete",
+        "ref:CNES": "3882578",
+        "id": "node/11908513704"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.751321,
+          -29.8075765
         ]
       }
     }

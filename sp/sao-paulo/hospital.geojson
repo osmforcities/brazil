@@ -4575,13 +4575,15 @@
       "type": "Feature",
       "id": "way/260876142",
       "properties": {
-        "timestamp": "2023-02-12T02:17:38Z",
-        "version": 5,
-        "changeset": 132428992,
+        "timestamp": "2024-05-17T23:02:43Z",
+        "version": 7,
+        "changeset": 151474153,
         "addr:city": "São Paulo",
         "amenity": "hospital",
         "barrier": "wall",
         "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "loc_name": "Hospital Geral de Guaianazes",
         "name": "Hospital Geral Jesus Teixeira da Costa",
         "id": "way/260876142"
       },
@@ -6765,6 +6767,283 @@
             [
               -46.6462695,
               -23.5694631
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/420088990",
+      "properties": {
+        "timestamp": "2024-05-17T13:58:10Z",
+        "version": 8,
+        "changeset": 151456039,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "311",
+        "addr:postcode": "01238-010",
+        "addr:street": "Rua Dona Veridiana",
+        "addr:suburb": "Higienópolis",
+        "amenity": "hospital",
+        "description": "O Hospital Santa Isabel, unidade particular que era até 2022 vinculada à Irmandade da Santa Casa de Misericórdia de São Paulo. Foi adquirido pela Rede D’Or em novembro de 2021 e assumiu o controle em fevereiro de 2022.",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general;emergency;gynaecology;intensive;radiology",
+        "height": "41.11",
+        "internet_access": "wlan",
+        "name": "Hospital Santa Isabel",
+        "opening_hours": "24/7",
+        "operator": "Rede D'Or",
+        "operator:type": "private",
+        "website": "https://hospitalhsi.com.br/",
+        "wheelchair": "yes",
+        "wikidata": "Q10298464",
+        "wikipedia": "pt:Hospital Santa Isabel (Blumenau)",
+        "id": "way/420088990"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.6508261,
+              -23.5430172
+            ],
+            [
+              -46.6508266,
+              -23.5430353
+            ],
+            [
+              -46.6506947,
+              -23.5430385
+            ],
+            [
+              -46.6506943,
+              -23.5430233
+            ],
+            [
+              -46.6506882,
+              -23.542805
+            ],
+            [
+              -46.6506674,
+              -23.5428055
+            ],
+            [
+              -46.6506618,
+              -23.5426064
+            ],
+            [
+              -46.6506787,
+              -23.542606
+            ],
+            [
+              -46.6506725,
+              -23.5423861
+            ],
+            [
+              -46.6506721,
+              -23.5423713
+            ],
+            [
+              -46.6508077,
+              -23.542368
+            ],
+            [
+              -46.6508083,
+              -23.5423879
+            ],
+            [
+              -46.6508261,
+              -23.5430172
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/420089010",
+      "properties": {
+        "timestamp": "2024-05-17T13:58:10Z",
+        "version": 7,
+        "changeset": 151456039,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "311",
+        "addr:postcode": "01238-010",
+        "addr:street": "Rua Dona Veridiana",
+        "addr:suburb": "Higienópolis",
+        "amenity": "hospital",
+        "description": "O Hospital Santa Isabel, unidade particular que era até 2022 vinculada à Irmandade da Santa Casa de Misericórdia de São Paulo. Foi adquirido pela Rede D’Or em novembro de 2021 e assumiu o controle em fevereiro de 2022.",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general;emergency;gynaecology;intensive;radiology",
+        "height": "5.13",
+        "internet_access": "wlan",
+        "name": "Hospital Santa Isabel",
+        "opening_hours": "24/7",
+        "operator": "Rede D'Or",
+        "operator:type": "private",
+        "website": "https://hospitalhsi.com.br/",
+        "wheelchair": "yes",
+        "wikidata": "Q10298464",
+        "wikipedia": "pt:Hospital Santa Isabel (Blumenau)",
+        "id": "way/420089010"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.6508584,
+              -23.5430165
+            ],
+            [
+              -46.6508261,
+              -23.5430172
+            ],
+            [
+              -46.6508083,
+              -23.5423879
+            ],
+            [
+              -46.650836,
+              -23.5423873
+            ],
+            [
+              -46.6508511,
+              -23.5426573
+            ],
+            [
+              -46.6508924,
+              -23.5426553
+            ],
+            [
+              -46.6508947,
+              -23.5426962
+            ],
+            [
+              -46.6508974,
+              -23.5427461
+            ],
+            [
+              -46.6508516,
+              -23.5427483
+            ],
+            [
+              -46.6508525,
+              -23.5427654
+            ],
+            [
+              -46.6508844,
+              -23.5427639
+            ],
+            [
+              -46.6508863,
+              -23.5427979
+            ],
+            [
+              -46.6508543,
+              -23.5427994
+            ],
+            [
+              -46.6508584,
+              -23.5430165
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/420089048",
+      "properties": {
+        "timestamp": "2024-05-17T13:44:51Z",
+        "version": 5,
+        "changeset": 151455469,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "112",
+        "addr:postcode": "01222-020",
+        "addr:street": "Rua Doutor Cesário Mota Júnior",
+        "addr:suburb": "Vila Buarque",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "height": "3.89",
+        "name": "Pronto Socorro Central - Santa Casa de São Paulo",
+        "operator": "Santa Casa de São Paulo",
+        "operator:type": "public",
+        "wikidata": "Q10303688",
+        "wikipedia": "pt:Irmandade da Santa Casa de Misericórdia de São Paulo",
+        "id": "way/420089048"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.6499887,
+              -23.5433824
+            ],
+            [
+              -46.6498341,
+              -23.5433875
+            ],
+            [
+              -46.6498263,
+              -23.543103
+            ],
+            [
+              -46.6498286,
+              -23.5430985
+            ],
+            [
+              -46.6498576,
+              -23.5430978
+            ],
+            [
+              -46.649886,
+              -23.5430965
+            ],
+            [
+              -46.6498846,
+              -23.5430497
+            ],
+            [
+              -46.6498882,
+              -23.5430464
+            ],
+            [
+              -46.6499172,
+              -23.5430456
+            ],
+            [
+              -46.6499211,
+              -23.5430487
+            ],
+            [
+              -46.6499222,
+              -23.5430888
+            ],
+            [
+              -46.6499232,
+              -23.5430948
+            ],
+            [
+              -46.649974,
+              -23.5430936
+            ],
+            [
+              -46.6499799,
+              -23.5430946
+            ],
+            [
+              -46.6499842,
+              -23.5432418
+            ],
+            [
+              -46.6499887,
+              -23.5433824
             ]
           ]
         ]
@@ -17718,36 +17997,6 @@
         "coordinates": [
           -46.7079184,
           -23.5778
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/5845626954",
-      "properties": {
-        "timestamp": "2022-07-15T09:47:59Z",
-        "version": 4,
-        "changeset": 123644641,
-        "addr:city": "São Paulo",
-        "addr:housenumber": "311",
-        "addr:postcode": "01238-010",
-        "addr:street": "Rua Dona Veridiana",
-        "addr:suburb": "Higienópolis",
-        "amenity": "hospital",
-        "contact:facebook": "https://www.facebook.com/HSIoficial",
-        "contact:linkedin": "https://www.linkedin.com/company/hospitalsantaisabel/",
-        "contact:youtube": "https://www.youtube.com/channel/UCAiIuW6Wdwdj7K5rvEDsdhg",
-        "healthcare": "hospital",
-        "name": "Hospital Santa Isabel",
-        "phone": "+55 11 2176-7700",
-        "website": "https://www.hsi.org.br",
-        "id": "node/5845626954"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -46.6507137,
-          -23.5426965
         ]
       }
     },

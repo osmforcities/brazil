@@ -45,9 +45,9 @@
       "type": "Feature",
       "id": "way/1213820108",
       "properties": {
-        "timestamp": "2023-10-07T13:02:00Z",
-        "version": 1,
-        "changeset": 142268316,
+        "timestamp": "2024-05-18T15:54:17Z",
+        "version": 2,
+        "changeset": 151500702,
         "amenity": "school",
         "id": "way/1213820108"
       },
@@ -58,6 +58,10 @@
             [
               -51.8885888,
               -29.2374767
+            ],
+            [
+              -51.8886208,
+              -29.2378218
             ],
             [
               -51.8886562,
@@ -114,6 +118,24 @@
         "coordinates": [
           -51.9071062,
           -29.2004756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11916162528",
+      "properties": {
+        "timestamp": "2024-05-18T15:54:17Z",
+        "version": 1,
+        "changeset": 151500702,
+        "entrance": "yes",
+        "id": "node/11916162528"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.8886208,
+          -29.2378218
         ]
       }
     }

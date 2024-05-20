@@ -134,9 +134,9 @@
       "type": "Feature",
       "id": "way/378374368",
       "properties": {
-        "timestamp": "2022-12-22T13:40:19Z",
-        "version": 5,
-        "changeset": 130376950,
+        "timestamp": "2024-05-18T14:40:48Z",
+        "version": 6,
+        "changeset": 151497406,
         "addr:city": "Salvador",
         "addr:postcode": "41760-000",
         "addr:street": "Rua Artur de Azevedo Machado",
@@ -147,9 +147,11 @@
         "brand:wikipedia": "pt:Pague Menos",
         "building": "yes",
         "building:levels": "1",
+        "check_date": "2024-05-17",
         "dispensing": "yes",
         "healthcare": "pharmacy",
         "name": "Pague Menos",
+        "wheelchair": "yes",
         "id": "way/378374368"
       },
       "geometry": {
@@ -5947,9 +5949,9 @@
       "type": "Feature",
       "id": "node/6654033488",
       "properties": {
-        "timestamp": "2020-05-31T22:01:23Z",
-        "version": 2,
-        "changeset": 86023016,
+        "timestamp": "2024-05-18T19:31:15Z",
+        "version": 3,
+        "changeset": 151509102,
         "amenity": "pharmacy",
         "healthcare": "pharmacy",
         "name": "Globo",
@@ -5958,8 +5960,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -38.457572,
-          -12.9864077
+          -38.4577383,
+          -12.9864192
         ]
       }
     },
@@ -5967,9 +5969,9 @@
       "type": "Feature",
       "id": "node/6779895185",
       "properties": {
-        "timestamp": "2020-05-31T22:01:23Z",
-        "version": 2,
-        "changeset": 86023016,
+        "timestamp": "2024-05-18T18:10:07Z",
+        "version": 3,
+        "changeset": 151506380,
         "amenity": "pharmacy",
         "brand": "Drogasil",
         "brand:wikidata": "Q5308185",
@@ -5982,8 +5984,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -38.4574403,
-          -12.9863921
+          -38.4572965,
+          -12.9866137
         ]
       }
     },
@@ -6790,16 +6792,18 @@
       "type": "Feature",
       "id": "node/8569040029",
       "properties": {
-        "timestamp": "2021-03-28T13:15:54Z",
-        "version": 1,
-        "changeset": 101873134,
+        "timestamp": "2024-05-18T14:40:48Z",
+        "version": 2,
+        "changeset": 151497406,
         "amenity": "pharmacy",
         "brand": "Drogaria São Paulo",
         "brand:wikidata": "Q5308184",
         "brand:wikipedia": "en:Grupo DPSP",
+        "check_date": "2024-05-17",
         "dispensing": "yes",
         "healthcare": "pharmacy",
         "name": "Drogaria São Paulo",
+        "wheelchair": "yes",
         "id": "node/8569040029"
       },
       "geometry": {
@@ -8067,6 +8071,28 @@
         "coordinates": [
           -38.4882586,
           -12.9572159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11916293581",
+      "properties": {
+        "timestamp": "2024-05-18T17:10:55Z",
+        "version": 1,
+        "changeset": 151504264,
+        "amenity": "pharmacy",
+        "brand": "Pague Menos",
+        "brand:wikidata": "Q7124466",
+        "healthcare": "pharmacy",
+        "name": "Pague Menos",
+        "id": "node/11916293581"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4587381,
+          -12.9808402
         ]
       }
     }

@@ -54,15 +54,14 @@
       "type": "Feature",
       "id": "way/1064731809",
       "properties": {
-        "timestamp": "2024-05-10T21:18:20Z",
-        "version": 4,
-        "changeset": 151164801,
+        "timestamp": "2024-05-18T14:24:37Z",
+        "version": 5,
+        "changeset": 151496703,
         "addr:city": "Cosmorama",
-        "addr:postcode": "15530000",
+        "addr:postcode": "15530-000",
         "addr:street": "Rua Helena Alves Garcia",
         "addr:suburb": "Vila Honório",
         "amenity": "clinic",
-        "barrier": "wall",
         "healthcare": "clinic",
         "healthcare:speciality": "general",
         "name": "USF Geraldo Octávio Rodrigues",
@@ -76,28 +75,28 @@
         "coordinates": [
           [
             [
-              -49.7795048,
-              -20.476876
+              -49.7795097,
+              -20.4768723
             ],
             [
-              -49.7797106,
-              -20.4767664
+              -49.7797209,
+              -20.476761
             ],
             [
-              -49.7798404,
-              -20.4769564
+              -49.7798347,
+              -20.4769504
             ],
             [
-              -49.7796549,
-              -20.4770519
+              -49.7796587,
+              -20.4770433
             ],
             [
-              -49.7795999,
-              -20.477033
+              -49.7796034,
+              -20.4770288
             ],
             [
-              -49.7795048,
-              -20.476876
+              -49.7795097,
+              -20.4768723
             ]
           ]
         ]
@@ -163,9 +162,9 @@
       "type": "Feature",
       "id": "way/1280052379",
       "properties": {
-        "timestamp": "2024-05-06T00:30:48Z",
-        "version": 1,
-        "changeset": 150942906,
+        "timestamp": "2024-05-18T14:24:37Z",
+        "version": 2,
+        "changeset": 151496703,
         "addr:city": "Cosmorama",
         "addr:housenumber": "500",
         "addr:postcode": "15530-000",
@@ -175,6 +174,7 @@
         "building": "hospital",
         "healthcare": "clinic",
         "healthcare:speciality": "general",
+        "name": "Postinho de Saúde",
         "opening_hours": "24/7",
         "operator": "Prefeitura Municipal de Cosmorama",
         "operator:type": "government",
@@ -208,6 +208,48 @@
             [
               -49.7752419,
               -20.4790473
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1284421282",
+      "properties": {
+        "timestamp": "2024-05-18T15:44:40Z",
+        "version": 2,
+        "changeset": 151500308,
+        "amenity": "clinic",
+        "healthcare": "physiotherapist",
+        "landuse": "commercial",
+        "name": "Centro de Fisioterapia Municipal \"Ramiro Giolo\"",
+        "operator": "Prefeitura Municipal de Cosmorama",
+        "id": "way/1284421282"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.7736131,
+              -20.4775847
+            ],
+            [
+              -49.7733536,
+              -20.4777192
+            ],
+            [
+              -49.7732263,
+              -20.4775037
+            ],
+            [
+              -49.773487,
+              -20.4773685
+            ],
+            [
+              -49.7736131,
+              -20.4775847
             ]
           ]
         ]

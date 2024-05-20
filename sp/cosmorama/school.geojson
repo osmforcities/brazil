@@ -3,119 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": "relation/14891587",
-      "properties": {
-        "timestamp": "2022-11-28T17:35:12Z",
-        "version": 2,
-        "changeset": 129485745,
-        "addr:city": "Cosmorama",
-        "addr:postcode": "15530000",
-        "addr:street": "Rua Sebastião José da Costa",
-        "addr:suburb": "Centro",
-        "amenity": "school",
-        "name": "Escola Municipal \"Professora Ana Maria Segura\"",
-        "operator": "Prefeitura Municipal de Cosmorama",
-        "operator:type": "government",
-        "type": "multipolygon",
-        "id": "relation/14891587"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -49.7744433,
-              -20.478793
-            ],
-            [
-              -49.7749117,
-              -20.4785538
-            ],
-            [
-              -49.7753765,
-              -20.4793531
-            ],
-            [
-              -49.7749028,
-              -20.479597
-            ],
-            [
-              -49.7744433,
-              -20.478793
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "relation/14891594",
-      "properties": {
-        "timestamp": "2022-11-15T18:44:59Z",
-        "version": 1,
-        "changeset": 128954896,
-        "addr:city": "Cosmorama",
-        "addr:postcode": "15530000",
-        "addr:street": "Rua Sebastião José da Costa",
-        "amenity": "school",
-        "barrier": "wall",
-        "name": "Escola Estadual Álvaro Duarte de Almeida",
-        "operator": "Governo do Estado de São Paulo",
-        "operator:type": "government",
-        "operator:wikidata": "Q10290787",
-        "type": "multipolygon",
-        "id": "relation/14891594"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -49.7749117,
-              -20.4785538
-            ],
-            [
-              -49.7744433,
-              -20.478793
-            ],
-            [
-              -49.774054,
-              -20.4789918
-            ],
-            [
-              -49.7738256,
-              -20.4785981
-            ],
-            [
-              -49.7735763,
-              -20.4781614
-            ],
-            [
-              -49.773866,
-              -20.4780186
-            ],
-            [
-              -49.7744351,
-              -20.4777526
-            ],
-            [
-              -49.7744894,
-              -20.477848
-            ],
-            [
-              -49.7748022,
-              -20.4783657
-            ],
-            [
-              -49.7749117,
-              -20.4785538
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "relation/14945321",
       "properties": {
         "timestamp": "2022-12-08T14:23:34Z",
@@ -165,266 +52,114 @@
     },
     {
       "type": "Feature",
-      "id": "way/1113417515",
-      "properties": {
-        "timestamp": "2022-11-15T18:44:59Z",
-        "version": 1,
-        "changeset": 128954896,
-        "highway": "residential",
-        "name": "Rua Sebastião José da Costa",
-        "surface": "asphalt",
-        "id": "way/1113417515"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -49.7749117,
-            -20.4785538
-          ],
-          [
-            -49.7753765,
-            -20.4793531
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1113417516",
-      "properties": {
-        "timestamp": "2022-11-15T18:44:59Z",
-        "version": 1,
-        "changeset": 128954896,
-        "highway": "residential",
-        "name": "Avenida Domingos Baggio",
-        "surface": "asphalt",
-        "id": "way/1113417516"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -49.7753765,
-            -20.4793531
-          ],
-          [
-            -49.7749028,
-            -20.479597
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1113417518",
-      "properties": {
-        "timestamp": "2022-11-15T18:44:59Z",
-        "version": 1,
-        "changeset": 128954896,
-        "highway": "residential",
-        "name": "Avenida Rafael Sabadoto",
-        "surface": "asphalt",
-        "id": "way/1113417518"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -49.7744433,
-            -20.478793
-          ],
-          [
-            -49.7749117,
-            -20.4785538
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/1113417519",
       "properties": {
-        "timestamp": "2022-11-15T18:44:59Z",
-        "version": 1,
-        "changeset": 128954896,
-        "barrier": "wall",
+        "timestamp": "2024-05-18T14:57:21Z",
+        "version": 3,
+        "changeset": 151498214,
+        "addr:city": "Cosmorama",
+        "addr:postcode": "15530-000",
+        "addr:street": "Rua Sebastião José da Costa",
+        "addr:suburb": "Centro",
+        "amenity": "school",
+        "name": "Escola Municipal \"Professora Ana Maria Segura\"",
+        "operator": "Prefeitura Municipal de Cosmorama",
+        "operator:type": "government",
         "id": "way/1113417519"
       },
       "geometry": {
-        "type": "LineString",
+        "type": "Polygon",
         "coordinates": [
           [
-            -49.7744433,
-            -20.478793
-          ],
-          [
-            -49.7749028,
-            -20.479597
+            [
+              -49.7748888,
+              -20.4795705
+            ],
+            [
+              -49.7744658,
+              -20.4788325
+            ],
+            [
+              -49.7748645,
+              -20.4786123
+            ],
+            [
+              -49.7749047,
+              -20.4786273
+            ],
+            [
+              -49.7752923,
+              -20.479312
+            ],
+            [
+              -49.7752829,
+              -20.4793623
+            ],
+            [
+              -49.7748888,
+              -20.4795705
+            ]
           ]
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "way/1113417540",
+      "id": "way/1284421286",
       "properties": {
-        "timestamp": "2023-01-09T18:58:31Z",
-        "version": 3,
-        "changeset": 131071415,
-        "highway": "tertiary",
-        "name": "Avenida Damião Gonzales Martinez",
-        "surface": "asphalt",
-        "id": "way/1113417540"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -49.773866,
-            -20.4780186
-          ],
-          [
-            -49.7735763,
-            -20.4781614
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1113417545",
-      "properties": {
-        "timestamp": "2022-11-15T18:44:59Z",
+        "timestamp": "2024-05-18T14:57:20Z",
         "version": 1,
-        "changeset": 128954896,
-        "highway": "residential",
-        "name": "Rua Doutor Honório de Paula Ribeiro",
-        "surface": "asphalt",
-        "id": "way/1113417545"
+        "changeset": 151498214,
+        "addr:city": "Cosmorama",
+        "addr:postcode": "15530-000",
+        "addr:street": "Rua Sebastião José da Costa",
+        "amenity": "school",
+        "name": "Escola Estadual Álvaro Duarte de Almeida",
+        "operator": "Governo do Estado de São Paulo",
+        "operator:type": "government",
+        "operator:wikidata": "Q10290787",
+        "id": "way/1284421286"
       },
       "geometry": {
-        "type": "LineString",
+        "type": "Polygon",
         "coordinates": [
           [
-            -49.7738256,
-            -20.4785981
-          ],
-          [
-            -49.774054,
-            -20.4789918
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1113417546",
-      "properties": {
-        "timestamp": "2023-01-09T18:58:31Z",
-        "version": 3,
-        "changeset": 131071415,
-        "highway": "tertiary",
-        "name": "Avenida Damião Gonzales Martinez",
-        "surface": "asphalt",
-        "id": "way/1113417546"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -49.7744351,
-            -20.4777526
-          ],
-          [
-            -49.773866,
-            -20.4780186
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1113417548",
-      "properties": {
-        "timestamp": "2022-11-15T18:44:59Z",
-        "version": 1,
-        "changeset": 128954896,
-        "highway": "residential",
-        "name": "Avenida Rafael Sabadoto",
-        "surface": "asphalt",
-        "id": "way/1113417548"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -49.774054,
-            -20.4789918
-          ],
-          [
-            -49.7744433,
-            -20.478793
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1113417552",
-      "properties": {
-        "timestamp": "2022-11-15T18:44:59Z",
-        "version": 1,
-        "changeset": 128954896,
-        "highway": "residential",
-        "name": "Rua Sebastião José da Costa",
-        "surface": "asphalt",
-        "id": "way/1113417552"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -49.7744351,
-            -20.4777526
-          ],
-          [
-            -49.7744894,
-            -20.477848
-          ],
-          [
-            -49.7748022,
-            -20.4783657
-          ],
-          [
-            -49.7749117,
-            -20.4785538
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1113417592",
-      "properties": {
-        "timestamp": "2022-11-15T18:44:59Z",
-        "version": 1,
-        "changeset": 128954896,
-        "highway": "residential",
-        "name": "Rua Doutor Honório de Paula Ribeiro",
-        "surface": "asphalt",
-        "id": "way/1113417592"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -49.7735763,
-            -20.4781614
-          ],
-          [
-            -49.7738256,
-            -20.4785981
+            [
+              -49.774847,
+              -20.4785187
+            ],
+            [
+              -49.7748397,
+              -20.478557
+            ],
+            [
+              -49.7741121,
+              -20.478937
+            ],
+            [
+              -49.7740524,
+              -20.478922
+            ],
+            [
+              -49.7736588,
+              -20.4782291
+            ],
+            [
+              -49.7736581,
+              -20.4781807
+            ],
+            [
+              -49.7743884,
+              -20.477822
+            ],
+            [
+              -49.7744326,
+              -20.4778327
+            ],
+            [
+              -49.774847,
+              -20.4785187
+            ]
           ]
         ]
       }
@@ -504,42 +239,6 @@
             -49.8017274,
             -20.4951191
           ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/9930496370",
-      "properties": {
-        "timestamp": "2022-08-03T23:30:04Z",
-        "version": 1,
-        "changeset": 124456262,
-        "traffic_calming": "bump",
-        "id": "node/9930496370"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.7748022,
-          -20.4783657
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/9930496374",
-      "properties": {
-        "timestamp": "2024-05-06T00:30:48Z",
-        "version": 2,
-        "changeset": 150942906,
-        "traffic_calming": "bump",
-        "id": "node/9930496374"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.7744894,
-          -20.477848
         ]
       }
     }

@@ -3,57 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": "relation/14891608",
-      "properties": {
-        "timestamp": "2022-11-15T18:44:59Z",
-        "version": 1,
-        "changeset": 128954896,
-        "addr:city": "Cosmorama",
-        "addr:postcode": "15530-000",
-        "addr:street": "Avenida Damião Gonzales Martinez",
-        "addr:suburb": "Centro",
-        "amenity": "kindergarten",
-        "name": "Centro Educacional Edivaldo Antônio Papini",
-        "operator": "Prefeitura Municipal de Cosmorama",
-        "operator:type": "government",
-        "preschool": "yes",
-        "type": "multipolygon",
-        "id": "relation/14891608"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -49.7732885,
-              -20.4783084
-            ],
-            [
-              -49.7731729,
-              -20.4783668
-            ],
-            [
-              -49.7729736,
-              -20.4784674
-            ],
-            [
-              -49.7725542,
-              -20.477739
-            ],
-            [
-              -49.7728692,
-              -20.4775798
-            ],
-            [
-              -49.7732885,
-              -20.4783084
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "relation/14929820",
       "properties": {
         "timestamp": "2022-11-24T01:50:51Z",
@@ -103,11 +52,11 @@
       "type": "Feature",
       "id": "way/1064731808",
       "properties": {
-        "timestamp": "2024-05-06T20:34:34Z",
-        "version": 4,
-        "changeset": 150982360,
+        "timestamp": "2024-05-18T14:24:37Z",
+        "version": 5,
+        "changeset": 151496703,
         "addr:city": "Cosmorama",
-        "addr:postcode": "15530000",
+        "addr:postcode": "15530-000",
         "addr:street": "Avenida Domingos Baggio",
         "addr:suburb": "Vila Honório",
         "amenity": "kindergarten",
@@ -121,24 +70,24 @@
         "coordinates": [
           [
             [
-              -49.7807273,
-              -20.4770475
+              -49.7807264,
+              -20.477048
             ],
             [
-              -49.780682,
-              -20.476969
+              -49.7806813,
+              -20.4769694
             ],
             [
               -49.7808989,
               -20.4768589
             ],
             [
-              -49.7807273,
-              -20.476562
+              -49.7807274,
+              -20.4765622
             ],
             [
-              -49.7809753,
-              -20.4764271
+              -49.7809774,
+              -20.4764304
             ],
             [
               -49.7811387,
@@ -153,8 +102,54 @@
               -20.4768789
             ],
             [
-              -49.7807273,
-              -20.4770475
+              -49.7807264,
+              -20.477048
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1082567609",
+      "properties": {
+        "timestamp": "2024-05-18T14:57:21Z",
+        "version": 5,
+        "changeset": 151498214,
+        "addr:city": "Cosmorama",
+        "addr:postcode": "15530-000",
+        "addr:street": "Avenida Damião Gonzales Martinez",
+        "addr:suburb": "Centro",
+        "amenity": "kindergarten",
+        "name": "Centro Educacional Edivaldo Antônio Papini",
+        "operator": "Prefeitura Municipal de Cosmorama",
+        "operator:type": "government",
+        "preschool": "yes",
+        "id": "way/1082567609"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.773269,
+              -20.4782745
+            ],
+            [
+              -49.7729538,
+              -20.478433
+            ],
+            [
+              -49.7725542,
+              -20.477739
+            ],
+            [
+              -49.7728692,
+              -20.4775798
+            ],
+            [
+              -49.773269,
+              -20.4782745
             ]
           ]
         ]
@@ -222,15 +217,15 @@
       "type": "Feature",
       "id": "way/1280368444",
       "properties": {
-        "timestamp": "2024-05-06T20:34:34Z",
-        "version": 1,
-        "changeset": 150982360,
+        "timestamp": "2024-05-18T14:24:37Z",
+        "version": 2,
+        "changeset": 151496703,
         "addr:city": "Cosmorama",
-        "addr:postcode": "15530000",
+        "addr:postcode": "15530-000",
         "addr:street": "Rua Antônio Batista da Silveira",
         "addr:suburb": "Vila Honório",
         "amenity": "kindergarten",
-        "name": "Creche Municipal (Em Construção)",
+        "name": "Creche Escola \"Maria dos Santos Pereira\"",
         "operator": "Prefeitura Municipal de Cosmorama",
         "operator:type": "public",
         "preschool": "yes",
@@ -241,28 +236,16 @@
         "coordinates": [
           [
             [
-              -49.7816505,
-              -20.474965
+              -49.7806474,
+              -20.4749785
             ],
             [
-              -49.7809151,
-              -20.4753515
+              -49.7813828,
+              -20.4746007
             ],
             [
-              -49.7808858,
-              -20.4753436
-            ],
-            [
-              -49.7806453,
-              -20.4749796
-            ],
-            [
-              -49.7813839,
-              -20.4746001
-            ],
-            [
-              -49.7816491,
-              -20.4748909
+              -49.7816489,
+              -20.4748904
             ],
             [
               -49.7816554,
@@ -277,71 +260,21 @@
               -20.4749486
             ],
             [
-              -49.7816505,
-              -20.474965
+              -49.7816502,
+              -20.4749661
+            ],
+            [
+              -49.7809328,
+              -20.4753422
+            ],
+            [
+              -49.7808749,
+              -20.4753269
+            ],
+            [
+              -49.7806474,
+              -20.4749785
             ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/814553866",
-      "properties": {
-        "timestamp": "2023-01-09T18:58:31Z",
-        "version": 11,
-        "changeset": 131071415,
-        "highway": "tertiary",
-        "name": "Avenida Damião Gonzales Martinez",
-        "surface": "asphalt",
-        "id": "way/814553866"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -49.7732885,
-            -20.4783084
-          ],
-          [
-            -49.7731729,
-            -20.4783668
-          ],
-          [
-            -49.7729736,
-            -20.4784674
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1082567609",
-      "properties": {
-        "timestamp": "2022-11-15T18:44:59Z",
-        "version": 3,
-        "changeset": 128954896,
-        "barrier": "wall",
-        "id": "way/1082567609"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -49.7732885,
-            -20.4783084
-          ],
-          [
-            -49.7728692,
-            -20.4775798
-          ],
-          [
-            -49.7725542,
-            -20.477739
-          ],
-          [
-            -49.7729736,
-            -20.4784674
           ]
         ]
       }
@@ -442,24 +375,6 @@
             -49.688738,
             -20.4107983
           ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/9921354097",
-      "properties": {
-        "timestamp": "2022-07-31T13:14:18Z",
-        "version": 2,
-        "changeset": 124303004,
-        "traffic_calming": "bump",
-        "id": "node/9921354097"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.7731729,
-          -20.4783668
         ]
       }
     }

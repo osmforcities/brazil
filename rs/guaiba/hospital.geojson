@@ -3,6 +3,89 @@
   "features": [
     {
       "type": "Feature",
+      "id": "relation/17610497",
+      "properties": {
+        "timestamp": "2024-05-19T13:05:53Z",
+        "version": 1,
+        "changeset": 151533560,
+        "addr:city": "Guaíba",
+        "addr:country": "BR",
+        "addr:housenumber": "345",
+        "addr:street": "Rua Doutor Lauro",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hospital Nossa Senhora do Livramento",
+        "type": "multipolygon",
+        "id": "relation/17610497"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.3165403,
+              -30.1099064
+            ],
+            [
+              -51.3164369,
+              -30.109653
+            ],
+            [
+              -51.3167117,
+              -30.1095691
+            ],
+            [
+              -51.3166877,
+              -30.1095103
+            ],
+            [
+              -51.3168089,
+              -30.1094733
+            ],
+            [
+              -51.3168577,
+              -30.109593
+            ],
+            [
+              -51.3166927,
+              -30.1096434
+            ],
+            [
+              -51.3167713,
+              -30.1098359
+            ],
+            [
+              -51.3165403,
+              -30.1099064
+            ]
+          ],
+          [
+            [
+              -51.3166244,
+              -30.1096807
+            ],
+            [
+              -51.3165573,
+              -30.1096981
+            ],
+            [
+              -51.3166016,
+              -30.1098257
+            ],
+            [
+              -51.3166686,
+              -30.1098083
+            ],
+            [
+              -51.3166244,
+              -30.1096807
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/545052381",
       "properties": {
         "timestamp": "2020-07-15T10:56:06Z",
@@ -211,26 +294,6 @@
         "coordinates": [
           -51.3311628,
           -30.1136549
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/5261257045",
-      "properties": {
-        "timestamp": "2017-12-03T02:11:25Z",
-        "version": 1,
-        "changeset": 54286945,
-        "amenity": "hospital",
-        "healthcare": "hospital",
-        "name": "HOSPITAL NOSSA SENHORA DO LIVRAMENTO",
-        "id": "node/5261257045"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -51.3165439,
-          -30.1098798
         ]
       }
     }

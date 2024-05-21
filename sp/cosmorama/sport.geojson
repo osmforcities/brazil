@@ -3,92 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": "relation/14902820",
-      "properties": {
-        "timestamp": "2022-11-18T01:41:11Z",
-        "version": 1,
-        "changeset": 129065411,
-        "access": "yes",
-        "leisure": "pitch",
-        "sport": "soccer",
-        "type": "multipolygon",
-        "id": "relation/14902820"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -49.7670891,
-              -20.4894901
-            ],
-            [
-              -49.767348,
-              -20.4897601
-            ],
-            [
-              -49.7671903,
-              -20.4898928
-            ],
-            [
-              -49.7669253,
-              -20.4896166
-            ],
-            [
-              -49.7670891,
-              -20.4894901
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "relation/14902821",
-      "properties": {
-        "timestamp": "2022-11-18T01:41:11Z",
-        "version": 1,
-        "changeset": 129065411,
-        "access": "yes",
-        "leisure": "pitch",
-        "sport": "multi",
-        "type": "multipolygon",
-        "id": "relation/14902821"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -49.7670891,
-              -20.4894901
-            ],
-            [
-              -49.7669253,
-              -20.4896166
-            ],
-            [
-              -49.7667303,
-              -20.4893979
-            ],
-            [
-              -49.7669251,
-              -20.489247
-            ],
-            [
-              -49.7671192,
-              -20.4894665
-            ],
-            [
-              -49.7670891,
-              -20.4894901
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "relation/14905138",
       "properties": {
         "timestamp": "2022-11-28T17:35:12Z",
@@ -576,6 +490,48 @@
     },
     {
       "type": "Feature",
+      "id": "way/227204730",
+      "properties": {
+        "timestamp": "2024-05-19T14:23:08Z",
+        "version": 4,
+        "changeset": 151536531,
+        "access": "yes",
+        "barrier": "fence",
+        "leisure": "pitch",
+        "sport": "multi",
+        "surface": "concrete",
+        "id": "way/227204730"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.7669253,
+              -20.4896166
+            ],
+            [
+              -49.7667303,
+              -20.4893979
+            ],
+            [
+              -49.7668954,
+              -20.48927
+            ],
+            [
+              -49.7670891,
+              -20.4894901
+            ],
+            [
+              -49.7669253,
+              -20.4896166
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/515659575",
       "properties": {
         "timestamp": "2022-11-16T00:28:13Z",
@@ -747,6 +703,47 @@
     },
     {
       "type": "Feature",
+      "id": "way/1115103413",
+      "properties": {
+        "timestamp": "2024-05-19T14:23:08Z",
+        "version": 2,
+        "changeset": 151536531,
+        "access": "yes",
+        "barrier": "fence",
+        "leisure": "pitch",
+        "sport": "soccer",
+        "id": "way/1115103413"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.7670891,
+              -20.4894901
+            ],
+            [
+              -49.7673358,
+              -20.4897703
+            ],
+            [
+              -49.7671793,
+              -20.4899014
+            ],
+            [
+              -49.7669253,
+              -20.4896166
+            ],
+            [
+              -49.7670891,
+              -20.4894901
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1115753966",
       "properties": {
         "timestamp": "2024-05-16T13:16:45Z",
@@ -885,6 +882,46 @@
     },
     {
       "type": "Feature",
+      "id": "way/1284646334",
+      "properties": {
+        "timestamp": "2024-05-19T14:23:06Z",
+        "version": 1,
+        "changeset": 151536531,
+        "leisure": "pitch",
+        "sport": "soccer",
+        "surface": "grass",
+        "id": "way/1284646334"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.7688873,
+              -20.4868768
+            ],
+            [
+              -49.7690963,
+              -20.4867173
+            ],
+            [
+              -49.769369,
+              -20.4870307
+            ],
+            [
+              -49.7691661,
+              -20.4872017
+            ],
+            [
+              -49.7688873,
+              -20.4868768
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/227204552",
       "properties": {
         "timestamp": "2022-11-19T19:09:51Z",
@@ -942,64 +979,6 @@
           [
             -49.6869154,
             -20.4115218
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1115103413",
-      "properties": {
-        "timestamp": "2022-11-18T01:41:11Z",
-        "version": 1,
-        "changeset": 129065411,
-        "barrier": "fence",
-        "id": "way/1115103413"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -49.7670891,
-            -20.4894901
-          ],
-          [
-            -49.767348,
-            -20.4897601
-          ],
-          [
-            -49.7671903,
-            -20.4898928
-          ],
-          [
-            -49.7669253,
-            -20.4896166
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1115103415",
-      "properties": {
-        "timestamp": "2022-11-18T01:41:11Z",
-        "version": 1,
-        "changeset": 129065411,
-        "highway": "residential",
-        "name": "Rua Ananias Alves Rodrigues",
-        "surface": "asphalt",
-        "id": "way/1115103415"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -49.7669251,
-            -20.489247
-          ],
-          [
-            -49.7671192,
-            -20.4894665
           ]
         ]
       }

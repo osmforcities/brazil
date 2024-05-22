@@ -4296,12 +4296,13 @@
       "type": "Feature",
       "id": "way/262074896",
       "properties": {
-        "timestamp": "2021-11-29T14:39:50Z",
-        "version": 5,
-        "changeset": 114338570,
+        "timestamp": "2024-05-20T18:13:19Z",
+        "version": 7,
+        "changeset": 151594221,
         "leisure": "pitch",
+        "lit": "yes",
         "sport": "soccer",
-        "surface": "paved",
+        "surface": "concrete",
         "wheelchair": "yes",
         "id": "way/262074896"
       },
@@ -16206,6 +16207,25 @@
         "coordinates": [
           -35.2431669,
           -5.7571581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11920347931",
+      "properties": {
+        "timestamp": "2024-05-20T18:11:38Z",
+        "version": 1,
+        "changeset": 151594120,
+        "leisure": "fitness_station",
+        "sport": "fitness",
+        "id": "node/11920347931"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.1804164,
+          -5.876045
         ]
       }
     }

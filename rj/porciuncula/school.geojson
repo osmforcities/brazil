@@ -248,9 +248,9 @@
       "type": "Feature",
       "id": "node/11918743465",
       "properties": {
-        "timestamp": "2024-05-19T23:47:05Z",
-        "version": 1,
-        "changeset": 151555713,
+        "timestamp": "2024-05-20T23:05:03Z",
+        "version": 2,
+        "changeset": 151603376,
         "addr:city": "Porciúncula",
         "addr:housenumber": "268",
         "addr:postcode": "28390-000",
@@ -264,8 +264,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -42.0380852,
-          -20.9653173
+          -42.0381403,
+          -20.9652536
         ]
       }
     },
@@ -273,12 +273,14 @@
       "type": "Feature",
       "id": "node/11918743466",
       "properties": {
-        "timestamp": "2024-05-19T23:47:05Z",
-        "version": 1,
-        "changeset": 151555713,
+        "timestamp": "2024-05-20T23:05:03Z",
+        "version": 2,
+        "changeset": 151603376,
         "addr:city": "Porciúncula",
+        "addr:housenumber": "45",
         "addr:postcode": "28390-000",
         "addr:street": "Rua Joaquim Monteiro de Castro",
+        "addr:suburb": "João Francisco Braz",
         "amenity": "school",
         "name": "Escola Municipal João Francisco Braz",
         "id": "node/11918743466"
@@ -288,6 +290,30 @@
         "coordinates": [
           -42.0359724,
           -20.965433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11920851597",
+      "properties": {
+        "timestamp": "2024-05-20T23:05:03Z",
+        "version": 1,
+        "changeset": 151603376,
+        "addr:city": "Porciúncula",
+        "addr:housenumber": "749",
+        "addr:postcode": "28390-000",
+        "addr:street": "Rua Pedro Lopes de Oliveira",
+        "addr:suburb": "Vale do Sol",
+        "amenity": "school",
+        "name": "Centro Educacional Elo",
+        "id": "node/11920851597"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.0477577,
+          -20.9710729
         ]
       }
     }

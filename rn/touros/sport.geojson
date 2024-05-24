@@ -3,6 +3,58 @@
   "features": [
     {
       "type": "Feature",
+      "id": "relation/17624734",
+      "properties": {
+        "timestamp": "2024-05-22T12:47:50Z",
+        "version": 1,
+        "changeset": 151675031,
+        "access": "yes",
+        "leisure": "pitch",
+        "lit": "yes",
+        "name": "Quadra de Esportes José Floriano Bezerra",
+        "sport": "futsal",
+        "surface": "concrete",
+        "type": "multipolygon",
+        "id": "relation/17624734"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -35.4724578,
+              -5.3128267
+            ],
+            [
+              -35.4724367,
+              -5.3128429
+            ],
+            [
+              -35.472262,
+              -5.3129753
+            ],
+            [
+              -35.4721132,
+              -5.3126628
+            ],
+            [
+              -35.472274,
+              -5.3125869
+            ],
+            [
+              -35.4723684,
+              -5.3126967
+            ],
+            [
+              -35.4724578,
+              -5.3128267
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/283887615",
       "properties": {
         "timestamp": "2014-05-24T01:55:04Z",
@@ -381,57 +433,6 @@
             [
               -35.5134115,
               -5.1555121
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1133279857",
-      "properties": {
-        "timestamp": "2023-01-20T14:33:56Z",
-        "version": 2,
-        "changeset": 131510908,
-        "access": "yes",
-        "leisure": "pitch",
-        "lit": "yes",
-        "name": "Quadra de Santa Luzia",
-        "sport": "futsal",
-        "surface": "concrete",
-        "id": "way/1133279857"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -35.4723056,
-              -5.3126114
-            ],
-            [
-              -35.4723684,
-              -5.3126967
-            ],
-            [
-              -35.4724617,
-              -5.3128236
-            ],
-            [
-              -35.4724652,
-              -5.3128283
-            ],
-            [
-              -35.472252,
-              -5.3129492
-            ],
-            [
-              -35.4721286,
-              -5.3126981
-            ],
-            [
-              -35.4723056,
-              -5.3126114
             ]
           ]
         ]
@@ -953,26 +954,6 @@
         "coordinates": [
           -35.4953231,
           -5.1586576
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/10540275062",
-      "properties": {
-        "timestamp": "2023-01-11T18:43:08Z",
-        "version": 1,
-        "changeset": 131157766,
-        "leisure": "pitch",
-        "name": "Quadra de Santa Luzia",
-        "sport": "futsal",
-        "id": "node/10540275062"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -35.4722763,
-          -5.3127727
         ]
       }
     }

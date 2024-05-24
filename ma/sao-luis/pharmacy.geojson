@@ -391,9 +391,9 @@
       "type": "Feature",
       "id": "way/760181051",
       "properties": {
-        "timestamp": "2020-12-01T17:29:32Z",
-        "version": 2,
-        "changeset": 95108167,
+        "timestamp": "2024-05-22T12:15:29Z",
+        "version": 3,
+        "changeset": 151673475,
         "addr:street": "Avenida dos Holandeses",
         "addr:suburb": "Ponta D'areia",
         "amenity": "pharmacy",
@@ -421,6 +421,10 @@
             [
               -44.3045338,
               -2.4916241
+            ],
+            [
+              -44.3045011,
+              -2.4915738
             ],
             [
               -44.3044657,
@@ -2272,6 +2276,49 @@
     },
     {
       "type": "Feature",
+      "id": "way/1285801763",
+      "properties": {
+        "timestamp": "2024-05-22T23:52:56Z",
+        "version": 1,
+        "changeset": 151700105,
+        "amenity": "pharmacy",
+        "brand": "Extrafarma",
+        "brand:wikidata": "Q20055480",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Extrafarma",
+        "id": "way/1285801763"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.2543582,
+              -2.4908206
+            ],
+            [
+              -44.2544025,
+              -2.4906378
+            ],
+            [
+              -44.2545637,
+              -2.4906767
+            ],
+            [
+              -44.2545219,
+              -2.4908593
+            ],
+            [
+              -44.2543582,
+              -2.4908206
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/964300360",
       "properties": {
         "timestamp": "2021-01-28T14:47:17Z",
@@ -2459,29 +2506,6 @@
         "coordinates": [
           -44.3035751,
           -2.5293379
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/5154498496",
-      "properties": {
-        "timestamp": "2019-07-30T14:04:54Z",
-        "version": 3,
-        "changeset": 72814579,
-        "amenity": "pharmacy",
-        "brand": "Extrafarma",
-        "brand:wikidata": "Q20055480",
-        "brand:wikipedia": "pt:Extrafarma",
-        "healthcare": "pharmacy",
-        "name": "Extrafarma",
-        "id": "node/5154498496"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.2543732,
-          -2.4907079
         ]
       }
     },
@@ -2910,6 +2934,24 @@
         "coordinates": [
           -44.3194752,
           -2.5651242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11925559234",
+      "properties": {
+        "timestamp": "2024-05-22T12:15:29Z",
+        "version": 1,
+        "changeset": 151673475,
+        "amenity": "parking",
+        "id": "node/11925559234"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.3045011,
+          -2.4915738
         ]
       }
     }

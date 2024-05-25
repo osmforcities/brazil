@@ -154,6 +154,47 @@
     },
     {
       "type": "Feature",
+      "id": "way/1285955860",
+      "properties": {
+        "timestamp": "2024-05-23T13:33:14Z",
+        "version": 1,
+        "changeset": 151724024,
+        "amenity": "pharmacy",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Pharmapele",
+        "id": "way/1285955860"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.4236421,
+              -1.3975276
+            ],
+            [
+              -48.423641,
+              -1.397642
+            ],
+            [
+              -48.4236118,
+              -1.3976409
+            ],
+            [
+              -48.4236106,
+              -1.3975276
+            ],
+            [
+              -48.4236421,
+              -1.3975276
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/4570219190",
       "properties": {
         "timestamp": "2021-01-25T01:57:26Z",
@@ -285,6 +326,28 @@
         "coordinates": [
           -48.3982691,
           -1.3865437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11928370599",
+      "properties": {
+        "timestamp": "2024-05-23T13:33:14Z",
+        "version": 1,
+        "changeset": 151724024,
+        "amenity": "pharmacy",
+        "brand": "Extrafarma",
+        "brand:wikidata": "Q20055480",
+        "healthcare": "pharmacy",
+        "name": "Extrafarma",
+        "id": "node/11928370599"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.4236834,
+          -1.3977851
         ]
       }
     }

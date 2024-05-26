@@ -23592,6 +23592,116 @@
     },
     {
       "type": "Feature",
+      "id": "way/1286379175",
+      "properties": {
+        "timestamp": "2024-05-24T19:51:52Z",
+        "version": 2,
+        "changeset": 151786383,
+        "addr:housenumber": "28",
+        "addr:street": "Rua Jorge Ward",
+        "amenity": "pharmacy",
+        "branch": "SP Rio Pequeno 1",
+        "brand": "Drogasil",
+        "brand:wikidata": "Q5308185",
+        "building": "yes",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Drogasil",
+        "opening_hours": "Mo-Su, PH 07:00-23:00",
+        "phone": "+55 11 2924 8006",
+        "wheelchair": "yes",
+        "id": "way/1286379175"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.7565295,
+              -23.5686889
+            ],
+            [
+              -46.7565563,
+              -23.5687356
+            ],
+            [
+              -46.7564919,
+              -23.5687921
+            ],
+            [
+              -46.7564088,
+              -23.5686987
+            ],
+            [
+              -46.7564571,
+              -23.5686545
+            ],
+            [
+              -46.7564973,
+              -23.568711
+            ],
+            [
+              -46.7565295,
+              -23.5686889
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1286379866",
+      "properties": {
+        "timestamp": "2024-05-24T20:17:21Z",
+        "version": 2,
+        "changeset": 151787015,
+        "addr:housenumber": "1193",
+        "addr:street": "Avenida do Rio Pequeno",
+        "addr:suburb": "Rio Pequeno",
+        "amenity": "pharmacy",
+        "brand": "Pague Menos",
+        "brand:wikidata": "Q7124466",
+        "building": "yes",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "email": "sac@pmenos.com.br",
+        "healthcare": "pharmacy",
+        "name": "Pague Menos",
+        "phone": "+55 11 3714 2810",
+        "website": "https://www.paguemenos.com.br/",
+        "id": "way/1286379866"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.7558562,
+              -23.5684603
+            ],
+            [
+              -46.7559206,
+              -23.5685561
+            ],
+            [
+              -46.7557275,
+              -23.5686938
+            ],
+            [
+              -46.7556524,
+              -23.5685906
+            ],
+            [
+              -46.7558562,
+              -23.5684603
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/444963390",
       "properties": {
         "timestamp": "2022-04-02T15:19:33Z",
@@ -28282,24 +28392,6 @@
         "coordinates": [
           -46.6344178,
           -23.5547665
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/4903100992",
-      "properties": {
-        "timestamp": "2017-06-08T03:54:43Z",
-        "version": 1,
-        "changeset": 49353622,
-        "amenity": "pharmacy",
-        "id": "node/4903100992"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -46.7560872,
-          -23.568831
         ]
       }
     },
@@ -36013,6 +36105,36 @@
         "coordinates": [
           -46.6908402,
           -23.5714716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11931477936",
+      "properties": {
+        "timestamp": "2024-05-24T20:17:21Z",
+        "version": 3,
+        "changeset": 151787015,
+        "addr:housenumber": "1234",
+        "addr:street": "Avenida do Rio Pequeno",
+        "addr:suburb": "Rio Pequeno",
+        "amenity": "pharmacy",
+        "brand": "Farma Conde",
+        "brand:wikidata": "Q100492677",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Farma Conde",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 08:00-22:00; PH off",
+        "phone": "+55 11 3719 4222",
+        "website": "https://www.farmaconde.com.br/",
+        "id": "node/11931477936"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7564034,
+          -23.5685955
         ]
       }
     }

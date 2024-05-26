@@ -2277,6 +2277,96 @@
     },
     {
       "type": "Feature",
+      "id": "way/1286275331",
+      "properties": {
+        "timestamp": "2024-05-24T14:01:52Z",
+        "version": 1,
+        "changeset": 151771624,
+        "amenity": "pharmacy",
+        "brand": "Pacheco",
+        "brand:wikidata": "Q10268813",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Pacheco",
+        "id": "way/1286275331"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.3541894,
+              -23.0005284
+            ],
+            [
+              -43.3541971,
+              -23.0007978
+            ],
+            [
+              -43.3540107,
+              -23.0007992
+            ],
+            [
+              -43.3540076,
+              -23.0005255
+            ],
+            [
+              -43.3541894,
+              -23.0005284
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1286293860",
+      "properties": {
+        "timestamp": "2024-05-24T14:59:40Z",
+        "version": 1,
+        "changeset": 151774929,
+        "amenity": "pharmacy",
+        "brand": "Pacheco",
+        "brand:wikidata": "Q10268813",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Pacheco",
+        "id": "way/1286293860"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.3737477,
+              -22.9235973
+            ],
+            [
+              -43.373741,
+              -22.9236949
+            ],
+            [
+              -43.3734379,
+              -22.9236702
+            ],
+            [
+              -43.3734527,
+              -22.9235862
+            ],
+            [
+              -43.373588,
+              -22.9235913
+            ],
+            [
+              -43.3737477,
+              -22.9235973
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/332153100",
       "properties": {
         "timestamp": "2020-11-17T17:48:03Z",
@@ -10739,6 +10829,168 @@
         "coordinates": [
           -43.2776114,
           -22.8417604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11930639548",
+      "properties": {
+        "timestamp": "2024-05-24T13:24:00Z",
+        "version": 1,
+        "changeset": 151769929,
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "id": "node/11930639548"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.4248753,
+          -23.003783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11930742263",
+      "properties": {
+        "timestamp": "2024-05-24T14:01:52Z",
+        "version": 1,
+        "changeset": 151771624,
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "id": "node/11930742263"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3574322,
+          -23.0005355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11930748313",
+      "properties": {
+        "timestamp": "2024-05-24T14:01:52Z",
+        "version": 1,
+        "changeset": 151771624,
+        "amenity": "pharmacy",
+        "brand": "Pacheco",
+        "brand:wikidata": "Q10268813",
+        "healthcare": "pharmacy",
+        "name": "Pacheco",
+        "id": "node/11930748313"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.354117,
+          -23.0005808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11930748319",
+      "properties": {
+        "timestamp": "2024-05-24T14:01:52Z",
+        "version": 1,
+        "changeset": 151771624,
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "id": "node/11930748319"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3524859,
+          -23.0006662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11930874315",
+      "properties": {
+        "timestamp": "2024-05-24T14:59:40Z",
+        "version": 1,
+        "changeset": 151774929,
+        "amenity": "pharmacy",
+        "brand": "Pacheco",
+        "brand:wikidata": "Q10268813",
+        "healthcare": "pharmacy",
+        "name": "Pacheco",
+        "id": "node/11930874315"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3736753,
+          -22.9236368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11930884611",
+      "properties": {
+        "timestamp": "2024-05-24T14:59:40Z",
+        "version": 1,
+        "changeset": 151774929,
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "id": "node/11930884611"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3734009,
+          -22.9225347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11930884664",
+      "properties": {
+        "timestamp": "2024-05-24T14:59:40Z",
+        "version": 1,
+        "changeset": 151774929,
+        "amenity": "pharmacy",
+        "brand": "Drogasil",
+        "brand:wikidata": "Q5308185",
+        "healthcare": "pharmacy",
+        "name": "Drogasil",
+        "wheelchair": "yes",
+        "id": "node/11930884664"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3752829,
+          -22.9235904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11931082086",
+      "properties": {
+        "timestamp": "2024-05-24T15:50:29Z",
+        "version": 1,
+        "changeset": 151777247,
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "id": "node/11931082086"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3991902,
+          -22.8858538
         ]
       }
     }

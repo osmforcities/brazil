@@ -618,9 +618,9 @@
       "type": "Feature",
       "id": "way/430084712",
       "properties": {
-        "timestamp": "2023-02-07T23:18:00Z",
-        "version": 5,
-        "changeset": 132229853,
+        "timestamp": "2024-05-24T11:31:13Z",
+        "version": 6,
+        "changeset": 151764580,
         "building": "yes",
         "building:levels": "2",
         "name": "Cancha de Bolão",
@@ -638,6 +638,10 @@
             [
               -49.1724394,
               -26.7406216
+            ],
+            [
+              -49.1724137,
+              -26.7406191
             ],
             [
               -49.1722751,
@@ -5152,10 +5156,10 @@
       "type": "Feature",
       "id": "node/8441780565",
       "properties": {
-        "timestamp": "2021-02-21T01:00:23Z",
-        "version": 1,
-        "changeset": 99664928,
-        "entrance": "main",
+        "timestamp": "2024-05-24T11:31:13Z",
+        "version": 2,
+        "changeset": 151764580,
+        "entrance": "yes",
         "id": "node/8441780565"
       },
       "geometry": {
@@ -5260,13 +5264,14 @@
       "type": "Feature",
       "id": "node/11228135566",
       "properties": {
-        "timestamp": "2023-09-29T22:31:09Z",
-        "version": 1,
-        "changeset": 141932642,
+        "timestamp": "2024-05-24T11:31:13Z",
+        "version": 2,
+        "changeset": 151764580,
         "amenity": "dojo",
         "level": "1",
         "name": "Associação Pomerodense de Karatê-do",
         "sport": "karate",
+        "wheelchair": "no",
         "id": "node/11228135566"
       },
       "geometry": {
@@ -5313,6 +5318,25 @@
         "coordinates": [
           -49.1775996,
           -26.7357511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11930403790",
+      "properties": {
+        "timestamp": "2024-05-24T11:31:13Z",
+        "version": 1,
+        "changeset": 151764580,
+        "entrance": "yes",
+        "wheelchair": "limited",
+        "id": "node/11930403790"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.1724137,
+          -26.7406191
         ]
       }
     }

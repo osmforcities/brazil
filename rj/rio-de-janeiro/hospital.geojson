@@ -16190,19 +16190,38 @@
       "type": "Feature",
       "id": "node/3248654261",
       "properties": {
-        "timestamp": "2014-12-23T00:51:34Z",
-        "version": 1,
-        "changeset": 27642198,
-        "alt_name": "Hospital Dom Pedro Segundo",
+        "timestamp": "2024-09-05T19:16:42Z",
+        "version": 3,
+        "changeset": 156245470,
+        "addr:city": "Rio de Janeiro",
+        "addr:housenumber": "521",
+        "addr:postcode": "20730-460",
+        "addr:street": "Rua Ramiro Magalhães",
+        "addr:suburb": "Engenho de Dentro",
+        "alt_name": "IMAS Nise da Silveira",
+        "alt_name:pt": "IMNS",
         "amenity": "hospital",
-        "name": "Hospital Dom Pedro II",
+        "contact:facebook": "https://www.facebook.com/imnisedasilveira",
+        "description": "Instituto Municipal de Assistência à Saúde Nise da Silveira (IMAS Nise da Silveira), órgão da Secretaria Municipal de Saúde do Rio de Janeiro. Um espaço dedicado à Memória, Promoção de Saúde Mental, Arte, Esporte e Cultura.",
+        "email": "imnisedasilveira@gmail.com",
+        "healthcare": "hospital",
+        "healthcare:speciality": "psychiatry;body;humanistic;f",
+        "mobile": "+55 21 96518-1133",
+        "name": "Instituto Municipal de Assistência à Saúde Nise da Silveira",
+        "not:name": "Hospital Psiquiátrioc Pedro II;Hospício de Pedro II;Hospital Pedro II",
+        "opening_hours": "Mo-Sa 08:00-17:00",
+        "operator": "Secretaria Municipal de Saúde do Rio de Janeiro",
+        "operator:type": "public",
+        "phone": "+55 21 3111-7426",
+        "short_name": "IMAS Nise da Silveira",
+        "wheelchair": "yes",
         "id": "node/3248654261"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -43.3011136,
-          -22.9017337
+          -43.3011783,
+          -22.9013108
         ]
       }
     },
@@ -17001,30 +17020,6 @@
         "coordinates": [
           -43.3983518,
           -22.9697667
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/7530353418",
-      "properties": {
-        "timestamp": "2020-05-17T23:35:23Z",
-        "version": 1,
-        "changeset": 85351047,
-        "addr:suburb": "Engenho de Dentro",
-        "amenity": "hospital",
-        "name": "Instituto Municipal Nise da Silveira",
-        "opening_hours": "Mo-Fr 08:00-17:00; Sa 08:00-12:00",
-        "phone": "+55 21 31117426",
-        "source": "data.rio",
-        "start_date": "1911-06-11",
-        "id": "node/7530353418"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.3016875,
-          -22.9009874
         ]
       }
     },

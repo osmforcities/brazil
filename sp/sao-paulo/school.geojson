@@ -12814,9 +12814,9 @@
       "type": "Feature",
       "id": "way/222828133",
       "properties": {
-        "timestamp": "2023-06-19T21:22:10Z",
-        "version": 3,
-        "changeset": 137535911,
+        "timestamp": "2024-09-05T21:36:09Z",
+        "version": 4,
+        "changeset": 156249452,
         "addr:city": "São Paulo",
         "addr:housenumber": "1802",
         "addr:postcode": "08381-001",
@@ -12832,12 +12832,20 @@
         "coordinates": [
           [
             [
-              -46.4258396,
+              -46.4258554,
               -23.6107577
             ],
             [
-              -46.4265046,
-              -23.6090862
+              -46.4264203,
+              -23.6093517
+            ],
+            [
+              -46.4264405,
+              -23.609349
+            ],
+            [
+              -46.4265602,
+              -23.6090683
             ],
             [
               -46.4279388,
@@ -12856,7 +12864,7 @@
               -23.6111313
             ],
             [
-              -46.4258396,
+              -46.4258554,
               -23.6107577
             ]
           ]
@@ -34152,9 +34160,9 @@
       "type": "Feature",
       "id": "way/473197668",
       "properties": {
-        "timestamp": "2020-03-06T22:49:25Z",
-        "version": 8,
-        "changeset": 81886582,
+        "timestamp": "2024-09-05T19:13:09Z",
+        "version": 9,
+        "changeset": 156245344,
         "addr:city": "São Paulo",
         "addr:country": "BR",
         "addr:housenumber": "80",
@@ -34162,6 +34170,7 @@
         "addr:street": "Rua dos Lírios",
         "addr:suburb": "Jardim Arantes",
         "amenity": "school",
+        "barrier": "wall",
         "contact:phone": "+55 11 2734 4280",
         "email": "e922146a@educacao.sp.gov.br",
         "name": "Escola Estadual Professora Haydee Hidalgo",
@@ -34176,28 +34185,56 @@
         "coordinates": [
           [
             [
-              -46.416139,
-              -23.6232988
+              -46.4161762,
+              -23.6232952
             ],
             [
-              -46.416166,
-              -23.6227021
+              -46.4161695,
+              -23.6227106
             ],
             [
               -46.4161903,
-              -23.6226938
+              -23.6227013
+            ],
+            [
+              -46.4162273,
+              -23.6226957
+            ],
+            [
+              -46.416223,
+              -23.6227498
+            ],
+            [
+              -46.4165169,
+              -23.6227642
+            ],
+            [
+              -46.4165196,
+              -23.6227108
             ],
             [
               -46.4166464,
               -23.6227174
             ],
             [
-              -46.4166368,
+              -46.4166275,
+              -23.6229085
+            ],
+            [
+              -46.4166246,
+              -23.6230801
+            ],
+            [
+              -46.41662,
+              -23.6232128
+            ],
+            [
+              -46.4166156,
               -23.6232993
             ],
             [
-              -46.416139,
-              -23.6232988
+              -46.4161762,
+              -23.6232952
             ]
           ]
         ]
@@ -36214,9 +36251,9 @@
       "type": "Feature",
       "id": "way/487999236",
       "properties": {
-        "timestamp": "2018-04-03T01:39:57Z",
-        "version": 2,
-        "changeset": 57756900,
+        "timestamp": "2024-09-05T19:13:09Z",
+        "version": 3,
+        "changeset": 156245344,
         "addr:city": "São Paulo",
         "addr:country": "BR",
         "addr:housenumber": "8",
@@ -36224,6 +36261,7 @@
         "addr:street": "Rua Golfo da California",
         "addr:suburb": "3ª Divisão",
         "amenity": "school",
+        "barrier": "wall",
         "contact:phone": "+55 11 2734 5511",
         "email": "e925412a@educacao.sp.gov.br",
         "name": "Escola Estadual Jardim Limoeiro III",
@@ -87790,6 +87828,257 @@
     },
     {
       "type": "Feature",
+      "id": "way/1313383032",
+      "properties": {
+        "timestamp": "2024-09-05T00:43:32Z",
+        "version": 1,
+        "changeset": 156208636,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "371",
+        "addr:street": "Avenida José Velho Barreto",
+        "amenity": "school",
+        "barrier": "wall",
+        "name": "EMEF Rodrigo de Mello Franco de Andrade",
+        "id": "way/1313383032"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.4715476,
+              -23.6050536
+            ],
+            [
+              -46.4717642,
+              -23.6050169
+            ],
+            [
+              -46.4718405,
+              -23.6053301
+            ],
+            [
+              -46.471875,
+              -23.605472
+            ],
+            [
+              -46.4719163,
+              -23.6056416
+            ],
+            [
+              -46.4718981,
+              -23.6056741
+            ],
+            [
+              -46.4715344,
+              -23.6058221
+            ],
+            [
+              -46.4714949,
+              -23.6058224
+            ],
+            [
+              -46.4714689,
+              -23.6057926
+            ],
+            [
+              -46.471449,
+              -23.6057574
+            ],
+            [
+              -46.4714196,
+              -23.6056741
+            ],
+            [
+              -46.471282,
+              -23.6050992
+            ],
+            [
+              -46.4713773,
+              -23.6050824
+            ],
+            [
+              -46.4715476,
+              -23.6050536
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1313557840",
+      "properties": {
+        "timestamp": "2024-09-05T18:33:33Z",
+        "version": 1,
+        "changeset": 156243943,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "4757",
+        "addr:street": "Avenida Ragueb Chohfi",
+        "amenity": "school",
+        "barrier": "wall",
+        "name": "E.E Professor Simão Mathias",
+        "id": "way/1313557840"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.4397686,
+              -23.5947456
+            ],
+            [
+              -46.4398387,
+              -23.5948975
+            ],
+            [
+              -46.4397014,
+              -23.5949417
+            ],
+            [
+              -46.4397171,
+              -23.5949787
+            ],
+            [
+              -46.4396896,
+              -23.5949879
+            ],
+            [
+              -46.4393346,
+              -23.5951073
+            ],
+            [
+              -46.4391073,
+              -23.5946168
+            ],
+            [
+              -46.4389346,
+              -23.5942388
+            ],
+            [
+              -46.4389376,
+              -23.5941836
+            ],
+            [
+              -46.4394915,
+              -23.5939984
+            ],
+            [
+              -46.439641,
+              -23.5942948
+            ],
+            [
+              -46.4396807,
+              -23.5943768
+            ],
+            [
+              -46.4396373,
+              -23.5943925
+            ],
+            [
+              -46.4398067,
+              -23.5947298
+            ],
+            [
+              -46.4397686,
+              -23.5947456
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1313557856",
+      "properties": {
+        "timestamp": "2024-09-05T18:33:33Z",
+        "version": 1,
+        "changeset": 156243943,
+        "amenity": "school",
+        "name": "C.E.I Anunciação Ferreira II",
+        "id": "way/1313557856"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.4279777,
+              -23.6061964
+            ],
+            [
+              -46.4286762,
+              -23.6068055
+            ],
+            [
+              -46.4287585,
+              -23.6068827
+            ],
+            [
+              -46.4283249,
+              -23.6072556
+            ],
+            [
+              -46.4283168,
+              -23.6072644
+            ],
+            [
+              -46.4276703,
+              -23.6066996
+            ],
+            [
+              -46.4279777,
+              -23.6061964
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1313564235",
+      "properties": {
+        "timestamp": "2024-09-05T19:13:09Z",
+        "version": 1,
+        "changeset": 156245344,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "13",
+        "addr:street": "Rua Golfo da Califórnia",
+        "amenity": "school",
+        "name": "C.E.I Antônio Alves de Araujo",
+        "id": "way/1313564235"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.4142589,
+              -23.6221141
+            ],
+            [
+              -46.4140464,
+              -23.6223504
+            ],
+            [
+              -46.4138803,
+              -23.6221925
+            ],
+            [
+              -46.4140704,
+              -23.6219703
+            ],
+            [
+              -46.4142589,
+              -23.6221141
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/222842154",
       "properties": {
         "timestamp": "2023-06-07T15:20:09Z",
@@ -111790,6 +112079,44 @@
         "coordinates": [
           -46.6530238,
           -23.5390619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12156775368",
+      "properties": {
+        "timestamp": "2024-09-05T00:43:32Z",
+        "version": 1,
+        "changeset": 156208636,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "371",
+        "addr:street": "Avenida José Velho Barreto",
+        "id": "node/12156775368"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4718405,
+          -23.6053301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12158321803",
+      "properties": {
+        "timestamp": "2024-09-05T18:33:33Z",
+        "version": 1,
+        "changeset": 156243943,
+        "entrance": "main",
+        "id": "node/12158321803"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4396896,
+          -23.5949879
         ]
       }
     }

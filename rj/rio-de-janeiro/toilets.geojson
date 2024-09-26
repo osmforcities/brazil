@@ -1999,19 +1999,23 @@
       "type": "Feature",
       "id": "node/412280952",
       "properties": {
-        "timestamp": "2016-05-01T21:45:05Z",
-        "version": 3,
-        "changeset": 39026444,
+        "timestamp": "2024-09-05T09:17:47Z",
+        "version": 4,
+        "changeset": 156220895,
         "amenity": "toilets",
         "fee": "yes",
+        "female": "yes",
         "layer": "-1",
+        "male": "yes",
+        "toilets:disposal": "flush",
+        "wheelchair": "no",
         "id": "node/412280952"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -43.1832325,
-          -22.9710627
+          -43.1833016,
+          -22.9711179
         ]
       }
     },
@@ -2642,12 +2646,17 @@
       "type": "Feature",
       "id": "node/1108275959",
       "properties": {
-        "timestamp": "2011-01-17T22:00:08Z",
-        "version": 1,
-        "changeset": 7004527,
+        "timestamp": "2024-09-05T09:11:15Z",
+        "version": 2,
+        "changeset": 156220622,
+        "access": "yes",
         "amenity": "toilets",
+        "fee": "yes",
+        "female": "yes",
+        "male": "yes",
         "name": "Posto 5",
         "source": "Bing",
+        "toilets:disposal": "flush",
         "id": "node/1108275959"
       },
       "geometry": {

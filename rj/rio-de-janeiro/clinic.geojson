@@ -8013,13 +8013,21 @@
       "type": "Feature",
       "id": "node/7530353414",
       "properties": {
-        "timestamp": "2020-05-17T23:35:23Z",
-        "version": 1,
-        "changeset": 85351047,
+        "timestamp": "2024-09-05T19:35:49Z",
+        "version": 2,
+        "changeset": 156246046,
+        "addr:city": "Rio de Janeiro",
+        "addr:housenumber": "785",
+        "addr:postcode": "20211-110",
+        "addr:street": "Rua Dois de Fevereiro",
         "addr:suburb": "Engenho de Dentro",
         "amenity": "clinic",
-        "name": "Caps Ad Raul Seixas",
-        "opening_hours": "Mo-Fr 08:00-17:00",
+        "healthcare": "clinic",
+        "healthcare:speciality": "psychiatry;humanistic;body",
+        "name": "CAPSad III Raul Seixas",
+        "opening_hours": "24/7",
+        "operator": "Secretaria Municipal de Saúde do Rio de Janeiro",
+        "operator:type": "public",
         "phone": "+55 21 3111-7512",
         "source": "data.rio",
         "start_date": "2004-08-01",
@@ -8035,39 +8043,22 @@
     },
     {
       "type": "Feature",
-      "id": "node/7530353415",
-      "properties": {
-        "timestamp": "2020-05-17T23:35:23Z",
-        "version": 1,
-        "changeset": 85351047,
-        "addr:suburb": "Engenho de Dentro",
-        "amenity": "clinic",
-        "name": "Centro Municipal de Reabilitação Eng Dentro",
-        "opening_hours": "Mo-Fr 07:00-17:00; Sa 08:00-12:00",
-        "phone": "+55 3111-7350",
-        "source": "data.rio",
-        "start_date": "2003-01-14",
-        "id": "node/7530353415"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.3009502,
-          -22.9010647
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/7530353416",
       "properties": {
-        "timestamp": "2020-05-17T23:35:23Z",
-        "version": 1,
-        "changeset": 85351047,
+        "timestamp": "2024-09-05T19:35:49Z",
+        "version": 2,
+        "changeset": 156246046,
+        "addr:city": "Rio de Janeiro",
+        "addr:housenumber": "785A",
+        "addr:postcode": "20730-451",
+        "addr:street": "Rua Dois de Fevereiro",
         "addr:suburb": "Engenho de Dentro",
         "amenity": "clinic",
-        "name": "Caps Clarice Lispector",
-        "opening_hours": "Mo-Fr 08:00-19:00",
+        "healthcare:speciality": "psychiatry;humanistic;body",
+        "name": "CAPS III Clarice Lispector",
+        "opening_hours": "24/7",
+        "operator": "Secretaria Municipal de Saúde do Rio de Janeiro",
+        "operator:type": "public",
         "phone": "+55 21 31117490",
         "source": "data.rio",
         "start_date": "2005-05-23",
@@ -8076,8 +8067,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -43.3027398,
-          -22.9027868
+          -43.3025653,
+          -22.902271
         ]
       }
     },
@@ -12809,6 +12800,35 @@
         "coordinates": [
           -43.3121676,
           -22.8382409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12158411043",
+      "properties": {
+        "timestamp": "2024-09-05T19:35:49Z",
+        "version": 1,
+        "changeset": 156246046,
+        "addr:city": "Rio de Janeiro",
+        "addr:housenumber": "635",
+        "addr:postcode": "20211-110",
+        "addr:street": "Rua Dois de Fevereiro",
+        "addr:suburb": "Engenho de Dentro",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "psychiatry;humanistic;body",
+        "name": "CAPS III EAT Severino dos Santos",
+        "opening_hours": "24/7",
+        "operator": "Secretaria Municipal de Saúde do Rio de Janeiro",
+        "operator:type": "public",
+        "id": "node/12158411043"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3022362,
+          -22.9013713
         ]
       }
     }

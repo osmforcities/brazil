@@ -882,6 +882,79 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1314746061",
+      "properties": {
+        "timestamp": "2024-09-11T00:31:42Z",
+        "version": 1,
+        "changeset": 156461599,
+        "addr:city": "Mauá",
+        "addr:housenumber": "509",
+        "addr:street": "Rua Marechal Deodoro da Fonseca",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "UBS Parque São Vicente",
+        "id": "way/1314746061"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.4744863,
+              -23.6704076
+            ],
+            [
+              -46.474377,
+              -23.6705642
+            ],
+            [
+              -46.4742935,
+              -23.6706839
+            ],
+            [
+              -46.4742693,
+              -23.6707001
+            ],
+            [
+              -46.4742366,
+              -23.6706919
+            ],
+            [
+              -46.4738541,
+              -23.6704728
+            ],
+            [
+              -46.4740838,
+              -23.6701731
+            ],
+            [
+              -46.4744863,
+              -23.6704076
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12169084262",
+      "properties": {
+        "timestamp": "2024-09-11T00:31:42Z",
+        "version": 1,
+        "changeset": 156461599,
+        "entrance": "main",
+        "id": "node/12169084262"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.474377,
+          -23.6705642
+        ]
+      }
     }
   ]
 }

@@ -41290,66 +41290,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/543187113",
-      "properties": {
-        "timestamp": "2017-11-27T21:14:00Z",
-        "version": 1,
-        "changeset": 54133194,
-        "addr:city": "São Paulo",
-        "addr:country": "BR",
-        "addr:housenumber": "566",
-        "addr:postcode": "03260-000",
-        "addr:street": "Avenida da Casa Grande",
-        "addr:suburb": "Vila Cunha Bueno",
-        "amenity": "school",
-        "email": "emeftaunay@prefeitura.sp.gov.br",
-        "name": "Escola Municipal de Educação Fundamental Visconde de Taunay",
-        "operator": "Secretaria de Educação",
-        "phone": "+55 11 2143 3744",
-        "id": "way/543187113"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -46.5143769,
-              -23.6038575
-            ],
-            [
-              -46.5144949,
-              -23.6034643
-            ],
-            [
-              -46.5151762,
-              -23.6036117
-            ],
-            [
-              -46.5153613,
-              -23.6037395
-            ],
-            [
-              -46.5158092,
-              -23.6042114
-            ],
-            [
-              -46.5155115,
-              -23.6042385
-            ],
-            [
-              -46.5151789,
-              -23.6041401
-            ],
-            [
-              -46.5143769,
-              -23.6038575
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/543869365",
       "properties": {
         "timestamp": "2021-06-20T14:51:31Z",
@@ -88209,6 +88149,55 @@
     },
     {
       "type": "Feature",
+      "id": "way/1314879024",
+      "properties": {
+        "timestamp": "2024-09-11T15:04:44Z",
+        "version": 1,
+        "changeset": 156489241,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "30",
+        "addr:postcode": "02839-070",
+        "addr:street": "Rua Jitaúna",
+        "amenity": "school",
+        "name": "Cieja Professora Rose Mary Frassom",
+        "operator": "PMSP",
+        "operator:type": "government",
+        "id": "way/1314879024"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.6815994,
+              -23.4769627
+            ],
+            [
+              -46.6815504,
+              -23.4771191
+            ],
+            [
+              -46.6814443,
+              -23.4770911
+            ],
+            [
+              -46.6813455,
+              -23.4770651
+            ],
+            [
+              -46.6813945,
+              -23.4769087
+            ],
+            [
+              -46.6815994,
+              -23.4769627
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/222842154",
       "properties": {
         "timestamp": "2023-06-07T15:20:09Z",
@@ -112247,6 +112236,27 @@
         "coordinates": [
           -46.4396896,
           -23.5949879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12170188917",
+      "properties": {
+        "timestamp": "2024-09-11T15:04:44Z",
+        "version": 1,
+        "changeset": 156489241,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "30",
+        "addr:postcode": "02839-070",
+        "addr:street": "Rua Jitaúna",
+        "id": "node/12170188917"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6814443,
+          -23.4770911
         ]
       }
     }

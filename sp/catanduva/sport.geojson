@@ -1655,9 +1655,9 @@
       "type": "Feature",
       "id": "way/588380593",
       "properties": {
-        "timestamp": "2022-12-08T03:42:07Z",
-        "version": 2,
-        "changeset": 129842842,
+        "timestamp": "2024-09-11T18:32:16Z",
+        "version": 3,
+        "changeset": 156497791,
         "addr:city": "Catanduva",
         "addr:housenumber": "65",
         "addr:postcode": "15806-345",
@@ -1674,24 +1674,24 @@
         "coordinates": [
           [
             [
-              -48.9595048,
-              -21.1308893
+              -48.9595203,
+              -21.130877
             ],
             [
-              -48.9595895,
-              -21.13159
+              -48.9596152,
+              -21.1316041
             ],
             [
-              -48.9590647,
-              -21.1316719
+              -48.9590773,
+              -21.1316848
             ],
             [
-              -48.9589553,
-              -21.1309684
+              -48.9589564,
+              -21.1309523
             ],
             [
-              -48.9595048,
-              -21.1308893
+              -48.9595203,
+              -21.130877
             ]
           ]
         ]
@@ -4846,14 +4846,16 @@
       "type": "Feature",
       "id": "way/1116445478",
       "properties": {
-        "timestamp": "2022-11-23T17:14:05Z",
-        "version": 2,
-        "changeset": 129290678,
+        "timestamp": "2024-09-11T18:32:16Z",
+        "version": 3,
+        "changeset": 156497791,
+        "access": "private",
         "building": "yes",
         "building:levels": "1",
         "building:material": "plaster",
         "height": "8",
         "leisure": "pitch",
+        "lit": "yes",
         "name": "Quadra coberta",
         "note": "Quadras. Checar altura e roof:shape",
         "operator": "Colégio Ressurreição Nossa Senhora do Calvário",
@@ -4861,6 +4863,7 @@
         "roof:material": "metal",
         "roof:shape": "round",
         "sport": "futsal",
+        "surface": "concrete",
         "id": "way/1116445478"
       },
       "geometry": {
@@ -4895,14 +4898,16 @@
       "type": "Feature",
       "id": "way/1116445479",
       "properties": {
-        "timestamp": "2022-11-23T17:14:05Z",
-        "version": 2,
-        "changeset": 129290678,
+        "timestamp": "2024-09-11T18:32:16Z",
+        "version": 3,
+        "changeset": 156497791,
+        "access": "private",
         "building": "yes",
         "building:levels": "1",
         "building:material": "plaster",
         "height": "8",
         "leisure": "pitch",
+        "lit": "yes",
         "name": "Quadra coberta",
         "note": "Quadras. Checar altura e roof:shape",
         "operator": "Colégio Ressurreição Nossa Senhora do Calvário",
@@ -4910,6 +4915,7 @@
         "roof:material": "metal",
         "roof:shape": "round",
         "sport": "futsal",
+        "surface": "concrete",
         "id": "way/1116445479"
       },
       "geometry": {
@@ -6760,6 +6766,140 @@
             [
               -48.9886856,
               -21.1478275
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1314912848",
+      "properties": {
+        "timestamp": "2024-09-11T18:32:16Z",
+        "version": 1,
+        "changeset": 156497791,
+        "access": "yes",
+        "building": "yes",
+        "building:levels": "1",
+        "building:material": "plaster",
+        "height": "8",
+        "leisure": "pitch",
+        "lit": "yes",
+        "note": "Quadras. Checar altura e roof:shape",
+        "operator": "Colégio Ressurreição Nossa Senhora do Calvário",
+        "roof:height": "4",
+        "roof:material": "metal",
+        "roof:shape": "round",
+        "sport": "futsal",
+        "surface": "concrete",
+        "id": "way/1314912848"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.9594214,
+              -21.1313222
+            ],
+            [
+              -48.9594602,
+              -21.131593
+            ],
+            [
+              -48.9592669,
+              -21.1316171
+            ],
+            [
+              -48.9592281,
+              -21.1313463
+            ],
+            [
+              -48.9594214,
+              -21.1313222
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1314912850",
+      "properties": {
+        "timestamp": "2024-09-11T18:32:16Z",
+        "version": 1,
+        "changeset": 156497791,
+        "access": "yes",
+        "boules": "bocce",
+        "leisure": "pitch",
+        "sport": "boules",
+        "id": "way/1314912850"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.9594641,
+              -21.130951
+            ],
+            [
+              -48.9595062,
+              -21.1309475
+            ],
+            [
+              -48.959527,
+              -21.1311643
+            ],
+            [
+              -48.9594847,
+              -21.1311678
+            ],
+            [
+              -48.9594641,
+              -21.130951
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1314912852",
+      "properties": {
+        "timestamp": "2024-09-11T18:32:16Z",
+        "version": 1,
+        "changeset": 156497791,
+        "access": "customers",
+        "leisure": "pitch",
+        "lit": "yes",
+        "sport": "soccer;basketball;multi",
+        "surface": "concrete",
+        "id": "way/1314912852"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.9599402,
+              -21.1312372
+            ],
+            [
+              -48.9599658,
+              -21.1313936
+            ],
+            [
+              -48.9596961,
+              -21.1314287
+            ],
+            [
+              -48.9596709,
+              -21.1312755
+            ],
+            [
+              -48.9599402,
+              -21.1312372
             ]
           ]
         ]

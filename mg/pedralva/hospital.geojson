@@ -3,22 +3,157 @@
   "features": [
     {
       "type": "Feature",
-      "id": "node/7737218718",
+      "id": "way/1221610546",
       "properties": {
-        "timestamp": "2024-03-17T23:41:03Z",
-        "version": 2,
-        "changeset": 148794104,
+        "timestamp": "2024-09-11T19:30:54Z",
+        "version": 7,
+        "changeset": 156499827,
+        "addr:housenumber": "20",
+        "addr:street": "Praça Ana Maria Divino",
+        "addr:suburb": "Centro",
         "amenity": "hospital",
+        "building": "hospital",
         "check_date": "2024-03-17",
         "healthcare": "hospital",
-        "name": "Santa Casa",
-        "id": "node/7737218718"
+        "name": "Santa Casa de Misericórdia",
+        "source": "microsoft/BuildingFootprints;Bing;IBGE",
+        "id": "way/1221610546"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -45.4683066,
+              -22.2466568
+            ],
+            [
+              -45.4681987,
+              -22.2466146
+            ],
+            [
+              -45.4682409,
+              -22.2465222
+            ],
+            [
+              -45.4682621,
+              -22.2464756
+            ],
+            [
+              -45.4682759,
+              -22.2464455
+            ],
+            [
+              -45.4683328,
+              -22.2463206
+            ],
+            [
+              -45.4685338,
+              -22.2463992
+            ],
+            [
+              -45.4685508,
+              -22.2463619
+            ],
+            [
+              -45.4685691,
+              -22.2463219
+            ],
+            [
+              -45.4686323,
+              -22.2463466
+            ],
+            [
+              -45.4686855,
+              -22.2463674
+            ],
+            [
+              -45.4686311,
+              -22.2464865
+            ],
+            [
+              -45.4686523,
+              -22.2464948
+            ],
+            [
+              -45.4686376,
+              -22.2465269
+            ],
+            [
+              -45.4686183,
+              -22.2465193
+            ],
+            [
+              -45.4685606,
+              -22.2466457
+            ],
+            [
+              -45.4684432,
+              -22.2465999
+            ],
+            [
+              -45.4684005,
+              -22.2466935
+            ],
+            [
+              -45.4683066,
+              -22.2466568
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11329912246",
+      "properties": {
+        "timestamp": "2024-09-11T19:30:54Z",
+        "version": 2,
+        "changeset": 156499827,
+        "entrance": "secondary",
+        "id": "node/11329912246"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -45.4683471,
-          -22.246466
+          -45.4682409,
+          -22.2465222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11329912247",
+      "properties": {
+        "timestamp": "2024-09-11T19:30:54Z",
+        "version": 2,
+        "changeset": 156499827,
+        "emergency": "ambulance_station",
+        "id": "node/11329912247"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.4682759,
+          -22.2464455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12170547137",
+      "properties": {
+        "timestamp": "2024-09-11T19:30:54Z",
+        "version": 1,
+        "changeset": 156499827,
+        "entrance": "main",
+        "id": "node/12170547137"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.4682621,
+          -22.2464756
         ]
       }
     }

@@ -7049,6 +7049,62 @@
     },
     {
       "type": "Feature",
+      "id": "way/1313124480",
+      "properties": {
+        "timestamp": "2024-09-04T00:36:03Z",
+        "version": 1,
+        "changeset": 156163662,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "930",
+        "addr:postcode": "01152-000",
+        "addr:street": "Rua Barra Funda",
+        "government": "public_service",
+        "name": "Procom",
+        "office": "government",
+        "id": "way/1313124480"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.6588369,
+              -23.5272656
+            ],
+            [
+              -46.6586386,
+              -23.5270586
+            ],
+            [
+              -46.6587531,
+              -23.5269798
+            ],
+            [
+              -46.6588012,
+              -23.5270422
+            ],
+            [
+              -46.6590655,
+              -23.5268584
+            ],
+            [
+              -46.6591964,
+              -23.5270129
+            ],
+            [
+              -46.6590366,
+              -23.5271252
+            ],
+            [
+              -46.6588369,
+              -23.5272656
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/94175568",
       "properties": {
         "timestamp": "2023-11-21T23:26:33Z",
@@ -10437,6 +10493,27 @@
         "coordinates": [
           -46.7267856,
           -23.7885703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12154514770",
+      "properties": {
+        "timestamp": "2024-09-04T00:36:03Z",
+        "version": 1,
+        "changeset": 156163662,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "930",
+        "addr:postcode": "01152-000",
+        "addr:street": "Rua Barra Funda",
+        "id": "node/12154514770"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6590366,
+          -23.5271252
         ]
       }
     }

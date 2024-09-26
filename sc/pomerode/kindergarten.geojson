@@ -535,11 +535,12 @@
       "type": "Feature",
       "id": "node/8779105664",
       "properties": {
-        "timestamp": "2024-02-23T16:31:02Z",
-        "version": 3,
-        "changeset": 147824677,
+        "timestamp": "2024-09-04T02:23:28Z",
+        "version": 4,
+        "changeset": 156165504,
         "amenity": "kindergarten",
-        "check_date": "2024-02-23",
+        "check_date": "2024-09-03",
+        "check_date:opening_hours": "2024-09-03",
         "contact:facebook": "spielhauspomerode",
         "contact:instagram": "spielhaus_pomerode",
         "contact:mobile": "+55 47 99191-3995",
@@ -547,7 +548,8 @@
         "max_age": "12",
         "min_age": "3",
         "name": "Spielhaus",
-        "opening_hours": "Mo-Fr 07:00-18:30",
+        "opening_hours": "Mo-Fr 07:00-18:00",
+        "source:opening_hours": "survey",
         "id": "node/8779105664"
       },
       "geometry": {

@@ -619,27 +619,131 @@
     },
     {
       "type": "Feature",
-      "id": "node/1314461590",
+      "id": "way/1313330072",
       "properties": {
-        "timestamp": "2023-07-21T04:04:59Z",
-        "version": 2,
-        "changeset": 138792166,
+        "timestamp": "2024-09-04T19:38:07Z",
+        "version": 1,
+        "changeset": 156202161,
         "addr:housenumber": "896",
-        "addr:postcode": "16015-000",
+        "addr:street": "Rua Floriano Peixoto",
+        "addr:suburb": "Vila Mendonça",
+        "amenity": "hospital",
+        "contact:phone": "+55 18 3607 3000",
+        "healthcare": "hospital",
+        "name": "Santa Casa de Araçatuba",
+        "phone": "+55 18 3607 3022",
+        "ref:vatin": "BR43751502000167",
+        "website": "https://santacasadearacatuba.com.br/home",
+        "id": "way/1313330072"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -50.4298474,
+              -21.206696
+            ],
+            [
+              -50.4281947,
+              -21.2065435
+            ],
+            [
+              -50.4282186,
+              -21.2057127
+            ],
+            [
+              -50.4293012,
+              -21.2058261
+            ],
+            [
+              -50.4293311,
+              -21.2053856
+            ],
+            [
+              -50.429973,
+              -21.2054395
+            ],
+            [
+              -50.4298973,
+              -21.2066541
+            ],
+            [
+              -50.4298474,
+              -21.206696
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1313330074",
+      "properties": {
+        "timestamp": "2024-09-04T19:38:07Z",
+        "version": 1,
+        "changeset": 156202161,
+        "addr:housenumber": "896",
         "addr:street": "Rua Floriano Peixoto",
         "amenity": "hospital",
         "healthcare": "hospital",
-        "name": "Santa Casa de Araçatuba",
-        "phone": "+55 18 3607 3000",
-        "ref:CNES": "2078775",
-        "ref:vatin": "BR43751502000167",
-        "id": "node/1314461590"
+        "healthcare:speciality": "hemodiálise",
+        "name": "Hospital do Rim",
+        "id": "way/1313330074"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -50.4290415,
-          -21.2062524
+          [
+            [
+              -50.4292533,
+              -21.2055659
+            ],
+            [
+              -50.4292473,
+              -21.2056644
+            ],
+            [
+              -50.4292633,
+              -21.2056625
+            ],
+            [
+              -50.4292513,
+              -21.2057648
+            ],
+            [
+              -50.4292334,
+              -21.2057796
+            ],
+            [
+              -50.4291955,
+              -21.2057722
+            ],
+            [
+              -50.4291955,
+              -21.2057908
+            ],
+            [
+              -50.4290799,
+              -21.2057796
+            ],
+            [
+              -50.4290818,
+              -21.205748
+            ],
+            [
+              -50.4291317,
+              -21.2057536
+            ],
+            [
+              -50.4291556,
+              -21.2055566
+            ],
+            [
+              -50.4292533,
+              -21.2055659
+            ]
+          ]
         ]
       }
     }

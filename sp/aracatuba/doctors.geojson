@@ -151,6 +151,104 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1313305972",
+      "properties": {
+        "timestamp": "2024-09-04T19:38:07Z",
+        "version": 2,
+        "changeset": 156202161,
+        "addr:housenumber": "475",
+        "addr:street": "Rua Mato Grosso",
+        "amenity": "doctors",
+        "building": "yes",
+        "healthcare": "doctor",
+        "healthcare:speciality": "general",
+        "name": "Neuroclínica",
+        "id": "way/1313305972"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -50.4308069,
+              -21.2065993
+            ],
+            [
+              -50.4307948,
+              -21.2066477
+            ],
+            [
+              -50.4308086,
+              -21.2066671
+            ],
+            [
+              -50.4307429,
+              -21.2067155
+            ],
+            [
+              -50.4307082,
+              -21.2067284
+            ],
+            [
+              -50.4307186,
+              -21.20668
+            ],
+            [
+              -50.430665,
+              -21.2066283
+            ],
+            [
+              -50.4306909,
+              -21.2066106
+            ],
+            [
+              -50.4306719,
+              -21.2065896
+            ],
+            [
+              -50.4307013,
+              -21.2065573
+            ],
+            [
+              -50.4307515,
+              -21.2065589
+            ],
+            [
+              -50.4308069,
+              -21.2065993
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12155903171",
+      "properties": {
+        "timestamp": "2024-09-04T17:20:56Z",
+        "version": 1,
+        "changeset": 156197151,
+        "addr:housenumber": "793",
+        "addr:street": "Rua Tiradentes",
+        "amenity": "doctors",
+        "healthcare": "doctor",
+        "healthcare:speciality": "endocrinology;metabologia",
+        "mobile": "+55 18 99769 0088",
+        "name": "Clínica Fontanelli",
+        "phone": "+55 18 3623 3688",
+        "website": "https://www.clinicafontanelli.com.br/",
+        "id": "node/12155903171"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4326454,
+          -21.2068515
+        ]
+      }
     }
   ]
 }

@@ -3,6 +3,52 @@
   "features": [
     {
       "type": "Feature",
+      "id": "way/1312694864",
+      "properties": {
+        "timestamp": "2024-09-01T23:13:17Z",
+        "version": 1,
+        "changeset": 156074450,
+        "amenity": "pharmacy",
+        "building": "yes",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Regional Farmácias",
+        "id": "way/1312694864"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.4266018,
+              -28.9958565
+            ],
+            [
+              -49.4266918,
+              -28.9959367
+            ],
+            [
+              -49.4265865,
+              -28.9960271
+            ],
+            [
+              -49.4264965,
+              -28.9959469
+            ],
+            [
+              -49.4265903,
+              -28.9958664
+            ],
+            [
+              -49.4266018,
+              -28.9958565
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/11262822538",
       "properties": {
         "timestamp": "2023-10-14T15:22:18Z",
@@ -24,6 +70,26 @@
         "coordinates": [
           -49.4174826,
           -28.9850271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12150573312",
+      "properties": {
+        "timestamp": "2024-09-01T23:02:42Z",
+        "version": 1,
+        "changeset": 156074329,
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Drogaria Marista",
+        "id": "node/12150573312"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.4408342,
+          -29.0078566
         ]
       }
     }

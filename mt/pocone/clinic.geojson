@@ -3,6 +3,46 @@
   "features": [
     {
       "type": "Feature",
+      "id": "way/1312688498",
+      "properties": {
+        "timestamp": "2024-09-01T21:54:39Z",
+        "version": 1,
+        "changeset": 156073319,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "PSF São Benedito",
+        "id": "way/1312688498"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -56.6286877,
+              -16.2707416
+            ],
+            [
+              -56.6289874,
+              -16.2709976
+            ],
+            [
+              -56.6288455,
+              -16.2711506
+            ],
+            [
+              -56.6285458,
+              -16.2708946
+            ],
+            [
+              -56.6286877,
+              -16.2707416
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/9958172264",
       "properties": {
         "timestamp": "2022-08-17T00:47:52Z",
@@ -137,26 +177,6 @@
         "coordinates": [
           -56.6183393,
           -16.246839
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/9959442583",
-      "properties": {
-        "timestamp": "2022-08-17T14:42:59Z",
-        "version": 1,
-        "changeset": 125021323,
-        "amenity": "clinic",
-        "healthcare": "clinic",
-        "name": "PSF São Benedito",
-        "id": "node/9959442583"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -56.6287072,
-          -16.2708799
         ]
       }
     }

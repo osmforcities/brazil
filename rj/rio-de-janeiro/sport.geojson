@@ -78407,12 +78407,12 @@
       "type": "Feature",
       "id": "way/688526932",
       "properties": {
-        "timestamp": "2022-04-21T03:35:38Z",
-        "version": 2,
-        "changeset": 119978870,
+        "timestamp": "2024-09-01T17:32:25Z",
+        "version": 3,
+        "changeset": 156065180,
         "access": "yes",
         "leisure": "pitch",
-        "lit": "sunset-sunrise",
+        "lit": "yes",
         "name": "Arena Campão",
         "sport": "soccer",
         "surface": "grass",
@@ -78462,12 +78462,12 @@
       "type": "Feature",
       "id": "way/688526933",
       "properties": {
-        "timestamp": "2022-04-21T03:35:38Z",
-        "version": 2,
-        "changeset": 119978870,
+        "timestamp": "2024-09-01T17:32:25Z",
+        "version": 3,
+        "changeset": 156065180,
         "access": "yes",
         "leisure": "pitch",
-        "lit": "sunset-sunrise",
+        "lit": "yes",
         "sport": "soccer",
         "surface": "concrete",
         "id": "way/688526933"
@@ -93032,6 +93032,51 @@
     },
     {
       "type": "Feature",
+      "id": "way/1082965630",
+      "properties": {
+        "timestamp": "2024-09-01T15:41:21Z",
+        "version": 2,
+        "changeset": 156060473,
+        "addr:city": "Tijuca",
+        "addr:housenumber": "302",
+        "addr:postcode": "20261-068",
+        "addr:street": "Rua do Bispo",
+        "building": "yes",
+        "club": "sport",
+        "name": "Casa dos Poveiros",
+        "sport": "multi;judo;futsal;swimming;free_flying",
+        "id": "way/1082965630"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.2147336,
+              -22.9212619
+            ],
+            [
+              -43.21452,
+              -22.9211882
+            ],
+            [
+              -43.2145866,
+              -22.9210186
+            ],
+            [
+              -43.2147965,
+              -22.9210947
+            ],
+            [
+              -43.2147336,
+              -22.9212619
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1083792444",
       "properties": {
         "timestamp": "2024-01-18T23:14:51Z",
@@ -106505,6 +106550,59 @@
     },
     {
       "type": "Feature",
+      "id": "way/1311117203",
+      "properties": {
+        "timestamp": "2024-09-01T02:33:55Z",
+        "version": 2,
+        "changeset": 156037263,
+        "disused:leisure": "pitch",
+        "disused:sport": "soccer",
+        "leisure": "pitch",
+        "sport": "soccer",
+        "id": "way/1311117203"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.372975,
+              -22.9737995
+            ],
+            [
+              -43.3729778,
+              -22.9739965
+            ],
+            [
+              -43.372769,
+              -22.9739938
+            ],
+            [
+              -43.3726623,
+              -22.9739941
+            ],
+            [
+              -43.3726423,
+              -22.9739941
+            ],
+            [
+              -43.3726384,
+              -22.9738012
+            ],
+            [
+              -43.3727127,
+              -22.9738004
+            ],
+            [
+              -43.372975,
+              -22.9737995
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/30658172",
       "properties": {
         "timestamp": "2015-09-21T12:59:11Z",
@@ -110243,6 +110341,49 @@
     },
     {
       "type": "Feature",
+      "id": "way/1312628613",
+      "properties": {
+        "timestamp": "2024-09-01T15:41:21Z",
+        "version": 1,
+        "changeset": 156060473,
+        "addr:city": "Rio de Janeiro",
+        "addr:housenumber": "302",
+        "addr:postcode": "20261-068",
+        "addr:street": "Rua do Bispo",
+        "addr:suburb": "Tijuca",
+        "club": "sport",
+        "name": "Casa dos Poveiros",
+        "sport": "soccer;swimming;multi;futsal;judo",
+        "id": "way/1312628613"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.2145346,
+            -22.9207767
+          ],
+          [
+            -43.2143123,
+            -22.9213324
+          ],
+          [
+            -43.2148055,
+            -22.9214735
+          ],
+          [
+            -43.2149885,
+            -22.9209195
+          ],
+          [
+            -43.2145346,
+            -22.9207767
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/142913585",
       "properties": {
         "timestamp": "2024-04-08T22:20:31Z",
@@ -110801,29 +110942,6 @@
         "coordinates": [
           -43.2153516,
           -22.979797
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/2378603746",
-      "properties": {
-        "timestamp": "2013-07-09T23:48:10Z",
-        "version": 2,
-        "changeset": 16893857,
-        "addr:city": "Rio de Janeiro",
-        "addr:housenumber": "302",
-        "addr:street": "Rua do Bispo",
-        "leisure": "sports_centre",
-        "name": "Casa dos Poveiros",
-        "sport": "swimming",
-        "id": "node/2378603746"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.2147565,
-          -22.921035
         ]
       }
     },

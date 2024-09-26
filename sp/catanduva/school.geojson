@@ -2041,60 +2041,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/1198140635",
-      "properties": {
-        "timestamp": "2023-08-15T18:33:49Z",
-        "version": 2,
-        "changeset": 139929393,
-        "addr:city": "Catanduva",
-        "addr:housenumber": "231",
-        "addr:postcode": "15813-135",
-        "addr:street": "Rua Linhares",
-        "addr:suburb": "Conjunto Habitacional Gabriel Hernandez",
-        "amenity": "school",
-        "name": "EMEI Gabriel Hernandez Ferreira",
-        "operator": "Prefeitura de Catanduva",
-        "operator:type": "government",
-        "id": "way/1198140635"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -49.0162878,
-              -21.1278081
-            ],
-            [
-              -49.0164494,
-              -21.1278798
-            ],
-            [
-              -49.0167855,
-              -21.1280289
-            ],
-            [
-              -49.0164655,
-              -21.1286247
-            ],
-            [
-              -49.0159891,
-              -21.1284119
-            ],
-            [
-              -49.0162258,
-              -21.1279333
-            ],
-            [
-              -49.0162878,
-              -21.1278081
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/1198436170",
       "properties": {
         "timestamp": "2023-10-20T16:30:38Z",
@@ -2163,17 +2109,17 @@
       "type": "Feature",
       "id": "way/1200674506",
       "properties": {
-        "timestamp": "2023-08-20T20:11:21Z",
-        "version": 1,
-        "changeset": 140150196,
+        "timestamp": "2024-09-01T17:29:15Z",
+        "version": 2,
+        "changeset": 156065077,
         "addr:city": "Catanduva",
         "addr:housenumber": "215",
         "addr:street": "Rua Jaçanã",
         "addr:suburb": "Jardim Imperial",
         "amenity": "school",
-        "name": "EMEF Coronel José Pedro da Motta",
-        "operator": "Prefeitura de Catanduva",
         "operator:type": "government",
+        "religion": "none",
+        "short_name": "EMEF Coronel José Pedro da Motta",
         "id": "way/1200674506"
       },
       "geometry": {
@@ -2208,15 +2154,19 @@
       "type": "Feature",
       "id": "way/1200674507",
       "properties": {
-        "timestamp": "2023-08-20T20:11:21Z",
-        "version": 1,
-        "changeset": 140150196,
+        "timestamp": "2024-09-01T17:29:15Z",
+        "version": 2,
+        "changeset": 156065077,
         "addr:city": "Catanduva",
         "addr:housenumber": "155",
         "addr:street": "Rua Jaçanã",
         "addr:suburb": "Jardim Imperial",
         "amenity": "school",
         "name": "E.E. Professor Cleomério José Campi",
+        "official_name": "Escola Estadual Professor Cleomério José Campi",
+        "operator": "Secretaria da Educação do Estado de São Paulo",
+        "operator:type": "government",
+        "religion": "none",
         "id": "way/1200674507"
       },
       "geometry": {
@@ -2242,121 +2192,6 @@
             [
               -49.0169999,
               -21.1297378
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1200674508",
-      "properties": {
-        "timestamp": "2023-08-22T18:51:17Z",
-        "version": 2,
-        "changeset": 140242604,
-        "addr:city": "Catanduva",
-        "addr:housenumber": "55",
-        "addr:street": "Rua Linhares",
-        "addr:suburb": "Conjunto Habitacional Gabriel Hernandez",
-        "amenity": "school",
-        "name": "EMEI Prof. Nardi Ignotti",
-        "operator": "Prefeitura Municipal de Catanduva",
-        "operator:type": "government",
-        "phone": "+55 17 3521 1428",
-        "id": "way/1200674508"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -49.0152895,
-              -21.1305402
-            ],
-            [
-              -49.0152216,
-              -21.1306903
-            ],
-            [
-              -49.0150876,
-              -21.1309863
-            ],
-            [
-              -49.0147961,
-              -21.1308714
-            ],
-            [
-              -49.014998,
-              -21.1304254
-            ],
-            [
-              -49.0152895,
-              -21.1305402
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1219095813",
-      "properties": {
-        "timestamp": "2023-10-28T21:48:55Z",
-        "version": 1,
-        "changeset": 143285334,
-        "addr:city": "Catanduva",
-        "addr:housenumber": "1025",
-        "addr:street": "Rua Ipiranga",
-        "addr:suburb": "Parque Residencial Flamingo",
-        "amenity": "school",
-        "name": "SESI Catanduva",
-        "operator": "SESI",
-        "operator:type": "private_non_profit",
-        "id": "way/1219095813"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -49.0011096,
-              -21.1259752
-            ],
-            [
-              -49.0011166,
-              -21.1260834
-            ],
-            [
-              -49.0005725,
-              -21.1275753
-            ],
-            [
-              -49.0005258,
-              -21.1276211
-            ],
-            [
-              -49.0002643,
-              -21.128318
-            ],
-            [
-              -49.0002316,
-              -21.1283551
-            ],
-            [
-              -49.0001919,
-              -21.1283768
-            ],
-            [
-              -48.9997226,
-              -21.1283224
-            ],
-            [
-              -48.9999351,
-              -21.1263404
-            ],
-            [
-              -49.0011096,
-              -21.1259752
             ]
           ]
         ]

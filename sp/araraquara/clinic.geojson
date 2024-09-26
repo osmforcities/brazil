@@ -1971,6 +1971,54 @@
     },
     {
       "type": "Feature",
+      "id": "way/1312666052",
+      "properties": {
+        "timestamp": "2024-09-01T19:22:16Z",
+        "version": 1,
+        "changeset": 156069384,
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "id": "way/1312666052"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.1930944,
+              -21.7670884
+            ],
+            [
+              -48.1930677,
+              -21.7671189
+            ],
+            [
+              -48.1930903,
+              -21.767136
+            ],
+            [
+              -48.1930075,
+              -21.7672302
+            ],
+            [
+              -48.1928928,
+              -21.7671433
+            ],
+            [
+              -48.1930023,
+              -21.7670187
+            ],
+            [
+              -48.1930944,
+              -21.7670884
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/255956893",
       "properties": {
         "timestamp": "2014-01-09T21:03:15Z",
@@ -2374,10 +2422,11 @@
       "type": "Feature",
       "id": "node/6734003652",
       "properties": {
-        "timestamp": "2019-08-22T00:55:25Z",
-        "version": 1,
-        "changeset": 73600713,
+        "timestamp": "2024-09-01T19:22:16Z",
+        "version": 2,
+        "changeset": 156069384,
         "amenity": "clinic",
+        "healthcare": "clinic",
         "name": "Programa de Saúde da Família Doutor José Ricardo de Carvalho Angelieri",
         "short_name": "PSF Dr. José Ricardo de Carvalho Angelieri",
         "id": "node/6734003652"

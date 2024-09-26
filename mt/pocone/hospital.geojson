@@ -3,11 +3,11 @@
   "features": [
     {
       "type": "Feature",
-      "id": "node/9960324018",
+      "id": "way/1312688501",
       "properties": {
-        "timestamp": "2023-05-06T18:51:10Z",
-        "version": 2,
-        "changeset": 135788404,
+        "timestamp": "2024-09-01T21:54:39Z",
+        "version": 1,
+        "changeset": 156073319,
         "addr:city": "Poconé",
         "addr:housenumber": "406",
         "addr:postcode": "78175-000",
@@ -16,17 +16,37 @@
         "amenity": "hospital",
         "fax": "+55 65 3345 1963",
         "healthcare": "hospital",
-        "name": "Hospital Geral de Pocone Dr Nicolau Fontanilas Frageli",
+        "name": "Hospital Geral de Poconé Dr. Nicolau Fontanilas Frageli",
         "phone": "+55 65 3345 1963",
         "ref:CNES": "2391449",
         "ref:vatin": "BR03073889000125",
-        "id": "node/9960324018"
+        "id": "way/1312688501"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -56.6237033,
-          -16.2702834
+          [
+            [
+              -56.6235411,
+              -16.2697523
+            ],
+            [
+              -56.6244737,
+              -16.2703277
+            ],
+            [
+              -56.6240414,
+              -16.2709733
+            ],
+            [
+              -56.6231089,
+              -16.2703977
+            ],
+            [
+              -56.6235411,
+              -16.2697523
+            ]
+          ]
         ]
       }
     }

@@ -295,6 +295,49 @@
     },
     {
       "type": "Feature",
+      "id": "way/1312883760",
+      "properties": {
+        "timestamp": "2024-09-02T19:39:42Z",
+        "version": 1,
+        "changeset": 156114377,
+        "amenity": "school",
+        "building": "yes",
+        "id": "way/1312883760"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.8129839,
+              -16.057189
+            ],
+            [
+              -47.813343,
+              -16.0574297
+            ],
+            [
+              -47.8129736,
+              -16.0579387
+            ],
+            [
+              -47.8126371,
+              -16.0577131
+            ],
+            [
+              -47.8126144,
+              -16.0576979
+            ],
+            [
+              -47.8129839,
+              -16.057189
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/2333472583",
       "properties": {
         "timestamp": "2023-10-11T23:27:58Z",
@@ -396,6 +439,24 @@
         "coordinates": [
           -47.9318432,
           -16.1104105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12152230584",
+      "properties": {
+        "timestamp": "2024-09-02T19:39:42Z",
+        "version": 1,
+        "changeset": 156114377,
+        "entrance": "main",
+        "id": "node/12152230584"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.8126371,
+          -16.0577131
         ]
       }
     }

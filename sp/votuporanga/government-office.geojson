@@ -66,6 +66,131 @@
     },
     {
       "type": "Feature",
+      "id": "way/1312896636",
+      "properties": {
+        "timestamp": "2024-09-02T20:28:46Z",
+        "version": 1,
+        "changeset": 156115883,
+        "government": "social_services",
+        "name": "Secretaria Municipal de Assistência Social",
+        "office": "government",
+        "operator": "Prefeitura Municipal de Votuporanga",
+        "operator:type": "public",
+        "id": "way/1312896636"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.9618225,
+              -20.4232022
+            ],
+            [
+              -49.9618547,
+              -20.4232462
+            ],
+            [
+              -49.9617313,
+              -20.424038
+            ],
+            [
+              -49.9616884,
+              -20.4240719
+            ],
+            [
+              -49.9612525,
+              -20.4239965
+            ],
+            [
+              -49.961215,
+              -20.4239362
+            ],
+            [
+              -49.9613705,
+              -20.4231658
+            ],
+            [
+              -49.9614134,
+              -20.4231306
+            ],
+            [
+              -49.9618225,
+              -20.4232022
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1312896690",
+      "properties": {
+        "timestamp": "2024-09-02T20:28:46Z",
+        "version": 1,
+        "changeset": 156115883,
+        "addr:city": "Votuporanga",
+        "addr:housenumber": "4600",
+        "addr:street": "Rua Tibagi",
+        "addr:suburb": "Jardim Alvorada",
+        "government": "transportation",
+        "name": "Departamento de Estradas de Rodagem",
+        "office": "government",
+        "operator": "Governo do Estado de São Paulo",
+        "short_name": "DER",
+        "wheelchair": "yes",
+        "id": "way/1312896690"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.9627304,
+              -20.4253576
+            ],
+            [
+              -49.9627613,
+              -20.4254004
+            ],
+            [
+              -49.9626178,
+              -20.4260841
+            ],
+            [
+              -49.9625815,
+              -20.4261155
+            ],
+            [
+              -49.9603365,
+              -20.4257661
+            ],
+            [
+              -49.9602856,
+              -20.4257322
+            ],
+            [
+              -49.960075,
+              -20.4250258
+            ],
+            [
+              -49.9600844,
+              -20.4249969
+            ],
+            [
+              -49.9601327,
+              -20.4249756
+            ],
+            [
+              -49.9627304,
+              -20.4253576
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/3875059909",
       "properties": {
         "timestamp": "2018-12-21T01:51:16Z",
@@ -86,33 +211,6 @@
         "coordinates": [
           -49.983866,
           -20.4200091
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/6405044715",
-      "properties": {
-        "timestamp": "2020-05-18T19:51:49Z",
-        "version": 2,
-        "changeset": 85401065,
-        "addr:city": "Votuporanga",
-        "addr:housenumber": "4600",
-        "addr:street": "Rua Tibagi",
-        "addr:suburb": "Jardim Alvorada",
-        "government": "transportation",
-        "name": "Departamento de Estradas de Rodagem",
-        "office": "government",
-        "operator": "Governo do Estado de São Paulo",
-        "short_name": "DER",
-        "wheelchair": "yes",
-        "id": "node/6405044715"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.9621497,
-          -20.4254004
         ]
       }
     }

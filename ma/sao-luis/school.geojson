@@ -1086,9 +1086,9 @@
       "type": "Feature",
       "id": "way/681454913",
       "properties": {
-        "timestamp": "2019-10-04T21:56:12Z",
-        "version": 6,
-        "changeset": 75305061,
+        "timestamp": "2024-09-09T18:14:46Z",
+        "version": 7,
+        "changeset": 156408019,
         "amenity": "school",
         "school": "primary",
         "id": "way/681454913"
@@ -1100,6 +1100,10 @@
             [
               -44.2777014,
               -2.5563681
+            ],
+            [
+              -44.2776875,
+              -2.5563821
             ],
             [
               -44.2776193,
@@ -18094,6 +18098,28 @@
         "coordinates": [
           -44.2177751,
           -2.5070391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12166057382",
+      "properties": {
+        "timestamp": "2024-09-09T18:14:46Z",
+        "version": 1,
+        "changeset": 156408019,
+        "bus": "yes",
+        "name": "público",
+        "network": "público",
+        "operator": "governo municipal",
+        "public_transport": "stop_position",
+        "id": "node/12166057382"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.2776875,
+          -2.5563821
         ]
       }
     }

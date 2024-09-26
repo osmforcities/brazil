@@ -617,11 +617,12 @@
       "type": "Feature",
       "id": "way/445326019",
       "properties": {
-        "timestamp": "2020-07-30T10:28:33Z",
-        "version": 4,
-        "changeset": 88726742,
+        "timestamp": "2024-09-09T19:48:49Z",
+        "version": 5,
+        "changeset": 156411834,
         "amenity": "university",
-        "name": "Unaerp",
+        "name": "Universidade de Ribeirão Preto",
+        "short_name": "UNAERP",
         "wikidata": "Q10387899",
         "id": "way/445326019"
       },
@@ -730,12 +731,16 @@
               -21.1990153
             ],
             [
-              -47.777925,
-              -21.1989041
+              -47.7779236,
+              -21.1989066
             ],
             [
-              -47.7792715,
-              -21.1988028
+              -47.778262,
+              -21.1988932
+            ],
+            [
+              -47.7792943,
+              -21.1988615
             ],
             [
               -47.7805083,
@@ -1587,6 +1592,28 @@
         "coordinates": [
           -47.8180574,
           -21.2190949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8790894041",
+      "properties": {
+        "timestamp": "2021-08-16T14:42:51Z",
+        "version": 2,
+        "changeset": 109756162,
+        "access": "permissive",
+        "barrier": "gate",
+        "horse": "no",
+        "motor_vehicle": "permit",
+        "wheelchair": "yes",
+        "id": "node/8790894041"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.778262,
+          -21.1988932
         ]
       }
     },

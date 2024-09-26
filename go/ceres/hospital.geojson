@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/308474514",
+      "properties": {
+        "timestamp": "2021-08-16T17:05:19Z",
+        "version": 2,
+        "changeset": 109763073,
+        "amenity": "hospital",
+        "emergency": "ambulance_station",
+        "healthcare": "hospital",
+        "name": "SAMU",
+        "operator": "SAMU 192",
+        "operator:wikidata": "Q104713679",
+        "operator:wikipedia": "pt:Serviço de Atendimento Móvel de Urgência",
+        "id": "way/308474514"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.6005483,
+              -15.3027908
+            ],
+            [
+              -49.6009181,
+              -15.3027106
+            ],
+            [
+              -49.6008318,
+              -15.3032158
+            ],
+            [
+              -49.6004682,
+              -15.3031058
+            ],
+            [
+              -49.6005483,
+              -15.3027908
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4146686178",
+      "properties": {
+        "timestamp": "2023-05-08T19:06:52Z",
+        "version": 3,
+        "changeset": 135866164,
+        "addr:city": "Ceres",
+        "addr:housenumber": "100",
+        "addr:postcode": "76300-000",
+        "addr:street": "Rua São Patrício",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hospital São Patrício",
+        "ref:CNES": "2337495",
+        "ref:vatin": "BR01380237000108",
+        "id": "node/4146686178"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.5933733,
+          -15.3094374
+        ]
+      }
+    }
+  ]
+}

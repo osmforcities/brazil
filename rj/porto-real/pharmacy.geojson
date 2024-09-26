@@ -1,0 +1,91 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/236329341",
+      "properties": {
+        "timestamp": "2013-09-02T22:33:12Z",
+        "version": 1,
+        "changeset": 17645118,
+        "amenity": "pharmacy",
+        "building": "yes",
+        "name": "Drogaria Retiro",
+        "id": "way/236329341"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.292057,
+              -22.4172797
+            ],
+            [
+              -44.292102,
+              -22.4172397
+            ],
+            [
+              -44.2922617,
+              -22.4173967
+            ],
+            [
+              -44.2922173,
+              -22.4174378
+            ],
+            [
+              -44.292057,
+              -22.4172797
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2438145179",
+      "properties": {
+        "timestamp": "2016-07-17T01:53:20Z",
+        "version": 5,
+        "changeset": 40790347,
+        "amenity": "pharmacy",
+        "atm": "no",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "operator": "Private",
+        "source": "Local",
+        "id": "node/2438145179"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.298063,
+          -22.412433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2470415207",
+      "properties": {
+        "timestamp": "2013-09-24T19:51:21Z",
+        "version": 1,
+        "changeset": 18015719,
+        "amenity": "pharmacy",
+        "name": "Drogamix Freitas Soares",
+        "operator": "Private",
+        "phone": "24 33532224",
+        "source": "Local",
+        "wheelchair": "yes",
+        "id": "node/2470415207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.315573,
+          -22.442124
+        ]
+      }
+    }
+  ]
+}

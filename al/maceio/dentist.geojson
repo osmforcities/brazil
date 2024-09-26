@@ -1,0 +1,130 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1009696262",
+      "properties": {
+        "timestamp": "2022-03-14T00:00:26Z",
+        "version": 2,
+        "changeset": 118449155,
+        "amenity": "dentist",
+        "building": "yes",
+        "description": "Implantes dentários",
+        "healthcare": "dentist",
+        "name": "Oral Sin",
+        "id": "way/1009696262"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -35.7089892,
+              -9.6621593
+            ],
+            [
+              -35.7089774,
+              -9.6621556
+            ],
+            [
+              -35.7090083,
+              -9.6620603
+            ],
+            [
+              -35.709221,
+              -9.6621276
+            ],
+            [
+              -35.709207,
+              -9.6621706
+            ],
+            [
+              -35.7091906,
+              -9.6622212
+            ],
+            [
+              -35.709179,
+              -9.6622176
+            ],
+            [
+              -35.7091585,
+              -9.6622805
+            ],
+            [
+              -35.7090827,
+              -9.6622565
+            ],
+            [
+              -35.7090739,
+              -9.6622834
+            ],
+            [
+              -35.7089605,
+              -9.6622476
+            ],
+            [
+              -35.7089892,
+              -9.6621593
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4182292681",
+      "properties": {
+        "timestamp": "2019-12-29T02:31:15Z",
+        "version": 2,
+        "changeset": 78969774,
+        "addr:door": "6",
+        "addr:housenumber": "60",
+        "addr:street": "Rua Conde de Irajá",
+        "amenity": "dentist",
+        "health_facility:type": "office",
+        "health_specialty:dentistry": "yes",
+        "healthcare": "dentist",
+        "medical_system:western": "yes",
+        "name": "Reabilitação Oral",
+        "office": "physician",
+        "operator": "Dr. Juarez Costa",
+        "id": "node/4182292681"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.7149407,
+          -9.6686358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12053788259",
+      "properties": {
+        "timestamp": "2024-07-14T20:26:23Z",
+        "version": 1,
+        "changeset": 153946272,
+        "addr:city": "Maceió",
+        "addr:housenumber": "16",
+        "addr:postcode": "57062-010",
+        "addr:street": "Alameda José Lopes Albuquerque",
+        "addr:suburb": "Petrópolis",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "healthcare:speciality": "orthodontics",
+        "level": "1",
+        "name": "Bendito Sorriso",
+        "id": "node/12053788259"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.7597029,
+          -9.6034013
+        ]
+      }
+    }
+  ]
+}

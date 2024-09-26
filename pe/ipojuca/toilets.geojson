@@ -1,0 +1,91 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/896631150",
+      "properties": {
+        "timestamp": "2021-01-18T16:07:33Z",
+        "version": 1,
+        "changeset": 97709454,
+        "amenity": "toilets",
+        "building": "yes",
+        "id": "way/896631150"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -35.0661122,
+              -8.4041855
+            ],
+            [
+              -35.066137,
+              -8.4042126
+            ],
+            [
+              -35.0661108,
+              -8.4042361
+            ],
+            [
+              -35.066086,
+              -8.4042089
+            ],
+            [
+              -35.0661122,
+              -8.4041855
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3375050701",
+      "properties": {
+        "timestamp": "2020-02-26T16:20:57Z",
+        "version": 2,
+        "changeset": 81512216,
+        "access": "yes",
+        "amenity": "toilets",
+        "description": "Banheiro Público",
+        "fee": "no",
+        "operator": "Prefeitura",
+        "source": "survey",
+        "toilets:position": "seated",
+        "wheelchair": "yes",
+        "id": "node/3375050701"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.0010924,
+          -8.5084801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7407519462",
+      "properties": {
+        "timestamp": "2020-04-15T19:44:44Z",
+        "version": 1,
+        "changeset": 83609475,
+        "addr:street": "Travessa Dantas Barreto",
+        "amenity": "toilets",
+        "description": "Masculino e Feminino",
+        "name": "Banheiro Público",
+        "opening_hours": "Mo-Sa 05:00-22:00",
+        "id": "node/7407519462"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.0627842,
+          -8.4000629
+        ]
+      }
+    }
+  ]
+}

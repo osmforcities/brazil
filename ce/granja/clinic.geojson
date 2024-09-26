@@ -1,0 +1,83 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/414484934",
+      "properties": {
+        "timestamp": "2016-04-29T19:07:55Z",
+        "version": 1,
+        "changeset": 38986737,
+        "amenity": "clinic",
+        "id": "way/414484934"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.8278559,
+              -3.1185118
+            ],
+            [
+              -40.8279561,
+              -3.1185585
+            ],
+            [
+              -40.8278605,
+              -3.1187628
+            ],
+            [
+              -40.8277604,
+              -3.1187161
+            ],
+            [
+              -40.8278559,
+              -3.1185118
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4156225459",
+      "properties": {
+        "timestamp": "2024-03-17T19:48:18Z",
+        "version": 2,
+        "changeset": 148787936,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Maternidade",
+        "id": "node/4156225459"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.8300465,
+          -3.1156612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6525618830",
+      "properties": {
+        "timestamp": "2024-03-17T19:48:18Z",
+        "version": 2,
+        "changeset": 148787936,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Unidade de Pronto Atendimento",
+        "id": "node/6525618830"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.8290336,
+          -3.1228721
+        ]
+      }
+    }
+  ]
+}

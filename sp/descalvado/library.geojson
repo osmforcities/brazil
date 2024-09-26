@@ -1,0 +1,74 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/303270250",
+      "properties": {
+        "timestamp": "2017-03-19T00:23:08Z",
+        "version": 8,
+        "changeset": 46969611,
+        "addr:city": "Descalvado",
+        "addr:postcode": "13690-000",
+        "addr:street": "Rua José Ferreira",
+        "amenity": "library",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "Biblioteca Comunitária Professora Zilah Hildebrand de Lima Mussolini",
+        "short_name": "Biblioteca Comunitária",
+        "id": "way/303270250"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.617337,
+              -21.9047933
+            ],
+            [
+              -47.6173575,
+              -21.9050431
+            ],
+            [
+              -47.6171966,
+              -21.9050545
+            ],
+            [
+              -47.6171761,
+              -21.9048047
+            ],
+            [
+              -47.617337,
+              -21.9047933
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6831810618",
+      "properties": {
+        "timestamp": "2023-12-17T22:02:26Z",
+        "version": 3,
+        "changeset": 145230554,
+        "addr:street": "Avenida Guerino Oswaldo",
+        "amenity": "library",
+        "email": "bibliotecadescalvado@gmail.com",
+        "name": "Biblioteca Pública Professor Gerson Alfio de Marco",
+        "operator": "Secretaria de Educação e Cultura",
+        "operator:type": "government",
+        "phone": "+55 19 3583 1013",
+        "id": "node/6831810618"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.6196712,
+          -21.9026807
+        ]
+      }
+    }
+  ]
+}

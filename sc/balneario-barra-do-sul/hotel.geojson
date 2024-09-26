@@ -1,0 +1,72 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/185143477",
+      "properties": {
+        "timestamp": "2022-09-05T22:42:08Z",
+        "version": 3,
+        "changeset": 125833376,
+        "addr:city": "Balneário Barra do Sul",
+        "addr:housenumber": "339",
+        "addr:postcode": "89247-000",
+        "addr:street": "Rua Boca da Barra",
+        "addr:suburb": "Centro",
+        "building": "hotel",
+        "name": "Hotel Bandeirantes",
+        "tourism": "hotel",
+        "id": "way/185143477"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.5984382,
+              -26.455777
+            ],
+            [
+              -48.5985535,
+              -26.4559619
+            ],
+            [
+              -48.5983334,
+              -26.456072
+            ],
+            [
+              -48.598218,
+              -26.4558871
+            ],
+            [
+              -48.5984382,
+              -26.455777
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12063401449",
+      "properties": {
+        "timestamp": "2024-07-19T17:06:14Z",
+        "version": 1,
+        "changeset": 154151632,
+        "addr:city": "Balneário Barra do Sul",
+        "addr:street": "Rua Joaquim Teixeira",
+        "addr:suburb": "Centro",
+        "name": "Pousada Sombreiro da Barra",
+        "tourism": "hotel",
+        "id": "node/12063401449"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.599905,
+          -26.4590189
+        ]
+      }
+    }
+  ]
+}

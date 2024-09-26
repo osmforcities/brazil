@@ -1,0 +1,119 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1072388415",
+      "properties": {
+        "timestamp": "2023-04-20T03:58:04Z",
+        "version": 2,
+        "changeset": 135129146,
+        "addr:city": "Uruguaiana",
+        "addr:housenumber": "2160",
+        "addr:postcode": "97501-974",
+        "addr:street": "Rua Marechal Deodoro",
+        "addr:suburb": "Tarrago",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "UPA Uruguaiana",
+        "ref:CNES": "9315292",
+        "website": "https://cnes.datasus.gov.br/pages/estabelecimentos/ficha/identificacao/4322409315292",
+        "id": "way/1072388415"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -57.0968239,
+              -29.7608323
+            ],
+            [
+              -57.0968309,
+              -29.7611702
+            ],
+            [
+              -57.0966221,
+              -29.7611702
+            ],
+            [
+              -57.0966151,
+              -29.7611334
+            ],
+            [
+              -57.0964133,
+              -29.7611364
+            ],
+            [
+              -57.0964098,
+              -29.7611794
+            ],
+            [
+              -57.0962859,
+              -29.7611764
+            ],
+            [
+              -57.0962894,
+              -29.7611334
+            ],
+            [
+              -57.0961196,
+              -29.7611303
+            ],
+            [
+              -57.0961408,
+              -29.7610473
+            ],
+            [
+              -57.0964204,
+              -29.7610443
+            ],
+            [
+              -57.0964275,
+              -29.7609797
+            ],
+            [
+              -57.0961408,
+              -29.7609767
+            ],
+            [
+              -57.0961479,
+              -29.7608261
+            ],
+            [
+              -57.0968239,
+              -29.7608323
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9856949371",
+      "properties": {
+        "timestamp": "2023-04-20T03:58:04Z",
+        "version": 2,
+        "changeset": 135129146,
+        "addr:city": "Uruguaiana",
+        "addr:housenumber": "3801",
+        "addr:postcode": "97502-854",
+        "addr:street": "Rua Domingos José de Almeida",
+        "addr:suburb": "São Miguel",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "Hospital Santa Casa de Uruguaiana",
+        "ref:CNES": "2248190",
+        "id": "node/9856949371"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.0841179,
+          -29.7730994
+        ]
+      }
+    }
+  ]
+}

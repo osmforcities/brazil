@@ -1,0 +1,107 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1228483330",
+      "properties": {
+        "timestamp": "2023-12-03T19:03:35Z",
+        "version": 1,
+        "changeset": 144729463,
+        "building": "hotel",
+        "name": "Hotel D'Itália",
+        "source": "microsoft/BuildingFootprints",
+        "tourism": "hotel",
+        "id": "way/1228483330"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.8857936,
+              -29.5507967
+            ],
+            [
+              -49.8858415,
+              -29.5508554
+            ],
+            [
+              -49.8858418,
+              -29.5508935
+            ],
+            [
+              -49.8857979,
+              -29.5509176
+            ],
+            [
+              -49.8858247,
+              -29.5509505
+            ],
+            [
+              -49.8857012,
+              -29.5510268
+            ],
+            [
+              -49.8856634,
+              -29.5509805
+            ],
+            [
+              -49.8856225,
+              -29.5509303
+            ],
+            [
+              -49.8857317,
+              -29.5508628
+            ],
+            [
+              -49.8857165,
+              -29.5508442
+            ],
+            [
+              -49.8857936,
+              -29.5507967
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5879605911",
+      "properties": {
+        "timestamp": "2023-12-03T19:03:35Z",
+        "version": 2,
+        "changeset": 144729463,
+        "entrance": "yes",
+        "id": "node/5879605911"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.8856634,
+          -29.5509805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8365927291",
+      "properties": {
+        "timestamp": "2021-01-27T03:06:22Z",
+        "version": 1,
+        "changeset": 98191909,
+        "name": "Brisa do Mar Hotel",
+        "tourism": "hotel",
+        "id": "node/8365927291"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.8992393,
+          -29.5702941
+        ]
+      }
+    }
+  ]
+}

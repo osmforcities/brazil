@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1125266892",
+      "properties": {
+        "timestamp": "2022-12-27T20:09:45Z",
+        "version": 1,
+        "changeset": 130572229,
+        "access": "yes",
+        "addr:city": "Ourinhos",
+        "addr:housenumber": "141",
+        "addr:postcode": "19907-270",
+        "addr:street": "Avenida Conselheiro Rodrigues Alves",
+        "addr:suburb": "Centro",
+        "amenity": "library",
+        "building": "yes",
+        "description": "A Biblioteca Municipal de Ourinhos \"Tristão de Athayde\", tem todo um cronograma de atividades, contação de histórias, oficinas de arte, roda de proza e feiras",
+        "email": "bibliotecamunicipalourinhos@gmail.com",
+        "image": "https://www.ourinhos.sp.gov.br/fotos/d354c12adc285ac1b6af79a21eae4b7b.jpg",
+        "name": "Biblioteca Municipal Tristão de Athayde",
+        "opening_hours": "Mo-Fr 08:00-20:00",
+        "operator": "Prefeitura Municipal de Ourinhos",
+        "operator:type": "public",
+        "phone": "+55 14 3326-4458",
+        "website": "https://www.ourinhos.sp.gov.br/portal/turismo/0/9/5917/biblioteca-municipal-de-ourinhos-tristao-de-athayde",
+        "wheelchair": "yes",
+        "id": "way/1125266892"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.874007,
+              -22.9786279
+            ],
+            [
+              -49.8739274,
+              -22.9786237
+            ],
+            [
+              -49.8739256,
+              -22.9786525
+            ],
+            [
+              -49.8738386,
+              -22.9786478
+            ],
+            [
+              -49.8738502,
+              -22.9784643
+            ],
+            [
+              -49.8740168,
+              -22.9784732
+            ],
+            [
+              -49.874007,
+              -22.9786279
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11110075268",
+      "properties": {
+        "timestamp": "2023-09-09T01:48:04Z",
+        "version": 2,
+        "changeset": 141007455,
+        "addr:city": "Ourinhos",
+        "addr:street": "Bloco 02",
+        "amenity": "library",
+        "extension_phone": "210",
+        "internet_access": "yes",
+        "internet_access:fee": "customers",
+        "name": "Biblioteca Professor Dr. Milton Damato",
+        "operator": "FATEC Ourinhos",
+        "operator:type": "public",
+        "phone": "+55 14 3324-3986",
+        "id": "node/11110075268"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.896032,
+          -22.9507089
+        ]
+      }
+    }
+  ]
+}

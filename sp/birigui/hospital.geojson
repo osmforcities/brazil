@@ -1,0 +1,194 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/202167636",
+      "properties": {
+        "timestamp": "2023-01-17T00:53:47Z",
+        "version": 6,
+        "changeset": 131357712,
+        "addr:street": "Praça Gumercindo Paiva Castro",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "Pronto Socorro Municipal",
+        "id": "way/202167636"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -50.3442457,
+              -21.2880437
+            ],
+            [
+              -50.3442326,
+              -21.2885543
+            ],
+            [
+              -50.3442321,
+              -21.2885722
+            ],
+            [
+              -50.3440273,
+              -21.2885676
+            ],
+            [
+              -50.3440409,
+              -21.2880391
+            ],
+            [
+              -50.3442457,
+              -21.2880437
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/202195098",
+      "properties": {
+        "timestamp": "2024-08-10T02:33:51Z",
+        "version": 6,
+        "changeset": 155045509,
+        "addr:city": "Birigui",
+        "addr:housenumber": "115",
+        "addr:postcode": "16201-010",
+        "addr:street": "Rua Doutor Carlos Carvalho Rosa",
+        "addr:suburb": "Patrimônio Silvares",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "Santa Casa de Misericórdia",
+        "operator": "Irmandade da Santa Casa de Misericórdia de Birigui",
+        "operator:type": "private_non_profit",
+        "phone": "+55 18 3649 3100",
+        "ref:CNES": "2078252",
+        "ref:vatin": "BR45383106000150",
+        "start_date": "1935",
+        "website": "http://www.santacasabirigui.com.br/site/",
+        "id": "way/202195098"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -50.3357572,
+              -21.2825671
+            ],
+            [
+              -50.3355487,
+              -21.282392
+            ],
+            [
+              -50.3354244,
+              -21.2825229
+            ],
+            [
+              -50.3350015,
+              -21.2821156
+            ],
+            [
+              -50.3359715,
+              -21.281248
+            ],
+            [
+              -50.3366117,
+              -21.2818694
+            ],
+            [
+              -50.3357572,
+              -21.2825671
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/681738961",
+      "properties": {
+        "timestamp": "2024-08-10T02:33:51Z",
+        "version": 5,
+        "changeset": 155045509,
+        "addr:city": "Birigui",
+        "addr:housenumber": "249",
+        "addr:postcode": "16201-004",
+        "addr:street": "Rua Luis Oba",
+        "addr:suburb": "Patrimônio Silvares",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "Pronto Socorro Municipal Doutor Alceu Lot",
+        "operator:ref:vatin": "BR46151718000180",
+        "phone": "+55 18 3644 4545",
+        "ref:CNES": "9200223",
+        "wheelchair": "yes",
+        "id": "way/681738961"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -50.3359715,
+              -21.281248
+            ],
+            [
+              -50.3350015,
+              -21.2821156
+            ],
+            [
+              -50.3346164,
+              -21.2817777
+            ],
+            [
+              -50.3356328,
+              -21.2809064
+            ],
+            [
+              -50.3359715,
+              -21.281248
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2083545886",
+      "properties": {
+        "timestamp": "2023-07-21T04:04:59Z",
+        "version": 3,
+        "changeset": 138792166,
+        "addr:housenumber": "1000",
+        "addr:postcode": "16200-023",
+        "addr:street": "Avenida João Cernach",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "Unimed Birigui",
+        "operator": "Unimed",
+        "operator:ref:vatin": "BR65732836000126",
+        "operator:wikidata": "Q7865295",
+        "ref:CNES": "3689972",
+        "ref:vatin": "BR65732836000398",
+        "id": "node/2083545886"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.342163,
+          -21.2848454
+        ]
+      }
+    }
+  ]
+}

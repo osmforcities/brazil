@@ -1,0 +1,210 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/486672079",
+      "properties": {
+        "timestamp": "2023-07-23T22:15:34Z",
+        "version": 4,
+        "changeset": 138912543,
+        "addr:city": "Sapiranga",
+        "addr:street": "Rua Getúlio Vargas",
+        "addr:suburb": "Centro",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "id": "way/486672079"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.0067254,
+              -29.640534
+            ],
+            [
+              -51.0067669,
+              -29.6409207
+            ],
+            [
+              -51.0064809,
+              -29.6409721
+            ],
+            [
+              -51.0064245,
+              -29.6405667
+            ],
+            [
+              -51.0067254,
+              -29.640534
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/486680308",
+      "properties": {
+        "timestamp": "2022-04-16T22:55:02Z",
+        "version": 3,
+        "changeset": 119800700,
+        "addr:city": "Sapiranga",
+        "addr:suburb": "Vila Irma",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "id": "way/486680308"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.023566,
+              -29.6488386
+            ],
+            [
+              -51.023029,
+              -29.6488913
+            ],
+            [
+              -51.0232658,
+              -29.6486161
+            ],
+            [
+              -51.023566,
+              -29.6488386
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1110938899",
+      "properties": {
+        "timestamp": "2023-07-23T22:15:34Z",
+        "version": 2,
+        "changeset": 138912543,
+        "addr:city": "Sapiranga",
+        "addr:housenumber": "71",
+        "addr:street": "Rua José de Alencar",
+        "addr:suburb": "Centenário",
+        "air_conditioning": "yes",
+        "amenity": "clinic",
+        "building": "yes",
+        "building:levels": "1",
+        "emergency": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Unidade de Pronto Atendimento 24h",
+        "opening_hours": "24/7",
+        "operator": "Prefeitura de Sapiranga",
+        "operator:ref:vatin": "BR87366159000102",
+        "operator:type": "government",
+        "phone": "+55 51 3959 1058",
+        "ref:CNES": "7936850",
+        "roof:shape": "flat",
+        "wheelchair": "yes",
+        "id": "way/1110938899"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.0040956,
+              -29.6326844
+            ],
+            [
+              -51.0041436,
+              -29.6329433
+            ],
+            [
+              -51.0039801,
+              -29.6329662
+            ],
+            [
+              -51.0039262,
+              -29.6329737
+            ],
+            [
+              -51.0038633,
+              -29.6329825
+            ],
+            [
+              -51.0036302,
+              -29.6330152
+            ],
+            [
+              -51.003608,
+              -29.6328957
+            ],
+            [
+              -51.0035839,
+              -29.6327658
+            ],
+            [
+              -51.0037169,
+              -29.6327472
+            ],
+            [
+              -51.0037278,
+              -29.6328059
+            ],
+            [
+              -51.0039516,
+              -29.6327745
+            ],
+            [
+              -51.003939,
+              -29.6327063
+            ],
+            [
+              -51.0040956,
+              -29.6326844
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10164550590",
+      "properties": {
+        "timestamp": "2022-11-07T03:45:01Z",
+        "version": 1,
+        "changeset": 128578029,
+        "entrance": "main",
+        "id": "node/10164550590"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.0039262,
+          -29.6329737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10164550597",
+      "properties": {
+        "timestamp": "2022-11-07T03:45:01Z",
+        "version": 1,
+        "changeset": 128578029,
+        "entrance": "yes",
+        "id": "node/10164550597"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.003608,
+          -29.6328957
+        ]
+      }
+    }
+  ]
+}

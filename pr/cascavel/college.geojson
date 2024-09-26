@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/456876280",
+      "properties": {
+        "timestamp": "2017-01-12T19:21:23Z",
+        "version": 2,
+        "changeset": 45113916,
+        "addr:city": "Cascavel",
+        "addr:housenumber": "2800",
+        "addr:postcode": "85805-070",
+        "addr:street": "Rua Natal",
+        "addr:suburb": "Coqueiral",
+        "amenity": "college",
+        "name": "Colégio Estadual Polivalente Pedro Boaretto Neto",
+        "id": "way/456876280"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -53.4841787,
+              -24.9470536
+            ],
+            [
+              -53.482549,
+              -24.9471855
+            ],
+            [
+              -53.482383,
+              -24.9450195
+            ],
+            [
+              -53.484048,
+              -24.9449312
+            ],
+            [
+              -53.4841787,
+              -24.9470536
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5279939844",
+      "properties": {
+        "timestamp": "2021-02-22T02:12:45Z",
+        "version": 2,
+        "changeset": 99705879,
+        "addr:housenumber": "1786",
+        "addr:street": "Rua Rafael Picoli",
+        "amenity": "college",
+        "contact:facebook": "https://www.facebook.com/highperformancecascavel/",
+        "name": "High Performance Cascavel",
+        "network": "DeRose Method",
+        "training": "derose_method",
+        "id": "node/5279939844"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.4463805,
+          -24.9426691
+        ]
+      }
+    }
+  ]
+}

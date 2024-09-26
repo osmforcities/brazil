@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1095675343",
+      "properties": {
+        "timestamp": "2022-09-18T17:17:19Z",
+        "version": 1,
+        "changeset": 126339492,
+        "access": "yes",
+        "addr:housenumber": "115",
+        "addr:street": "Rua 25 de Agosto",
+        "amenity": "clinic",
+        "brand": "Sistema Único de Saúde",
+        "brand:short": "SUS",
+        "brand:wikidata": "Q7531056",
+        "brand:wikipedia": "pt:Sistema Único de Saúde",
+        "building": "yes",
+        "emergency": "yes",
+        "healthcare": "clinic",
+        "name": "Pronto Atendimento",
+        "operator": "Prefeitura Municipal de Fraiburgo",
+        "operator:type": "public",
+        "id": "way/1095675343"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -50.9279552,
+              -27.0329389
+            ],
+            [
+              -50.9279197,
+              -27.0328412
+            ],
+            [
+              -50.9280717,
+              -27.0327973
+            ],
+            [
+              -50.9281845,
+              -27.0331073
+            ],
+            [
+              -50.9280325,
+              -27.0331512
+            ],
+            [
+              -50.9280021,
+              -27.0330677
+            ],
+            [
+              -50.927733,
+              -27.0331453
+            ],
+            [
+              -50.9276861,
+              -27.0330165
+            ],
+            [
+              -50.9279552,
+              -27.0329389
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10034291229",
+      "properties": {
+        "timestamp": "2022-09-18T17:17:19Z",
+        "version": 1,
+        "changeset": 126339492,
+        "access": "yes",
+        "amenity": "clinic",
+        "brand": "Sistema Único de Saúde",
+        "brand:short": "SUS",
+        "brand:wikidata": "Q7531056",
+        "brand:wikipedia": "pt:Sistema Único de Saúde",
+        "healthcare": "clinic",
+        "loc_name": "Posto de Saúde Vila Salete",
+        "name": "Unidade de Saúde Vila Salete",
+        "operator": "Prefeitura Municipal de Fraiburgo",
+        "operator:type": "public",
+        "short_name": "US Vila Salete",
+        "id": "node/10034291229"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.9285483,
+          -27.0323248
+        ]
+      }
+    }
+  ]
+}

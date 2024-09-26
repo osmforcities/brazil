@@ -1,0 +1,131 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/760390501",
+      "properties": {
+        "timestamp": "2022-11-01T18:25:57Z",
+        "version": 2,
+        "changeset": 128358933,
+        "addr:city": "São João Evangelista",
+        "addr:housenumber": "60",
+        "addr:postcode": "39705-000",
+        "addr:street": "Rua Mário Nunes de Miranda",
+        "addr:suburb": "Centro",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Estratégia de Saúde da Família Doutor Wenilton Bernardo",
+        "operator": "Município de São João Evangelista",
+        "operator:type": "public",
+        "id": "way/760390501"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.7634222,
+              -18.5447365
+            ],
+            [
+              -42.7634995,
+              -18.5448261
+            ],
+            [
+              -42.76329,
+              -18.5449887
+            ],
+            [
+              -42.7632126,
+              -18.5448991
+            ],
+            [
+              -42.7634222,
+              -18.5447365
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10147267092",
+      "properties": {
+        "timestamp": "2022-11-01T13:12:21Z",
+        "version": 1,
+        "changeset": 128345322,
+        "addr:city": "São João Evangelista",
+        "addr:postcode": "39705-000",
+        "addr:street": "Avenida Primeiro de Junho",
+        "addr:suburb": "Centro",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Pronto Atendimento Padre Alcides de Sena Vieira",
+        "id": "node/10147267092"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.7660715,
+          -18.5503561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10167359918",
+      "properties": {
+        "timestamp": "2022-11-07T19:30:39Z",
+        "version": 1,
+        "changeset": 128611148,
+        "addr:city": "São João Evangelista",
+        "addr:housenumber": "52",
+        "addr:postcode": "39705-000",
+        "addr:street": "Praça São Geraldo",
+        "addr:suburb": "São Geraldo do Baguari",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Estratégia de Saúde da Família de Baguari",
+        "operator": "Município de São João Evangelista",
+        "operator:type": "public",
+        "id": "node/10167359918"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.7948261,
+          -18.3739795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10167445078",
+      "properties": {
+        "timestamp": "2022-11-07T20:24:19Z",
+        "version": 1,
+        "changeset": 128612628,
+        "addr:street": "Rua José Procopio de Oliveira",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "physiotherapy",
+        "name": "Consultório de Fisioterapia e Pilates",
+        "operator": "Isabella Lima Figueiredo",
+        "operator:type": "private",
+        "id": "node/10167445078"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.7650495,
+          -18.5495102
+        ]
+      }
+    }
+  ]
+}

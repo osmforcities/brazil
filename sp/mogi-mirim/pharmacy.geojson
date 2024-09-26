@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/569374866",
+      "properties": {
+        "timestamp": "2022-02-08T05:17:37Z",
+        "version": 2,
+        "changeset": 117143468,
+        "addr:city": "Mogi Mirim",
+        "addr:housenumber": "210",
+        "addr:postcode": "13800-290",
+        "addr:street": "Rua Coronel Venâncio Ferreira Alves Adorno",
+        "addr:suburb": "Nova Mogi",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Drogaria Carrefour Super Mogi Mirim",
+        "opening_hours": "Mo-Su 08:00-20:00",
+        "id": "way/569374866"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.9676829,
+              -22.4414731
+            ],
+            [
+              -46.967469,
+              -22.4413635
+            ],
+            [
+              -46.9675541,
+              -22.4413194
+            ],
+            [
+              -46.9677312,
+              -22.4414186
+            ],
+            [
+              -46.9676829,
+              -22.4414731
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6384483812",
+      "properties": {
+        "timestamp": "2019-04-04T23:00:14Z",
+        "version": 1,
+        "changeset": 68901840,
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "id": "node/6384483812"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.9647188,
+          -22.4191634
+        ]
+      }
+    }
+  ]
+}

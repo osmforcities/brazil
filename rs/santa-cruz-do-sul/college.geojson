@@ -1,0 +1,86 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/532856201",
+      "properties": {
+        "timestamp": "2023-05-12T01:10:17Z",
+        "version": 3,
+        "changeset": 135997838,
+        "addr:city": "Santa Cruz do Sul",
+        "addr:country": "BR",
+        "addr:housenumber": "350",
+        "addr:street": "Avenida Gaspar Bartholomay",
+        "addr:suburb": "Senai",
+        "amenity": "college",
+        "contact:email": "senai.tannhauser@senairs.org.br",
+        "contact:phone": "+55 (51) 3740-1810",
+        "contact:website": "https://www.senairs.org.br/unidades/senai-santa-cruz-do-sul",
+        "internet_access": "yes",
+        "name": "SENAI Carlos Tanhauser",
+        "official_name": "Centro de Formação Profissional SENAI Carlos Tannhauser",
+        "operator": "SENAI",
+        "start_date": "1951",
+        "id": "way/532856201"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -52.4392261,
+              -29.7254434
+            ],
+            [
+              -52.4398812,
+              -29.725452
+            ],
+            [
+              -52.4398732,
+              -29.7259103
+            ],
+            [
+              -52.4398946,
+              -29.7259106
+            ],
+            [
+              -52.4398817,
+              -29.7266505
+            ],
+            [
+              -52.4392052,
+              -29.7266416
+            ],
+            [
+              -52.43921,
+              -29.7263641
+            ],
+            [
+              -52.4392261,
+              -29.7254434
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10888593949",
+      "properties": {
+        "timestamp": "2023-05-12T01:10:17Z",
+        "version": 1,
+        "changeset": 135997838,
+        "barrier": "gate",
+        "id": "node/10888593949"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.43921,
+          -29.7263641
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,279 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "relation/7772132",
+      "properties": {
+        "timestamp": "2017-12-01T04:09:59Z",
+        "version": 1,
+        "changeset": 54223023,
+        "addr:city": "Cubatão",
+        "addr:housenumber": "1",
+        "addr:postcode": "11510-300",
+        "addr:street": "Praça da Bíblia",
+        "addr:suburb": "Centro",
+        "amenity": "college",
+        "name": "Senai - Hessel Horácio Cherkassky",
+        "phone": "+55 13 3362-5900",
+        "type": "multipolygon",
+        "id": "relation/7772132"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.4216111,
+              -23.8816385
+            ],
+            [
+              -46.4221562,
+              -23.8817869
+            ],
+            [
+              -46.4227087,
+              -23.8819278
+            ],
+            [
+              -46.4231828,
+              -23.8820575
+            ],
+            [
+              -46.4231306,
+              -23.8823188
+            ],
+            [
+              -46.4231021,
+              -23.8824836
+            ],
+            [
+              -46.4230525,
+              -23.8827699
+            ],
+            [
+              -46.422945,
+              -23.8827526
+            ],
+            [
+              -46.4230018,
+              -23.8824699
+            ],
+            [
+              -46.4225686,
+              -23.8823436
+            ],
+            [
+              -46.4225547,
+              -23.8823996
+            ],
+            [
+              -46.4225312,
+              -23.8824941
+            ],
+            [
+              -46.4224965,
+              -23.8826495
+            ],
+            [
+              -46.4223407,
+              -23.8826281
+            ],
+            [
+              -46.4221739,
+              -23.8826117
+            ],
+            [
+              -46.421939,
+              -23.8826391
+            ],
+            [
+              -46.4217483,
+              -23.8825985
+            ],
+            [
+              -46.421785,
+              -23.8824144
+            ],
+            [
+              -46.4214692,
+              -23.8823574
+            ],
+            [
+              -46.4215368,
+              -23.8820225
+            ],
+            [
+              -46.4216111,
+              -23.8816385
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256976538",
+      "properties": {
+        "timestamp": "2023-05-03T15:14:44Z",
+        "version": 4,
+        "changeset": 135665496,
+        "addr:street": "Rodovia Cônego Domênico Rangoni",
+        "amenity": "college",
+        "contact:email": "info@cepema.usp.br",
+        "contact:phone": "+55 13 3362-9350",
+        "name": "Centro de Capacitação e Pesquisa em Meio Ambiente",
+        "operator": "Universidade de São Paulo",
+        "short_name": "CEPEMA",
+        "id": "way/256976538"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.4382694,
+              -23.8866644
+            ],
+            [
+              -46.4379746,
+              -23.8867123
+            ],
+            [
+              -46.4374196,
+              -23.8868279
+            ],
+            [
+              -46.4367921,
+              -23.8869341
+            ],
+            [
+              -46.436178,
+              -23.8870017
+            ],
+            [
+              -46.4362278,
+              -23.8867709
+            ],
+            [
+              -46.436375,
+              -23.8860892
+            ],
+            [
+              -46.4380491,
+              -23.8857707
+            ],
+            [
+              -46.4382694,
+              -23.8866644
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/338074617",
+      "properties": {
+        "timestamp": "2019-03-16T04:21:41Z",
+        "version": 4,
+        "changeset": 68195308,
+        "addr:city": "Cubatão",
+        "addr:housenumber": "50",
+        "addr:postcode": "11533-160",
+        "addr:street": "Rua Maria Cristina",
+        "addr:suburb": "Jardim Casqueiro",
+        "amenity": "college",
+        "name": "Instituto Federal São Paulo - Campus Cubatão",
+        "phone": "+55 13 3346 5300",
+        "website": "https://cbt.ifsp.edu.br/index.php",
+        "id": "way/338074617"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.4128438,
+              -23.928499
+            ],
+            [
+              -46.4126559,
+              -23.9286374
+            ],
+            [
+              -46.4128313,
+              -23.9288364
+            ],
+            [
+              -46.4126569,
+              -23.9289647
+            ],
+            [
+              -46.4124766,
+              -23.9287601
+            ],
+            [
+              -46.4123022,
+              -23.9288884
+            ],
+            [
+              -46.4121716,
+              -23.9287401
+            ],
+            [
+              -46.4127081,
+              -23.9283451
+            ],
+            [
+              -46.4128438,
+              -23.928499
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2625960916",
+      "properties": {
+        "timestamp": "2023-05-03T15:14:44Z",
+        "version": 4,
+        "changeset": 135665496,
+        "barrier": "gate",
+        "id": "node/2625960916"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4374196,
+          -23.8868279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11945996254",
+      "properties": {
+        "timestamp": "2024-05-30T20:18:57Z",
+        "version": 1,
+        "changeset": 152053528,
+        "addr:city": "Cubatão",
+        "addr:housenumber": "230",
+        "addr:postcode": "11510-160",
+        "addr:street": "Rua Tamoyo",
+        "addr:suburb": "Vila Couto",
+        "amenity": "college",
+        "name": "Escola Técnica Estadual de Cubatão",
+        "id": "node/11945996254"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4270599,
+          -23.8861953
+        ]
+      }
+    }
+  ]
+}

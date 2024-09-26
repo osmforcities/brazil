@@ -1,0 +1,88 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/6053626404",
+      "properties": {
+        "timestamp": "2018-11-12T01:23:22Z",
+        "version": 1,
+        "changeset": 64389456,
+        "addr:door": "Sala 02",
+        "amenity": "doctors",
+        "contact:phone": "+55 47 3399-2100",
+        "contact:whatsapp": "+55 47 98481-7789",
+        "emergency": "no",
+        "healthcare": "doctor",
+        "healthcare:speciality": "ophthalmology",
+        "level": "0",
+        "name": "HMC Oftalmologia",
+        "operator": "Hamilcar Machado Cordeiro",
+        "id": "node/6053626404"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2737272,
+          -26.838721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6053626481",
+      "properties": {
+        "timestamp": "2018-11-12T01:23:24Z",
+        "version": 1,
+        "changeset": 64389456,
+        "addr:floor": "0",
+        "amenity": "doctors",
+        "description": "Pediatria e neonatologia",
+        "healthcare": "doctor",
+        "healthcare:speciality": "paediatrics",
+        "name": "Alyne Schulz",
+        "wheelchair": "yes",
+        "id": "node/6053626481"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2739619,
+          -26.838715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8964474118",
+      "properties": {
+        "timestamp": "2023-08-19T07:15:15Z",
+        "version": 3,
+        "changeset": 140083306,
+        "addr:city": "Timbó",
+        "addr:housenumber": "726",
+        "addr:street": "Rua Germano Brandes Sênior",
+        "addr:suburb": "Centro",
+        "amenity": "doctors",
+        "contact:phone": "+55 47 3382-0266",
+        "contact:website": "https://hof.com.br/",
+        "healthcare": "doctor",
+        "healthcare:speciality": "ophthalmology",
+        "internet_access": "wlan",
+        "level": "1",
+        "name": "Hospital de Olhos Freitag",
+        "operator": "Doutor Alexandre Rocha",
+        "operator:type": "private",
+        "wheelchair": "yes",
+        "id": "node/8964474118"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2722729,
+          -26.8265372
+        ]
+      }
+    }
+  ]
+}

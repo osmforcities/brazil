@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/454658557",
+      "properties": {
+        "timestamp": "2021-01-26T04:55:50Z",
+        "version": 3,
+        "changeset": 98152690,
+        "access": "yes",
+        "addr:city": "Tres Cachoeiras",
+        "addr:housenumber": "238",
+        "addr:street": "Rua Damásio José Schaeffer",
+        "amenity": "clinic",
+        "building": "public",
+        "healthcare": "clinic",
+        "id": "way/454658557"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.9259553,
+              -29.4570778
+            ],
+            [
+              -49.9258537,
+              -29.457221
+            ],
+            [
+              -49.9256255,
+              -29.4570982
+            ],
+            [
+              -49.9257272,
+              -29.456955
+            ],
+            [
+              -49.9259553,
+              -29.4570778
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11115955060",
+      "properties": {
+        "timestamp": "2023-08-15T09:35:15Z",
+        "version": 1,
+        "changeset": 139905177,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "ESF Maria da Rocha Valim",
+        "id": "node/11115955060"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.9130513,
+          -29.4427897
+        ]
+      }
+    }
+  ]
+}

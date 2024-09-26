@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/569410691",
+      "properties": {
+        "timestamp": "2023-12-15T16:34:52Z",
+        "version": 2,
+        "changeset": 145158227,
+        "access": "private",
+        "leisure": "pitch",
+        "name": "Campo de Futebol Siqueirão",
+        "sport": "soccer",
+        "surface": "grass",
+        "id": "way/569410691"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.7417354,
+              -6.2619377
+            ],
+            [
+              -40.7412178,
+              -6.2618574
+            ],
+            [
+              -40.7413337,
+              -6.2611198
+            ],
+            [
+              -40.7418513,
+              -6.2612001
+            ],
+            [
+              -40.7417354,
+              -6.2619377
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11420659401",
+      "properties": {
+        "timestamp": "2023-12-15T16:47:56Z",
+        "version": 1,
+        "changeset": 145158648,
+        "access": "yes",
+        "addr:city": "Parambu",
+        "addr:housenumber": "851",
+        "addr:postcode": "63.695-000",
+        "addr:street": "Rua Wilson Tadey Siqueira",
+        "addr:suburb": "Monte Sion",
+        "leisure": "sports_hall",
+        "name": "Quadra Poliesportiva de Monte Sion",
+        "operator": "Municipio de Parambu",
+        "sport": "soccer;volleyball;futsal",
+        "wheelchair": "yes",
+        "id": "node/11420659401"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.7273975,
+          -6.2573892
+        ]
+      }
+    }
+  ]
+}

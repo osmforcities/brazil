@@ -1,0 +1,124 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/522555685",
+      "properties": {
+        "timestamp": "2017-09-08T16:58:34Z",
+        "version": 1,
+        "changeset": 51852967,
+        "amenity": "school",
+        "id": "way/522555685"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.445351,
+              -21.6998248
+            ],
+            [
+              -44.4450244,
+              -21.7004403
+            ],
+            [
+              -44.44463,
+              -21.7002657
+            ],
+            [
+              -44.4450952,
+              -21.699361
+            ],
+            [
+              -44.4452493,
+              -21.699424
+            ],
+            [
+              -44.444821,
+              -21.7002084
+            ],
+            [
+              -44.4449597,
+              -21.7002714
+            ],
+            [
+              -44.4452308,
+              -21.6997704
+            ],
+            [
+              -44.445351,
+              -21.6998248
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4923012562",
+      "properties": {
+        "timestamp": "2017-06-18T22:57:23Z",
+        "version": 1,
+        "changeset": 49645632,
+        "amenity": "school",
+        "name": "Colégio Marista",
+        "source": "IBGE",
+        "id": "node/4923012562"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.4450778,
+          -21.6999402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4923012563",
+      "properties": {
+        "timestamp": "2017-06-18T22:57:23Z",
+        "version": 1,
+        "changeset": 49645632,
+        "amenity": "school",
+        "note": "está como EE José Bonifácio no IBGE, mas no cadastro escolar esta escola está em outro endereço",
+        "source": "IBGE",
+        "id": "node/4923012563"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.4460246,
+          -21.7052259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4923012579",
+      "properties": {
+        "timestamp": "2017-06-18T22:57:23Z",
+        "version": 1,
+        "changeset": 49645632,
+        "addr:housenumber": "610",
+        "addr:street": "Rua São Vicente Ferrer",
+        "amenity": "school",
+        "contact:phone": "+55 35 33231533",
+        "name": "Escola Estadual José Bonifácio",
+        "note": "está como EE Visconde de Arante, mas não confere com o cadastro escolar",
+        "source": "IBGE",
+        "source:addr": "cadastro escolar",
+        "id": "node/4923012579"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.4427899,
+          -21.6989882
+        ]
+      }
+    }
+  ]
+}

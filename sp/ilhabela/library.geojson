@@ -1,0 +1,90 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/684631769",
+      "properties": {
+        "timestamp": "2019-04-18T17:24:38Z",
+        "version": 1,
+        "changeset": 69353352,
+        "amenity": "library",
+        "building": "yes",
+        "id": "way/684631769"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -45.3582866,
+              -23.779074
+            ],
+            [
+              -45.3581526,
+              -23.779114
+            ],
+            [
+              -45.3581166,
+              -23.7789991
+            ],
+            [
+              -45.358251,
+              -23.7789632
+            ],
+            [
+              -45.3582866,
+              -23.779074
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9707906689",
+      "properties": {
+        "timestamp": "2022-05-01T20:40:00Z",
+        "version": 1,
+        "changeset": 120434930,
+        "amenity": "library",
+        "internet_access": "yes",
+        "name": "Biblioteca Prefeita Nilce Signorini",
+        "id": "node/9707906689"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.3758821,
+          -23.8220205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10232167553",
+      "properties": {
+        "timestamp": "2022-12-02T02:08:19Z",
+        "version": 1,
+        "changeset": 129625899,
+        "addr:housenumber": "234",
+        "addr:street": "Rua Doutor Carvalho",
+        "addr:suburb": "Vila",
+        "amenity": "library",
+        "email": "biblioteca@ilhabela.sp.gov.br",
+        "name": "Biblioteca Pública Municipal Doutor Renato Lopes Corrêa",
+        "opening_hours": "Mo-Fr 08:30-17:30; Sa 09:00-14:00; Su,PH off",
+        "phone": "+55 12 3896 5989",
+        "ref:isil": "ES-3011",
+        "id": "node/10232167553"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.3582791,
+          -23.776385
+        ]
+      }
+    }
+  ]
+}

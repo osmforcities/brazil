@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/430375616",
+      "properties": {
+        "timestamp": "2023-06-14T00:05:46Z",
+        "version": 5,
+        "changeset": 137305955,
+        "access": "yes",
+        "addr:city": "Massaranduba",
+        "addr:postcode": "89108-000",
+        "addr:street": "Rua Benjamin Constant",
+        "addr:suburb": "Benjamin Constant",
+        "amenity": "clinic",
+        "brand": "Sistema Único de Saúde",
+        "brand:short": "SUS",
+        "brand:wikidata": "Q7531056",
+        "brand:wikipedia": "pt:Sistema Único de Saúde",
+        "building": "public",
+        "contact:phone": "+55 47 3379-0062",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "loc_name": "Posto de Saúde Benjamin Constant",
+        "name": "Unidade Básica de Saúde Benjamin Constant",
+        "nohousenumber": "yes",
+        "opening_hours": "Mo-Fr 07:00-16:00; Sa,Su,PH off",
+        "operator": "Prefeitura Municipal de Massaranduba",
+        "operator:type": "government",
+        "ref:CNES": "2663228",
+        "short_name": "UBS Benjamin Constant",
+        "id": "way/430375616"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.0756165,
+              -26.5998782
+            ],
+            [
+              -49.07548,
+              -26.5998754
+            ],
+            [
+              -49.0754811,
+              -26.5998316
+            ],
+            [
+              -49.0754713,
+              -26.5998314
+            ],
+            [
+              -49.0754722,
+              -26.5997968
+            ],
+            [
+              -49.0755123,
+              -26.5997976
+            ],
+            [
+              -49.0755135,
+              -26.5997528
+            ],
+            [
+              -49.0756196,
+              -26.5997549
+            ],
+            [
+              -49.075618,
+              -26.599819
+            ],
+            [
+              -49.0756165,
+              -26.5998782
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3819476711",
+      "properties": {
+        "timestamp": "2023-04-07T14:31:31Z",
+        "version": 6,
+        "changeset": 134619243,
+        "access": "yes",
+        "addr:street": "Estrada Geral Braço Direito",
+        "amenity": "clinic",
+        "brand": "Sistema Único de Saúde",
+        "brand:short": "SUS",
+        "brand:wikidata": "Q7531056",
+        "brand:wikipedia": "pt:Sistema Único de Saúde",
+        "contact:phone": "+55 47 3324-7716",
+        "emergency": "no",
+        "healthcare": "clinic",
+        "loc_name": "Posto de Saúde Danilo de Toffol",
+        "name": "Unidade Básica de Saúde Danilo de Toffol",
+        "nohousenumber": "yes",
+        "opening_hours": "Mo-Fr 07:00-16:00; Sa,Su,PH off",
+        "operator": "Prefeitura Municipal de Massaranduba",
+        "operator:type": "government",
+        "ref:CNES": "7628099",
+        "short_name": "UBS Danilo de Toffol",
+        "id": "node/3819476711"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.0089599,
+          -26.701733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3819850469",
+      "properties": {
+        "timestamp": "2015-11-06T00:20:22Z",
+        "version": 2,
+        "changeset": 35115422,
+        "addr:city": "Massaranduba",
+        "amenity": "clinic",
+        "emergency": "no",
+        "name": "UBS Júlio Vegini",
+        "source": "Prefeitura",
+        "id": "node/3819850469"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.9472946,
+          -26.6641941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3819852730",
+      "properties": {
+        "timestamp": "2023-09-21T12:00:41Z",
+        "version": 3,
+        "changeset": 141555921,
+        "access": "yes",
+        "addr:city": "Massaranduba",
+        "amenity": "clinic",
+        "emergency": "no",
+        "healthcare": "clinic",
+        "name": "UBS Donato Petri",
+        "source": "Prefeitura",
+        "id": "node/3819852730"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.8949163,
+          -26.6087179
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/546903639",
+      "properties": {
+        "timestamp": "2017-12-14T20:18:52Z",
+        "version": 1,
+        "changeset": 54635058,
+        "addr:city": "Ribas do Rio Pardo",
+        "addr:postcode": "79180-000",
+        "addr:street": "Marginal da BR-262",
+        "historic": "monument",
+        "inscription": "Capital do Gado",
+        "name": "Monumento Capital do Gado",
+        "id": "way/546903639"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -53.7608712,
+              -20.4570877
+            ],
+            [
+              -53.7607656,
+              -20.4571339
+            ],
+            [
+              -53.7606671,
+              -20.4570613
+            ],
+            [
+              -53.760774,
+              -20.4570521
+            ],
+            [
+              -53.7608712,
+              -20.4570877
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6398528956",
+      "properties": {
+        "timestamp": "2019-11-07T18:02:56Z",
+        "version": 2,
+        "changeset": 76771709,
+        "access": "yes",
+        "addr:city": "Ribas do Rio Pardo",
+        "addr:country": "BR",
+        "addr:postcode": "79180-000",
+        "addr:street": "BR 262",
+        "highway": "turning_loop",
+        "historic": "monument",
+        "name": "Monumento do Governo do Estado de MS",
+        "id": "node/6398528956"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.7607633,
+          -20.457322
+        ]
+      }
+    }
+  ]
+}

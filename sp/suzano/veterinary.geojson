@@ -1,0 +1,130 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1047643518",
+      "properties": {
+        "timestamp": "2022-04-03T14:15:54Z",
+        "version": 1,
+        "changeset": 119266355,
+        "addr:housenumber": "1160",
+        "addr:street": "Rua Doutor Prudente de Moraes",
+        "amenity": "veterinary",
+        "building": "yes",
+        "name": "AmiPet Clinica Veterinária",
+        "opening_hours": "Mo-Sa 09:00-22:00; Su 09:00-18:00; PH off",
+        "operator": "Grupo Amipet",
+        "phone": "+55 11 2500 7176",
+        "website": "http://grupoamipet.com.br/",
+        "id": "way/1047643518"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.3019939,
+              -23.5369175
+            ],
+            [
+              -46.3020449,
+              -23.5370749
+            ],
+            [
+              -46.3018571,
+              -23.5371438
+            ],
+            [
+              -46.3017874,
+              -23.5369716
+            ],
+            [
+              -46.3019939,
+              -23.5369175
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3631840897",
+      "properties": {
+        "timestamp": "2015-07-02T18:00:21Z",
+        "version": 1,
+        "changeset": 32362836,
+        "addr:city": "Suzano",
+        "addr:housenumber": "58",
+        "addr:postcode": "08675-170",
+        "addr:street": "Rua Francisco Quadra Castro",
+        "addr:suburb": "Vila São Jorge",
+        "amenity": "veterinary",
+        "name": "Clínica Veterinária Pet Clin",
+        "id": "node/3631840897"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.3110345,
+          -23.5459386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9672323459",
+      "properties": {
+        "timestamp": "2022-04-17T17:15:05Z",
+        "version": 1,
+        "changeset": 119825102,
+        "addr:street": "Estrada Keida Harada",
+        "amenity": "veterinary",
+        "name": "Veterinária Ipelândia",
+        "phone": "+55 11 4751 5897",
+        "id": "node/9672323459"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.2968358,
+          -23.6220544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11066025538",
+      "properties": {
+        "timestamp": "2023-08-01T16:03:27Z",
+        "version": 3,
+        "changeset": 139307712,
+        "addr:city": "Suzano",
+        "addr:housenumber": "123",
+        "addr:postcode": "08670-280",
+        "addr:street": "Rua Albertino de Castro",
+        "addr:suburb": "Jardim Suzanópolis",
+        "amenity": "veterinary",
+        "check_date": "2023-08-01",
+        "check_date:currency:XBT": "2023-08-01",
+        "currency:XBT": "yes",
+        "mobile": "+55 11 96903-6211",
+        "name": "Médico Veterinário - João Henrique Fernandes (atendimento em domicílio)",
+        "note": "Atendimento a domicílio.",
+        "opening_hours": "24/7",
+        "payment:lightning": "yes",
+        "payment:lightning_contactless": "yes",
+        "payment:onchain": "yes",
+        "survey:date": "2023-08-01",
+        "id": "node/11066025538"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.3321891,
+          -23.5434183
+        ]
+      }
+    }
+  ]
+}

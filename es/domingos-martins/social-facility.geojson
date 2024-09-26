@@ -1,0 +1,107 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1040007233",
+      "properties": {
+        "timestamp": "2022-03-26T00:46:04Z",
+        "version": 2,
+        "changeset": 118931926,
+        "addr:city": "Domingos Martins",
+        "addr:postcode": "29260-000",
+        "addr:street": "Travessa Xavier",
+        "addr:suburb": "Centro",
+        "amenity": "social_facility",
+        "building:levels": "1",
+        "name": "Centro de Convivência Elizabeth Brickwedde - Tia Nucky",
+        "operator": "Município de Domingos Martins",
+        "operator:type": "government",
+        "id": "way/1040007233"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.6614881,
+              -20.3638096
+            ],
+            [
+              -40.6613698,
+              -20.3639093
+            ],
+            [
+              -40.6612254,
+              -20.3637589
+            ],
+            [
+              -40.6613437,
+              -20.3636591
+            ],
+            [
+              -40.6614881,
+              -20.3638096
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3999139420",
+      "properties": {
+        "timestamp": "2016-02-10T13:37:11Z",
+        "version": 1,
+        "changeset": 37124622,
+        "addr:city": "Domingos Martins",
+        "addr:postcode": "29260-000",
+        "addr:street": "Rua Dorotéia Maria Hand",
+        "addr:suburb": "Ponto Alto",
+        "alt_name": "Centro de Referência de Assistência Social",
+        "amenity": "social_facility",
+        "contact:phone": "(27) 3249-5093",
+        "name": "CRAS - Domingos Martins",
+        "social_facility": "outreach",
+        "source": "IJSN",
+        "id": "node/3999139420"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.8173538,
+          -20.2862701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9574008210",
+      "properties": {
+        "timestamp": "2024-01-10T19:26:51Z",
+        "version": 5,
+        "changeset": 146116317,
+        "addr:city": "Domingos Martins",
+        "addr:housenumber": "63",
+        "addr:postcode": "29260-000",
+        "addr:street": "Rua Pedro Saleme",
+        "addr:suburb": "Parque Alpina",
+        "amenity": "social_facility",
+        "name": "Associação de Pais e Amigos dos Excepcionais – Apae",
+        "operator": "Associação de Pais e Amigos dos Excepcionais",
+        "operator:type": "association",
+        "operator:wikidata": "Q16494876",
+        "social_facility:for": "child",
+        "website": "https://www.apaees.org.br/domingos-martins/home",
+        "id": "node/9574008210"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.6624444,
+          -20.3701135
+        ]
+      }
+    }
+  ]
+}

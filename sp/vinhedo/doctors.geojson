@@ -1,0 +1,149 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/579315827",
+      "properties": {
+        "timestamp": "2024-06-13T14:07:34Z",
+        "version": 3,
+        "changeset": 152635968,
+        "addr:postcode": "13285-514",
+        "addr:street": "Rua Juliana Von Zuben Degelo",
+        "addr:suburb": "Capela",
+        "amenity": "doctors",
+        "building": "yes",
+        "email": "casm.saude@vinhedo.sp.gov.br",
+        "emergency": "yes",
+        "healthcare": "doctor",
+        "healthcare:speciality": "gynaecology;colposcopia",
+        "name": "CASM - Centro de Atenção a Saúde da Mulher",
+        "opening_hours": "MO-Fr 07:00-16:00; Sa,Su,PH off",
+        "operator": "Secretaria Municipal de Saúde",
+        "operator:type": "government",
+        "phone": "+55 19 3826 7499",
+        "ref:CNES": "6886582",
+        "short_name": "CAISM",
+        "source": "CNES",
+        "id": "way/579315827"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.0097186,
+              -23.0462679
+            ],
+            [
+              -47.0096953,
+              -23.046356
+            ],
+            [
+              -47.0094898,
+              -23.0463023
+            ],
+            [
+              -47.0095178,
+              -23.0462099
+            ],
+            [
+              -47.0097186,
+              -23.0462679
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/579316307",
+      "properties": {
+        "timestamp": "2018-04-12T15:25:09Z",
+        "version": 1,
+        "changeset": 58038928,
+        "amenity": "doctors",
+        "building": "yes",
+        "healthcare": "doctor",
+        "name": "CER Bela Vista",
+        "id": "way/579316307"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.0094878,
+              -23.0485217
+            ],
+            [
+              -47.0094826,
+              -23.0487
+            ],
+            [
+              -47.0093726,
+              -23.0487001
+            ],
+            [
+              -47.0093777,
+              -23.0485217
+            ],
+            [
+              -47.0094878,
+              -23.0485217
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5534001649",
+      "properties": {
+        "timestamp": "2018-04-06T15:31:47Z",
+        "version": 1,
+        "changeset": 57869185,
+        "amenity": "doctors",
+        "healthcare": "doctor",
+        "name": "CM Von Zuben",
+        "id": "node/5534001649"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0119267,
+          -23.0427498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11127607931",
+      "properties": {
+        "timestamp": "2023-08-19T13:54:33Z",
+        "version": 1,
+        "changeset": 140096005,
+        "addr:housenumber": "90",
+        "addr:postcode": "13285-514",
+        "addr:street": "Rua Juliana Von Zuben Degelo",
+        "addr:suburb": "Capela",
+        "amenity": "doctors",
+        "healthcare": "doctor",
+        "healthcare:speciality": "general",
+        "name": "Policlinica Capela",
+        "opening_hours": "Mo-Fr 07:00-19:00; Sa,Su,PH off",
+        "phone": "+55 19 3826 7499",
+        "ref:CNES": "2042452",
+        "source": "CNES",
+        "id": "node/11127607931"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0098664,
+          -23.0457759
+        ]
+      }
+    }
+  ]
+}

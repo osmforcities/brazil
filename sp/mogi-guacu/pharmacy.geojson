@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/785730496",
+      "properties": {
+        "timestamp": "2020-03-29T23:29:21Z",
+        "version": 1,
+        "changeset": 82795344,
+        "addr:city": "Mogi Guaçu",
+        "addr:housenumber": "406",
+        "addr:street": "Rua José Antônio Rocha Franco",
+        "addr:suburb": "Jardim Fantinato",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "SB Pharma",
+        "id": "way/785730496"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.9241739,
+              -22.3377397
+            ],
+            [
+              -46.9243758,
+              -22.3377277
+            ],
+            [
+              -46.9243825,
+              -22.3378242
+            ],
+            [
+              -46.9241807,
+              -22.3378363
+            ],
+            [
+              -46.9241739,
+              -22.3377397
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3498152457",
+      "properties": {
+        "timestamp": "2020-01-18T00:37:50Z",
+        "version": 3,
+        "changeset": 79719656,
+        "addr:city": "Mogi Guaçu",
+        "addr:street": "Rua Quinze de Novembro",
+        "addr:suburb": "Centro",
+        "amenity": "pharmacy",
+        "brand": "Droga Raia",
+        "brand:wikidata": "Q10357101",
+        "brand:wikipedia": "pt:RaiaDrogasil",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Droga Raia",
+        "opening_hours": "24/7",
+        "id": "node/3498152457"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.9440598,
+          -22.3712729
+        ]
+      }
+    }
+  ]
+}

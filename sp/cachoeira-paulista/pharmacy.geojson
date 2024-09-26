@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1002067890",
+      "properties": {
+        "timestamp": "2021-11-13T15:50:27Z",
+        "version": 1,
+        "changeset": 113735368,
+        "addr:street": "Rua Severino Moreira Barbosa",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farma´vale",
+        "id": "way/1002067890"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -45.0074511,
+              -22.6667909
+            ],
+            [
+              -45.0075035,
+              -22.6668647
+            ],
+            [
+              -45.0074346,
+              -22.6669028
+            ],
+            [
+              -45.0074222,
+              -22.6668888
+            ],
+            [
+              -45.0074001,
+              -22.6669028
+            ],
+            [
+              -45.0074125,
+              -22.6669257
+            ],
+            [
+              -45.0073767,
+              -22.6669486
+            ],
+            [
+              -45.0073353,
+              -22.6668774
+            ],
+            [
+              -45.0074511,
+              -22.6667909
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2639151925",
+      "properties": {
+        "timestamp": "2021-11-13T15:50:27Z",
+        "version": 3,
+        "changeset": 113735368,
+        "amenity": "pharmacy",
+        "brand": "Farma Conde",
+        "brand:wikidata": "Q100492677",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Farma Conde",
+        "id": "node/2639151925"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.007614,
+          -22.6662784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2639151926",
+      "properties": {
+        "timestamp": "2020-08-25T00:42:40Z",
+        "version": 2,
+        "changeset": 89881711,
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Farmácia Santo Antônio",
+        "id": "node/2639151926"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.0087252,
+          -22.6656418
+        ]
+      }
+    }
+  ]
+}

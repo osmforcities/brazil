@@ -1,0 +1,170 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/473830201",
+      "properties": {
+        "timestamp": "2020-08-25T05:31:28Z",
+        "version": 6,
+        "changeset": 89890419,
+        "addr:city": "Venâncio Aires",
+        "addr:housenumber": "834",
+        "addr:postcode": "95800-000",
+        "addr:street": "Rua Tiradentes",
+        "addr:suburb": "Centro",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Hospital São Sebastião Mártir",
+        "website": "https://hssm.com.br/",
+        "id": "way/473830201"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -52.1914178,
+              -29.6078357
+            ],
+            [
+              -52.1904781,
+              -29.6079692
+            ],
+            [
+              -52.190443,
+              -29.607762
+            ],
+            [
+              -52.1902739,
+              -29.6077815
+            ],
+            [
+              -52.1902003,
+              -29.6073198
+            ],
+            [
+              -52.1907465,
+              -29.607252
+            ],
+            [
+              -52.1907638,
+              -29.607348
+            ],
+            [
+              -52.1910434,
+              -29.6073061
+            ],
+            [
+              -52.1913295,
+              -29.607267
+            ],
+            [
+              -52.1914178,
+              -29.6078357
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/840388540",
+      "properties": {
+        "timestamp": "2020-08-25T04:22:59Z",
+        "version": 1,
+        "changeset": 89886798,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "UPA 24h",
+        "id": "way/840388540"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -52.1804022,
+              -29.6130469
+            ],
+            [
+              -52.1800543,
+              -29.6124156
+            ],
+            [
+              -52.1805249,
+              -29.6122196
+            ],
+            [
+              -52.1808727,
+              -29.612851
+            ],
+            [
+              -52.1807731,
+              -29.6128936
+            ],
+            [
+              -52.1804769,
+              -29.6130129
+            ],
+            [
+              -52.1804022,
+              -29.6130469
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2056170926",
+      "properties": {
+        "timestamp": "2024-07-07T16:28:14Z",
+        "version": 4,
+        "changeset": 153669465,
+        "addr:city": "Venâncio Aires",
+        "addr:housenumber": "834",
+        "addr:postcode": "95800-000",
+        "addr:street": "Rua Tiradentes",
+        "addr:suburb": "Centro",
+        "amenity": "hospital",
+        "description": "Hospital São Sebastião Mártir",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Hospital São Sebastião Mártir",
+        "website": "https://hssm.com.br/",
+        "id": "node/2056170926"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.1911678,
+          -29.607534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7838773360",
+      "properties": {
+        "timestamp": "2020-09-04T01:08:40Z",
+        "version": 2,
+        "changeset": 90384744,
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Unidade de Pronto Atendimento - UPA",
+        "opening_hours": "24/7",
+        "id": "node/7838773360"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.1805466,
+          -29.6128107
+        ]
+      }
+    }
+  ]
+}

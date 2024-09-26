@@ -1,0 +1,144 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/979437329",
+      "properties": {
+        "timestamp": "2021-09-04T00:31:10Z",
+        "version": 1,
+        "changeset": 110699399,
+        "addr:street": "Rua Guararapes",
+        "amenity": "hospital",
+        "building": "yes",
+        "building:levels": "4",
+        "emergency": "no",
+        "name": "Ambulatório Médico de Especialidades",
+        "operator": "Governo Estadual",
+        "operator:type": "government",
+        "id": "way/979437329"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.3870969,
+              -20.9026269
+            ],
+            [
+              -51.3872821,
+              -20.9028974
+            ],
+            [
+              -51.3868848,
+              -20.9031207
+            ],
+            [
+              -51.3866895,
+              -20.9028565
+            ],
+            [
+              -51.3870969,
+              -20.9026269
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/979870194",
+      "properties": {
+        "timestamp": "2023-08-06T23:36:34Z",
+        "version": 2,
+        "changeset": 139536160,
+        "addr:city": "Andradina",
+        "addr:housenumber": "1041",
+        "addr:postcode": "16900-408",
+        "addr:street": "Rua Alagoas",
+        "addr:suburb": "Bairro Piscina",
+        "amenity": "hospital",
+        "area": "yes",
+        "description": "Unidade de Pronto Atendimento - UPA 24 horas",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "UPA Andradina",
+        "note": "Saúde",
+        "opening_hours": "24/7",
+        "operator": "UPA",
+        "operator:ref:vatin": "BR44428506000171",
+        "operator:type": "public",
+        "phone": "+55 18 3722-7307",
+        "ref:CNES": "9344268",
+        "website": "https://www.andradina.sp.gov.br/",
+        "wheelchair": "yes",
+        "id": "way/979870194"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.3711967,
+              -20.9033804
+            ],
+            [
+              -51.371072,
+              -20.9034602
+            ],
+            [
+              -51.3709438,
+              -20.9032852
+            ],
+            [
+              -51.3709192,
+              -20.9033009
+            ],
+            [
+              -51.3707124,
+              -20.903019
+            ],
+            [
+              -51.3708618,
+              -20.9029234
+            ],
+            [
+              -51.3711967,
+              -20.9033804
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8977327039",
+      "properties": {
+        "timestamp": "2023-06-04T10:01:03Z",
+        "version": 2,
+        "changeset": 136926933,
+        "addr:city": "Andradina",
+        "addr:housenumber": "1347",
+        "addr:postcode": "16901-015",
+        "addr:street": "Rua José Augusto de Carvalho",
+        "addr:suburb": "Centro",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "ophthalmology",
+        "name": "Oculare Andradina",
+        "ref:CNES": "0297607",
+        "ref:vatin": "BR22126051000105",
+        "id": "node/8977327039"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.3801988,
+          -20.895491
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/545898345",
+      "properties": {
+        "timestamp": "2017-12-10T18:52:39Z",
+        "version": 1,
+        "changeset": 54518741,
+        "addr:city": "São João do Sabugi",
+        "addr:postcode": "59310000",
+        "addr:street": "Avenida Tenente Antonio Medeiros",
+        "addr:suburb": "Centro",
+        "amenity": "clinic",
+        "building": "hospital",
+        "healthcare": "clinic",
+        "healthcare:speciality": "community",
+        "name": "Centro de Saúde Dr. Kival de Araújo Gorgônio",
+        "opening_hours": "24/7",
+        "operator": "Prefeitura Municipal de São João do Sabugi",
+        "id": "way/545898345"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -37.2010431,
+              -6.7190713
+            ],
+            [
+              -37.2011118,
+              -6.7193104
+            ],
+            [
+              -37.2009589,
+              -6.7193538
+            ],
+            [
+              -37.2008902,
+              -6.7191146
+            ],
+            [
+              -37.2010431,
+              -6.7190713
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5275847270",
+      "properties": {
+        "timestamp": "2017-12-10T18:52:38Z",
+        "version": 1,
+        "changeset": 54518741,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Centro de Saúde Dr. Kival de Araújo Gorgônio",
+        "id": "node/5275847270"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.2010092,
+          -6.7192309
+        ]
+      }
+    }
+  ]
+}

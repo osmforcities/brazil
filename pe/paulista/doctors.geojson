@@ -1,0 +1,123 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/857933857",
+      "properties": {
+        "timestamp": "2020-10-11T23:28:21Z",
+        "version": 1,
+        "changeset": 92316005,
+        "addr:city": "Paulista",
+        "addr:housenumber": "612",
+        "addr:postcode": "53401-370",
+        "addr:street": "Praça João XXIII",
+        "addr:suburb": "Centro",
+        "amenity": "doctors",
+        "building": "yes",
+        "healthcare": "doctor",
+        "id": "way/857933857"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -34.8805714,
+              -7.9420239
+            ],
+            [
+              -34.8804913,
+              -7.9422567
+            ],
+            [
+              -34.8804442,
+              -7.9422414
+            ],
+            [
+              -34.8805218,
+              -7.9420078
+            ],
+            [
+              -34.8805714,
+              -7.9420239
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1288812177",
+      "properties": {
+        "timestamp": "2024-06-02T00:13:31Z",
+        "version": 1,
+        "changeset": 152141835,
+        "amenity": "doctors",
+        "building": "yes",
+        "healthcare": "doctor",
+        "healthcare:speciality": "general",
+        "id": "way/1288812177"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -34.8950155,
+              -7.9494626
+            ],
+            [
+              -34.8951603,
+              -7.9495852
+            ],
+            [
+              -34.8951112,
+              -7.9496129
+            ],
+            [
+              -34.8949805,
+              -7.9495181
+            ],
+            [
+              -34.8950155,
+              -7.9494626
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8281903886",
+      "properties": {
+        "timestamp": "2023-08-19T07:34:07Z",
+        "version": 3,
+        "changeset": 140083778,
+        "addr:city": "Paulista",
+        "addr:housenumber": "3115",
+        "addr:postcode": "53437-000",
+        "addr:street": "Avenida Doutor Cláudio José Gueiros Leite",
+        "addr:suburb": "Janga",
+        "amenity": "doctors",
+        "description": "Loja 03 - Térreo",
+        "healthcare": "doctor",
+        "healthcare:speciality": "nutritionist;psychology;physiotherapy",
+        "level": "0",
+        "name": "Versão Saúde",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "phone": "+55 81 98579-6927",
+        "website": "https://www.instagram.com/versao.saude/",
+        "wheelchair": "yes",
+        "id": "node/8281903886"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.8234463,
+          -7.9304093
+        ]
+      }
+    }
+  ]
+}

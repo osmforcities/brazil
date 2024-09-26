@@ -1,0 +1,119 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/370215140",
+      "properties": {
+        "timestamp": "2024-05-10T00:01:54Z",
+        "version": 3,
+        "changeset": 151123082,
+        "addr:city": "Capinópolis",
+        "addr:housenumber": "690",
+        "addr:postcode": "38360-000",
+        "addr:street": "Avenida 101",
+        "amenity": "pharmacy",
+        "building": "retail",
+        "building:levels": "2",
+        "healthcare": "pharmacy",
+        "name": "Drogaria Nossa Senhora Aparecida",
+        "opening_hours": "Mo-Fr 08:00-17:00; Sa 08:00-12:00",
+        "phone": "+55 34 3263-1622",
+        "id": "way/370215140"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.5725617,
+              -18.6822483
+            ],
+            [
+              -49.5726087,
+              -18.6823343
+            ],
+            [
+              -49.5725042,
+              -18.6823856
+            ],
+            [
+              -49.5724571,
+              -18.6822996
+            ],
+            [
+              -49.5725617,
+              -18.6822483
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1281320367",
+      "properties": {
+        "timestamp": "2024-05-10T00:01:54Z",
+        "version": 1,
+        "changeset": 151123082,
+        "amenity": "pharmacy",
+        "building": "retail",
+        "healthcare": "pharmacy",
+        "name": "FarMelhor",
+        "id": "way/1281320367"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.5727668,
+              -18.6819295
+            ],
+            [
+              -49.5727878,
+              -18.6819684
+            ],
+            [
+              -49.5726953,
+              -18.6820132
+            ],
+            [
+              -49.5726743,
+              -18.6819742
+            ],
+            [
+              -49.5727668,
+              -18.6819295
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3739380636",
+      "properties": {
+        "timestamp": "2024-05-09T23:56:46Z",
+        "version": 2,
+        "changeset": 151123009,
+        "addr:city": "Capinópolis",
+        "addr:housenumber": "622",
+        "addr:postcode": "38360-000",
+        "addr:street": "Avenida 101",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Drogaria Americana",
+        "phone": "+55 34 3263-3808",
+        "id": "node/3739380636"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.5728402,
+          -18.6829001
+        ]
+      }
+    }
+  ]
+}

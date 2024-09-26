@@ -1,0 +1,103 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/565888069",
+      "properties": {
+        "timestamp": "2020-05-23T11:14:21Z",
+        "version": 2,
+        "changeset": 85649265,
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "Posto 7",
+        "id": "way/565888069"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -57.0611259,
+              -29.7845021
+            ],
+            [
+              -57.0609043,
+              -29.7847475
+            ],
+            [
+              -57.0609123,
+              -29.7847555
+            ],
+            [
+              -57.060853,
+              -29.7848235
+            ],
+            [
+              -57.060805,
+              -29.7847903
+            ],
+            [
+              -57.0608006,
+              -29.7847957
+            ],
+            [
+              -57.0607416,
+              -29.7847589
+            ],
+            [
+              -57.0610362,
+              -29.7844436
+            ],
+            [
+              -57.0611259,
+              -29.7845021
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4587250595",
+      "properties": {
+        "timestamp": "2021-02-02T06:09:50Z",
+        "version": 4,
+        "changeset": 98552348,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Maximagem",
+        "id": "node/4587250595"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.0847979,
+          -29.7710432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8818859054",
+      "properties": {
+        "timestamp": "2021-06-09T20:02:41Z",
+        "version": 1,
+        "changeset": 106115240,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "dentist;physiotherapy",
+        "name": "Firenze",
+        "id": "node/8818859054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.0850196,
+          -29.7610045
+        ]
+      }
+    }
+  ]
+}

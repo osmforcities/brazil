@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/305799598",
+      "properties": {
+        "timestamp": "2014-09-30T23:48:57Z",
+        "version": 1,
+        "changeset": 25780156,
+        "addr:city": "Carambeí",
+        "addr:street": "Rua dos Brilhantes",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "name": "Farmácia do Trabalhador",
+        "id": "way/305799598"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -50.1156017,
+              -24.950866
+            ],
+            [
+              -50.1156389,
+              -24.9509623
+            ],
+            [
+              -50.1155115,
+              -24.9510056
+            ],
+            [
+              -50.1154849,
+              -24.9509398
+            ],
+            [
+              -50.115515,
+              -24.9508852
+            ],
+            [
+              -50.1156017,
+              -24.950866
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3663097425",
+      "properties": {
+        "timestamp": "2015-07-23T13:25:49Z",
+        "version": 1,
+        "changeset": 32825714,
+        "amenity": "pharmacy",
+        "name": "Farmácia Xavier",
+        "id": "node/3663097425"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.1123159,
+          -24.9510774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3663097428",
+      "properties": {
+        "timestamp": "2015-07-23T13:25:49Z",
+        "version": 1,
+        "changeset": 32825714,
+        "amenity": "pharmacy",
+        "name": "Farmácia Fleming",
+        "id": "node/3663097428"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.1328805,
+          -24.939034
+        ]
+      }
+    }
+  ]
+}

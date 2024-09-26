@@ -1,0 +1,82 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1006809205",
+      "properties": {
+        "timestamp": "2023-08-19T12:19:38Z",
+        "version": 4,
+        "changeset": 140092370,
+        "addr:city": "Sinop",
+        "addr:housenumber": "800",
+        "addr:postcode": "78557-247",
+        "addr:street": "Avenida Alexandre Ferronato",
+        "addr:suburb": "Setor Industrial",
+        "air_conditioning": "yes",
+        "amenity": "doctors",
+        "healthcare": "doctor",
+        "healthcare:speciality": "vaccination",
+        "indoor": "room",
+        "level": "0",
+        "name": "Saúde Livre",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:nfc": "yes",
+        "room": "shop",
+        "shop": "yes",
+        "smoking": "no",
+        "wheelchair": "yes",
+        "id": "way/1006809205"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -55.4876626,
+              -11.8616686
+            ],
+            [
+              -55.4876836,
+              -11.861738
+            ],
+            [
+              -55.4876489,
+              -11.8617473
+            ],
+            [
+              -55.487627,
+              -11.8616719
+            ],
+            [
+              -55.4876626,
+              -11.8616686
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9505848461",
+      "properties": {
+        "timestamp": "2023-02-19T10:48:11Z",
+        "version": 5,
+        "changeset": 132742773,
+        "amenity": "doctors",
+        "fixme": "Odontopediatria = clínica odontologica",
+        "name": "Odontopediatria - Dra Mariana Quinellato",
+        "id": "node/9505848461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.5053665,
+          -11.8519969
+        ]
+      }
+    }
+  ]
+}

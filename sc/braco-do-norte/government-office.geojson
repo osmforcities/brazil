@@ -1,0 +1,90 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1152773905",
+      "properties": {
+        "timestamp": "2023-03-08T21:10:28Z",
+        "version": 1,
+        "changeset": 133455955,
+        "building": "yes",
+        "government": "prosecutor",
+        "name": "Fórum da Comarca de Braço do Norte",
+        "office": "government",
+        "id": "way/1152773905"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.1642623,
+              -28.2764094
+            ],
+            [
+              -49.1640369,
+              -28.2766374
+            ],
+            [
+              -49.1639091,
+              -28.2765393
+            ],
+            [
+              -49.1641344,
+              -28.2763114
+            ],
+            [
+              -49.1642623,
+              -28.2764094
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6537771080",
+      "properties": {
+        "timestamp": "2022-09-18T19:33:18Z",
+        "version": 2,
+        "changeset": 126343780,
+        "government": "transportation",
+        "name": "Detran Braço do Norte",
+        "office": "government",
+        "id": "node/6537771080"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.1570431,
+          -28.2752024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9773778915",
+      "properties": {
+        "timestamp": "2022-09-18T19:33:18Z",
+        "version": 2,
+        "changeset": 126343780,
+        "government": "social_security",
+        "name": "Agência da Previdência Social em Braço do Norte",
+        "office": "government",
+        "operator": "Instituto Nacional do Seguro Social",
+        "operator:short": "INSS",
+        "operator:wikidata": "Q10302614",
+        "short_name": "APS Braço do Norte",
+        "id": "node/9773778915"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.1726773,
+          -28.2694603
+        ]
+      }
+    }
+  ]
+}

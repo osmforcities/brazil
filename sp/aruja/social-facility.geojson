@@ -1,0 +1,79 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1215576780",
+      "properties": {
+        "timestamp": "2023-10-14T13:54:38Z",
+        "version": 1,
+        "changeset": 142578140,
+        "addr:street": "Avenida dos Expedicionários",
+        "amenity": "social_facility",
+        "name": "Centro de Referência de Assistência Social Centro",
+        "id": "way/1215576780"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.3170105,
+              -23.3911564
+            ],
+            [
+              -46.3174343,
+              -23.3915084
+            ],
+            [
+              -46.3173467,
+              -23.391591
+            ],
+            [
+              -46.3170578,
+              -23.3913346
+            ],
+            [
+              -46.3170318,
+              -23.3913585
+            ],
+            [
+              -46.3168992,
+              -23.3912629
+            ],
+            [
+              -46.3170105,
+              -23.3911564
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8907553936",
+      "properties": {
+        "timestamp": "2023-02-09T13:00:01Z",
+        "version": 2,
+        "changeset": 132306528,
+        "addr:city": "Arujá",
+        "addr:housenumber": "1584",
+        "addr:street": "Avenida Doutor Armando Colângelo",
+        "addr:suburb": "Parque Rodrigo Barreto",
+        "alt_name": "CRAS Parque Rodrigo Barreto",
+        "amenity": "social_facility",
+        "name": "Centro de Referência de Assistência Social Parque Rodrigo Barreto",
+        "social_facility": "outreach",
+        "social_facility:for": "underprivileged",
+        "id": "node/8907553936"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.3255876,
+          -23.3836024
+        ]
+      }
+    }
+  ]
+}

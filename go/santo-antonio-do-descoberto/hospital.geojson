@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/308116556",
+      "properties": {
+        "timestamp": "2014-10-21T09:48:57Z",
+        "version": 2,
+        "changeset": 26230832,
+        "amenity": "hospital",
+        "emergency": "yes",
+        "id": "way/308116556"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.2592299,
+              -15.9400767
+            ],
+            [
+              -48.2596788,
+              -15.940116
+            ],
+            [
+              -48.259635,
+              -15.9410129
+            ],
+            [
+              -48.2591745,
+              -15.9409764
+            ],
+            [
+              -48.2592299,
+              -15.9400767
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2410273841",
+      "properties": {
+        "timestamp": "2023-05-08T19:51:06Z",
+        "version": 5,
+        "changeset": 135867418,
+        "addr:housenumber": "65",
+        "addr:postcode": "72900-970",
+        "addr:suburb": "Centro",
+        "amenity": "hospital",
+        "email": "smssad@gmail.com",
+        "healthcare": "hospital",
+        "name": "Hospital Municipal de Santo Antônio do Descoberto",
+        "operator:ref:vatin": "BR00097857000171",
+        "ref:CNES": "2437627",
+        "source": "http://cnes.datasus.gov.br/Exibe_Ficha_Estabelecimento.asp?VCo_Unidade=5219752437627",
+        "id": "node/2410273841"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.2664698,
+          -15.9476971
+        ]
+      }
+    }
+  ]
+}

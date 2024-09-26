@@ -1,0 +1,131 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/917648437",
+      "properties": {
+        "timestamp": "2021-05-04T01:02:19Z",
+        "version": 2,
+        "changeset": 104084244,
+        "addr:city": "Camocim",
+        "addr:housenumber": "698",
+        "addr:postcode": "62400000",
+        "addr:street": "Rua 24 de Maio",
+        "addr:suburb": "Centro",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "Hospital Deputado Murilo Aguar",
+        "wheelchair": "yes",
+        "id": "way/917648437"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.8420376,
+              -2.9008639
+            ],
+            [
+              -40.8420023,
+              -2.9009546
+            ],
+            [
+              -40.842028,
+              -2.9009645
+            ],
+            [
+              -40.8420167,
+              -2.9009935
+            ],
+            [
+              -40.8418925,
+              -2.9013128
+            ],
+            [
+              -40.84139,
+              -2.9011179
+            ],
+            [
+              -40.841571,
+              -2.9006525
+            ],
+            [
+              -40.8417847,
+              -2.9007355
+            ],
+            [
+              -40.8417743,
+              -2.9007622
+            ],
+            [
+              -40.8418804,
+              -2.9008034
+            ],
+            [
+              -40.8418917,
+              -2.9007744
+            ],
+            [
+              -40.8419175,
+              -2.9007845
+            ],
+            [
+              -40.8419395,
+              -2.900793
+            ],
+            [
+              -40.8419284,
+              -2.9008215
+            ],
+            [
+              -40.8420376,
+              -2.9008639
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8695432817",
+      "properties": {
+        "timestamp": "2024-04-15T06:07:35Z",
+        "version": 2,
+        "changeset": 150019086,
+        "door": "yes",
+        "emergency:exit": "yes",
+        "id": "node/8695432817"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.8419175,
+          -2.9007845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8695432826",
+      "properties": {
+        "timestamp": "2024-04-15T06:07:35Z",
+        "version": 2,
+        "changeset": 150019086,
+        "door": "yes",
+        "emergency:exit": "yes",
+        "id": "node/8695432826"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.8420167,
+          -2.9009935
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/799193585",
+      "properties": {
+        "timestamp": "2023-01-11T04:34:37Z",
+        "version": 4,
+        "changeset": 131128749,
+        "addr:city": "Orleans",
+        "addr:housenumber": "115",
+        "addr:postcode": "88870-000",
+        "addr:street": "Rua Professora Otília Mendes Mazzuco",
+        "addr:suburb": "Rio Belo",
+        "building": "yes",
+        "government": "public_service",
+        "name": "CIAA",
+        "office": "government",
+        "id": "way/799193585"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.2853407,
+              -28.3503507
+            ],
+            [
+              -49.2850785,
+              -28.3503509
+            ],
+            [
+              -49.2850799,
+              -28.3502269
+            ],
+            [
+              -49.2853408,
+              -28.350226
+            ],
+            [
+              -49.2853407,
+              -28.3503507
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9375030690",
+      "properties": {
+        "timestamp": "2023-01-14T23:16:19Z",
+        "version": 2,
+        "changeset": 131282305,
+        "government": "justice",
+        "name": "Cartório da 23° Zona Eleitoral",
+        "office": "government",
+        "id": "node/9375030690"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2879818,
+          -28.3626519
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1007481360",
+      "properties": {
+        "timestamp": "2021-11-29T21:51:04Z",
+        "version": 1,
+        "changeset": 114378610,
+        "access": "customers",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "12",
+        "covered": "no",
+        "fee": "no",
+        "id": "way/1007481360"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.9218774,
+              -22.4994132
+            ],
+            [
+              -41.9219101,
+              -22.499471
+            ],
+            [
+              -41.921876,
+              -22.4994869
+            ],
+            [
+              -41.9218436,
+              -22.4994277
+            ],
+            [
+              -41.9218774,
+              -22.4994132
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3798565894",
+      "properties": {
+        "timestamp": "2015-11-10T11:00:28Z",
+        "version": 2,
+        "changeset": 35212160,
+        "amenity": "bicycle_parking",
+        "covered": "no",
+        "name": "Paraciclo Centro de Cidadania",
+        "id": "node/3798565894"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.9130509,
+          -22.4883959
+        ]
+      }
+    }
+  ]
+}

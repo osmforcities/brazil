@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/700690394",
+      "properties": {
+        "timestamp": "2021-01-30T04:55:07Z",
+        "version": 2,
+        "changeset": 98399380,
+        "amenity": "pharmacy",
+        "brand": "Panvel",
+        "brand:wikidata": "Q10344254",
+        "brand:wikipedia": "pt:Panvel",
+        "building": "yes",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Panvel",
+        "id": "way/700690394"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -55.5361637,
+              -30.8947557
+            ],
+            [
+              -55.5360645,
+              -30.8948295
+            ],
+            [
+              -55.5359492,
+              -30.8947153
+            ],
+            [
+              -55.5360483,
+              -30.8946415
+            ],
+            [
+              -55.5361637,
+              -30.8947557
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7861622518",
+      "properties": {
+        "timestamp": "2020-08-31T12:34:40Z",
+        "version": 1,
+        "changeset": 90192621,
+        "addr:city": "Sant'Ana do Livramento",
+        "addr:postcode": "97573-520",
+        "addr:street": "Avenida João Pessoa",
+        "addr:suburb": "centro",
+        "amenity": "pharmacy",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Farmácia 500FARMA",
+        "id": "node/7861622518"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.5442344,
+          -30.8911909
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1253469476",
+      "properties": {
+        "timestamp": "2024-02-22T03:32:30Z",
+        "version": 1,
+        "changeset": 147756428,
+        "addr:street": "Avenida das Palmeiras",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Drogaria Gardene",
+        "id": "way/1253469476"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.765367,
+              -1.8830596
+            ],
+            [
+              -48.7653666,
+              -1.8831041
+            ],
+            [
+              -48.7652593,
+              -1.883103
+            ],
+            [
+              -48.7652597,
+              -1.8830586
+            ],
+            [
+              -48.765367,
+              -1.8830596
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11651325701",
+      "properties": {
+        "timestamp": "2024-02-22T03:08:47Z",
+        "version": 1,
+        "changeset": 147756161,
+        "addr:street": "Avenida das Palmeiras",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Farmácia Droga Ben",
+        "id": "node/11651325701"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.76536,
+          -1.8832743
+        ]
+      }
+    }
+  ]
+}

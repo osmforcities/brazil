@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1304875032",
+      "properties": {
+        "timestamp": "2024-07-31T16:14:16Z",
+        "version": 1,
+        "changeset": 154657961,
+        "addr:city": "Canaã dos Carajás",
+        "addr:postcode": "68356-193",
+        "addr:street": "Avenida Ipanema",
+        "addr:suburb": "Novo Horizonte II",
+        "amenity": "social_facility",
+        "name": "Secretaria de Desenvolvimento Social",
+        "id": "way/1304875032"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.8559594,
+              -6.5455375
+            ],
+            [
+              -49.8560734,
+              -6.5459501
+            ],
+            [
+              -49.8558862,
+              -6.5460011
+            ],
+            [
+              -49.8557723,
+              -6.5455885
+            ],
+            [
+              -49.8559594,
+              -6.5455375
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5187391058",
+      "properties": {
+        "timestamp": "2023-02-01T15:06:46Z",
+        "version": 2,
+        "changeset": 131967314,
+        "addr:city": "Canaã dos Carajás",
+        "addr:housenumber": "19",
+        "addr:street": "Rua Muiracatiara",
+        "alt_name": "Centro de Referência Especializado de Assistência Social",
+        "amenity": "social_facility",
+        "name": "CREAS Canaã dos Carajás",
+        "social_facility": "outreach",
+        "social_facility:for": "underprivileged;abused;victim",
+        "id": "node/5187391058"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.8505947,
+          -6.5395526
+        ]
+      }
+    }
+  ]
+}

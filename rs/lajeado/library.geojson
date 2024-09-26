@@ -1,0 +1,87 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/547373672",
+      "properties": {
+        "timestamp": "2023-06-04T15:57:47Z",
+        "version": 4,
+        "changeset": 136938673,
+        "access": "permit",
+        "addr:housenumber": "411",
+        "addr:street": "Rua Júlio de Castilhos",
+        "amenity": "library",
+        "building": "yes",
+        "check_date": "2023-06-04",
+        "name": "Biblioteca Pública Municipal João Frederico Schaan",
+        "opening_hours": "Mo-Th 08:00-16:00; Fr 08:00-14:00; Sa-Su off; Sa[1] 08:30-11:30",
+        "operator:type": "public",
+        "phone": "+55 51 3982-1086; +55 51 3982-1087",
+        "id": "way/547373672"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.9632415,
+              -29.4670298
+            ],
+            [
+              -51.9631791,
+              -29.4670084
+            ],
+            [
+              -51.963197,
+              -29.4669688
+            ],
+            [
+              -51.9631532,
+              -29.4669537
+            ],
+            [
+              -51.9631666,
+              -29.4669239
+            ],
+            [
+              -51.9630904,
+              -29.4668978
+            ],
+            [
+              -51.9631169,
+              -29.4668392
+            ],
+            [
+              -51.9632994,
+              -29.4669018
+            ],
+            [
+              -51.9632415,
+              -29.4670298
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6703096375",
+      "properties": {
+        "timestamp": "2019-08-12T12:58:29Z",
+        "version": 1,
+        "changeset": 73268069,
+        "amenity": "library",
+        "name": "Biblioteca Univates",
+        "id": "node/6703096375"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.9531464,
+          -29.4457273
+        ]
+      }
+    }
+  ]
+}

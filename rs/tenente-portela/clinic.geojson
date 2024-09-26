@@ -1,0 +1,120 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/856996176",
+      "properties": {
+        "timestamp": "2020-10-08T23:40:43Z",
+        "version": 2,
+        "changeset": 92199225,
+        "abbr_name": "ESF-3",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "Unidade da Estratégia de Saúde da Família 3",
+        "id": "way/856996176"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -53.7579115,
+              -27.3742219
+            ],
+            [
+              -53.7578321,
+              -27.3743048
+            ],
+            [
+              -53.7577964,
+              -27.3742801
+            ],
+            [
+              -53.7577289,
+              -27.3743418
+            ],
+            [
+              -53.7576674,
+              -27.3743012
+            ],
+            [
+              -53.7578123,
+              -27.3741496
+            ],
+            [
+              -53.7579115,
+              -27.3742219
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7745636943",
+      "properties": {
+        "timestamp": "2020-07-24T23:42:53Z",
+        "version": 1,
+        "changeset": 88480207,
+        "addr:housenumber": "377",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Centro Clínico São Lucas",
+        "id": "node/7745636943"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.7580264,
+          -27.3692817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7990280719",
+      "properties": {
+        "timestamp": "2020-10-08T23:18:42Z",
+        "version": 1,
+        "changeset": 92198990,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Faber",
+        "id": "node/7990280719"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.7560745,
+          -27.3709463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7990280728",
+      "properties": {
+        "timestamp": "2021-06-13T15:05:16Z",
+        "version": 2,
+        "changeset": 106286788,
+        "addr:housenumber": "76",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "orthodontics;dentist",
+        "name": "Bresolin",
+        "opening_hours": "Mo-Sa 08:00-19:30",
+        "phone": "+55 55 99699-1544",
+        "id": "node/7990280728"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.7553317,
+          -27.3712156
+        ]
+      }
+    }
+  ]
+}

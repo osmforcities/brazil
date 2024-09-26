@@ -1,0 +1,72 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/257049034",
+      "properties": {
+        "timestamp": "2017-02-12T13:45:44Z",
+        "version": 2,
+        "changeset": 46020097,
+        "amenity": "hospital",
+        "name": "Hospital Frei Gabriel",
+        "id": "way/257049034"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.9235627,
+              -20.0200757
+            ],
+            [
+              -48.9226547,
+              -20.0207223
+            ],
+            [
+              -48.9217992,
+              -20.0196311
+            ],
+            [
+              -48.9227359,
+              -20.018989
+            ],
+            [
+              -48.9235627,
+              -20.0200757
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2626639723",
+      "properties": {
+        "timestamp": "2023-05-24T22:50:08Z",
+        "version": 2,
+        "changeset": 136519806,
+        "addr:housenumber": "280",
+        "addr:postcode": "38200-056",
+        "addr:street": "Rua Coronel José de Paula",
+        "addr:suburb": "Centro",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Hospital e Maternidade São José",
+        "phone": "+55 34 3421 8022",
+        "ref:CNES": "2098547",
+        "ref:vatin": "BR20545232000132",
+        "id": "node/2626639723"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.9387275,
+          -20.0236652
+        ]
+      }
+    }
+  ]
+}

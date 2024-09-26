@@ -1,0 +1,113 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1285342219",
+      "properties": {
+        "timestamp": "2024-05-21T20:13:57Z",
+        "version": 1,
+        "changeset": 151646382,
+        "addr:city": "Natividade",
+        "addr:postcode": "28380-000",
+        "addr:street": "Rua Ismael Ribeiro da Silva",
+        "addr:suburb": "São Pedro",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Unidade Básica de Saúde São Pedro",
+        "operator": "Secretaria de Saúde de Natividade",
+        "operator:type": "public",
+        "phone": "+55 22 3841 2041",
+        "id": "way/1285342219"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.970452,
+              -21.0513402
+            ],
+            [
+              -41.9704538,
+              -21.0514405
+            ],
+            [
+              -41.9703539,
+              -21.0514421
+            ],
+            [
+              -41.9703534,
+              -21.0514104
+            ],
+            [
+              -41.9702421,
+              -21.0514123
+            ],
+            [
+              -41.9702408,
+              -21.0513437
+            ],
+            [
+              -41.970452,
+              -21.0513402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11909613726",
+      "properties": {
+        "timestamp": "2024-05-16T19:31:51Z",
+        "version": 2,
+        "changeset": 151424442,
+        "addr:city": "Natividade",
+        "addr:postcode": "28380-000",
+        "addr:street": "Rua Governandor Roberto Silveira",
+        "addr:suburb": "Nossa Senhora das Graças",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Centro de Atenção Psicossocial José Bonifácio",
+        "id": "node/11909613726"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.9805431,
+          -21.039861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11910610506",
+      "properties": {
+        "timestamp": "2024-05-16T19:31:51Z",
+        "version": 1,
+        "changeset": 151424442,
+        "addr:city": "Natividade",
+        "addr:postcode": "28380-000",
+        "addr:street": "Rua Governandor Roberto Silveira",
+        "addr:suburb": "Nossa Senhora das Graças",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Unidade Básica de Saúde Fernando Samary França",
+        "operator": "Secretaria Municipal de Saúde de Natividade",
+        "operator:type": "public",
+        "id": "node/11910610506"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.9801589,
+          -21.0400285
+        ]
+      }
+    }
+  ]
+}

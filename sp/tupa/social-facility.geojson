@@ -1,0 +1,164 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/563438171",
+      "properties": {
+        "timestamp": "2018-02-22T18:51:25Z",
+        "version": 1,
+        "changeset": 56588488,
+        "addr:housenumber": "495",
+        "addr:street": "Rua João José Sabongi",
+        "amenity": "social_facility",
+        "emergency": "no",
+        "name": "Casa da Criança de Tupã",
+        "network": "SUS",
+        "phone": "+55-14-3404-1070",
+        "social_facility": "nursing_home",
+        "id": "way/563438171"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -50.525187,
+              -21.9428897
+            ],
+            [
+              -50.5246928,
+              -21.942641
+            ],
+            [
+              -50.5262845,
+              -21.9399202
+            ],
+            [
+              -50.5276502,
+              -21.9406076
+            ],
+            [
+              -50.5262035,
+              -21.9430806
+            ],
+            [
+              -50.5255429,
+              -21.9428783
+            ],
+            [
+              -50.525187,
+              -21.9428897
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/564088881",
+      "properties": {
+        "timestamp": "2018-02-25T15:47:45Z",
+        "version": 1,
+        "changeset": 56664209,
+        "addr:housenumber": "2535",
+        "addr:street": "Rua José Enrique Ari Fernandes",
+        "amenity": "social_facility",
+        "name": "Instituição Casa dos Velhos de Tupã",
+        "phone": "+55-14-3496-3210",
+        "social_facility": "nursing_home",
+        "start_date": "1951",
+        "website": "http://www.casadosvelhos.com.br/",
+        "id": "way/564088881"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -50.5250165,
+              -21.9446722
+            ],
+            [
+              -50.5238794,
+              -21.9441116
+            ],
+            [
+              -50.5246317,
+              -21.9427725
+            ],
+            [
+              -50.5250734,
+              -21.9429993
+            ],
+            [
+              -50.5254252,
+              -21.94318
+            ],
+            [
+              -50.5257207,
+              -21.9436874
+            ],
+            [
+              -50.5257449,
+              -21.9440482
+            ],
+            [
+              -50.5256698,
+              -21.9442571
+            ],
+            [
+              -50.5254069,
+              -21.9445109
+            ],
+            [
+              -50.5250165,
+              -21.9446722
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5435524327",
+      "properties": {
+        "timestamp": "2018-02-25T15:47:45Z",
+        "version": 1,
+        "changeset": 56664209,
+        "entrance": "main",
+        "id": "node/5435524327"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.5250734,
+          -21.9429993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5435932031",
+      "properties": {
+        "timestamp": "2020-08-30T20:17:04Z",
+        "version": 2,
+        "changeset": 90155741,
+        "addr:street": "Rua Itapicurus",
+        "amenity": "social_facility",
+        "name": "Albergue Noturno",
+        "operator": "Rotary Club",
+        "operator:type": "ngo",
+        "social_facility": "shelter",
+        "id": "node/5435932031"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.5140853,
+          -21.9422674
+        ]
+      }
+    }
+  ]
+}

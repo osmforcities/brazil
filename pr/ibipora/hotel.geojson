@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/505862638",
+      "properties": {
+        "timestamp": "2017-07-07T15:05:19Z",
+        "version": 1,
+        "changeset": 50111051,
+        "addr:city": "Ibiporã",
+        "addr:housenumber": "772",
+        "addr:postcode": "86200-000",
+        "addr:street": "Avenida Santos Dumont",
+        "addr:suburb": "Centro",
+        "building": "yes",
+        "name": "Hotel Plaza",
+        "tourism": "hotel",
+        "id": "way/505862638"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.0540253,
+              -23.2722576
+            ],
+            [
+              -51.0539244,
+              -23.2722105
+            ],
+            [
+              -51.0541191,
+              -23.271861
+            ],
+            [
+              -51.0541863,
+              -23.2718951
+            ],
+            [
+              -51.0540695,
+              -23.2721048
+            ],
+            [
+              -51.0541032,
+              -23.2721195
+            ],
+            [
+              -51.0540253,
+              -23.2722576
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4520986947",
+      "properties": {
+        "timestamp": "2016-11-25T16:42:47Z",
+        "version": 1,
+        "changeset": 43948412,
+        "name": "Hotel Ibiporã",
+        "tourism": "hotel",
+        "id": "node/4520986947"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.0514978,
+          -23.2712533
+        ]
+      }
+    }
+  ]
+}

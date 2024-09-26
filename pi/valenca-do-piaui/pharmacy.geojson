@@ -1,0 +1,96 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1300597993",
+      "properties": {
+        "timestamp": "2024-07-10T19:31:52Z",
+        "version": 1,
+        "changeset": 153798214,
+        "addr:city": "Valença do Piauí",
+        "addr:housenumber": "644",
+        "addr:postcode": "64300-000",
+        "addr:street": "Rua Monsenhor Cícero Portela",
+        "addr:suburb": "Centro",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Drogaria Vitória",
+        "id": "way/1300597993"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.7362837,
+              -6.4024546
+            ],
+            [
+              -41.7361646,
+              -6.402541
+            ],
+            [
+              -41.7361131,
+              -6.4024728
+            ],
+            [
+              -41.7362343,
+              -6.4023885
+            ],
+            [
+              -41.7362837,
+              -6.4024546
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9258737129",
+      "properties": {
+        "timestamp": "2021-11-17T02:22:53Z",
+        "version": 1,
+        "changeset": 113876626,
+        "addr:city": "Valença do Piauí",
+        "addr:street": "Rua Eurípedes Martins",
+        "addr:suburb": "Centro",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Drogaria Sousa",
+        "id": "node/9258737129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.7372527,
+          -6.4058659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9258737151",
+      "properties": {
+        "timestamp": "2021-11-17T02:22:53Z",
+        "version": 1,
+        "changeset": 113876626,
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Baratão",
+        "id": "node/9258737151"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.7400596,
+          -6.4031919
+        ]
+      }
+    }
+  ]
+}

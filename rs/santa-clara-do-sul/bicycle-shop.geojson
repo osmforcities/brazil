@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1119084836",
+      "properties": {
+        "timestamp": "2022-12-03T03:06:18Z",
+        "version": 1,
+        "changeset": 129664624,
+        "building": "yes",
+        "service:bicycle:parts": "yes",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:sales": "yes",
+        "shop": "bicycle",
+        "id": "way/1119084836"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -52.0868847,
+              -29.4638571
+            ],
+            [
+              -52.0868858,
+              -29.4640604
+            ],
+            [
+              -52.0867439,
+              -29.464061
+            ],
+            [
+              -52.0867429,
+              -29.4638577
+            ],
+            [
+              -52.0868847,
+              -29.4638571
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11400109176",
+      "properties": {
+        "timestamp": "2024-08-15T19:27:14Z",
+        "version": 2,
+        "changeset": 155298691,
+        "addr:housenumber": "897",
+        "addr:street": "Avenida 28 de Maio",
+        "check_date": "2023-10-18",
+        "mobile": "+55 51 99577-6478",
+        "name": "Moto Bike",
+        "opening_hours": "Mo-Fr 08:30-12:00,13:30-18:30; Sa 08:30-12:00; Su off",
+        "payment:cash": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "shop": "bicycle",
+        "wheelchair": "yes",
+        "id": "node/11400109176"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.0845347,
+          -29.4691702
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1149651170",
+      "properties": {
+        "timestamp": "2023-02-26T14:29:53Z",
+        "version": 1,
+        "changeset": 133045191,
+        "addr:city": "São Jerônimo",
+        "addr:housenumber": "79",
+        "addr:postcode": "96700-000",
+        "addr:street": "Rua Oswaldo Aranha",
+        "addr:suburb": "Centro",
+        "amenity": "university",
+        "building": "yes",
+        "name": "Estácio",
+        "website": "https://estacio.br/",
+        "id": "way/1149651170"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.7250945,
+              -29.9604007
+            ],
+            [
+              -51.7250235,
+              -29.9604041
+            ],
+            [
+              -51.7250198,
+              -29.9603477
+            ],
+            [
+              -51.725091,
+              -29.9603444
+            ],
+            [
+              -51.7250945,
+              -29.9604007
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10572004689",
+      "properties": {
+        "timestamp": "2023-01-21T13:47:46Z",
+        "version": 2,
+        "changeset": 131541807,
+        "addr:city": "São Jerônimo",
+        "addr:housenumber": "110",
+        "addr:street": "Rua Senador Ramiro Barcellos",
+        "addr:suburb": "Centro",
+        "amenity": "university",
+        "internet_access": "yes",
+        "name": "UNIASSELVI",
+        "operator": "UNIASSELVI",
+        "operator:type": "private",
+        "wikidata": "Q18485049",
+        "wikipedia": "pt:Centro universitário",
+        "id": "node/10572004689"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.7243429,
+          -29.955472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10712238239",
+      "properties": {
+        "timestamp": "2023-03-05T13:46:16Z",
+        "version": 1,
+        "changeset": 133325670,
+        "amenity": "university",
+        "name": "Estácio",
+        "id": "node/10712238239"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.7254868,
+          -29.9691924
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/840619415",
+      "properties": {
+        "timestamp": "2023-08-19T15:18:17Z",
+        "version": 2,
+        "changeset": 140099217,
+        "amenity": "pharmacy",
+        "building": "yes",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "CanoaFarma",
+        "opening_hours": "Mo-Sa 08:00-20:00",
+        "operator": "Eduardo da Costa",
+        "id": "way/840619415"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -37.7952481,
+              -4.4529221
+            ],
+            [
+              -37.7952631,
+              -4.4529797
+            ],
+            [
+              -37.7951606,
+              -4.4530062
+            ],
+            [
+              -37.7951457,
+              -4.4529487
+            ],
+            [
+              -37.7952481,
+              -4.4529221
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7844025866",
+      "properties": {
+        "timestamp": "2020-08-25T17:38:30Z",
+        "version": 1,
+        "changeset": 89928140,
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "id": "node/7844025866"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.7952291,
+          -4.4529568
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/756071138",
+      "properties": {
+        "timestamp": "2019-12-16T21:11:13Z",
+        "version": 1,
+        "changeset": 78492070,
+        "addr:city": "Floraí",
+        "addr:postcode": "87185000",
+        "addr:street": "Rua Rocha Pombo",
+        "amenity": "library",
+        "building": "yes",
+        "internet_access": "yes",
+        "name": "Biblioteca Pública",
+        "operator": "Munícipio",
+        "id": "way/756071138"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -52.3013973,
+              -23.3215626
+            ],
+            [
+              -52.3011378,
+              -23.3217625
+            ],
+            [
+              -52.3010118,
+              -23.3216229
+            ],
+            [
+              -52.3012711,
+              -23.3214255
+            ],
+            [
+              -52.3013973,
+              -23.3215626
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4341621741",
+      "properties": {
+        "timestamp": "2016-08-12T11:39:45Z",
+        "version": 2,
+        "changeset": 41408917,
+        "amenity": "library",
+        "name": "TELEPAR;Biblioteca",
+        "id": "node/4341621741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.3011611,
+          -23.3216056
+        ]
+      }
+    }
+  ]
+}

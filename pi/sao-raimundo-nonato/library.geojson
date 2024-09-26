@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1054228391",
+      "properties": {
+        "timestamp": "2023-03-18T12:50:40Z",
+        "version": 2,
+        "changeset": 133821671,
+        "amenity": "library",
+        "building": "yes",
+        "name": "Biblioteca e Auditório",
+        "operator": "UNIVASF",
+        "operator:type": "public",
+        "id": "way/1054228391"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.703305,
+              -9.0297527
+            ],
+            [
+              -42.703305,
+              -9.0299331
+            ],
+            [
+              -42.7028203,
+              -9.0299306
+            ],
+            [
+              -42.7028178,
+              -9.0297477
+            ],
+            [
+              -42.703305,
+              -9.0297527
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10745400278",
+      "properties": {
+        "timestamp": "2023-03-19T17:52:10Z",
+        "version": 2,
+        "changeset": 133867794,
+        "addr:city": "São Raimundo Nonato",
+        "addr:housenumber": "378",
+        "addr:postcode": "64770-000",
+        "addr:street": "Avenida Professor João Meneses",
+        "addr:suburb": "Centro",
+        "amenity": "library",
+        "name": "Biblioteca Pública Municipal Hercilia Deusdará",
+        "id": "node/10745400278"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.6880387,
+          -9.0149332
+        ]
+      }
+    }
+  ]
+}

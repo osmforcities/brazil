@@ -1,0 +1,92 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/557824015",
+      "properties": {
+        "timestamp": "2024-03-15T21:55:20Z",
+        "version": 2,
+        "changeset": 148709673,
+        "amenity": "university",
+        "name": "Universidade de Passo Fundo - Campus Sarandi",
+        "id": "way/557824015"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -52.9270522,
+              -27.9462347
+            ],
+            [
+              -52.9259965,
+              -27.9466427
+            ],
+            [
+              -52.9255956,
+              -27.9467977
+            ],
+            [
+              -52.925148,
+              -27.9460471
+            ],
+            [
+              -52.926066,
+              -27.9453099
+            ],
+            [
+              -52.9261797,
+              -27.9454166
+            ],
+            [
+              -52.9270522,
+              -27.9462347
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9289211871",
+      "properties": {
+        "timestamp": "2021-11-28T01:16:57Z",
+        "version": 1,
+        "changeset": 114310952,
+        "amenity": "university",
+        "name": "CESURG - Centro de Ensino Superior Riograndense",
+        "website": "https://www.cesurgsarandi.com.br/",
+        "id": "node/9289211871"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.8971431,
+          -27.9947181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11735216958",
+      "properties": {
+        "timestamp": "2024-03-15T21:55:20Z",
+        "version": 1,
+        "changeset": 148709673,
+        "access": "permit",
+        "barrier": "gate",
+        "vehicle": "permit",
+        "id": "node/11735216958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.9261797,
+          -27.9454166
+        ]
+      }
+    }
+  ]
+}

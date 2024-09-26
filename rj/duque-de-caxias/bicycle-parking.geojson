@@ -1,0 +1,112 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/682148690",
+      "properties": {
+        "timestamp": "2019-04-06T19:42:51Z",
+        "version": 1,
+        "changeset": 68960355,
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "capacity": "10",
+        "covered": "no",
+        "id": "way/682148690"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.3141639,
+              -22.7055031
+            ],
+            [
+              -43.3141226,
+              -22.7055637
+            ],
+            [
+              -43.3141086,
+              -22.705557
+            ],
+            [
+              -43.3141481,
+              -22.7054944
+            ],
+            [
+              -43.3141639,
+              -22.7055031
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2167689210",
+      "properties": {
+        "timestamp": "2013-03-07T02:21:17Z",
+        "version": 2,
+        "changeset": 15277709,
+        "amenity": "bicycle_parking",
+        "capacity": "700",
+        "covered": "yes",
+        "id": "node/2167689210"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2469499,
+          -22.6780705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2356796426",
+      "properties": {
+        "timestamp": "2013-06-23T04:18:50Z",
+        "version": 1,
+        "changeset": 16664056,
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "wall_hoops",
+        "capacity": "15",
+        "covered": "no",
+        "fee": "no",
+        "operator": "Petrobras",
+        "source": "survey",
+        "id": "node/2356796426"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2873408,
+          -22.7166334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3267350204",
+      "properties": {
+        "timestamp": "2015-01-03T17:07:51Z",
+        "version": 1,
+        "changeset": 27891028,
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "15",
+        "covered": "no",
+        "fee": "no",
+        "id": "node/3267350204"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3096951,
+          -22.7869395
+        ]
+      }
+    }
+  ]
+}

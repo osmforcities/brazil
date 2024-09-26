@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "relation/13401539",
+      "properties": {
+        "timestamp": "2021-11-03T13:56:47Z",
+        "version": 1,
+        "changeset": 113334233,
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "type": "multipolygon",
+        "id": "relation/13401539"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.6648296,
+              -2.8827201
+            ],
+            [
+              -41.6647411,
+              -2.8829233
+            ],
+            [
+              -41.664596,
+              -2.8828526
+            ],
+            [
+              -41.6647358,
+              -2.8826794
+            ],
+            [
+              -41.6648296,
+              -2.8827201
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/998756516",
+      "properties": {
+        "timestamp": "2021-11-03T13:56:47Z",
+        "version": 1,
+        "changeset": 113334233,
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "CEO de Luís Correia",
+        "id": "way/998756516"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.6648296,
+              -2.8827201
+            ],
+            [
+              -41.6647411,
+              -2.8829233
+            ],
+            [
+              -41.664596,
+              -2.8828526
+            ],
+            [
+              -41.6647358,
+              -2.8826794
+            ],
+            [
+              -41.6648296,
+              -2.8827201
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9221415517",
+      "properties": {
+        "timestamp": "2021-11-03T13:56:47Z",
+        "version": 1,
+        "changeset": 113334233,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "orthodontics;periodontics;endodontics",
+        "name": "CEO de Luís Correia",
+        "opening_hours": "Mo-Sa 07:00-13:30",
+        "wheelchair": "yes",
+        "id": "node/9221415517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.664665,
+          -2.8828014
+        ]
+      }
+    }
+  ]
+}

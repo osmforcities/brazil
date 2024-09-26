@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/667607121",
+      "properties": {
+        "timestamp": "2020-01-26T11:47:53Z",
+        "version": 6,
+        "changeset": 80095601,
+        "amenity": "hospital",
+        "id": "way/667607121"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.1977127,
+              -10.4528726
+            ],
+            [
+              -40.197888,
+              -10.453316
+            ],
+            [
+              -40.1975504,
+              -10.4534713
+            ],
+            [
+              -40.1973098,
+              -10.452886
+            ],
+            [
+              -40.1975974,
+              -10.4527463
+            ],
+            [
+              -40.1977127,
+              -10.4528726
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11047077815",
+      "properties": {
+        "timestamp": "2023-07-14T18:41:54Z",
+        "version": 1,
+        "changeset": 138519733,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "id": "node/11047077815"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.1831897,
+          -10.4609208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11047077816",
+      "properties": {
+        "timestamp": "2024-04-17T15:04:53Z",
+        "version": 2,
+        "changeset": 150134294,
+        "addr:city": "Senhor do Bonfim",
+        "addr:housenumber": "172",
+        "addr:street": "Praça Duque de Caxias",
+        "addr:suburb": "Centro",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "gynaecology;general",
+        "name": "Centro de Parto Normal Dr Otoniel Sandes de Oliveira",
+        "opening_hours": "24/7",
+        "payment:sus": "yes",
+        "wheelchair": "yes",
+        "id": "node/11047077816"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.1830212,
+          -10.4619678
+        ]
+      }
+    }
+  ]
+}

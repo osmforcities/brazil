@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1035656707",
+      "properties": {
+        "timestamp": "2022-02-27T12:58:16Z",
+        "version": 1,
+        "changeset": 117907134,
+        "addr:city": "São Lourenço da Mata",
+        "addr:street": "Rua Frei Caneca",
+        "addr:suburb": "Centro",
+        "building": "yes",
+        "government": "social_security",
+        "name": "INSS São Lourenço da Mata",
+        "office": "government",
+        "operator": "Instituto Nacional do Seguro Social",
+        "operator:short": "INSS",
+        "operator:wikidata": "Q10302614",
+        "operator:wikipedia": "pt:Instituto Nacional do Seguro Social",
+        "id": "way/1035656707"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -35.0373714,
+              -7.9983911
+            ],
+            [
+              -35.0373569,
+              -7.9985649
+            ],
+            [
+              -35.0371567,
+              -7.9985707
+            ],
+            [
+              -35.0371552,
+              -7.9983868
+            ],
+            [
+              -35.0373714,
+              -7.9983911
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9408209218",
+      "properties": {
+        "timestamp": "2022-01-10T18:37:11Z",
+        "version": 1,
+        "changeset": 115993912,
+        "addr:city": "São Lourenço da Mata",
+        "addr:suburb": "Centro",
+        "government": "prosecutor",
+        "name": "Procon",
+        "office": "government",
+        "id": "node/9408209218"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.0419325,
+          -7.998398
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "relation/16194906",
+      "properties": {
+        "timestamp": "2024-07-31T07:03:30Z",
+        "version": 2,
+        "changeset": 154634033,
+        "addr:city": "Cidade Ocidental",
+        "addr:housenumber": "Quadra 18",
+        "addr:postcode": "72880-690",
+        "addr:street": "SQ 19, Área Especial",
+        "addr:suburb": "Centro",
+        "air_conditioning": "no",
+        "amenity": "clinic",
+        "brand": "Sistema Único de Saúde - SUS",
+        "building": "healthcare",
+        "email": "sec.saude@cidadeocidental.go.gov.br",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Unidade Básica de Saúde da Família",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "operator": "Sistema Único de Saúde;Secretaria Municipal de Saúde",
+        "operator:type": "public",
+        "short_name": "UBSF SQ 19",
+        "type": "multipolygon",
+        "wheelchair": "limited",
+        "id": "relation/16194906"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.9183117,
+              -16.0979288
+            ],
+            [
+              -47.9182773,
+              -16.097957
+            ],
+            [
+              -47.9182837,
+              -16.0979643
+            ],
+            [
+              -47.9182524,
+              -16.09799
+            ],
+            [
+              -47.9182451,
+              -16.0979819
+            ],
+            [
+              -47.9182067,
+              -16.0980134
+            ],
+            [
+              -47.9180406,
+              -16.0978267
+            ],
+            [
+              -47.9181456,
+              -16.0977405
+            ],
+            [
+              -47.9182139,
+              -16.0978172
+            ],
+            [
+              -47.9182413,
+              -16.0977947
+            ],
+            [
+              -47.9182722,
+              -16.0978294
+            ],
+            [
+              -47.9182439,
+              -16.0978526
+            ],
+            [
+              -47.9183117,
+              -16.0979288
+            ]
+          ],
+          [
+            [
+              -47.9182281,
+              -16.0979205
+            ],
+            [
+              -47.91814,
+              -16.0978216
+            ],
+            [
+              -47.9181278,
+              -16.0978317
+            ],
+            [
+              -47.9182158,
+              -16.0979305
+            ],
+            [
+              -47.9182281,
+              -16.0979205
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/826632815",
+      "properties": {
+        "timestamp": "2020-07-15T23:35:34Z",
+        "version": 1,
+        "changeset": 88053906,
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "Posto de Saude Quadra 13",
+        "id": "way/826632815"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.9301959,
+              -16.109878
+            ],
+            [
+              -47.9300833,
+              -16.1099708
+            ],
+            [
+              -47.9298633,
+              -16.1097337
+            ],
+            [
+              -47.9299814,
+              -16.1096383
+            ],
+            [
+              -47.9299948,
+              -16.1096564
+            ],
+            [
+              -47.9301959,
+              -16.109878
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7718003195",
+      "properties": {
+        "timestamp": "2020-07-15T23:55:29Z",
+        "version": 1,
+        "changeset": 88054170,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posto de Saúde Quadra 13",
+        "id": "node/7718003195"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.9300277,
+          -16.1098258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7718896831",
+      "properties": {
+        "timestamp": "2020-07-16T02:12:11Z",
+        "version": 1,
+        "changeset": 88055842,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posto de Saude Quadra 18",
+        "id": "node/7718896831"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.9272021,
+          -16.1036201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11425779851",
+      "properties": {
+        "timestamp": "2023-12-17T15:47:29Z",
+        "version": 1,
+        "changeset": 145219992,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "community",
+        "name": "UBS Jardim ABC",
+        "id": "node/11425779851"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.8169177,
+          -16.0552205
+        ]
+      }
+    }
+  ]
+}

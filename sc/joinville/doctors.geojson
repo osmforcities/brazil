@@ -1,0 +1,141 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/274879791",
+      "properties": {
+        "timestamp": "2022-05-26T15:57:56Z",
+        "version": 8,
+        "changeset": 121534252,
+        "addr:city": "Joinville",
+        "addr:housenumber": "91",
+        "addr:postcode": "89202-201",
+        "addr:street": "Rua Rio do Sul",
+        "addr:suburb": "Bucarein",
+        "amenity": "doctors",
+        "building": "yes",
+        "building:levels": "2",
+        "building:part": "yes",
+        "healthcare": "doctor",
+        "healthcare:speciality": "orthopaedics",
+        "name": "Clínica de Ortopedia e Traumatologia",
+        "opening_hours": "Mo-Fr 07:30-19:30",
+        "phone": "+55 47 3433-4042",
+        "roof:orientation": "along",
+        "roof:shape": "hipped",
+        "short_name": "COT Joinville",
+        "website": "https://cotjoinville.com.br/home",
+        "id": "way/274879791"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.8447515,
+              -26.3083829
+            ],
+            [
+              -48.8447488,
+              -26.30869
+            ],
+            [
+              -48.844624,
+              -26.3086891
+            ],
+            [
+              -48.8446267,
+              -26.3083821
+            ],
+            [
+              -48.8447515,
+              -26.3083829
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1135154930",
+      "properties": {
+        "timestamp": "2023-03-06T21:08:49Z",
+        "version": 2,
+        "changeset": 133379796,
+        "addr:housenumber": "871",
+        "addr:street": "Rua Benjamin Constant",
+        "addr:suburb": "América",
+        "amenity": "doctors",
+        "building": "yes",
+        "building:levels": "1",
+        "healthcare": "doctor",
+        "name": "VBelle Centro de Saúde Integrada",
+        "id": "way/1135154930"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.8579323,
+              -26.2847998
+            ],
+            [
+              -48.8579417,
+              -26.2849608
+            ],
+            [
+              -48.8577556,
+              -26.2849591
+            ],
+            [
+              -48.8577547,
+              -26.2848007
+            ],
+            [
+              -48.857842,
+              -26.2848003
+            ],
+            [
+              -48.8579323,
+              -26.2847998
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11796036793",
+      "properties": {
+        "timestamp": "2024-04-06T20:29:58Z",
+        "version": 1,
+        "changeset": 149671109,
+        "addr:city": "Joinville",
+        "addr:housenumber": "129",
+        "addr:postcode": "89209-442",
+        "addr:street": "Rua José Fernandes Dias",
+        "addr:suburb": "João Costa",
+        "amenity": "doctors",
+        "check_date": "2024-04-06",
+        "currency:XBT": "yes",
+        "healthcare": "doctor",
+        "healthcare:speciality": "geriatrics;nutrologia",
+        "name": "Dr Fillipe Moroni",
+        "payment:lightning": "yes",
+        "payment:lightning_contactless": "no",
+        "payment:onchain": "yes",
+        "website": "https://www.drfillipemoroni.com.br/servicos",
+        "id": "node/11796036793"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.818444,
+          -26.3537754
+        ]
+      }
+    }
+  ]
+}

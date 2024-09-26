@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1170374605",
+      "properties": {
+        "timestamp": "2023-05-10T17:20:04Z",
+        "version": 2,
+        "changeset": 135945580,
+        "amenity": "library",
+        "building": "yes",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "Biblioteca",
+        "operator": "IF Goiano",
+        "operator:type": "public",
+        "id": "way/1170374605"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.3278594,
+              -14.1082466
+            ],
+            [
+              -46.3279063,
+              -14.1083689
+            ],
+            [
+              -46.327709,
+              -14.1084381
+            ],
+            [
+              -46.3276617,
+              -14.1083179
+            ],
+            [
+              -46.3278594,
+              -14.1082466
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10884123340",
+      "properties": {
+        "timestamp": "2023-05-10T16:07:02Z",
+        "version": 1,
+        "changeset": 135942882,
+        "amenity": "library",
+        "id": "node/10884123340"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.3277333,
+          -14.1084038
+        ]
+      }
+    }
+  ]
+}

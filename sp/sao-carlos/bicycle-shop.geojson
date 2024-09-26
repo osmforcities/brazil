@@ -1,0 +1,128 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/906855400",
+      "properties": {
+        "timestamp": "2021-02-13T17:01:17Z",
+        "version": 1,
+        "changeset": 99221481,
+        "addr:city": "São Carlos",
+        "addr:street": "Rua Padre Texeira",
+        "building": "yes",
+        "name": "Bonde Bike",
+        "shop": "bicycle",
+        "id": "way/906855400"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.8736785,
+              -22.012983
+            ],
+            [
+              -47.8735961,
+              -22.0129513
+            ],
+            [
+              -47.8736829,
+              -22.0127433
+            ],
+            [
+              -47.8737451,
+              -22.0127669
+            ],
+            [
+              -47.873703,
+              -22.0128595
+            ],
+            [
+              -47.873732,
+              -22.0128709
+            ],
+            [
+              -47.8736785,
+              -22.012983
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/760004258",
+      "properties": {
+        "timestamp": "2010-05-30T22:57:15Z",
+        "version": 1,
+        "changeset": 4858349,
+        "name": "Bonde Bike",
+        "shop": "bicycle",
+        "id": "node/760004258"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.8736671,
+          -22.0127919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1052832505",
+      "properties": {
+        "timestamp": "2010-12-21T22:03:55Z",
+        "version": 2,
+        "changeset": 6730594,
+        "name": "Ultra Bike",
+        "operator": "Ozias",
+        "shop": "bicycle",
+        "id": "node/1052832505"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.8816319,
+          -22.0034211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6251991135",
+      "properties": {
+        "timestamp": "2019-02-01T17:05:21Z",
+        "version": 1,
+        "changeset": 66838867,
+        "addr:city": "São Carlos",
+        "addr:housenumber": "391",
+        "addr:postcode": "13566-540",
+        "addr:street": "Avenida das Gardênias",
+        "addr:suburb": "Cidade Jardim",
+        "name": "Pedala Robinho",
+        "opening_hours": "Mo-Fr 09:00-19:00, Sa 09:00-14:00",
+        "operator": "Ricardo",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "service:bicycle:chain_tool": "yes",
+        "service:bicycle:cleaning": "yes",
+        "service:bicycle:parts": "yes",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:sales": "yes",
+        "shop": "bicycle",
+        "id": "node/6251991135"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.8925604,
+          -21.9993374
+        ]
+      }
+    }
+  ]
+}

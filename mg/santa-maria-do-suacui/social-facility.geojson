@@ -1,0 +1,84 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1117798960",
+      "properties": {
+        "timestamp": "2022-11-28T11:32:29Z",
+        "version": 1,
+        "changeset": 129472519,
+        "addr:city": "Santa Maria do Suaçuí",
+        "addr:postcode": "39780-000",
+        "addr:street": "Rua Safira",
+        "amenity": "social_facility",
+        "name": "Centro de Reintegração Social Desembargador Joaquim Alves Andrade",
+        "operator": "Associação de Proteção e Assistência ao Condenado - Apac",
+        "operator:type": "private",
+        "id": "way/1117798960"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.4270522,
+              -18.1809694
+            ],
+            [
+              -42.4265829,
+              -18.1820941
+            ],
+            [
+              -42.4262887,
+              -18.1819521
+            ],
+            [
+              -42.4265899,
+              -18.1810315
+            ],
+            [
+              -42.4268187,
+              -18.1811313
+            ],
+            [
+              -42.4268771,
+              -18.1809073
+            ],
+            [
+              -42.4270522,
+              -18.1809694
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10223439768",
+      "properties": {
+        "timestamp": "2022-11-28T11:32:29Z",
+        "version": 1,
+        "changeset": 129472519,
+        "addr:city": "Santa Maria do Suaçuí",
+        "addr:housenumber": "312",
+        "addr:postcode": "39765-000",
+        "addr:street": "Rua Ali Camilo",
+        "addr:suburb": "Centro",
+        "amenity": "social_facility",
+        "name": "Escola Integrarte",
+        "operator": "Associação de Pais e Amigos dos Excepcionais de Santa Maria do Suaçuí",
+        "operator:type": "public",
+        "social_facility": "day_care",
+        "id": "node/10223439768"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.4194964,
+          -18.191459
+        ]
+      }
+    }
+  ]
+}

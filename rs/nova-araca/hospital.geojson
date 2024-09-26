@@ -1,0 +1,93 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/584171329",
+      "properties": {
+        "timestamp": "2018-07-17T19:58:46Z",
+        "version": 4,
+        "changeset": 60812002,
+        "amenity": "hospital",
+        "emergency": "no",
+        "healthcare": "hospital",
+        "name": "Centro de saúde",
+        "id": "way/584171329"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.7521444,
+              -28.6629006
+            ],
+            [
+              -51.7521254,
+              -28.6630902
+            ],
+            [
+              -51.7519687,
+              -28.6630694
+            ],
+            [
+              -51.7519782,
+              -28.6630152
+            ],
+            [
+              -51.7517218,
+              -28.6629881
+            ],
+            [
+              -51.7517361,
+              -28.6628569
+            ],
+            [
+              -51.7521444,
+              -28.6629006
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5612147687",
+      "properties": {
+        "timestamp": "2018-05-11T18:30:10Z",
+        "version": 1,
+        "changeset": 58886080,
+        "amenity": "hospital",
+        "name": "Centro de saúde",
+        "id": "node/5612147687"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.7519587,
+          -28.6629512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5628576619",
+      "properties": {
+        "timestamp": "2018-05-19T11:51:00Z",
+        "version": 1,
+        "changeset": 59100847,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Centro de Saúde",
+        "id": "node/5628576619"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.7518413,
+          -28.6629185
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/914872597",
+      "properties": {
+        "timestamp": "2021-10-16T00:58:31Z",
+        "version": 3,
+        "changeset": 112563347,
+        "addr:city": "Balneário Camboriú",
+        "addr:housenumber": "586",
+        "addr:postcode": "88330-592",
+        "addr:street": "Rua 904",
+        "addr:suburb": "Centro",
+        "amenity": "dentist",
+        "building": "yes",
+        "contact:phone": "+55 47 3363-5696",
+        "contact:website": "https://ceoclinica.com.br/",
+        "healthcare": "dentist",
+        "healthcare:speciality": "implantology;orthodontics",
+        "name": "CEO - Odontologia avançada",
+        "opening_hours": "Mo-Fr 08:30-12:00,13:30-19:30; Sa,Su,PH off",
+        "operator": "CEO",
+        "wheelchair": "yes",
+        "id": "way/914872597"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.63908,
+              -26.9925266
+            ],
+            [
+              -48.639111,
+              -26.9925482
+            ],
+            [
+              -48.6391388,
+              -26.9925676
+            ],
+            [
+              -48.6390819,
+              -26.9926331
+            ],
+            [
+              -48.6390231,
+              -26.9925922
+            ],
+            [
+              -48.63908,
+              -26.9925266
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3940291198",
+      "properties": {
+        "timestamp": "2024-07-21T20:28:23Z",
+        "version": 6,
+        "changeset": 154235959,
+        "addr:city": "Balneário Camboriú",
+        "addr:housenumber": "33",
+        "addr:postcode": "88330-355",
+        "addr:street": "Rua 2850",
+        "addr:suburb": "Centro",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "Vasselai Clínica Especializada",
+        "id": "node/3940291198"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.6276828,
+          -26.9965337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4789924521",
+      "properties": {
+        "timestamp": "2018-01-29T22:48:15Z",
+        "version": 2,
+        "changeset": 55875504,
+        "addr:housenumber": "258",
+        "addr:street": "Rua Dom Felipe",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "Dentista Priscila",
+        "id": "node/4789924521"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.6276404,
+          -27.0102026
+        ]
+      }
+    }
+  ]
+}

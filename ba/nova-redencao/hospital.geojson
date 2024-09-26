@@ -1,0 +1,83 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/940788130",
+      "properties": {
+        "timestamp": "2021-08-20T20:54:42Z",
+        "version": 2,
+        "changeset": 110006114,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "id": "way/940788130"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.0746759,
+              -12.8200806
+            ],
+            [
+              -41.0745972,
+              -12.8202455
+            ],
+            [
+              -41.074514,
+              -12.8202506
+            ],
+            [
+              -41.0744197,
+              -12.820239
+            ],
+            [
+              -41.074198,
+              -12.8202229
+            ],
+            [
+              -41.0742495,
+              -12.8198597
+            ],
+            [
+              -41.0744734,
+              -12.8198027
+            ],
+            [
+              -41.074692,
+              -12.8198663
+            ],
+            [
+              -41.0746759,
+              -12.8200806
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8712754193",
+      "properties": {
+        "timestamp": "2021-08-20T20:54:42Z",
+        "version": 2,
+        "changeset": 110006114,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "Posto de Saúde Retaguarda",
+        "operator": "Prefeitura Municipal de Nova Redenção",
+        "operator:type": "public",
+        "id": "node/8712754193"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.0744829,
+          -12.820008
+        ]
+      }
+    }
+  ]
+}

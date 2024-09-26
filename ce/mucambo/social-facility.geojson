@@ -1,0 +1,72 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/700885783",
+      "properties": {
+        "timestamp": "2023-01-23T17:49:47Z",
+        "version": 3,
+        "changeset": 131618162,
+        "addr:city": "Mucambo",
+        "addr:postcode": "62170-000",
+        "addr:street": "Avenida Agrônomo José Alves",
+        "addr:suburb": "Centro",
+        "amenity": "social_facility",
+        "building": "yes",
+        "internet_access": "wlan",
+        "name": "CRAS Alberto de Sousa Melo",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "social_facility:for": "underprivileged;child",
+        "wheelchair": "yes",
+        "id": "way/700885783"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.7420406,
+              -3.9048534
+            ],
+            [
+              -40.7417766,
+              -3.9047249
+            ],
+            [
+              -40.7420016,
+              -3.9042649
+            ],
+            [
+              -40.7422655,
+              -3.9043933
+            ],
+            [
+              -40.7420406,
+              -3.9048534
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10801795281",
+      "properties": {
+        "timestamp": "2023-04-11T13:37:11Z",
+        "version": 1,
+        "changeset": 134774802,
+        "amenity": "social_facility",
+        "name": "CRAS - Filomena Maria da Conceição",
+        "id": "node/10801795281"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.8115047,
+          -3.9282146
+        ]
+      }
+    }
+  ]
+}

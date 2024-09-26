@@ -1,0 +1,76 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/550717865",
+      "properties": {
+        "timestamp": "2021-07-21T14:16:42Z",
+        "version": 4,
+        "changeset": 108370629,
+        "addr:city": "Santarém",
+        "addr:street": "Avenida Borges Leal",
+        "amenity": "library",
+        "building": "yes",
+        "name": "Biblioteca Municipal Paulo Rodrigues dos Santos",
+        "operator": "Prefeitura Municipal de Santarém",
+        "id": "way/550717865"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -54.7144342,
+              -2.4277517
+            ],
+            [
+              -54.7143045,
+              -2.4277239
+            ],
+            [
+              -54.7143509,
+              -2.4274889
+            ],
+            [
+              -54.7144216,
+              -2.4275028
+            ],
+            [
+              -54.7144772,
+              -2.427511
+            ],
+            [
+              -54.7144342,
+              -2.4277517
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2577259034",
+      "properties": {
+        "timestamp": "2017-12-08T12:48:35Z",
+        "version": 2,
+        "changeset": 54457962,
+        "addr:city": "Santarém",
+        "addr:street": "Avenida Marechal Rondon",
+        "addr:suburb": "Aparecida",
+        "amenity": "library",
+        "internet_access": "yes",
+        "name": "Biblioteca da Ufopa - Rondon",
+        "operator": "Ufopa",
+        "id": "node/2577259034"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.731449,
+          -2.4291135
+        ]
+      }
+    }
+  ]
+}

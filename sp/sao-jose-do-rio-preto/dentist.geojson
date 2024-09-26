@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/546710380",
+      "properties": {
+        "timestamp": "2017-12-14T01:34:19Z",
+        "version": 1,
+        "changeset": 54612123,
+        "addr:street": "Rua Mirasol",
+        "amenity": "dentist",
+        "building": "yes",
+        "healthcare": "dentist",
+        "name": "Odontologia Bergamo",
+        "id": "way/546710380"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.3901676,
+              -20.8116458
+            ],
+            [
+              -49.3902481,
+              -20.811721
+            ],
+            [
+              -49.3901971,
+              -20.8117762
+            ],
+            [
+              -49.3901194,
+              -20.8116934
+            ],
+            [
+              -49.3901676,
+              -20.8116458
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8981028288",
+      "properties": {
+        "timestamp": "2023-08-19T11:36:19Z",
+        "version": 2,
+        "changeset": 140091163,
+        "addr:city": "Sao Jose do Rio Preto",
+        "addr:housenumber": "7055",
+        "addr:postcode": "15085-350",
+        "addr:street": "Avenida José Munia",
+        "addr:suburb": "Jardim Vivendas",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "healthcare:speciality": "dentist",
+        "name": "S&A Odontologia",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "operator": "Gustavo Aguilera",
+        "id": "node/8981028288"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.3931712,
+          -20.8464453
+        ]
+      }
+    }
+  ]
+}

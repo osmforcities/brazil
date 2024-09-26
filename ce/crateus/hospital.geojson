@@ -1,0 +1,92 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/549213645",
+      "properties": {
+        "timestamp": "2020-06-22T10:14:30Z",
+        "version": 3,
+        "changeset": 86973434,
+        "addr:city": "Crateús",
+        "addr:postcode": "63700000",
+        "addr:street": "Rua Ubaldino Souto Maior",
+        "addr:suburb": "São Vicente",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "Hospital São Lucas",
+        "id": "way/549213645"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.6674433,
+              -5.1820394
+            ],
+            [
+              -40.6675538,
+              -5.1831287
+            ],
+            [
+              -40.6675136,
+              -5.1831635
+            ],
+            [
+              -40.6669906,
+              -5.1832209
+            ],
+            [
+              -40.6669443,
+              -5.1831875
+            ],
+            [
+              -40.6668283,
+              -5.1822569
+            ],
+            [
+              -40.6668081,
+              -5.1821088
+            ],
+            [
+              -40.6672152,
+              -5.1820659
+            ],
+            [
+              -40.6674433,
+              -5.1820394
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8555463186",
+      "properties": {
+        "timestamp": "2021-03-24T01:01:47Z",
+        "version": 1,
+        "changeset": 101603706,
+        "addr:city": "Crateús",
+        "addr:housenumber": "s/n",
+        "addr:street": "Rua Principal",
+        "addr:suburb": "s/b",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "Posto de Saúde (PSF)",
+        "id": "node/8555463186"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.6689311,
+          -5.3210148
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/561310916",
+      "properties": {
+        "timestamp": "2018-02-14T16:46:13Z",
+        "version": 1,
+        "changeset": 56358976,
+        "amenity": "pharmacy",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmácia Básica Municipal",
+        "id": "way/561310916"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.0792763,
+              -29.5411952
+            ],
+            [
+              -51.0792099,
+              -29.5412801
+            ],
+            [
+              -51.0791392,
+              -29.5412361
+            ],
+            [
+              -51.0792093,
+              -29.5411549
+            ],
+            [
+              -51.0792763,
+              -29.5411952
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/982314296",
+      "properties": {
+        "timestamp": "2018-01-04T19:43:14Z",
+        "version": 3,
+        "changeset": 55168142,
+        "amenity": "pharmacy",
+        "dispensing": "no",
+        "name": "Farmácias Associadas",
+        "id": "node/982314296"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.0819925,
+          -29.5398695
+        ]
+      }
+    }
+  ]
+}

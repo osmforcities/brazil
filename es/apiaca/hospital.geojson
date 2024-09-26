@@ -1,0 +1,72 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/617010350",
+      "properties": {
+        "timestamp": "2018-08-14T19:29:59Z",
+        "version": 1,
+        "changeset": 61667856,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hospital José Monteiro",
+        "id": "way/617010350"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.5667038,
+              -21.1533879
+            ],
+            [
+              -41.567032,
+              -21.1535367
+            ],
+            [
+              -41.5669639,
+              -21.1536673
+            ],
+            [
+              -41.5666357,
+              -21.1535184
+            ],
+            [
+              -41.5667038,
+              -21.1533879
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2851417054",
+      "properties": {
+        "timestamp": "2019-07-11T17:33:19Z",
+        "version": 5,
+        "changeset": 72146221,
+        "IJSN:tipoUnidad": "Hospital Geral",
+        "addr:city": "Apiacá",
+        "addr:housenumber": "45",
+        "addr:place": "Centro",
+        "addr:postcode": "29450-000",
+        "addr:street": "Avenida Jerônimo Monteiro",
+        "amenity": "hospital",
+        "contact:phone": "+55 28 3557-1393",
+        "healthcare": "hospital",
+        "name": "Hospital José Monteiro",
+        "id": "node/2851417054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.5666914,
+          -21.1534758
+        ]
+      }
+    }
+  ]
+}

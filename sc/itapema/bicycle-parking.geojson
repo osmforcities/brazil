@@ -1,0 +1,88 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1132330172",
+      "properties": {
+        "timestamp": "2023-01-15T23:58:35Z",
+        "version": 1,
+        "changeset": 131317816,
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "wall_loops",
+        "operator": "Koch",
+        "id": "way/1132330172"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.6170296,
+              -27.0946522
+            ],
+            [
+              -48.6170075,
+              -27.0947519
+            ],
+            [
+              -48.6169914,
+              -27.0947501
+            ],
+            [
+              -48.6170132,
+              -27.094648
+            ],
+            [
+              -48.6170296,
+              -27.0946522
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8997313794",
+      "properties": {
+        "timestamp": "2021-08-11T00:44:30Z",
+        "version": 1,
+        "changeset": 109487861,
+        "amenity": "bicycle_parking",
+        "id": "node/8997313794"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.5927869,
+          -27.1419144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9574058830",
+      "properties": {
+        "timestamp": "2022-03-13T01:06:15Z",
+        "version": 1,
+        "changeset": 118416338,
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "wall_loops",
+        "capacity": "4",
+        "covered": "no",
+        "fee": "no",
+        "lit": "no",
+        "supervised": "no",
+        "id": "node/9574058830"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.6432284,
+          -27.1392898
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,450 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "relation/11221684",
+      "properties": {
+        "timestamp": "2023-04-06T01:57:50Z",
+        "version": 2,
+        "changeset": 134558361,
+        "addr:housenumber": "335",
+        "addr:street": "Rua São Cristóvão",
+        "alt_name": "Hospital Regional de São Miguel do Oeste",
+        "amenity": "hospital",
+        "beds": "90",
+        "brand": "SUS",
+        "description": "Hospital público estadual sob gestão terceirizada.",
+        "email": "administracao@hrtgb.org",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Hospital Regional Terezinha Gaio Basso",
+        "operator": "Instituto Santé",
+        "operator:type": "ngo",
+        "owner": "Estado de Santa Catarina",
+        "ownership": "state",
+        "phone": "+55-49-3631-1800",
+        "short_name": "Hospital Regional",
+        "start_date": "2011-01-17",
+        "type": "multipolygon",
+        "website": "https://www.hrtgb.org/",
+        "id": "relation/11221684"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -53.5036284,
+              -26.7336083
+            ],
+            [
+              -53.5036254,
+              -26.7337483
+            ],
+            [
+              -53.5035976,
+              -26.7343353
+            ],
+            [
+              -53.5033031,
+              -26.7343281
+            ],
+            [
+              -53.5030835,
+              -26.7343228
+            ],
+            [
+              -53.5027475,
+              -26.7343146
+            ],
+            [
+              -53.502484,
+              -26.7343082
+            ],
+            [
+              -53.5024122,
+              -26.7343065
+            ],
+            [
+              -53.5024551,
+              -26.7336334
+            ],
+            [
+              -53.5022701,
+              -26.7336238
+            ],
+            [
+              -53.5022754,
+              -26.7335975
+            ],
+            [
+              -53.5023908,
+              -26.7328716
+            ],
+            [
+              -53.502482,
+              -26.7322943
+            ],
+            [
+              -53.5029514,
+              -26.7322967
+            ],
+            [
+              -53.5036566,
+              -26.7323159
+            ],
+            [
+              -53.5036306,
+              -26.7335113
+            ],
+            [
+              -53.5036284,
+              -26.7336083
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/495567325",
+      "properties": {
+        "timestamp": "2020-12-04T22:11:32Z",
+        "version": 4,
+        "changeset": 95317500,
+        "addr:street": "Rua Doutor José Guilherme Missen",
+        "amenity": "hospital",
+        "building": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "Hospital CasaVitta",
+        "ownership": "private",
+        "id": "way/495567325"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -53.5259269,
+              -26.7279111
+            ],
+            [
+              -53.525919,
+              -26.7280466
+            ],
+            [
+              -53.5254257,
+              -26.7280237
+            ],
+            [
+              -53.5254335,
+              -26.7278882
+            ],
+            [
+              -53.5259269,
+              -26.7279111
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/624467336",
+      "properties": {
+        "timestamp": "2023-04-06T01:57:50Z",
+        "version": 5,
+        "changeset": 134558361,
+        "addr:housenumber": "118",
+        "addr:street": "Rua Doutor José Garrido Yáñez",
+        "amenity": "hospital",
+        "building": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "Hospital São Miguel",
+        "operator": "Sociedade Hospitalar São Miguel do Oeste",
+        "operator:type": "private",
+        "ownership": "private",
+        "phone": "+55-49-3621-0370",
+        "id": "way/624467336"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -53.5129892,
+              -26.729946
+            ],
+            [
+              -53.5129733,
+              -26.7302039
+            ],
+            [
+              -53.5127002,
+              -26.7301905
+            ],
+            [
+              -53.5126969,
+              -26.7302443
+            ],
+            [
+              -53.5127922,
+              -26.730249
+            ],
+            [
+              -53.5127879,
+              -26.7303176
+            ],
+            [
+              -53.5126375,
+              -26.7303102
+            ],
+            [
+              -53.5126338,
+              -26.7303696
+            ],
+            [
+              -53.5125624,
+              -26.730366
+            ],
+            [
+              -53.5125929,
+              -26.7298715
+            ],
+            [
+              -53.5127195,
+              -26.7298777
+            ],
+            [
+              -53.5127161,
+              -26.7299326
+            ],
+            [
+              -53.5129892,
+              -26.729946
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/231283574",
+      "properties": {
+        "timestamp": "2020-12-04T22:08:51Z",
+        "version": 10,
+        "changeset": 95317435,
+        "barrier": "wall",
+        "material": "concrete",
+        "wall": "stone",
+        "id": "way/231283574"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -53.5036306,
+            -26.7335113
+          ],
+          [
+            -53.5036566,
+            -26.7323159
+          ],
+          [
+            -53.5029514,
+            -26.7322967
+          ],
+          [
+            -53.502482,
+            -26.7322943
+          ],
+          [
+            -53.5023908,
+            -26.7328716
+          ],
+          [
+            -53.5022754,
+            -26.7335975
+          ],
+          [
+            -53.5022701,
+            -26.7336238
+          ],
+          [
+            -53.5024551,
+            -26.7336334
+          ],
+          [
+            -53.5024122,
+            -26.7343065
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/817866765",
+      "properties": {
+        "timestamp": "2020-06-20T14:50:15Z",
+        "version": 1,
+        "changeset": 86913001,
+        "barrier": "wall",
+        "id": "way/817866765"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -53.5035976,
+            -26.7343353
+          ],
+          [
+            -53.5036254,
+            -26.7337483
+          ],
+          [
+            -53.5036284,
+            -26.7336083
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/817866766",
+      "properties": {
+        "timestamp": "2020-06-20T14:50:15Z",
+        "version": 1,
+        "changeset": 86913001,
+        "barrier": "fence",
+        "id": "way/817866766"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -53.5024122,
+            -26.7343065
+          ],
+          [
+            -53.502484,
+            -26.7343082
+          ],
+          [
+            -53.5027475,
+            -26.7343146
+          ],
+          [
+            -53.5030835,
+            -26.7343228
+          ],
+          [
+            -53.5033031,
+            -26.7343281
+          ],
+          [
+            -53.5035976,
+            -26.7343353
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2951305436",
+      "properties": {
+        "timestamp": "2020-06-20T14:50:15Z",
+        "version": 2,
+        "changeset": 86913001,
+        "barrier": "entrance",
+        "bicycle": "yes",
+        "foot": "yes",
+        "horse": "yes",
+        "motorcar": "yes",
+        "motorcycle": "yes",
+        "id": "node/2951305436"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.5027475,
+          -26.7343146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7638114449",
+      "properties": {
+        "timestamp": "2020-06-20T14:50:15Z",
+        "version": 1,
+        "changeset": 86913001,
+        "barrier": "entrance",
+        "bicycle": "yes",
+        "foot": "yes",
+        "horse": "yes",
+        "motorcar": "yes",
+        "motorcycle": "yes",
+        "id": "node/7638114449"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.502484,
+          -26.7343082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7638114450",
+      "properties": {
+        "timestamp": "2020-06-20T14:50:15Z",
+        "version": 1,
+        "changeset": 86913001,
+        "barrier": "entrance",
+        "bicycle": "yes",
+        "foot": "yes",
+        "horse": "yes",
+        "motorcar": "yes",
+        "motorcycle": "yes",
+        "id": "node/7638114450"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.5030835,
+          -26.7343228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7638114451",
+      "properties": {
+        "timestamp": "2020-06-20T14:50:15Z",
+        "version": 1,
+        "changeset": 86913001,
+        "access": "permissive",
+        "barrier": "entrance",
+        "emergency": "designated",
+        "foot": "yes",
+        "goods": "private",
+        "hgv": "no",
+        "id": "node/7638114451"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.5033031,
+          -26.7343281
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/543418257",
+      "properties": {
+        "timestamp": "2019-05-03T13:36:02Z",
+        "version": 2,
+        "changeset": 69844444,
+        "addr:housenumber": "660",
+        "addr:street": "Avenida Espanha",
+        "addr:suburb": "Centro",
+        "amenity": "pharmacy",
+        "building": "commercial",
+        "name": "Farmácia Vide Bulla",
+        "id": "way/543418257"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.7334664,
+              -30.0912629
+            ],
+            [
+              -51.7333625,
+              -30.0910657
+            ],
+            [
+              -51.733462,
+              -30.0910265
+            ],
+            [
+              -51.7335659,
+              -30.0912237
+            ],
+            [
+              -51.7334664,
+              -30.0912629
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7508977521",
+      "properties": {
+        "timestamp": "2020-05-12T00:38:50Z",
+        "version": 1,
+        "changeset": 85050985,
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Via Pharma",
+        "id": "node/7508977521"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.727142,
+          -30.0884283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9908425651",
+      "properties": {
+        "timestamp": "2022-07-24T23:50:31Z",
+        "version": 1,
+        "changeset": 124027249,
+        "amenity": "pharmacy",
+        "brand": "Farmácia São João",
+        "brand:wikidata": "Q65164556",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmácia São João",
+        "id": "node/9908425651"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.7281015,
+          -30.0899447
+        ]
+      }
+    }
+  ]
+}

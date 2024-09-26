@@ -1,0 +1,87 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/603906972",
+      "properties": {
+        "timestamp": "2022-04-16T22:55:02Z",
+        "version": 2,
+        "changeset": 119800700,
+        "addr:city": "Muniz Freire",
+        "addr:suburb": "Comunidade Alto Norte",
+        "amenity": "doctors",
+        "building": "yes",
+        "healthcare": "doctor",
+        "id": "way/603906972"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.4041598,
+              -20.2434681
+            ],
+            [
+              -41.4042513,
+              -20.2434591
+            ],
+            [
+              -41.4042618,
+              -20.2435531
+            ],
+            [
+              -41.4041704,
+              -20.2435621
+            ],
+            [
+              -41.4041598,
+              -20.2434681
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5731357627",
+      "properties": {
+        "timestamp": "2018-06-30T23:35:24Z",
+        "version": 1,
+        "changeset": 60312000,
+        "amenity": "doctors",
+        "healthcare": "doctor",
+        "name": "Posto de Saúde de Assunção",
+        "source": "local knowledge",
+        "id": "node/5731357627"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.3651882,
+          -20.2372907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6206286485",
+      "properties": {
+        "timestamp": "2019-01-13T20:25:30Z",
+        "version": 1,
+        "changeset": 66283573,
+        "amenity": "doctors",
+        "name": "Unidade de Saúde de Itaicí",
+        "id": "node/6206286485"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.5104853,
+          -20.5298259
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1164325503",
+      "properties": {
+        "timestamp": "2023-06-01T18:37:25Z",
+        "version": 11,
+        "changeset": 136842504,
+        "addr:country": "BR",
+        "addr:housenumber": "730",
+        "addr:postcode": "09571-380",
+        "addr:state": "SP",
+        "addr:street": "Rua Visconde de Inhaúma",
+        "addr:suburb": "São José",
+        "amenity": "arts_centre",
+        "building": "college",
+        "check_date": "2023-05-26",
+        "height": "14",
+        "name": "Fundação das Artes de São Caetano do Sul (FASCS) - Unidade Milton Andrade",
+        "phone": "+55 11 4239 2020",
+        "source": "local knowledge",
+        "id": "way/1164325503"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.5646475,
+              -23.6345376
+            ],
+            [
+              -46.5646415,
+              -23.6350303
+            ],
+            [
+              -46.5644266,
+              -23.6350281
+            ],
+            [
+              -46.5644288,
+              -23.6348447
+            ],
+            [
+              -46.5644326,
+              -23.6345354
+            ],
+            [
+              -46.5646475,
+              -23.6345376
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10832234216",
+      "properties": {
+        "timestamp": "2023-04-22T17:41:23Z",
+        "version": 1,
+        "changeset": 135237640,
+        "addr:housenumber": "554",
+        "addr:postcode": "09541-150",
+        "addr:street": "Rua Piauí",
+        "amenity": "arts_centre",
+        "email": "email@scaetano.sescsp.org.br",
+        "name": "Sesc São Caetano",
+        "phone": "+55 11 4223 8800",
+        "website": "https://www.sesc.com.br/unidade/sesc-sao-caetano/",
+        "id": "node/10832234216"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5661044,
+          -23.6191581
+        ]
+      }
+    }
+  ]
+}

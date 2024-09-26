@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/672147336",
+      "properties": {
+        "timestamp": "2019-02-21T19:57:28Z",
+        "version": 1,
+        "changeset": 67442027,
+        "addr:city": "Ilha Solteira",
+        "addr:housenumber": "141",
+        "addr:postcode": "15385000",
+        "addr:street": "Alameda Tucuruí",
+        "addr:suburb": "Zona Norte",
+        "amenity": "veterinary",
+        "building": "yes",
+        "name": "Veterinária Clinicão & Gato",
+        "phone": "+55 18 3743 5260",
+        "id": "way/672147336"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.332987,
+              -20.4204755
+            ],
+            [
+              -51.3328663,
+              -20.4206113
+            ],
+            [
+              -51.3325133,
+              -20.4203397
+            ],
+            [
+              -51.3326322,
+              -20.4202126
+            ],
+            [
+              -51.332987,
+              -20.4204755
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6305721055",
+      "properties": {
+        "timestamp": "2020-01-07T19:24:37Z",
+        "version": 3,
+        "changeset": 79308085,
+        "addr:city": "Ilha Solteira",
+        "addr:housenumber": "1170",
+        "addr:postcode": "15385000",
+        "addr:street": "Avenida Brasil Sul",
+        "addr:suburb": "Zona Sul",
+        "amenity": "veterinary",
+        "name": "Clínica Veterinária Petvida",
+        "phone": "+55 3743 4206",
+        "phone_1": "+55 99631 6401",
+        "id": "node/6305721055"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.3520941,
+          -20.4358446
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/626818898",
+      "properties": {
+        "timestamp": "2018-12-23T16:31:23Z",
+        "version": 3,
+        "changeset": 65719326,
+        "addr:city": "Navegantes",
+        "addr:housenumber": "199",
+        "addr:postcode": "88370-053",
+        "addr:street": "Avenida Prefeito Cirino Adolfo Cabral",
+        "addr:suburb": "São Pedro",
+        "amenity": "university",
+        "contact:phone": "+55 47 3342-9700",
+        "contact:website": "http://www.sinergia.edu.br/",
+        "internet_access": "yes",
+        "name": "Faculdade Sinergia",
+        "id": "way/626818898"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.6456169,
+              -26.9068848
+            ],
+            [
+              -48.6454935,
+              -26.9082219
+            ],
+            [
+              -48.6447532,
+              -26.9081549
+            ],
+            [
+              -48.6445869,
+              -26.9067437
+            ],
+            [
+              -48.6456169,
+              -26.9068848
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10656340191",
+      "properties": {
+        "timestamp": "2023-02-13T22:09:33Z",
+        "version": 1,
+        "changeset": 132511269,
+        "amenity": "university",
+        "name": "UniCesumar",
+        "phone": "+55 47 3342 6915",
+        "website": "https://www.unicesumar.edu.br/",
+        "id": "node/10656340191"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.6503208,
+          -26.9015249
+        ]
+      }
+    }
+  ]
+}

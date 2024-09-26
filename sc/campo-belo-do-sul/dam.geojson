@@ -1,0 +1,105 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "relation/8770273",
+      "properties": {
+        "timestamp": "2021-09-13T00:01:30Z",
+        "version": 2,
+        "changeset": 111115325,
+        "type": "multipolygon",
+        "waterway": "dam",
+        "id": "relation/8770273"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -50.6569509,
+              -27.7168845
+            ],
+            [
+              -50.6575287,
+              -27.7170521
+            ],
+            [
+              -50.6583061,
+              -27.7172821
+            ],
+            [
+              -50.6591606,
+              -27.7175661
+            ],
+            [
+              -50.6588951,
+              -27.7175566
+            ],
+            [
+              -50.6582326,
+              -27.7173666
+            ],
+            [
+              -50.6575181,
+              -27.7171983
+            ],
+            [
+              -50.6566494,
+              -27.7169903
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1212224163",
+      "properties": {
+        "timestamp": "2023-10-01T13:05:29Z",
+        "version": 1,
+        "changeset": 141987484,
+        "waterway": "dam",
+        "id": "way/1212224163"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -50.8152067,
+            -27.9686795
+          ],
+          [
+            -50.8141248,
+            -27.9694119
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1212224170",
+      "properties": {
+        "timestamp": "2023-10-01T13:05:29Z",
+        "version": 1,
+        "changeset": 141987484,
+        "source": "survey",
+        "waterway": "dam",
+        "id": "way/1212224170"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -50.7913437,
+            -27.9592457
+          ],
+          [
+            -50.7904433,
+            -27.9595146
+          ]
+        ]
+      }
+    }
+  ]
+}

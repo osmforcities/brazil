@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/692267916",
+      "properties": {
+        "timestamp": "2019-05-24T16:52:14Z",
+        "version": 2,
+        "changeset": 70593098,
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "id": "way/692267916"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -52.0869576,
+              -27.2864446
+            ],
+            [
+              -52.0869819,
+              -27.2865357
+            ],
+            [
+              -52.0868508,
+              -27.2865632
+            ],
+            [
+              -52.0868266,
+              -27.2864722
+            ],
+            [
+              -52.0869576,
+              -27.2864446
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8508495551",
+      "properties": {
+        "timestamp": "2021-03-11T23:27:29Z",
+        "version": 1,
+        "changeset": 100868421,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "id": "node/8508495551"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.9194045,
+          -27.1792939
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1180772520",
+      "properties": {
+        "timestamp": "2023-11-05T19:03:20Z",
+        "version": 2,
+        "changeset": 143662610,
+        "addr:housenumber": "30",
+        "addr:street": "Praça Paula Souza",
+        "addr:suburb": "Centro",
+        "amenity": "library",
+        "building": "yes",
+        "building:levels": "2",
+        "email": "biblioteca@salto.sp.gov.br",
+        "name": "Biblioteca Municipal Professor Valderez Antônio Bergamo da Silva",
+        "opening_hours": "Mo-Fr 08:00-18:00; PH off",
+        "phone": "+55 11 4028 2575",
+        "id": "way/1180772520"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.2938539,
+              -23.208314
+            ],
+            [
+              -47.293643,
+              -23.2080247
+            ],
+            [
+              -47.2937841,
+              -23.2079326
+            ],
+            [
+              -47.2939738,
+              -23.2081948
+            ],
+            [
+              -47.293973,
+              -23.2082373
+            ],
+            [
+              -47.2938539,
+              -23.208314
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11226001960",
+      "properties": {
+        "timestamp": "2023-09-29T00:46:02Z",
+        "version": 1,
+        "changeset": 141891467,
+        "amenity": "library",
+        "name": "Biblioteca Universitária CEUNSP",
+        "id": "node/11226001960"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.2984969,
+          -23.2067575
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "relation/6160335",
+      "properties": {
+        "timestamp": "2016-04-22T13:07:45Z",
+        "version": 1,
+        "changeset": 38785449,
+        "amenity": "social_facility",
+        "name": "Serviço de Assistência e Recuperação do Adulto e da Infância",
+        "short_name": "SARAI",
+        "social_facility": "outreach",
+        "type": "multipolygon",
+        "website": "http://www.sarai.org.br/",
+        "id": "relation/6160335"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -45.9450373,
+              -21.4275697
+            ],
+            [
+              -45.9451163,
+              -21.4275709
+            ],
+            [
+              -45.9451125,
+              -21.4276527
+            ],
+            [
+              -45.9451054,
+              -21.427806
+            ],
+            [
+              -45.9450294,
+              -21.4278046
+            ],
+            [
+              -45.9449227,
+              -21.4278014
+            ],
+            [
+              -45.9449306,
+              -21.4275666
+            ],
+            [
+              -45.9450373,
+              -21.4275697
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/412727287",
+      "properties": {
+        "timestamp": "2016-04-22T13:07:43Z",
+        "version": 1,
+        "changeset": 38785449,
+        "addr:housenumber": "875",
+        "addr:street": "Rua Sul",
+        "amenity": "social_facility",
+        "id": "way/412727287"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -45.9774417,
+              -21.416115
+            ],
+            [
+              -45.9776321,
+              -21.4155907
+            ],
+            [
+              -45.9778427,
+              -21.4158666
+            ],
+            [
+              -45.9774417,
+              -21.416115
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/423707014",
+      "properties": {
+        "timestamp": "2016-06-08T22:41:22Z",
+        "version": 1,
+        "changeset": 39895910,
+        "amenity": "social_facility",
+        "building": "yes",
+        "name": "Bolsa Família",
+        "social_facility": "outreach",
+        "id": "way/423707014"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -45.947686,
+              -21.4219123
+            ],
+            [
+              -45.947916,
+              -21.4219147
+            ],
+            [
+              -45.9479149,
+              -21.4219993
+            ],
+            [
+              -45.9476849,
+              -21.4219969
+            ],
+            [
+              -45.947686,
+              -21.4219123
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4140760691",
+      "properties": {
+        "timestamp": "2017-01-04T20:06:24Z",
+        "version": 2,
+        "changeset": 44907554,
+        "amenity": "social_facility",
+        "name": "Lar-escola CAZITA",
+        "official_name": "Casa da Criança e do Adolescente Zita Engel Ayer",
+        "social_facility:for": "child;juvenile;pregnant",
+        "id": "node/4140760691"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.9450717,
+          -21.4276953
+        ]
+      }
+    }
+  ]
+}

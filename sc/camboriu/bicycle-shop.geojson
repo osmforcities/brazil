@@ -1,0 +1,104 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1007847895",
+      "properties": {
+        "timestamp": "2021-12-01T00:00:04Z",
+        "version": 1,
+        "changeset": 114422686,
+        "building": "yes",
+        "name": "JM Bike Oficina de Bicicleta",
+        "phone": "+554733656293",
+        "shop": "bicycle",
+        "id": "way/1007847895"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.6495862,
+              -27.0259478
+            ],
+            [
+              -48.6495905,
+              -27.0260269
+            ],
+            [
+              -48.649426,
+              -27.0260847
+            ],
+            [
+              -48.6494131,
+              -27.0259729
+            ],
+            [
+              -48.6495862,
+              -27.0259478
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9297845877",
+      "properties": {
+        "timestamp": "2021-12-11T15:03:36Z",
+        "version": 2,
+        "changeset": 114820951,
+        "addr:city": "Camboriú",
+        "addr:street": "Rua Ernesto Florêncio Pereira",
+        "addr:suburb": "Centro",
+        "name": "Casa do Ciclista",
+        "phone": "+55 47 99938-8679",
+        "service:bicycle:Bicycle_Sales_and_Service": "yes",
+        "service:bicycle:parts": "yes",
+        "service:bicycle:pump": "yes",
+        "service:bicycle:repair": "yes",
+        "shop": "bicycle",
+        "id": "node/9297845877"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.6539158,
+          -27.0211795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9329897954",
+      "properties": {
+        "timestamp": "2021-12-11T15:03:36Z",
+        "version": 1,
+        "changeset": 114820951,
+        "addr:city": "Camboriú",
+        "addr:housenumber": "890",
+        "addr:street": "Rua Siqueira Campos",
+        "addr:suburb": "Rio Pequeno",
+        "name": "Bata Bike",
+        "phone": "+55 47 99782 2696",
+        "service:bicycle:Bicycle_Sales_and_Service": "yes",
+        "service:bicycle:bicycle": "yes",
+        "service:bicycle:parts": "yes",
+        "service:bicycle:pump": "yes",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:service": "yes",
+        "shop": "bicycle",
+        "website": "https://www.instagram.com/batata_bike/?hl=pt-br",
+        "id": "node/9329897954"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.6474583,
+          -27.0329846
+        ]
+      }
+    }
+  ]
+}

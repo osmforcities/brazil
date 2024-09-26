@@ -1,0 +1,81 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1209843453",
+      "properties": {
+        "timestamp": "2023-09-21T18:06:12Z",
+        "version": 1,
+        "changeset": 141572107,
+        "addr:housenumber": "695",
+        "addr:street": "Rua Samuel Fragoso Coimbra",
+        "building": "yes",
+        "contact:facebook": "https://www.facebook.com/people/consertabikevalinhos/100085410912128/",
+        "contact:instagram": "@consertabikevalinhos",
+        "mobile": "+55 19 99910 1210",
+        "name": "Conserta Bike",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:sales": "yes",
+        "service:bicycle:second_hand": "yes",
+        "shop": "bicycle",
+        "website": "https://www.consertabike.com/",
+        "id": "way/1209843453"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.0054652,
+              -22.9724927
+            ],
+            [
+              -47.0054464,
+              -22.9725427
+            ],
+            [
+              -47.0053356,
+              -22.9725138
+            ],
+            [
+              -47.0053419,
+              -22.9724677
+            ],
+            [
+              -47.0054652,
+              -22.9724927
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8090653924",
+      "properties": {
+        "timestamp": "2023-10-08T22:45:09Z",
+        "version": 2,
+        "changeset": 142322335,
+        "addr:city": "Valinhos",
+        "addr:housenumber": "239C",
+        "addr:postcode": "13271-000",
+        "addr:street": "Rua Campos Salles",
+        "addr:suburb": "Vila Sao Sebastião",
+        "name": "REV Bike Shop",
+        "opening_hours": "Mo-Fr 08:00-18:00; PH off",
+        "phone": "+55 (19) 3849-7067",
+        "shop": "bicycle",
+        "website": "https://ldnpecas.com.br",
+        "id": "node/8090653924"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.999712,
+          -22.9675676
+        ]
+      }
+    }
+  ]
+}

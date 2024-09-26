@@ -1,0 +1,83 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "relation/7257901",
+      "properties": {
+        "timestamp": "2023-10-26T02:03:39Z",
+        "version": 4,
+        "changeset": 143140412,
+        "alt_name": "Unisinos",
+        "amenity": "university",
+        "name": "Universidade do Vale do Rio dos Sinos",
+        "name:en": "University of the Sinos Valley",
+        "type": "multipolygon",
+        "website": "https://www.unisinos.br/",
+        "wikidata": "Q7894410",
+        "wikipedia": "en:Unisinos",
+        "id": "relation/7257901"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.1604035,
+              -29.7971181
+            ],
+            [
+              -51.1608198,
+              -29.7993128
+            ],
+            [
+              -51.1609341,
+              -29.7998986
+            ],
+            [
+              -51.1585517,
+              -29.7996643
+            ],
+            [
+              -51.1546509,
+              -29.7988654
+            ],
+            [
+              -51.1488529,
+              -29.7989865
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/494537012",
+      "properties": {
+        "timestamp": "2018-07-01T19:15:09Z",
+        "version": 2,
+        "changeset": 60328474,
+        "fixme": "Refinar este limite",
+        "source": "IBGE",
+        "id": "way/494537012"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -51.1488529,
+            -29.7989865
+          ],
+          [
+            -51.1546509,
+            -29.7988654
+          ],
+          [
+            -51.1585517,
+            -29.7996643
+          ]
+        ]
+      }
+    }
+  ]
+}

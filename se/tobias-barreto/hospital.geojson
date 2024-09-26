@@ -1,0 +1,98 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/380870447",
+      "properties": {
+        "timestamp": "2023-04-30T18:58:57Z",
+        "version": 4,
+        "changeset": 135549781,
+        "addr:postcode": "49300-000",
+        "addr:street": "Avenida Governador João Alves Filho",
+        "addr:suburb": "Centro",
+        "alt_name": "Hospital Regional de Tobias Barreto",
+        "amenity": "hospital",
+        "contact:phone": "+55 79 3541 3169",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Unidade de Pronto Atendimento São Vicente de Paulo",
+        "operator": "Secretaria de Estado da Saúde",
+        "operator:type": "government",
+        "phone": "+55 79 3541 4641",
+        "id": "way/380870447"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.0009746,
+              -11.1826769
+            ],
+            [
+              -38.0005589,
+              -11.1831374
+            ],
+            [
+              -37.9999558,
+              -11.1825995
+            ],
+            [
+              -37.9998211,
+              -11.1824672
+            ],
+            [
+              -38.0002511,
+              -11.1820645
+            ],
+            [
+              -38.0009396,
+              -11.1826473
+            ],
+            [
+              -38.0009746,
+              -11.1826769
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8358870333",
+      "properties": {
+        "timestamp": "2021-01-24T22:41:50Z",
+        "version": 1,
+        "changeset": 98077673,
+        "entrance": "service",
+        "id": "node/8358870333"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.0009396,
+          -11.1826473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8358870334",
+      "properties": {
+        "timestamp": "2021-01-24T22:41:50Z",
+        "version": 1,
+        "changeset": 98077673,
+        "entrance": "main",
+        "id": "node/8358870334"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.9999558,
+          -11.1825995
+        ]
+      }
+    }
+  ]
+}

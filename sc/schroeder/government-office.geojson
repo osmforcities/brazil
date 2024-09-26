@@ -1,0 +1,136 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/895123094",
+      "properties": {
+        "timestamp": "2022-06-08T13:41:27Z",
+        "version": 2,
+        "changeset": 122119440,
+        "addr:city": "Schroeder",
+        "addr:housenumber": "2520",
+        "addr:postcode": "89275-000",
+        "addr:street": "Avenida dos Imigrantes",
+        "addr:suburb": "Centro",
+        "building": "yes",
+        "government": "legislative",
+        "name": "Câmara de Vereadores de Schroeder",
+        "office": "government",
+        "phone": "+55 47 3374-1410",
+        "id": "way/895123094"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.0783012,
+              -26.4129628
+            ],
+            [
+              -49.0782158,
+              -26.4130502
+            ],
+            [
+              -49.0780491,
+              -26.4129191
+            ],
+            [
+              -49.0781223,
+              -26.4128317
+            ],
+            [
+              -49.0783012,
+              -26.4129628
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3456650741",
+      "properties": {
+        "timestamp": "2017-03-27T21:54:29Z",
+        "version": 5,
+        "changeset": 47213643,
+        "addr:city": "Schroeder",
+        "addr:housenumber": "1515",
+        "addr:postcode": "89275-000",
+        "addr:street": "Rua Marechal Castelo Branco",
+        "addr:suburb": "Centro Sul",
+        "alt_name": "Tabelionato Jacoby",
+        "government": "register_office",
+        "name": "Tabelionato de Notas e Registro Civil Jacoby",
+        "office": "government",
+        "phone": "+55 47 3374 5675",
+        "source": "Bing;survey",
+        "id": "node/3456650741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.0662242,
+          -26.4251184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4801664617",
+      "properties": {
+        "timestamp": "2017-04-18T18:50:20Z",
+        "version": 3,
+        "changeset": 47915301,
+        "addr:city": "Schroeder",
+        "addr:housenumber": "3201",
+        "addr:street": "Rua Marechal Castelo Branco",
+        "addr:suburb": "Centro",
+        "contact:email": "procon@schroeder.sc.gov.br",
+        "name": "Procon",
+        "office": "government",
+        "opening_hours": "Mo-Fr 09:30-12:00, 13:30-17:00",
+        "phone": "+55 47 3374-6540",
+        "id": "node/4801664617"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.075933,
+          -26.4115881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10043371078",
+      "properties": {
+        "timestamp": "2022-09-22T14:46:08Z",
+        "version": 2,
+        "changeset": 126508635,
+        "alt_name": "3º/3º/4ª/7ºBBM;SAT;Seção de Atividades Técnicas",
+        "contact:phone": "+55 47 3273-0980",
+        "contact:website": "https://www.cbm.sc.gov.br/",
+        "government": "fire_service",
+        "name": "Serviço de Segurança Contra Incêndio",
+        "office": "government",
+        "operator": "Corpo de Bombeiros Militar de Santa Catarina",
+        "operator:short": "CBMSC",
+        "operator:type": "public",
+        "operator:wikidata": "Q768967",
+        "owner": "Governo do Estado de Santa Catarina",
+        "ownership": "state",
+        "short_name": "SSCI",
+        "id": "node/10043371078"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.0751553,
+          -26.4121007
+        ]
+      }
+    }
+  ]
+}

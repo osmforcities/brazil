@@ -1,0 +1,143 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/741757858",
+      "properties": {
+        "timestamp": "2022-07-03T00:15:17Z",
+        "version": 4,
+        "changeset": 123136400,
+        "addr:postcode": "61814-384",
+        "addr:street": "Avenida 8",
+        "addr:suburb": "Conjunto Jereissati II",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "Unidade de Pronto Atendimento",
+        "operator": "Secretaria da Saúde",
+        "operator:type": "government",
+        "ref": "CNES-0228753",
+        "source": "CNES;https://pacatuba.ce.gov.br/materia.php?materia=177",
+        "start_date": "2020-07-28",
+        "id": "way/741757858"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.6155296,
+              -3.8944769
+            ],
+            [
+              -38.6155683,
+              -3.8946247
+            ],
+            [
+              -38.615445,
+              -3.8946682
+            ],
+            [
+              -38.6154601,
+              -3.8947316
+            ],
+            [
+              -38.6153583,
+              -3.8947617
+            ],
+            [
+              -38.6153598,
+              -3.8946963
+            ],
+            [
+              -38.6152386,
+              -3.894737
+            ],
+            [
+              -38.6152387,
+              -3.8947528
+            ],
+            [
+              -38.6151931,
+              -3.8947721
+            ],
+            [
+              -38.615189,
+              -3.894762
+            ],
+            [
+              -38.6151371,
+              -3.8947644
+            ],
+            [
+              -38.6150807,
+              -3.8947475
+            ],
+            [
+              -38.6150587,
+              -3.8947277
+            ],
+            [
+              -38.6150368,
+              -3.8947078
+            ],
+            [
+              -38.6149733,
+              -3.8947261
+            ],
+            [
+              -38.6149716,
+              -3.894707
+            ],
+            [
+              -38.614919,
+              -3.8947207
+            ],
+            [
+              -38.6148831,
+              -3.8946245
+            ],
+            [
+              -38.6154682,
+              -3.8944467
+            ],
+            [
+              -38.6154809,
+              -3.8944854
+            ],
+            [
+              -38.6155296,
+              -3.8944769
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4488748369",
+      "properties": {
+        "timestamp": "2021-06-29T14:11:38Z",
+        "version": 2,
+        "changeset": 107153244,
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "Hospital Municipal de Pacatuba",
+        "operator": "Prefeitura Municipal de Pacatuba",
+        "operator:type": "public",
+        "id": "node/4488748369"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.6193257,
+          -3.9824592
+        ]
+      }
+    }
+  ]
+}

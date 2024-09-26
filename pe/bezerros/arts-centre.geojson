@@ -1,0 +1,97 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/696731193",
+      "properties": {
+        "timestamp": "2019-11-14T13:14:58Z",
+        "version": 3,
+        "changeset": 77074920,
+        "addr:city": "Bezerros",
+        "addr:postcode": "55660-000",
+        "addr:street": "Rua Vitoriano Pereira de Lima",
+        "addr:suburb": "Santo Antônio",
+        "amenity": "arts_centre",
+        "building": "yes",
+        "name": "Estação da Cultura",
+        "operator": "Prefeitura Municipal de Bezerros",
+        "public_transport": "station",
+        "id": "way/696731193"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -35.7554235,
+              -8.2338094
+            ],
+            [
+              -35.7553965,
+              -8.2338948
+            ],
+            [
+              -35.7550503,
+              -8.2337876
+            ],
+            [
+              -35.7550773,
+              -8.2337021
+            ],
+            [
+              -35.7554235,
+              -8.2338094
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2278989638",
+      "properties": {
+        "timestamp": "2023-04-09T20:00:37Z",
+        "version": 2,
+        "changeset": 134702377,
+        "addr:city": "Bezerros",
+        "amenity": "arts_centre",
+        "name": "Centro Cultural de Serra Negra",
+        "id": "node/2278989638"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.7686295,
+          -8.1643849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6401576886",
+      "properties": {
+        "timestamp": "2019-11-15T00:13:44Z",
+        "version": 3,
+        "changeset": 77099389,
+        "addr:city": "Bezerros",
+        "addr:postcode": "55660-000",
+        "addr:street": "Rua Vitoriano Pereira de Lima",
+        "addr:suburb": "Santo Antônio",
+        "name": "Bezerros",
+        "operator": "Prefeitura Municipal de Bezerros",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "id": "node/6401576886"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.7550773,
+          -8.2337021
+        ]
+      }
+    }
+  ]
+}

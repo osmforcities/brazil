@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/746301200",
+      "properties": {
+        "timestamp": "2019-11-17T07:26:25Z",
+        "version": 1,
+        "changeset": 77181587,
+        "access": "yes",
+        "amenity": "toilets",
+        "building": "yes",
+        "toilets:disposal": "flush",
+        "unisex": "yes",
+        "wheelchair": "limited",
+        "id": "way/746301200"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.3419363,
+              -21.7543162
+            ],
+            [
+              -47.3419279,
+              -21.7543759
+            ],
+            [
+              -47.3418765,
+              -21.7543697
+            ],
+            [
+              -47.341885,
+              -21.75431
+            ],
+            [
+              -47.3419363,
+              -21.7543162
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3523271902",
+      "properties": {
+        "timestamp": "2023-06-25T20:37:52Z",
+        "version": 5,
+        "changeset": 137766578,
+        "access": "yes",
+        "amenity": "toilets",
+        "toilets:disposal": "flush",
+        "id": "node/3523271902"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.5971147,
+          -21.7166629
+        ]
+      }
+    }
+  ]
+}

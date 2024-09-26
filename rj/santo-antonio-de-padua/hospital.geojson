@@ -1,0 +1,72 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/260637172",
+      "properties": {
+        "timestamp": "2023-07-02T23:31:53Z",
+        "version": 3,
+        "changeset": 138042034,
+        "addr:housenumber": "520",
+        "addr:postcode": "28470-000",
+        "addr:street": "Avenida João Jasbick",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "Helio Montezano",
+        "ref:CNES": "3040119",
+        "ref:vatin": "BR05797356000111",
+        "id": "way/260637172"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.1974629,
+              -21.5298414
+            ],
+            [
+              -42.1958757,
+              -21.5309803
+            ],
+            [
+              -42.195295,
+              -21.5302106
+            ],
+            [
+              -42.1968677,
+              -21.5291527
+            ],
+            [
+              -42.1974629,
+              -21.5298414
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2661555913",
+      "properties": {
+        "timestamp": "2024-08-10T13:15:35Z",
+        "version": 3,
+        "changeset": 155062264,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Policlínica Dr. Juarez Amaral de Andrade",
+        "id": "node/2661555913"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.1813074,
+          -21.5376094
+        ]
+      }
+    }
+  ]
+}

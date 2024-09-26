@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/978881982",
+      "properties": {
+        "timestamp": "2021-09-10T01:30:08Z",
+        "version": 3,
+        "changeset": 110999500,
+        "access": "yes",
+        "air_conditioning": "yes",
+        "alt_name": "Biblioteca Victor Hugo Aragão de Oliveira",
+        "amenity": "library",
+        "building": "yes",
+        "capacity:persons": "80",
+        "contact:email": "biblioteca.araguaina@ifto.edu.br",
+        "contact:phone": "+55 63 3411-0315",
+        "contact:website": "https://biblioteca.ifto.edu.br",
+        "internet_access": "wlan;terminal",
+        "internet_access:fee": "no",
+        "internet_access:ssid": "IFTO",
+        "name": "Biblioteca do IFTO",
+        "operator": "Instituto Federal do Tocantins",
+        "operator:type": "university",
+        "wheelchair": "yes",
+        "id": "way/978881982"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.1939899,
+              -7.181746
+            ],
+            [
+              -48.1939943,
+              -7.181833
+            ],
+            [
+              -48.1937911,
+              -7.1818385
+            ],
+            [
+              -48.1937889,
+              -7.1817834
+            ],
+            [
+              -48.1938899,
+              -7.181779
+            ],
+            [
+              -48.1938899,
+              -7.1817471
+            ],
+            [
+              -48.1939899,
+              -7.181746
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1472700104",
+      "properties": {
+        "timestamp": "2020-06-16T02:42:56Z",
+        "version": 3,
+        "changeset": 86692824,
+        "amenity": "library",
+        "name": "Biblioteca UFT",
+        "id": "node/1472700104"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.1964642,
+          -7.1821287
+        ]
+      }
+    }
+  ]
+}

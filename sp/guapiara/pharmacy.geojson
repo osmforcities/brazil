@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/514245747",
+      "properties": {
+        "timestamp": "2020-03-23T15:17:42Z",
+        "version": 2,
+        "changeset": 82529190,
+        "amenity": "pharmacy",
+        "building": "yes",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Droganossa",
+        "id": "way/514245747"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.5328175,
+              -24.1855848
+            ],
+            [
+              -48.53279,
+              -24.185723
+            ],
+            [
+              -48.5327229,
+              -24.185709
+            ],
+            [
+              -48.5327524,
+              -24.1855726
+            ],
+            [
+              -48.5328175,
+              -24.1855848
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3114847327",
+      "properties": {
+        "timestamp": "2014-10-06T14:41:16Z",
+        "version": 1,
+        "changeset": 25898614,
+        "amenity": "pharmacy",
+        "dispensing": "no",
+        "id": "node/3114847327"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.5065027,
+          -24.1734519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5022912135",
+      "properties": {
+        "timestamp": "2017-08-08T19:39:51Z",
+        "version": 1,
+        "changeset": 50953121,
+        "amenity": "pharmacy",
+        "name": "Medfarma",
+        "id": "node/5022912135"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.5332074,
+          -24.1852744
+        ]
+      }
+    }
+  ]
+}

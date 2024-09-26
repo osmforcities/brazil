@@ -1,0 +1,74 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1117287791",
+      "properties": {
+        "timestamp": "2022-11-26T03:13:52Z",
+        "version": 1,
+        "changeset": 129388239,
+        "amenity": "social_facility",
+        "building": "yes",
+        "building:colour": "pink",
+        "building:levels": "2",
+        "name": "Rede Feminina de Combate ao Câncer",
+        "short_name": "RFCC",
+        "social_facility": "day_care",
+        "social_facility:for": "diseased",
+        "id": "way/1117287791"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.6275603,
+              -28.0256014
+            ],
+            [
+              -48.6274691,
+              -28.0256109
+            ],
+            [
+              -48.6274695,
+              -28.0254085
+            ],
+            [
+              -48.6275337,
+              -28.0254018
+            ],
+            [
+              -48.6275603,
+              -28.0256014
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10604757001",
+      "properties": {
+        "timestamp": "2023-02-04T01:17:53Z",
+        "version": 2,
+        "changeset": 132062453,
+        "alt_name": "Centro de Referência em Assistência Social",
+        "amenity": "social_facility",
+        "name": "CRAS Garopaba",
+        "operator": "Prefeitura Municipal de Garopaba",
+        "operator:type": "government",
+        "social_facility": "day_care",
+        "social_facility:for": "underprivileged",
+        "id": "node/10604757001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.673733,
+          -28.1026817
+        ]
+      }
+    }
+  ]
+}

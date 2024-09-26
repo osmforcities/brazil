@@ -1,0 +1,127 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/385928653",
+      "properties": {
+        "timestamp": "2023-12-25T01:29:50Z",
+        "version": 4,
+        "changeset": 145484117,
+        "addr:city": "Capela de Santana",
+        "addr:housenumber": "2335",
+        "addr:postcode": "95745-000",
+        "addr:street": "Avenida Coronel Orestes Lucas",
+        "addr:suburb": "Vila Nova",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Unidade Básica de Saúde Central",
+        "phone": "+55 51 3698 1155",
+        "ref:CNES": "6177735",
+        "short_name": "UBS Central",
+        "id": "way/385928653"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.3204345,
+              -29.6863296
+            ],
+            [
+              -51.3205162,
+              -29.6866559
+            ],
+            [
+              -51.3202133,
+              -29.6867131
+            ],
+            [
+              -51.3201317,
+              -29.6863868
+            ],
+            [
+              -51.3204345,
+              -29.6863296
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1233926016",
+      "properties": {
+        "timestamp": "2023-12-25T01:29:50Z",
+        "version": 2,
+        "changeset": 145484117,
+        "addr:city": "Capela de Santana",
+        "addr:housenumber": "525",
+        "addr:street": "Rua Palmitinho",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Estratégia Saúde da Família Imigrantes",
+        "ref:CNES": "5932874",
+        "short_name": "ESF Imigrantes",
+        "source": "IEDE/RS",
+        "id": "way/1233926016"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.3128157,
+              -29.661175
+            ],
+            [
+              -51.3129508,
+              -29.6616099
+            ],
+            [
+              -51.3126143,
+              -29.6616888
+            ],
+            [
+              -51.3124792,
+              -29.6612539
+            ],
+            [
+              -51.3128157,
+              -29.661175
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11450840490",
+      "properties": {
+        "timestamp": "2023-12-25T01:29:50Z",
+        "version": 1,
+        "changeset": 145484117,
+        "addr:housenumber": "4127",
+        "addr:postcode": "95745-000",
+        "addr:street": "Avenida Coronel Orestes Lucas",
+        "amenity": "clinic",
+        "fixme": "Posição não exata, baseada no IEDE/RS; quais prédios exatamente fazem parte dessa amenity?",
+        "healthcare": "clinic",
+        "name": "Estratégia Saúde da Família Centro",
+        "ref:CNES": "2224763",
+        "short_name": "ESF Centro",
+        "source": "IEDE/RS",
+        "id": "node/11450840490"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.3256086,
+          -29.7001766
+        ]
+      }
+    }
+  ]
+}

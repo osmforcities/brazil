@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/824686072",
+      "properties": {
+        "timestamp": "2023-05-08T19:51:06Z",
+        "version": 2,
+        "changeset": 135867418,
+        "addr:housenumber": "1113-1301",
+        "addr:postcode": "72880-000",
+        "addr:street": "Avenida Perimetral Norte",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hospital Público de Cidade Ocidental GO",
+        "operator:ref:vatin": "BR36862621000121",
+        "ref:CNES": "2569728",
+        "id": "way/824686072"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.9373357,
+              -16.1100052
+            ],
+            [
+              -47.9368173,
+              -16.1104305
+            ],
+            [
+              -47.936413,
+              -16.1099434
+            ],
+            [
+              -47.9369119,
+              -16.1095517
+            ],
+            [
+              -47.9373357,
+              -16.1100052
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/824686078",
+      "properties": {
+        "timestamp": "2020-07-09T21:19:09Z",
+        "version": 1,
+        "changeset": 87784712,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hospital Particular",
+        "id": "way/824686078"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.9336664,
+              -16.1105541
+            ],
+            [
+              -47.9335699,
+              -16.1106443
+            ],
+            [
+              -47.9333607,
+              -16.1104175
+            ],
+            [
+              -47.9334519,
+              -16.1103428
+            ],
+            [
+              -47.9336664,
+              -16.1105541
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7700577730",
+      "properties": {
+        "timestamp": "2020-07-09T21:19:09Z",
+        "version": 1,
+        "changeset": 87784712,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hospital Particular de Cidade Ocidental GO",
+        "id": "node/7700577730"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.9334921,
+          -16.1104665
+        ]
+      }
+    }
+  ]
+}

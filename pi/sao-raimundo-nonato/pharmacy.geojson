@@ -1,0 +1,93 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1126170972",
+      "properties": {
+        "timestamp": "2023-01-01T12:03:17Z",
+        "version": 1,
+        "changeset": 130745371,
+        "amenity": "pharmacy",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Drogaria & Papelaria São Pedro",
+        "id": "way/1126170972"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.7083238,
+              -9.2826608
+            ],
+            [
+              -42.7083454,
+              -9.2827331
+            ],
+            [
+              -42.7082083,
+              -9.282773
+            ],
+            [
+              -42.7081867,
+              -9.2827007
+            ],
+            [
+              -42.7083238,
+              -9.2826608
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6879416917",
+      "properties": {
+        "timestamp": "2023-03-20T11:46:49Z",
+        "version": 2,
+        "changeset": 133895319,
+        "addr:city": "São Raimundo Nonato",
+        "addr:housenumber": "2014",
+        "addr:postcode": "64770-000",
+        "addr:street": "Rua Doutor Humberto Paixão",
+        "addr:suburb": "Galo Branco",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmácia Freitas",
+        "operator": "Ebenezer Empreendimento Farmacêutico Limitada",
+        "id": "node/6879416917"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.6880864,
+          -9.0261391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10745400273",
+      "properties": {
+        "timestamp": "2023-03-19T15:21:17Z",
+        "version": 1,
+        "changeset": 133862365,
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Davina Farma",
+        "id": "node/10745400273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.6915184,
+          -9.0157711
+        ]
+      }
+    }
+  ]
+}

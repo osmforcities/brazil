@@ -1,0 +1,143 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/828332757",
+      "properties": {
+        "timestamp": "2020-07-21T04:47:22Z",
+        "version": 1,
+        "changeset": 88274577,
+        "amenity": "pharmacy",
+        "building": "yes",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "id": "way/828332757"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.4470317,
+              -22.8727122
+            ],
+            [
+              -48.4472665,
+              -22.8728668
+            ],
+            [
+              -48.4471799,
+              -22.8729827
+            ],
+            [
+              -48.4469423,
+              -22.8728436
+            ],
+            [
+              -48.4470317,
+              -22.8727122
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1307885752",
+      "properties": {
+        "timestamp": "2024-08-15T03:30:46Z",
+        "version": 1,
+        "changeset": 155265038,
+        "addr:street": "Rua Coronel Joaquim Lendro de Oliviera",
+        "amenity": "pharmacy",
+        "area": "yes",
+        "description": "Farmácia",
+        "healthcare": "pharmacy",
+        "name": "Drogal",
+        "id": "way/1307885752"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.4351836,
+              -22.8777832
+            ],
+            [
+              -48.4350495,
+              -22.8778017
+            ],
+            [
+              -48.4350012,
+              -22.8776374
+            ],
+            [
+              -48.4351755,
+              -22.8776213
+            ],
+            [
+              -48.4351836,
+              -22.8777832
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2116143731",
+      "properties": {
+        "timestamp": "2021-01-03T21:13:12Z",
+        "version": 3,
+        "changeset": 96864747,
+        "addr:housenumber": "664",
+        "addr:postcode": "18602-092",
+        "addr:street": "Avenida Dom Lúcio",
+        "amenity": "pharmacy",
+        "brand": "Drogasil",
+        "brand:wikidata": "Q5308185",
+        "brand:wikipedia": "pt:Drogasil",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Drogasil",
+        "website": "https://www.drogasil.com.br/",
+        "wheelchair": "yes",
+        "id": "node/2116143731"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.4452119,
+          -22.8926009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5224545510",
+      "properties": {
+        "timestamp": "2021-01-03T21:13:12Z",
+        "version": 2,
+        "changeset": 96864747,
+        "amenity": "pharmacy",
+        "brand": "Drogaria São Paulo",
+        "brand:wikidata": "Q5308184",
+        "brand:wikipedia": "en:Grupo DPSP",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Drogaria São Paulo",
+        "id": "node/5224545510"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.4447265,
+          -22.8869873
+        ]
+      }
+    }
+  ]
+}

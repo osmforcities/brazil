@@ -1,0 +1,112 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/711025473",
+      "properties": {
+        "timestamp": "2024-06-26T15:25:05Z",
+        "version": 3,
+        "changeset": 153208476,
+        "amenity": "dentist",
+        "building": "yes",
+        "healthcare": "dentist",
+        "id": "way/711025473"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -45.3664988,
+              -23.8156347
+            ],
+            [
+              -45.3666811,
+              -23.8154984
+            ],
+            [
+              -45.3667443,
+              -23.8155691
+            ],
+            [
+              -45.36657,
+              -23.8156994
+            ],
+            [
+              -45.366562,
+              -23.8157054
+            ],
+            [
+              -45.3665145,
+              -23.8156522
+            ],
+            [
+              -45.3664988,
+              -23.8156347
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7080292221",
+      "properties": {
+        "timestamp": "2019-12-23T17:15:04Z",
+        "version": 1,
+        "changeset": 78783338,
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "id": "node/7080292221"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.3687961,
+          -23.815645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12012670277",
+      "properties": {
+        "timestamp": "2024-06-26T15:25:00Z",
+        "version": 1,
+        "changeset": 153208476,
+        "addr:housenumber": "1390",
+        "addr:street": "Avenida Princesa Isabel",
+        "entrance": "yes",
+        "id": "node/12012670277"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.36657,
+          -23.8156994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12012681047",
+      "properties": {
+        "timestamp": "2024-06-26T15:25:05Z",
+        "version": 1,
+        "changeset": 153208476,
+        "addr:housenumber": "1388",
+        "addr:street": "Avenida Princesa Isabel",
+        "entrance": "yes",
+        "id": "node/12012681047"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.3665145,
+          -23.8156522
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/600912599",
+      "properties": {
+        "timestamp": "2018-12-13T15:48:26Z",
+        "version": 4,
+        "changeset": 65446197,
+        "addr:city": "Guaporé",
+        "addr:housenumber": "66",
+        "addr:street": "Avenida Silvio Sanson",
+        "addr:suburb": "São Cristóvão",
+        "amenity": "college",
+        "name": "Escola Estadual Técnica Agrícola Guaporé (EETAG)",
+        "phone": "+55 54 3443-1604",
+        "source": "IBGE",
+        "website": "https://www.facebook.com/escolaestadualtecnicaagricolaguapore/",
+        "id": "way/600912599"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.8802583,
+              -28.844034
+            ],
+            [
+              -51.880069,
+              -28.8473188
+            ],
+            [
+              -51.8769249,
+              -28.8471798
+            ],
+            [
+              -51.8771142,
+              -28.843895
+            ],
+            [
+              -51.8802583,
+              -28.844034
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6099518594",
+      "properties": {
+        "timestamp": "2018-11-28T13:17:59Z",
+        "version": 1,
+        "changeset": 64971579,
+        "amenity": "college",
+        "name": "SENAI",
+        "id": "node/6099518594"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.8838107,
+          -28.8537218
+        ]
+      }
+    }
+  ]
+}

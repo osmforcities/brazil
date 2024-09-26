@@ -1,0 +1,87 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/428304744",
+      "properties": {
+        "timestamp": "2016-06-30T20:09:22Z",
+        "version": 1,
+        "changeset": 40401826,
+        "addr:city": "Perdizes",
+        "addr:housenumber": "10",
+        "addr:postcode": "38170000",
+        "addr:street": "Pc Getúlio Borges Prado",
+        "addr:suburb": "Divineia",
+        "amenity": "hospital",
+        "name": "Santa Casa de Misericórdia de Perdizes",
+        "id": "way/428304744"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.2930308,
+              -19.3479611
+            ],
+            [
+              -47.2931703,
+              -19.3473132
+            ],
+            [
+              -47.2940125,
+              -19.3475005
+            ],
+            [
+              -47.2938837,
+              -19.3481332
+            ],
+            [
+              -47.2934224,
+              -19.3480421
+            ],
+            [
+              -47.293476,
+              -19.3480472
+            ],
+            [
+              -47.2933527,
+              -19.3480168
+            ],
+            [
+              -47.2930308,
+              -19.3479611
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4274291513",
+      "properties": {
+        "timestamp": "2016-12-02T12:59:22Z",
+        "version": 3,
+        "changeset": 44113628,
+        "addr:city": "Perdizes",
+        "addr:housenumber": "10",
+        "addr:postcode": "38170000",
+        "addr:street": "Praça Getúlio Borges Prado",
+        "addr:suburb": "Divineia",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "Santa Casa de Misericórdia de Perdizes",
+        "operator": "Criar Net",
+        "id": "node/4274291513"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.2935006,
+          -19.3477118
+        ]
+      }
+    }
+  ]
+}

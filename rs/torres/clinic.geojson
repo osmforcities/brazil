@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/561603277",
+      "properties": {
+        "timestamp": "2023-09-18T17:15:34Z",
+        "version": 3,
+        "changeset": 141434661,
+        "addr:housenumber": "201",
+        "addr:street": "Rua Manoel Fortunato de Alencar",
+        "amenity": "clinic",
+        "building": "yes",
+        "name": "Orthofísio Torres",
+        "source": "SIG SC OrtoRGB",
+        "id": "way/561603277"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.7295257,
+              -29.334905
+            ],
+            [
+              -49.7294559,
+              -29.3349318
+            ],
+            [
+              -49.7294314,
+              -29.3348833
+            ],
+            [
+              -49.7294512,
+              -29.3348756
+            ],
+            [
+              -49.7294364,
+              -29.3348462
+            ],
+            [
+              -49.7294165,
+              -29.3348538
+            ],
+            [
+              -49.729391,
+              -29.3348033
+            ],
+            [
+              -49.7294099,
+              -29.334796
+            ],
+            [
+              -49.7294148,
+              -29.3348058
+            ],
+            [
+              -49.7294375,
+              -29.334797
+            ],
+            [
+              -49.7294326,
+              -29.3347873
+            ],
+            [
+              -49.7294608,
+              -29.3347765
+            ],
+            [
+              -49.7295257,
+              -29.334905
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3307010894",
+      "properties": {
+        "timestamp": "2023-06-21T21:37:08Z",
+        "version": 4,
+        "changeset": 137623018,
+        "addr:city": "Torres",
+        "addr:housenumber": "80",
+        "addr:postcode": "95560-000",
+        "addr:street": "Rua Diamantino Joaquim Pereira",
+        "addr:suburb": "São João",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posto de Saúde Padre Luiz Benini",
+        "operator": "Prefeitura Municipal de Torres",
+        "operator:ref:vatin": "BR87876801000101",
+        "operator:type": "public",
+        "phone": "+55 51 3605-2707",
+        "ref:CNES": "2224445",
+        "id": "node/3307010894"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.7766881,
+          -29.3099164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3335348454",
+      "properties": {
+        "timestamp": "2023-06-21T21:37:08Z",
+        "version": 5,
+        "changeset": 137623018,
+        "access": "yes",
+        "addr:city": "Torres",
+        "addr:housenumber": "631",
+        "addr:postcode": "95560-000",
+        "addr:street": "Rua Alexandrino de Alencar",
+        "addr:suburb": "Centro",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posto de Saúde Américo Muniz dos Reis",
+        "operator:ref:vatin": "BR87876801000101",
+        "phone": "+55 51 3664-1411;+55 51 3664-3691",
+        "ref:CNES": "7713118",
+        "id": "node/3335348454"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.7281292,
+          -29.333521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5427865921",
+      "properties": {
+        "timestamp": "2023-09-07T17:30:09Z",
+        "version": 4,
+        "changeset": 140951013,
+        "amenity": "clinic",
+        "name": "Duevittá",
+        "id": "node/5427865921"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.7284329,
+          -29.3340537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9198467539",
+      "properties": {
+        "timestamp": "2021-10-24T23:34:52Z",
+        "version": 1,
+        "changeset": 112923980,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "ESF São Francisco",
+        "id": "node/9198467539"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.7384242,
+          -29.3508795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9198467541",
+      "properties": {
+        "timestamp": "2021-10-24T23:34:52Z",
+        "version": 1,
+        "changeset": 112923980,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "id": "node/9198467541"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.7425457,
+          -29.3487706
+        ]
+      }
+    }
+  ]
+}

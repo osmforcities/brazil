@@ -1,0 +1,70 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1298890479",
+      "properties": {
+        "timestamp": "2024-07-03T22:17:08Z",
+        "version": 1,
+        "changeset": 153521525,
+        "addr:city": "Volta Redonda",
+        "addr:street": "Rodovia VRD 100 - Via Sérgio Braga",
+        "addr:suburb": "Ponte Alta",
+        "building": "yes",
+        "name": "Paulista Bike Shop",
+        "shop": "bicycle",
+        "id": "way/1298890479"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.1323146,
+              -22.5260327
+            ],
+            [
+              -44.1324067,
+              -22.525933
+            ],
+            [
+              -44.1324881,
+              -22.5259902
+            ],
+            [
+              -44.1323801,
+              -22.526103
+            ],
+            [
+              -44.1323146,
+              -22.5260327
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11820155420",
+      "properties": {
+        "timestamp": "2024-04-15T21:15:35Z",
+        "version": 1,
+        "changeset": 150058594,
+        "addr:city": "Volta Redonda",
+        "addr:street": "Rua Mariana Godoy Barreira Cravo",
+        "addr:suburb": "Voldac",
+        "name": "The Biker Shop",
+        "shop": "bicycle",
+        "id": "node/11820155420"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.092271,
+          -22.493278
+        ]
+      }
+    }
+  ]
+}

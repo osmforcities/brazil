@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/338632555",
+      "properties": {
+        "timestamp": "2015-04-15T13:02:16Z",
+        "version": 1,
+        "changeset": 30236873,
+        "amenity": "hospital",
+        "name": "Hospital Universitário",
+        "id": "way/338632555"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.6537519,
+              -22.3972717
+            ],
+            [
+              -43.6541447,
+              -22.3975909
+            ],
+            [
+              -43.6542872,
+              -22.3978633
+            ],
+            [
+              -43.6540275,
+              -22.3982089
+            ],
+            [
+              -43.6532767,
+              -22.3978311
+            ],
+            [
+              -43.6537519,
+              -22.3972717
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4998286563",
+      "properties": {
+        "timestamp": "2017-07-27T19:15:57Z",
+        "version": 1,
+        "changeset": 50629178,
+        "amenity": "hospital",
+        "name": "Hospital Eufrasia Teixeira Leite",
+        "id": "node/4998286563"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.6580319,
+          -22.3980619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5818162685",
+      "properties": {
+        "timestamp": "2018-08-08T14:10:02Z",
+        "version": 1,
+        "changeset": 61470311,
+        "addr:city": "Vassouras",
+        "addr:housenumber": "54",
+        "addr:postcode": "277000000",
+        "addr:street": "Rua Pio XII",
+        "addr:suburb": "Residencia",
+        "amenity": "hospital",
+        "emergency": "no",
+        "healthcare": "hospital",
+        "healthcare:speciality": "community",
+        "name": "Posto de Saúde da Residencia",
+        "operator": "Prefeitura Municipal de Vassouras",
+        "id": "node/5818162685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.6718152,
+          -22.4172407
+        ]
+      }
+    }
+  ]
+}

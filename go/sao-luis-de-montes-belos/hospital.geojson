@@ -1,0 +1,131 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/922058952",
+      "properties": {
+        "timestamp": "2021-03-25T11:51:06Z",
+        "version": 1,
+        "changeset": 101716241,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "id": "way/922058952"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -50.3748463,
+              -16.5131974
+            ],
+            [
+              -50.3745656,
+              -16.5136255
+            ],
+            [
+              -50.3743197,
+              -16.5134773
+            ],
+            [
+              -50.3743117,
+              -16.5134207
+            ],
+            [
+              -50.3742066,
+              -16.5133565
+            ],
+            [
+              -50.3744335,
+              -16.5130152
+            ],
+            [
+              -50.3745289,
+              -16.5130735
+            ],
+            [
+              -50.3746067,
+              -16.513053
+            ],
+            [
+              -50.3748463,
+              -16.5131974
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1238606355",
+      "properties": {
+        "timestamp": "2024-01-10T13:46:28Z",
+        "version": 1,
+        "changeset": 146104943,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "Policlínica",
+        "id": "way/1238606355"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -50.3695817,
+              -16.5373686
+            ],
+            [
+              -50.3707069,
+              -16.5374159
+            ],
+            [
+              -50.3706211,
+              -16.5388941
+            ],
+            [
+              -50.3694828,
+              -16.5387921
+            ],
+            [
+              -50.3695817,
+              -16.5373686
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8560236893",
+      "properties": {
+        "timestamp": "2023-05-13T23:29:11Z",
+        "version": 3,
+        "changeset": 136069174,
+        "addr:city": "São Luis de Montes Belos",
+        "addr:postcode": "76100-000",
+        "addr:street": "Rua 03",
+        "addr:suburb": "Vila Popular",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "Hospital Regional de São Luís de Montes Belos - Dr. Geraldo Landó",
+        "operator:ref:vatin": "BR02529964000157",
+        "phone": "+55 64 99333-5798",
+        "ref:CNES": "2382474",
+        "website": "https://hospital-drgeraldolando.org.br/",
+        "id": "node/8560236893"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.3746496,
+          -16.5133641
+        ]
+      }
+    }
+  ]
+}

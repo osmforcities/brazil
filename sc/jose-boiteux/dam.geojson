@@ -1,0 +1,120 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "relation/16660092",
+      "properties": {
+        "timestamp": "2024-04-29T14:19:40Z",
+        "version": 2,
+        "changeset": 150666063,
+        "building:start_date": "1976",
+        "description": "A Barragem Norte, localizada no município de José Boiteux, entrou em operação em 1993 e controla a vazão excedente do Rio Hercílio ou Itajaí do Norte. Possui um reservatório que comporta o acúmulo de 357 milhões de m³ de água.",
+        "name": "Barragem Norte José Boiteux",
+        "opening_date": "1993",
+        "type": "multipolygon",
+        "waterway": "dam",
+        "id": "relation/16660092"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.6818651,
+              -26.8905961
+            ],
+            [
+              -49.6827979,
+              -26.8933073
+            ],
+            [
+              -49.6856528,
+              -26.8925125
+            ],
+            [
+              -49.6858417,
+              -26.8928796
+            ],
+            [
+              -49.6857353,
+              -26.8929168
+            ],
+            [
+              -49.6856377,
+              -26.8927786
+            ],
+            [
+              -49.6828961,
+              -26.8935498
+            ],
+            [
+              -49.6825411,
+              -26.8939102
+            ],
+            [
+              -49.6823749,
+              -26.8939944
+            ],
+            [
+              -49.6821635,
+              -26.8934858
+            ],
+            [
+              -49.6814233,
+              -26.8930817
+            ],
+            [
+              -49.6806756,
+              -26.8910238
+            ],
+            [
+              -49.6809928,
+              -26.890714
+            ],
+            [
+              -49.6812571,
+              -26.8905691
+            ],
+            [
+              -49.681563,
+              -26.8904681
+            ],
+            [
+              -49.6818651,
+              -26.8905961
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1221529798",
+      "properties": {
+        "timestamp": "2023-11-06T12:46:49Z",
+        "version": 1,
+        "changeset": 143692144,
+        "note": "Geometria obtida com Sentinel 10/2023, quando a barragem atingiu sua capacidade máxima",
+        "id": "way/1221529798"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -49.6818651,
+            -26.8905961
+          ],
+          [
+            -49.6827979,
+            -26.8933073
+          ],
+          [
+            -49.6856528,
+            -26.8925125
+          ]
+        ]
+      }
+    }
+  ]
+}

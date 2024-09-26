@@ -1,0 +1,70 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/364240141",
+      "properties": {
+        "timestamp": "2023-05-07T04:17:35Z",
+        "version": 2,
+        "changeset": 135796883,
+        "addr:postcode": "68780-000",
+        "addr:street": "Avenida Barão de Guajará",
+        "addr:suburb": "Castanheira",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hospital Municipal de Vigia",
+        "operator:ref:vatin": "BR05351606000195",
+        "phone": "+55 91 3731 1248",
+        "ref:CNES": "2314002",
+        "id": "way/364240141"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.1422424,
+              -0.8627011
+            ],
+            [
+              -48.141832,
+              -0.8628645
+            ],
+            [
+              -48.1416333,
+              -0.8623657
+            ],
+            [
+              -48.1420437,
+              -0.8622022
+            ],
+            [
+              -48.1422424,
+              -0.8627011
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8832516717",
+      "properties": {
+        "timestamp": "2021-06-14T14:34:43Z",
+        "version": 1,
+        "changeset": 106343160,
+        "amenity": "hospital",
+        "name": "Posto de diagnóstico malária",
+        "id": "node/8832516717"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.138773,
+          -0.8601564
+        ]
+      }
+    }
+  ]
+}

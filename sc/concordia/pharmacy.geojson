@@ -1,0 +1,81 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/342071691",
+      "properties": {
+        "timestamp": "2018-04-21T02:36:00Z",
+        "version": 5,
+        "changeset": 58280841,
+        "amenity": "pharmacy",
+        "building": "yes",
+        "building:levels": "4",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmácia Municipal",
+        "id": "way/342071691"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -52.0297863,
+              -27.2325247
+            ],
+            [
+              -52.0298439,
+              -27.2328066
+            ],
+            [
+              -52.0296446,
+              -27.2328178
+            ],
+            [
+              -52.0295983,
+              -27.2325119
+            ],
+            [
+              -52.0296098,
+              -27.2324422
+            ],
+            [
+              -52.0298001,
+              -27.232482
+            ],
+            [
+              -52.0297863,
+              -27.2325247
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2626319631",
+      "properties": {
+        "timestamp": "2021-01-03T23:34:17Z",
+        "version": 3,
+        "changeset": 96868087,
+        "addr:city": "Concórdia",
+        "addr:housename": "Farmácia Concórdia",
+        "addr:housenumber": "80",
+        "addr:postcode": "89700-000",
+        "addr:street": "Rua Doutor Maruri",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Concórdia",
+        "id": "node/2626319631"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.0309011,
+          -27.2316493
+        ]
+      }
+    }
+  ]
+}

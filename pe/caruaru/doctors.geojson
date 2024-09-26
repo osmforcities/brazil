@@ -1,0 +1,188 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/556405635",
+      "properties": {
+        "timestamp": "2018-01-28T06:04:49Z",
+        "version": 1,
+        "changeset": 55821353,
+        "amenity": "doctors",
+        "building": "yes",
+        "healthcare": "doctor",
+        "name": "Clínica São Gabriel",
+        "id": "way/556405635"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -35.9727746,
+              -8.272974
+            ],
+            [
+              -35.9727092,
+              -8.2731258
+            ],
+            [
+              -35.9724242,
+              -8.2730079
+            ],
+            [
+              -35.9724083,
+              -8.2729782
+            ],
+            [
+              -35.9724074,
+              -8.2729484
+            ],
+            [
+              -35.9724543,
+              -8.2728402
+            ],
+            [
+              -35.9727746,
+              -8.272974
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1004168599",
+      "properties": {
+        "timestamp": "2023-08-19T13:03:55Z",
+        "version": 5,
+        "changeset": 140093882,
+        "addr:city": "Caruaru",
+        "addr:housenumber": "800",
+        "addr:postcode": "55024-740",
+        "addr:street": "Avenida Adjar da Silva Casé",
+        "addr:suburb": "Indianópolis",
+        "air_conditioning": "yes",
+        "amenity": "doctors",
+        "healthcare": "doctor",
+        "level": "0",
+        "name": "Unimagem",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:nfc": "yes",
+        "room": "shop",
+        "shop": "yes",
+        "smoking": "no",
+        "wheelchair": "yes",
+        "id": "way/1004168599"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -35.9520429,
+              -8.2947249
+            ],
+            [
+              -35.9519286,
+              -8.2947183
+            ],
+            [
+              -35.951938,
+              -8.2945762
+            ],
+            [
+              -35.9518676,
+              -8.2945716
+            ],
+            [
+              -35.9518771,
+              -8.2944274
+            ],
+            [
+              -35.9520933,
+              -8.2944403
+            ],
+            [
+              -35.9521199,
+              -8.2944577
+            ],
+            [
+              -35.9521903,
+              -8.2945039
+            ],
+            [
+              -35.9521641,
+              -8.2945434
+            ],
+            [
+              -35.9520826,
+              -8.2946646
+            ],
+            [
+              -35.9520429,
+              -8.2947249
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8987670225",
+      "properties": {
+        "timestamp": "2021-08-07T10:57:47Z",
+        "version": 2,
+        "changeset": 109305230,
+        "addr:city": "Caruaru",
+        "addr:housenumber": "189",
+        "addr:street": "Rua Coronel Limeira",
+        "addr:suburb": "Centro",
+        "amenity": "doctors",
+        "fixme": "Confirmar posição",
+        "healthcare": "doctor",
+        "name": "Centro de Testagem e Aconselhamento",
+        "operator": "Secretaria de Saúde de Caruaru",
+        "operator:type": "public",
+        "short_name": "CTA/COAS",
+        "id": "node/8987670225"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.9675539,
+          -8.2843634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8987686291",
+      "properties": {
+        "timestamp": "2021-08-07T11:09:45Z",
+        "version": 1,
+        "changeset": 109305662,
+        "addr:city": "Caruaru",
+        "addr:housenumber": "111",
+        "addr:street": "Rua Victor Meireles",
+        "addr:suburb": "Maurício de Nassau",
+        "amenity": "doctors",
+        "fixme": "Confirmar posição",
+        "healthcare": "doctor",
+        "name": "Unidade Municipal de Fisioterapia",
+        "operator": "Secretaria de Saúde de Caruaru",
+        "operator:type": "public",
+        "id": "node/8987686291"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.9812472,
+          -8.289695
+        ]
+      }
+    }
+  ]
+}

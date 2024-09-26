@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1167171917",
+      "properties": {
+        "timestamp": "2023-04-28T18:14:20Z",
+        "version": 1,
+        "changeset": 135479905,
+        "addr:city": "Dionísio Cerqueira",
+        "addr:housenumber": "10",
+        "addr:postcode": "89950-000",
+        "addr:street": "Rua Paraná",
+        "building": "hotel",
+        "building:levels": "9",
+        "dog": "yes",
+        "email": "reservas@hotelfranco.com",
+        "name": "Hotel Franco",
+        "operator": "L.B.P Hotelaria Ltda",
+        "operator:type": "private",
+        "ownership": "private",
+        "phone": "+55-49-3644-2682",
+        "tourism": "hotel",
+        "website": "https://hotelfranco.com.br/",
+        "wheelchair": "yes",
+        "id": "way/1167171917"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -53.6335324,
+              -26.2549404
+            ],
+            [
+              -53.6335166,
+              -26.255258
+            ],
+            [
+              -53.6333752,
+              -26.2552523
+            ],
+            [
+              -53.633391,
+              -26.2549348
+            ],
+            [
+              -53.6335324,
+              -26.2549404
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4636377687",
+      "properties": {
+        "timestamp": "2019-10-27T15:02:16Z",
+        "version": 3,
+        "changeset": 76268277,
+        "addr:city": "Dionísio Cerqueira",
+        "addr:country": "BR",
+        "addr:state": "Santa Catarina",
+        "name": "Hotel Iguaçu",
+        "tourism": "hotel",
+        "id": "node/4636377687"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.6401769,
+          -26.2549597
+        ]
+      }
+    }
+  ]
+}

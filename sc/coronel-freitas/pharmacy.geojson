@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/812636342",
+      "properties": {
+        "timestamp": "2021-10-18T18:25:20Z",
+        "version": 2,
+        "changeset": 112664939,
+        "amenity": "pharmacy",
+        "building": "yes",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Drogarias Farmagnus",
+        "id": "way/812636342"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -52.703043,
+              -26.9067706
+            ],
+            [
+              -52.703038,
+              -26.906727
+            ],
+            [
+              -52.7032749,
+              -26.9067056
+            ],
+            [
+              -52.7032798,
+              -26.9067493
+            ],
+            [
+              -52.703043,
+              -26.9067706
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6231259785",
+      "properties": {
+        "timestamp": "2021-10-18T18:25:20Z",
+        "version": 3,
+        "changeset": 112664939,
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Biocenter farmácia",
+        "id": "node/6231259785"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.7028707,
+          -26.9080145
+        ]
+      }
+    }
+  ]
+}

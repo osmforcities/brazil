@@ -1,0 +1,76 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/936644975",
+      "properties": {
+        "timestamp": "2021-04-29T09:11:18Z",
+        "version": 1,
+        "changeset": 103830275,
+        "addr:city": "Bom Despacho-MG",
+        "addr:postcode": "35600-000",
+        "addr:street": "Rua Enfermeira Joana D'arc",
+        "amenity": "dentist",
+        "building": "yes",
+        "healthcare": "dentist",
+        "healthcare:speciality": "dentistry",
+        "name": "Centro Odontológico Saúde Bucal",
+        "operator": "Secretaria Municipal de Saúde de Bom Despacho",
+        "id": "way/936644975"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -45.2506939,
+              -19.7321589
+            ],
+            [
+              -45.2504152,
+              -19.7321823
+            ],
+            [
+              -45.2504054,
+              -19.7320794
+            ],
+            [
+              -45.2506841,
+              -19.7320559
+            ],
+            [
+              -45.2506939,
+              -19.7321589
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2950769450",
+      "properties": {
+        "timestamp": "2024-06-19T04:27:26Z",
+        "version": 5,
+        "changeset": 152873578,
+        "addr:city": "Bom Despacho-MG",
+        "addr:postcode": "35600-000",
+        "addr:street": "Rua Enfermeira Joana D'arc",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "Centro Odontológico Saúde Bucal",
+        "opening_hours": "08:00-17:00",
+        "operator": "Secretaria Municipal de Saúde de Bom Despacho",
+        "id": "node/2950769450"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.2505348,
+          -19.7321209
+        ]
+      }
+    }
+  ]
+}

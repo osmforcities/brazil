@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1136868564",
+      "properties": {
+        "timestamp": "2023-02-07T00:36:08Z",
+        "version": 2,
+        "changeset": 132182772,
+        "amenity": "pharmacy",
+        "building": "commercial",
+        "building:levels": "1",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "roof:shape": "flat",
+        "id": "way/1136868564"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -55.4820984,
+              -29.5914377
+            ],
+            [
+              -55.482121,
+              -29.5915218
+            ],
+            [
+              -55.4820432,
+              -29.5915373
+            ],
+            [
+              -55.482022,
+              -29.5914531
+            ],
+            [
+              -55.4820984,
+              -29.5914377
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10604980309",
+      "properties": {
+        "timestamp": "2023-02-03T21:21:27Z",
+        "version": 1,
+        "changeset": 132058135,
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "layer": "1",
+        "name": "Farmácia Municipal",
+        "operator": "Prefeitura Municipal de Manoel Viana",
+        "wheelchair": "yes",
+        "id": "node/10604980309"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.4809026,
+          -29.5935823
+        ]
+      }
+    }
+  ]
+}

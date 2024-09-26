@@ -1,0 +1,116 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "relation/14345218",
+      "properties": {
+        "timestamp": "2022-07-11T18:48:59Z",
+        "version": 1,
+        "changeset": 123487813,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hospital Municipal de Almeirim",
+        "operator": "Sistema Único de Saúde",
+        "operator:short": "SUS",
+        "operator:wikidata": "Q7531056",
+        "type": "multipolygon",
+        "id": "relation/14345218"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -52.5817034,
+              -1.5294316
+            ],
+            [
+              -52.5809309,
+              -1.5291206
+            ],
+            [
+              -52.580947,
+              -1.5282787
+            ],
+            [
+              -52.5824249,
+              -1.5287211
+            ],
+            [
+              -52.582339,
+              -1.5295764
+            ],
+            [
+              -52.5817034,
+              -1.5294316
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/247285058",
+      "properties": {
+        "timestamp": "2013-11-20T19:11:13Z",
+        "version": 1,
+        "changeset": 19020948,
+        "amenity": "hospital",
+        "building": "yes",
+        "emergency": "yes",
+        "source": "Conhecimento local",
+        "id": "way/247285058"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -52.4272308,
+              -0.9088708
+            ],
+            [
+              -52.4272287,
+              -0.9100121
+            ],
+            [
+              -52.4267975,
+              -0.9100112
+            ],
+            [
+              -52.4267997,
+              -0.90887
+            ],
+            [
+              -52.4272308,
+              -0.9088708
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9508219805",
+      "properties": {
+        "timestamp": "2022-02-15T16:49:10Z",
+        "version": 1,
+        "changeset": 117444078,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "POSTO DE SAÚDE - ALDEIA BONA",
+        "operator": "SESAI",
+        "id": "node/9508219805"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.6581131,
+          1.2175403
+        ]
+      }
+    }
+  ]
+}

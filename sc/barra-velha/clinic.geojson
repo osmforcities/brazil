@@ -1,0 +1,112 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1283449221",
+      "properties": {
+        "timestamp": "2024-05-16T00:46:12Z",
+        "version": 1,
+        "changeset": 151385556,
+        "addr:city": "Barra Velha",
+        "addr:housenumber": "49",
+        "addr:postcode": "88390-000",
+        "addr:street": "Rua Miranda Coutinho",
+        "addr:suburb": "Centro",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "Pronto Atendimento 24h Dona Catarina Müller Zimmermann",
+        "operator": "Prefeitura Municipal de Barra Velha",
+        "operator:type": "public",
+        "id": "way/1283449221"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.6872771,
+              -26.6447426
+            ],
+            [
+              -48.6872826,
+              -26.6449219
+            ],
+            [
+              -48.6870223,
+              -26.6449283
+            ],
+            [
+              -48.6870181,
+              -26.644791
+            ],
+            [
+              -48.6871261,
+              -26.6447884
+            ],
+            [
+              -48.6871248,
+              -26.6447463
+            ],
+            [
+              -48.6872771,
+              -26.6447426
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8286891127",
+      "properties": {
+        "timestamp": "2023-03-22T23:05:22Z",
+        "version": 3,
+        "changeset": 133999433,
+        "addr:city": "Barra Velha",
+        "addr:housenumber": "474",
+        "addr:postcode": "88390-000",
+        "addr:street": "Rua 1149",
+        "addr:suburb": "Itajuba",
+        "air_conditioning": "yes",
+        "amenity": "clinic",
+        "emergency": "no",
+        "healthcare": "clinic",
+        "healthcare:speciality": "physiotherapy",
+        "name": "Cely Wandscher Fisioterapia e Estética",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+55 47 98469-5472",
+        "wheelchair": "yes",
+        "id": "node/8286891127"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.6928998,
+          -26.7138179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8626422729",
+      "properties": {
+        "timestamp": "2021-04-13T16:11:24Z",
+        "version": 1,
+        "changeset": 102875428,
+        "amenity": "clinic",
+        "id": "node/8626422729"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.6865137,
+          -26.6973707
+        ]
+      }
+    }
+  ]
+}

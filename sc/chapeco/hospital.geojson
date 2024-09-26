@@ -1,0 +1,342 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "relation/10725214",
+      "properties": {
+        "timestamp": "2023-04-04T12:17:15Z",
+        "version": 5,
+        "changeset": 134493439,
+        "access": "private",
+        "addr:city": "Chapecó",
+        "addr:housenumber": "132",
+        "addr:postcode": "89802-130",
+        "addr:street": "Avenida Porto Alegre - D",
+        "addr:suburb": "Centro",
+        "alt_name": "Unimed Chapecó",
+        "amenity": "hospital",
+        "brand": "Unimed",
+        "email": "secretaria@unimedchapeco.com.br",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "loc_name": "UniClínicas",
+        "name": "Hospital Unimed",
+        "network": "Unimed",
+        "old_name": "Hospital Santo Antônio",
+        "operator": "Unimed Chapecó - Cooperativa de Trabalho Médico da Região Oeste Catarinense",
+        "operator:type": "cooperative",
+        "ownership": "private",
+        "phone": "+55-49-3361-1800",
+        "type": "multipolygon",
+        "website": "https://www.unimedchapeco.com.br/",
+        "id": "relation/10725214"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -52.6173952,
+              -27.1039468
+            ],
+            [
+              -52.6174723,
+              -27.1036681
+            ],
+            [
+              -52.6180556,
+              -27.1038077
+            ],
+            [
+              -52.6180114,
+              -27.1039593
+            ],
+            [
+              -52.6179229,
+              -27.1040131
+            ],
+            [
+              -52.6179129,
+              -27.1040522
+            ],
+            [
+              -52.6178737,
+              -27.1042046
+            ],
+            [
+              -52.6179163,
+              -27.1042133
+            ],
+            [
+              -52.6178793,
+              -27.1043572
+            ],
+            [
+              -52.6178363,
+              -27.1043485
+            ],
+            [
+              -52.6178254,
+              -27.1043908
+            ],
+            [
+              -52.6177967,
+              -27.104385
+            ],
+            [
+              -52.6177631,
+              -27.1045155
+            ],
+            [
+              -52.6175947,
+              -27.1044811
+            ],
+            [
+              -52.6175535,
+              -27.1046415
+            ],
+            [
+              -52.6176836,
+              -27.104668
+            ],
+            [
+              -52.6176971,
+              -27.1046154
+            ],
+            [
+              -52.617729,
+              -27.1046219
+            ],
+            [
+              -52.6177155,
+              -27.1046744
+            ],
+            [
+              -52.6177991,
+              -27.1046914
+            ],
+            [
+              -52.6177636,
+              -27.1048292
+            ],
+            [
+              -52.6177311,
+              -27.1048226
+            ],
+            [
+              -52.6176663,
+              -27.1050465
+            ],
+            [
+              -52.6175788,
+              -27.1053363
+            ],
+            [
+              -52.6173776,
+              -27.1052927
+            ],
+            [
+              -52.6172071,
+              -27.1052606
+            ],
+            [
+              -52.6173638,
+              -27.1047443
+            ],
+            [
+              -52.6172868,
+              -27.1047287
+            ],
+            [
+              -52.6173003,
+              -27.104676
+            ],
+            [
+              -52.617214,
+              -27.1046584
+            ],
+            [
+              -52.6172708,
+              -27.1044372
+            ],
+            [
+              -52.6173235,
+              -27.1044479
+            ],
+            [
+              -52.6173323,
+              -27.1044135
+            ],
+            [
+              -52.6172837,
+              -27.1044036
+            ],
+            [
+              -52.6173401,
+              -27.1041839
+            ],
+            [
+              -52.617381,
+              -27.1041922
+            ],
+            [
+              -52.6173889,
+              -27.1041615
+            ],
+            [
+              -52.6173425,
+              -27.1041521
+            ],
+            [
+              -52.6173952,
+              -27.1039468
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/168441278",
+      "properties": {
+        "timestamp": "2023-04-24T21:05:02Z",
+        "version": 13,
+        "changeset": 135318999,
+        "addr:city": "Chapecó",
+        "addr:housenumber": "1448",
+        "addr:postcode": "89812-121",
+        "addr:street": "Rua Florianópolis - E",
+        "addr:suburb": "Santa Maria",
+        "alt_name": "Hospital Regional de Chapecó",
+        "amenity": "hospital",
+        "description": "Hospital público estadual de gestão filantrópica com atendimento pelo SUS, por planos de saúde suplementar ou particular. Cenário de residências médicas, multiprofissionais e uniprofissionais das universidades UFFS, Unochapecó e Udesc.",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general;emergency;surgery;orthopaedics;trauma;intensive;transplant;oncology;paediatrics;paediatric_surgery;gynaecology;anaesthetics;cardiology;vascular_surgery;cardiothoracic_surgery;podiatry;plastic_surgery;pathology;proctology;pulmonology;internal;gastr",
+        "name": "Hospital Regional do Oeste",
+        "name:en": "Western Regional Hospital",
+        "network": "Sistema Único de Saúde",
+        "network:short": "SUS",
+        "network:website": "https://conectesus.saude.gov.br/",
+        "network:wikidata": "Q7531056",
+        "official_name": "Hospital Regional do Oeste Lenoir Vargas Ferreira",
+        "opening_hours": "24/7",
+        "operator": "Associação Hospitalar Lenoir Vargas Ferreira",
+        "operator:short": "ALVF",
+        "operator:type": "charitable",
+        "operator:website": "https://alvf.org.br/",
+        "owner": "Estado de Santa Catarina",
+        "ownership": "state",
+        "phone": "+55-49-3321-6500",
+        "short_name": "HRO",
+        "start_date": "1986-10-30",
+        "website": "https://hro.org.br/",
+        "wheelchair": "yes",
+        "id": "way/168441278"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -52.5993513,
+              -27.1074409
+            ],
+            [
+              -52.5987833,
+              -27.1094805
+            ],
+            [
+              -52.5978336,
+              -27.109272
+            ],
+            [
+              -52.5972937,
+              -27.1091508
+            ],
+            [
+              -52.5974243,
+              -27.1086898
+            ],
+            [
+              -52.5978626,
+              -27.1071123
+            ],
+            [
+              -52.5993513,
+              -27.1074409
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/169249076",
+      "properties": {
+        "timestamp": "2022-10-09T14:53:58Z",
+        "version": 12,
+        "changeset": 127252667,
+        "addr:street": "Rua Uruguai - D",
+        "alt_name": "Hospital Materno-Infantil",
+        "amenity": "hospital",
+        "building": "hospital",
+        "building:levels": "1",
+        "healthcare": "hospital",
+        "height": "4",
+        "name": "Hospital da Criança Augusta Müller Bohner",
+        "operator": "Associação Hospitalar Lenoir Vargas Ferreira",
+        "short_name": "Hospital da Criança",
+        "id": "way/169249076"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -52.6273055,
+              -27.1102591
+            ],
+            [
+              -52.6271672,
+              -27.1107398
+            ],
+            [
+              -52.6259264,
+              -27.110457
+            ],
+            [
+              -52.6260646,
+              -27.1099763
+            ],
+            [
+              -52.6273055,
+              -27.1102591
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11232729005",
+      "properties": {
+        "timestamp": "2023-10-01T23:48:35Z",
+        "version": 1,
+        "changeset": 142010062,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "CAPS III ALCOOL E DROGAS",
+        "id": "node/11232729005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.5836508,
+          -27.0899934
+        ]
+      }
+    }
+  ]
+}

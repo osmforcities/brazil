@@ -1,0 +1,70 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1006639790",
+      "properties": {
+        "timestamp": "2021-11-27T04:41:05Z",
+        "version": 1,
+        "changeset": 114283823,
+        "amenity": "toilets",
+        "building": "yes",
+        "id": "way/1006639790"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -52.3995121,
+              -26.8915741
+            ],
+            [
+              -52.399561,
+              -26.8916221
+            ],
+            [
+              -52.399498,
+              -26.8916731
+            ],
+            [
+              -52.3994491,
+              -26.8916252
+            ],
+            [
+              -52.3995121,
+              -26.8915741
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6384760992",
+      "properties": {
+        "timestamp": "2020-09-07T13:20:59Z",
+        "version": 3,
+        "changeset": 90533884,
+        "access": "yes",
+        "amenity": "toilets",
+        "changing_table": "yes",
+        "changing_table:location": "room",
+        "fee": "no",
+        "operator": "FEMI",
+        "toilets:disposal": "flush",
+        "unisex": "yes",
+        "wheelchair": "limited",
+        "id": "node/6384760992"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.4390277,
+          -26.8841929
+        ]
+      }
+    }
+  ]
+}

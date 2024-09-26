@@ -1,0 +1,88 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/961184635",
+      "properties": {
+        "timestamp": "2022-02-21T13:34:55Z",
+        "version": 3,
+        "changeset": 117682051,
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "Posto de Atendimento Médico Santo Antônio",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "id": "way/961184635"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.9973537,
+              -22.6029485
+            ],
+            [
+              -41.9971404,
+              -22.602997
+            ],
+            [
+              -41.9970085,
+              -22.6025022
+            ],
+            [
+              -41.9970956,
+              -22.6024824
+            ],
+            [
+              -41.9970843,
+              -22.60244
+            ],
+            [
+              -41.997173,
+              -22.6024199
+            ],
+            [
+              -41.9971867,
+              -22.6024714
+            ],
+            [
+              -41.9972275,
+              -22.6024753
+            ],
+            [
+              -41.9973537,
+              -22.6029485
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7066212185",
+      "properties": {
+        "timestamp": "2019-12-18T11:20:47Z",
+        "version": 1,
+        "changeset": 78578706,
+        "addr:housenumber": "99",
+        "addr:postcode": "28907-090",
+        "addr:street": "Raul Veiga",
+        "amenity": "clinic",
+        "internet_access": "wlan",
+        "name": "Dra. Lídia Rosa",
+        "opening_hours": "Mo-Sa 00:00-24:00",
+        "phone": "022 2646-6114",
+        "id": "node/7066212185"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.0136973,
+          -22.8775604
+        ]
+      }
+    }
+  ]
+}

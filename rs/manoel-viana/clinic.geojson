@@ -1,0 +1,184 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1127916634",
+      "properties": {
+        "timestamp": "2023-02-05T01:07:15Z",
+        "version": 6,
+        "changeset": 132095016,
+        "addr:city": "Manoel Viana",
+        "addr:housenumber": "286",
+        "addr:postcode": "97640-000",
+        "addr:street": "Rua Homero Bairro",
+        "addr:suburb": "Centro",
+        "amenity": "clinic",
+        "building": "yes",
+        "building:levels": "1",
+        "email": "saude@manoelviana.rs.gov.br",
+        "emergency": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Pronto Socorro",
+        "operator": "Secretaria De Saúde",
+        "operator:type": "public",
+        "phone": "+55 55 3256-2420",
+        "roof:shape": "gabled",
+        "source": "local knowledge",
+        "website": "https://www.manoelviana.rs.gov.br/novoportal/secretaria-de-saude/",
+        "wheelchair": "yes",
+        "id": "way/1127916634"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -55.4813168,
+              -29.5930785
+            ],
+            [
+              -55.4817136,
+              -29.5929988
+            ],
+            [
+              -55.4817406,
+              -29.5931001
+            ],
+            [
+              -55.4815775,
+              -29.5931329
+            ],
+            [
+              -55.4815897,
+              -29.5931786
+            ],
+            [
+              -55.481592,
+              -29.5931874
+            ],
+            [
+              -55.4815973,
+              -29.5932072
+            ],
+            [
+              -55.4816039,
+              -29.5932319
+            ],
+            [
+              -55.4815455,
+              -29.5932436
+            ],
+            [
+              -55.481528,
+              -29.5932471
+            ],
+            [
+              -55.4815161,
+              -29.5932495
+            ],
+            [
+              -55.4815039,
+              -29.593204
+            ],
+            [
+              -55.4814955,
+              -29.5931723
+            ],
+            [
+              -55.4814906,
+              -29.5931539
+            ],
+            [
+              -55.481344,
+              -29.593183
+            ],
+            [
+              -55.4813168,
+              -29.5930785
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1134166766",
+      "properties": {
+        "timestamp": "2023-01-22T00:34:50Z",
+        "version": 1,
+        "changeset": 131557424,
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "Unid de Saúde",
+        "id": "way/1134166766"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -55.4907216,
+              -29.5790526
+            ],
+            [
+              -55.4905397,
+              -29.5791323
+            ],
+            [
+              -55.4904746,
+              -29.5790198
+            ],
+            [
+              -55.4906565,
+              -29.5789401
+            ],
+            [
+              -55.4907216,
+              -29.5790526
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10607203238",
+      "properties": {
+        "timestamp": "2023-02-05T01:07:15Z",
+        "version": 1,
+        "changeset": 132095016,
+        "entrance": "yes",
+        "id": "node/10607203238"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.4815039,
+          -29.593204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10607203264",
+      "properties": {
+        "timestamp": "2023-02-05T01:07:15Z",
+        "version": 1,
+        "changeset": 132095016,
+        "door": "yes",
+        "indoor": "door",
+        "id": "node/10607203264"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.4814955,
+          -29.5931723
+        ]
+      }
+    }
+  ]
+}

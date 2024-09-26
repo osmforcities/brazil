@@ -1,0 +1,196 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/396280764",
+      "properties": {
+        "timestamp": "2016-02-05T18:50:28Z",
+        "version": 1,
+        "changeset": 37026191,
+        "amenity": "hospital",
+        "name": "PSF",
+        "id": "way/396280764"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.5118481,
+              -18.7220921
+            ],
+            [
+              -47.5117416,
+              -18.7221328
+            ],
+            [
+              -47.5116487,
+              -18.7218431
+            ],
+            [
+              -47.5117643,
+              -18.7218109
+            ],
+            [
+              -47.5118481,
+              -18.7220921
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/538083537",
+      "properties": {
+        "timestamp": "2023-05-24T22:50:08Z",
+        "version": 2,
+        "changeset": 136519806,
+        "addr:housenumber": "68",
+        "addr:postcode": "38500-000",
+        "addr:street": "Praça Afonso Pena",
+        "addr:suburb": "Centro",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hospital e Maternidade Virgílio Rosa",
+        "ref:CNES": "2206498",
+        "ref:vatin": "BR25984469000133",
+        "id": "way/538083537"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.4963265,
+              -18.7293816
+            ],
+            [
+              -47.4963963,
+              -18.7295899
+            ],
+            [
+              -47.4961549,
+              -18.7296813
+            ],
+            [
+              -47.4960825,
+              -18.7294629
+            ],
+            [
+              -47.4963265,
+              -18.7293816
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/538551286",
+      "properties": {
+        "timestamp": "2023-05-24T22:50:08Z",
+        "version": 3,
+        "changeset": 136519806,
+        "addr:city": "Monte Carmelo",
+        "addr:postcode": "38500-000",
+        "addr:street": "Rua Odilon Rodrigues de Oliveira",
+        "addr:suburb": "Boa Vista",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Hospital Municipal Alberto Nogueira",
+        "operator:ref:vatin": "BR18593103000178",
+        "ref:CNES": "9847227",
+        "id": "way/538551286"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.5029785,
+              -18.7219699
+            ],
+            [
+              -47.5031187,
+              -18.7213617
+            ],
+            [
+              -47.5041813,
+              -18.7215922
+            ],
+            [
+              -47.5037208,
+              -18.7220735
+            ],
+            [
+              -47.5029785,
+              -18.7219889
+            ],
+            [
+              -47.5029785,
+              -18.7219699
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7731850751",
+      "properties": {
+        "timestamp": "2020-07-20T16:51:39Z",
+        "version": 1,
+        "changeset": 88257973,
+        "addr:city": "Monte Carmelo",
+        "addr:postcode": "38500-000",
+        "addr:street": "Avenida Quatro",
+        "addr:suburb": "Carmo",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "PSF Bairro do Carmo",
+        "operator": "PMMC",
+        "operator:type": "public",
+        "id": "node/7731850751"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.5062671,
+          -18.7252373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7731894975",
+      "properties": {
+        "timestamp": "2020-07-20T17:25:27Z",
+        "version": 1,
+        "changeset": 88259092,
+        "addr:city": "Monte Carmelo",
+        "addr:housenumber": "200",
+        "addr:postcode": "38500-000",
+        "addr:street": "Avenida Brasil Leste",
+        "addr:suburb": "Vila Nova",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "PSF - Elias de Moraes",
+        "operator": "PMMC",
+        "operator:type": "public",
+        "id": "node/7731894975"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.4900678,
+          -18.7313231
+        ]
+      }
+    }
+  ]
+}

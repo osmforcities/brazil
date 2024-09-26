@@ -1,0 +1,82 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/984141294",
+      "properties": {
+        "timestamp": "2021-10-02T21:46:01Z",
+        "version": 2,
+        "changeset": 112016228,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hospital de Rio Brilhante",
+        "id": "way/984141294"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -54.5475053,
+              -21.8009864
+            ],
+            [
+              -54.5478498,
+              -21.8014294
+            ],
+            [
+              -54.5470478,
+              -21.8019672
+            ],
+            [
+              -54.5467032,
+              -21.801524
+            ],
+            [
+              -54.5471194,
+              -21.8012518
+            ],
+            [
+              -54.5472952,
+              -21.8011326
+            ],
+            [
+              -54.5475053,
+              -21.8009864
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9108921394",
+      "properties": {
+        "timestamp": "2021-09-20T20:30:30Z",
+        "version": 1,
+        "changeset": 111466021,
+        "addr:city": "rio brilhante",
+        "addr:housenumber": "1055",
+        "addr:postcode": "79130000",
+        "addr:street": "Rua Sidney Coelho Nogueira",
+        "addr:suburb": "Centro",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "dentist",
+        "internet_access": "yes",
+        "name": "Dra Bianca Dalcin Odontologia",
+        "phone": "+55 67 993491919",
+        "wheelchair": "yes",
+        "id": "node/9108921394"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.5438138,
+          -21.8026513
+        ]
+      }
+    }
+  ]
+}

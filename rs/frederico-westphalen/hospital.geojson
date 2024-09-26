@@ -1,0 +1,176 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/200702518",
+      "properties": {
+        "timestamp": "2023-04-24T05:46:15Z",
+        "version": 8,
+        "changeset": 135285149,
+        "addr:city": "Frederico Westphalen",
+        "addr:housenumber": "90",
+        "addr:postcode": "98400-000",
+        "addr:street": "Rua 7 de Setembro",
+        "addr:suburb": "Bairro Centro",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Hospital Divina Providência",
+        "opening_hours": "24/7",
+        "operator": "Hospital Divina Providência",
+        "phone": "+55 55 3744-4008;+55 55 3744-4888",
+        "ref:CNES": "2228602",
+        "ref:vatin": "BR92404789000164",
+        "website": "http://www.hdpfw.com.br/",
+        "wheelchair": "yes",
+        "id": "way/200702518"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -53.4007748,
+              -27.3567384
+            ],
+            [
+              -53.4014186,
+              -27.355714
+            ],
+            [
+              -53.4023155,
+              -27.3566781
+            ],
+            [
+              -53.4022894,
+              -27.3569493
+            ],
+            [
+              -53.4018373,
+              -27.3570793
+            ],
+            [
+              -53.4013059,
+              -27.356786
+            ],
+            [
+              -53.4007748,
+              -27.3567384
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/453956823",
+      "properties": {
+        "timestamp": "2020-06-05T21:12:29Z",
+        "version": 3,
+        "changeset": 86262506,
+        "addr:city": "Frederico Westphalen",
+        "addr:postcode": "98400-000",
+        "addr:suburb": "Fátima",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Unidade de Pronto Atendimento",
+        "id": "way/453956823"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -53.401314,
+              -27.3528354
+            ],
+            [
+              -53.4004371,
+              -27.3531281
+            ],
+            [
+              -53.4003884,
+              -27.3528225
+            ],
+            [
+              -53.4012021,
+              -27.3525441
+            ],
+            [
+              -53.401314,
+              -27.3528354
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2393054806",
+      "properties": {
+        "timestamp": "2020-06-05T21:12:29Z",
+        "version": 4,
+        "changeset": 86262506,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "id": "node/2393054806"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.3976576,
+          -27.3603763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5172021574",
+      "properties": {
+        "timestamp": "2017-10-16T21:56:06Z",
+        "version": 1,
+        "changeset": 52996702,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hospital Santo Antônio",
+        "id": "node/5172021574"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.395615,
+          -27.3546753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10861431625",
+      "properties": {
+        "timestamp": "2023-05-02T19:42:56Z",
+        "version": 2,
+        "changeset": 135631108,
+        "addr:city": "Frederico Westphalen",
+        "addr:housenumber": "271",
+        "addr:postcode": "98400-000",
+        "addr:street": "Rua do Comércio",
+        "addr:suburb": "Centro",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hospital Santo Antonio Fredwest",
+        "ref:CNES": "2228599",
+        "ref:vatin": "BR89987473000138",
+        "source:geometry": "IEDE/RS",
+        "id": "node/10861431625"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.3943954,
+          -27.3538881
+        ]
+      }
+    }
+  ]
+}

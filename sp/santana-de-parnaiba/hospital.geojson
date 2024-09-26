@@ -1,0 +1,209 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/555488653",
+      "properties": {
+        "timestamp": "2023-08-24T07:58:07Z",
+        "version": 6,
+        "changeset": 140308362,
+        "addr:city": "Santana de Parnaíba",
+        "addr:housenumber": "520",
+        "addr:postcode": "06530-245",
+        "addr:street": "Rua Alagoas",
+        "addr:suburb": "Recanto das Flores",
+        "amenity": "hospital",
+        "designation": "unidade de pronto atendimento",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "loc_name": "UPA Fazendinha",
+        "name": "Unidade de Pronto Atendimento Fazendinha",
+        "operator:ref:vatin": "BR46522983000127",
+        "ref": "CNES-7999917",
+        "ref:CNES": "7999917",
+        "source": "CNES",
+        "id": "way/555488653"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.8837818,
+              -23.4111556
+            ],
+            [
+              -46.8836453,
+              -23.4111742
+            ],
+            [
+              -46.8836559,
+              -23.411228
+            ],
+            [
+              -46.8835475,
+              -23.4112421
+            ],
+            [
+              -46.8835279,
+              -23.411184
+            ],
+            [
+              -46.8834197,
+              -23.4112023
+            ],
+            [
+              -46.8833902,
+              -23.4110203
+            ],
+            [
+              -46.8834412,
+              -23.4110153
+            ],
+            [
+              -46.8834038,
+              -23.4107475
+            ],
+            [
+              -46.8832962,
+              -23.4107567
+            ],
+            [
+              -46.8832766,
+              -23.4105859
+            ],
+            [
+              -46.8836684,
+              -23.4105477
+            ],
+            [
+              -46.8837335,
+              -23.4110054
+            ],
+            [
+              -46.88378,
+              -23.411007
+            ],
+            [
+              -46.8837983,
+              -23.4110703
+            ],
+            [
+              -46.8837717,
+              -23.4110699
+            ],
+            [
+              -46.8837818,
+              -23.4111556
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/685107075",
+      "properties": {
+        "timestamp": "2024-07-09T20:57:18Z",
+        "version": 5,
+        "changeset": 153760345,
+        "addr:housenumber": "765",
+        "addr:postcode": "06502-165",
+        "addr:street": "Rua Professor Edgar de Moraes",
+        "addr:suburb": "Jardim Deghi",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general;ortopedia;gynaecology",
+        "name": "Hospital Municipal  Santa Ana",
+        "operator": "Secretaria de Saúde",
+        "operator:ref:vatin": "BR46522983000127",
+        "operator:type": "government",
+        "phone": "+55 11 4622 8750",
+        "ref:CNES": "9799265",
+        "id": "way/685107075"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.9254938,
+              -23.4426882
+            ],
+            [
+              -46.924767,
+              -23.4428827
+            ],
+            [
+              -46.924653,
+              -23.4428236
+            ],
+            [
+              -46.9246302,
+              -23.4427535
+            ],
+            [
+              -46.9246637,
+              -23.4426439
+            ],
+            [
+              -46.9247853,
+              -23.44243
+            ],
+            [
+              -46.9248522,
+              -23.4422612
+            ],
+            [
+              -46.9248917,
+              -23.4421616
+            ],
+            [
+              -46.9250655,
+              -23.4419612
+            ],
+            [
+              -46.9251478,
+              -23.4418664
+            ],
+            [
+              -46.9254938,
+              -23.4426882
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10900536669",
+      "properties": {
+        "timestamp": "2023-05-15T22:14:49Z",
+        "version": 1,
+        "changeset": 136144622,
+        "addr:housenumber": "765",
+        "addr:street": "Rua Professor Edgar de Moraes",
+        "addr:suburb": "Jardim Frediani",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "paediatrics",
+        "name": "Pronto Socorro Infantil",
+        "operator": "Secretaria de Saúde",
+        "operator:type": "government",
+        "phone": "+55 11 4622 7100",
+        "id": "node/10900536669"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.9254756,
+          -23.4420583
+        ]
+      }
+    }
+  ]
+}

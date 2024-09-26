@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/682775012",
+      "properties": {
+        "timestamp": "2019-04-09T20:37:28Z",
+        "version": 1,
+        "changeset": 69061389,
+        "addr:city": "Serrolândia",
+        "addr:postcode": "44710000",
+        "addr:street": "Travessa Pedro Coleta de Matos",
+        "addr:suburb": "Sinelex",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Posto de Saúde do Bairro Sinelex",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "id": "way/682775012"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.2974053,
+              -11.4218167
+            ],
+            [
+              -40.2973698,
+              -11.422063
+            ],
+            [
+              -40.2971088,
+              -11.4220268
+            ],
+            [
+              -40.2971443,
+              -11.4217805
+            ],
+            [
+              -40.2974053,
+              -11.4218167
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6394802169",
+      "properties": {
+        "timestamp": "2019-04-09T20:37:26Z",
+        "version": 1,
+        "changeset": 69061389,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "id": "node/6394802169"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.2972959,
+          -11.4219901
+        ]
+      }
+    }
+  ]
+}

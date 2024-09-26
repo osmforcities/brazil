@@ -1,0 +1,74 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/256526388",
+      "properties": {
+        "timestamp": "2022-07-17T23:12:19Z",
+        "version": 4,
+        "changeset": 123737693,
+        "addr:city": "Maringá",
+        "addr:street": "Alameda Gastrônomica Tia Sophia",
+        "addr:unit": "6",
+        "contact:email": "gezebel1@hotmail.com",
+        "internet_access": "wlan",
+        "name": "Chalé dos Gnomos",
+        "operator": "Cecília Ferreira da Silva",
+        "phone": "+55 24 3387 1017",
+        "source": "Local knowledge using iD with Bing images",
+        "tourism": "hotel",
+        "wheelchair": "no",
+        "id": "way/256526388"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.5776487,
+              -22.3264321
+            ],
+            [
+              -44.5772726,
+              -22.3263067
+            ],
+            [
+              -44.5774507,
+              -22.3258498
+            ],
+            [
+              -44.5778267,
+              -22.3259752
+            ],
+            [
+              -44.5776487,
+              -22.3264321
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5118593925",
+      "properties": {
+        "timestamp": "2017-09-21T01:10:42Z",
+        "version": 1,
+        "changeset": 52230120,
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Hotel Buhler",
+        "tourism": "hotel",
+        "id": "node/5118593925"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.5801803,
+          -22.3264727
+        ]
+      }
+    }
+  ]
+}

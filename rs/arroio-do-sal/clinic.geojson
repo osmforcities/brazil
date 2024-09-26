@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1131949141",
+      "properties": {
+        "timestamp": "2023-01-14T12:54:37Z",
+        "version": 1,
+        "changeset": 131263856,
+        "amenity": "clinic",
+        "building": "yes",
+        "name": "Posto de Saúde",
+        "operator": "Prefeitura de Arroio do Sal",
+        "source": "Prefeitura",
+        "id": "way/1131949141"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.8536477,
+              -29.5009983
+            ],
+            [
+              -49.8535135,
+              -29.5008314
+            ],
+            [
+              -49.8536391,
+              -29.500755
+            ],
+            [
+              -49.8537732,
+              -29.5009219
+            ],
+            [
+              -49.8536477,
+              -29.5009983
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6274196685",
+      "properties": {
+        "timestamp": "2021-01-25T19:24:35Z",
+        "version": 2,
+        "changeset": 98141136,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Centro de Saúde 24 horas",
+        "opening_hours": "24/7",
+        "id": "node/6274196685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.9000144,
+          -29.5451883
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/695036458",
+      "properties": {
+        "timestamp": "2023-02-04T14:39:42Z",
+        "version": 2,
+        "changeset": 132078828,
+        "addr:city": "Lajedão",
+        "addr:postcode": "45950-000",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Programa de Saúde da Família Um",
+        "id": "way/695036458"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.3454959,
+              -17.6089706
+            ],
+            [
+              -40.3454363,
+              -17.6090527
+            ],
+            [
+              -40.3454197,
+              -17.6090418
+            ],
+            [
+              -40.3453608,
+              -17.6091229
+            ],
+            [
+              -40.3452772,
+              -17.6090679
+            ],
+            [
+              -40.3453957,
+              -17.6089046
+            ],
+            [
+              -40.3454959,
+              -17.6089706
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11234815348",
+      "properties": {
+        "timestamp": "2023-10-02T23:09:06Z",
+        "version": 1,
+        "changeset": 142065914,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Unidade Básica de Saúde",
+        "id": "node/11234815348"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.3418707,
+          -17.6147697
+        ]
+      }
+    }
+  ]
+}

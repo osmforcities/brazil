@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/961435266",
+      "properties": {
+        "timestamp": "2021-07-04T23:37:23Z",
+        "version": 1,
+        "changeset": 107409466,
+        "addr:postcode": "12570-000",
+        "addr:street": "Avenida Alexandro César dos Santos Gregório",
+        "addr:suburb": "Santa Terezinha",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "Unidade de Saúde da Família Santa Terezinha",
+        "opening_hours": "Mo-Fr 07:00-17:00; Sa,Su,PH off",
+        "phone": "+55 12 99787 2247",
+        "ref": "CNES-7417152",
+        "id": "way/961435266"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -45.2251781,
+              -22.8344055
+            ],
+            [
+              -45.2250914,
+              -22.8344736
+            ],
+            [
+              -45.2249668,
+              -22.8343451
+            ],
+            [
+              -45.2250618,
+              -22.834275
+            ],
+            [
+              -45.2251781,
+              -22.8344055
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5059352225",
+      "properties": {
+        "timestamp": "2017-08-26T01:57:29Z",
+        "version": 1,
+        "changeset": 51448322,
+        "amenity": "clinic",
+        "name": "Prime Radiologia",
+        "name:en": "Prime Radiologia",
+        "name:pt": "Prime Radiologia",
+        "id": "node/5059352225"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.2199139,
+          -22.8334995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5059352226",
+      "properties": {
+        "timestamp": "2021-07-07T23:56:40Z",
+        "version": 3,
+        "changeset": 107593233,
+        "addr:housenumber": "3422",
+        "addr:postcode": "12570-000",
+        "addr:street": "Rua Itaiguara",
+        "addr:suburb": "Itaguaçú",
+        "alt_name": "ESF Itaguaçú",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Unidade de Saúde da Familia Itaguaçú",
+        "opening_hours": "Mo-Fr 07:00-17:00; Sa,Su,PH off",
+        "phone": "+55 12 3105 8279",
+        "ref": "CNES-4046889",
+        "id": "node/5059352226"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.2606306,
+          -22.8677055
+        ]
+      }
+    }
+  ]
+}

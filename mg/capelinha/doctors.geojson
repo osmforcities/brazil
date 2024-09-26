@@ -1,0 +1,76 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1079636390",
+      "properties": {
+        "timestamp": "2022-07-18T22:59:17Z",
+        "version": 1,
+        "changeset": 123782367,
+        "addr:city": "Capelinha",
+        "addr:country": "BR",
+        "addr:housenumber": "43",
+        "addr:postcode": "39680-000",
+        "addr:street": "Rua Jacinto José Ribeiro",
+        "addr:suburb": "Centro",
+        "amenity": "doctors",
+        "building": "yes",
+        "healthcare": "doctor",
+        "healthcare:speciality": "ophthalmology",
+        "mobile": "+55-33-99129-1829",
+        "name": "IRAJ",
+        "phone": "+55-33-3516-4263",
+        "website": "https://iraj.com.br/",
+        "id": "way/1079636390"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.5139067,
+              -17.6890754
+            ],
+            [
+              -42.5140274,
+              -17.6890083
+            ],
+            [
+              -42.514074,
+              -17.6890844
+            ],
+            [
+              -42.5139533,
+              -17.6891515
+            ],
+            [
+              -42.5139067,
+              -17.6890754
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10541540735",
+      "properties": {
+        "timestamp": "2023-01-11T20:32:31Z",
+        "version": 1,
+        "changeset": 131161267,
+        "amenity": "doctors",
+        "healthcare": "doctor",
+        "name": "Digimagem",
+        "id": "node/10541540735"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.5161449,
+          -17.6925404
+        ]
+      }
+    }
+  ]
+}

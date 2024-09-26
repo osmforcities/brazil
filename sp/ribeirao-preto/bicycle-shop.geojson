@@ -1,0 +1,123 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1008758790",
+      "properties": {
+        "timestamp": "2021-12-03T00:20:22Z",
+        "version": 1,
+        "changeset": 114502554,
+        "addr:housenumber": "529",
+        "addr:street": "Avenida do Café",
+        "building": "yes",
+        "name": "Outbike",
+        "service:bicycle:bicycle": "yes",
+        "service:bicycle:pump": "yes",
+        "service:bicycle:rental": "yes",
+        "shop": "bicycle",
+        "id": "way/1008758790"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.8213696,
+              -21.1748068
+            ],
+            [
+              -47.8213561,
+              -21.1748804
+            ],
+            [
+              -47.8212125,
+              -21.1748575
+            ],
+            [
+              -47.821226,
+              -21.1747839
+            ],
+            [
+              -47.8213696,
+              -21.1748068
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1208154613",
+      "properties": {
+        "timestamp": "2023-09-15T21:08:57Z",
+        "version": 2,
+        "changeset": 141320355,
+        "addr:city": "Ribeirão Preto",
+        "addr:housenumber": "473",
+        "addr:street": "Rua 7 de Setembro",
+        "addr:suburb": "centro",
+        "building": "commercial",
+        "name": "Giro Bikes Service",
+        "phone": "(16) 99184-8215",
+        "service:bicycle:bicycle": "yes",
+        "service:bicycle:parts": "yes",
+        "service:bicycle:pump": "yes",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:sales": "yes",
+        "service:bicycle:service": "yes",
+        "shop": "bicycle",
+        "id": "way/1208154613"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.8045205,
+              -21.1806238
+            ],
+            [
+              -47.8045392,
+              -21.1806467
+            ],
+            [
+              -47.8045146,
+              -21.1806663
+            ],
+            [
+              -47.8044948,
+              -21.1806445
+            ],
+            [
+              -47.8045205,
+              -21.1806238
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3962474250",
+      "properties": {
+        "timestamp": "2019-03-08T03:08:47Z",
+        "version": 2,
+        "changeset": 67907799,
+        "email": "multibike@multibike.com.br",
+        "name": "Multi Bikes",
+        "phone": "+55 16 3102-9226",
+        "shop": "bicycle",
+        "website": "https://www.multibike.com.br/",
+        "id": "node/3962474250"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.8162366,
+          -21.2113008
+        ]
+      }
+    }
+  ]
+}

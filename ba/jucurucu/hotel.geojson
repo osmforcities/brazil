@@ -1,0 +1,79 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1305302951",
+      "properties": {
+        "timestamp": "2024-08-02T19:21:42Z",
+        "version": 1,
+        "changeset": 154750449,
+        "addr:city": "Jucuruçu",
+        "addr:postcode": "45834-000",
+        "addr:street": "Rua Trindade",
+        "addr:suburb": "Centro",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "Pousada Philipe",
+        "phone": "+55 73 98158 6644",
+        "rooms": "12",
+        "source": "microsoft/BuildingFootprints",
+        "tourism": "hotel",
+        "id": "way/1305302951"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.1568989,
+              -16.8433895
+            ],
+            [
+              -40.1568796,
+              -16.8434268
+            ],
+            [
+              -40.1568566,
+              -16.843416
+            ],
+            [
+              -40.1569713,
+              -16.8431944
+            ],
+            [
+              -40.1570401,
+              -16.843227
+            ],
+            [
+              -40.1569447,
+              -16.8434113
+            ],
+            [
+              -40.1568989,
+              -16.8433895
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11142697572",
+      "properties": {
+        "timestamp": "2023-08-25T03:04:11Z",
+        "version": 1,
+        "changeset": 140349041,
+        "tourism": "hotel",
+        "id": "node/11142697572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.1580528,
+          -16.8428696
+        ]
+      }
+    }
+  ]
+}

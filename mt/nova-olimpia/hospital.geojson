@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "relation/9459634",
+      "properties": {
+        "timestamp": "2024-08-09T14:27:58Z",
+        "version": 2,
+        "changeset": 155026354,
+        "addr:city": "Nova Olímpia",
+        "addr:housename": "Hospital Municipal de Nova Olímpia",
+        "addr:postcode": "78.370-000",
+        "addr:street": "Rua Amazonas",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Hospital Municipal de Nova Olímpia",
+        "type": "multipolygon",
+        "id": "relation/9459634"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -57.2913668,
+              -14.7824731
+            ],
+            [
+              -57.2907422,
+              -14.7829098
+            ],
+            [
+              -57.2905721,
+              -14.7826823
+            ],
+            [
+              -57.2911967,
+              -14.7822456
+            ],
+            [
+              -57.2913668,
+              -14.7824731
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2471133931",
+      "properties": {
+        "timestamp": "2023-05-06T17:36:39Z",
+        "version": 3,
+        "changeset": 135786145,
+        "addr:city": "Nova Olímpia MT",
+        "addr:housename": "Hospital e Maternidade Nova Olímpia",
+        "addr:housenumber": "831",
+        "addr:postcode": "78.370-000",
+        "addr:street": "Rua Minas Gerais",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Hospital e Maternidade Nova Olímpia",
+        "phone": "+55 65 3332 1191",
+        "ref:CNES": "2472716",
+        "ref:vatin": "BR00873794000106",
+        "id": "node/2471133931"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.2884386,
+          -14.779683
+        ]
+      }
+    }
+  ]
+}

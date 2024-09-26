@@ -1,0 +1,81 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1223112773",
+      "properties": {
+        "timestamp": "2024-04-18T14:56:10Z",
+        "version": 3,
+        "changeset": 150179834,
+        "addr:city": "São Geraldo do Araguaia",
+        "addr:postcode": "68570000",
+        "addr:street": "Avenida Lauro Sodre",
+        "addr:suburb": "Alto Bec",
+        "amenity": "clinic",
+        "building": "house",
+        "healthcare": "clinic",
+        "id": "way/1223112773"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.5592248,
+              -6.3883653
+            ],
+            [
+              -48.5593061,
+              -6.3883691
+            ],
+            [
+              -48.5593062,
+              -6.3883946
+            ],
+            [
+              -48.5594079,
+              -6.3883967
+            ],
+            [
+              -48.5594027,
+              -6.3884827
+            ],
+            [
+              -48.5593629,
+              -6.3884825
+            ],
+            [
+              -48.5592319,
+              -6.3884821
+            ],
+            [
+              -48.5592248,
+              -6.3883653
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11828579030",
+      "properties": {
+        "timestamp": "2024-04-18T14:56:10Z",
+        "version": 1,
+        "changeset": 150179834,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "UBS Alto Bec ",
+        "id": "node/11828579030"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.5593215,
+          -6.3884375
+        ]
+      }
+    }
+  ]
+}

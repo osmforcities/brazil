@@ -1,0 +1,98 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/907493927",
+      "properties": {
+        "timestamp": "2021-02-15T19:40:52Z",
+        "version": 2,
+        "changeset": 99330056,
+        "addr:street": "Alameda Oeste",
+        "amenity": "hospital",
+        "emergency": "no",
+        "healthcare": "hospital",
+        "name": "HRG - GURUPI",
+        "operator": "ESTADO DO TOCANTINS",
+        "operator:type": "government",
+        "id": "way/907493927"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.1205702,
+              -11.7277361
+            ],
+            [
+              -49.1209809,
+              -11.7305185
+            ],
+            [
+              -49.1179448,
+              -11.7309576
+            ],
+            [
+              -49.1185986,
+              -11.7274642
+            ],
+            [
+              -49.1205702,
+              -11.7277361
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8428559274",
+      "properties": {
+        "timestamp": "2021-02-16T11:01:31Z",
+        "version": 1,
+        "changeset": 99374295,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Drogaria Popular",
+        "id": "node/8428559274"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.0903763,
+          -11.7154175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9511091496",
+      "properties": {
+        "timestamp": "2023-05-07T22:26:01Z",
+        "version": 2,
+        "changeset": 135828768,
+        "addr:city": "Gurupi",
+        "addr:housenumber": "176",
+        "addr:postcode": "77423-150",
+        "addr:street": "Rua Ministro Alfredo Nasser",
+        "addr:suburb": "Centro",
+        "amenity": "hospital",
+        "fax": "+55 63 312 3019",
+        "healthcare": "hospital",
+        "name": "Hospital e Maternidade Santa Catarina",
+        "phone": "+55 63 312 4666",
+        "ref:CNES": "5052424",
+        "ref:vatin": "BR27149281000103",
+        "id": "node/9511091496"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.0761517,
+          -11.7208576
+        ]
+      }
+    }
+  ]
+}

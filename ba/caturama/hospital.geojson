@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/794684137",
+      "properties": {
+        "timestamp": "2022-04-16T22:55:02Z",
+        "version": 2,
+        "changeset": 119800700,
+        "amenity": "hospital",
+        "id": "way/794684137"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.2877262,
+              -13.2357712
+            ],
+            [
+              -42.2874575,
+              -13.235746
+            ],
+            [
+              -42.2874833,
+              -13.2354848
+            ],
+            [
+              -42.287752,
+              -13.23551
+            ],
+            [
+              -42.2877262,
+              -13.2357712
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3816795901",
+      "properties": {
+        "timestamp": "2023-07-13T13:28:59Z",
+        "version": 2,
+        "changeset": 138464698,
+        "addr:city": "Caturama",
+        "addr:postcode": "46575000",
+        "addr:street": "Avenida Rio do Pires",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general;emergency;diagnostic_radiology",
+        "name": "Hospital Municipal S. Sebastião",
+        "operator": "Sec. Municipal de Saúde de Caturama",
+        "operator:type": "public",
+        "wheelchair": "yes",
+        "id": "node/3816795901"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.2919239,
+          -13.333739
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1079288545",
+      "properties": {
+        "timestamp": "2022-10-04T21:07:52Z",
+        "version": 2,
+        "changeset": 127016378,
+        "addr:city": "Volta Redonda",
+        "addr:housenumber": "235",
+        "addr:street": "Rua 14",
+        "amenity": "cinema",
+        "building": "yes",
+        "name": "Cine 9 de Abril",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "screen": "1",
+        "id": "way/1079288545"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.1066959,
+              -22.5176712
+            ],
+            [
+              -44.106505,
+              -22.5181257
+            ],
+            [
+              -44.10623,
+              -22.5180262
+            ],
+            [
+              -44.1064129,
+              -22.517595
+            ],
+            [
+              -44.1064219,
+              -22.5175736
+            ],
+            [
+              -44.1066959,
+              -22.5176712
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9905084732",
+      "properties": {
+        "timestamp": "2022-07-22T23:28:52Z",
+        "version": 1,
+        "changeset": 123958570,
+        "amenity": "cinema",
+        "name": "Cine Araújo",
+        "screen": "6",
+        "id": "node/9905084732"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.0782322,
+          -22.522033
+        ]
+      }
+    }
+  ]
+}

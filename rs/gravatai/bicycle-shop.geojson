@@ -1,0 +1,82 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1243714624",
+      "properties": {
+        "timestamp": "2024-01-28T15:38:42Z",
+        "version": 1,
+        "changeset": 146783890,
+        "addr:city": "Gravataí",
+        "addr:housenumber": "166",
+        "addr:postcode": "94110-080",
+        "addr:street": "R. Araújo Viana",
+        "addr:suburb": "Parque Ipiranga",
+        "building": "yes",
+        "name": "Ponto das Bike",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:sales": "yes",
+        "shop": "bicycle",
+        "id": "way/1243714624"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.0620396,
+              -29.9158951
+            ],
+            [
+              -51.0620797,
+              -29.9159704
+            ],
+            [
+              -51.0619521,
+              -29.9160213
+            ],
+            [
+              -51.0619121,
+              -29.915946
+            ],
+            [
+              -51.0620396,
+              -29.9158951
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11514078414",
+      "properties": {
+        "timestamp": "2024-01-13T14:55:09Z",
+        "version": 1,
+        "changeset": 146217114,
+        "addr:city": "Gravataí",
+        "addr:housenumber": "4346",
+        "addr:postcode": "94055-020",
+        "addr:street": "Av. Dorival Cândido Luz de Oliveira",
+        "name": "Bigode Bikes",
+        "name:en": "Mustache Bikes",
+        "opening_hours": "Mo-Fr 08:00-19:00; Sa 09:00-17:00; Su 09:00-13:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+55 )(51) 99281-7953",
+        "service:bicycle:repair": "yes",
+        "shop": "bicycle",
+        "id": "node/11514078414"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.0376933,
+          -29.9362097
+        ]
+      }
+    }
+  ]
+}

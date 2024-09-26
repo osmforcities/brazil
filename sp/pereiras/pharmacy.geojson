@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/667250140",
+      "properties": {
+        "timestamp": "2020-12-20T01:40:05Z",
+        "version": 2,
+        "changeset": 96126801,
+        "addr:housenumber": "422",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "name": "Drogaria Pereirense",
+        "id": "way/667250140"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.976601,
+              -23.0744476
+            ],
+            [
+              -47.9763218,
+              -23.0744424
+            ],
+            [
+              -47.9763226,
+              -23.0744067
+            ],
+            [
+              -47.9763945,
+              -23.0744081
+            ],
+            [
+              -47.9763957,
+              -23.074356
+            ],
+            [
+              -47.9766029,
+              -23.0743599
+            ],
+            [
+              -47.976601,
+              -23.0744476
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6225711617",
+      "properties": {
+        "timestamp": "2019-06-29T18:14:51Z",
+        "version": 3,
+        "changeset": 71741260,
+        "addr:city": "Pereiras",
+        "addr:housenumber": "150",
+        "addr:street": "Praça Coronel Machado",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Biofarma",
+        "id": "node/6225711617"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.9765895,
+          -23.0755739
+        ]
+      }
+    }
+  ]
+}

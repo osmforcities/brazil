@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/683940836",
+      "properties": {
+        "timestamp": "2021-09-01T05:55:48Z",
+        "version": 2,
+        "changeset": 110543397,
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general;vaccination",
+        "wheelchair": "yes",
+        "id": "way/683940836"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -53.5676904,
+              -30.1661636
+            ],
+            [
+              -53.5678856,
+              -30.16619
+            ],
+            [
+              -53.5678707,
+              -30.166272
+            ],
+            [
+              -53.5676755,
+              -30.1662457
+            ],
+            [
+              -53.5676904,
+              -30.1661636
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11212562496",
+      "properties": {
+        "timestamp": "2023-09-23T15:35:33Z",
+        "version": 1,
+        "changeset": 141650423,
+        "amenity": "clinic",
+        "name": "ESF Tatsch",
+        "id": "node/11212562496"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.5629818,
+          -30.1735944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11385548777",
+      "properties": {
+        "timestamp": "2023-11-30T12:18:26Z",
+        "version": 1,
+        "changeset": 144623193,
+        "amenity": "clinic",
+        "name": "ESF Londero",
+        "id": "node/11385548777"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.5804135,
+          -30.1626538
+        ]
+      }
+    }
+  ]
+}

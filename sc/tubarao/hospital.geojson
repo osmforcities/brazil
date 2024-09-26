@@ -1,0 +1,247 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/379485495",
+      "properties": {
+        "timestamp": "2022-07-30T07:13:13Z",
+        "version": 5,
+        "changeset": 124256739,
+        "addr:city": "Tubarão",
+        "addr:housenumber": "215",
+        "addr:street": "Rua Vidal Ramos",
+        "addr:suburb": "Centro",
+        "amenity": "hospital",
+        "building": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Hospital Nossa Senhora da Conceição",
+        "short_name": "HNSC",
+        "id": "way/379485495"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.0028923,
+              -28.4806704
+            ],
+            [
+              -49.0028481,
+              -28.4806657
+            ],
+            [
+              -49.0028333,
+              -28.4807023
+            ],
+            [
+              -49.0026885,
+              -28.4806598
+            ],
+            [
+              -49.0025839,
+              -28.4806091
+            ],
+            [
+              -49.0024685,
+              -28.4805361
+            ],
+            [
+              -49.0022754,
+              -28.480371
+            ],
+            [
+              -49.0021011,
+              -28.4802355
+            ],
+            [
+              -49.0018704,
+              -28.4800575
+            ],
+            [
+              -49.0019952,
+              -28.4796544
+            ],
+            [
+              -49.0031834,
+              -28.4799196
+            ],
+            [
+              -49.0031619,
+              -28.4799785
+            ],
+            [
+              -49.0031391,
+              -28.4800457
+            ],
+            [
+              -49.0030855,
+              -28.4800315
+            ],
+            [
+              -49.003064,
+              -28.4801046
+            ],
+            [
+              -49.0030425,
+              -28.4801211
+            ],
+            [
+              -49.0030264,
+              -28.4801636
+            ],
+            [
+              -49.0029969,
+              -28.4802862
+            ],
+            [
+              -49.0030184,
+              -28.4802932
+            ],
+            [
+              -49.0029982,
+              -28.4803592
+            ],
+            [
+              -49.0029379,
+              -28.4805408
+            ],
+            [
+              -49.0029165,
+              -28.4806374
+            ],
+            [
+              -49.0028923,
+              -28.4806704
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/470029660",
+      "properties": {
+        "timestamp": "2024-04-29T18:33:54Z",
+        "version": 4,
+        "changeset": 150676894,
+        "addr:city": "Tubarão",
+        "addr:housenumber": "198",
+        "addr:street": "Rua Aldomar Cardoso",
+        "addr:suburb": "Passagem",
+        "amenity": "hospital",
+        "contact:phone": "+55 48 3621-2500",
+        "contact:website": "https://unimedtubarao.com.br/",
+        "healthcare": "hospital",
+        "name": "Hospital Unimed Tubarão",
+        "opening_hours": "We-Fr 19:00-24:00, Sa 09:00-01:00, Su 09:00-24:00",
+        "operator": "Unimed Tubarão",
+        "id": "way/470029660"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.9894087,
+              -28.473383
+            ],
+            [
+              -48.9890922,
+              -28.47451
+            ],
+            [
+              -48.988368,
+              -28.4739158
+            ],
+            [
+              -48.9890385,
+              -28.4731331
+            ],
+            [
+              -48.9894087,
+              -28.473383
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3827814158",
+      "properties": {
+        "timestamp": "2023-01-05T15:51:11Z",
+        "version": 2,
+        "changeset": 130912865,
+        "description": "Amblatório",
+        "entrance": "yes",
+        "id": "node/3827814158"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.0029165,
+          -28.4806374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3827814160",
+      "properties": {
+        "timestamp": "2023-01-11T14:49:50Z",
+        "version": 3,
+        "changeset": 131149461,
+        "entrance": "main",
+        "name": "Entrada Geral",
+        "id": "node/3827814160"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.0029982,
+          -28.4803592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3827814168",
+      "properties": {
+        "timestamp": "2023-01-05T15:51:11Z",
+        "version": 2,
+        "changeset": 130912865,
+        "entrance": "yes",
+        "name": "Entrada Emergência",
+        "id": "node/3827814168"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.0031619,
+          -28.4799785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3827814174",
+      "properties": {
+        "timestamp": "2023-01-05T15:51:11Z",
+        "version": 2,
+        "changeset": 130912865,
+        "entrance": "yes",
+        "id": "node/3827814174"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.0026885,
+          -28.4806598
+        ]
+      }
+    }
+  ]
+}

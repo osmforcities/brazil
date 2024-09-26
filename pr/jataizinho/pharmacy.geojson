@@ -1,0 +1,84 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/586073374",
+      "properties": {
+        "timestamp": "2020-03-17T23:57:36Z",
+        "version": 2,
+        "changeset": 82321425,
+        "addr:city": "Jataizinho",
+        "addr:housenumber": "500",
+        "addr:postcode": "86210-000",
+        "addr:street": "Avenida Presidente Getúlio Vargas",
+        "addr:suburb": "Centro",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "building:levels": "1",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmácias Vale Verde",
+        "opening_hours": "Mo-Sa 07:00-20:00",
+        "phone": "+55 43 3259-0607",
+        "id": "way/586073374"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -50.9804066,
+              -23.2541708
+            ],
+            [
+              -50.9803573,
+              -23.2542281
+            ],
+            [
+              -50.9802116,
+              -23.2541283
+            ],
+            [
+              -50.9802531,
+              -23.254079
+            ],
+            [
+              -50.9802836,
+              -23.2540781
+            ],
+            [
+              -50.9804066,
+              -23.2541708
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7122171302",
+      "properties": {
+        "timestamp": "2020-01-10T12:35:50Z",
+        "version": 1,
+        "changeset": 79417683,
+        "addr:city": "Jataizinho",
+        "addr:postcode": "86210-000",
+        "addr:street": "Avenida Antônio Brandão de Oliveira",
+        "addr:suburb": "Centro",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmácia Popular",
+        "id": "node/7122171302"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.9804749,
+          -23.2555178
+        ]
+      }
+    }
+  ]
+}

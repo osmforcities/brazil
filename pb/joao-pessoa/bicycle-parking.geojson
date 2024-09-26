@@ -1,0 +1,104 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/484571287",
+      "properties": {
+        "timestamp": "2017-04-03T16:03:25Z",
+        "version": 1,
+        "changeset": 47417166,
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "ground_slots",
+        "id": "way/484571287"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -34.8174371,
+              -7.1620964
+            ],
+            [
+              -34.8174419,
+              -7.1621464
+            ],
+            [
+              -34.817317,
+              -7.1621595
+            ],
+            [
+              -34.817311,
+              -7.1621143
+            ],
+            [
+              -34.8174371,
+              -7.1620964
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4851989822",
+      "properties": {
+        "timestamp": "2017-05-13T16:37:32Z",
+        "version": 1,
+        "changeset": 48653944,
+        "amenity": "bicycle_parking",
+        "operator": "manutenção de bicicletas",
+        "id": "node/4851989822"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.8477847,
+          -7.06886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7237120015",
+      "properties": {
+        "timestamp": "2020-02-23T16:39:21Z",
+        "version": 1,
+        "changeset": 81370898,
+        "amenity": "bicycle_parking",
+        "source": "Esri; survey",
+        "id": "node/7237120015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.878412,
+          -7.1187512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7237212114",
+      "properties": {
+        "timestamp": "2024-03-29T14:54:48Z",
+        "version": 4,
+        "changeset": 149316569,
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "wall_loops",
+        "capacity": "30",
+        "covered": "no",
+        "source": "survey",
+        "id": "node/7237212114"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.8811915,
+          -7.1210661
+        ]
+      }
+    }
+  ]
+}

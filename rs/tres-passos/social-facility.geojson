@@ -1,0 +1,92 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/678800063",
+      "properties": {
+        "timestamp": "2019-07-15T18:32:26Z",
+        "version": 2,
+        "changeset": 72277349,
+        "amenity": "social_facility",
+        "building": "yes",
+        "name": "São José",
+        "phone": "+55 55 3522-2238",
+        "social_facility": "group_home",
+        "social_facility:for": "senior",
+        "id": "way/678800063"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -53.9264918,
+              -27.450962
+            ],
+            [
+              -53.9265592,
+              -27.4505152
+            ],
+            [
+              -53.9269616,
+              -27.4505531
+            ],
+            [
+              -53.9269166,
+              -27.4510358
+            ],
+            [
+              -53.9265255,
+              -27.4509819
+            ],
+            [
+              -53.9264918,
+              -27.450962
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6124382971",
+      "properties": {
+        "timestamp": "2018-12-13T15:48:25Z",
+        "version": 2,
+        "changeset": 65446197,
+        "amenity": "social_facility",
+        "name": "CRAS - Centro De Referência Da Assistência Social",
+        "phone": "+55 55 3522-0413",
+        "id": "node/6124382971"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.9378752,
+          -27.4495462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6184587151",
+      "properties": {
+        "timestamp": "2019-01-04T19:26:35Z",
+        "version": 1,
+        "changeset": 66031901,
+        "amenity": "social_facility",
+        "social_facility": "group_home",
+        "social_facility:for": "senior",
+        "id": "node/6184587151"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.9655721,
+          -27.4317699
+        ]
+      }
+    }
+  ]
+}

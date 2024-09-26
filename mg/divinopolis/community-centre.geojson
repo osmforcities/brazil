@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "relation/7124083",
+      "properties": {
+        "timestamp": "2017-03-31T15:35:51Z",
+        "version": 1,
+        "changeset": 47329809,
+        "amenity": "community_centre",
+        "name": "SEST/SENAT",
+        "old_name": "CAPIT",
+        "type": "multipolygon",
+        "id": "relation/7124083"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.9089952,
+              -20.1733052
+            ],
+            [
+              -44.9090015,
+              -20.1735439
+            ],
+            [
+              -44.9086798,
+              -20.1747692
+            ],
+            [
+              -44.9074017,
+              -20.1744736
+            ],
+            [
+              -44.9077653,
+              -20.1730883
+            ],
+            [
+              -44.9079708,
+              -20.1723089
+            ],
+            [
+              -44.9089504,
+              -20.1723078
+            ],
+            [
+              -44.9089773,
+              -20.1723493
+            ],
+            [
+              -44.9089952,
+              -20.1733052
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/865005105",
+      "properties": {
+        "timestamp": "2020-10-29T12:39:48Z",
+        "version": 1,
+        "changeset": 93237263,
+        "amenity": "community_centre",
+        "building": "yes",
+        "id": "way/865005105"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.8513028,
+              -20.1158931
+            ],
+            [
+              -44.8511016,
+              -20.11597
+            ],
+            [
+              -44.8509957,
+              -20.1157899
+            ],
+            [
+              -44.851043,
+              -20.1157151
+            ],
+            [
+              -44.8512241,
+              -20.1157617
+            ],
+            [
+              -44.8513028,
+              -20.1158931
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11146183069",
+      "properties": {
+        "timestamp": "2024-08-06T15:34:16Z",
+        "version": 2,
+        "changeset": 154898426,
+        "addr:city": "Divinópolis",
+        "addr:housenumber": "400",
+        "addr:postcode": "35503822",
+        "addr:street": "Rua Álvares de Azevedo",
+        "addr:suburb": "Bela Vista",
+        "air_conditioning": "yes",
+        "amenity": "community_centre",
+        "name": "Auditório",
+        "opening_hours": "Mo-Fr 07:00-21:00",
+        "operator": "CEFET-MG Campus Divinópolis",
+        "wheelchair": "yes",
+        "id": "node/11146183069"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.9097448,
+          -20.1722034
+        ]
+      }
+    }
+  ]
+}

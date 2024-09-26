@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "relation/3070487",
+      "properties": {
+        "timestamp": "2013-07-07T17:01:46Z",
+        "version": 1,
+        "changeset": 16863318,
+        "amenity": "school",
+        "name": "Escola Estadual Capitão Joel Miranda",
+        "type": "multipolygon",
+        "id": "relation/3070487"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.3915113,
+              -21.4683898
+            ],
+            [
+              -48.3905743,
+              -21.4681376
+            ],
+            [
+              -48.3908152,
+              -21.4672517
+            ],
+            [
+              -48.3917319,
+              -21.467519
+            ],
+            [
+              -48.3915113,
+              -21.4683898
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/229082010",
+      "properties": {
+        "timestamp": "2013-07-07T17:01:42Z",
+        "version": 1,
+        "changeset": 16863318,
+        "barrier": "wall",
+        "id": "way/229082010"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -48.3915113,
+            -21.4683898
+          ],
+          [
+            -48.3905743,
+            -21.4681376
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/229082027",
+      "properties": {
+        "timestamp": "2013-07-07T17:01:43Z",
+        "version": 1,
+        "changeset": 16863318,
+        "barrier": "wall",
+        "id": "way/229082027"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -48.3905743,
+            -21.4681376
+          ],
+          [
+            -48.3908152,
+            -21.4672517
+          ],
+          [
+            -48.3917319,
+            -21.467519
+          ],
+          [
+            -48.3915113,
+            -21.4683898
+          ]
+        ]
+      }
+    }
+  ]
+}

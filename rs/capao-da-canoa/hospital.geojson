@@ -1,0 +1,70 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/451059145",
+      "properties": {
+        "timestamp": "2021-01-25T17:13:07Z",
+        "version": 2,
+        "changeset": 98136070,
+        "addr:city": "Capão da Canoa",
+        "addr:housenumber": "2864",
+        "addr:street": "Rua Dom Luiz Guanella",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hospital Santa Luzia",
+        "id": "way/451059145"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -50.0251322,
+              -29.7649534
+            ],
+            [
+              -50.0254819,
+              -29.7656028
+            ],
+            [
+              -50.0246647,
+              -29.7659592
+            ],
+            [
+              -50.0243232,
+              -29.7652711
+            ],
+            [
+              -50.0251322,
+              -29.7649534
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8041186391",
+      "properties": {
+        "timestamp": "2020-10-24T00:23:41Z",
+        "version": 1,
+        "changeset": 92975555,
+        "addr:housenumber": "111",
+        "addr:street": "Rua dos Escoteiros",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Unidade de Isolamento no combate ao Covid-19",
+        "id": "node/8041186391"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.0263817,
+          -29.7499619
+        ]
+      }
+    }
+  ]
+}

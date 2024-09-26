@@ -1,0 +1,208 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/255580756",
+      "properties": {
+        "timestamp": "2023-11-27T02:45:34Z",
+        "version": 4,
+        "changeset": 144490704,
+        "addr:city": "Itajubá",
+        "addr:housename": "CEAM Brasil",
+        "addr:housenumber": "1",
+        "addr:postcode": "37501-155",
+        "addr:street": "Praça Doutor Carlos Victor",
+        "addr:suburb": "Varginha",
+        "amenity": "hospital",
+        "building": "yes",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general;paediatrics;emergency",
+        "name": "CEAM",
+        "operator": "CEAM Brasil",
+        "operator:type": "private",
+        "phone": "+55 35 3629 8000",
+        "website": "http://www.ceam.com.br",
+        "id": "way/255580756"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -45.4464675,
+              -22.424429
+            ],
+            [
+              -45.4457652,
+              -22.4239685
+            ],
+            [
+              -45.4456163,
+              -22.4239775
+            ],
+            [
+              -45.445722,
+              -22.4237258
+            ],
+            [
+              -45.4459472,
+              -22.4238028
+            ],
+            [
+              -45.446676,
+              -22.4242705
+            ],
+            [
+              -45.4464675,
+              -22.424429
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/344558935",
+      "properties": {
+        "timestamp": "2019-11-21T03:53:52Z",
+        "version": 3,
+        "changeset": 77352716,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Policlínica do Mercado",
+        "operator": "Prefeitura Minucipal de Itajubá",
+        "id": "way/344558935"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -45.4544383,
+              -22.4286207
+            ],
+            [
+              -45.4544299,
+              -22.4288685
+            ],
+            [
+              -45.4539151,
+              -22.4288536
+            ],
+            [
+              -45.4539235,
+              -22.4286059
+            ],
+            [
+              -45.4544383,
+              -22.4286207
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4639744056",
+      "properties": {
+        "timestamp": "2019-11-21T03:53:52Z",
+        "version": 2,
+        "changeset": 77352716,
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "Santa Casa de Misericórdia de Itajubá",
+        "operator": "Santa Casa de Misericórdia de Itajubá",
+        "id": "node/4639744056"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.4502326,
+          -22.4214706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4639749719",
+      "properties": {
+        "timestamp": "2019-11-21T02:40:47Z",
+        "version": 3,
+        "changeset": 77351276,
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general;surgery",
+        "name": "Hospital Escola",
+        "operator": "Faculdade de Medicina de Itajubá",
+        "operator:type": "private",
+        "id": "node/4639749719"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.4606648,
+          -22.4193089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4672375531",
+      "properties": {
+        "timestamp": "2017-02-07T17:47:46Z",
+        "version": 1,
+        "changeset": 45892102,
+        "addr:city": "Itajubá",
+        "addr:housenumber": "s/n",
+        "addr:postcode": "37502-488",
+        "addr:street": "Praça Aureliano Moreira de Magalhães",
+        "addr:suburb": "Cantina",
+        "amenity": "hospital",
+        "name": "UBS Santa Rita de Cássia",
+        "phone": "+55 (35)36921818",
+        "id": "node/4672375531"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.4398901,
+          -22.4365617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11479009869",
+      "properties": {
+        "timestamp": "2024-05-04T17:05:03Z",
+        "version": 2,
+        "changeset": 150889984,
+        "addr:housenumber": "673",
+        "addr:postcode": "37500176",
+        "addr:street": "Av. B P S",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "internet_access": "wlan",
+        "name": "Pronto Atendimento da Unimed",
+        "opening_hours": "24/7",
+        "operator": "Unimed Minas Gerais",
+        "operator:type": "private",
+        "website": "https://www.unimed.coop.br/site/web/itajuba/",
+        "id": "node/11479009869"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.4547897,
+          -22.4166753
+        ]
+      }
+    }
+  ]
+}

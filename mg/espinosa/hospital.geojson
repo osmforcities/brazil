@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1240791400",
+      "properties": {
+        "timestamp": "2024-01-18T16:36:02Z",
+        "version": 1,
+        "changeset": 146412618,
+        "addr:housenumber": "725",
+        "addr:postcode": "39510-000",
+        "addr:street": "Avenida Juscelino Kubitschek",
+        "addr:suburb": "Santa Tereza",
+        "amenity": "hospital",
+        "id": "way/1240791400"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.8239471,
+              -14.9336274
+            ],
+            [
+              -42.8249153,
+              -14.9346293
+            ],
+            [
+              -42.8246608,
+              -14.9348857
+            ],
+            [
+              -42.8245698,
+              -14.9348014
+            ],
+            [
+              -42.8243384,
+              -14.9350345
+            ],
+            [
+              -42.8234799,
+              -14.9341688
+            ],
+            [
+              -42.8239471,
+              -14.9336274
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5076407635",
+      "properties": {
+        "timestamp": "2024-01-18T16:36:02Z",
+        "version": 3,
+        "changeset": 146412618,
+        "addr:housenumber": "725",
+        "addr:postcode": "39510-000",
+        "addr:street": "Avenida Juscelino Kubitschek",
+        "addr:suburb": "Santa Tereza",
+        "amenity": "hospital",
+        "email": "smes@ligbr.com.br",
+        "fax": "+55 38 3812 1208",
+        "healthcare": "hospital",
+        "name": "Fundacao Hospitalar do Município de Espinosa",
+        "operator:ref:vatin": "BR18650952000116",
+        "phone": "+55 38 3812 1208",
+        "ref:CNES": "2105365",
+        "ref:vatin": "BR04417906000167",
+        "id": "node/5076407635"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.8241974,
+          -14.9343384
+        ]
+      }
+    }
+  ]
+}

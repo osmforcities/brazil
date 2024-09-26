@@ -1,0 +1,76 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1073372230",
+      "properties": {
+        "timestamp": "2022-06-25T16:57:36Z",
+        "version": 3,
+        "changeset": 122843764,
+        "addr:postcode": "61880-000",
+        "addr:street": "Travessa Ester Cavalcante Assunção",
+        "addr:suburb": "Centro",
+        "amenity": "hospital",
+        "email": "saude@itaitinga.ce.gov.br",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "maternity",
+        "name": "Hospital e Maternidade Ester Cavalcante Assunção",
+        "operator": "Secretaria de Saúde",
+        "operator:type": "government",
+        "ref": "CNES-2724308",
+        "source": "CNES",
+        "id": "way/1073372230"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.5217156,
+              -3.9723698
+            ],
+            [
+              -38.5219128,
+              -3.97355
+            ],
+            [
+              -38.5209829,
+              -3.9739045
+            ],
+            [
+              -38.5208855,
+              -3.9727997
+            ],
+            [
+              -38.5217156,
+              -3.9723698
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8430387539",
+      "properties": {
+        "timestamp": "2021-02-17T01:33:06Z",
+        "version": 1,
+        "changeset": 99412129,
+        "amenity": "hospital",
+        "emergency": "no",
+        "healthcare": "hospital",
+        "name": "Posto de Saúde Barrocão",
+        "id": "node/8430387539"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5166423,
+          -3.9025486
+        ]
+      }
+    }
+  ]
+}

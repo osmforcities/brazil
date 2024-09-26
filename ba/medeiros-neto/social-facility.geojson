@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1275031546",
+      "properties": {
+        "timestamp": "2024-04-22T19:06:30Z",
+        "version": 1,
+        "changeset": 150362187,
+        "addr:city": "Medeiros Neto",
+        "addr:postcode": "45960-000",
+        "addr:street": "Rua José Emídio",
+        "addr:suburb": "Capixaba",
+        "amenity": "social_facility",
+        "name": "Lar dos Idosos São José",
+        "operator": "Lar dos Idosos São José",
+        "operator:type": "private",
+        "social_facility": "group_home",
+        "social_facility:for": "senior",
+        "id": "way/1275031546"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.2257103,
+              -17.3721211
+            ],
+            [
+              -40.2259949,
+              -17.3723829
+            ],
+            [
+              -40.2256198,
+              -17.3725741
+            ],
+            [
+              -40.2253773,
+              -17.372501
+            ],
+            [
+              -40.2253225,
+              -17.3723172
+            ],
+            [
+              -40.225362,
+              -17.3722587
+            ],
+            [
+              -40.2257103,
+              -17.3721211
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10983312512",
+      "properties": {
+        "timestamp": "2023-06-18T01:33:05Z",
+        "version": 1,
+        "changeset": 137464423,
+        "addr:city": "Medeiros Neto",
+        "addr:postcode": "45960-000",
+        "addr:street": "Avenida Aracy Alves Pinto",
+        "addr:suburb": "Uldurico Pinto",
+        "amenity": "social_facility",
+        "name": "Centro de Referência em Assistência Social Aracy Alves Pinto",
+        "operator": "Município de Medeiros Neto",
+        "operator:type": "public",
+        "id": "node/10983312512"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.2282568,
+          -17.3876057
+        ]
+      }
+    }
+  ]
+}

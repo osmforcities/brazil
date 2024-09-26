@@ -1,0 +1,324 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/561603308",
+      "properties": {
+        "timestamp": "2023-09-18T17:15:34Z",
+        "version": 7,
+        "changeset": 141434661,
+        "addr:housenumber": "414",
+        "addr:street": "Avenida General Osório",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "building:levels": "2",
+        "name": "Farmácias São João",
+        "roof:levels": "0",
+        "source": "SIG SC OrtoRGB",
+        "id": "way/561603308"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.7286898,
+              -29.334571
+            ],
+            [
+              -49.7287962,
+              -29.3345286
+            ],
+            [
+              -49.7288548,
+              -29.3345052
+            ],
+            [
+              -49.7288927,
+              -29.3345777
+            ],
+            [
+              -49.7288342,
+              -29.334601
+            ],
+            [
+              -49.7288391,
+              -29.3346104
+            ],
+            [
+              -49.7287327,
+              -29.3346528
+            ],
+            [
+              -49.7286898,
+              -29.334571
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1207201278",
+      "properties": {
+        "timestamp": "2023-09-27T16:28:10Z",
+        "version": 3,
+        "changeset": 141828386,
+        "addr:housenumber": "81",
+        "addr:street": "Rua Desembargador Vieira Pires",
+        "amenity": "pharmacy",
+        "building": "retail",
+        "healthcare": "pharmacy",
+        "name": "Panvel",
+        "source": "Esri;survey",
+        "id": "way/1207201278"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.7292224,
+              -29.3362654
+            ],
+            [
+              -49.7291629,
+              -29.3362884
+            ],
+            [
+              -49.7290807,
+              -29.3363202
+            ],
+            [
+              -49.7290014,
+              -29.3361644
+            ],
+            [
+              -49.7291431,
+              -29.3361096
+            ],
+            [
+              -49.7292224,
+              -29.3362654
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2099134209",
+      "properties": {
+        "timestamp": "2023-08-27T22:06:30Z",
+        "version": 5,
+        "changeset": 140469710,
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Farmácia São João",
+        "source": "survey",
+        "id": "node/2099134209"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.7276119,
+          -29.338882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2099199277",
+      "properties": {
+        "timestamp": "2023-08-27T18:53:12Z",
+        "version": 5,
+        "changeset": 140464259,
+        "amenity": "pharmacy",
+        "brand": "Panvel",
+        "brand:wikidata": "Q10344254",
+        "brand:wikipedia": "pt:Panvel",
+        "check_date": "2023-08-27",
+        "healthcare": "pharmacy",
+        "name": "Panvel",
+        "source": "survey",
+        "id": "node/2099199277"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.7279797,
+          -29.3386753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2099202573",
+      "properties": {
+        "timestamp": "2021-10-27T13:06:54Z",
+        "version": 3,
+        "changeset": 113037407,
+        "amenity": "pharmacy",
+        "brand": "Farmácia São João",
+        "brand:wikidata": "Q65164556",
+        "brand:wikipedia": "pt:Farmácias São João",
+        "healthcare": "pharmacy",
+        "name": "Farmácia São João",
+        "source": "survey",
+        "id": "node/2099202573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.7287324,
+          -29.3382815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2101933061",
+      "properties": {
+        "timestamp": "2023-09-14T15:19:29Z",
+        "version": 4,
+        "changeset": 141263139,
+        "addr:housenumber": "75",
+        "addr:street": "Avenida Barão do Rio Branco",
+        "amenity": "pharmacy",
+        "name": "Farmacia Preço Popular",
+        "source": "survey",
+        "id": "node/2101933061"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.7280473,
+          -29.3383437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3308046464",
+      "properties": {
+        "timestamp": "2023-10-22T17:15:46Z",
+        "version": 7,
+        "changeset": 142977509,
+        "addr:city": "Torres",
+        "addr:housenumber": "1261",
+        "addr:postcode": "95560-000",
+        "addr:street": "Avenida José Amâncio da Rosa",
+        "addr:suburb": "São João",
+        "amenity": "pharmacy",
+        "brand": "Agafarma",
+        "brand:wikidata": "Q93735939",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Agafarma",
+        "opening_hours": "Mo-Sa 08:00-12:00,13:30-19:00",
+        "operator": "Agafarma",
+        "phone": "+55 51 3605-2700",
+        "website": "https://www.agafarma.com.br/",
+        "id": "node/3308046464"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.7737557,
+          -29.3108306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10762303838",
+      "properties": {
+        "timestamp": "2023-09-12T15:20:13Z",
+        "version": 2,
+        "changeset": 141169062,
+        "amenity": "pharmacy",
+        "brand": "Droga Raia",
+        "brand:wikidata": "Q10357101",
+        "healthcare": "pharmacy",
+        "name": "Droga Raia",
+        "id": "node/10762303838"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.7297692,
+          -29.3373333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11169850198",
+      "properties": {
+        "timestamp": "2023-09-12T14:49:22Z",
+        "version": 2,
+        "changeset": 141167775,
+        "entrance": "main",
+        "id": "node/11169850198"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.7291629,
+          -29.3362884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11196481370",
+      "properties": {
+        "timestamp": "2023-09-16T19:43:38Z",
+        "version": 1,
+        "changeset": 141356827,
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Farmácia São João",
+        "id": "node/11196481370"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.7303293,
+          -29.3374317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11575168260",
+      "properties": {
+        "timestamp": "2024-01-31T23:54:31Z",
+        "version": 1,
+        "changeset": 146925506,
+        "amenity": "pharmacy",
+        "check_date": "2024-01-31",
+        "healthcare": "pharmacy",
+        "name": "São João",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:mastercard": "yes",
+        "payment:pix": "yes",
+        "payment:visa": "yes",
+        "wheelchair": "yes",
+        "id": "node/11575168260"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.7464122,
+          -29.3296634
+        ]
+      }
+    }
+  ]
+}

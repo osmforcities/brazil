@@ -1,0 +1,128 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1154067256",
+      "properties": {
+        "timestamp": "2023-03-13T16:25:50Z",
+        "version": 1,
+        "changeset": 133632622,
+        "addr:city": "Novo Hamburgo",
+        "addr:housenumber": "470",
+        "addr:street": "Avenida Nicolau Becker",
+        "addr:suburb": "Vila Rosa",
+        "amenity": "dentist",
+        "building": "yes",
+        "contact:whatsapp": "+55 51 99431 8080",
+        "healthcare": "dentist",
+        "name": "Dr. Alexandre Cruvinel Marques",
+        "phone": "+55 51 3589 4836",
+        "id": "way/1154067256"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.131086,
+              -29.6814575
+            ],
+            [
+              -51.1310709,
+              -29.6815642
+            ],
+            [
+              -51.1310149,
+              -29.6815582
+            ],
+            [
+              -51.1310175,
+              -29.6815396
+            ],
+            [
+              -51.1310263,
+              -29.681478
+            ],
+            [
+              -51.13103,
+              -29.6814515
+            ],
+            [
+              -51.131086,
+              -29.6814575
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1200933585",
+      "properties": {
+        "timestamp": "2021-01-30T16:07:52Z",
+        "version": 3,
+        "changeset": 98420028,
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "Dental Arte",
+        "website": "https://www.dentalartepoa.com.br/",
+        "id": "node/1200933585"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1310605,
+          -29.6839028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1208012791",
+      "properties": {
+        "timestamp": "2021-01-28T19:58:56Z",
+        "version": 2,
+        "changeset": 98317855,
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "Consultório Odontológico",
+        "note": "\"Consultório Odontológico\" is what the sign says.",
+        "id": "node/1208012791"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1373715,
+          -29.7214074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12111947316",
+      "properties": {
+        "timestamp": "2024-08-16T20:26:54Z",
+        "version": 2,
+        "changeset": 155346029,
+        "addr:city": "Novo Hamburgo",
+        "addr:housenumber": "222",
+        "addr:street": "Rua Marquês de Maricá",
+        "addr:suburb": "Operário",
+        "amenity": "dentist",
+        "check_date:opening_hours": "2024-08-16",
+        "healthcare": "dentist",
+        "name": "Studio Odonto",
+        "opening_hours:signed": "no",
+        "id": "node/12111947316"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1360881,
+          -29.6760447
+        ]
+      }
+    }
+  ]
+}

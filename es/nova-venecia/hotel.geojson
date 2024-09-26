@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1124249486",
+      "properties": {
+        "timestamp": "2022-12-22T18:15:11Z",
+        "version": 1,
+        "changeset": 130387290,
+        "addr:city": "Nova Venécia",
+        "addr:housenumber": "78",
+        "addr:postcode": "29830-000",
+        "addr:street": "Rua Zenor Pedrosa Rocha",
+        "addr:suburb": "Margareth",
+        "building": "yes",
+        "level": "4",
+        "name": "Cidade Hotel Residente",
+        "operator": "Cidade Hotel Residence Eireli",
+        "phone": "+55 27 3752 2455",
+        "tourism": "hotel",
+        "id": "way/1124249486"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.3959162,
+              -18.7095306
+            ],
+            [
+              -40.3959525,
+              -18.7096986
+            ],
+            [
+              -40.3959279,
+              -18.7097518
+            ],
+            [
+              -40.3958377,
+              -18.7098377
+            ],
+            [
+              -40.395753,
+              -18.7097534
+            ],
+            [
+              -40.3958057,
+              -18.7097384
+            ],
+            [
+              -40.395774,
+              -18.7095916
+            ],
+            [
+              -40.3958109,
+              -18.7095838
+            ],
+            [
+              -40.3958019,
+              -18.7095499
+            ],
+            [
+              -40.3959162,
+              -18.7095306
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10282832582",
+      "properties": {
+        "timestamp": "2022-12-23T19:53:27Z",
+        "version": 1,
+        "changeset": 130435016,
+        "addr:city": "Nova Venécia",
+        "addr:postcode": "29830-000",
+        "addr:suburb": "São Francisco",
+        "name": "Hotel Ferrari",
+        "tourism": "hotel",
+        "id": "node/10282832582"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.398738,
+          -18.6932365
+        ]
+      }
+    }
+  ]
+}

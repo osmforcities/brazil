@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/916801655",
+      "properties": {
+        "timestamp": "2023-11-06T18:32:52Z",
+        "version": 3,
+        "changeset": 143705537,
+        "access": "yes",
+        "amenity": "toilets",
+        "building": "yes",
+        "fee": "no",
+        "toilets:disposal": "flush",
+        "unisex": "yes",
+        "wheelchair": "yes",
+        "id": "way/916801655"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.3911653,
+              -22.1863454
+            ],
+            [
+              -47.3912248,
+              -22.1862503
+            ],
+            [
+              -47.3913487,
+              -22.1863167
+            ],
+            [
+              -47.3912893,
+              -22.1864118
+            ],
+            [
+              -47.3911653,
+              -22.1863454
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8515143185",
+      "properties": {
+        "timestamp": "2024-01-04T04:03:14Z",
+        "version": 2,
+        "changeset": 145863114,
+        "access": "yes",
+        "amenity": "toilets",
+        "fee": "no",
+        "toilets:disposal": "flush",
+        "unisex": "yes",
+        "wheelchair": "yes",
+        "id": "node/8515143185"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.3846832,
+          -22.1845352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8515208066",
+      "properties": {
+        "timestamp": "2023-11-06T18:32:54Z",
+        "version": 2,
+        "changeset": 143705537,
+        "access": "yes",
+        "amenity": "toilets",
+        "fee": "no",
+        "toilets:disposal": "flush",
+        "unisex": "yes",
+        "wheelchair": "yes",
+        "id": "node/8515208066"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.3912198,
+          -22.1863454
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1054959807",
+      "properties": {
+        "timestamp": "2023-11-13T01:39:49Z",
+        "version": 2,
+        "changeset": 143953042,
+        "access": "yes",
+        "amenity": "clinic",
+        "brand": "Sistema Único de Saúde",
+        "brand:short": "SUS",
+        "building": "yes",
+        "building:levels": "1",
+        "healthcare": "clinic",
+        "loc_name": "Posto de Saúde Santa Lídia",
+        "name": "Unidade Básica de Saúde Santa Lídia",
+        "operator": "Prefeitura Municipal de Penha",
+        "operator:type": "public",
+        "short_name": "UBS Santa Lídia",
+        "id": "way/1054959807"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.651967,
+              -26.8210015
+            ],
+            [
+              -48.6520236,
+              -26.821016
+            ],
+            [
+              -48.6520174,
+              -26.8210353
+            ],
+            [
+              -48.6520704,
+              -26.8210489
+            ],
+            [
+              -48.6520526,
+              -26.8211043
+            ],
+            [
+              -48.652179,
+              -26.8211365
+            ],
+            [
+              -48.6521529,
+              -26.8212178
+            ],
+            [
+              -48.6519583,
+              -26.8211681
+            ],
+            [
+              -48.6519509,
+              -26.8211913
+            ],
+            [
+              -48.6519096,
+              -26.8211807
+            ],
+            [
+              -48.651967,
+              -26.8210015
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7127264907",
+      "properties": {
+        "timestamp": "2022-09-04T16:25:50Z",
+        "version": 4,
+        "changeset": 125779562,
+        "access": "yes",
+        "addr:city": "Penha",
+        "addr:housenumber": "225",
+        "addr:postcode": "88385-000",
+        "addr:street": "Rua Alfeu Jerônimo da Conceição",
+        "addr:suburb": "Centro",
+        "amenity": "clinic",
+        "brand": "Sistema Único de Saúde",
+        "brand:short": "SUS",
+        "brand:wikidata": "Q7531056",
+        "brand:wikipedia": "pt:Sistema Único de Saúde",
+        "emergency": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Pronto Atendimento 24 Horas",
+        "operator": "Prefeitura Municipal de Penha",
+        "operator:type": "public",
+        "id": "node/7127264907"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.6440414,
+          -26.7773343
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/790103146",
+      "properties": {
+        "timestamp": "2020-04-09T18:54:53Z",
+        "version": 1,
+        "changeset": 83324037,
+        "addr:city": "Muniz Freire",
+        "addr:postcode": "29380-000",
+        "addr:street": "Rua São Vicente de Paula",
+        "addr:suburb": "São Vicente de Paula",
+        "amenity": "community_centre",
+        "building": "yes",
+        "name": "Associação de Moradores do Bairro São Vicente de Paula",
+        "id": "way/790103146"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.4196438,
+              -20.4628769
+            ],
+            [
+              -41.4196788,
+              -20.4628769
+            ],
+            [
+              -41.4196928,
+              -20.4629873
+            ],
+            [
+              -41.4196309,
+              -20.4629884
+            ],
+            [
+              -41.4196438,
+              -20.4628769
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7386641547",
+      "properties": {
+        "timestamp": "2020-04-09T18:54:53Z",
+        "version": 1,
+        "changeset": 83324037,
+        "addr:city": "Muniz Freire",
+        "addr:housenumber": "335",
+        "addr:postcode": "29380-000",
+        "addr:street": "Rua José Martins",
+        "addr:suburb": "São Vicente de Paula",
+        "amenity": "community_centre",
+        "name": "Sindicato dos Trabalhadores Rurais de Muniz Freire",
+        "id": "node/7386641547"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.4172017,
+          -20.4627926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7387029724",
+      "properties": {
+        "timestamp": "2020-04-09T19:28:21Z",
+        "version": 1,
+        "changeset": 83325028,
+        "addr:city": "Muniz Freire",
+        "addr:postcode": "29380-000",
+        "addr:street": "Rua Américo Mignone",
+        "addr:suburb": "Centro",
+        "amenity": "community_centre",
+        "name": "Sindicato Patronal Rural",
+        "id": "node/7387029724"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.4139871,
+          -20.4628945
+        ]
+      }
+    }
+  ]
+}

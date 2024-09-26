@@ -1,0 +1,92 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/725424476",
+      "properties": {
+        "timestamp": "2019-09-17T15:33:30Z",
+        "version": 1,
+        "changeset": 74588498,
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "Hospital Municipal Carmela Dutra",
+        "wheelchair": "yes",
+        "id": "way/725424476"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.4157264,
+              -13.2586451
+            ],
+            [
+              -43.4153972,
+              -13.2584024
+            ],
+            [
+              -43.4155206,
+              -13.2581595
+            ],
+            [
+              -43.4157756,
+              -13.2577942
+            ],
+            [
+              -43.4160297,
+              -13.2574301
+            ],
+            [
+              -43.4165162,
+              -13.2569556
+            ],
+            [
+              -43.4170398,
+              -13.2577611
+            ],
+            [
+              -43.41678,
+              -13.2581718
+            ],
+            [
+              -43.4164755,
+              -13.2580095
+            ],
+            [
+              -43.415931,
+              -13.2588098
+            ],
+            [
+              -43.4157264,
+              -13.2586451
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6802621274",
+      "properties": {
+        "timestamp": "2022-09-26T17:20:51Z",
+        "version": 2,
+        "changeset": 126665399,
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "id": "node/6802621274"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.4157756,
+          -13.2577942
+        ]
+      }
+    }
+  ]
+}

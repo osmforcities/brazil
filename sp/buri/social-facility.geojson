@@ -1,0 +1,90 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1243305678",
+      "properties": {
+        "timestamp": "2024-01-26T21:23:07Z",
+        "version": 1,
+        "changeset": 146725534,
+        "addr:city": "Buri",
+        "amenity": "social_facility",
+        "name": "Bloco 34 - Ambulatório",
+        "social_facility": "ambulatory_care",
+        "id": "way/1243305678"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.5294245,
+              -23.6002701
+            ],
+            [
+              -48.5293306,
+              -23.6003464
+            ],
+            [
+              -48.5292334,
+              -23.600246
+            ],
+            [
+              -48.5291742,
+              -23.6002941
+            ],
+            [
+              -48.5291449,
+              -23.6002637
+            ],
+            [
+              -48.5292039,
+              -23.6002158
+            ],
+            [
+              -48.5291221,
+              -23.6001312
+            ],
+            [
+              -48.5292161,
+              -23.6000548
+            ],
+            [
+              -48.5294245,
+              -23.6002701
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7243884051",
+      "properties": {
+        "timestamp": "2023-02-08T19:27:31Z",
+        "version": 2,
+        "changeset": 132272684,
+        "addr:city": "Buri",
+        "addr:housenumber": "50",
+        "addr:postcode": "18290000",
+        "addr:street": "Rua Governador Ademar de Barros",
+        "addr:suburb": "São João",
+        "alt_name": "CRAS de Buri",
+        "amenity": "social_facility",
+        "name": "Centro de Referência de Assistência Social de Buri",
+        "operator": "Prefeitura Municipal",
+        "social_facility": "outreach",
+        "social_facility:for": "underprivileged",
+        "id": "node/7243884051"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.6076842,
+          -23.8057942
+        ]
+      }
+    }
+  ]
+}

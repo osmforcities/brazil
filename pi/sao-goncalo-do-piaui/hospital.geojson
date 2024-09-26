@@ -1,0 +1,138 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/721955361",
+      "properties": {
+        "timestamp": "2019-09-04T15:02:22Z",
+        "version": 1,
+        "changeset": 74092795,
+        "addr:city": "São Gonçalo do Piauí",
+        "addr:postcode": "64435000",
+        "addr:street": "Avenida Marechal Castelo Branco",
+        "addr:suburb": "centro",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Hospital de São Gonçalo do Piauí",
+        "id": "way/721955361"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.7039346,
+              -5.9959384
+            ],
+            [
+              -42.7040392,
+              -5.9962259
+            ],
+            [
+              -42.7038103,
+              -5.9963082
+            ],
+            [
+              -42.7037058,
+              -5.9960207
+            ],
+            [
+              -42.7039346,
+              -5.9959384
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/722285755",
+      "properties": {
+        "timestamp": "2019-09-05T16:29:53Z",
+        "version": 1,
+        "changeset": 74143298,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "UBS - Piauí",
+        "id": "way/722285755"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.7020975,
+              -6.0011405
+            ],
+            [
+              -42.7021777,
+              -6.0013591
+            ],
+            [
+              -42.7019386,
+              -6.0014459
+            ],
+            [
+              -42.7018584,
+              -6.0012273
+            ],
+            [
+              -42.7020975,
+              -6.0011405
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6772262283",
+      "properties": {
+        "timestamp": "2023-11-20T01:48:36Z",
+        "version": 2,
+        "changeset": 144228355,
+        "addr:city": "São Gonçalo do Piauí",
+        "addr:postcode": "64435000",
+        "addr:street": "Avenida Marechal Castelo Branco",
+        "addr:suburb": "centro",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hospital de São Gonçalo do Piauí",
+        "id": "node/6772262283"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.7038705,
+          -5.996122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6775148132",
+      "properties": {
+        "timestamp": "2019-09-05T16:29:53Z",
+        "version": 1,
+        "changeset": 74143298,
+        "addr:city": "São Gonçalo do Piauí",
+        "addr:postcode": "64435-000",
+        "addr:suburb": "centro",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "UBS - Piauí",
+        "id": "node/6775148132"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.7020197,
+          -6.0012954
+        ]
+      }
+    }
+  ]
+}

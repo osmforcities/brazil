@@ -1,0 +1,113 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/883294151",
+      "properties": {
+        "timestamp": "2020-12-10T16:40:00Z",
+        "version": 1,
+        "changeset": 95630182,
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "id": "way/883294151"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.4313223,
+              -6.8679116
+            ],
+            [
+              -38.4311882,
+              -6.8682605
+            ],
+            [
+              -38.4309334,
+              -6.8681753
+            ],
+            [
+              -38.4310273,
+              -6.8678131
+            ],
+            [
+              -38.4313223,
+              -6.8679116
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1152979615",
+      "properties": {
+        "timestamp": "2023-03-09T16:06:05Z",
+        "version": 1,
+        "changeset": 133485131,
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "UBS HIGINO DIAS MOREIRA",
+        "operator": "Sistema Único de Saúde",
+        "operator:short": "SUS",
+        "operator:type": "public",
+        "operator:wikidata": "Q7531056",
+        "id": "way/1152979615"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.5824757,
+              -6.9811065
+            ],
+            [
+              -38.5823872,
+              -6.9813221
+            ],
+            [
+              -38.5822451,
+              -6.9812716
+            ],
+            [
+              -38.5823416,
+              -6.9810506
+            ],
+            [
+              -38.5824757,
+              -6.9811065
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10723852691",
+      "properties": {
+        "timestamp": "2023-03-09T16:06:05Z",
+        "version": 1,
+        "changeset": 133485131,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "operator": "Sistema Único de Saúde",
+        "operator:short": "SUS",
+        "operator:wikidata": "Q7531056",
+        "id": "node/10723852691"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5823641,
+          -6.981187
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/273481562",
+      "properties": {
+        "timestamp": "2015-07-21T16:15:26Z",
+        "version": 11,
+        "changeset": 32781396,
+        "addr:city": "Resplendor",
+        "addr:street": "Avenida Moraes de Carvalho",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "Hospital Nossa Senhora do Carmo",
+        "id": "way/273481562"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.2561045,
+              -19.3237479
+            ],
+            [
+              -41.256474,
+              -19.3237984
+            ],
+            [
+              -41.2563692,
+              -19.3244984
+            ],
+            [
+              -41.2563581,
+              -19.3245528
+            ],
+            [
+              -41.2559885,
+              -19.3245022
+            ],
+            [
+              -41.2561045,
+              -19.3237479
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3660500763",
+      "properties": {
+        "timestamp": "2015-07-21T16:15:24Z",
+        "version": 1,
+        "changeset": 32781396,
+        "entrance": "yes",
+        "name": "Entrada Hospital Nossa Senhora do Carmo",
+        "id": "node/3660500763"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.2563692,
+          -19.3244984
+        ]
+      }
+    }
+  ]
+}

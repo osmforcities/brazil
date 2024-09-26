@@ -1,0 +1,108 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/425871829",
+      "properties": {
+        "timestamp": "2022-03-13T01:06:15Z",
+        "version": 3,
+        "changeset": 118416338,
+        "addr:housenumber": "2384",
+        "addr:street": "Avenida Governador Celso Ramos",
+        "amenity": "pharmacy",
+        "building": "retail",
+        "healthcare": "pharmacy",
+        "name": "Drogarias Farmagnus",
+        "id": "way/425871829"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.5437792,
+              -27.155151
+            ],
+            [
+              -48.5437161,
+              -27.1552735
+            ],
+            [
+              -48.5436285,
+              -27.1552378
+            ],
+            [
+              -48.5436916,
+              -27.1551153
+            ],
+            [
+              -48.5437792,
+              -27.155151
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4251897714",
+      "properties": {
+        "timestamp": "2021-09-07T18:27:23Z",
+        "version": 3,
+        "changeset": 110874401,
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Farmácia Super Popular",
+        "id": "node/4251897714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.5411262,
+          -27.1540192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4251897716",
+      "properties": {
+        "timestamp": "2021-04-01T03:45:04Z",
+        "version": 2,
+        "changeset": 102087449,
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Porto Farma",
+        "id": "node/4251897716"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.5464828,
+          -27.1564307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9476545036",
+      "properties": {
+        "timestamp": "2022-02-06T21:15:14Z",
+        "version": 2,
+        "changeset": 117095017,
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "id": "node/9476545036"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.5745223,
+          -27.1611435
+        ]
+      }
+    }
+  ]
+}

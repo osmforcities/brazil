@@ -1,0 +1,93 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1307777035",
+      "properties": {
+        "timestamp": "2024-08-14T16:24:45Z",
+        "version": 1,
+        "changeset": 155249429,
+        "addr:city": "IGRAPIUNA",
+        "addr:postcode": "45443000",
+        "addr:street": "Avenida Geovane de Almeida Dócio",
+        "addr:suburb": "CENTRO",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "id": "way/1307777035"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -39.1420273,
+              -13.8205421
+            ],
+            [
+              -39.1419458,
+              -13.8208328
+            ],
+            [
+              -39.1418809,
+              -13.8209921
+            ],
+            [
+              -39.1416494,
+              -13.820928
+            ],
+            [
+              -39.1416264,
+              -13.8209177
+            ],
+            [
+              -39.1416154,
+              -13.820907
+            ],
+            [
+              -39.1416114,
+              -13.8208922
+            ],
+            [
+              -39.1416288,
+              -13.8208399
+            ],
+            [
+              -39.1417514,
+              -13.8204606
+            ],
+            [
+              -39.1418439,
+              -13.8204859
+            ],
+            [
+              -39.1420273,
+              -13.8205421
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3854084136",
+      "properties": {
+        "timestamp": "2024-08-14T16:24:45Z",
+        "version": 4,
+        "changeset": 155249429,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Posto Médico Sede",
+        "id": "node/3854084136"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.1415382,
+          -13.8205521
+        ]
+      }
+    }
+  ]
+}

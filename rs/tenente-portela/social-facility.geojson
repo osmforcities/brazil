@@ -1,0 +1,112 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/856996179",
+      "properties": {
+        "timestamp": "2023-01-26T18:48:52Z",
+        "version": 3,
+        "changeset": 131743966,
+        "alt_name": "Centro de Referência Especializado de Assistência Social",
+        "amenity": "social_facility",
+        "building": "yes",
+        "name": "CREAS",
+        "phone": "+55 55 3551-1980",
+        "social_facility": "outreach",
+        "social_facility:for": "underprivileged;abused;victim",
+        "id": "way/856996179"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -53.7562676,
+              -27.3735994
+            ],
+            [
+              -53.7563223,
+              -27.3733522
+            ],
+            [
+              -53.7565332,
+              -27.373389
+            ],
+            [
+              -53.7564781,
+              -27.3736381
+            ],
+            [
+              -53.75639,
+              -27.3736227
+            ],
+            [
+              -53.7564172,
+              -27.3734999
+            ],
+            [
+              -53.7563583,
+              -27.3734896
+            ],
+            [
+              -53.7563315,
+              -27.3736106
+            ],
+            [
+              -53.7562676,
+              -27.3735994
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7990277141",
+      "properties": {
+        "timestamp": "2023-02-09T13:00:01Z",
+        "version": 4,
+        "changeset": 132306528,
+        "addr:city": "Tenente Portela",
+        "alt_name": "CRAS",
+        "amenity": "social_facility",
+        "name": "Centro de Referência de Assistência Social",
+        "phone": "+55 55 3551-2874",
+        "short_name": "CRAS",
+        "social_facility": "outreach",
+        "social_facility:for": "underprivileged",
+        "id": "node/7990277141"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.757482,
+          -27.3740758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7990277142",
+      "properties": {
+        "timestamp": "2022-11-22T16:01:09Z",
+        "version": 4,
+        "changeset": 129245879,
+        "amenity": "social_facility",
+        "name": "Liga Feminina de Combate ao Câncer",
+        "phone": "+55 55 99631-9327",
+        "social_facility": "day_care",
+        "social_facility:for": "diseased",
+        "id": "node/7990277142"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.7573335,
+          -27.37404
+        ]
+      }
+    }
+  ]
+}

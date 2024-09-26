@@ -1,0 +1,72 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/448748751",
+      "properties": {
+        "timestamp": "2023-08-04T18:06:26Z",
+        "version": 7,
+        "changeset": 139452567,
+        "addr:city": "Simões Filho",
+        "addr:country": "BR",
+        "addr:postcode": "43700-000",
+        "addr:street": "Praça da Bíblia",
+        "addr:suburb": "Centro",
+        "amenity": "library",
+        "building": "governamental",
+        "elevation": "2",
+        "name": "Biblioteca Municipal de Simões Filho",
+        "id": "way/448748751"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.3982778,
+              -12.7864455
+            ],
+            [
+              -38.3985501,
+              -12.7864474
+            ],
+            [
+              -38.3985488,
+              -12.7866297
+            ],
+            [
+              -38.3982765,
+              -12.7866277
+            ],
+            [
+              -38.3982778,
+              -12.7864455
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10921541431",
+      "properties": {
+        "timestamp": "2023-05-23T12:35:30Z",
+        "version": 1,
+        "changeset": 136454623,
+        "access": "customers",
+        "amenity": "library",
+        "operator": "Aratu Iate Clube",
+        "operator:type": "private",
+        "id": "node/10921541431"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4606832,
+          -12.8135331
+        ]
+      }
+    }
+  ]
+}

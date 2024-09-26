@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1122749397",
+      "properties": {
+        "timestamp": "2022-12-16T19:32:54Z",
+        "version": 1,
+        "changeset": 130168438,
+        "addr:housenumber": "14",
+        "addr:postcode": "49200-000",
+        "addr:street": "Rua Osvaldo Freire da Fonseca",
+        "addr:suburb": "Centro",
+        "amenity": "kindergarten",
+        "name": "Escola de Educação Infantil Professor José Dias de Oliveira",
+        "phone": "+55 79 3522 6703",
+        "preschool": "yes",
+        "ref": "INEP-28025148",
+        "source": "INEP",
+        "id": "way/1122749397"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -37.4345807,
+              -11.2669691
+            ],
+            [
+              -37.4347705,
+              -11.2672038
+            ],
+            [
+              -37.4345313,
+              -11.2673666
+            ],
+            [
+              -37.4343455,
+              -11.2671165
+            ],
+            [
+              -37.4343395,
+              -11.2670739
+            ],
+            [
+              -37.4345807,
+              -11.2669691
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3886790340",
+      "properties": {
+        "timestamp": "2015-12-10T21:57:07Z",
+        "version": 1,
+        "changeset": 35874567,
+        "amenity": "kindergarten",
+        "name": "Creche Municipal",
+        "id": "node/3886790340"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.4301822,
+          -11.242567
+        ]
+      }
+    }
+  ]
+}

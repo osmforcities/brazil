@@ -1,0 +1,102 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/761326995",
+      "properties": {
+        "timestamp": "2023-01-21T22:54:28Z",
+        "version": 3,
+        "changeset": 131555979,
+        "access": "yes",
+        "addr:housenumber": "250",
+        "addr:street": "Rua Carlos Gomes",
+        "amenity": "clinic",
+        "brand": "Sistema Único de Saúde",
+        "brand:short": "SUS",
+        "brand:wikidata": "Q7531056",
+        "brand:wikipedia": "pt:Sistema Único de Saúde",
+        "building": "yes",
+        "contact:phone": "+55 49 3526-2020",
+        "healthcare": "clinic",
+        "name": "Unidade de Saúde",
+        "opening_hours": "Mo-Fr 08:00-17:00; Sa,Su,PH off",
+        "operator": "Prefeitura Municipal de Jaborá",
+        "operator:type": "government",
+        "ref:CNES": "2660628",
+        "id": "way/761326995"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.7326108,
+              -27.1733462
+            ],
+            [
+              -51.732779,
+              -27.1733462
+            ],
+            [
+              -51.7327159,
+              -27.1735581
+            ],
+            [
+              -51.732793,
+              -27.1736723
+            ],
+            [
+              -51.7326482,
+              -27.1737637
+            ],
+            [
+              -51.732431,
+              -27.173421
+            ],
+            [
+              -51.7326108,
+              -27.1733462
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8626387717",
+      "properties": {
+        "timestamp": "2021-04-13T15:56:52Z",
+        "version": 1,
+        "changeset": 102875428,
+        "amenity": "clinic",
+        "id": "node/8626387717"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.7476757,
+          -27.1714413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8626387732",
+      "properties": {
+        "timestamp": "2021-04-13T15:56:52Z",
+        "version": 1,
+        "changeset": 102875428,
+        "amenity": "clinic",
+        "id": "node/8626387732"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.8080892,
+          -27.1657396
+        ]
+      }
+    }
+  ]
+}

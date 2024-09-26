@@ -1,0 +1,103 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1031843994",
+      "properties": {
+        "timestamp": "2022-02-15T21:35:50Z",
+        "version": 1,
+        "changeset": 117452342,
+        "addr:city": "Porto Velho",
+        "addr:housenumber": "8228",
+        "addr:postcode": "76829-346",
+        "addr:street": "Rua Plácido de Castro",
+        "addr:suburb": "JK 2",
+        "amenity": "dentist",
+        "building": "yes",
+        "healthcare": "dentist",
+        "healthcare:speciality": "dentistry",
+        "name": "Odonto Arte",
+        "opening_hours": "Mo-Fr 08:00-18:00",
+        "id": "way/1031843994"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -63.8351633,
+              -8.7705737
+            ],
+            [
+              -63.8351283,
+              -8.7707237
+            ],
+            [
+              -63.8350185,
+              -8.7706983
+            ],
+            [
+              -63.8350722,
+              -8.7705529
+            ],
+            [
+              -63.8351633,
+              -8.7705737
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4203627291",
+      "properties": {
+        "timestamp": "2022-06-29T20:56:00Z",
+        "version": 3,
+        "changeset": 123019727,
+        "addr:housenumber": "1522",
+        "addr:street": "Rua Dom Pedro II",
+        "amenity": "dentist",
+        "fixme": "32218283 precisa do DDD",
+        "healthcare": "dentist",
+        "name": "OdontoMed produtos Odontológicos",
+        "opening_hours": "Su-Fr 08:00-12:00, 14:00-18:00",
+        "id": "node/4203627291"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8973943,
+          -8.7612827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10173885321",
+      "properties": {
+        "timestamp": "2022-11-10T15:58:00Z",
+        "version": 1,
+        "changeset": 128740745,
+        "addr:city": "Porto Velho",
+        "addr:housenumber": "241",
+        "addr:postcode": "76811678",
+        "addr:street": "Rua das Ararás",
+        "addr:suburb": "Eldorado",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "Clínicas de Odontologia Grupo Aparício Carvalho",
+        "opening_hours": "Mo-Fr 09:00-18:00",
+        "id": "node/10173885321"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.8606831,
+          -8.786525
+        ]
+      }
+    }
+  ]
+}

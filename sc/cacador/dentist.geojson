@@ -1,0 +1,78 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/703085602",
+      "properties": {
+        "timestamp": "2021-08-18T17:03:14Z",
+        "version": 2,
+        "changeset": 109887478,
+        "addr:city": "Caçador",
+        "addr:housenumber": "332",
+        "addr:postcode": "89506-003",
+        "addr:street": "Rua Doutor Altamiro Guimarães",
+        "addr:suburb": "DER",
+        "amenity": "dentist",
+        "building": "house",
+        "email": "alencarmendes@globo.com",
+        "healthcare": "dentist",
+        "healthcare:speciality": "dentistry;dentist",
+        "name": "Dr. Alencar Mendes",
+        "opening_hours": "Mo-Sa 08:00-18:30",
+        "operator": "Dr. Alencar Mendes",
+        "operator:type": "private",
+        "phone": "+55 49 3563 2964",
+        "website": "www.alencarmendes.com.br",
+        "id": "way/703085602"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.0209806,
+              -26.7734702
+            ],
+            [
+              -51.0209672,
+              -26.7735852
+            ],
+            [
+              -51.0208223,
+              -26.7735756
+            ],
+            [
+              -51.020833,
+              -26.7734582
+            ],
+            [
+              -51.0209806,
+              -26.7734702
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6148646798",
+      "properties": {
+        "timestamp": "2021-01-03T21:13:12Z",
+        "version": 2,
+        "changeset": 96864747,
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "Odonto Excellence",
+        "id": "node/6148646798"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.0209504,
+          -26.7760535
+        ]
+      }
+    }
+  ]
+}

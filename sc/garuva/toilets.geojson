@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/329490260",
+      "properties": {
+        "timestamp": "2016-07-16T18:39:04Z",
+        "version": 2,
+        "changeset": 40785251,
+        "amenity": "toilets",
+        "building": "yes",
+        "description": "Apenas um sanitário.",
+        "toilets:disposal": "flush",
+        "unisex": "yes",
+        "id": "way/329490260"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.9355642,
+              -26.1232374
+            ],
+            [
+              -48.9355268,
+              -26.1232548
+            ],
+            [
+              -48.9355037,
+              -26.1232147
+            ],
+            [
+              -48.935541,
+              -26.1231973
+            ],
+            [
+              -48.9355642,
+              -26.1232374
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/989228574",
+      "properties": {
+        "timestamp": "2010-11-14T21:08:07Z",
+        "version": 1,
+        "changeset": 6371113,
+        "amenity": "toilets",
+        "wheelchair": "no",
+        "id": "node/989228574"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.8594251,
+          -26.0293827
+        ]
+      }
+    }
+  ]
+}

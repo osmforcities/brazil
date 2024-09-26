@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1122511415",
+      "properties": {
+        "timestamp": "2022-12-15T23:35:34Z",
+        "version": 1,
+        "changeset": 130134201,
+        "addr:city": "São Mateus",
+        "addr:housenumber": "212",
+        "addr:postcode": "29930-360",
+        "addr:street": "Rua Coronel Constantino Cunha",
+        "addr:suburb": "Centro",
+        "amenity": "social_facility",
+        "name": "Associação de Pais e Amigos dos Excepcionais de São Mateus",
+        "operator": "Associação de Pais e Amigos dos Excepcionais - Apae",
+        "operator:type": "private",
+        "social_facility": "day_care",
+        "social_facility:for": "child",
+        "id": "way/1122511415"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -39.8525695,
+              -18.7151868
+            ],
+            [
+              -39.8526325,
+              -18.7154577
+            ],
+            [
+              -39.8523827,
+              -18.7155329
+            ],
+            [
+              -39.8523897,
+              -18.7155594
+            ],
+            [
+              -39.8522682,
+              -18.7155749
+            ],
+            [
+              -39.8522628,
+              -18.715519
+            ],
+            [
+              -39.8522449,
+              -18.7153349
+            ],
+            [
+              -39.8522647,
+              -18.7152797
+            ],
+            [
+              -39.8523656,
+              -18.7152489
+            ],
+            [
+              -39.8525695,
+              -18.7151868
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3999140663",
+      "properties": {
+        "timestamp": "2020-07-25T21:39:37Z",
+        "version": 2,
+        "changeset": 88506933,
+        "addr:city": "São Mateus",
+        "addr:housenumber": "06",
+        "addr:postcode": "29938-360",
+        "addr:street": "Rua Tartaruga Ninja",
+        "addr:suburb": "Pedra D'Água",
+        "alt_name": "Centro de Referência de Assistência Social",
+        "amenity": "social_facility",
+        "contact:phone": "(27) 3773-7778",
+        "name": "CRAS - Pedra D'Água",
+        "social_facility": "outreach",
+        "source": "IJSN",
+        "id": "node/3999140663"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.8177433,
+          -18.7285419
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1295098929",
+      "properties": {
+        "timestamp": "2024-06-23T00:32:22Z",
+        "version": 1,
+        "changeset": 153049586,
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "id": "way/1295098929"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.9804529,
+              -22.5224169
+            ],
+            [
+              -42.9804635,
+              -22.5224365
+            ],
+            [
+              -42.9804812,
+              -22.5224839
+            ],
+            [
+              -42.9805131,
+              -22.5225738
+            ],
+            [
+              -42.9804264,
+              -22.5226065
+            ],
+            [
+              -42.980375,
+              -22.5224414
+            ],
+            [
+              -42.9804529,
+              -22.5224169
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12001745443",
+      "properties": {
+        "timestamp": "2024-06-23T00:32:22Z",
+        "version": 1,
+        "changeset": 153049586,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Centro Pediátrico",
+        "id": "node/12001745443"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.9804458,
+          -22.5225101
+        ]
+      }
+    }
+  ]
+}

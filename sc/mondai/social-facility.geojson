@@ -1,0 +1,124 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1164913425",
+      "properties": {
+        "timestamp": "2023-04-23T19:56:56Z",
+        "version": 1,
+        "changeset": 135275835,
+        "addr:housenumber": "960",
+        "addr:street": "Avenida Porto Feliz",
+        "alt_name": "Escola Especial Raio de Sol",
+        "amenity": "social_facility",
+        "barrier": "fence",
+        "email": "apaemondai@gmail.com",
+        "loc_name": "APAE Raio de Sol",
+        "name": "APAE Mondaí",
+        "operator": "Associação de Pais e Amigos dos Excepcionais",
+        "operator:short": "APAE",
+        "operator:type": "ngo",
+        "phone": "+55-49-3674-0124",
+        "school": "special_education_needs",
+        "short_name": "APAE",
+        "social_facility": "day_care",
+        "social_facility:for": "disabled",
+        "start_date": "1995",
+        "id": "way/1164913425"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -53.3934233,
+              -27.1018713
+            ],
+            [
+              -53.3936164,
+              -27.1014678
+            ],
+            [
+              -53.3939563,
+              -27.10158
+            ],
+            [
+              -53.3945256,
+              -27.1017257
+            ],
+            [
+              -53.3946812,
+              -27.1017484
+            ],
+            [
+              -53.3946799,
+              -27.1017639
+            ],
+            [
+              -53.3942168,
+              -27.1019667
+            ],
+            [
+              -53.3941676,
+              -27.1019883
+            ],
+            [
+              -53.3939154,
+              -27.1020194
+            ],
+            [
+              -53.3934233,
+              -27.1018713
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5486700508",
+      "properties": {
+        "timestamp": "2023-04-19T14:24:33Z",
+        "version": 4,
+        "changeset": 135105514,
+        "addr:street": "Travessa Oswaldo Otto Wolschick",
+        "amenity": "social_facility",
+        "name": "Centro de Referência de Assistência Social",
+        "operator": "Prefeitura Municipal de Mondaí",
+        "operator:type": "public",
+        "ownership": "municipal",
+        "short_name": "CRAS",
+        "social_facility": "outreach",
+        "social_facility:for": "underprivileged",
+        "id": "node/5486700508"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.3985516,
+          -27.0988676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10834473344",
+      "properties": {
+        "timestamp": "2023-04-23T19:56:56Z",
+        "version": 1,
+        "changeset": 135275835,
+        "barrier": "gate",
+        "entrance": "main",
+        "id": "node/10834473344"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.3942168,
+          -27.1019667
+        ]
+      }
+    }
+  ]
+}

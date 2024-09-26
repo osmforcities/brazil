@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/709816196",
+      "properties": {
+        "timestamp": "2023-02-02T14:06:44Z",
+        "version": 2,
+        "changeset": 132004950,
+        "addr:city": "Nova Viçosa",
+        "addr:postcode": "45920-000",
+        "addr:street": "Avenida Oceanica",
+        "addr:suburb": "Centro",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Clinica Municipal de Nova Viçosa",
+        "operator": "Município de Nova Viçosa",
+        "operator:type": "public",
+        "id": "way/709816196"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -39.3723895,
+              -17.8925362
+            ],
+            [
+              -39.3723712,
+              -17.8927481
+            ],
+            [
+              -39.3723433,
+              -17.8927459
+            ],
+            [
+              -39.3723326,
+              -17.8928692
+            ],
+            [
+              -39.3721865,
+              -17.8928578
+            ],
+            [
+              -39.3721578,
+              -17.8928932
+            ],
+            [
+              -39.3720091,
+              -17.8928816
+            ],
+            [
+              -39.3720303,
+              -17.8926351
+            ],
+            [
+              -39.3719967,
+              -17.8926325
+            ],
+            [
+              -39.3720075,
+              -17.8925064
+            ],
+            [
+              -39.3723895,
+              -17.8925362
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10669579813",
+      "properties": {
+        "timestamp": "2023-02-16T17:45:20Z",
+        "version": 2,
+        "changeset": 132640453,
+        "addr:city": "Nova Viçosa",
+        "addr:district": "Posto da Mata",
+        "addr:postcode": "45928-000",
+        "addr:suburb": "Baía dos Anjos",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Unidade Básica de Saúde Sete Emília Joana Vitória",
+        "operator": "Município de Nova Viçosa",
+        "operator:type": "public",
+        "id": "node/10669579813"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.83757,
+          -17.8852622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10671805231",
+      "properties": {
+        "timestamp": "2023-02-17T10:55:46Z",
+        "version": 2,
+        "changeset": 132669450,
+        "addr:city": "Nova Viçosa",
+        "addr:district": "Posto da Mata",
+        "addr:housenumber": "827",
+        "addr:postcode": "45928-000",
+        "addr:street": "Rua Cajueiro",
+        "addr:suburb": "Cajueiro",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Unidade de Saúde da Família Quatro",
+        "operator": "Município de Nova Viçosa",
+        "operator:type": "public",
+        "id": "node/10671805231"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.8624572,
+          -17.882323
+        ]
+      }
+    }
+  ]
+}

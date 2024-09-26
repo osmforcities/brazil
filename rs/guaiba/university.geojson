@@ -1,0 +1,93 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1281327555",
+      "properties": {
+        "timestamp": "2024-07-04T21:34:57Z",
+        "version": 2,
+        "changeset": 153565887,
+        "addr:housenumber": "230",
+        "addr:postcode": "92500-000",
+        "addr:street": "Rua Santa Maria",
+        "amenity": "university",
+        "name": "UERGS - Universidade Estadual do Rio Grande do Sul",
+        "id": "way/1281327555"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.3691413,
+              -30.1205154
+            ],
+            [
+              -51.3683759,
+              -30.1192769
+            ],
+            [
+              -51.3691464,
+              -30.1188366
+            ],
+            [
+              -51.3699816,
+              -30.118319
+            ],
+            [
+              -51.3707354,
+              -30.119529
+            ],
+            [
+              -51.3691413,
+              -30.1205154
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2108754893",
+      "properties": {
+        "timestamp": "2024-05-10T01:51:59Z",
+        "version": 3,
+        "changeset": 151124410,
+        "entrance": "yes",
+        "id": "node/2108754893"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.3691464,
+          -30.1188366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5261257047",
+      "properties": {
+        "timestamp": "2017-12-03T02:11:25Z",
+        "version": 1,
+        "changeset": 54286945,
+        "addr:city": "Guaíba",
+        "addr:housenumber": "1474",
+        "addr:postcode": "92500-000",
+        "addr:street": "R. Vinte de Setembro",
+        "addr:suburb": "Centro",
+        "amenity": "university",
+        "name": "UNINTER",
+        "id": "node/5261257047"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.3247887,
+          -30.1129832
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/685023274",
+      "properties": {
+        "timestamp": "2019-04-21T01:04:16Z",
+        "version": 1,
+        "changeset": 69414372,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "id": "way/685023274"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -58.8189023,
+              -13.5481933
+            ],
+            [
+              -58.8189098,
+              -13.5492453
+            ],
+            [
+              -58.8177383,
+              -13.5492454
+            ],
+            [
+              -58.8177647,
+              -13.5482041
+            ],
+            [
+              -58.8189023,
+              -13.5481933
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6389414826",
+      "properties": {
+        "timestamp": "2019-04-21T01:04:18Z",
+        "version": 2,
+        "changeset": 69414372,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hospital Renato Sucupira",
+        "id": "node/6389414826"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.8183305,
+          -13.5487491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6418644032",
+      "properties": {
+        "timestamp": "2019-04-21T01:04:10Z",
+        "version": 1,
+        "changeset": 69414372,
+        "crossing": "unmarked",
+        "highway": "crossing",
+        "id": "node/6418644032"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.8177647,
+          -13.5482041
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/207587775",
+      "properties": {
+        "timestamp": "2022-05-25T11:16:02Z",
+        "version": 3,
+        "changeset": 121470485,
+        "addr:street": "BR-277",
+        "alt_name": "Serviço de Atendimento ao Usuário",
+        "amenity": "toilets",
+        "building": "transportation",
+        "fee": "no",
+        "name": "SAU Ecocataratas",
+        "operator": "Rodovia das Cataratas S/A",
+        "website": "https://www.ecocataratas.com.br/",
+        "id": "way/207587775"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.7947534,
+              -25.4266639
+            ],
+            [
+              -51.7949797,
+              -25.4267923
+            ],
+            [
+              -51.794929,
+              -25.4268652
+            ],
+            [
+              -51.7947027,
+              -25.4267367
+            ],
+            [
+              -51.7947534,
+              -25.4266639
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3402233299",
+      "properties": {
+        "timestamp": "2015-03-16T18:08:41Z",
+        "version": 1,
+        "changeset": 29523635,
+        "access": "customers",
+        "amenity": "toilets",
+        "drinking_water": "no",
+        "fee": "no",
+        "operator": "Auto Posto Vissoto",
+        "toilets:position": "seated;urinal",
+        "wheelchair": "limited",
+        "id": "node/3402233299"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.0461144,
+          -25.5609079
+        ]
+      }
+    }
+  ]
+}

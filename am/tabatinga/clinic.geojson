@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1248311565",
+      "properties": {
+        "timestamp": "2024-02-09T21:10:04Z",
+        "version": 1,
+        "changeset": 147273029,
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "Unidad Renal",
+        "id": "way/1248311565"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -69.9362746,
+              -4.2180688
+            ],
+            [
+              -69.9362163,
+              -4.2182078
+            ],
+            [
+              -69.9360917,
+              -4.218141
+            ],
+            [
+              -69.9361577,
+              -4.2180102
+            ],
+            [
+              -69.9362746,
+              -4.2180688
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8126723547",
+      "properties": {
+        "timestamp": "2020-11-16T19:04:39Z",
+        "version": 1,
+        "changeset": 94222118,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Clinica Leticia",
+        "operator": "Privado",
+        "operator:type": "private",
+        "id": "node/8126723547"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9374387,
+          -4.216821
+        ]
+      }
+    }
+  ]
+}

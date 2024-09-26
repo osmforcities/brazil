@@ -1,0 +1,97 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/599985888",
+      "properties": {
+        "timestamp": "2021-06-21T23:59:35Z",
+        "version": 3,
+        "changeset": 106741121,
+        "addr:housenumber": "101",
+        "addr:street": "Rua Mauri Bueno de Andrade",
+        "addr:suburb": "Jardim São Cristóvão",
+        "amenity": "hospital",
+        "email": "hmsaolucas@hmsaolucas.com.br",
+        "healthcare": "hospital",
+        "healthcare:speciality": "intensive",
+        "name": "Hospital e Maternidade São Lucas",
+        "phone": "+55 35 3100 9550",
+        "ref": "CNES-2127881",
+        "website": "https://www.hmsaolucas.com/",
+        "id": "way/599985888"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.3273861,
+              -22.8609208
+            ],
+            [
+              -46.3270992,
+              -22.8617211
+            ],
+            [
+              -46.3270528,
+              -22.861787
+            ],
+            [
+              -46.326984,
+              -22.8617702
+            ],
+            [
+              -46.3269292,
+              -22.8617374
+            ],
+            [
+              -46.326649,
+              -22.861666
+            ],
+            [
+              -46.3264631,
+              -22.8615866
+            ],
+            [
+              -46.3265402,
+              -22.8614122
+            ],
+            [
+              -46.3265953,
+              -22.8612634
+            ],
+            [
+              -46.3268127,
+              -22.8607281
+            ],
+            [
+              -46.3273861,
+              -22.8609208
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5709840708",
+      "properties": {
+        "timestamp": "2018-06-22T00:06:58Z",
+        "version": 1,
+        "changeset": 60059052,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Pronto Socorro Municipal",
+        "id": "node/5709840708"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.3206147,
+          -22.8464164
+        ]
+      }
+    }
+  ]
+}

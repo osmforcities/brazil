@@ -1,0 +1,127 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/934102457",
+      "properties": {
+        "timestamp": "2021-05-04T01:02:19Z",
+        "version": 2,
+        "changeset": 104084244,
+        "addr:city": "Camocim",
+        "addr:postcode": "62400000",
+        "addr:street": "Rua Dr. Raimundo Cals",
+        "addr:suburb": "Cidade com Deus",
+        "amenity": "university",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "IFCE Campus Camocim",
+        "operator": "Ministério da Educação",
+        "operator:type": "public",
+        "id": "way/934102457"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.8610149,
+              -2.8986855
+            ],
+            [
+              -40.8609511,
+              -2.8986719
+            ],
+            [
+              -40.8600976,
+              -2.8984899
+            ],
+            [
+              -40.8600895,
+              -2.8984604
+            ],
+            [
+              -40.8600895,
+              -2.8984122
+            ],
+            [
+              -40.8601802,
+              -2.8981826
+            ],
+            [
+              -40.8605582,
+              -2.8972262
+            ],
+            [
+              -40.8606432,
+              -2.897011
+            ],
+            [
+              -40.8613276,
+              -2.8972445
+            ],
+            [
+              -40.8610149,
+              -2.8986855
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8695432841",
+      "properties": {
+        "timestamp": "2021-05-04T01:02:19Z",
+        "version": 1,
+        "changeset": 104084244,
+        "access": "yes",
+        "entrance": "yes",
+        "id": "node/8695432841"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.8601802,
+          -2.8981826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8695432842",
+      "properties": {
+        "timestamp": "2021-05-04T01:02:19Z",
+        "version": 1,
+        "changeset": 104084244,
+        "entrance": "garage",
+        "id": "node/8695432842"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.8609511,
+          -2.8986719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8695432843",
+      "properties": {
+        "timestamp": "2021-05-04T01:02:19Z",
+        "version": 1,
+        "changeset": 104084244,
+        "entrance": "yes",
+        "id": "node/8695432843"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.8605582,
+          -2.8972262
+        ]
+      }
+    }
+  ]
+}

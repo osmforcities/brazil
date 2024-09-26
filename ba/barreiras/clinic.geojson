@@ -1,0 +1,164 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1040659914",
+      "properties": {
+        "timestamp": "2022-03-15T21:30:44Z",
+        "version": 1,
+        "changeset": 118528075,
+        "addr:city": "Barreiras",
+        "addr:street": "Avenida José Bonifácio",
+        "addr:suburb": "São Miguel",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "UPA - 24 HORAS",
+        "id": "way/1040659914"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.9804733,
+              -12.1351075
+            ],
+            [
+              -44.9801343,
+              -12.1356497
+            ],
+            [
+              -44.9796568,
+              -12.1353756
+            ],
+            [
+              -44.9799187,
+              -12.1347822
+            ],
+            [
+              -44.9804733,
+              -12.1351075
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1040763798",
+      "properties": {
+        "timestamp": "2022-12-17T21:40:59Z",
+        "version": 2,
+        "changeset": 130197556,
+        "addr:street": "Rua Conselheiro",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "id": "way/1040763798"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.9570618,
+              -12.1187496
+            ],
+            [
+              -44.9570814,
+              -12.1190074
+            ],
+            [
+              -44.9567988,
+              -12.119028
+            ],
+            [
+              -44.9567792,
+              -12.1187702
+            ],
+            [
+              -44.9570618,
+              -12.1187496
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8656370633",
+      "properties": {
+        "timestamp": "2021-08-04T00:34:06Z",
+        "version": 2,
+        "changeset": 109117600,
+        "addr:city": "Barreiras",
+        "addr:housenumber": "149",
+        "addr:postcode": "47800-041",
+        "addr:street": "Rua 24 de Outubro",
+        "addr:suburb": "Centro",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "trauma;dor;médico_da_dor;psicológo;reumatologista;fisioterapeuta;nutricionista;massoterapia;acupuntura;ortopedista",
+        "name": "Clinica QI - Clínica da Dor",
+        "phone": "+55 77 3611 4758",
+        "wheelchair": "yes",
+        "id": "node/8656370633"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.0007505,
+          -12.147716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8766399244",
+      "properties": {
+        "timestamp": "2021-05-25T23:01:23Z",
+        "version": 1,
+        "changeset": 105318325,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posto Saúde Jardim Vitória",
+        "id": "node/8766399244"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.9664608,
+          -12.1327814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11949925305",
+      "properties": {
+        "timestamp": "2024-06-01T12:16:00Z",
+        "version": 1,
+        "changeset": 152118434,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Gérson Rodrigues do Nascimento",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "operator": "Sistema Único de Saúde",
+        "operator:short": "SUS",
+        "operator:type": "município",
+        "operator:wikidata": "Q7531056",
+        "id": "node/11949925305"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.9101754,
+          -12.1400218
+        ]
+      }
+    }
+  ]
+}

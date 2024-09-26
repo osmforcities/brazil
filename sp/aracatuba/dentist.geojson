@@ -1,0 +1,97 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1311583972",
+      "properties": {
+        "timestamp": "2024-08-27T17:55:21Z",
+        "version": 1,
+        "changeset": 155845123,
+        "addr:housenumber": "2101",
+        "addr:street": "Avenida dos Araçás",
+        "addr:suburb": "Centro",
+        "amenity": "dentist",
+        "building": "yes",
+        "healthcare": "dentist",
+        "mobile": "+55 18 99605 7253",
+        "name": "Espaço Sorrir",
+        "phone": "+55 18 3608 6333",
+        "id": "way/1311583972"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -50.4428916,
+              -21.2064018
+            ],
+            [
+              -50.4428532,
+              -21.2064526
+            ],
+            [
+              -50.4427278,
+              -21.2063678
+            ],
+            [
+              -50.4427784,
+              -21.2063264
+            ],
+            [
+              -50.4428916,
+              -21.2064018
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11654734235",
+      "properties": {
+        "timestamp": "2024-02-23T00:33:08Z",
+        "version": 1,
+        "changeset": 147793609,
+        "addr:city": "Araçatuba",
+        "addr:housenumber": "50",
+        "addr:street": "Rua Rosa Cury",
+        "addr:suburb": "São Joaquim",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "Pronto-socorro odontológico",
+        "operator": "Prefeitura Municipal de Araçatuba",
+        "id": "node/11654734235"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4376287,
+          -21.2009584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11806567012",
+      "properties": {
+        "timestamp": "2024-04-10T07:13:30Z",
+        "version": 1,
+        "changeset": 149805568,
+        "addr:housenumber": "485",
+        "addr:street": "Rua Rio de Janeiro",
+        "amenity": "dentist",
+        "name": "Dr. Leonardo Delanora e Dra Nathália Januario",
+        "id": "node/11806567012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4297589,
+          -21.2081225
+        ]
+      }
+    }
+  ]
+}

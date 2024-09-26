@@ -1,0 +1,86 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/9563384660",
+      "properties": {
+        "timestamp": "2022-03-08T19:39:10Z",
+        "version": 1,
+        "changeset": 118250190,
+        "addr:street": "Avenida Manoel Maciano",
+        "addr:suburb": "Centro",
+        "government": "social_security",
+        "name": "Instituto Nacional do Seguro Social - INSS (São José da Tapera)",
+        "office": "government",
+        "opening_hours": "Mo-Fr 07:00-15:00",
+        "operator": "Instituto Nacional do Seguro Social",
+        "operator:short": "INSS",
+        "operator:wikidata": "Q10302614",
+        "operator:wikipedia": "pt:Instituto Nacional do Seguro Social",
+        "id": "node/9563384660"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.377123,
+          -9.5531132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9614201868",
+      "properties": {
+        "timestamp": "2022-03-28T16:45:24Z",
+        "version": 1,
+        "changeset": 119030280,
+        "addr:city": "São José da Tapera",
+        "addr:housenumber": "1",
+        "addr:postcode": "57445-000",
+        "addr:street": "Rua 1 de Maio",
+        "email": "sjtapera@saude.al.gov.br",
+        "government": "healthcare",
+        "name": "Secretaria Municipal de Saúde",
+        "office": "government",
+        "opening_hours": "Mo-Fr 07:00-13:00",
+        "source": "mapa_acolhimento",
+        "id": "node/9614201868"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.3814666,
+          -9.565438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9614201869",
+      "properties": {
+        "timestamp": "2022-03-28T16:45:24Z",
+        "version": 1,
+        "changeset": 119030280,
+        "addr:city": "São José da Tapera",
+        "addr:housenumber": "220",
+        "addr:postcode": "57445-000",
+        "addr:street": "Avenida Manoel Maciano",
+        "addr:suburb": "Centro",
+        "government": "police",
+        "name": "Centro Integrado de Segurança Pública - São José Da Tapera",
+        "office": "government",
+        "opening_hours": "24/7",
+        "source": "mapa_acolhimento",
+        "id": "node/9614201869"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.3758392,
+          -9.5530175
+        ]
+      }
+    }
+  ]
+}

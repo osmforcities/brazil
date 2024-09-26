@@ -1,0 +1,99 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/729923068",
+      "properties": {
+        "timestamp": "2019-09-30T13:24:09Z",
+        "version": 1,
+        "changeset": 75101410,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "dentistry;community;general;emergency",
+        "id": "way/729923068"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.4717411,
+              -17.4868986
+            ],
+            [
+              -40.4716632,
+              -17.4869778
+            ],
+            [
+              -40.471544,
+              -17.486841
+            ],
+            [
+              -40.471615,
+              -17.4867783
+            ],
+            [
+              -40.4717411,
+              -17.4868986
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10983312511",
+      "properties": {
+        "timestamp": "2023-06-18T01:33:05Z",
+        "version": 1,
+        "changeset": 137464423,
+        "addr:city": "Medeiros Neto",
+        "addr:postcode": "45960-000",
+        "addr:street": "Avenida Aracy Alves Pinto",
+        "addr:suburb": "Uldurico Pinto",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Unidade de Saúde Um Newton de Farias",
+        "operator": "Município de Medeiros Neto",
+        "operator:type": "public",
+        "id": "node/10983312511"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.2277734,
+          -17.3882274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10983844044",
+      "properties": {
+        "timestamp": "2023-06-18T11:46:04Z",
+        "version": 1,
+        "changeset": 137475624,
+        "addr:city": "Medeiros Neto",
+        "addr:postcode": "45960-000",
+        "addr:street": "Avenida Presidente Médici",
+        "addr:suburb": "Centro",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "physiotherapy;osteopathy",
+        "name": "Unidade Integrada de Reabilitação Municipal",
+        "operator": "Município de Medeiros Neto",
+        "operator:type": "public",
+        "id": "node/10983844044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.221704,
+          -17.3714649
+        ]
+      }
+    }
+  ]
+}

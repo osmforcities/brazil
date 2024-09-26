@@ -1,0 +1,108 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/438479400",
+      "properties": {
+        "timestamp": "2019-12-27T22:34:55Z",
+        "version": 4,
+        "changeset": 78943469,
+        "amenity": "drinking_water",
+        "name": "Entrada",
+        "id": "way/438479400"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -45.1853794,
+              -22.8039722
+            ],
+            [
+              -45.1853243,
+              -22.8039615
+            ],
+            [
+              -45.1853452,
+              -22.8038701
+            ],
+            [
+              -45.1853653,
+              -22.8037822
+            ],
+            [
+              -45.1854203,
+              -22.8037929
+            ],
+            [
+              -45.1853997,
+              -22.803883
+            ],
+            [
+              -45.1853794,
+              -22.8039722
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7089810804",
+      "properties": {
+        "timestamp": "2019-12-27T22:34:55Z",
+        "version": 1,
+        "changeset": 78943469,
+        "entrance": "main",
+        "id": "node/7089810804"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.1853997,
+          -22.803883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9503283200",
+      "properties": {
+        "timestamp": "2022-02-13T19:31:59Z",
+        "version": 1,
+        "changeset": 117366799,
+        "amenity": "drinking_water",
+        "operator": "Bica d'agua",
+        "id": "node/9503283200"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.4172659,
+          -22.7151682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9503283201",
+      "properties": {
+        "timestamp": "2022-03-24T08:48:48Z",
+        "version": 2,
+        "changeset": 118853421,
+        "amenity": "drinking_water",
+        "operator": "Gruta de São Peregrino",
+        "id": "node/9503283201"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.4092837,
+          -22.7205568
+        ]
+      }
+    }
+  ]
+}

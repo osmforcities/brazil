@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/608476123",
+      "properties": {
+        "timestamp": "2018-07-17T01:40:48Z",
+        "version": 1,
+        "changeset": 60779488,
+        "name": "Wilson Park Hotel",
+        "source": "IBGE",
+        "tourism": "hotel",
+        "id": "way/608476123"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -53.3097142,
+              -27.9151289
+            ],
+            [
+              -53.3098161,
+              -27.9161811
+            ],
+            [
+              -53.3091268,
+              -27.9162332
+            ],
+            [
+              -53.3090249,
+              -27.915181
+            ],
+            [
+              -53.3097142,
+              -27.9151289
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5764783292",
+      "properties": {
+        "timestamp": "2018-07-17T01:40:44Z",
+        "version": 1,
+        "changeset": 60779488,
+        "name": "Hotel de Carli",
+        "source": "IBGE",
+        "tourism": "hotel",
+        "id": "node/5764783292"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.3118519,
+          -27.8926816
+        ]
+      }
+    }
+  ]
+}

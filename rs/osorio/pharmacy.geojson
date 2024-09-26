@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/866410031",
+      "properties": {
+        "timestamp": "2021-01-05T13:49:00Z",
+        "version": 3,
+        "changeset": 96984569,
+        "amenity": "pharmacy",
+        "brand": "Panvel",
+        "brand:wikidata": "Q10344254",
+        "brand:wikipedia": "pt:Panvel",
+        "building": "yes",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Panvel",
+        "id": "way/866410031"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -50.0764152,
+              -29.8682036
+            ],
+            [
+              -50.0766327,
+              -29.8681235
+            ],
+            [
+              -50.076672,
+              -29.8682232
+            ],
+            [
+              -50.0766475,
+              -29.8682327
+            ],
+            [
+              -50.0764656,
+              -29.868303
+            ],
+            [
+              -50.0764152,
+              -29.8682036
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8191007485",
+      "properties": {
+        "timestamp": "2020-12-03T14:20:58Z",
+        "version": 1,
+        "changeset": 95232220,
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "id": "node/8191007485"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.0766338,
+          -29.868005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8191550294",
+      "properties": {
+        "timestamp": "2020-12-03T17:33:33Z",
+        "version": 1,
+        "changeset": 95241194,
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmafacil",
+        "id": "node/8191550294"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.0768233,
+          -29.8689531
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1180293117",
+      "properties": {
+        "timestamp": "2023-06-07T20:03:32Z",
+        "version": 1,
+        "changeset": 137070266,
+        "addr:city": "Mirassolândia",
+        "addr:housenumber": "345",
+        "addr:street": "Rua Antônio Batista Rodrigues",
+        "addr:suburb": "Centro",
+        "amenity": "school",
+        "name": "Escola Estadual Joaquim Mendes Pequito",
+        "operator": "Governo do Estado de São Paulo",
+        "operator:type": "government",
+        "operator:wikidata": "Q10290787",
+        "phone": "+55 17 3263 1120",
+        "id": "way/1180293117"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.4650693,
+              -20.6157116
+            ],
+            [
+              -49.464156,
+              -20.6155723
+            ],
+            [
+              -49.4642982,
+              -20.6147062
+            ],
+            [
+              -49.4652236,
+              -20.6148455
+            ],
+            [
+              -49.4650693,
+              -20.6157116
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5372867232",
+      "properties": {
+        "timestamp": "2018-11-03T19:10:32Z",
+        "version": 2,
+        "changeset": 64149103,
+        "addr:city": "Mirassolândia",
+        "addr:housenumber": "665",
+        "addr:street": "Rua Simão Silva Bastos",
+        "addr:suburb": "Centro",
+        "amenity": "school",
+        "name": "Emef Chrisostimo Redigolo",
+        "official_name": "Escola Municipal de Ensino Fundamental Chrisostimo Redigolo",
+        "operator": "Prefeitura Municipal",
+        "phone": "+55 17 3263 2011",
+        "id": "node/5372867232"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.4656862,
+          -20.6157782
+        ]
+      }
+    }
+  ]
+}

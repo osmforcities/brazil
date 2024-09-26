@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/472157937",
+      "properties": {
+        "timestamp": "2017-05-01T17:49:04Z",
+        "version": 2,
+        "changeset": 48313928,
+        "addr:city": "Nova Granada",
+        "addr:housenumber": "900",
+        "addr:street": "Avenida Sete de Setembro",
+        "addr:suburb": "Centro",
+        "building": "yes",
+        "name": "Toni Bike",
+        "phone": "+55 17 3262 2358",
+        "shop": "bicycle",
+        "id": "way/472157937"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.3196634,
+              -20.5321831
+            ],
+            [
+              -49.3197093,
+              -20.5322145
+            ],
+            [
+              -49.3196523,
+              -20.5322874
+            ],
+            [
+              -49.3196064,
+              -20.5322559
+            ],
+            [
+              -49.3196634,
+              -20.5321831
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3342531017",
+      "properties": {
+        "timestamp": "2018-11-02T19:41:02Z",
+        "version": 3,
+        "changeset": 64125515,
+        "addr:city": "Nova Granada",
+        "addr:housenumber": "900",
+        "addr:postcode": "15440-000",
+        "addr:street": "Rua Theóphilo Mansur",
+        "addr:suburb": "Centro",
+        "name": "Bike Nova",
+        "phone": "+55 17 3262 1790",
+        "shop": "bicycle",
+        "id": "node/3342531017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.3177202,
+          -20.5284932
+        ]
+      }
+    }
+  ]
+}

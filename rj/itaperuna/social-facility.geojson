@@ -1,0 +1,145 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/583791098",
+      "properties": {
+        "timestamp": "2018-04-26T20:02:54Z",
+        "version": 1,
+        "changeset": 58456011,
+        "amenity": "social_facility",
+        "building": "yes",
+        "description": "Asilo e casa de repouso para a terceira idade.",
+        "name": "Associação da Melhor Idade de Itaperuna",
+        "phone": "+55 22 3822 0004",
+        "social_facility": "group_home",
+        "social_facility:for": "senior",
+        "id": "way/583791098"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.888508,
+              -21.2011717
+            ],
+            [
+              -41.8885449,
+              -21.2011083
+            ],
+            [
+              -41.8886807,
+              -21.2011769
+            ],
+            [
+              -41.8886438,
+              -21.2012404
+            ],
+            [
+              -41.888508,
+              -21.2011717
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1279353553",
+      "properties": {
+        "timestamp": "2024-05-03T13:58:21Z",
+        "version": 1,
+        "changeset": 150839361,
+        "addr:city": "Itaperuna",
+        "addr:housenumber": "725",
+        "addr:postcode": "28300-000",
+        "addr:street": "Rua José Bonifácio",
+        "addr:suburb": "Boa Fortuna",
+        "amenity": "social_facility",
+        "name": "Associação Padre Humberto Lindelauf",
+        "operator": "Associação Padre Humberto Lindelauf",
+        "operator:type": "religious",
+        "id": "way/1279353553"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.8673377,
+              -21.2067274
+            ],
+            [
+              -41.8671526,
+              -21.2077901
+            ],
+            [
+              -41.8665572,
+              -21.2076626
+            ],
+            [
+              -41.8668093,
+              -21.2066073
+            ],
+            [
+              -41.8673377,
+              -21.2067274
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5579742898",
+      "properties": {
+        "timestamp": "2024-05-09T16:41:05Z",
+        "version": 4,
+        "changeset": 151109692,
+        "addr:city": "Itaperuna",
+        "addr:postcode": "28300-000",
+        "addr:street": "Rua Vinhosa",
+        "amenity": "social_facility",
+        "description": "A Associação de Voluntários Com Vida oferece suporte a pacientes oncológicos.",
+        "name": "Associação de Voluntários Com Vida",
+        "phone": "+55 22 3823 1183",
+        "social_facility": "group_home",
+        "social_facility:for": "terminally_ill",
+        "wheelchair": "yes",
+        "id": "node/5579742898"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.8878033,
+          -21.2011361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11868593820",
+      "properties": {
+        "timestamp": "2024-04-30T09:49:36Z",
+        "version": 1,
+        "changeset": 150698484,
+        "alt_name": "Centro de Referência Especializado de Assistência Social",
+        "amenity": "social_facility",
+        "name": "CREAS Itaperuna",
+        "social_facility": "outreach",
+        "social_facility:for": "underprivileged;abused;victim",
+        "wheelchair": "yes",
+        "id": "node/11868593820"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.8864106,
+          -21.2095762
+        ]
+      }
+    }
+  ]
+}

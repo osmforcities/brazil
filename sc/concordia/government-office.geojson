@@ -1,0 +1,107 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/375253487",
+      "properties": {
+        "timestamp": "2018-01-04T15:49:03Z",
+        "version": 3,
+        "changeset": 55161591,
+        "building": "civic",
+        "building:levels": "2",
+        "government": "legislative",
+        "name": "Câmara Municipal de Vereadores de Concórdia",
+        "office": "government",
+        "id": "way/375253487"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -52.0235976,
+              -27.2322182
+            ],
+            [
+              -52.0235308,
+              -27.232304
+            ],
+            [
+              -52.023321,
+              -27.2321748
+            ],
+            [
+              -52.0234348,
+              -27.2320288
+            ],
+            [
+              -52.0235181,
+              -27.2320802
+            ],
+            [
+              -52.0234712,
+              -27.2321404
+            ],
+            [
+              -52.0235976,
+              -27.2322182
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6488643070",
+      "properties": {
+        "timestamp": "2019-05-21T16:15:46Z",
+        "version": 1,
+        "changeset": 70484779,
+        "government": "public_service",
+        "name": "Centro de Visitantes do Parque Estadual Fritz Plaumann",
+        "office": "government",
+        "id": "node/6488643070"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.1144139,
+          -27.29059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9989685057",
+      "properties": {
+        "timestamp": "2022-09-22T14:46:08Z",
+        "version": 4,
+        "changeset": 126508635,
+        "addr:housenumber": "319",
+        "addr:street": "Rua da Independência",
+        "alt_name": "6º/3ª/2ºPBM;SAT;Seção de Atividades Técnicas",
+        "contact:phone": "+55 49 3482-6206",
+        "contact:website": "https://www.cbm.sc.gov.br/",
+        "government": "fire_service",
+        "name": "Serviço de Segurança Contra Incêndio",
+        "office": "government",
+        "operator": "Corpo de Bombeiros Militar de Santa Catarina",
+        "operator:short": "CBMSC",
+        "operator:type": "public",
+        "operator:wikidata": "Q768967",
+        "owner": "Governo do Estado de Santa Catarina",
+        "ownership": "state",
+        "short_name": "SSCI",
+        "id": "node/9989685057"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.0166708,
+          -27.2290662
+        ]
+      }
+    }
+  ]
+}

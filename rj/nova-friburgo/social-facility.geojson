@@ -1,0 +1,72 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/569132972",
+      "properties": {
+        "timestamp": "2018-03-12T22:14:34Z",
+        "version": 1,
+        "changeset": 57126274,
+        "addr:city": "Nova Friburgo",
+        "addr:housenumber": "8",
+        "addr:postcode": "28600000",
+        "addr:street": "Rua Antenor Fernandes de Souza",
+        "addr:suburb": "Conselheiro Paulino",
+        "amenity": "social_facility",
+        "building": "yes",
+        "name": "CRAS Conselheiro Paulino – Nova Friburgo",
+        "operator": "Municipal",
+        "id": "way/569132972"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.5214471,
+              -22.2310183
+            ],
+            [
+              -42.5214441,
+              -22.2312984
+            ],
+            [
+              -42.5212361,
+              -22.2313101
+            ],
+            [
+              -42.5212448,
+              -22.2310154
+            ],
+            [
+              -42.5214471,
+              -22.2310183
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11880036417",
+      "properties": {
+        "timestamp": "2024-05-04T23:11:34Z",
+        "version": 1,
+        "changeset": 150900782,
+        "amenity": "social_facility",
+        "name": "Villevive Hotel Residência para Idosos",
+        "social_facility": "nursing_home",
+        "social_facility:for": "senior",
+        "id": "node/11880036417"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.6391058,
+          -22.2403428
+        ]
+      }
+    }
+  ]
+}

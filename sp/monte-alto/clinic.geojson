@@ -1,0 +1,120 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/926032370",
+      "properties": {
+        "timestamp": "2021-04-05T01:12:46Z",
+        "version": 1,
+        "changeset": 102291805,
+        "addr:housenumber": "13",
+        "addr:postcode": "15910-000",
+        "addr:street": "Rua Wady Elias",
+        "addr:suburb": "Jardim Alvorada",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "USF João Thiago de Camargo",
+        "opening_hours": "Mo-Fr 07:00-16:00; Sa,Su,PH off",
+        "phone": "+55 16 3242 3878",
+        "id": "way/926032370"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.478808,
+              -21.2507849
+            ],
+            [
+              -48.4785051,
+              -21.2506639
+            ],
+            [
+              -48.4787189,
+              -21.2504148
+            ],
+            [
+              -48.4788054,
+              -21.2504623
+            ],
+            [
+              -48.4788602,
+              -21.2504967
+            ],
+            [
+              -48.4788894,
+              -21.2505133
+            ],
+            [
+              -48.4789238,
+              -21.25055
+            ],
+            [
+              -48.4789085,
+              -21.2506319
+            ],
+            [
+              -48.478808,
+              -21.2507849
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5852346763",
+      "properties": {
+        "timestamp": "2018-08-23T22:57:00Z",
+        "version": 1,
+        "changeset": 61935304,
+        "addr:city": "Monte Alto",
+        "addr:postcode": "15910000",
+        "addr:street": "Rua Duque de Caxias",
+        "addr:suburb": "Vila Municipal",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "UBS Unidade Saúde da Família \"Ezídio Pelloso\"",
+        "operator": "Prefeitura Municipal de Monte Alto",
+        "id": "node/5852346763"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.4982883,
+          -21.258115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11925109511",
+      "properties": {
+        "timestamp": "2024-08-14T00:07:40Z",
+        "version": 3,
+        "changeset": 155218047,
+        "addr:city": "Monta Alto",
+        "addr:housenumber": "1104",
+        "addr:postcode": "15910000",
+        "addr:street": "Avenida Marechal Deodoro da Fonseca",
+        "addr:suburb": "Jardim Pizarro",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general;ophthalmology;emergency;physiatry",
+        "name": "Clínica Pró Saúde",
+        "opening_hours": "Mo-Fr 07:00-18:00",
+        "phone": "01632423063",
+        "id": "node/11925109511"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.5072115,
+          -21.26712
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/629080052",
+      "properties": {
+        "timestamp": "2024-08-18T13:48:36Z",
+        "version": 2,
+        "changeset": 155416170,
+        "addr:city": "Formosa do Sul",
+        "addr:housenumber": "351",
+        "addr:postcode": "89859-000",
+        "addr:street": "Avenida Getúlio Vargas",
+        "addr:suburb": "Centro",
+        "building": "yes",
+        "name": "Hotel e Restaurante Gris",
+        "tourism": "hotel",
+        "id": "way/629080052"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -52.7927538,
+              -26.6480992
+            ],
+            [
+              -52.7927418,
+              -26.6482492
+            ],
+            [
+              -52.7925175,
+              -26.6482349
+            ],
+            [
+              -52.7925295,
+              -26.6480849
+            ],
+            [
+              -52.7927538,
+              -26.6480992
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2938354736",
+      "properties": {
+        "timestamp": "2019-01-18T23:43:51Z",
+        "version": 4,
+        "changeset": 66442756,
+        "addr:street": "Rodovia Engenheiro Félix Malburg",
+        "building": "hotel",
+        "name": "Hotel Formosa",
+        "phone": "+55 49 3343-0052",
+        "tourism": "hotel",
+        "id": "node/2938354736"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.7970706,
+          -26.6493282
+        ]
+      }
+    }
+  ]
+}

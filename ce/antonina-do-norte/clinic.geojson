@@ -1,0 +1,94 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/518860728",
+      "properties": {
+        "timestamp": "2021-10-23T21:03:43Z",
+        "version": 2,
+        "changeset": 112887699,
+        "addr:city": "Antonina do Norte",
+        "addr:hamlet": "Luziana",
+        "amenity": "clinic",
+        "building": "yes",
+        "name": "Posto de Saúde de Vila Luziana",
+        "id": "way/518860728"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.0645277,
+              -6.7715664
+            ],
+            [
+              -40.0644428,
+              -6.7716907
+            ],
+            [
+              -40.0643585,
+              -6.771634
+            ],
+            [
+              -40.0644435,
+              -6.7715096
+            ],
+            [
+              -40.0645277,
+              -6.7715664
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9196429566",
+      "properties": {
+        "timestamp": "2021-10-23T21:03:43Z",
+        "version": 1,
+        "changeset": 112887699,
+        "addr:city": "Antonina do Norte",
+        "addr:district": "Taboleiro",
+        "addr:housenumber": "8",
+        "addr:street": "CE-371",
+        "amenity": "clinic",
+        "name": "Posto de Saúde de Taboleiro",
+        "id": "node/9196429566"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.9557036,
+          -6.7370227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9196429611",
+      "properties": {
+        "timestamp": "2021-10-23T21:03:43Z",
+        "version": 1,
+        "changeset": 112887699,
+        "addr:city": "Antonina do Norte",
+        "addr:housenumber": "126",
+        "addr:street": "Rua Roseno de Matos",
+        "addr:suburb": "Centro",
+        "amenity": "clinic",
+        "name": "Centro de Saúde de Antonina do Norte",
+        "website": "http://cnes.datasus.gov.br/Exibe_Ficha_Estabelecimento.asp?VCo_Unidade=2300802562901&VEstado=23&VCodMunicipio=230080",
+        "id": "node/9196429611"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.9870774,
+          -6.7748935
+        ]
+      }
+    }
+  ]
+}

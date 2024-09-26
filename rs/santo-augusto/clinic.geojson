@@ -1,0 +1,126 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/976974295",
+      "properties": {
+        "timestamp": "2023-07-21T05:03:34Z",
+        "version": 2,
+        "changeset": 138793352,
+        "addr:city": "Santo Augusto",
+        "addr:housenumber": "1187",
+        "addr:postcode": "98590-000",
+        "addr:street": "Rua da Floresta",
+        "addr:suburb": "Centro",
+        "amenity": "clinic",
+        "building": "yes",
+        "email": "sms@santoaugusto.rs.gov.br",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general;vaccination",
+        "name": "Secretaria Municipal de Saúde",
+        "operator:ref:vatin": "BR87613105000102",
+        "phone": "+55 55 3781 1512",
+        "ref:CNES": "2260263",
+        "id": "way/976974295"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -53.7808035,
+              -27.8537111
+            ],
+            [
+              -53.7803958,
+              -27.8538439
+            ],
+            [
+              -53.780259,
+              -27.8534905
+            ],
+            [
+              -53.7806882,
+              -27.8533791
+            ],
+            [
+              -53.7808035,
+              -27.8537111
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/976974297",
+      "properties": {
+        "timestamp": "2021-08-27T13:25:12Z",
+        "version": 1,
+        "changeset": 110342940,
+        "addr:city": "Santo Augusto",
+        "addr:postcode": "98590000",
+        "addr:street": "Rua Dona Sinhá",
+        "addr:suburb": "Ciep",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "Posto de Saúde CIEP - Santo Augusto",
+        "id": "way/976974297"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -53.7772979,
+              -27.835511
+            ],
+            [
+              -53.7771369,
+              -27.8361467
+            ],
+            [
+              -53.7762464,
+              -27.8360518
+            ],
+            [
+              -53.7763537,
+              -27.8352216
+            ],
+            [
+              -53.7772979,
+              -27.835511
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9040874581",
+      "properties": {
+        "timestamp": "2021-08-27T13:25:12Z",
+        "version": 1,
+        "changeset": 110342940,
+        "addr:city": "Santo Augusto",
+        "addr:housenumber": "62-118",
+        "addr:postcode": "98590000",
+        "addr:street": "Rua Jardim",
+        "addr:suburb": "Ciep",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Unidade de Saúde Ubs",
+        "id": "node/9040874581"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.7760694,
+          -27.8364455
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1298673073",
+      "properties": {
+        "timestamp": "2024-07-03T00:43:25Z",
+        "version": 1,
+        "changeset": 153480540,
+        "material": "concrete",
+        "name": "Barragem da Central Geradora Hidrelétrica Quaresmeira",
+        "operator": "Quaresmeira Energia S.A.",
+        "waterway": "dam",
+        "id": "way/1298673073"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.3552985,
+            -20.8650165
+          ],
+          [
+            -42.355232,
+            -20.865016
+          ],
+          [
+            -42.3551901,
+            -20.8650156
+          ],
+          [
+            -42.3551689,
+            -20.8649844
+          ],
+          [
+            -42.3551397,
+            -20.8649414
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1298673079",
+      "properties": {
+        "timestamp": "2024-07-04T17:42:22Z",
+        "version": 2,
+        "changeset": 153558413,
+        "name": "Barragem da Central Geradora Hidrelétrica Miradouro",
+        "operator": "Liberum Energia",
+        "waterway": "dam",
+        "id": "way/1298673079"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.3825604,
+            -20.8555796
+          ],
+          [
+            -42.3826937,
+            -20.8555171
+          ],
+          [
+            -42.3828079,
+            -20.8554618
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12030151503",
+      "properties": {
+        "timestamp": "2024-07-03T00:43:25Z",
+        "version": 1,
+        "changeset": 153480540,
+        "waterway": "weir",
+        "id": "node/12030151503"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.355232,
+          -20.865016
+        ]
+      }
+    }
+  ]
+}

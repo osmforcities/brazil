@@ -1,0 +1,138 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1167851076",
+      "properties": {
+        "timestamp": "2023-05-01T23:17:48Z",
+        "version": 1,
+        "changeset": 135594002,
+        "addr:street": "Avenida General Antônio Sebastião Basílio Pirro",
+        "building": "yes",
+        "government": "administrative",
+        "name": "Secretaria da Administração",
+        "office": "government",
+        "id": "way/1167851076"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -37.0380987,
+              -10.9076999
+            ],
+            [
+              -37.0381517,
+              -10.907703
+            ],
+            [
+              -37.0381432,
+              -10.9078112
+            ],
+            [
+              -37.0380913,
+              -10.9078029
+            ],
+            [
+              -37.0380987,
+              -10.9076999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1201175486",
+      "properties": {
+        "timestamp": "2023-08-22T19:49:04Z",
+        "version": 1,
+        "changeset": 140244596,
+        "building": "yes",
+        "government": "administrative",
+        "name": "SMTT",
+        "office": "government",
+        "id": "way/1201175486"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -37.0259439,
+              -10.9092214
+            ],
+            [
+              -37.0259111,
+              -10.9092989
+            ],
+            [
+              -37.0256187,
+              -10.9092222
+            ],
+            [
+              -37.0256611,
+              -10.9091309
+            ],
+            [
+              -37.0257967,
+              -10.9091739
+            ],
+            [
+              -37.0259439,
+              -10.9092214
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10860497986",
+      "properties": {
+        "timestamp": "2023-05-01T16:43:05Z",
+        "version": 2,
+        "changeset": 135582564,
+        "addr:housenumber": "436",
+        "addr:street": "Avenida General Antônio Sebastião Basílio Pirro",
+        "addr:suburb": "Centro",
+        "government": "register_office",
+        "name": "Cartório do 1º Ofício",
+        "office": "government",
+        "opening_hours": "Mo-Fr 08:00-16:00; Sa,Su,PH off",
+        "id": "node/10860497986"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.0340054,
+          -10.9073313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10860498000",
+      "properties": {
+        "timestamp": "2023-05-01T16:43:05Z",
+        "version": 2,
+        "changeset": 135582564,
+        "addr:street": "Rua Manoel Correia da Silva",
+        "addr:suburb": "Centro",
+        "government": "register_office",
+        "name": "Cartório do 2º Ofício",
+        "office": "government",
+        "id": "node/10860498000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.0339865,
+          -10.9073732
+        ]
+      }
+    }
+  ]
+}

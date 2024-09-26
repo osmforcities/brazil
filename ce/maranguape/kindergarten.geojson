@@ -1,0 +1,145 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "relation/7968427",
+      "properties": {
+        "timestamp": "2021-06-21T03:42:59Z",
+        "version": 2,
+        "changeset": 106687409,
+        "amenity": "kindergarten",
+        "name": "Creche Cônego Raimundo Pinto de Albuquerque",
+        "type": "multipolygon",
+        "id": "relation/7968427"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.667235,
+              -3.873333
+            ],
+            [
+              -38.6673439,
+              -3.8734514
+            ],
+            [
+              -38.6672587,
+              -3.8735283
+            ],
+            [
+              -38.6672797,
+              -3.8735493
+            ],
+            [
+              -38.6670505,
+              -3.873783
+            ],
+            [
+              -38.6669135,
+              -3.8736324
+            ],
+            [
+              -38.6670165,
+              -3.8735379
+            ],
+            [
+              -38.667235,
+              -3.873333
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/374174254",
+      "properties": {
+        "timestamp": "2018-02-02T16:24:02Z",
+        "version": 2,
+        "changeset": 56000743,
+        "barrier": "wall",
+        "height": "3",
+        "wall": "brick",
+        "id": "way/374174254"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -38.667235,
+            -3.873333
+          ],
+          [
+            -38.6670165,
+            -3.8735379
+          ],
+          [
+            -38.6669135,
+            -3.8736324
+          ],
+          [
+            -38.6670505,
+            -3.873783
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/558017207",
+      "properties": {
+        "timestamp": "2018-02-02T16:24:02Z",
+        "version": 1,
+        "changeset": 56000743,
+        "barrier": "wall",
+        "id": "way/558017207"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -38.667235,
+            -3.873333
+          ],
+          [
+            -38.6673439,
+            -3.8734514
+          ],
+          [
+            -38.6672587,
+            -3.8735283
+          ],
+          [
+            -38.6672797,
+            -3.8735493
+          ],
+          [
+            -38.6670505,
+            -3.873783
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5380915811",
+      "properties": {
+        "timestamp": "2018-02-02T16:24:01Z",
+        "version": 1,
+        "changeset": 56000743,
+        "entrance": "yes",
+        "id": "node/5380915811"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.6670165,
+          -3.8735379
+        ]
+      }
+    }
+  ]
+}

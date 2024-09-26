@@ -1,0 +1,96 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/720090009",
+      "properties": {
+        "timestamp": "2021-03-21T20:32:37Z",
+        "version": 2,
+        "changeset": 101456472,
+        "amenity": "clinic",
+        "building": "house",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Posto de Saúde São Francisco",
+        "operator:type": "public",
+        "id": "way/720090009"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -36.4192676,
+              -9.364898
+            ],
+            [
+              -36.4192683,
+              -9.3648049
+            ],
+            [
+              -36.419317,
+              -9.3648053
+            ],
+            [
+              -36.4193168,
+              -9.3648376
+            ],
+            [
+              -36.4193677,
+              -9.364838
+            ],
+            [
+              -36.4193672,
+              -9.3648987
+            ],
+            [
+              -36.4192676,
+              -9.364898
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6758534345",
+      "properties": {
+        "timestamp": "2019-08-30T04:08:54Z",
+        "version": 1,
+        "changeset": 73904351,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "id": "node/6758534345"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.4193497,
+          -9.3648457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6758534346",
+      "properties": {
+        "timestamp": "2019-08-30T04:08:54Z",
+        "version": 1,
+        "changeset": 73904351,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Posto  de Saúde São Francisco",
+        "id": "node/6758534346"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.419347,
+          -9.3648411
+        ]
+      }
+    }
+  ]
+}

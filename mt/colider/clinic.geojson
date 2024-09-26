@@ -1,0 +1,127 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/389374004",
+      "properties": {
+        "timestamp": "2019-03-18T15:55:28Z",
+        "version": 2,
+        "changeset": 68263091,
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "Unidade de Saúde - SESP",
+        "id": "way/389374004"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -55.4565527,
+              -10.8020395
+            ],
+            [
+              -55.456965,
+              -10.8022782
+            ],
+            [
+              -55.456774,
+              -10.8025966
+            ],
+            [
+              -55.4563617,
+              -10.8023579
+            ],
+            [
+              -55.4565527,
+              -10.8020395
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/817398015",
+      "properties": {
+        "timestamp": "2020-06-19T01:37:51Z",
+        "version": 1,
+        "changeset": 86847359,
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "Posto de Saúde Perin",
+        "id": "way/817398015"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -55.4551107,
+              -10.8076493
+            ],
+            [
+              -55.4549444,
+              -10.8078984
+            ],
+            [
+              -55.4548029,
+              -10.8078173
+            ],
+            [
+              -55.4549612,
+              -10.8075679
+            ],
+            [
+              -55.4551107,
+              -10.8076493
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7633744019",
+      "properties": {
+        "timestamp": "2020-06-19T01:01:18Z",
+        "version": 1,
+        "changeset": 86846907,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Posto de Saude Perin",
+        "opening_hours": "Mo-Su 08:00-20:00",
+        "id": "node/7633744019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.454956,
+          -10.8077469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7633815181",
+      "properties": {
+        "timestamp": "2020-06-19T01:37:51Z",
+        "version": 1,
+        "changeset": 86847359,
+        "name": "Hospo",
+        "id": "node/7633815181"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.4551107,
+          -10.8076493
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/501400116",
+      "properties": {
+        "timestamp": "2017-06-18T13:36:03Z",
+        "version": 1,
+        "changeset": 49635480,
+        "amenity": "clinic",
+        "building": "yes",
+        "id": "way/501400116"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.2070365,
+              -16.167775
+            ],
+            [
+              -41.2071346,
+              -16.167876
+            ],
+            [
+              -41.2070438,
+              -16.1679573
+            ],
+            [
+              -41.2069457,
+              -16.1678563
+            ],
+            [
+              -41.2070365,
+              -16.167775
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11475659080",
+      "properties": {
+        "timestamp": "2024-01-02T14:14:16Z",
+        "version": 4,
+        "changeset": 145800117,
+        "addr:city": "Jequitinhonha",
+        "addr:housenumber": "600",
+        "addr:postcode": "39960-000",
+        "addr:street": "Rua Bento Quinto",
+        "addr:suburb": "Vaticano",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Centro Estadual de Atenção Especializada de Jequitinhonha",
+        "operator": "Estado de Minas Gerais",
+        "operator:type": "public",
+        "id": "node/11475659080"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.0150167,
+          -16.441383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11478666689",
+      "properties": {
+        "timestamp": "2024-01-02T11:48:24Z",
+        "version": 1,
+        "changeset": 145794642,
+        "addr:city": "Jequitinhonha",
+        "addr:housenumber": "600",
+        "addr:postcode": "39960-000",
+        "addr:street": "Rua Bento Quinto",
+        "addr:suburb": "Vaticano",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "orthodontics",
+        "name": "Centro de Especialidades Odontológicas - Ceo",
+        "operator": "Município de Jequitinhonha",
+        "operator:type": "public",
+        "id": "node/11478666689"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.0149403,
+          -16.4411472
+        ]
+      }
+    }
+  ]
+}

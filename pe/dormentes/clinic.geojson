@@ -1,0 +1,72 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1100812390",
+      "properties": {
+        "timestamp": "2022-10-04T09:55:56Z",
+        "version": 1,
+        "changeset": 126985206,
+        "addr:city": "Dormentes",
+        "addr:postcode": "56355-000",
+        "addr:suburb": "Lagoa de Fora",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "UBS Lagoa de Fora",
+        "operator": "Prefeitura Municipal de Dormentes",
+        "operator:type": "public",
+        "phone": "81 3861-2237",
+        "id": "way/1100812390"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.4811723,
+              -8.543292
+            ],
+            [
+              -40.4812428,
+              -8.543446
+            ],
+            [
+              -40.4811142,
+              -8.5435036
+            ],
+            [
+              -40.4810437,
+              -8.5433496
+            ],
+            [
+              -40.4811723,
+              -8.543292
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6139538895",
+      "properties": {
+        "timestamp": "2018-12-15T21:35:37Z",
+        "version": 1,
+        "changeset": 65510054,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "UBS Lagoas",
+        "id": "node/6139538895"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.4153961,
+          -8.5111818
+        ]
+      }
+    }
+  ]
+}

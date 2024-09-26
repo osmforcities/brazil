@@ -1,0 +1,88 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1167961783",
+      "properties": {
+        "timestamp": "2023-05-02T15:58:21Z",
+        "version": 2,
+        "changeset": 135623178,
+        "addr:city": "Limeira do Oeste",
+        "addr:housenumber": "654",
+        "addr:postcode": "38295000",
+        "addr:street": "Avenida Equador",
+        "addr:suburb": "Joamário",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "USF Francisco Simeão Bezerra",
+        "operator": "Prefeitura Municipal",
+        "operator:type": "government",
+        "phone": "+55 34 3453-1742",
+        "website": "https://sapl.limeiradooeste.mg.leg.br/media/sapl/public/normajuridica/2011/77/77_texto_integral.pdf",
+        "id": "way/1167961783"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -50.5742273,
+              -19.5475655
+            ],
+            [
+              -50.5745448,
+              -19.5479219
+            ],
+            [
+              -50.5744596,
+              -19.5479891
+            ],
+            [
+              -50.5741502,
+              -19.5476337
+            ],
+            [
+              -50.5742273,
+              -19.5475655
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10846855807",
+      "properties": {
+        "timestamp": "2023-09-10T14:04:40Z",
+        "version": 4,
+        "changeset": 141064821,
+        "addr:city": "Limeira do Oeste",
+        "addr:housenumber": "781",
+        "addr:postcode": "38295-000",
+        "addr:street": "Rua Canadá",
+        "addr:suburb": "São João",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general;paediatrics",
+        "name": "UNidade Básica de Saúde Lucélia de Jesus Oliveira Garcia",
+        "opening_hours": "Mo-Fr 07:30-11:30,13:00-17:00; PH off",
+        "operator": "Clinica Municipal",
+        "operator:type": "government",
+        "phone": "+55 34 3453 0700",
+        "ref:CNES": "2166127",
+        "short_name": "UBS Lucélia de Jesus Oliveira Garcia",
+        "source": "CNES",
+        "id": "node/10846855807"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.5831495,
+          -19.5491115
+        ]
+      }
+    }
+  ]
+}

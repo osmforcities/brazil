@@ -1,0 +1,74 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/352331331",
+      "properties": {
+        "timestamp": "2015-06-08T15:34:25Z",
+        "version": 1,
+        "changeset": 31818517,
+        "addr:city": "Pindaí",
+        "addr:street": "Rua Quatro de Abril",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "Hospital Municipal de Pindaí",
+        "operator": "Município",
+        "id": "way/352331331"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.6897717,
+              -14.4902989
+            ],
+            [
+              -42.6892757,
+              -14.4895144
+            ],
+            [
+              -42.6895653,
+              -14.4892936
+            ],
+            [
+              -42.6900321,
+              -14.4899901
+            ],
+            [
+              -42.6898842,
+              -14.4902348
+            ],
+            [
+              -42.6897717,
+              -14.4902989
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3548396837",
+      "properties": {
+        "timestamp": "2020-12-05T01:29:33Z",
+        "version": 2,
+        "changeset": 95320658,
+        "addr:street": "Rua Monteiro Lobato",
+        "amenity": "hospital",
+        "name": "PSF Vereador Franco Plínio Nogueira",
+        "old_name": "Unidade de Saúde da Família",
+        "source": "Lei Municipal 467 de 30 de Abril de 2020",
+        "id": "node/3548396837"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.6155958,
+          -14.4046467
+        ]
+      }
+    }
+  ]
+}

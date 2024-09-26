@@ -1,0 +1,162 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1136541617",
+      "properties": {
+        "timestamp": "2023-02-20T20:18:22Z",
+        "version": 4,
+        "changeset": 132807251,
+        "addr:city": "Muzambinho",
+        "addr:street": "Rua Capitão Heleodoro Mariano",
+        "addr:suburb": "Centro",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Rede Farmácia de Minas Unidade Muzambinho",
+        "opening_hours": "Mo-Sa 08:00-18:00+",
+        "operator": "Governo de Minas",
+        "wheelchair": "yes",
+        "id": "way/1136541617"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.5211114,
+              -21.3683389
+            ],
+            [
+              -46.5211433,
+              -21.3684107
+            ],
+            [
+              -46.5210042,
+              -21.3684642
+            ],
+            [
+              -46.5209864,
+              -21.3684241
+            ],
+            [
+              -46.5209723,
+              -21.3683924
+            ],
+            [
+              -46.5211114,
+              -21.3683389
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10665380806",
+      "properties": {
+        "timestamp": "2023-11-21T15:41:46Z",
+        "version": 4,
+        "changeset": 144292946,
+        "addr:city": "Muzambinho",
+        "addr:housenumber": "86",
+        "addr:postcode": "37890-000",
+        "addr:street": "Rua João Pessoa",
+        "addr:suburb": "Centro",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Nova Farma Júnior",
+        "name:en": "Nova Farma Junior",
+        "phone": "+55 35 35711824",
+        "website": "https://novafarmamuzambinho.com.br/",
+        "id": "node/10665380806"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5219112,
+          -21.3667879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10707726905",
+      "properties": {
+        "timestamp": "2023-03-03T20:24:24Z",
+        "version": 2,
+        "changeset": 133269203,
+        "addr:city": "Muzambinho",
+        "addr:postcode": "37890-000",
+        "addr:street": "Avenida Doutor Américo Luiz",
+        "addr:suburb": "Centro",
+        "amenity": "pharmacy",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Natus Farma",
+        "phone": "+55 35 35712402",
+        "id": "node/10707726905"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5230843,
+          -21.3717752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10707727105",
+      "properties": {
+        "timestamp": "2023-03-03T20:20:27Z",
+        "version": 2,
+        "changeset": 133269079,
+        "addr:city": "Muzambinho",
+        "addr:postcode": "37890000",
+        "addr:street": "Avenida Coronel José Martins",
+        "addr:suburb": "Alto do Anjo",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Farmácia Popular",
+        "id": "node/10707727105"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5254854,
+          -21.3809732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10719369305",
+      "properties": {
+        "timestamp": "2023-03-15T00:01:43Z",
+        "version": 3,
+        "changeset": 133688720,
+        "addr:street": "Praça Pedro Alcantara Magalhães",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "DSG Farma Popular 24Hr",
+        "opening_hours": "24/7",
+        "wheelchair": "yes",
+        "id": "node/10719369305"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5224285,
+          -21.3693406
+        ]
+      }
+    }
+  ]
+}

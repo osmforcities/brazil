@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1148915466",
+      "properties": {
+        "timestamp": "2023-02-23T18:03:47Z",
+        "version": 1,
+        "changeset": 132937947,
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "Unidade Básica de Saúde - ESF II - Distrito do Fronteiro",
+        "id": "way/1148915466"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.8861106,
+              -7.3012142
+            ],
+            [
+              -38.8863013,
+              -7.3012277
+            ],
+            [
+              -38.8862915,
+              -7.3014766
+            ],
+            [
+              -38.8861009,
+              -7.3014746
+            ],
+            [
+              -38.8861106,
+              -7.3012142
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12004729344",
+      "properties": {
+        "timestamp": "2024-06-23T22:40:12Z",
+        "version": 1,
+        "changeset": 153088162,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Cras",
+        "operator": "Prefeitura Municipal de Milagres",
+        "operator:type": "public",
+        "id": "node/12004729344"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.9372308,
+          -7.3413512
+        ]
+      }
+    }
+  ]
+}

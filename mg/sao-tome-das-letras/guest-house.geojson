@@ -1,0 +1,102 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/940592568",
+      "properties": {
+        "timestamp": "2021-05-07T23:41:51Z",
+        "version": 1,
+        "changeset": 104344860,
+        "addr:city": "São Tomé das Letras",
+        "addr:housenumber": "85",
+        "addr:street": "Rua José Cristiano Alves",
+        "addr:suburb": "Centro",
+        "building": "yes",
+        "guest_house": "bed_and_breakfast",
+        "internet_access": "wlan",
+        "name": "Pousada Flor de Cactus",
+        "tourism": "guest_house",
+        "id": "way/940592568"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.9845561,
+              -21.721762
+            ],
+            [
+              -44.9844851,
+              -21.7218701
+            ],
+            [
+              -44.9843551,
+              -21.7217915
+            ],
+            [
+              -44.9844278,
+              -21.7216838
+            ],
+            [
+              -44.9845561,
+              -21.721762
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5760878322",
+      "properties": {
+        "timestamp": "2024-05-13T22:32:32Z",
+        "version": 8,
+        "changeset": 151287971,
+        "addr:city": "São Tomé das Letras",
+        "addr:housenumber": "210",
+        "addr:postcode": "37408000",
+        "addr:street": "Rua Joaquim José Mendes Peixoto",
+        "addr:suburb": "Centro",
+        "check_date:currency:XBT": "2024-05-13",
+        "currency:XBT": "yes",
+        "email": "pousadaecampingcandeia@gmail.com",
+        "internet_access": "wlan",
+        "name": "Pousada & Camping Candeia",
+        "payment:lightning": "yes",
+        "payment:onchain": "yes",
+        "phone": "+55 35 99154 8054",
+        "tourism": "guest_house",
+        "website": "https://www.facebook.com/pousadacampingcandeia",
+        "id": "node/5760878322"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.985128,
+          -21.7210685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11146016105",
+      "properties": {
+        "timestamp": "2023-08-26T11:34:56Z",
+        "version": 1,
+        "changeset": 140407822,
+        "name": "Pousada Renascer",
+        "tourism": "guest_house",
+        "id": "node/11146016105"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.9838151,
+          -21.7207453
+        ]
+      }
+    }
+  ]
+}

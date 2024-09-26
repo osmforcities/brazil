@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "relation/4218305",
+      "properties": {
+        "timestamp": "2014-12-03T00:57:59Z",
+        "version": 3,
+        "changeset": 27191652,
+        "amenity": "kindergarten",
+        "name": "Creche",
+        "type": "multipolygon",
+        "id": "relation/4218305"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.2710792,
+              -15.9482428
+            ],
+            [
+              -48.2709105,
+              -15.9483657
+            ],
+            [
+              -48.2704907,
+              -15.9486634
+            ],
+            [
+              -48.270444,
+              -15.9486463
+            ],
+            [
+              -48.2701648,
+              -15.9474764
+            ],
+            [
+              -48.270614,
+              -15.9471372
+            ],
+            [
+              -48.2710283,
+              -15.947672
+            ],
+            [
+              -48.2713256,
+              -15.9480634
+            ],
+            [
+              -48.2710792,
+              -15.9482428
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2410273837",
+      "properties": {
+        "timestamp": "2014-01-09T18:54:39Z",
+        "version": 2,
+        "changeset": 19905426,
+        "amenity": "kindergarten",
+        "name": "Creche Municipal",
+        "id": "node/2410273837"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3314527,
+          -15.8633937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2412155508",
+      "properties": {
+        "timestamp": "2019-09-04T15:04:39Z",
+        "version": 4,
+        "changeset": 74092914,
+        "amenity": "kindergarten",
+        "name": "Creche Municipal Tia Diza",
+        "operator": "Prefeitura de Santo Antônio do Descoberto",
+        "preschool": "yes",
+        "id": "node/2412155508"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.2601289,
+          -15.9522097
+        ]
+      }
+    }
+  ]
+}

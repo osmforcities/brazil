@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1097005227",
+      "properties": {
+        "timestamp": "2022-09-23T13:24:28Z",
+        "version": 2,
+        "changeset": 126548313,
+        "addr:city": "Charqueadas",
+        "addr:street": "Avenida Santa Bárbara",
+        "amenity": "social_facility",
+        "name": "Casa Lar da Criança",
+        "operator": "Municipio",
+        "operator:type": "public",
+        "social_facility:for": "child",
+        "id": "way/1097005227"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.6262243,
+              -29.9655056
+            ],
+            [
+              -51.6256305,
+              -29.9655685
+            ],
+            [
+              -51.6255962,
+              -29.9653259
+            ],
+            [
+              -51.62619,
+              -29.9652629
+            ],
+            [
+              -51.6262243,
+              -29.9655056
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10045030571",
+      "properties": {
+        "timestamp": "2022-09-23T13:24:28Z",
+        "version": 2,
+        "changeset": 126548313,
+        "addr:city": "Charqueadas",
+        "addr:housenumber": "20",
+        "addr:street": "Rua Largo dos Poetas",
+        "addr:suburb": "Vila Piratini",
+        "amenity": "social_facility",
+        "name": "APAE",
+        "social_facility:for": "exepcionais",
+        "id": "node/10045030571"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.6195118,
+          -29.9670983
+        ]
+      }
+    }
+  ]
+}

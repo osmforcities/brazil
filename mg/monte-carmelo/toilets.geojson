@@ -1,0 +1,140 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/429734469",
+      "properties": {
+        "timestamp": "2016-07-07T18:52:09Z",
+        "version": 1,
+        "changeset": 40551788,
+        "amenity": "toilets",
+        "building": "yes",
+        "id": "way/429734469"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.4207775,
+              -18.7230314
+            ],
+            [
+              -47.4207381,
+              -18.723088
+            ],
+            [
+              -47.4206449,
+              -18.7230314
+            ],
+            [
+              -47.4206857,
+              -18.7229762
+            ],
+            [
+              -47.4207775,
+              -18.7230314
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442947918",
+      "properties": {
+        "timestamp": "2016-09-17T18:21:42Z",
+        "version": 1,
+        "changeset": 42232403,
+        "access": "private",
+        "amenity": "toilets",
+        "building": "yes",
+        "fee": "no",
+        "name": "Vestiários",
+        "operator": "Escola Estadual Professor Vicente Lopes Perez",
+        "unisex": "yes",
+        "id": "way/442947918"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.4946324,
+              -18.7237553
+            ],
+            [
+              -47.4945746,
+              -18.7237545
+            ],
+            [
+              -47.494555,
+              -18.723692
+            ],
+            [
+              -47.4945803,
+              -18.7235409
+            ],
+            [
+              -47.4946633,
+              -18.7235532
+            ],
+            [
+              -47.494621,
+              -18.7237052
+            ],
+            [
+              -47.4946324,
+              -18.7237553
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4405368597",
+      "properties": {
+        "timestamp": "2020-03-27T21:46:35Z",
+        "version": 3,
+        "changeset": 82734597,
+        "amenity": "toilets",
+        "male": "yes",
+        "opening_hours": "24/7",
+        "operator": "Rodoviária",
+        "toilets:disposal": "flush",
+        "id": "node/4405368597"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.5011666,
+          -18.7208698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4406837092",
+      "properties": {
+        "timestamp": "2020-03-27T21:46:35Z",
+        "version": 3,
+        "changeset": 82734597,
+        "amenity": "toilets",
+        "female": "yes",
+        "opening_hours": "24/7",
+        "operator": "Rodoviária",
+        "toilets:disposal": "flush",
+        "id": "node/4406837092"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.5012793,
+          -18.7208941
+        ]
+      }
+    }
+  ]
+}

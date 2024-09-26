@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/318199009",
+      "properties": {
+        "timestamp": "2020-03-05T17:28:35Z",
+        "version": 5,
+        "changeset": 81832840,
+        "access": "yes",
+        "amenity": "toilets",
+        "building": "yes",
+        "name": "Banheiro",
+        "operator": "Posto Perim",
+        "toilets:disposal": "flush",
+        "unisex": "yes",
+        "id": "way/318199009"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.8027214,
+              -18.8571913
+            ],
+            [
+              -41.8025862,
+              -18.857329
+            ],
+            [
+              -41.8024952,
+              -18.857249
+            ],
+            [
+              -41.8026303,
+              -18.8571113
+            ],
+            [
+              -41.8027214,
+              -18.8571913
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4718335745",
+      "properties": {
+        "timestamp": "2020-07-17T14:50:27Z",
+        "version": 2,
+        "changeset": 88148872,
+        "amenity": "toilets",
+        "id": "node/4718335745"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.9162846,
+          -18.886455
+        ]
+      }
+    }
+  ]
+}

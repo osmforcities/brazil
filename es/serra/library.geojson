@@ -1,0 +1,86 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1092449263",
+      "properties": {
+        "timestamp": "2022-09-06T19:10:20Z",
+        "version": 1,
+        "changeset": 125872208,
+        "addr:city": "Serra",
+        "addr:street": "Rua Domingos Martins",
+        "addr:suburb": "Serramar",
+        "amenity": "library",
+        "building": "yes",
+        "name": "Biblioteca da escola Julite",
+        "id": "way/1092449263"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.2008437,
+              -20.0555098
+            ],
+            [
+              -40.2007716,
+              -20.055569
+            ],
+            [
+              -40.2007207,
+              -20.0555174
+            ],
+            [
+              -40.2007939,
+              -20.0554496
+            ],
+            [
+              -40.2008437,
+              -20.0555098
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2220992320",
+      "properties": {
+        "timestamp": "2013-03-25T04:53:54Z",
+        "version": 1,
+        "changeset": 15487099,
+        "amenity": "library",
+        "name": "Biblioteca de Valparaiso",
+        "id": "node/2220992320"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.2602694,
+          -20.1984945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6359035314",
+      "properties": {
+        "timestamp": "2019-03-24T19:49:45Z",
+        "version": 1,
+        "changeset": 68482491,
+        "amenity": "library",
+        "internet_access": "yes",
+        "id": "node/6359035314"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.2173879,
+          -20.1975377
+        ]
+      }
+    }
+  ]
+}

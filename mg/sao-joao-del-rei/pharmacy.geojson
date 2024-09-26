@@ -1,0 +1,158 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/958670926",
+      "properties": {
+        "timestamp": "2021-06-27T19:25:31Z",
+        "version": 1,
+        "changeset": 107048762,
+        "addr:city": "São João del-Rei",
+        "addr:housenumber": "200",
+        "addr:postcode": "36307-330",
+        "addr:street": "Rua Ministro Gabriel Passos",
+        "addr:suburb": "Centro",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Drogarias FarMelhor",
+        "id": "way/958670926"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.2598453,
+              -21.1358632
+            ],
+            [
+              -44.259905,
+              -21.1359026
+            ],
+            [
+              -44.259879,
+              -21.1359369
+            ],
+            [
+              -44.2598193,
+              -21.1358975
+            ],
+            [
+              -44.2598453,
+              -21.1358632
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3208843614",
+      "properties": {
+        "timestamp": "2022-01-30T14:35:10Z",
+        "version": 2,
+        "changeset": 116782932,
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Drogaria São João",
+        "id": "node/3208843614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.2600171,
+          -21.1368278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3209254992",
+      "properties": {
+        "timestamp": "2022-01-30T14:35:10Z",
+        "version": 2,
+        "changeset": 116782932,
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Farmácia Homeopática",
+        "id": "node/3209254992"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.2617645,
+          -21.1361748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4218076806",
+      "properties": {
+        "timestamp": "2022-01-30T14:35:10Z",
+        "version": 2,
+        "changeset": 116782932,
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "id": "node/4218076806"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.240168,
+          -21.1281605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11038110405",
+      "properties": {
+        "timestamp": "2023-09-22T17:59:21Z",
+        "version": 2,
+        "changeset": 141616136,
+        "amenity": "pharmacy",
+        "brand": "Drogaria Araujo",
+        "brand:wikidata": "Q10268807",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Drogaria Araujo",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "id": "node/11038110405"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.2544042,
+          -21.1309343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12109461854",
+      "properties": {
+        "timestamp": "2024-08-14T02:29:02Z",
+        "version": 1,
+        "changeset": 155219617,
+        "amenity": "pharmacy",
+        "brand": "Drogasil",
+        "brand:wikidata": "Q5308185",
+        "healthcare": "pharmacy",
+        "name": "Drogasil",
+        "wheelchair": "yes",
+        "id": "node/12109461854"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.2393716,
+          -21.1289472
+        ]
+      }
+    }
+  ]
+}

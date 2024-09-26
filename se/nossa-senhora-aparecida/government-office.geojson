@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/292494963",
+      "properties": {
+        "timestamp": "2021-03-14T21:48:38Z",
+        "version": 2,
+        "changeset": 101009047,
+        "addr:city": "Nossa Senhora Aparecida",
+        "addr:street": "Rua Espírito Santo",
+        "building": "yes",
+        "government": "public_service",
+        "name": "Unidade de Distribuição Nossa Senhora Aparecida (DESO)",
+        "office": "government",
+        "id": "way/292494963"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -37.4546484,
+              -10.396543
+            ],
+            [
+              -37.4546807,
+              -10.3967827
+            ],
+            [
+              -37.4545482,
+              -10.396801
+            ],
+            [
+              -37.4545105,
+              -10.396564
+            ],
+            [
+              -37.4546484,
+              -10.396543
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8518942696",
+      "properties": {
+        "timestamp": "2021-03-14T21:48:38Z",
+        "version": 1,
+        "changeset": 101009047,
+        "addr:city": "Nossa Senhora Aparecida",
+        "addr:street": "Rua Espírito Santo",
+        "description": "Escritório Comercial de Nossa Senhora Aparecida (DESO)",
+        "government": "public_service",
+        "name": "Unidade de Atendimento",
+        "office": "government",
+        "id": "node/8518942696"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.4545976,
+          -10.3967096
+        ]
+      }
+    }
+  ]
+}

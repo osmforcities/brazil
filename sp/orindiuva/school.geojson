@@ -1,0 +1,100 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/430591544",
+      "properties": {
+        "timestamp": "2022-11-04T17:20:38Z",
+        "version": 5,
+        "changeset": 128493800,
+        "addr:city": "Orindiúva",
+        "addr:postcode": "15480-000",
+        "addr:street": "Avenida José Nunes dos Santos",
+        "addr:suburb": "Centro",
+        "amenity": "school",
+        "email": "e027777a@educacao.sp.gov.br",
+        "name": "Escola Estadual Antônio Marin",
+        "operator": "Governo do Estado de São Paulo",
+        "operator:type": "government",
+        "operator:wikidata": "Q10290787",
+        "phone": "+55 17 3816 1208, +55 17 3816 1212",
+        "ref:INEP": "35027777",
+        "short_name": "E.E. Antônio Marin",
+        "source": "CADMEC 2017",
+        "wheelchair": "yes",
+        "id": "way/430591544"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.3497853,
+              -20.1836169
+            ],
+            [
+              -49.3500428,
+              -20.1839643
+            ],
+            [
+              -49.3493749,
+              -20.184425
+            ],
+            [
+              -49.3491013,
+              -20.1840448
+            ],
+            [
+              -49.3497853,
+              -20.1836169
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4306315086",
+      "properties": {
+        "timestamp": "2018-11-04T19:11:37Z",
+        "version": 2,
+        "changeset": 64175472,
+        "addr:city": "Orindiúva",
+        "addr:state": "SP",
+        "amenity": "school",
+        "name": "Escola Municipal de Ensino Infantil Luiz Adriano da Costa",
+        "operator": "Prefeitura Municipal",
+        "wheelchair": "yes",
+        "id": "node/4306315086"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.3462575,
+          -20.179692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10160084066",
+      "properties": {
+        "timestamp": "2022-11-05T20:21:01Z",
+        "version": 1,
+        "changeset": 128535360,
+        "addr:street": "Rua Horacina Andrade Borges",
+        "amenity": "school",
+        "name": "Escola Municipal Professor Osvaldo Alves Ferreira",
+        "id": "node/10160084066"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.3475631,
+          -20.1788751
+        ]
+      }
+    }
+  ]
+}

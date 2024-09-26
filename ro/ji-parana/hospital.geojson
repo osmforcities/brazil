@@ -1,0 +1,142 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/460741199",
+      "properties": {
+        "timestamp": "2023-05-06T00:40:33Z",
+        "version": 3,
+        "changeset": 135760329,
+        "addr:housenumber": "1300",
+        "addr:postcode": "76907-734",
+        "addr:street": "Avenida Dom Bosco",
+        "addr:suburb": "Dom Bosco",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "CESPE - Hospital Público",
+        "operator:ref:vatin": "BR04092672000125",
+        "ref:CNES": "2495279",
+        "id": "way/460741199"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -61.9492526,
+              -10.8690613
+            ],
+            [
+              -61.9490334,
+              -10.8692092
+            ],
+            [
+              -61.9487182,
+              -10.8694169
+            ],
+            [
+              -61.9482653,
+              -10.8697182
+            ],
+            [
+              -61.947697,
+              -10.8688943
+            ],
+            [
+              -61.9479268,
+              -10.8687414
+            ],
+            [
+              -61.9478538,
+              -10.8686356
+            ],
+            [
+              -61.948877,
+              -10.8679549
+            ],
+            [
+              -61.9491559,
+              -10.8683592
+            ],
+            [
+              -61.9488903,
+              -10.868536
+            ],
+            [
+              -61.9492526,
+              -10.8690613
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4493283392",
+      "properties": {
+        "timestamp": "2024-07-17T19:01:06Z",
+        "version": 4,
+        "changeset": 154071798,
+        "addr:housenumber": "1530",
+        "addr:postcode": "76900-079",
+        "addr:street": "Rua Almirante Barroso",
+        "addr:suburb": "Centro",
+        "alt_name": "HCR",
+        "amenity": "hospital",
+        "email": "sus@hospitalhcr.com.br",
+        "fax": "+55 69 422 2216",
+        "healthcare": "hospital",
+        "name": "Hospital Cândido Rondon",
+        "phone": "+55 69 3422 1545",
+        "ref:CNES": "3152928",
+        "ref:vatin": "BR05549728000190",
+        "id": "node/4493283392"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.948126,
+          -10.8774308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4563450272",
+      "properties": {
+        "timestamp": "2016-12-20T12:18:46Z",
+        "version": 1,
+        "changeset": 44539952,
+        "entrance": "main",
+        "id": "node/4563450272"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.9487182,
+          -10.8694169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4563450273",
+      "properties": {
+        "timestamp": "2024-07-02T21:30:26Z",
+        "version": 2,
+        "changeset": 153477192,
+        "entrance": "yes",
+        "id": "node/4563450273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.9490334,
+          -10.8692092
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/875203740",
+      "properties": {
+        "timestamp": "2020-11-20T15:41:03Z",
+        "version": 1,
+        "changeset": 94510037,
+        "addr:city": "Cabo Frio",
+        "addr:housenumber": "121",
+        "addr:postcode": "28906170",
+        "addr:street": "Rua Barão Rio Branco",
+        "addr:suburb": "Centro",
+        "amenity": "doctors",
+        "building": "yes",
+        "healthcare": "doctor",
+        "healthcare:speciality": "paediatrics;gynaecology;orthopaedics;general",
+        "name": "Centro Médico Clinerp",
+        "opening_hours": "Mo-Fr 08:00-18:00",
+        "id": "way/875203740"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.0139492,
+              -22.8775385
+            ],
+            [
+              -42.0138795,
+              -22.877756
+            ],
+            [
+              -42.013839,
+              -22.8778388
+            ],
+            [
+              -42.0137716,
+              -22.877814
+            ],
+            [
+              -42.0138907,
+              -22.877524
+            ],
+            [
+              -42.0139492,
+              -22.8775385
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7028850286",
+      "properties": {
+        "timestamp": "2019-12-03T14:06:48Z",
+        "version": 1,
+        "changeset": 77882722,
+        "addr:housenumber": "39",
+        "addr:street": "Avenida Júlia Kubitschek",
+        "amenity": "doctors",
+        "name": "Edifício Rivieira",
+        "id": "node/7028850286"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.0276816,
+          -22.8821001
+        ]
+      }
+    }
+  ]
+}

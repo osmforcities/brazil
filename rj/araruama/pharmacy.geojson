@@ -1,0 +1,99 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1131001368",
+      "properties": {
+        "timestamp": "2023-01-11T20:29:23Z",
+        "version": 1,
+        "changeset": 131161186,
+        "addr:city": "Araruama",
+        "addr:housenumber": "26",
+        "addr:street": "Rua Ari Barroso",
+        "addr:suburb": "Centro",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "delivery": "yes",
+        "email": "farmaciaarteemanipulacao@gmail.com",
+        "facebook": "https://pt-br.facebook.com/ARTEEMMANIPULACAO/",
+        "healthcare": "pharmacy",
+        "name": "Arte em Manipulação",
+        "opening_hours": "Mo-Fr 09:00-18:00",
+        "phone": "+55 22 26649274;+55 22 988711426;+55 22 988589275",
+        "id": "way/1131001368"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.3385396,
+              -22.8735501
+            ],
+            [
+              -42.3384383,
+              -22.8736364
+            ],
+            [
+              -42.3383968,
+              -22.8735951
+            ],
+            [
+              -42.3384982,
+              -22.8735088
+            ],
+            [
+              -42.3385396,
+              -22.8735501
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3338369639",
+      "properties": {
+        "timestamp": "2019-12-09T15:38:40Z",
+        "version": 2,
+        "changeset": 78159595,
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "id": "node/3338369639"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.2462364,
+          -22.8577804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9945584406",
+      "properties": {
+        "timestamp": "2024-08-29T14:23:01Z",
+        "version": 2,
+        "changeset": 155931719,
+        "addr:city": "Araruama",
+        "addr:country": "BR",
+        "addr:street": "Rua Francisco Andrade",
+        "addr:suburb": "Centro",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "DSG Popular",
+        "wheelchair": "no",
+        "id": "node/9945584406"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.3363639,
+          -22.872923
+        ]
+      }
+    }
+  ]
+}

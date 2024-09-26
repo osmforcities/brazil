@@ -1,0 +1,102 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/584768714",
+      "properties": {
+        "timestamp": "2018-04-30T21:19:03Z",
+        "version": 1,
+        "changeset": 58568605,
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "id": "way/584768714"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.3788074,
+              -29.3139663
+            ],
+            [
+              -51.3786886,
+              -29.3139874
+            ],
+            [
+              -51.3786504,
+              -29.313824
+            ],
+            [
+              -51.3787692,
+              -29.3138029
+            ],
+            [
+              -51.3788074,
+              -29.3139663
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5716254094",
+      "properties": {
+        "timestamp": "2019-02-09T18:48:01Z",
+        "version": 2,
+        "changeset": 67056527,
+        "amenity": "clinic",
+        "source": "IBGE",
+        "id": "node/5716254094"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.5001002,
+          -29.2923174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11613657553",
+      "properties": {
+        "timestamp": "2024-02-16T23:38:55Z",
+        "version": 3,
+        "changeset": 147552487,
+        "addr:city": "Carlos Barbosa",
+        "addr:housenumber": "64",
+        "addr:postcode": "95185-000",
+        "addr:street": "Avenida Ivo Tramontina",
+        "addr:suburb": "Centro",
+        "amenity": "clinic",
+        "check_date": "2024-02-12",
+        "check_date:currency:XBT": "2024-02-12",
+        "contact:instagram": "clinicaballotin",
+        "currency:XBT": "yes",
+        "description": "Atendimento médico presencial, telemedicina e a domicílio",
+        "email": "ballotinmed@gmail.com",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "mobile": "+55 54 99262 0822",
+        "name": "Ballotin Clínica Médica",
+        "opening_hours": "24/7",
+        "payment:lightning": "yes",
+        "payment:lightning_contactless": "yes",
+        "payment:onchain": "yes",
+        "website": "https://linktr.ee/clinicaballotin",
+        "id": "node/11613657553"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.5005234,
+          -29.2947516
+        ]
+      }
+    }
+  ]
+}

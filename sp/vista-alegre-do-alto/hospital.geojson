@@ -1,0 +1,99 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/756414206",
+      "properties": {
+        "timestamp": "2023-08-17T03:55:46Z",
+        "version": 2,
+        "changeset": 139991758,
+        "addr:city": "vista alegre do alto",
+        "addr:housenumber": "27",
+        "addr:postcode": "15920-000",
+        "addr:street": "Avenida Dezoito de Fevereiro",
+        "addr:suburb": "centro",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Unidade Mista de Vista Alegre Do Alto",
+        "operator:ref:vatin": "BR52854775000128",
+        "ref:CNES": "2058278",
+        "wheelchair": "yes",
+        "id": "way/756414206"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.6306276,
+              -21.1752363
+            ],
+            [
+              -48.6301938,
+              -21.1750757
+            ],
+            [
+              -48.6303103,
+              -21.1748125
+            ],
+            [
+              -48.630752,
+              -21.1749746
+            ],
+            [
+              -48.6306276,
+              -21.1752363
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7065253658",
+      "properties": {
+        "timestamp": "2019-12-18T03:00:04Z",
+        "version": 1,
+        "changeset": 78553925,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "id": "node/7065253658"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.6304798,
+          -21.1750173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7093582986",
+      "properties": {
+        "timestamp": "2023-08-17T03:55:46Z",
+        "version": 2,
+        "changeset": 139991758,
+        "addr:city": "vista alegre do alto",
+        "addr:housenumber": "2-64",
+        "addr:postcode": "15920-000",
+        "addr:street": "Rua Roma",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "dentist",
+        "name": "Centro Odontologico Municipal",
+        "operator:ref:vatin": "BR52854775000128",
+        "ref:CNES": "9288600",
+        "id": "node/7093582986"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.6304838,
+          -21.1675783
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/375229585",
+      "properties": {
+        "timestamp": "2015-10-14T14:03:09Z",
+        "version": 1,
+        "changeset": 34633830,
+        "addr:city": "Vicentinopolis",
+        "addr:postcode": "75555-000",
+        "amenity": "hospital",
+        "name": "PSF",
+        "id": "way/375229585"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.8118272,
+              -17.7296834
+            ],
+            [
+              -49.8117533,
+              -17.7299329
+            ],
+            [
+              -49.8113343,
+              -17.7298184
+            ],
+            [
+              -49.8114082,
+              -17.7295748
+            ],
+            [
+              -49.8118272,
+              -17.7296834
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/932243041",
+      "properties": {
+        "timestamp": "2024-01-11T14:54:58Z",
+        "version": 3,
+        "changeset": 146147018,
+        "addr:postcode": "75555-000",
+        "addr:street": "Marginal Filostro Machado",
+        "addr:suburb": "Centro",
+        "amenity": "hospital",
+        "fax": "+55 62 691 1119",
+        "healthcare": "hospital",
+        "name": "Hospital Municipal de Vicentinópolis",
+        "operator:ref:vatin": "BR00044834000107",
+        "phone": "+55 62 691 1119",
+        "ref:CNES": "2383691",
+        "source": "BR:DATASUS",
+        "id": "way/932243041"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.7990024,
+              -17.7370057
+            ],
+            [
+              -49.7982455,
+              -17.7376542
+            ],
+            [
+              -49.7976163,
+              -17.737027
+            ],
+            [
+              -49.7982776,
+              -17.7362495
+            ],
+            [
+              -49.7990024,
+              -17.7370057
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3407823675",
+      "properties": {
+        "timestamp": "2015-03-19T22:43:16Z",
+        "version": 1,
+        "changeset": 29603143,
+        "amenity": "hospital",
+        "source": "IBGE",
+        "id": "node/3407823675"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.806034,
+          -17.7336691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3786157000",
+      "properties": {
+        "timestamp": "2015-10-14T14:14:35Z",
+        "version": 1,
+        "changeset": 34634029,
+        "amenity": "hospital",
+        "id": "node/3786157000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.8115253,
+          -17.7297216
+        ]
+      }
+    }
+  ]
+}

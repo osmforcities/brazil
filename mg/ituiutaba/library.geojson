@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/333605691",
+      "properties": {
+        "timestamp": "2015-03-19T17:23:52Z",
+        "version": 1,
+        "changeset": 29596833,
+        "amenity": "library",
+        "building": "yes",
+        "name": "Biblioteca Municipal Senador Camilo Chaves",
+        "id": "way/333605691"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.4625267,
+              -18.9751617
+            ],
+            [
+              -49.4624854,
+              -18.9753307
+            ],
+            [
+              -49.4622237,
+              -18.9752736
+            ],
+            [
+              -49.4622649,
+              -18.9751046
+            ],
+            [
+              -49.4625267,
+              -18.9751617
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5375761261",
+      "properties": {
+        "timestamp": "2018-01-31T16:52:03Z",
+        "version": 1,
+        "changeset": 55939096,
+        "addr:city": "Ituiutaba",
+        "addr:housenumber": "296",
+        "addr:postcode": "38302-222",
+        "addr:street": "Rua Horácio de Paula Siqueira",
+        "addr:suburb": "Universitário",
+        "amenity": "library",
+        "description": "Biblioteca da UEMG",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "Biblioteca da UEMG",
+        "opening_hours": "08:00-11:30 , 13:00-22:00",
+        "id": "node/5375761261"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.448272,
+          -18.9714462
+        ]
+      }
+    }
+  ]
+}

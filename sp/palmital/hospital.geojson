@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/924853246",
+      "properties": {
+        "timestamp": "2021-04-01T16:33:09Z",
+        "version": 1,
+        "changeset": 102139212,
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "id": "way/924853246"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -50.217981,
+              -22.7911431
+            ],
+            [
+              -50.2180575,
+              -22.791336
+            ],
+            [
+              -50.2180821,
+              -22.7913275
+            ],
+            [
+              -50.2181067,
+              -22.7913191
+            ],
+            [
+              -50.2181969,
+              -22.7915456
+            ],
+            [
+              -50.217444,
+              -22.7917919
+            ],
+            [
+              -50.2172805,
+              -22.7913791
+            ],
+            [
+              -50.217981,
+              -22.7911431
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8583382716",
+      "properties": {
+        "timestamp": "2021-04-01T16:33:09Z",
+        "version": 1,
+        "changeset": 102139212,
+        "entrance": "yes",
+        "id": "node/8583382716"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.2180821,
+          -22.7913275
+        ]
+      }
+    }
+  ]
+}

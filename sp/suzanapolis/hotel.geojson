@@ -1,0 +1,74 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/841347697",
+      "properties": {
+        "timestamp": "2023-08-03T10:01:32Z",
+        "version": 2,
+        "changeset": 139385138,
+        "addr:city": "Suzanápolis",
+        "addr:postcode": "15380-000",
+        "addr:street": "Rua Tapir",
+        "name": "Pousada Suzanápolis",
+        "tourism": "hotel",
+        "id": "way/841347697"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.0250651,
+              -20.5007729
+            ],
+            [
+              -51.0248415,
+              -20.5005601
+            ],
+            [
+              -51.0255713,
+              -20.499853
+            ],
+            [
+              -51.0260052,
+              -20.5002605
+            ],
+            [
+              -51.0252747,
+              -20.5009665
+            ],
+            [
+              -51.0250651,
+              -20.5007729
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7849701073",
+      "properties": {
+        "timestamp": "2020-08-27T11:40:08Z",
+        "version": 1,
+        "changeset": 90024800,
+        "internet_access": "yes",
+        "internet_access:fee": "customers",
+        "name": "Hotel Suzanápolis",
+        "smoking": "no",
+        "tourism": "hotel",
+        "wheelchair": "limited",
+        "id": "node/7849701073"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.0251097,
+          -20.5005125
+        ]
+      }
+    }
+  ]
+}

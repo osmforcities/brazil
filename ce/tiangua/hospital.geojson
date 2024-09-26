@@ -1,0 +1,111 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/657733540",
+      "properties": {
+        "timestamp": "2020-12-05T16:39:05Z",
+        "version": 4,
+        "changeset": 95340668,
+        "addr:city": "Tianguá",
+        "addr:postcode": "62320-000",
+        "addr:suburb": "Dom Timóteo",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Policlínica",
+        "id": "way/657733540"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.9894303,
+              -3.7419991
+            ],
+            [
+              -40.9889643,
+              -3.7427205
+            ],
+            [
+              -40.9888979,
+              -3.7428115
+            ],
+            [
+              -40.9888758,
+              -3.7428088
+            ],
+            [
+              -40.9888215,
+              -3.7428817
+            ],
+            [
+              -40.9885311,
+              -3.7426917
+            ],
+            [
+              -40.9877419,
+              -3.7421744
+            ],
+            [
+              -40.9880892,
+              -3.7416512
+            ],
+            [
+              -40.9883219,
+              -3.7412785
+            ],
+            [
+              -40.9886672,
+              -3.7415013
+            ],
+            [
+              -40.9888315,
+              -3.741611
+            ],
+            [
+              -40.9888811,
+              -3.7416438
+            ],
+            [
+              -40.9890863,
+              -3.7417917
+            ],
+            [
+              -40.9893881,
+              -3.741973
+            ],
+            [
+              -40.9894303,
+              -3.7419991
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3260906361",
+      "properties": {
+        "timestamp": "2020-12-05T16:39:05Z",
+        "version": 3,
+        "changeset": 95340668,
+        "addr:city": "Tianguá",
+        "addr:postcode": "62320-000",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Hospital São Camilo",
+        "id": "node/3260906361"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.9913135,
+          -3.725267
+        ]
+      }
+    }
+  ]
+}

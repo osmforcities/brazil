@@ -1,0 +1,88 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/507128846",
+      "properties": {
+        "timestamp": "2023-06-06T03:08:31Z",
+        "version": 7,
+        "changeset": 136994680,
+        "addr:city": "São Bernardo do Campo",
+        "addr:housenumber": "735",
+        "addr:street": "Avenida Lucas Nogueira Garcez",
+        "addr:suburb": "Jardim do Mar",
+        "amenity": "doctors",
+        "healthcare": "doctor",
+        "name": "Centro Oftalmológico GNDI",
+        "opening_hours": "Mo-Fr 08:00-18:00; Sa,Su,PH off",
+        "operator": "NotreDame Intermédica",
+        "phone": "+55 11 3190 9820",
+        "ref:CNES": "5239869",
+        "ref:vatin": "BR44649812024401",
+        "website": "https://www.gndi.com.br/nossas-unidades/centro-oftalmologico",
+        "id": "way/507128846"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.5570815,
+              -23.6917546
+            ],
+            [
+              -46.5573347,
+              -23.6921187
+            ],
+            [
+              -46.5572738,
+              -23.6921666
+            ],
+            [
+              -46.5573056,
+              -23.6922134
+            ],
+            [
+              -46.5572426,
+              -23.6922493
+            ],
+            [
+              -46.5569461,
+              -23.691829
+            ],
+            [
+              -46.5570815,
+              -23.6917546
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9932840313",
+      "properties": {
+        "timestamp": "2022-08-05T02:38:40Z",
+        "version": 1,
+        "changeset": 124502239,
+        "addr:housenumber": "470",
+        "addr:street": "Rua Pedro Jacobucci",
+        "amenity": "doctors",
+        "email": "pa.saudemental@saobernardo.sp.gov.br",
+        "healthcare": "doctor",
+        "healthcare:speciality": "psychiatry",
+        "name": "Pronto Atendimento de Psiquiatria",
+        "phone": "+55 11 2630 6506",
+        "id": "node/9932840313"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5547524,
+          -23.699113
+        ]
+      }
+    }
+  ]
+}

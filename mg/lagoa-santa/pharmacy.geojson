@@ -1,0 +1,122 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/467253078",
+      "properties": {
+        "timestamp": "2019-07-23T17:22:16Z",
+        "version": 2,
+        "changeset": 72569219,
+        "addr:city": "Lagoa Santa",
+        "addr:housenumber": "18",
+        "addr:street": "Rua Barão do Rio Branco",
+        "addr:suburb": "Centro",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Drogaria Araujo",
+        "id": "way/467253078"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.892899,
+              -19.6272907
+            ],
+            [
+              -43.8928517,
+              -19.6274887
+            ],
+            [
+              -43.8928195,
+              -19.6276921
+            ],
+            [
+              -43.8926452,
+              -19.627685
+            ],
+            [
+              -43.8926718,
+              -19.6274406
+            ],
+            [
+              -43.8926907,
+              -19.6273621
+            ],
+            [
+              -43.8927153,
+              -19.6272658
+            ],
+            [
+              -43.892899,
+              -19.6272907
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2468044614",
+      "properties": {
+        "timestamp": "2013-09-22T19:46:46Z",
+        "version": 1,
+        "changeset": 17980149,
+        "amenity": "pharmacy",
+        "dispensing": "no",
+        "name": "Farma Alves",
+        "source": "survey",
+        "id": "node/2468044614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.9047139,
+          -19.6464859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2468094863",
+      "properties": {
+        "timestamp": "2013-09-22T20:31:18Z",
+        "version": 1,
+        "changeset": 17980961,
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Drogaria Araújo",
+        "source": "survey",
+        "id": "node/2468094863"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.904361,
+          -19.6455002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3965614292",
+      "properties": {
+        "timestamp": "2016-01-25T10:16:12Z",
+        "version": 1,
+        "changeset": 36792831,
+        "amenity": "pharmacy",
+        "id": "node/3965614292"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.9075628,
+          -19.6014477
+        ]
+      }
+    }
+  ]
+}

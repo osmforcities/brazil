@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/609816444",
+      "properties": {
+        "timestamp": "2018-07-21T21:34:08Z",
+        "version": 1,
+        "changeset": 60940081,
+        "amenity": "pharmacy",
+        "name": "Almoxarifado da Saúde",
+        "id": "way/609816444"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.9954353,
+              -20.9171508
+            ],
+            [
+              -46.9952674,
+              -20.9172202
+            ],
+            [
+              -46.9950561,
+              -20.9167744
+            ],
+            [
+              -46.9952239,
+              -20.916705
+            ],
+            [
+              -46.9954353,
+              -20.9171508
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8460542603",
+      "properties": {
+        "timestamp": "2021-02-26T09:27:33Z",
+        "version": 1,
+        "changeset": 100036873,
+        "amenity": "pharmacy",
+        "brand": "Drogasil",
+        "brand:wikidata": "Q5308185",
+        "brand:wikipedia": "pt:Drogasil",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Drogasil",
+        "wheelchair": "yes",
+        "id": "node/8460542603"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.9906239,
+          -20.9174731
+        ]
+      }
+    }
+  ]
+}

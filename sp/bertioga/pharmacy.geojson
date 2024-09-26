@@ -1,0 +1,99 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1089344792",
+      "properties": {
+        "timestamp": "2022-08-26T00:12:55Z",
+        "version": 1,
+        "changeset": 125383221,
+        "addr:city": "Bertioga",
+        "addr:housenumber": "2571",
+        "addr:street": "Avenida Marginal",
+        "addr:suburb": "Riviera de São Lourenço",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farma Sante Drogaria",
+        "id": "way/1089344792"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.0315832,
+              -23.7891557
+            ],
+            [
+              -46.0315725,
+              -23.7891909
+            ],
+            [
+              -46.0314951,
+              -23.7891713
+            ],
+            [
+              -46.0315058,
+              -23.789136
+            ],
+            [
+              -46.0315832,
+              -23.7891557
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10270448775",
+      "properties": {
+        "timestamp": "2023-02-20T20:46:53Z",
+        "version": 3,
+        "changeset": 132808028,
+        "addr:city": "Bertioga",
+        "addr:street": "Rodovia Doutor Manoel Hippollyto Rego",
+        "addr:suburb": "Boracéia",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Farmácia Dracena",
+        "phone": "+55 13 3312 2559",
+        "id": "node/10270448775"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.8554023,
+          -23.7565644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10270537784",
+      "properties": {
+        "timestamp": "2023-02-20T20:46:53Z",
+        "version": 3,
+        "changeset": 132808028,
+        "addr:city": "Bertioga",
+        "addr:street": "Rodovia Doutor Manoel Hippollyto Rego",
+        "addr:suburb": "Boracéia",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "OceanPharma",
+        "id": "node/10270537784"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.8546694,
+          -23.7564823
+        ]
+      }
+    }
+  ]
+}

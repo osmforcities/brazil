@@ -1,0 +1,207 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1234444935",
+      "properties": {
+        "timestamp": "2023-12-26T20:33:44Z",
+        "version": 1,
+        "changeset": 145548935,
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "UBS Hélio Figueiredo da Fonseca",
+        "id": "way/1234444935"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.3579249,
+              -9.0622356
+            ],
+            [
+              -44.3579786,
+              -9.0622956
+            ],
+            [
+              -44.3579482,
+              -9.0623186
+            ],
+            [
+              -44.3579669,
+              -9.0623463
+            ],
+            [
+              -44.3578478,
+              -9.0624247
+            ],
+            [
+              -44.3578829,
+              -9.06248
+            ],
+            [
+              -44.3578151,
+              -9.0625192
+            ],
+            [
+              -44.3577171,
+              -9.0623832
+            ],
+            [
+              -44.3579249,
+              -9.0622356
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1234617175",
+      "properties": {
+        "timestamp": "2023-12-27T15:24:33Z",
+        "version": 1,
+        "changeset": 145580936,
+        "addr:city": "Bom Jesus",
+        "addr:postcode": "64900-000",
+        "addr:street": "Rua José Ferreira de Castro",
+        "addr:suburb": "Aeroporto",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "saúde_da_mulher",
+        "name": "CSIM Maria Inez Barjurd",
+        "id": "way/1234617175"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.3655649,
+              -9.065967
+            ],
+            [
+              -44.3655095,
+              -9.0661024
+            ],
+            [
+              -44.3654817,
+              -9.0660903
+            ],
+            [
+              -44.3654248,
+              -9.0662378
+            ],
+            [
+              -44.3652476,
+              -9.0661557
+            ],
+            [
+              -44.3652876,
+              -9.0660735
+            ],
+            [
+              -44.3652337,
+              -9.0660522
+            ],
+            [
+              -44.3652414,
+              -9.0660309
+            ],
+            [
+              -44.3652707,
+              -9.0660416
+            ],
+            [
+              -44.3653585,
+              -9.0658682
+            ],
+            [
+              -44.3655649,
+              -9.065967
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11457507784",
+      "properties": {
+        "timestamp": "2023-12-26T20:33:44Z",
+        "version": 1,
+        "changeset": 145548935,
+        "addr:city": "Bom Jesus",
+        "addr:postcode": "64900-000",
+        "addr:street": "Avenida Getúlio Vargas",
+        "addr:suburb": "Centro",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Clínica Pinheiro",
+        "id": "node/11457507784"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.3594299,
+          -9.0729042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11457507820",
+      "properties": {
+        "timestamp": "2023-12-26T20:33:44Z",
+        "version": 1,
+        "changeset": 145548935,
+        "addr:city": "Bom Jesus",
+        "addr:postcode": "64900-000",
+        "addr:street": "Rua José Ferreira de Castro",
+        "addr:suburb": "Penitenciária",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "UBS Tertuliano Lustosa",
+        "id": "node/11457507820"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.3623283,
+          -9.0721566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11457507821",
+      "properties": {
+        "timestamp": "2023-12-26T20:33:44Z",
+        "version": 1,
+        "changeset": 145548935,
+        "addr:city": "Bom Jesus",
+        "addr:housenumber": "81",
+        "addr:postcode": "64900-000",
+        "addr:street": "Rua São João",
+        "addr:suburb": "Centro",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "gastroenterology;cardiology;endocrinology;hipertensão",
+        "name": "Clínica Dr. Carlyle Gois Miranda",
+        "phone": "89 3562-1157",
+        "id": "node/11457507821"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.3608453,
+          -9.0722841
+        ]
+      }
+    }
+  ]
+}

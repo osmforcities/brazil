@@ -1,0 +1,74 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/684466759",
+      "properties": {
+        "timestamp": "2019-04-18T11:49:46Z",
+        "version": 2,
+        "changeset": 69341573,
+        "addr:city": "Brotas",
+        "addr:street": "Rua Carlos Rogério Algodoal Mauro",
+        "amenity": "community_centre",
+        "building": "yes",
+        "description": "centro de apoio ao estudante",
+        "name": "centrinho",
+        "operator": "Prefeitura municipal",
+        "id": "way/684466759"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.1407573,
+              -22.2737485
+            ],
+            [
+              -48.1408918,
+              -22.2740127
+            ],
+            [
+              -48.1407572,
+              -22.2740714
+            ],
+            [
+              -48.1406226,
+              -22.2738072
+            ],
+            [
+              -48.1407573,
+              -22.2737485
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6413979569",
+      "properties": {
+        "timestamp": "2019-04-18T11:49:45Z",
+        "version": 1,
+        "changeset": 69341573,
+        "addr:city": "Brotas",
+        "addr:postcode": "17380-000",
+        "addr:street": "Rua Carlos Rogério Algodoal Mauro",
+        "addr:suburb": "jardim felicidade",
+        "amenity": "community_centre",
+        "description": "centro de apoio a comunidade",
+        "name": "centrinho",
+        "operator": "Prefeitura Municipal",
+        "id": "node/6413979569"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.1407885,
+          -22.2739339
+        ]
+      }
+    }
+  ]
+}

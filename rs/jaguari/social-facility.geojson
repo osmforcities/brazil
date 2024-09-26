@@ -1,0 +1,84 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1055559906",
+      "properties": {
+        "timestamp": "2022-04-28T01:17:30Z",
+        "version": 1,
+        "changeset": 120281350,
+        "amenity": "social_facility",
+        "name": "Pequena Casa da Divina Providência",
+        "social_facility": "group_home",
+        "social_facility:for": "senior",
+        "id": "way/1055559906"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -54.6944417,
+              -29.4976095
+            ],
+            [
+              -54.6944427,
+              -29.4978756
+            ],
+            [
+              -54.6943666,
+              -29.4978758
+            ],
+            [
+              -54.694367,
+              -29.497986
+            ],
+            [
+              -54.693854,
+              -29.4979857
+            ],
+            [
+              -54.6938561,
+              -29.497611
+            ],
+            [
+              -54.6944417,
+              -29.4976095
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9778130399",
+      "properties": {
+        "timestamp": "2023-02-01T15:06:46Z",
+        "version": 2,
+        "changeset": 131967314,
+        "addr:city": "Jaguari",
+        "addr:housenumber": "290",
+        "addr:postcode": "97760-970",
+        "addr:street": "Rua Carlos Callegaro",
+        "addr:suburb": "Centro",
+        "alt_name": "Centro de Referência Especializado de Assistência Social Jaguari",
+        "amenity": "social_facility",
+        "name": "CREAS Jaguari",
+        "operator": "Secretaria Municipal de Desenvolvimento Social e Cidadania",
+        "operator:type": "government",
+        "phone": "55 55 3255-2767",
+        "social_facility": "outreach",
+        "social_facility:for": "underprivileged;abused;victim",
+        "id": "node/9778130399"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.6930638,
+          -29.4973716
+        ]
+      }
+    }
+  ]
+}

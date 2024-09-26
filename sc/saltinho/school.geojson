@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1150239175",
+      "properties": {
+        "timestamp": "2023-03-02T22:47:43Z",
+        "version": 2,
+        "changeset": 133230379,
+        "addr:street": "Linha São Donato",
+        "alt_name": "Colégio Municipal",
+        "amenity": "school",
+        "name": "São Donato",
+        "id": "way/1150239175"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -53.0330153,
+              -26.566107
+            ],
+            [
+              -53.0330288,
+              -26.5663048
+            ],
+            [
+              -53.0330421,
+              -26.5664992
+            ],
+            [
+              -53.0328128,
+              -26.5665052
+            ],
+            [
+              -53.0328007,
+              -26.5661153
+            ],
+            [
+              -53.0330153,
+              -26.566107
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2894674298",
+      "properties": {
+        "timestamp": "2022-06-07T03:36:32Z",
+        "version": 4,
+        "changeset": 122048860,
+        "access": "yes",
+        "addr:postcode": "89981-000",
+        "addr:street": "Avenida Alfredo Jacomo Scopel",
+        "alt_name": "Colégio Estadual Emilia Boos Laos Schimit",
+        "amenity": "school",
+        "name": "Escola Emilia Boos Laos Schimit",
+        "official_name": "Escola de Educação Básica Emilia Boos Laos Schimit",
+        "operator": "Governo do Estado de Santa Catarina",
+        "operator:type": "public",
+        "short_name": "EEB Emilia Boos Laos Schimit",
+        "wheelchair": "yes",
+        "id": "node/2894674298"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.0580434,
+          -26.6073543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2898422720",
+      "properties": {
+        "timestamp": "2022-06-07T02:28:21Z",
+        "version": 7,
+        "changeset": 122048071,
+        "addr:postcode": "89981-000",
+        "addr:street": "Rua Herica Pfeifer",
+        "amenity": "school",
+        "internet_access": "yes",
+        "name": "Núcleo Escolar Saltinho",
+        "wheelchair": "yes",
+        "id": "node/2898422720"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.0620832,
+          -26.6107991
+        ]
+      }
+    }
+  ]
+}

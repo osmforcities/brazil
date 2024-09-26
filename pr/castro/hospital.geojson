@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/241999034",
+      "properties": {
+        "timestamp": "2020-03-11T01:18:01Z",
+        "version": 2,
+        "changeset": 82028297,
+        "amenity": "hospital",
+        "building": "yes",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "UPA",
+        "id": "way/241999034"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.9954391,
+              -24.787733
+            ],
+            [
+              -49.9944494,
+              -24.787705
+            ],
+            [
+              -49.9944566,
+              -24.7873922
+            ],
+            [
+              -49.9954484,
+              -24.7874143
+            ],
+            [
+              -49.9954391,
+              -24.787733
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1970951004",
+      "properties": {
+        "timestamp": "2021-07-30T00:52:49Z",
+        "version": 2,
+        "changeset": 108851472,
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "Hospital Anna Fiorillo Menarim",
+        "operator": "Cruz Vermelha",
+        "operator:type": "private",
+        "id": "node/1970951004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.9879523,
+          -24.8061337
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1028118665",
+      "properties": {
+        "timestamp": "2022-02-04T16:58:27Z",
+        "version": 1,
+        "changeset": 117014549,
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "operator": "Sistema Único de Saúde",
+        "operator:short": "SUS",
+        "operator:wikidata": "Q7531056",
+        "operator:wikipedia": "pt:Sistema Único de Saúde",
+        "id": "way/1028118665"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.9660787,
+              -12.609074
+            ],
+            [
+              -38.9659786,
+              -12.6092725
+            ],
+            [
+              -38.9658137,
+              -12.6091868
+            ],
+            [
+              -38.9659308,
+              -12.6089958
+            ],
+            [
+              -38.9660787,
+              -12.609074
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2059732943",
+      "properties": {
+        "timestamp": "2022-02-04T16:58:27Z",
+        "version": 5,
+        "changeset": 117014549,
+        "amenity": "clinic",
+        "emergency": "no",
+        "healthcare": "clinic",
+        "name": "Unidade de Saúde da Família José Augusto Alves",
+        "operator": "Sistema Único de Saúde",
+        "operator:short": "SUS",
+        "operator:wikidata": "Q7531056",
+        "operator:wikipedia": "pt:Sistema Único de Saúde",
+        "id": "node/2059732943"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.9659539,
+          -12.6091505
+        ]
+      }
+    }
+  ]
+}

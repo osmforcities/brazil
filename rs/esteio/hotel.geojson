@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1250679478",
+      "properties": {
+        "timestamp": "2024-02-15T06:26:32Z",
+        "version": 1,
+        "changeset": 147475814,
+        "building": "yes",
+        "name": "Klein",
+        "tourism": "hotel",
+        "id": "way/1250679478"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.1756211,
+              -29.8476192
+            ],
+            [
+              -51.17566,
+              -29.8476929
+            ],
+            [
+              -51.1753592,
+              -29.847788
+            ],
+            [
+              -51.1753238,
+              -29.8477113
+            ],
+            [
+              -51.1756211,
+              -29.8476192
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1160592083",
+      "properties": {
+        "timestamp": "2011-02-19T04:21:22Z",
+        "version": 1,
+        "changeset": 7328552,
+        "fixme": "Add the name. And consider tagging as a guest house or something smaller and simpler than a regular hotel.",
+        "tourism": "hotel",
+        "id": "node/1160592083"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1758833,
+          -29.840947
+        ]
+      }
+    }
+  ]
+}

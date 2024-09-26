@@ -1,0 +1,113 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "relation/13456224",
+      "properties": {
+        "timestamp": "2023-08-19T13:11:42Z",
+        "version": 3,
+        "changeset": 140093882,
+        "addr:city": "Caruaru",
+        "addr:housenumber": "800",
+        "addr:postcode": "55024-740",
+        "addr:street": "Avenida Adjar da Silva Casé",
+        "addr:suburb": "Indianópolis",
+        "air_conditioning": "yes",
+        "amenity": "cinema",
+        "indoor": "room",
+        "level": "0",
+        "name": "Centerplex Cinemas",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:nfc": "yes",
+        "room": "shop",
+        "shop": "yes",
+        "smoking": "no",
+        "type": "multipolygon",
+        "wheelchair": "yes",
+        "id": "relation/13456224"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -35.9530042,
+              -8.2958281
+            ],
+            [
+              -35.9530648,
+              -8.2957373
+            ],
+            [
+              -35.9530194,
+              -8.2957077
+            ],
+            [
+              -35.95305,
+              -8.2956619
+            ],
+            [
+              -35.95304,
+              -8.2956554
+            ],
+            [
+              -35.9530996,
+              -8.2955661
+            ],
+            [
+              -35.9531086,
+              -8.295572
+            ],
+            [
+              -35.9531183,
+              -8.2955576
+            ],
+            [
+              -35.9533474,
+              -8.2957075
+            ],
+            [
+              -35.9530473,
+              -8.2961568
+            ],
+            [
+              -35.9528645,
+              -8.2960372
+            ],
+            [
+              -35.952917,
+              -8.2959586
+            ],
+            [
+              -35.9530042,
+              -8.2958281
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4988921642",
+      "properties": {
+        "timestamp": "2018-12-04T16:14:23Z",
+        "version": 3,
+        "changeset": 65165741,
+        "amenity": "cinema",
+        "name": "Planet Cinemas",
+        "note": "3º Piso do Shopping Difusora",
+        "id": "node/4988921642"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.9719802,
+          -8.2779407
+        ]
+      }
+    }
+  ]
+}

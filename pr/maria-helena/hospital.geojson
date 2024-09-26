@@ -1,0 +1,86 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/329058733",
+      "properties": {
+        "timestamp": "2021-04-03T21:45:26Z",
+        "version": 2,
+        "changeset": 102252305,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Unidade Básica de Saúde - UBS",
+        "id": "way/329058733"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -53.2057871,
+              -23.6148523
+            ],
+            [
+              -53.2058422,
+              -23.6152332
+            ],
+            [
+              -53.205653,
+              -23.6152496
+            ],
+            [
+              -53.2056053,
+              -23.61487
+            ],
+            [
+              -53.2057871,
+              -23.6148523
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3358845597",
+      "properties": {
+        "timestamp": "2021-04-03T21:45:26Z",
+        "version": 4,
+        "changeset": 102252305,
+        "addr:street": "Avenida Paraná",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Pronto Atendimento de Maria Helena",
+        "id": "node/3358845597"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.2065836,
+          -23.6189644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3358877302",
+      "properties": {
+        "timestamp": "2021-04-03T21:45:26Z",
+        "version": 3,
+        "changeset": 102252305,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Atendimento Hospitalar",
+        "id": "node/3358877302"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.2091299,
+          -23.6258435
+        ]
+      }
+    }
+  ]
+}

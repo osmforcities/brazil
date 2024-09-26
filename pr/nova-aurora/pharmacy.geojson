@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/682773014",
+      "properties": {
+        "timestamp": "2019-04-09T20:19:20Z",
+        "version": 1,
+        "changeset": 69060965,
+        "amenity": "pharmacy",
+        "building": "yes",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Terezinha",
+        "id": "way/682773014"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -53.3786695,
+              -24.5742276
+            ],
+            [
+              -53.3786309,
+              -24.5741673
+            ],
+            [
+              -53.378731,
+              -24.5741093
+            ],
+            [
+              -53.3787748,
+              -24.5741685
+            ],
+            [
+              -53.3786695,
+              -24.5742276
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2969451041",
+      "properties": {
+        "timestamp": "2021-02-08T05:11:02Z",
+        "version": 2,
+        "changeset": 98879136,
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Farmacia do Povo",
+        "id": "node/2969451041"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.2572585,
+          -24.5283005
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/839116920",
+      "properties": {
+        "timestamp": "2020-08-20T19:11:40Z",
+        "version": 1,
+        "changeset": 89708415,
+        "amenity": "pharmacy",
+        "building": "yes",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "CanoaFarma",
+        "opening_hours": "Mo-Sa 08:00-20:00",
+        "operator": "Luis Alberto da Costa Barros",
+        "id": "way/839116920"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -37.7028052,
+              -4.5260454
+            ],
+            [
+              -37.7028036,
+              -4.5261466
+            ],
+            [
+              -37.7027583,
+              -4.5261459
+            ],
+            [
+              -37.7027599,
+              -4.5260447
+            ],
+            [
+              -37.7028052,
+              -4.5260454
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4375145693",
+      "properties": {
+        "timestamp": "2022-03-13T17:08:10Z",
+        "version": 2,
+        "changeset": 118438424,
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name:en": "Farmacia Sena",
+        "id": "node/4375145693"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.7745695,
+          -4.5712061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5258681721",
+      "properties": {
+        "timestamp": "2020-08-20T19:11:40Z",
+        "version": 3,
+        "changeset": 89708415,
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Canoa Farma",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "operator": "Luis Carlos da Costa Barros",
+        "id": "node/5258681721"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.7027973,
+          -4.5260394
+        ]
+      }
+    }
+  ]
+}

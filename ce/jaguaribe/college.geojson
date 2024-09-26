@@ -1,0 +1,206 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "relation/4581955",
+      "properties": {
+        "timestamp": "2018-04-06T17:44:14Z",
+        "version": 4,
+        "changeset": 57872597,
+        "addr:city": "Jaguaribe",
+        "addr:street": "Avenida Oito de novembro",
+        "amenity": "college",
+        "name": "Colégio Carmela Dutra",
+        "type": "multipolygon",
+        "id": "relation/4581955"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.6219705,
+              -5.8936423
+            ],
+            [
+              -38.6213283,
+              -5.8937506
+            ],
+            [
+              -38.6213103,
+              -5.8937539
+            ],
+            [
+              -38.6209827,
+              -5.8938109
+            ],
+            [
+              -38.6208659,
+              -5.8931055
+            ],
+            [
+              -38.6213383,
+              -5.8929416
+            ],
+            [
+              -38.6214458,
+              -5.8929045
+            ],
+            [
+              -38.6215857,
+              -5.8928582
+            ],
+            [
+              -38.6218211,
+              -5.8927801
+            ],
+            [
+              -38.6218589,
+              -5.8927953
+            ],
+            [
+              -38.6219224,
+              -5.893216
+            ],
+            [
+              -38.6219957,
+              -5.8936381
+            ],
+            [
+              -38.6219705,
+              -5.8936423
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/289247115",
+      "properties": {
+        "timestamp": "2016-07-31T19:03:36Z",
+        "version": 5,
+        "changeset": 41152133,
+        "barrier": "fence",
+        "fence_type": "metal",
+        "height": "2",
+        "id": "way/289247115"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -38.6219705,
+            -5.8936423
+          ],
+          [
+            -38.6219957,
+            -5.8936381
+          ],
+          [
+            -38.6219224,
+            -5.893216
+          ],
+          [
+            -38.6218589,
+            -5.8927953
+          ],
+          [
+            -38.6218211,
+            -5.8927801
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/435043423",
+      "properties": {
+        "timestamp": "2016-08-05T02:00:51Z",
+        "version": 2,
+        "changeset": 41250637,
+        "barrier": "wall",
+        "id": "way/435043423"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -38.6218211,
+            -5.8927801
+          ],
+          [
+            -38.6215857,
+            -5.8928582
+          ],
+          [
+            -38.6214458,
+            -5.8929045
+          ],
+          [
+            -38.6213383,
+            -5.8929416
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/435043425",
+      "properties": {
+        "timestamp": "2016-07-31T19:03:32Z",
+        "version": 1,
+        "changeset": 41152133,
+        "barrier": "wall",
+        "height": "2",
+        "id": "way/435043425"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -38.6213383,
+            -5.8929416
+          ],
+          [
+            -38.6208659,
+            -5.8931055
+          ],
+          [
+            -38.6209827,
+            -5.8938109
+          ],
+          [
+            -38.6213103,
+            -5.8937539
+          ],
+          [
+            -38.6213283,
+            -5.8937506
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4329806938",
+      "properties": {
+        "timestamp": "2016-07-31T19:03:29Z",
+        "version": 1,
+        "changeset": 41152133,
+        "barrier": "gate",
+        "bicycle": "yes",
+        "foot": "yes",
+        "id": "node/4329806938"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.6213103,
+          -5.8937539
+        ]
+      }
+    }
+  ]
+}

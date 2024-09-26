@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/920083626",
+      "properties": {
+        "timestamp": "2021-09-04T12:31:33Z",
+        "version": 2,
+        "changeset": 110714740,
+        "addr:street": "Rua Maia Alarcon",
+        "amenity": "dentist",
+        "building": "yes",
+        "healthcare": "dentist",
+        "id": "way/920083626"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.1292387,
+              -5.2470572
+            ],
+            [
+              -38.1292046,
+              -5.2470912
+            ],
+            [
+              -38.1291317,
+              -5.2470185
+            ],
+            [
+              -38.1291657,
+              -5.2469846
+            ],
+            [
+              -38.1292387,
+              -5.2470572
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9216363363",
+      "properties": {
+        "timestamp": "2022-11-15T18:33:59Z",
+        "version": 3,
+        "changeset": 128954596,
+        "addr:housenumber": "953",
+        "addr:street": "Rua Maia Alarcon",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "Clínica Odontológica Carlos Henrique",
+        "phone": "+55 (88) 3424-2195",
+        "id": "node/9216363363"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.1260069,
+          -5.2502777
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1150590539",
+      "properties": {
+        "timestamp": "2023-03-02T02:09:27Z",
+        "version": 1,
+        "changeset": 133193646,
+        "leisure": "pitch",
+        "sport": "multi",
+        "id": "way/1150590539"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -55.2785026,
+              -11.9750454
+            ],
+            [
+              -55.2783047,
+              -11.9748358
+            ],
+            [
+              -55.2784214,
+              -11.9747303
+            ],
+            [
+              -55.2786194,
+              -11.9749399
+            ],
+            [
+              -55.2785026,
+              -11.9750454
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10703194547",
+      "properties": {
+        "timestamp": "2023-03-02T02:09:27Z",
+        "version": 1,
+        "changeset": 133193646,
+        "leisure": "fitness_station",
+        "source": "local knowledge;aerial imagery",
+        "sport": "fitness",
+        "id": "node/10703194547"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.2790652,
+          -11.9741774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10703194548",
+      "properties": {
+        "timestamp": "2023-03-02T02:09:27Z",
+        "version": 1,
+        "changeset": 133193646,
+        "leisure": "fitness_station",
+        "source": "local knowledge;aerial imagery",
+        "sport": "fitness",
+        "id": "node/10703194548"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.2786569,
+          -11.9741003
+        ]
+      }
+    }
+  ]
+}

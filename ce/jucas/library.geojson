@@ -1,0 +1,97 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/690081490",
+      "properties": {
+        "timestamp": "2019-05-15T00:48:59Z",
+        "version": 1,
+        "changeset": 70256079,
+        "amenity": "library",
+        "building": "yes",
+        "name": "Biblioteca Ormecinda Correia Leite",
+        "id": "way/690081490"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -39.5263165,
+              -6.5243472
+            ],
+            [
+              -39.5262656,
+              -6.5244724
+            ],
+            [
+              -39.5261462,
+              -6.5244351
+            ],
+            [
+              -39.5261918,
+              -6.5243059
+            ],
+            [
+              -39.5262555,
+              -6.5243285
+            ],
+            [
+              -39.5263165,
+              -6.5243472
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6590017081",
+      "properties": {
+        "timestamp": "2019-07-04T23:31:05Z",
+        "version": 1,
+        "changeset": 71912907,
+        "amenity": "library",
+        "name": "Biblioteca Ormecinda Correia Leite",
+        "id": "node/6590017081"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.5262375,
+          -6.5243802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11158780256",
+      "properties": {
+        "timestamp": "2023-08-31T11:40:19Z",
+        "version": 2,
+        "changeset": 140631305,
+        "addr:city": "Jucás",
+        "addr:housenumber": "s/n",
+        "addr:postcode": "63580000",
+        "addr:street": "Pe. João Sticker",
+        "addr:suburb": "Sagrada Familia",
+        "amenity": "library",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "Bilioteca",
+        "opening_hours": "Mo-Fr 07:10-16:20",
+        "operator": "Escola",
+        "operator:type": "public",
+        "id": "node/11158780256"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.5477393,
+          -6.5237466
+        ]
+      }
+    }
+  ]
+}

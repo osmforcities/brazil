@@ -1,0 +1,102 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/598646009",
+      "properties": {
+        "timestamp": "2018-06-17T22:25:04Z",
+        "version": 1,
+        "changeset": 59924984,
+        "access": "yes",
+        "amenity": "toilets",
+        "building": "yes",
+        "unisex": "yes",
+        "id": "way/598646009"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.4826645,
+              -28.6423374
+            ],
+            [
+              -49.4826776,
+              -28.6423518
+            ],
+            [
+              -49.4826645,
+              -28.642361
+            ],
+            [
+              -49.4826514,
+              -28.6423466
+            ],
+            [
+              -49.4826645,
+              -28.6423374
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6835844925",
+      "properties": {
+        "timestamp": "2019-09-30T04:22:01Z",
+        "version": 2,
+        "changeset": 75077642,
+        "amenity": "toilets",
+        "id": "node/6835844925"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.4988994,
+          -28.6375725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6836292718",
+      "properties": {
+        "timestamp": "2019-09-30T04:22:01Z",
+        "version": 1,
+        "changeset": 75077642,
+        "amenity": "toilets",
+        "female": "yes",
+        "id": "node/6836292718"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.5616718,
+          -28.6363734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6836292719",
+      "properties": {
+        "timestamp": "2019-09-30T04:22:01Z",
+        "version": 1,
+        "changeset": 75077642,
+        "amenity": "toilets",
+        "male": "yes",
+        "id": "node/6836292719"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.5614116,
+          -28.6362616
+        ]
+      }
+    }
+  ]
+}

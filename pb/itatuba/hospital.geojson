@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/261158912",
+      "properties": {
+        "timestamp": "2021-03-05T19:52:19Z",
+        "version": 2,
+        "changeset": 100512263,
+        "amenity": "hospital",
+        "building": "yes",
+        "healthcare": "hospital",
+        "id": "way/261158912"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -35.6262071,
+              -7.3794225
+            ],
+            [
+              -35.6262232,
+              -7.3795169
+            ],
+            [
+              -35.6260341,
+              -7.3795488
+            ],
+            [
+              -35.6260113,
+              -7.3794451
+            ],
+            [
+              -35.6262071,
+              -7.3794225
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2667853936",
+      "properties": {
+        "timestamp": "2021-03-05T19:52:19Z",
+        "version": 4,
+        "changeset": 100512263,
+        "addr:city": "Itatuba",
+        "addr:street": "Rua Davi A Câmara",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "id": "node/2667853936"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.6293319,
+          -7.3779693
+        ]
+      }
+    }
+  ]
+}

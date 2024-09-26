@@ -1,0 +1,72 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/817397676",
+      "properties": {
+        "timestamp": "2020-06-19T01:32:23Z",
+        "version": 1,
+        "changeset": 86847285,
+        "addr:city": "Colíder",
+        "addr:postcode": "78500-000",
+        "amenity": "social_facility",
+        "building": "hospital",
+        "emergency": "yes",
+        "name": "Vicentinos",
+        "social_facility": "nursing_home",
+        "social_facility:for": "senior",
+        "id": "way/817397676"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -55.4623139,
+              -10.7941063
+            ],
+            [
+              -55.4620487,
+              -10.7945522
+            ],
+            [
+              -55.4613609,
+              -10.7941478
+            ],
+            [
+              -55.4616565,
+              -10.7936899
+            ],
+            [
+              -55.4623139,
+              -10.7941063
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7633818785",
+      "properties": {
+        "timestamp": "2020-06-19T01:32:23Z",
+        "version": 1,
+        "changeset": 86847285,
+        "amenity": "social_facility",
+        "name": "Vicentinos",
+        "social_facility": "nursing_home",
+        "social_facility:for": "senior",
+        "wheelchair": "yes",
+        "id": "node/7633818785"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.4616432,
+          -10.7939812
+        ]
+      }
+    }
+  ]
+}

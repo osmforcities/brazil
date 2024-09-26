@@ -1,0 +1,99 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/256605640",
+      "properties": {
+        "timestamp": "2018-06-19T22:44:26Z",
+        "version": 2,
+        "changeset": 59992644,
+        "addr:city": "Guimarânia",
+        "addr:housenumber": "210",
+        "addr:postcode": "38730-000",
+        "addr:street": "Rua Guimarães",
+        "building": "yes",
+        "government": "legislative",
+        "name": "Câmara Municipal",
+        "office": "government",
+        "id": "way/256605640"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.7936922,
+              -18.8437525
+            ],
+            [
+              -46.7936193,
+              -18.8439158
+            ],
+            [
+              -46.7935687,
+              -18.8438956
+            ],
+            [
+              -46.7936416,
+              -18.8437322
+            ],
+            [
+              -46.7936922,
+              -18.8437525
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4095448913",
+      "properties": {
+        "timestamp": "2022-07-25T18:13:59Z",
+        "version": 2,
+        "changeset": 124063801,
+        "addr:city": "Guimarânia",
+        "addr:housenumber": "365 a",
+        "addr:postcode": "38730-000",
+        "addr:street": "Rua Guimarães",
+        "addr:suburb": "Centro",
+        "government": "register_office",
+        "name": "Cartório de Registro Civil e Notas",
+        "office": "government",
+        "id": "node/4095448913"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7947357,
+          -18.8445006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9910157093",
+      "properties": {
+        "timestamp": "2022-07-25T18:17:44Z",
+        "version": 1,
+        "changeset": 124063961,
+        "addr:city": "Guimarânia",
+        "addr:housenumber": "570",
+        "addr:postcode": "38730-000",
+        "addr:street": "Avenida Espírito Santo",
+        "addr:suburb": "Centro",
+        "name": "Secretaria Municipal de Saúde, de Educação e Cultura",
+        "office": "government",
+        "id": "node/9910157093"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7974863,
+          -18.8428184
+        ]
+      }
+    }
+  ]
+}

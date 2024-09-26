@@ -1,0 +1,87 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/664685582",
+      "properties": {
+        "timestamp": "2019-01-19T18:31:04Z",
+        "version": 1,
+        "changeset": 66460448,
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "Posto de Saúde São Francisco",
+        "id": "way/664685582"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -52.8368425,
+              -26.3539454
+            ],
+            [
+              -52.8366861,
+              -26.3541719
+            ],
+            [
+              -52.8365481,
+              -26.3540953
+            ],
+            [
+              -52.8367045,
+              -26.3538688
+            ],
+            [
+              -52.8368425,
+              -26.3539454
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6292253676",
+      "properties": {
+        "timestamp": "2019-02-21T00:43:16Z",
+        "version": 1,
+        "changeset": 67412516,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posto de Saúde",
+        "id": "node/6292253676"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.8517067,
+          -26.3532514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7801066160",
+      "properties": {
+        "timestamp": "2020-08-10T12:48:52Z",
+        "version": 1,
+        "changeset": 89200532,
+        "addr:street": "Rua Monte Castelo",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "UPA 24h",
+        "id": "node/7801066160"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.8455004,
+          -26.3633008
+        ]
+      }
+    }
+  ]
+}

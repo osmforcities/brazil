@@ -1,0 +1,263 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "relation/13163246",
+      "properties": {
+        "timestamp": "2021-09-04T00:11:17Z",
+        "version": 1,
+        "changeset": 110699189,
+        "building": "yes",
+        "office": "government",
+        "type": "multipolygon",
+        "id": "relation/13163246"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -38.685467,
+                -8.7270188
+              ],
+              [
+                -38.6855024,
+                -8.7270897
+              ],
+              [
+                -38.6853933,
+                -8.7271428
+              ],
+              [
+                -38.6854111,
+                -8.7271785
+              ],
+              [
+                -38.6853361,
+                -8.7272151
+              ],
+              [
+                -38.6852651,
+                -8.7270728
+              ],
+              [
+                -38.6853369,
+                -8.7270378
+              ],
+              [
+                -38.6853547,
+                -8.7270735
+              ],
+              [
+                -38.685467,
+                -8.7270188
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -38.685399,
+                -8.7270312
+              ],
+              [
+                -38.6853535,
+                -8.7270538
+              ],
+              [
+                -38.6853292,
+                -8.7270059
+              ],
+              [
+                -38.6853746,
+                -8.7269833
+              ],
+              [
+                -38.685399,
+                -8.7270312
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -38.6853997,
+                -8.7269571
+              ],
+              [
+                -38.6853053,
+                -8.7270069
+              ],
+              [
+                -38.6852698,
+                -8.7269411
+              ],
+              [
+                -38.6853642,
+                -8.7268913
+              ],
+              [
+                -38.6853997,
+                -8.7269571
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/979436410",
+      "properties": {
+        "timestamp": "2021-09-04T00:11:17Z",
+        "version": 1,
+        "changeset": 110699189,
+        "building": "yes",
+        "office": "government",
+        "id": "way/979436410"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.6858274,
+              -8.7269658
+            ],
+            [
+              -38.6855825,
+              -8.7270907
+            ],
+            [
+              -38.6855386,
+              -8.7270067
+            ],
+            [
+              -38.6857835,
+              -8.7268817
+            ],
+            [
+              -38.6858274,
+              -8.7269658
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/979436411",
+      "properties": {
+        "timestamp": "2021-09-04T00:11:17Z",
+        "version": 1,
+        "changeset": 110699189,
+        "building": "yes",
+        "office": "government",
+        "id": "way/979436411"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.6857546,
+              -8.726833
+            ],
+            [
+              -38.6855177,
+              -8.7269526
+            ],
+            [
+              -38.6854637,
+              -8.7268481
+            ],
+            [
+              -38.6857006,
+              -8.7267286
+            ],
+            [
+              -38.6857546,
+              -8.726833
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11999990040",
+      "properties": {
+        "timestamp": "2024-06-22T01:10:10Z",
+        "version": 1,
+        "changeset": 153012750,
+        "addr:housenumber": "957",
+        "addr:postcode": "56430-000",
+        "addr:street": "Avenida Patriarca Aníbal Cantarelli",
+        "addr:suburb": "Centro",
+        "description": "Secretaria de Educação",
+        "government": "education",
+        "office": "government",
+        "id": "node/11999990040"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.6854348,
+          -8.7271947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11999990295",
+      "properties": {
+        "timestamp": "2024-06-22T01:10:10Z",
+        "version": 1,
+        "changeset": 153012750,
+        "addr:housenumber": "23",
+        "addr:postcode": "56430-000",
+        "addr:street": "Rua Olegário Rezende",
+        "addr:suburb": "Centro",
+        "description": "Conselho Tutelar",
+        "government": "youth_welfare_department",
+        "office": "government",
+        "id": "node/11999990295"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.6865357,
+          -8.7255431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11999990448",
+      "properties": {
+        "timestamp": "2024-06-22T01:10:10Z",
+        "version": 1,
+        "changeset": 153012750,
+        "addr:housenumber": "955",
+        "addr:postcode": "56430-000",
+        "addr:street": "Avenida Patriarca Aníbal Cantarelli",
+        "addr:suburb": "Centro",
+        "amenity": "townhall",
+        "government": "legislative",
+        "name": "Câmara Municipal",
+        "office": "government",
+        "townhall:type": "city",
+        "id": "node/11999990448"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.6850629,
+          -8.7273728
+        ]
+      }
+    }
+  ]
+}

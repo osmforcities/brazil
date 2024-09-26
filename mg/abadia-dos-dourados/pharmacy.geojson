@@ -1,0 +1,70 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/675540117",
+      "properties": {
+        "timestamp": "2020-03-01T14:30:51Z",
+        "version": 2,
+        "changeset": 81645247,
+        "amenity": "pharmacy",
+        "building": "yes",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "id": "way/675540117"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.4035215,
+              -18.4875764
+            ],
+            [
+              -47.4033023,
+              -18.4877238
+            ],
+            [
+              -47.4032618,
+              -18.487641
+            ],
+            [
+              -47.4034534,
+              -18.4874856
+            ],
+            [
+              -47.4034886,
+              -18.4875324
+            ],
+            [
+              -47.4035215,
+              -18.4875764
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5275761774",
+      "properties": {
+        "timestamp": "2020-03-01T14:30:51Z",
+        "version": 3,
+        "changeset": 81645247,
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Farmácia Nsa Abadia",
+        "id": "node/5275761774"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.4034249,
+          -18.4876089
+        ]
+      }
+    }
+  ]
+}

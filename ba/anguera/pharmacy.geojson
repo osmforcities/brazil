@@ -1,0 +1,70 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1092735156",
+      "properties": {
+        "timestamp": "2022-09-07T22:30:25Z",
+        "version": 1,
+        "changeset": 125920004,
+        "amenity": "pharmacy",
+        "building": "yes",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmácia Básica X Farmácia Popular",
+        "id": "way/1092735156"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -39.2409596,
+              -12.1561704
+            ],
+            [
+              -39.2410223,
+              -12.156299
+            ],
+            [
+              -39.2409367,
+              -12.1563418
+            ],
+            [
+              -39.2408636,
+              -12.1562194
+            ],
+            [
+              -39.2409596,
+              -12.1561704
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2789586813",
+      "properties": {
+        "timestamp": "2022-09-07T21:24:31Z",
+        "version": 7,
+        "changeset": 125918658,
+        "addr:city": "Anguera",
+        "addr:postcode": "44.670-000",
+        "addr:street": "Rua Jackson do Amauri",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Farmácia Vieira",
+        "id": "node/2789586813"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.2462878,
+          -12.1512916
+        ]
+      }
+    }
+  ]
+}

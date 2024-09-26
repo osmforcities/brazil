@@ -1,0 +1,93 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "relation/12112178",
+      "properties": {
+        "timestamp": "2020-12-30T12:11:21Z",
+        "version": 1,
+        "changeset": 96666226,
+        "building": "office",
+        "government": "customs",
+        "name": "Receita Federal",
+        "office": "government",
+        "type": "multipolygon",
+        "id": "relation/12112178"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -57.0837176,
+              -29.748081
+            ],
+            [
+              -57.0835716,
+              -29.7480797
+            ],
+            [
+              -57.0832071,
+              -29.7480764
+            ],
+            [
+              -57.0832096,
+              -29.7478708
+            ],
+            [
+              -57.083574,
+              -29.7478741
+            ],
+            [
+              -57.08372,
+              -29.7478754
+            ],
+            [
+              -57.083982,
+              -29.7478778
+            ],
+            [
+              -57.0839796,
+              -29.7480833
+            ],
+            [
+              -57.0837176,
+              -29.748081
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9857051512",
+      "properties": {
+        "timestamp": "2022-06-30T02:38:06Z",
+        "version": 1,
+        "changeset": 123024550,
+        "addr:city": "Uruguaiana",
+        "addr:housenumber": "2781",
+        "addr:postcode": "97501-577",
+        "addr:street": "Rua Tiradentes",
+        "addr:suburb": "Centro",
+        "government": "social_security",
+        "name": "INSS",
+        "office": "government",
+        "opening_hours": "Mo-Fr 07:00-13:00",
+        "operator": "Instituto Nacional do Seguro Social",
+        "operator:short": "INSS",
+        "operator:wikidata": "Q10302614",
+        "website": "https://www.gov.br/inss/pt-br",
+        "id": "node/9857051512"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.0857877,
+          -29.7539771
+        ]
+      }
+    }
+  ]
+}

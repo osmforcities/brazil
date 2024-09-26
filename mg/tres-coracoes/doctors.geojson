@@ -1,0 +1,233 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/180324592",
+      "properties": {
+        "timestamp": "2021-01-31T11:28:22Z",
+        "version": 4,
+        "changeset": 98444100,
+        "amenity": "doctors",
+        "building": "yes",
+        "healthcare": "doctor",
+        "name": "Clínica São Lucas",
+        "opening_hours": "Mo-Fr 07:00-18:00",
+        "roof:colour": "salmon",
+        "roof:shape": "pyramidal",
+        "source": "survey",
+        "id": "way/180324592"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -45.2654402,
+              -21.6893091
+            ],
+            [
+              -45.2653619,
+              -21.6892383
+            ],
+            [
+              -45.265432,
+              -21.6891713
+            ],
+            [
+              -45.2655103,
+              -21.6892421
+            ],
+            [
+              -45.2654402,
+              -21.6893091
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/442487598",
+      "properties": {
+        "timestamp": "2020-03-23T02:53:14Z",
+        "version": 3,
+        "changeset": 82499628,
+        "addr:housenumber": "70",
+        "addr:street": "Avenida Presidente Dutra",
+        "amenity": "doctors",
+        "building": "house",
+        "building:levels": "1",
+        "healthcare": "doctor",
+        "roof:colour": "grey",
+        "roof:shape": "flat",
+        "source": "Bing;Mapillary;survey",
+        "id": "way/442487598"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -45.256562,
+              -21.6966115
+            ],
+            [
+              -45.2565323,
+              -21.6966798
+            ],
+            [
+              -45.2565222,
+              -21.6967029
+            ],
+            [
+              -45.2564648,
+              -21.6966813
+            ],
+            [
+              -45.2564722,
+              -21.6966643
+            ],
+            [
+              -45.2564448,
+              -21.6966539
+            ],
+            [
+              -45.2564336,
+              -21.6966798
+            ],
+            [
+              -45.2563641,
+              -21.6966536
+            ],
+            [
+              -45.2563874,
+              -21.6966003
+            ],
+            [
+              -45.2564167,
+              -21.6966113
+            ],
+            [
+              -45.2564371,
+              -21.6965645
+            ],
+            [
+              -45.256562,
+              -21.6966115
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/445234483",
+      "properties": {
+        "timestamp": "2020-03-23T03:28:21Z",
+        "version": 3,
+        "changeset": 82500617,
+        "amenity": "doctors",
+        "building": "house",
+        "contact:phone": "+553532311962",
+        "healthcare": "doctor",
+        "name": "Doutora Marcia Couto",
+        "roof:colour": "grey",
+        "roof:shape": "flat",
+        "source": "Bing;DGP;Mapillary",
+        "id": "way/445234483"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -45.2593187,
+              -21.6924935
+            ],
+            [
+              -45.2593181,
+              -21.6925507
+            ],
+            [
+              -45.2593233,
+              -21.6925739
+            ],
+            [
+              -45.25916,
+              -21.6925657
+            ],
+            [
+              -45.2591604,
+              -21.6925299
+            ],
+            [
+              -45.2591828,
+              -21.6925301
+            ],
+            [
+              -45.2591833,
+              -21.6924815
+            ],
+            [
+              -45.2591839,
+              -21.6924176
+            ],
+            [
+              -45.2593194,
+              -21.6924187
+            ],
+            [
+              -45.2593187,
+              -21.6924935
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6451028504",
+      "properties": {
+        "timestamp": "2019-05-06T03:30:24Z",
+        "version": 1,
+        "changeset": 69920622,
+        "entrance": "main",
+        "id": "node/6451028504"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.2565323,
+          -21.6966798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8302993370",
+      "properties": {
+        "timestamp": "2022-10-07T19:16:55Z",
+        "version": 2,
+        "changeset": 127168277,
+        "amenity": "doctors",
+        "cash_withdrawal:operator": "Ricardo Gabriel Avelar",
+        "check_date:opening_hours": "2022-10-07",
+        "healthcare": "doctor",
+        "healthcare:speciality": "neurology",
+        "level": "-1",
+        "name": "Centro Tomográfico Três Corações",
+        "opening_hours": "Mo-Fr 07:00-11:00; PH closed",
+        "wheelchair": "yes",
+        "id": "node/8302993370"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.2565397,
+          -21.6962949
+        ]
+      }
+    }
+  ]
+}

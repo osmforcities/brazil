@@ -1,0 +1,152 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/532749954",
+      "properties": {
+        "timestamp": "2024-06-15T12:59:00Z",
+        "version": 4,
+        "changeset": 152720359,
+        "addr:city": "Santa Rita",
+        "addr:postcode": "58303-899",
+        "addr:street": "Rua Severina G. de Morais",
+        "addr:suburb": "Cicerolândia",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general;stomatology",
+        "name": "Unidade Básica de Saúde Francisca Morais de Queiroga",
+        "operator": "Prefeitura Municipal",
+        "operator:type": "public",
+        "website": "https://www.santarita.pb.gov.br/",
+        "wikidata": "Q48867604",
+        "wikipedia": "pt:Cicerolândia",
+        "id": "way/532749954"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -34.984517,
+              -7.2513689
+            ],
+            [
+              -34.9844693,
+              -7.2515477
+            ],
+            [
+              -34.9841489,
+              -7.251465
+            ],
+            [
+              -34.9842297,
+              -7.2512925
+            ],
+            [
+              -34.9843322,
+              -7.2513223
+            ],
+            [
+              -34.984517,
+              -7.2513689
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1076433288",
+      "properties": {
+        "timestamp": "2022-07-06T21:06:42Z",
+        "version": 1,
+        "changeset": 123293443,
+        "addr:city": "Santa Rita",
+        "addr:street": "Rua Pitimbu",
+        "addr:suburb": "Munícipios",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "emergency",
+        "name": "UPA - TIBIRI",
+        "operator": "Secretaria Estadual de Saúde",
+        "operator:type": "government",
+        "id": "way/1076433288"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -34.9692987,
+              -7.1532272
+            ],
+            [
+              -34.9692907,
+              -7.1534401
+            ],
+            [
+              -34.9689634,
+              -7.1534507
+            ],
+            [
+              -34.9689715,
+              -7.1532245
+            ],
+            [
+              -34.9692987,
+              -7.1532272
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7030431828",
+      "properties": {
+        "timestamp": "2019-12-04T03:29:08Z",
+        "version": 1,
+        "changeset": 77907338,
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "UPA - UNIDADE DE PRONTO ATENDIMENTO DE TIBIRI II",
+        "operator": "GOVERNO DO ESTADO DA PARAÍBA",
+        "operator:type": "public",
+        "wheelchair": "yes",
+        "id": "node/7030431828"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.9691082,
+          -7.1533604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9244157083",
+      "properties": {
+        "timestamp": "2021-11-11T18:45:21Z",
+        "version": 1,
+        "changeset": 113664581,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Posto de Saúde- Ribeira de Cima",
+        "operator:type": "public",
+        "id": "node/9244157083"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.8720217,
+          -7.0323731
+        ]
+      }
+    }
+  ]
+}

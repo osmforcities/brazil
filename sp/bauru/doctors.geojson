@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1181007213",
+      "properties": {
+        "timestamp": "2023-06-10T18:17:11Z",
+        "version": 1,
+        "changeset": 137181531,
+        "amenity": "doctors",
+        "building": "yes",
+        "healthcare": "doctor",
+        "name": "IONG Instituto de Ouvido Nariz e Garganta",
+        "id": "way/1181007213"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.0631483,
+              -22.3316393
+            ],
+            [
+              -49.0632022,
+              -22.3314667
+            ],
+            [
+              -49.0633326,
+              -22.3315015
+            ],
+            [
+              -49.0633169,
+              -22.3315521
+            ],
+            [
+              -49.0633044,
+              -22.3315487
+            ],
+            [
+              -49.0632929,
+              -22.3315855
+            ],
+            [
+              -49.0632738,
+              -22.3315804
+            ],
+            [
+              -49.0632622,
+              -22.3316175
+            ],
+            [
+              -49.0632427,
+              -22.3316123
+            ],
+            [
+              -49.0632277,
+              -22.3316605
+            ],
+            [
+              -49.0631483,
+              -22.3316393
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4114206890",
+      "properties": {
+        "timestamp": "2020-02-16T03:26:02Z",
+        "version": 2,
+        "changeset": 81061024,
+        "amenity": "doctors",
+        "healthcare": "doctor",
+        "name": "Unimed Baurú",
+        "id": "node/4114206890"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.0747873,
+          -22.3243605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11645577924",
+      "properties": {
+        "timestamp": "2024-02-20T13:55:15Z",
+        "version": 3,
+        "changeset": 147693645,
+        "addr:city": "bauru",
+        "addr:housenumber": "4-50",
+        "addr:postcode": "17064-120",
+        "addr:street": "Rua Ângelo Colacino",
+        "addr:suburb": "Jardim Petrópolis",
+        "amenity": "doctors",
+        "healthcare": "doctor",
+        "healthcare:speciality": "podiatry",
+        "name": "Grazielly Podologa",
+        "opening_hours": "08:00-18:00",
+        "id": "node/11645577924"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.0896525,
+          -22.3073439
+        ]
+      }
+    }
+  ]
+}

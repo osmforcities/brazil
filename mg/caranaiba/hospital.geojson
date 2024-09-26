@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/538979285",
+      "properties": {
+        "timestamp": "2021-09-04T21:20:15Z",
+        "version": 2,
+        "changeset": 110731401,
+        "addr:city": "Caranaíba",
+        "addr:housenumber": "200",
+        "addr:postcode": "36428000",
+        "addr:street": "Rua Santa Terezinha",
+        "addr:suburb": "Centro",
+        "amenity": "hospital",
+        "emergency": "no",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "Pronto atendimento de saúde UBS",
+        "operator": "Prefeitura Municipal de Caranaíba",
+        "wheelchair": "yes",
+        "id": "way/538979285"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.7396108,
+              -20.8725134
+            ],
+            [
+              -43.7394511,
+              -20.8731839
+            ],
+            [
+              -43.7388557,
+              -20.8728831
+            ],
+            [
+              -43.7389906,
+              -20.8724209
+            ],
+            [
+              -43.7396108,
+              -20.8725134
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5216110876",
+      "properties": {
+        "timestamp": "2017-11-07T12:31:36Z",
+        "version": 1,
+        "changeset": 53580443,
+        "addr:city": "Caranaíba",
+        "addr:housenumber": "200",
+        "addr:postcode": "36428000",
+        "addr:street": "Rua Santa Terezinha",
+        "addr:suburb": "Centro",
+        "name": "Pronto atendimento de Saúde",
+        "id": "node/5216110876"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.7389906,
+          -20.8724209
+        ]
+      }
+    }
+  ]
+}

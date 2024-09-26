@@ -1,0 +1,82 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1202959232",
+      "properties": {
+        "timestamp": "2023-08-28T20:26:56Z",
+        "version": 1,
+        "changeset": 140512019,
+        "addr:housenumber": "300",
+        "addr:postcode": "96540-000",
+        "addr:street": "Avenida Euclides Kliemann",
+        "addr:suburb": "Progresso",
+        "amenity": "hospital",
+        "contact:phone": "+55 55 3265-1122",
+        "healthcare": "hospital",
+        "name": "Hospital Agudo",
+        "ref:CNES": "2234386",
+        "ref:vatin": "BR87068094000119",
+        "id": "way/1202959232"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -53.2415029,
+              -29.6488151
+            ],
+            [
+              -53.2415137,
+              -29.6492649
+            ],
+            [
+              -53.2412052,
+              -29.6494631
+            ],
+            [
+              -53.2407331,
+              -29.6494631
+            ],
+            [
+              -53.2407331,
+              -29.6492859
+            ],
+            [
+              -53.2404542,
+              -29.6492859
+            ],
+            [
+              -53.2404542,
+              -29.6488151
+            ],
+            [
+              -53.2415029,
+              -29.6488151
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3281421030",
+      "properties": {
+        "timestamp": "2016-06-15T02:22:30Z",
+        "version": 2,
+        "changeset": 40029597,
+        "amenity": "hospital",
+        "id": "node/3281421030"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.2504528,
+          -29.6425918
+        ]
+      }
+    }
+  ]
+}

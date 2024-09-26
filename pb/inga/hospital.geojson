@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/258909798",
+      "properties": {
+        "timestamp": "2021-03-05T19:52:19Z",
+        "version": 2,
+        "changeset": 100512263,
+        "addr:city": "Ingá",
+        "addr:street": "Rua Padre José Alves",
+        "amenity": "hospital",
+        "building": "yes",
+        "healthcare": "hospital",
+        "name": "Hospital Tibúrcio Valeriano de Oliveira",
+        "id": "way/258909798"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -35.6124917,
+              -7.2891805
+            ],
+            [
+              -35.6125373,
+              -7.2894545
+            ],
+            [
+              -35.612261,
+              -7.2895982
+            ],
+            [
+              -35.6121618,
+              -7.2892204
+            ],
+            [
+              -35.6124917,
+              -7.2891805
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2642187034",
+      "properties": {
+        "timestamp": "2021-03-05T19:52:19Z",
+        "version": 3,
+        "changeset": 100512263,
+        "addr:city": "Ingá",
+        "addr:housename": "Hospital Tiburcio Valeriano de Oliveira",
+        "addr:street": "Rua Padre José Alves",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hospital Tiburcio Valeriano de Oliveira",
+        "id": "node/2642187034"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.6122463,
+          -7.2894239
+        ]
+      }
+    }
+  ]
+}

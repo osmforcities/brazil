@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/558480852",
+      "properties": {
+        "timestamp": "2020-09-10T13:42:04Z",
+        "version": 2,
+        "changeset": 90705939,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Centro de Saúde",
+        "operator": "Luciana de Cassia Countinho",
+        "id": "way/558480852"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.5738378,
+              -15.1514189
+            ],
+            [
+              -49.5739102,
+              -15.1512622
+            ],
+            [
+              -49.5741116,
+              -15.1513285
+            ],
+            [
+              -49.5740373,
+              -15.1514951
+            ],
+            [
+              -49.5738378,
+              -15.1514189
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5364344748",
+      "properties": {
+        "timestamp": "2018-02-04T12:13:14Z",
+        "version": 2,
+        "changeset": 56053294,
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Centro e Saúde",
+        "opening_hours": "Atendimento normal 07:00-11:00 e 13:00-27:00 , após apenas emergencias",
+        "operator": "Luciana de Cassia Coutinho",
+        "id": "node/5364344748"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.5739423,
+          -15.1513479
+        ]
+      }
+    }
+  ]
+}

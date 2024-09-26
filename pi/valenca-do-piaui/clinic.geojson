@@ -1,0 +1,120 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/930419119",
+      "properties": {
+        "timestamp": "2021-04-13T20:33:04Z",
+        "version": 1,
+        "changeset": 102887605,
+        "addr:city": "Valença do Piauí",
+        "addr:street": "Rua Eurípedes Martins",
+        "addr:suburb": "Centro",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "id": "way/930419119"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.7378603,
+              -6.4054206
+            ],
+            [
+              -41.7382242,
+              -6.4051711
+            ],
+            [
+              -41.7384225,
+              -6.4054286
+            ],
+            [
+              -41.7380619,
+              -6.4056933
+            ],
+            [
+              -41.7378603,
+              -6.4054206
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8575071065",
+      "properties": {
+        "timestamp": "2021-03-30T12:23:08Z",
+        "version": 1,
+        "changeset": 101985286,
+        "addr:city": "Valença do Piauí",
+        "addr:housenumber": "SN",
+        "addr:postcode": "64300-000",
+        "addr:street": "Rua Eurípedes Martins, praça do quartel",
+        "addr:suburb": "Centro",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Centro do Covid",
+        "opening_hours": "08:00-17:00",
+        "id": "node/8575071065"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.7422521,
+          -6.4022829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9251418872",
+      "properties": {
+        "timestamp": "2021-11-14T20:48:34Z",
+        "version": 1,
+        "changeset": 113778536,
+        "addr:city": "Valença do Piauí",
+        "addr:street": "Rua Amadeus Soares",
+        "addr:suburb": "Lavanderia",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posto de Saúde Nemémio Veloso",
+        "id": "node/9251418872"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.7375291,
+          -6.4100883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9251418873",
+      "properties": {
+        "timestamp": "2021-11-14T20:48:34Z",
+        "version": 1,
+        "changeset": 113778536,
+        "addr:city": "Valença do Piauí",
+        "addr:street": "Rua Luís Veloso",
+        "addr:suburb": "São Francisco",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "UBS Iêda Lima Verde",
+        "id": "node/9251418873"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.7323453,
+          -6.4098131
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/285514759",
+      "properties": {
+        "timestamp": "2021-01-04T20:47:23Z",
+        "version": 2,
+        "changeset": 96932752,
+        "addr:city": "Nova Campina",
+        "addr:postcode": "18435-000",
+        "addr:street": "Rua Salatiel David Müzel",
+        "building": "yes",
+        "name": "Bicicletaria do Nil",
+        "shop": "bicycle",
+        "id": "way/285514759"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.9066451,
+              -24.1223645
+            ],
+            [
+              -48.9065936,
+              -24.122415
+            ],
+            [
+              -48.9065442,
+              -24.1223771
+            ],
+            [
+              -48.9065936,
+              -24.1223248
+            ],
+            [
+              -48.9066451,
+              -24.1223645
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8476586181",
+      "properties": {
+        "timestamp": "2021-03-01T19:03:23Z",
+        "version": 1,
+        "changeset": 100226014,
+        "name": "Bicicletaria do João Carlos",
+        "shop": "bicycle",
+        "id": "node/8476586181"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.9051083,
+          -24.1224408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8476851332",
+      "properties": {
+        "timestamp": "2021-03-01T19:10:43Z",
+        "version": 1,
+        "changeset": 100226375,
+        "name": "Bicicletaria do Nil",
+        "shop": "bicycle",
+        "id": "node/8476851332"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.9066089,
+          -24.122356
+        ]
+      }
+    }
+  ]
+}

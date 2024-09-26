@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/350676924",
+      "properties": {
+        "timestamp": "2016-06-18T05:32:11Z",
+        "version": 3,
+        "changeset": 40109323,
+        "addr:postcode": "46580-000",
+        "amenity": "hospital",
+        "name": "Programa de Saúde da Família",
+        "operator": "Prefeitura Municipal de Tanque Novo",
+        "id": "way/350676924"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.6756443,
+              -13.5098898
+            ],
+            [
+              -42.6754972,
+              -13.5096628
+            ],
+            [
+              -42.675733,
+              -13.5095424
+            ],
+            [
+              -42.6758638,
+              -13.5097876
+            ],
+            [
+              -42.6756443,
+              -13.5098898
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3678380309",
+      "properties": {
+        "timestamp": "2016-06-15T02:22:31Z",
+        "version": 2,
+        "changeset": 40029597,
+        "addr:city": "Tanque Novo",
+        "addr:street": "Travessa dos Pimentas 1",
+        "amenity": "hospital",
+        "source": "IBGE mapa de setores urbanos",
+        "id": "node/3678380309"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.483683,
+          -13.5526716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3678380317",
+      "properties": {
+        "timestamp": "2015-08-03T05:29:40Z",
+        "version": 1,
+        "changeset": 33060534,
+        "addr:city": "Tanque Novo",
+        "addr:street": "Rua Ângelo Marques da silva",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "source": "IBGE mapa de setores urbanos",
+        "id": "node/3678380317"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.491796,
+          -13.5503812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3678380528",
+      "properties": {
+        "timestamp": "2016-06-15T02:22:31Z",
+        "version": 2,
+        "changeset": 40029597,
+        "addr:city": "Tanque Novo",
+        "addr:suburb": "Alto dos Coqueiros",
+        "amenity": "hospital",
+        "source": "IBGE mapa de setores urbanos",
+        "id": "node/3678380528"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.4856826,
+          -13.5321053
+        ]
+      }
+    }
+  ]
+}

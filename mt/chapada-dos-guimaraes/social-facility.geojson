@@ -1,0 +1,180 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "relation/9467460",
+      "properties": {
+        "timestamp": "2019-04-08T04:27:52Z",
+        "version": 1,
+        "changeset": 68992808,
+        "amenity": "social_facility",
+        "name": "Vida Serena Premier",
+        "type": "multipolygon",
+        "id": "relation/9467460"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -55.744016,
+              -15.4697714
+            ],
+            [
+              -55.7440093,
+              -15.4697417
+            ],
+            [
+              -55.7439919,
+              -15.4696551
+            ],
+            [
+              -55.7451399,
+              -15.4694405
+            ],
+            [
+              -55.7454309,
+              -15.4697158
+            ],
+            [
+              -55.7440804,
+              -15.4699821
+            ],
+            [
+              -55.7440422,
+              -15.4698683
+            ],
+            [
+              -55.7440254,
+              -15.4698089
+            ],
+            [
+              -55.744016,
+              -15.4697714
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/682344304",
+      "properties": {
+        "timestamp": "2019-04-08T04:27:32Z",
+        "version": 1,
+        "changeset": 68992808,
+        "barrier": "wall",
+        "wall": "dry_stone",
+        "id": "way/682344304"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.744016,
+            -15.4697714
+          ],
+          [
+            -55.7440254,
+            -15.4698089
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/682344305",
+      "properties": {
+        "timestamp": "2019-04-08T04:27:32Z",
+        "version": 1,
+        "changeset": 68992808,
+        "access": "permissive",
+        "barrier": "gate",
+        "foot": "yes",
+        "id": "way/682344305"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.7440093,
+            -15.4697417
+          ],
+          [
+            -55.744016,
+            -15.4697714
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/682344306",
+      "properties": {
+        "timestamp": "2019-04-08T04:27:33Z",
+        "version": 1,
+        "changeset": 68992808,
+        "access": "permissive",
+        "barrier": "gate",
+        "motorcar": "yes",
+        "motorcycle": "yes",
+        "id": "way/682344306"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.7440422,
+            -15.4698683
+          ],
+          [
+            -55.7440254,
+            -15.4698089
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/682344307",
+      "properties": {
+        "timestamp": "2019-04-08T04:27:33Z",
+        "version": 1,
+        "changeset": 68992808,
+        "barrier": "wall",
+        "wall": "dry_stone",
+        "id": "way/682344307"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.7440093,
+            -15.4697417
+          ],
+          [
+            -55.7439919,
+            -15.4696551
+          ],
+          [
+            -55.7451399,
+            -15.4694405
+          ],
+          [
+            -55.7454309,
+            -15.4697158
+          ],
+          [
+            -55.7440804,
+            -15.4699821
+          ],
+          [
+            -55.7440422,
+            -15.4698683
+          ]
+        ]
+      }
+    }
+  ]
+}

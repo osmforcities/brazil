@@ -1,0 +1,167 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1137893173",
+      "properties": {
+        "timestamp": "2023-02-04T19:23:09Z",
+        "version": 1,
+        "changeset": 132087635,
+        "addr:city": "Canela",
+        "addr:country": "BR",
+        "addr:housenumber": "700",
+        "addr:state": "Rio Grande do Sul",
+        "addr:street": "Avenida Cônego João Marchesi",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "UBS Canelinha",
+        "id": "way/1137893173"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -50.7954429,
+              -29.3501621
+            ],
+            [
+              -50.7953813,
+              -29.3501041
+            ],
+            [
+              -50.7953639,
+              -29.3499288
+            ],
+            [
+              -50.7954751,
+              -29.3499204
+            ],
+            [
+              -50.7954837,
+              -29.3500072
+            ],
+            [
+              -50.7955315,
+              -29.3499568
+            ],
+            [
+              -50.7956012,
+              -29.3500071
+            ],
+            [
+              -50.7955608,
+              -29.3500497
+            ],
+            [
+              -50.7956562,
+              -29.350041
+            ],
+            [
+              -50.7956683,
+              -29.3501415
+            ],
+            [
+              -50.7954429,
+              -29.3501621
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3744930005",
+      "properties": {
+        "timestamp": "2024-07-05T21:28:31Z",
+        "version": 5,
+        "changeset": 153605313,
+        "access": "yes",
+        "addr:housenumber": "104",
+        "addr:street": "Avenida João Pessoa",
+        "alt_name": "UBS Materno Infantil",
+        "amenity": "clinic",
+        "emergency": "no",
+        "healthcare": "clinic",
+        "name": "Unidade Sanitária Doutor Pedro Sander",
+        "phone": "+55 54 3282-1184",
+        "id": "node/3744930005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.8114055,
+          -29.358671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5771956494",
+      "properties": {
+        "timestamp": "2024-05-09T17:27:10Z",
+        "version": 3,
+        "changeset": 151111573,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "community;dentist;vaccination;paediatrics",
+        "name": "EMEIEFI NOELI SILVA DE AZEVEDO E SOUZA",
+        "not:operator:wikidata": "Q7531056",
+        "operator": "SUS",
+        "operator:type": "government",
+        "source": "IBGE;local knowledge",
+        "id": "node/5771956494"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.8368328,
+          -29.3700397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5771956507",
+      "properties": {
+        "timestamp": "2024-07-05T21:28:31Z",
+        "version": 3,
+        "changeset": 153605313,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posto de Saúde Vila São Luiz",
+        "source": "IBGE",
+        "id": "node/5771956507"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.8076021,
+          -29.3472562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6876721647",
+      "properties": {
+        "timestamp": "2019-10-14T03:04:09Z",
+        "version": 1,
+        "changeset": 75639423,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Farmácia Municipal",
+        "id": "node/6876721647"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.8061534,
+          -29.3570083
+        ]
+      }
+    }
+  ]
+}

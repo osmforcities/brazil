@@ -1,0 +1,159 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/661328686",
+      "properties": {
+        "timestamp": "2020-01-06T19:54:15Z",
+        "version": 6,
+        "changeset": 79263417,
+        "addr:city": "Santana de Parnaíba",
+        "addr:street": "Largo da Matriz",
+        "amenity": "toilets",
+        "building": "public",
+        "building:levels": "1",
+        "name": "Sanitário Público",
+        "roof:material": "roof_tiles",
+        "roof:shape": "hipped",
+        "unisex": "yes",
+        "wikidata": "Q65936574",
+        "id": "way/661328686"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.913614,
+              -23.4455315
+            ],
+            [
+              -46.9136091,
+              -23.4454283
+            ],
+            [
+              -46.9136511,
+              -23.4454266
+            ],
+            [
+              -46.9136594,
+              -23.4454263
+            ],
+            [
+              -46.9136642,
+              -23.4455295
+            ],
+            [
+              -46.9136559,
+              -23.4455299
+            ],
+            [
+              -46.913614,
+              -23.4455315
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1174835599",
+      "properties": {
+        "timestamp": "2023-05-21T17:30:41Z",
+        "version": 1,
+        "changeset": 136381276,
+        "amenity": "toilets",
+        "building": "yes",
+        "female": "yes",
+        "male": "yes",
+        "toilets:disposal": "flush",
+        "wheelchair": "yes",
+        "id": "way/1174835599"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.8983517,
+              -23.4436194
+            ],
+            [
+              -46.8983745,
+              -23.4436563
+            ],
+            [
+              -46.8982874,
+              -23.4437016
+            ],
+            [
+              -46.8982646,
+              -23.4436647
+            ],
+            [
+              -46.8983517,
+              -23.4436194
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5185305521",
+      "properties": {
+        "timestamp": "2017-10-24T05:38:11Z",
+        "version": 1,
+        "changeset": 53197211,
+        "amenity": "toilets",
+        "id": "node/5185305521"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.8719989,
+          -23.4732756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6191336809",
+      "properties": {
+        "timestamp": "2019-09-07T13:19:12Z",
+        "version": 3,
+        "changeset": 74205603,
+        "entrance": "yes",
+        "male": "yes",
+        "id": "node/6191336809"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.9136559,
+          -23.4455299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6191336810",
+      "properties": {
+        "timestamp": "2019-09-07T13:19:12Z",
+        "version": 3,
+        "changeset": 74205603,
+        "entrance": "yes",
+        "female": "yes",
+        "id": "node/6191336810"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.9136511,
+          -23.4454266
+        ]
+      }
+    }
+  ]
+}

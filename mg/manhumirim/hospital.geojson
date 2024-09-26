@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/503897731",
+      "properties": {
+        "timestamp": "2017-06-29T03:34:59Z",
+        "version": 1,
+        "changeset": 49906495,
+        "addr:city": "Manhumirim",
+        "addr:housenumber": "132",
+        "addr:postcode": "36970-000",
+        "addr:street": "R. Maria Olinda",
+        "amenity": "hospital",
+        "name": "Hospital Padre Julio Maria",
+        "id": "way/503897731"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.9620265,
+              -20.3631483
+            ],
+            [
+              -41.9620686,
+              -20.3635511
+            ],
+            [
+              -41.9616903,
+              -20.3635992
+            ],
+            [
+              -41.9616389,
+              -20.3631921
+            ],
+            [
+              -41.9620265,
+              -20.3631483
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4941419640",
+      "properties": {
+        "timestamp": "2021-08-09T23:26:03Z",
+        "version": 4,
+        "changeset": 109431814,
+        "amenity": "hospital",
+        "name": "Hospital Padre Julio Maria",
+        "id": "node/4941419640"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.9618055,
+          -20.3633944
+        ]
+      }
+    }
+  ]
+}

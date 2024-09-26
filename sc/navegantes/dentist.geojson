@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/708119725",
+      "properties": {
+        "timestamp": "2022-12-20T02:32:17Z",
+        "version": 2,
+        "changeset": 130269433,
+        "amenity": "dentist",
+        "building": "retail",
+        "healthcare": "dentist",
+        "name": "Odontologia",
+        "opening_hours": "24/7",
+        "id": "way/708119725"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.6541814,
+              -26.8921545
+            ],
+            [
+              -48.6540497,
+              -26.8921556
+            ],
+            [
+              -48.6540491,
+              -26.8920986
+            ],
+            [
+              -48.6541808,
+              -26.8920975
+            ],
+            [
+              -48.6541814,
+              -26.8921545
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10656341394",
+      "properties": {
+        "timestamp": "2023-02-13T22:09:33Z",
+        "version": 1,
+        "changeset": 132511269,
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "healthcare:speciality": "dentistry",
+        "name": "Sedeur Odontologia Especializada",
+        "opening_hours": "Mo-Fr 08:00-19:00",
+        "phone": "+55 47 3342 2103",
+        "website": "https://sedeur-odontologia.negocio.site/",
+        "id": "node/10656341394"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.6497381,
+          -26.9013879
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/379490750",
+      "properties": {
+        "timestamp": "2019-10-08T18:25:20Z",
+        "version": 2,
+        "changeset": 75426411,
+        "addr:city": "Seabra",
+        "addr:housenumber": "55",
+        "addr:postcode": "46900-000",
+        "addr:street": "Rua Paulo VI",
+        "addr:suburb": "Centro",
+        "building": "yes",
+        "government": "administrative",
+        "name": "DIRES",
+        "office": "government",
+        "id": "way/379490750"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.7701533,
+              -12.4155469
+            ],
+            [
+              -41.770153,
+              -12.4152353
+            ],
+            [
+              -41.7708507,
+              -12.4152345
+            ],
+            [
+              -41.7708511,
+              -12.415546
+            ],
+            [
+              -41.7701533,
+              -12.4155469
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/530307222",
+      "properties": {
+        "timestamp": "2022-12-14T19:42:09Z",
+        "version": 3,
+        "changeset": 130087942,
+        "building": "public",
+        "government": "tax",
+        "name": "Receita Federal",
+        "office": "government",
+        "id": "way/530307222"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.769383,
+              -12.4185597
+            ],
+            [
+              -41.7693841,
+              -12.4186616
+            ],
+            [
+              -41.7693347,
+              -12.4186621
+            ],
+            [
+              -41.7693336,
+              -12.4185602
+            ],
+            [
+              -41.769383,
+              -12.4185597
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10962036053",
+      "properties": {
+        "timestamp": "2023-06-07T18:40:53Z",
+        "version": 1,
+        "changeset": 137067689,
+        "addr:city": "Seabra",
+        "addr:postcode": "46900-000",
+        "addr:street": "Rua 22 de Abril",
+        "addr:suburb": "Santa Luzia",
+        "government": "social_security",
+        "name": "INSS",
+        "office": "government",
+        "operator": "Instituto Nacional do Seguro Social",
+        "operator:short": "INSS",
+        "operator:wikidata": "Q10302614",
+        "id": "node/10962036053"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.7702076,
+          -12.4321026
+        ]
+      }
+    }
+  ]
+}

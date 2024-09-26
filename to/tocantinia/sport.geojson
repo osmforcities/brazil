@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1033880084",
+      "properties": {
+        "timestamp": "2023-10-09T10:59:28Z",
+        "version": 2,
+        "changeset": 142344194,
+        "leisure": "pitch",
+        "sport": "soccer",
+        "id": "way/1033880084"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.3746993,
+              -9.5690945
+            ],
+            [
+              -48.3750095,
+              -9.5700251
+            ],
+            [
+              -48.3744109,
+              -9.5702191
+            ],
+            [
+              -48.3741948,
+              -9.5695703
+            ],
+            [
+              -48.3741009,
+              -9.5692884
+            ],
+            [
+              -48.3746993,
+              -9.5690945
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6841033047",
+      "properties": {
+        "timestamp": "2023-10-09T10:59:28Z",
+        "version": 2,
+        "changeset": 142344194,
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:type": "communication",
+        "id": "node/6841033047"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3741948,
+          -9.5695703
+        ]
+      }
+    }
+  ]
+}

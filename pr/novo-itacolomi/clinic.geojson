@@ -1,0 +1,78 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1153607746",
+      "properties": {
+        "timestamp": "2023-03-11T23:28:43Z",
+        "version": 2,
+        "changeset": 133570391,
+        "addr:postcode": "86895-000",
+        "addr:street": "Rua Joaquim Sabino Dias",
+        "addr:suburb": "Centro",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Unidade de Atenção Primaria Saúde da Família",
+        "opening_hours": "Mo-Fr 08:00-18:00; Sa,Su,PH off",
+        "phone": "+55 43 3437 1007",
+        "ref": "CNES-5983428",
+        "source": "CNES",
+        "id": "way/1153607746"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.5087298,
+              -23.7634386
+            ],
+            [
+              -51.5087921,
+              -23.7636675
+            ],
+            [
+              -51.5084886,
+              -23.7637037
+            ],
+            [
+              -51.5084392,
+              -23.7635092
+            ],
+            [
+              -51.5087298,
+              -23.7634386
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10728562206",
+      "properties": {
+        "timestamp": "2023-03-11T23:32:08Z",
+        "version": 1,
+        "changeset": 133570451,
+        "addr:housenumber": "673",
+        "addr:postcode": "86895-000",
+        "addr:street": "Avenida 28 de Setembro",
+        "addr:suburb": "Centro",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "opening_hours": "Mo-Fr 08:00-17:00; Sa.Su,PH off",
+        "phone": "+55 43 3437 1007",
+        "source": "CNES",
+        "id": "node/10728562206"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.5081568,
+          -23.7635473
+        ]
+      }
+    }
+  ]
+}

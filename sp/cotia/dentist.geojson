@@ -1,0 +1,82 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1299814055",
+      "properties": {
+        "timestamp": "2024-07-26T12:46:01Z",
+        "version": 2,
+        "changeset": 154441119,
+        "addr:city": "Cotia",
+        "addr:housenumber": "557",
+        "addr:street": "Rua dos Manacás",
+        "addr:suburb": "Jardim da Glória",
+        "amenity": "dentist",
+        "building": "yes",
+        "healthcare": "dentist",
+        "healthcare:speciality": "dentistry",
+        "name": "Odontoclinic - Granja Viana",
+        "operator": "Odontoclinic",
+        "id": "way/1299814055"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.8407441,
+              -23.5971147
+            ],
+            [
+              -46.8408227,
+              -23.5971653
+            ],
+            [
+              -46.8407412,
+              -23.5972716
+            ],
+            [
+              -46.8406885,
+              -23.5972377
+            ],
+            [
+              -46.8406626,
+              -23.597221
+            ],
+            [
+              -46.8407441,
+              -23.5971147
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8887509132",
+      "properties": {
+        "timestamp": "2021-07-02T11:24:10Z",
+        "version": 1,
+        "changeset": 107307737,
+        "addr:city": "Cotia - SP",
+        "addr:housenumber": "35",
+        "addr:postcode": "06710-700",
+        "addr:street": "Rua Adib Auada - Sala 110c",
+        "addr:suburb": "Jardim Lambreta",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "healthcare:speciality": "Dentista",
+        "name": "Prime Care - Odontologia e Saúde Integrada",
+        "id": "node/8887509132"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.8286311,
+          -23.5912646
+        ]
+      }
+    }
+  ]
+}

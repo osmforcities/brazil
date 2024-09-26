@@ -1,0 +1,81 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/814066794",
+      "properties": {
+        "timestamp": "2024-03-14T10:27:44Z",
+        "version": 2,
+        "changeset": 148633937,
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Hospital São Lucas",
+        "source": "Minha cidade natal",
+        "id": "way/814066794"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.0448365,
+              -1.5129957
+            ],
+            [
+              -48.0440551,
+              -1.5128844
+            ],
+            [
+              -48.0440705,
+              -1.5127671
+            ],
+            [
+              -48.0440792,
+              -1.512752
+            ],
+            [
+              -48.0440947,
+              -1.5127356
+            ],
+            [
+              -48.0441118,
+              -1.5127269
+            ],
+            [
+              -48.0448698,
+              -1.5127021
+            ],
+            [
+              -48.0448365,
+              -1.5129957
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1978722507",
+      "properties": {
+        "timestamp": "2024-03-14T10:27:44Z",
+        "version": 4,
+        "changeset": 148633937,
+        "amenity": "hospital",
+        "emergency": "no",
+        "healthcare": "hospital",
+        "name": "Unidade básica de saúde de Bujaru",
+        "source": "local knowledge",
+        "id": "node/1978722507"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.0466296,
+          -1.5160336
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1295109561",
+      "properties": {
+        "timestamp": "2024-08-03T02:44:28Z",
+        "version": 2,
+        "changeset": 154757880,
+        "addr:city": "Vinhedo",
+        "addr:housenumber": "723",
+        "addr:postcode": "13289-326",
+        "addr:street": "Avenida Arnaldo Biagioli",
+        "addr:suburb": "Pinheirinho",
+        "amenity": "kindergarten",
+        "description": "Escola de Educação Infantil e Ensino Fundamental",
+        "name": "Escola Terra Terrinha",
+        "phone": "+55 19 3886 3898",
+        "preschool": "yes",
+        "id": "way/1295109561"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.9832514,
+              -23.0410721
+            ],
+            [
+              -46.9836593,
+              -23.0412085
+            ],
+            [
+              -46.9838147,
+              -23.0412615
+            ],
+            [
+              -46.9837529,
+              -23.0414802
+            ],
+            [
+              -46.9837035,
+              -23.0416436
+            ],
+            [
+              -46.9835604,
+              -23.0416028
+            ],
+            [
+              -46.9835126,
+              -23.0417233
+            ],
+            [
+              -46.983147,
+              -23.0416477
+            ],
+            [
+              -46.9832514,
+              -23.0410721
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12001783258",
+      "properties": {
+        "timestamp": "2024-08-21T03:54:08Z",
+        "version": 2,
+        "changeset": 155536361,
+        "access": "customers",
+        "door": "gate",
+        "entrance": "main",
+        "id": "node/12001783258"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.9837529,
+          -23.0414802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12089842401",
+      "properties": {
+        "timestamp": "2024-08-21T03:54:08Z",
+        "version": 3,
+        "changeset": 155536361,
+        "access": "private",
+        "door": "gate",
+        "entrance": "exit",
+        "id": "node/12089842401"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.9836593,
+          -23.0412085
+        ]
+      }
+    }
+  ]
+}

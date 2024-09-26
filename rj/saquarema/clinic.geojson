@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1176482299",
+      "properties": {
+        "timestamp": "2023-05-27T01:22:37Z",
+        "version": 1,
+        "changeset": 136608546,
+        "addr:city": "Saquarema",
+        "addr:street": "Estrada de Bicuilba",
+        "addr:suburb": "Bicuíba",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "community;vaccination;orthodontics",
+        "name": "Posto de Saúde de Bicuíba",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "id": "way/1176482299"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.4041243,
+              -22.8731607
+            ],
+            [
+              -42.4042968,
+              -22.8731624
+            ],
+            [
+              -42.404296,
+              -22.8732333
+            ],
+            [
+              -42.4041235,
+              -22.8732316
+            ],
+            [
+              -42.4041243,
+              -22.8731607
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5943711339",
+      "properties": {
+        "timestamp": "2024-04-18T19:50:44Z",
+        "version": 4,
+        "changeset": 150192270,
+        "addr:city": "Saquarema",
+        "addr:postcode": "28990-000",
+        "addr:street": "Rua Praia de São Conrado",
+        "addr:suburb": "Vilatur, Saquarema",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Posto de saúde",
+        "opening_hours": "segunda feira 08:00-16:30   terça-feira     08:00-16:30 quarta-feira 08:00-16:30 quinta-feira 08:00-16:30 sexta-feira 08:00-16:30 sábado Fechado domingo Fechado",
+        "id": "node/5943711339"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.4115908,
+          -22.9332117
+        ]
+      }
+    }
+  ]
+}

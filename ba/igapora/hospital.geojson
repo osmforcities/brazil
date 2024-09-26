@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/838350338",
+      "properties": {
+        "timestamp": "2020-08-18T20:05:01Z",
+        "version": 1,
+        "changeset": 89594274,
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Hospital Municipal de Igaporã",
+        "source": "IBGE Mapa de Setores Urbanos",
+        "id": "way/838350338"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.7123417,
+              -13.7739717
+            ],
+            [
+              -42.7120398,
+              -13.7743507
+            ],
+            [
+              -42.711854,
+              -13.7741854
+            ],
+            [
+              -42.7113416,
+              -13.7737296
+            ],
+            [
+              -42.7114902,
+              -13.7735808
+            ],
+            [
+              -42.7114097,
+              -13.7734966
+            ],
+            [
+              -42.7114128,
+              -13.773471
+            ],
+            [
+              -42.7117116,
+              -13.773389
+            ],
+            [
+              -42.7123417,
+              -13.7739717
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3690637670",
+      "properties": {
+        "timestamp": "2015-08-11T02:18:53Z",
+        "version": 1,
+        "changeset": 33256754,
+        "amenity": "hospital",
+        "name": "Unidade do PSF",
+        "source": "IBGE Mapa de Setores Urbanos",
+        "id": "node/3690637670"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.7221009,
+          -13.7775334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3690637674",
+      "properties": {
+        "timestamp": "2020-08-18T20:05:01Z",
+        "version": 2,
+        "changeset": 89594274,
+        "barrier": "gate",
+        "id": "node/3690637674"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.711854,
+          -13.7741854
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1161842390",
+      "properties": {
+        "timestamp": "2023-12-10T16:01:03Z",
+        "version": 2,
+        "changeset": 144969547,
+        "access": "customers",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "shed",
+        "building": "shed",
+        "covered": "yes",
+        "fee": "no",
+        "id": "way/1161842390"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.9031588,
+              -27.1427639
+            ],
+            [
+              -48.9031656,
+              -27.1429662
+            ],
+            [
+              -48.9031077,
+              -27.142967
+            ],
+            [
+              -48.9031035,
+              -27.1427651
+            ],
+            [
+              -48.9031588,
+              -27.1427639
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5463292669",
+      "properties": {
+        "timestamp": "2018-03-08T01:41:09Z",
+        "version": 1,
+        "changeset": 56984952,
+        "amenity": "bicycle_parking",
+        "id": "node/5463292669"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.9198419,
+          -27.0941875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10804739996",
+      "properties": {
+        "timestamp": "2023-04-12T14:54:52Z",
+        "version": 1,
+        "changeset": 134821692,
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "id": "node/10804739996"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.91271,
+          -27.0990837
+        ]
+      }
+    }
+  ]
+}

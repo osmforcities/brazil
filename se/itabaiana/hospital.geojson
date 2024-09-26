@@ -1,0 +1,228 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "relation/3847014",
+      "properties": {
+        "timestamp": "2021-11-22T00:27:48Z",
+        "version": 4,
+        "changeset": 114077302,
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Hospital Regional Doutor Pedro Garcia Moreno",
+        "type": "multipolygon",
+        "id": "relation/3847014"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -37.4285868,
+              -10.6946699
+            ],
+            [
+              -37.428393,
+              -10.6946978
+            ],
+            [
+              -37.428403,
+              -10.694837
+            ],
+            [
+              -37.4281891,
+              -10.6948773
+            ],
+            [
+              -37.4281528,
+              -10.6946864
+            ],
+            [
+              -37.4277226,
+              -10.6947531
+            ],
+            [
+              -37.4276345,
+              -10.6942059
+            ],
+            [
+              -37.4284817,
+              -10.6939281
+            ],
+            [
+              -37.4285719,
+              -10.6938985
+            ],
+            [
+              -37.4285817,
+              -10.6943303
+            ],
+            [
+              -37.4285868,
+              -10.6946699
+            ]
+          ],
+          [
+            [
+              -37.4285006,
+              -10.6944465
+            ],
+            [
+              -37.428498,
+              -10.694352
+            ],
+            [
+              -37.4284499,
+              -10.6943625
+            ],
+            [
+              -37.4284125,
+              -10.6941551
+            ],
+            [
+              -37.4277046,
+              -10.6942732
+            ],
+            [
+              -37.4277526,
+              -10.6945882
+            ],
+            [
+              -37.4285006,
+              -10.6944465
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/289603276",
+      "properties": {
+        "timestamp": "2014-06-24T18:36:12Z",
+        "version": 1,
+        "changeset": 23128393,
+        "building": "hospital",
+        "id": "way/289603276"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -37.4285006,
+              -10.6944465
+            ],
+            [
+              -37.4277526,
+              -10.6945882
+            ],
+            [
+              -37.4277046,
+              -10.6942732
+            ],
+            [
+              -37.4284125,
+              -10.6941551
+            ],
+            [
+              -37.4284499,
+              -10.6943625
+            ],
+            [
+              -37.428498,
+              -10.694352
+            ],
+            [
+              -37.4285006,
+              -10.6944465
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/827751355",
+      "properties": {
+        "timestamp": "2021-11-22T00:27:48Z",
+        "version": 2,
+        "changeset": 114077302,
+        "addr:city": "Itabaiana",
+        "addr:street": "Rua 13 de Julho",
+        "addr:suburb": "Centro",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "Semedi",
+        "phone": "+557934215000",
+        "id": "way/827751355"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -37.4289234,
+              -10.6931035
+            ],
+            [
+              -37.4290191,
+              -10.6936081
+            ],
+            [
+              -37.428665,
+              -10.6937241
+            ],
+            [
+              -37.4286331,
+              -10.6932289
+            ],
+            [
+              -37.4289234,
+              -10.6931035
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3413583090",
+      "properties": {
+        "timestamp": "2015-03-22T22:46:31Z",
+        "version": 1,
+        "changeset": 29667957,
+        "entrance": "yes",
+        "id": "node/3413583090"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.4284817,
+          -10.6939281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3413583092",
+      "properties": {
+        "timestamp": "2015-03-22T22:46:31Z",
+        "version": 1,
+        "changeset": 29667957,
+        "entrance": "exit",
+        "id": "node/3413583092"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.4285817,
+          -10.6943303
+        ]
+      }
+    }
+  ]
+}

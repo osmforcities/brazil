@@ -1,0 +1,79 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/844373258",
+      "properties": {
+        "timestamp": "2020-09-04T19:14:20Z",
+        "version": 1,
+        "changeset": 90430221,
+        "abandoned": "yes",
+        "amenity": "toilets",
+        "female": "yes",
+        "male": "yes",
+        "owner": "União Federal",
+        "ownership": "national",
+        "id": "way/844373258"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -50.8684294,
+              -21.2246433
+            ],
+            [
+              -50.8684123,
+              -21.2247682
+            ],
+            [
+              -50.8683485,
+              -21.2247606
+            ],
+            [
+              -50.8683582,
+              -21.2246895
+            ],
+            [
+              -50.8683747,
+              -21.2246915
+            ],
+            [
+              -50.8683821,
+              -21.2246377
+            ],
+            [
+              -50.8684294,
+              -21.2246433
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5287412765",
+      "properties": {
+        "timestamp": "2021-03-13T08:04:30Z",
+        "version": 3,
+        "changeset": 100944078,
+        "amenity": "toilets",
+        "fee": "no",
+        "female": "yes",
+        "male": "yes",
+        "toilets:disposal": "flush",
+        "toilets:position": "seated;urinal",
+        "id": "node/5287412765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.8662447,
+          -21.2234278
+        ]
+      }
+    }
+  ]
+}

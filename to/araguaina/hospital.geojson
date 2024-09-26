@@ -1,0 +1,207 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/816358772",
+      "properties": {
+        "timestamp": "2023-05-07T22:26:01Z",
+        "version": 3,
+        "changeset": 135828768,
+        "addr:city": "Araguaína",
+        "addr:housenumber": "650",
+        "addr:postcode": "77818-030",
+        "addr:street": "Avenida Tibúrcio José Dantas",
+        "addr:suburb": "Loteamento Manoel Gomes da Cunha",
+        "amenity": "hospital",
+        "email": "sau@hma-to.med.br",
+        "healthcare": "hospital",
+        "healthcare:speciality": "paediatrics;ophthalmology;radiology;cardiology",
+        "name": "Hospital Municipal de Araguaina",
+        "operation": "24 hrs",
+        "operator": "Gerenciado pelo ISAC - Instituto Saúde e Cidadania Gestão compartilhada com a Prefeitura Municipal de Araguína/TO",
+        "operator:type": "public",
+        "phone": "+55 63 3413 2160",
+        "ref:CNES": "3663051",
+        "ref:vatin": "BR49240786000103",
+        "id": "way/816358772"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.2241666,
+              -7.1878452
+            ],
+            [
+              -48.2235621,
+              -7.188215
+            ],
+            [
+              -48.223408,
+              -7.1880343
+            ],
+            [
+              -48.223231,
+              -7.1876796
+            ],
+            [
+              -48.2236636,
+              -7.1877346
+            ],
+            [
+              -48.2241588,
+              -7.1877716
+            ],
+            [
+              -48.2241666,
+              -7.1878452
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/816358777",
+      "properties": {
+        "timestamp": "2023-05-07T22:26:01Z",
+        "version": 2,
+        "changeset": 135828768,
+        "addr:city": "Araguaína",
+        "addr:housenumber": "100",
+        "addr:postcode": "77803-010",
+        "addr:street": "Avenida Dom Orione",
+        "addr:suburb": "Centro",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hosital Maternidade Dom Orione",
+        "operator:ref:vatin": "BR01368232000160",
+        "ref:CNES": "2755165",
+        "ref:vatin": "BR01368232000321",
+        "id": "way/816358777"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.2150815,
+              -7.1915093
+            ],
+            [
+              -48.2140169,
+              -7.1918405
+            ],
+            [
+              -48.2136578,
+              -7.190403
+            ],
+            [
+              -48.2143697,
+              -7.1902218
+            ],
+            [
+              -48.2151067,
+              -7.1910718
+            ],
+            [
+              -48.2150815,
+              -7.1915093
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9063927391",
+      "properties": {
+        "timestamp": "2021-09-05T12:29:37Z",
+        "version": 1,
+        "changeset": 110747624,
+        "addr:city": "Araguaína",
+        "addr:housenumber": "s/n",
+        "addr:postcode": "77828-406",
+        "addr:street": "Rua das Tulipas",
+        "addr:suburb": "Jardim das Flores",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "covid19",
+        "name": "Hospital Municipal de Araguaina - Campanha",
+        "operation": "24 hrs",
+        "operator": "Prefeitura Municipal de Araguaína/TO e ISAC - Instituto Saúde e Cidadania",
+        "operator:type": "public",
+        "id": "node/9063927391"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.1783868,
+          -7.2045769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9064878507",
+      "properties": {
+        "timestamp": "2021-09-23T20:16:21Z",
+        "version": 3,
+        "changeset": 111617465,
+        "addr:city": "Araguaína",
+        "addr:housenumber": "716",
+        "addr:postcode": "77825-800",
+        "addr:street": "Rua Colinas",
+        "addr:suburb": "Vila Norte",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "emergency",
+        "name": "UPA Norte",
+        "operation": "24 hrs",
+        "id": "node/9064878507"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.1977313,
+          -7.1622198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9064919276",
+      "properties": {
+        "timestamp": "2022-06-27T13:49:26Z",
+        "version": 2,
+        "changeset": 122912097,
+        "addr:city": "Araguaína",
+        "addr:housenumber": "1018",
+        "addr:postcode": "77826-552",
+        "addr:street": "Rua dos Pinheiros",
+        "addr:suburb": "Setor Loteamento Araguaína Sul",
+        "amenity": "hospital",
+        "email": "sau@upaaraguaina.med.br",
+        "healthcare": "hospital",
+        "healthcare:speciality": "public",
+        "name": "Unidade de Pronto Atendimento Araguaína Sul",
+        "operation": "24 hrs",
+        "operator": "Sistema Único de Saúde",
+        "operator:short": "SUS",
+        "operator:wikidata": "Q7531056",
+        "phone": "+55 63 3414 0755",
+        "id": "node/9064919276"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.1858472,
+          -7.1926946
+        ]
+      }
+    }
+  ]
+}

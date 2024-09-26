@@ -1,0 +1,182 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1036440816",
+      "properties": {
+        "timestamp": "2022-03-02T04:05:00Z",
+        "version": 1,
+        "changeset": 118002221,
+        "addr:city": "Alcântara",
+        "addr:postcode": "65250-000",
+        "addr:street": "Rua Grande",
+        "addr:suburb": "Centro",
+        "amenity": "social_facility",
+        "name": "Casa do Idoso",
+        "operator": "Prefeitura de Alcântara",
+        "operator:type": "public",
+        "social_facility:for": "senior",
+        "id": "way/1036440816"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.4162893,
+              -2.4073641
+            ],
+            [
+              -44.4162375,
+              -2.4074219
+            ],
+            [
+              -44.4162252,
+              -2.4074219
+            ],
+            [
+              -44.416148,
+              -2.4073641
+            ],
+            [
+              -44.4162016,
+              -2.4073001
+            ],
+            [
+              -44.4162893,
+              -2.4073641
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1036440823",
+      "properties": {
+        "timestamp": "2023-02-02T15:57:14Z",
+        "version": 2,
+        "changeset": 132009182,
+        "addr:city": "Alcântara",
+        "addr:postcode": "65250-000",
+        "addr:street": "Avenida Anel do Contorno",
+        "addr:suburb": "Caravelas",
+        "alt_name": "Centro de Referência de Assistência Social",
+        "amenity": "social_facility",
+        "name": "CRAS",
+        "operator": "SEDES/MA",
+        "operator:type": "government",
+        "social_facility": "outreach",
+        "social_facility:for": "underprivileged",
+        "id": "way/1036440823"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.4161982,
+              -2.4008595
+            ],
+            [
+              -44.4159889,
+              -2.400838
+            ],
+            [
+              -44.4160052,
+              -2.4007194
+            ],
+            [
+              -44.4162131,
+              -2.4007388
+            ],
+            [
+              -44.4161982,
+              -2.4008595
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5446684553",
+      "properties": {
+        "timestamp": "2022-03-02T04:05:00Z",
+        "version": 2,
+        "changeset": 118002221,
+        "addr:city": "Alcântara",
+        "addr:postcode": "65250-000",
+        "addr:street": "Rua das Mercês",
+        "amenity": "social_facility",
+        "name": "Centro de Atenção aos Idosos",
+        "operator": "Prefeitura de Alcântara",
+        "operator:type": "public",
+        "social_facility": "assisted_living",
+        "social_facility:for": "senior",
+        "id": "node/5446684553"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.4187029,
+          -2.4082181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9548706951",
+      "properties": {
+        "timestamp": "2022-03-02T04:05:00Z",
+        "version": 1,
+        "changeset": 118002221,
+        "addr:city": "Alcântara",
+        "addr:postcode": "65250-000",
+        "addr:street": "Rua Grande",
+        "addr:suburb": "Centro",
+        "amenity": "social_facility",
+        "name": "Casa do Idoso",
+        "operator": "Prefeitura de Alcântara",
+        "operator:type": "government",
+        "social_facility": "community_centre",
+        "social_facility:for": "senior",
+        "wheelchair": "limited",
+        "id": "node/9548706951"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.416202,
+          -2.4073929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9548712863",
+      "properties": {
+        "timestamp": "2022-03-02T04:05:00Z",
+        "version": 1,
+        "changeset": 118002221,
+        "addr:city": "Alcântara",
+        "addr:postcode": "65250-000",
+        "addr:street": "Rua das Mercês",
+        "addr:suburb": "Mercês",
+        "amenity": "social_facility",
+        "name": "Centro de Atenção Psicossocial (CAPS)",
+        "operator": "Prefeitura de Alcântara",
+        "operator:type": "government",
+        "id": "node/9548712863"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.4190238,
+          -2.4080899
+        ]
+      }
+    }
+  ]
+}

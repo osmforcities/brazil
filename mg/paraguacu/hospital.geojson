@@ -1,0 +1,83 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/739124615",
+      "properties": {
+        "timestamp": "2019-10-27T23:53:24Z",
+        "version": 2,
+        "changeset": 76278979,
+        "addr:housenumber": "528",
+        "addr:street": "Rua Padre Piccinini",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Hospital e Maternidade São Francisco de Assis",
+        "phone": "+55 35 3267 1018",
+        "id": "way/739124615"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -45.7316827,
+              -21.5485224
+            ],
+            [
+              -45.7315927,
+              -21.5484556
+            ],
+            [
+              -45.73157,
+              -21.548496
+            ],
+            [
+              -45.7312378,
+              -21.5483034
+            ],
+            [
+              -45.7315066,
+              -21.5477984
+            ],
+            [
+              -45.7319398,
+              -21.5480801
+            ],
+            [
+              -45.7316827,
+              -21.5485224
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12085579226",
+      "properties": {
+        "timestamp": "2024-07-31T17:01:23Z",
+        "version": 1,
+        "changeset": 154660075,
+        "addr:city": "Paraguaçu",
+        "addr:housenumber": "62",
+        "addr:postcode": "37120000",
+        "addr:street": "Rua Edward Eustáquio de Andrade",
+        "addr:suburb": "Centro",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "dentist;physiatry;pilates;fisioterapia;osteopathy",
+        "name": "Clínica Prioritá Saúde e Bem-Estar",
+        "id": "node/12085579226"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.7385712,
+          -21.5488194
+        ]
+      }
+    }
+  ]
+}

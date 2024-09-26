@@ -1,0 +1,74 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/177560076",
+      "properties": {
+        "timestamp": "2022-07-17T18:20:19Z",
+        "version": 7,
+        "changeset": 123730879,
+        "addr:housenumber": "188",
+        "addr:postcode": "37280-000",
+        "addr:street": "Avenida 17 de Dezembro",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Farmácia São José",
+        "phone": "+55 35 3833 1212",
+        "id": "way/177560076"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -45.2751201,
+              -20.7695433
+            ],
+            [
+              -45.2752199,
+              -20.7696267
+            ],
+            [
+              -45.2751447,
+              -20.7697053
+            ],
+            [
+              -45.2750449,
+              -20.7696219
+            ],
+            [
+              -45.2751201,
+              -20.7695433
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1901081327",
+      "properties": {
+        "timestamp": "2022-07-17T18:23:48Z",
+        "version": 4,
+        "changeset": 123730994,
+        "addr:housename": "66",
+        "addr:postcode": "37280-000",
+        "addr:street": "Praça da Bandeira",
+        "alt_name": "Rede UAI",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Farmácia São José II",
+        "phone": "+55 35 3833 1765",
+        "id": "node/1901081327"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.2716528,
+          -20.773373
+        ]
+      }
+    }
+  ]
+}

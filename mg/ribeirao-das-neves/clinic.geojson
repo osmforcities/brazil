@@ -1,0 +1,102 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/380685900",
+      "properties": {
+        "timestamp": "2018-10-25T00:21:01Z",
+        "version": 2,
+        "changeset": 63850350,
+        "amenity": "clinic",
+        "building": "yes",
+        "name": "Unidade de Pronto Antendimento",
+        "short_name": "UPA",
+        "id": "way/380685900"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.0892993,
+              -19.7684039
+            ],
+            [
+              -44.0893905,
+              -19.7685023
+            ],
+            [
+              -44.0894254,
+              -19.7685957
+            ],
+            [
+              -44.0892618,
+              -19.7688153
+            ],
+            [
+              -44.0890848,
+              -19.7686689
+            ],
+            [
+              -44.0892993,
+              -19.7684039
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4725023096",
+      "properties": {
+        "timestamp": "2022-07-29T00:10:17Z",
+        "version": 5,
+        "changeset": 124207274,
+        "addr:housenumber": "35",
+        "addr:postcode": "33805-300",
+        "addr:street": "Rua Dona Rozelmira Nogueira",
+        "amenity": "clinic",
+        "email": "clinevesltda@yahoo.com.br",
+        "healthcare": "clinic",
+        "name": "Clínica CLINEVES",
+        "name:en": "CLINEVES LTDA",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "phone": "+55 31 3624 1881",
+        "website": "https://pt-br.facebook.com/clinicaclineves",
+        "id": "node/4725023096"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.0859341,
+          -19.7679741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4738097324",
+      "properties": {
+        "timestamp": "2022-07-29T00:07:18Z",
+        "version": 2,
+        "changeset": 124207217,
+        "addr:housenumber": "65",
+        "addr:postcode": "33805-270",
+        "addr:street": "Rua Sao Cristovao",
+        "amenity": "clinic",
+        "name": "Clínica Alfa",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "phone": "+55 31 3627 5667",
+        "id": "node/4738097324"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.0839321,
+          -19.7709922
+        ]
+      }
+    }
+  ]
+}

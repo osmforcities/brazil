@@ -1,0 +1,84 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/670591691",
+      "properties": {
+        "timestamp": "2019-07-04T13:38:10Z",
+        "version": 4,
+        "changeset": 71897768,
+        "addr:street": "Avenida Nossa Senhora de Lourdes",
+        "amenity": "college",
+        "internet_access": "no",
+        "name": "E.E.E.P Professora Alda Façanha",
+        "id": "way/670591691"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.387961,
+              -3.9108129
+            ],
+            [
+              -38.3877908,
+              -3.9108438
+            ],
+            [
+              -38.3865681,
+              -3.910854
+            ],
+            [
+              -38.3864028,
+              -3.9108645
+            ],
+            [
+              -38.3864055,
+              -3.9103706
+            ],
+            [
+              -38.3877091,
+              -3.9097366
+            ],
+            [
+              -38.3878471,
+              -3.9097325
+            ],
+            [
+              -38.3878935,
+              -3.9101728
+            ],
+            [
+              -38.387961,
+              -3.9108129
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6577989784",
+      "properties": {
+        "timestamp": "2019-07-04T20:56:11Z",
+        "version": 2,
+        "changeset": 71910656,
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "E.E.E.P Professora Alda Façanha",
+        "public_transport": "platform",
+        "shelter": "no",
+        "id": "node/6577989784"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.3878935,
+          -3.9101728
+        ]
+      }
+    }
+  ]
+}

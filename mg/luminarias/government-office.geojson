@@ -1,0 +1,78 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/826503316",
+      "properties": {
+        "timestamp": "2021-03-28T10:44:13Z",
+        "version": 4,
+        "changeset": 101867895,
+        "addr:city": "Luminárias",
+        "addr:housenumber": "40",
+        "addr:postcode": "37240-000",
+        "addr:street": "Rua Coronel Diniz",
+        "addr:suburb": "Centro",
+        "air_conditioning": "no",
+        "building": "yes",
+        "building:levels": "2",
+        "building:levels:underground": "1",
+        "building:use": "government",
+        "government": "administrative",
+        "name": "Prefeitura Municipal de Luminárias",
+        "office": "government",
+        "smoking": "no",
+        "website": "https://luminarias.mg.gov.br/",
+        "wheelchair": "limited",
+        "id": "way/826503316"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.9043949,
+              -21.5115788
+            ],
+            [
+              -44.9043311,
+              -21.5115108
+            ],
+            [
+              -44.9044108,
+              -21.5114491
+            ],
+            [
+              -44.9044759,
+              -21.5115145
+            ],
+            [
+              -44.9043949,
+              -21.5115788
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8372121621",
+      "properties": {
+        "timestamp": "2021-01-28T14:51:24Z",
+        "version": 1,
+        "changeset": 98303980,
+        "government": "public_service",
+        "name": "Almoxarifado",
+        "office": "government",
+        "id": "node/8372121621"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.9036596,
+          -21.5093647
+        ]
+      }
+    }
+  ]
+}

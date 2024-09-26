@@ -1,0 +1,86 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/421727793",
+      "properties": {
+        "timestamp": "2016-05-30T05:25:15Z",
+        "version": 1,
+        "changeset": 39655669,
+        "addr:city": "Tamboril do Piauí",
+        "amenity": "clinic",
+        "building": "yes",
+        "name": "Centro de Saúde Santa Rita",
+        "id": "way/421727793"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.9097342,
+              -8.4011636
+            ],
+            [
+              -42.9097586,
+              -8.4012682
+            ],
+            [
+              -42.9095124,
+              -8.4013245
+            ],
+            [
+              -42.9094879,
+              -8.4012199
+            ],
+            [
+              -42.9097342,
+              -8.4011636
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4214721593",
+      "properties": {
+        "timestamp": "2016-05-30T03:43:50Z",
+        "version": 2,
+        "changeset": 39654724,
+        "addr:city": "Tamboril do Piauí",
+        "amenity": "clinic",
+        "emergency": "no",
+        "name": "Posto de Saúde",
+        "id": "node/4214721593"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.9121447,
+          -8.4014527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9455568915",
+      "properties": {
+        "timestamp": "2022-01-28T14:29:38Z",
+        "version": 1,
+        "changeset": 116709893,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "id": "node/9455568915"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.9100545,
+          -8.4009088
+        ]
+      }
+    }
+  ]
+}

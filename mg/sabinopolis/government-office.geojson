@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/641959121",
+      "properties": {
+        "timestamp": "2023-02-01T15:06:46Z",
+        "version": 2,
+        "changeset": 131967314,
+        "alt_name": "Centro de Referência Especializado de Assistência Social",
+        "amenity": "social_facility",
+        "building": "yes",
+        "name": "CREAS",
+        "office": "government",
+        "social_facility": "outreach",
+        "social_facility:for": "underprivileged;abused;victim",
+        "id": "way/641959121"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.0756918,
+              -18.6659729
+            ],
+            [
+              -43.0757627,
+              -18.6661271
+            ],
+            [
+              -43.0757139,
+              -18.6661472
+            ],
+            [
+              -43.0756893,
+              -18.6660939
+            ],
+            [
+              -43.0756581,
+              -18.6660966
+            ],
+            [
+              -43.0756157,
+              -18.6660043
+            ],
+            [
+              -43.0756918,
+              -18.6659729
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10072688259",
+      "properties": {
+        "timestamp": "2022-10-03T10:58:11Z",
+        "version": 1,
+        "changeset": 126930387,
+        "addr:city": "Sabinópolis",
+        "addr:housenumber": "82",
+        "addr:postcode": "39750-000",
+        "addr:street": "Rua Alencar José Pimenta",
+        "addr:suburb": "Centro",
+        "government": "prosecutor",
+        "office": "government",
+        "id": "node/10072688259"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.0831862,
+          -18.6664871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10073489306",
+      "properties": {
+        "timestamp": "2022-10-03T17:41:54Z",
+        "version": 1,
+        "changeset": 126951218,
+        "addr:city": "Sabinópolis",
+        "addr:housenumber": "28",
+        "addr:postcode": "39750-000",
+        "addr:street": "Avenida Cristal",
+        "addr:suburb": "Operário",
+        "government": "administrative",
+        "name": "Empresa de Assistência Técnica e Extensão Rural de Minas Gerais - Emater",
+        "office": "government",
+        "id": "node/10073489306"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.0782627,
+          -18.6688633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10073564455",
+      "properties": {
+        "timestamp": "2022-10-03T18:30:04Z",
+        "version": 1,
+        "changeset": 126952937,
+        "addr:city": "Sabinópolis",
+        "addr:housenumber": "12",
+        "addr:postcode": "39750-000",
+        "addr:street": "Rua Alencar José Pimenta",
+        "addr:suburb": "Centro",
+        "email": "sabinopolis@ima.mg.gov.br",
+        "government": "administrative",
+        "name": "Instituto Mineiro de Agropecuária - Ima",
+        "office": "government",
+        "phone": "+55 33 3423 2222",
+        "id": "node/10073564455"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.0828948,
+          -18.6659465
+        ]
+      }
+    }
+  ]
+}

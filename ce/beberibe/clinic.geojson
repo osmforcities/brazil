@@ -1,0 +1,96 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/235272221",
+      "properties": {
+        "timestamp": "2019-05-05T00:45:03Z",
+        "version": 2,
+        "changeset": 69892399,
+        "amenity": "clinic",
+        "building": "yes",
+        "emergency": "no",
+        "healthcare": "clinic",
+        "name": "Casa de Apoio à Saúde",
+        "id": "way/235272221"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.0523062,
+              -4.2825924
+            ],
+            [
+              -38.0523353,
+              -4.2826744
+            ],
+            [
+              -38.052279,
+              -4.2826851
+            ],
+            [
+              -38.0522767,
+              -4.28267
+            ],
+            [
+              -38.0521931,
+              -4.2826851
+            ],
+            [
+              -38.0521828,
+              -4.2826192
+            ],
+            [
+              -38.0523062,
+              -4.2825924
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5101652946",
+      "properties": {
+        "timestamp": "2017-09-12T19:03:42Z",
+        "version": 1,
+        "changeset": 51983240,
+        "amenity": "clinic",
+        "id": "node/5101652946"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.1155437,
+          -4.3560633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12077889310",
+      "properties": {
+        "timestamp": "2024-07-29T02:54:18Z",
+        "version": 2,
+        "changeset": 154543281,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "UBS Palmeira - Maria Lopes de Oliveira",
+        "operator": "Prefeitura Municipal de Beberibe",
+        "operator:type": "government",
+        "related_law": "Lei Municipal 1327/2020",
+        "id": "node/12077889310"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.0289755,
+          -4.3579422
+        ]
+      }
+    }
+  ]
+}

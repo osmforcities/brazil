@@ -1,0 +1,78 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "relation/5876665",
+      "properties": {
+        "timestamp": "2022-10-18T19:47:00Z",
+        "version": 5,
+        "changeset": 127745272,
+        "addr:city": "Santa Rosa",
+        "addr:housenumber": "1675",
+        "addr:postcode": "98900-000",
+        "addr:street": "Rua Uruguai",
+        "addr:suburb": "Central",
+        "amenity": "college",
+        "name": "IFFar Campus Santa Rosa",
+        "phone": "+55 55 2013-0200",
+        "type": "multipolygon",
+        "website": "https://www.facebook.com/iffarroupilhasantarosa/",
+        "id": "relation/5876665"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -54.4542312,
+              -27.8485058
+            ],
+            [
+              -54.4550618,
+              -27.8485058
+            ],
+            [
+              -54.4549206,
+              -27.8534119
+            ],
+            [
+              -54.4541132,
+              -27.853312
+            ],
+            [
+              -54.4542312,
+              -27.8485058
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3953457293",
+      "properties": {
+        "timestamp": "2020-08-02T01:02:03Z",
+        "version": 5,
+        "changeset": 88827736,
+        "addr:city": "Santa Rosa",
+        "addr:housenumber": "1675",
+        "addr:postcode": "98900-000",
+        "addr:street": "Rua Uruguai",
+        "addr:suburb": "Central",
+        "amenity": "college",
+        "name": "Instituto Federal Farroupilha- Campus Santa Rosa",
+        "phone": "+55 55 2013-0200",
+        "website": "https://www.facebook.com/iffarroupilhasantarosa/",
+        "id": "node/3953457293"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.4545651,
+          -27.8497718
+        ]
+      }
+    }
+  ]
+}

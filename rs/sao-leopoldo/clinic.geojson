@@ -1,0 +1,177 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/901418487",
+      "properties": {
+        "timestamp": "2023-07-23T22:15:34Z",
+        "version": 2,
+        "changeset": 138912543,
+        "addr:city": "São Leopoldo",
+        "addr:housenumber": "41",
+        "addr:postcode": "93040-380",
+        "addr:street": "Rua Doutor João Dutra",
+        "addr:suburb": "Rio Branco",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "Unidade Básica de Saúde Rio Branco",
+        "operator": "Prefeitura Municipal de São Leopoldo",
+        "operator:ref:vatin": "BR89814693000160",
+        "operator:type": "government",
+        "ref:CNES": "2230658",
+        "id": "way/901418487"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.129941,
+              -29.7686915
+            ],
+            [
+              -51.1301,
+              -29.7689473
+            ],
+            [
+              -51.1298929,
+              -29.7690443
+            ],
+            [
+              -51.1297339,
+              -29.7687885
+            ],
+            [
+              -51.129941,
+              -29.7686915
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4110669089",
+      "properties": {
+        "timestamp": "2023-10-26T02:02:28Z",
+        "version": 5,
+        "changeset": 143140377,
+        "addr:housenumber": "630",
+        "addr:street": "Rua Presidente Roosevelt",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Doctor Clin São Leopoldo",
+        "opening_hours": "24/7",
+        "phone": "+55 51 3579-7600",
+        "ref:CNES": "9923764",
+        "ref:vatin": "BR13812911000750",
+        "website": "https://www.doctorclin.com.br/home.html",
+        "id": "node/4110669089"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1466415,
+          -29.7660429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4110690789",
+      "properties": {
+        "timestamp": "2023-10-26T02:03:53Z",
+        "version": 4,
+        "changeset": 143140417,
+        "addr:housenumber": "707",
+        "addr:postcode": "93010-210",
+        "addr:street": "Rua Primeiro de Março",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Laboratório Exame - Análises Clínicas",
+        "ref:CNES": "6259707",
+        "ref:vatin": "BR91687376000503",
+        "website": "https://www.labexame.com.br/",
+        "id": "node/4110690789"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1461693,
+          -29.7682273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11874253869",
+      "properties": {
+        "timestamp": "2024-05-17T18:36:40Z",
+        "version": 4,
+        "changeset": 151467514,
+        "addr:city": "São Leopoldo",
+        "addr:housenumber": "645",
+        "addr:postcode": "93022-750",
+        "addr:street": "Avenida Unisinos",
+        "amenity": "clinic",
+        "email": "contato@lecontourclinica.com.br",
+        "healthcare": "clinic",
+        "healthcare:speciality": "orthodontics",
+        "name": "Le Contour Clínica",
+        "phone": "5135092818",
+        "website": "https://lecontourclinica.com.br/",
+        "id": "node/11874253869"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.151185,
+          -29.7910974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12014959769",
+      "properties": {
+        "timestamp": "2024-06-27T13:20:00Z",
+        "version": 2,
+        "changeset": 153247686,
+        "addr:housenumber": "806, 201",
+        "addr:postcode": "93010-220",
+        "addr:street": "Rua Bento Gonçalves",
+        "amenity": "clinic",
+        "name": "Vita Clínica",
+        "id": "node/12014959769"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1471875,
+          -29.7669281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12089541617",
+      "properties": {
+        "timestamp": "2024-08-02T21:07:32Z",
+        "version": 1,
+        "changeset": 154753427,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "id": "node/12089541617"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1434732,
+          -29.7674881
+        ]
+      }
+    }
+  ]
+}

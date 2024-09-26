@@ -1,0 +1,70 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/856996177",
+      "properties": {
+        "timestamp": "2022-11-22T16:01:09Z",
+        "version": 3,
+        "changeset": 129245879,
+        "addr:housenumber": "98",
+        "addr:street": "Rua Tupiniquins",
+        "building": "yes",
+        "email": "mpportela@mprs.mp.br",
+        "government": "prosecutor",
+        "name": "Ministério Público Promotoria de Justiça",
+        "office": "government",
+        "phone": "+55 55 99614-3101",
+        "id": "way/856996177"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -53.7568789,
+              -27.3739295
+            ],
+            [
+              -53.7569984,
+              -27.3739503
+            ],
+            [
+              -53.756978,
+              -27.3740427
+            ],
+            [
+              -53.7568585,
+              -27.3740219
+            ],
+            [
+              -53.7568789,
+              -27.3739295
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7818262235",
+      "properties": {
+        "timestamp": "2022-11-22T16:01:09Z",
+        "version": 3,
+        "changeset": 129245879,
+        "government": "legislative",
+        "name": "Câmara Municipal de Vereadores",
+        "office": "government",
+        "id": "node/7818262235"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.7516677,
+          -27.3758258
+        ]
+      }
+    }
+  ]
+}

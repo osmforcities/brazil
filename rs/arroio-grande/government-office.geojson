@@ -1,0 +1,82 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/345061283",
+      "properties": {
+        "timestamp": "2024-07-14T23:58:33Z",
+        "version": 7,
+        "changeset": 153950347,
+        "addr:city": "Arroio Grande",
+        "addr:housenumber": "185",
+        "addr:postcode": "96330-000",
+        "addr:street": "Rua Doutor Monteiro",
+        "addr:suburb": "Centro",
+        "building": "yes",
+        "building:levels": "1",
+        "government": "legislative",
+        "historic": "yes",
+        "name": "Câmara Municipal de Arroio Grande",
+        "office": "government",
+        "id": "way/345061283"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -53.0862261,
+              -32.2385826
+            ],
+            [
+              -53.0862478,
+              -32.2386609
+            ],
+            [
+              -53.0859909,
+              -32.2387119
+            ],
+            [
+              -53.0859691,
+              -32.2386336
+            ],
+            [
+              -53.0862261,
+              -32.2385826
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11966101807",
+      "properties": {
+        "timestamp": "2024-06-09T08:30:15Z",
+        "version": 1,
+        "changeset": 152443711,
+        "addr:housenumber": "220",
+        "addr:postcode": "96330-000",
+        "addr:street": "Rua Júlio de Castilhos",
+        "addr:suburb": "Centro",
+        "email": "saude@arroiogrande.rs.gov.br",
+        "government": "healthcare",
+        "name": "Secretaria Municipal de Saúde de Arroio Grande",
+        "office": "government",
+        "operator:ref:vatin": "BR88860366000181",
+        "ref:CNES": "6566596",
+        "source": "DATASUS",
+        "source:addr": "CNEFE 2022",
+        "id": "node/11966101807"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.085418,
+          -32.237957
+        ]
+      }
+    }
+  ]
+}

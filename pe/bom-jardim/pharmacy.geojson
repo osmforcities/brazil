@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/972292430",
+      "properties": {
+        "timestamp": "2021-08-11T14:35:48Z",
+        "version": 1,
+        "changeset": 109522078,
+        "addr:city": "Bom Jardim",
+        "addr:housenumber": "03",
+        "addr:postcode": "55730-000",
+        "addr:street": "Rua do Derby",
+        "addr:suburb": "Centro",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmácia Preço Popular",
+        "id": "way/972292430"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -35.5876432,
+              -7.7934641
+            ],
+            [
+              -35.587645,
+              -7.7935337
+            ],
+            [
+              -35.5875334,
+              -7.793539
+            ],
+            [
+              -35.5875298,
+              -7.793473
+            ],
+            [
+              -35.5876432,
+              -7.7934641
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9415355195",
+      "properties": {
+        "timestamp": "2023-05-01T14:58:19Z",
+        "version": 2,
+        "changeset": 135577722,
+        "addr:city": "Bom Jardim",
+        "addr:housenumber": "km 49 - loja 02",
+        "addr:postcode": "55730-000",
+        "addr:street": "PE-090",
+        "addr:suburb": "Encruzilhada",
+        "amenity": "pharmacy",
+        "description": "Filial 01 da Rede de Farmacias Santa Luzia",
+        "dispensing": "yes",
+        "email": "farmaciadaencruzilhada@hotmail.com",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Santa Luzia",
+        "opening_hours": "segunda a sexta 8:00 às 18:00 e aos sábados até às 13h",
+        "operator": "Rede Farma Santa Luzia",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:pix": "yes",
+        "phone": "+55 81 981916357",
+        "start_date": "2021-12-13",
+        "website": "https://www.instagram.com/farmaciadaencruzilhada/",
+        "wheelchair": "yes",
+        "id": "node/9415355195"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.6020301,
+          -7.8352942
+        ]
+      }
+    }
+  ]
+}

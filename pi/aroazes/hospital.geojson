@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/918193209",
+      "properties": {
+        "timestamp": "2024-04-01T19:37:04Z",
+        "version": 4,
+        "changeset": 149450539,
+        "addr:city": "Aroazes",
+        "addr:postcode": "64310-000",
+        "addr:street": "Avenida Vinte e Sete de Fevereiro",
+        "addr:suburb": "Centro",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "Hospital Municipal José Nonato da Costa",
+        "operator": "Prefeitura Municipal de Aroazes",
+        "operator:type": "public",
+        "id": "way/918193209"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.7910212,
+              -6.1116183
+            ],
+            [
+              -41.7906609,
+              -6.1116247
+            ],
+            [
+              -41.79067,
+              -6.1111788
+            ],
+            [
+              -41.7910119,
+              -6.1111717
+            ],
+            [
+              -41.7910212,
+              -6.1116183
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11778826392",
+      "properties": {
+        "timestamp": "2024-04-01T19:37:04Z",
+        "version": 1,
+        "changeset": 149450539,
+        "addr:city": "Aroazes",
+        "addr:street": "Avenida Vinte e Sete de Fevereiro",
+        "addr:suburb": "Centro",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "Hospital Municipal José Nonato da Costa",
+        "operator": "Prefeitura Municipal de Aroazes",
+        "operator:type": "public",
+        "wheelchair": "yes",
+        "id": "node/11778826392"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.7908285,
+          -6.1113783
+        ]
+      }
+    }
+  ]
+}

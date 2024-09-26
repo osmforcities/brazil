@@ -1,0 +1,81 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/380864860",
+      "properties": {
+        "timestamp": "2023-01-14T02:27:03Z",
+        "version": 9,
+        "changeset": 131250759,
+        "addr:city": "Itapema",
+        "addr:housenumber": "319",
+        "addr:postcode": "88220-000",
+        "addr:street": "Rua 321",
+        "addr:suburb": "Meia Praia",
+        "name": "Pousada Marina",
+        "phone": "+55 47 3368-0096",
+        "tourism": "guest_house",
+        "website": "http://www.itapemahotel.com/",
+        "id": "way/380864860"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.5891567,
+              -27.145221
+            ],
+            [
+              -48.5887565,
+              -27.1457201
+            ],
+            [
+              -48.5885216,
+              -27.1456493
+            ],
+            [
+              -48.5889634,
+              -27.1450983
+            ],
+            [
+              -48.5891567,
+              -27.145221
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3960728820",
+      "properties": {
+        "timestamp": "2021-08-19T04:32:06Z",
+        "version": 8,
+        "changeset": 109905862,
+        "addr:city": "Itapema",
+        "addr:housenumber": "777",
+        "addr:postcode": "88220-000",
+        "addr:street": "Rua 109 O",
+        "addr:suburb": "Canto da Praia",
+        "breakfast": "Mo-Su 08:00-10:00",
+        "contact:email": "pousada7mares@gmail.com",
+        "contact:phone": "+55 47 3368-2247",
+        "contact:website": "http://www.pousada7mares.com.br/",
+        "internet_access": "wlan",
+        "name": "Pousada Sete Mares",
+        "rooms": "22",
+        "tourism": "guest_house",
+        "id": "node/3960728820"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.6021004,
+          -27.0881945
+        ]
+      }
+    }
+  ]
+}

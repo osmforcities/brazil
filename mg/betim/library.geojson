@@ -1,0 +1,76 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1204324913",
+      "properties": {
+        "timestamp": "2023-09-02T17:54:11Z",
+        "version": 2,
+        "changeset": 140730239,
+        "addr:city": "Betim",
+        "addr:housenumber": "595",
+        "addr:postcode": "32677-562",
+        "addr:street": "Rua Itaguaçú",
+        "addr:suburb": "São Caetano",
+        "amenity": "library",
+        "building": "yes",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "Biblioteca Maurício Pereira Brito",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "operator": "IFMG Campus Betim",
+        "operator:type": "public",
+        "id": "way/1204324913"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.117486,
+              -19.9383901
+            ],
+            [
+              -44.1174427,
+              -19.9384951
+            ],
+            [
+              -44.1173721,
+              -19.9384716
+            ],
+            [
+              -44.1174164,
+              -19.9383643
+            ],
+            [
+              -44.117486,
+              -19.9383901
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11631984720",
+      "properties": {
+        "timestamp": "2024-04-22T04:49:52Z",
+        "version": 2,
+        "changeset": 150326487,
+        "amenity": "library",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "wheelchair": "yes",
+        "id": "node/11631984720"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.1044749,
+          -19.9299947
+        ]
+      }
+    }
+  ]
+}

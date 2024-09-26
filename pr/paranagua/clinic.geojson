@@ -1,0 +1,90 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/718032833",
+      "properties": {
+        "timestamp": "2022-04-16T22:55:02Z",
+        "version": 2,
+        "changeset": 119800700,
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "id": "way/718032833"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.547447,
+              -25.5426456
+            ],
+            [
+              -48.547266,
+              -25.5428276
+            ],
+            [
+              -48.5471307,
+              -25.542718
+            ],
+            [
+              -48.5473118,
+              -25.5425361
+            ],
+            [
+              -48.547447,
+              -25.5426456
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5115569057",
+      "properties": {
+        "timestamp": "2023-04-14T03:05:30Z",
+        "version": 2,
+        "changeset": 134883983,
+        "addr:housenumber": "545",
+        "addr:street": "Rua Rodrigues Alvas",
+        "amenity": "clinic",
+        "name": "Dr Elder oftalmo",
+        "name:pt": "Dr Elder oftalmo",
+        "id": "node/5115569057"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.5036221,
+          -25.5152379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5122967121",
+      "properties": {
+        "timestamp": "2017-09-22T22:26:09Z",
+        "version": 1,
+        "changeset": 52291342,
+        "addr:housenumber": "1186",
+        "addr:street": "Rua Baronesa do Cerro Azul",
+        "amenity": "clinic",
+        "name": "Gastro CLINICA",
+        "name:pt": "Gastro CLINICA",
+        "opening_hours": "Su-Fr 09:00-18:00",
+        "id": "node/5122967121"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.5131203,
+          -25.5166599
+        ]
+      }
+    }
+  ]
+}

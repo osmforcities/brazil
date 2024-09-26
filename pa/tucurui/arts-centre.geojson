@@ -1,0 +1,97 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/666000406",
+      "properties": {
+        "timestamp": "2019-01-25T01:22:31Z",
+        "version": 1,
+        "changeset": 66617602,
+        "addr:city": "Tucuruí",
+        "addr:suburb": "Vila Permanente",
+        "amenity": "arts_centre",
+        "building": "yes",
+        "name": "Centro Cultural da Eletrobras/Eletronorte",
+        "id": "way/666000406"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.6781402,
+              -3.8337625
+            ],
+            [
+              -49.6783807,
+              -3.8339838
+            ],
+            [
+              -49.6781589,
+              -3.8342215
+            ],
+            [
+              -49.6779114,
+              -3.8340001
+            ],
+            [
+              -49.678067,
+              -3.8338385
+            ],
+            [
+              -49.6781402,
+              -3.8337625
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6441763909",
+      "properties": {
+        "timestamp": "2019-05-02T01:28:02Z",
+        "version": 1,
+        "changeset": 69785972,
+        "addr:city": "Tucuruí",
+        "addr:street": "Rua Venezuela",
+        "addr:suburb": "Vila Permanente",
+        "amenity": "arts_centre",
+        "name": "Cine Rox",
+        "opening_hours": "24/7",
+        "id": "node/6441763909"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.6775888,
+          -3.83389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6441763910",
+      "properties": {
+        "timestamp": "2019-05-02T01:28:02Z",
+        "version": 1,
+        "changeset": 69785972,
+        "addr:city": "Tucuruí",
+        "addr:street": "Rua Venezuela",
+        "addr:suburb": "Vila Permanente",
+        "amenity": "arts_centre",
+        "name": "Centro cultural UHE",
+        "opening_hours": "Mo-Sa 08:00-18:00",
+        "id": "node/6441763910"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.6780716,
+          -3.8339596
+        ]
+      }
+    }
+  ]
+}

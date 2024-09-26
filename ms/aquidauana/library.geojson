@@ -1,0 +1,83 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/543994271",
+      "properties": {
+        "timestamp": "2017-12-01T23:01:47Z",
+        "version": 1,
+        "changeset": 54253081,
+        "amenity": "library",
+        "building": "yes",
+        "name": "Biblioteca Pública Municipal",
+        "id": "way/543994271"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -55.7922776,
+              -20.4769849
+            ],
+            [
+              -55.7922083,
+              -20.4770239
+            ],
+            [
+              -55.7921066,
+              -20.4768536
+            ],
+            [
+              -55.7921606,
+              -20.4768247
+            ],
+            [
+              -55.7922776,
+              -20.4769849
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5258583139",
+      "properties": {
+        "timestamp": "2017-12-01T23:01:46Z",
+        "version": 1,
+        "changeset": 54253081,
+        "amenity": "library",
+        "name": "Biblioteca Pública",
+        "id": "node/5258583139"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.7714121,
+          -20.4690508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5341007723",
+      "properties": {
+        "timestamp": "2018-01-31T21:30:16Z",
+        "version": 2,
+        "changeset": 55947259,
+        "amenity": "library",
+        "name": "Biblioteca do IFMS",
+        "id": "node/5341007723"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.7730311,
+          -20.4815507
+        ]
+      }
+    }
+  ]
+}

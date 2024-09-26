@@ -1,0 +1,88 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/608476120",
+      "properties": {
+        "timestamp": "2018-07-17T01:40:47Z",
+        "version": 1,
+        "changeset": 60779488,
+        "amenity": "social_facility",
+        "name": "APAE",
+        "social_facility": "day_care",
+        "source": "IBGE",
+        "id": "way/608476120"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -53.3252603,
+              -27.9143256
+            ],
+            [
+              -53.3250568,
+              -27.9134391
+            ],
+            [
+              -53.3260728,
+              -27.9132569
+            ],
+            [
+              -53.3262763,
+              -27.9141435
+            ],
+            [
+              -53.3252603,
+              -27.9143256
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5764783311",
+      "properties": {
+        "timestamp": "2018-07-17T01:40:44Z",
+        "version": 1,
+        "changeset": 60779488,
+        "amenity": "social_facility",
+        "fixme": "Missing \"social_facility\" key / não sei o tipo de \"social_facility\"",
+        "name": "Centro Social Urbano",
+        "source": "IBGE",
+        "id": "node/5764783311"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.3022442,
+          -27.9042993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5764783465",
+      "properties": {
+        "timestamp": "2018-07-17T01:40:45Z",
+        "version": 1,
+        "changeset": 60779488,
+        "amenity": "social_facility",
+        "social_facility": "group_home",
+        "social_facility:for": "senior",
+        "source": "IBGE",
+        "id": "node/5764783465"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.3205664,
+          -27.9020878
+        ]
+      }
+    }
+  ]
+}

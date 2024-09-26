@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/547275094",
+      "properties": {
+        "timestamp": "2018-09-17T16:04:06Z",
+        "version": 3,
+        "changeset": 62669911,
+        "addr:city": "Nova Serrana",
+        "addr:postcode": "35519-000",
+        "addr:street": "Rua Coronel Martinho Ferreira do Amaral",
+        "addr:suburb": "Centro",
+        "amenity": "dentist",
+        "building": "yes",
+        "healthcare": "dentist",
+        "name": "CEO",
+        "id": "way/547275094"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.9854353,
+              -19.8789712
+            ],
+            [
+              -44.9854964,
+              -19.8790456
+            ],
+            [
+              -44.9854758,
+              -19.879084
+            ],
+            [
+              -44.9853955,
+              -19.8790017
+            ],
+            [
+              -44.9854353,
+              -19.8789712
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4666477389",
+      "properties": {
+        "timestamp": "2021-06-29T17:10:37Z",
+        "version": 4,
+        "changeset": 107161490,
+        "addr:city": "Nova Serrana",
+        "addr:housenumber": "26",
+        "addr:postcode": "35519-000",
+        "addr:street": "Rua Dimas Guimarães",
+        "addr:suburb": "Centro",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "INEO - Instituto Especializado Odontológico",
+        "opening_hours": "Mo-Fr 08:00-18:30",
+        "phone": "+553732262529",
+        "id": "node/4666477389"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.9852232,
+          -19.8776291
+        ]
+      }
+    }
+  ]
+}

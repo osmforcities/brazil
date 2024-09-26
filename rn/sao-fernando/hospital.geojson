@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1042635512",
+      "properties": {
+        "timestamp": "2022-03-22T13:33:45Z",
+        "version": 1,
+        "changeset": 118779243,
+        "addr:city": "são Fernando",
+        "addr:postcode": "59327000",
+        "addr:street": "Rua Haide Fernandes",
+        "addr:suburb": "centro",
+        "amenity": "hospital",
+        "building": "yes",
+        "emergency": "no",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "UBS Inácia Duarte",
+        "id": "way/1042635512"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -37.1842148,
+              -6.3783471
+            ],
+            [
+              -37.1842381,
+              -6.3785765
+            ],
+            [
+              -37.1841274,
+              -6.3785876
+            ],
+            [
+              -37.1841041,
+              -6.3783582
+            ],
+            [
+              -37.1842148,
+              -6.3783471
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7182352015",
+      "properties": {
+        "timestamp": "2020-02-03T19:04:33Z",
+        "version": 1,
+        "changeset": 80495502,
+        "addr:city": "são Fernando",
+        "addr:postcode": "59327000",
+        "addr:street": "Avenida Major José Antao",
+        "addr:suburb": "centro",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "UBS Mãe Joaquina",
+        "id": "node/7182352015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.1864784,
+          -6.377458
+        ]
+      }
+    }
+  ]
+}

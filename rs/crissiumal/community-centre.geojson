@@ -1,0 +1,90 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1268244893",
+      "properties": {
+        "timestamp": "2024-04-01T22:30:49Z",
+        "version": 1,
+        "changeset": 149455386,
+        "amenity": "community_centre",
+        "building": "yes",
+        "name": "Salão Comunitário Evangélico",
+        "id": "way/1268244893"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -54.0941566,
+              -27.4985333
+            ],
+            [
+              -54.0938898,
+              -27.4988331
+            ],
+            [
+              -54.0936712,
+              -27.4986808
+            ],
+            [
+              -54.0937965,
+              -27.4985466
+            ],
+            [
+              -54.0939421,
+              -27.4983858
+            ],
+            [
+              -54.0941566,
+              -27.4985333
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2431767154",
+      "properties": {
+        "timestamp": "2024-04-01T22:30:49Z",
+        "version": 3,
+        "changeset": 149455386,
+        "addr:street": "Rua Pirapó",
+        "amenity": "community_centre",
+        "name": "Salão Comunitário Evangélico",
+        "id": "node/2431767154"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.0939092,
+          -27.4986085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4829656434",
+      "properties": {
+        "timestamp": "2017-05-01T22:25:29Z",
+        "version": 1,
+        "changeset": 48319852,
+        "amenity": "community_centre",
+        "community_centre": "club_home",
+        "name": "Clube Aquático Dourados",
+        "source": "IBGE",
+        "id": "node/4829656434"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.0968397,
+          -27.501862
+        ]
+      }
+    }
+  ]
+}

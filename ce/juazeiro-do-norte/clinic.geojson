@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1002804046",
+      "properties": {
+        "timestamp": "2021-11-15T21:40:59Z",
+        "version": 1,
+        "changeset": 113825733,
+        "addr:city": "Juazeiro do Norte",
+        "addr:suburb": "Triângulo",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "id": "way/1002804046"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -39.3252901,
+              -7.2310467
+            ],
+            [
+              -39.3252317,
+              -7.2314776
+            ],
+            [
+              -39.3248511,
+              -7.231429
+            ],
+            [
+              -39.3249095,
+              -7.231005
+            ],
+            [
+              -39.3252901,
+              -7.2310467
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9251416970",
+      "properties": {
+        "timestamp": "2021-11-14T20:49:08Z",
+        "version": 1,
+        "changeset": 113778555,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "id": "node/9251416970"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.3226893,
+          -7.2249519
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1225143002",
+      "properties": {
+        "timestamp": "2023-12-04T18:22:59Z",
+        "version": 2,
+        "changeset": 144765455,
+        "addr:city": "Cedro de São João",
+        "addr:housenumber": "331",
+        "addr:postcode": "49930000",
+        "addr:street": "Rua Augusto Maynard",
+        "addr:suburb": "CENTRO",
+        "amenity": "pharmacy",
+        "building": "commercial",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "FARMACIA DO TRABALHADOR",
+        "opening_hours": "Mo-Su 07:00-20:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:pix": "yes",
+        "website": "https://tr.ee/5PoM9X3QGM",
+        "wheelchair": "yes",
+        "id": "way/1225143002"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -36.8823011,
+              -10.2502461
+            ],
+            [
+              -36.8823299,
+              -10.2502756
+            ],
+            [
+              -36.8822807,
+              -10.2503219
+            ],
+            [
+              -36.8822519,
+              -10.2502924
+            ],
+            [
+              -36.8823011,
+              -10.2502461
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3796319889",
+      "properties": {
+        "timestamp": "2023-12-04T18:29:40Z",
+        "version": 4,
+        "changeset": 144765676,
+        "addr:city": "Cedro de São João",
+        "addr:housenumber": "331",
+        "addr:postcode": "49930000",
+        "addr:street": "Rua Augusto Maynard",
+        "addr:suburb": "CENTRO",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "FARMACIA DO TRABALHADOR",
+        "opening_hours": "Mo-Su 07:00-20:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:pix": "yes",
+        "website": "https://tr.ee/5PoM9X3QGM",
+        "wheelchair": "yes",
+        "id": "node/3796319889"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.8822986,
+          -10.2503193
+        ]
+      }
+    }
+  ]
+}

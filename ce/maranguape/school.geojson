@@ -344,6 +344,63 @@
     },
     {
       "type": "Feature",
+      "id": "way/1315144527",
+      "properties": {
+        "timestamp": "2024-09-12T18:33:37Z",
+        "version": 1,
+        "changeset": 156541727,
+        "addr:housenumber": "120",
+        "addr:postcode": "61943-280",
+        "addr:street": "Rua Macário Pontes",
+        "addr:suburb": "Novo Maranguape I",
+        "amenity": "school",
+        "grades": "Infantil, Fundamental e Médio",
+        "name": "Colégio Espaço Livre",
+        "website": "https://colegioespacolivre.com.br/",
+        "id": "way/1315144527"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.6689263,
+              -3.8723326
+            ],
+            [
+              -38.6691211,
+              -3.8725392
+            ],
+            [
+              -38.6693202,
+              -3.872737
+            ],
+            [
+              -38.6691553,
+              -3.872883
+            ],
+            [
+              -38.6689666,
+              -3.872702
+            ],
+            [
+              -38.6688818,
+              -3.8727884
+            ],
+            [
+              -38.6686578,
+              -3.8725742
+            ],
+            [
+              -38.6689263,
+              -3.8723326
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/558017205",
       "properties": {
         "timestamp": "2018-02-02T16:24:02Z",
@@ -459,6 +516,30 @@
         "coordinates": [
           -38.7496656,
           -4.029051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12173410882",
+      "properties": {
+        "timestamp": "2024-09-12T18:33:37Z",
+        "version": 1,
+        "changeset": 156541727,
+        "addr:city": "Maranguape",
+        "addr:housenumber": "176",
+        "addr:street": "Rua Joaninha Vieira",
+        "addr:suburb": "Novo Maranguape I",
+        "amenity": "school",
+        "name": "Colégio Olimpico",
+        "website": "https://www.instagram.com/colegioolimpico/",
+        "id": "node/12173410882"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.6704332,
+          -3.872508
         ]
       }
     }

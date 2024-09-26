@@ -1297,6 +1297,47 @@
     },
     {
       "type": "Feature",
+      "id": "way/1315144528",
+      "properties": {
+        "timestamp": "2024-09-12T18:33:37Z",
+        "version": 1,
+        "changeset": 156541727,
+        "building": "yes",
+        "leisure": "sports_hall",
+        "name": "Ginásio Poliesportivo Olimpico",
+        "sport": "swimming;futsal",
+        "id": "way/1315144528"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.6708132,
+              -3.87179
+            ],
+            [
+              -38.6710174,
+              -3.8719856
+            ],
+            [
+              -38.6706556,
+              -3.8723446
+            ],
+            [
+              -38.6704575,
+              -3.8721268
+            ],
+            [
+              -38.6708132,
+              -3.87179
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/9585466820",
       "properties": {
         "timestamp": "2022-03-17T13:34:10Z",
@@ -1314,6 +1355,52 @@
         "coordinates": [
           -38.9266088,
           -4.023295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12173410855",
+      "properties": {
+        "timestamp": "2024-09-12T18:33:37Z",
+        "version": 1,
+        "changeset": 156541727,
+        "addr:street": "Rua João Nogueira",
+        "leisure": "fitness_centre",
+        "name": "ADM Academia",
+        "sport": "fitness;swimming;jiu-jitsu;karate;muay_thai",
+        "id": "node/12173410855"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.6680144,
+          -3.8714207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12173410881",
+      "properties": {
+        "timestamp": "2024-09-12T18:33:37Z",
+        "version": 1,
+        "changeset": 156541727,
+        "addr:city": "Maranguape",
+        "addr:housenumber": "180",
+        "addr:street": "Rua Joaninha Vieira",
+        "addr:suburb": "Novo Maranguape I",
+        "leisure": "fitness_centre",
+        "name": "Academia Olimpico",
+        "phone": "+55 85 98723-4784",
+        "sport": "musculação;swimming;hidroginástica",
+        "id": "node/12173410881"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.6709507,
+          -3.8720118
         ]
       }
     }

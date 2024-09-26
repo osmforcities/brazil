@@ -15368,49 +15368,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/439041986",
-      "properties": {
-        "timestamp": "2016-08-25T17:57:27Z",
-        "version": 1,
-        "changeset": 41695412,
-        "amenity": "school",
-        "name": "Externato Ana Gonzaga",
-        "id": "way/439041986"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -43.5965865,
-              -22.9139627
-            ],
-            [
-              -43.5952507,
-              -22.9174955
-            ],
-            [
-              -43.5923164,
-              -22.916448
-            ],
-            [
-              -43.5947948,
-              -22.9138441
-            ],
-            [
-              -43.5950683,
-              -22.9132858
-            ],
-            [
-              -43.5965865,
-              -22.9139627
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/439041989",
       "properties": {
         "timestamp": "2022-05-27T08:31:01Z",
@@ -28957,27 +28914,16 @@
       "type": "Feature",
       "id": "way/1009472084",
       "properties": {
-        "timestamp": "2023-08-28T22:59:56Z",
-        "version": 2,
-        "changeset": 140515543,
-        "IPP:BAIRRO": "Portuguesa",
-        "IPP:CHAVE": "11305",
-        "IPP:CODATIVIDA": "0",
-        "IPP:CODBAIRRO": "103",
-        "IPP:COD_INEP": "33086109",
-        "IPP:COD_SMA": "011305",
-        "IPP:CRE": "04",
-        "IPP:CodLote": "262C05894",
-        "IPP:CodNP": "454495",
-        "IPP:CodQuadra": "262C007999",
-        "IPP:CodTrecho": "46779",
-        "IPP:DESIGNACAO": "0420022",
-        "IPP:ENDERECO": "Rua Haroldo Lobo, 533",
-        "IPP:ENDNOVO": "http://webapp.sme.rio.rj.gov.br/jcartela/publico/pesquisa.do?idSetor=11305&cmd=load",
-        "IPP:FLG_VALIDA": "S",
-        "IPP:TELEFONES": "3393-4460",
+        "timestamp": "2024-09-12T11:54:15Z",
+        "version": 3,
+        "changeset": 156524766,
+        "addr:city": "Rio de Janeiro",
+        "addr:housenumber": "533",
+        "addr:street": "Rua Haroldo Lôbo",
+        "addr:suburb": "Portuguesa",
         "amenity": "school",
         "name": "Escola Municipal Maestro Francisco Braga",
+        "phone": "+55 21 3393-4460",
         "source": "IPP",
         "id": "way/1009472084"
       },
@@ -45881,35 +45827,6 @@
         "coordinates": [
           -43.2804471,
           -22.8989032
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/823943545",
-      "properties": {
-        "timestamp": "2010-07-19T01:19:33Z",
-        "version": 1,
-        "changeset": 5256902,
-        "IPP:BAIRRO": "Ilha Do Governador",
-        "IPP:CHAVE": "18679",
-        "IPP:CODATIVIDA": "0",
-        "IPP:COD_INEP": "33122741",
-        "IPP:COD_SMA": "018679",
-        "IPP:CRE": "04",
-        "IPP:DESIGNACAO": "0420603",
-        "IPP:ENDERECO": "ESTRADA GOVERNADOR CHAGAS FREITASS/N",
-        "IPP:ENDNOVO": "http://webapp.sme.rio.rj.gov.br/jcartela/publico/pesquisa.do?idSetor=18679&cmd=load",
-        "amenity": "school",
-        "name": "Creche Municipal Doutor Antônio Monteiro",
-        "source": "IPP",
-        "id": "node/823943545"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.2096564,
-          -22.7956817
         ]
       }
     },

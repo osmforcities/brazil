@@ -154,10 +154,11 @@
       "type": "Feature",
       "id": "node/6893750917",
       "properties": {
-        "timestamp": "2020-07-28T15:49:37Z",
-        "version": 2,
-        "changeset": 88630059,
+        "timestamp": "2024-09-12T14:46:00Z",
+        "version": 3,
+        "changeset": 156532356,
         "amenity": "drinking_water",
+        "fountain": "drinking",
         "id": "node/6893750917"
       },
       "geometry": {
@@ -219,6 +220,25 @@
         "coordinates": [
           -40.3269683,
           -20.4105381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12172743257",
+      "properties": {
+        "timestamp": "2024-09-12T15:10:14Z",
+        "version": 4,
+        "changeset": 156533491,
+        "amenity": "drinking_water",
+        "man_made": "water_tap",
+        "id": "node/12172743257"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.2872569,
+          -20.328652
         ]
       }
     }

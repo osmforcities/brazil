@@ -54,9 +54,9 @@
       "type": "Feature",
       "id": "way/364822999",
       "properties": {
-        "timestamp": "2024-06-21T17:54:43Z",
-        "version": 5,
-        "changeset": 153003421,
+        "timestamp": "2024-09-08T19:46:42Z",
+        "version": 6,
+        "changeset": 156367160,
         "addr:city": "Suzano",
         "addr:housenumber": "2200",
         "addr:street": "Rua Doutor Prudente de Moraes",
@@ -87,8 +87,16 @@
               -23.5406661
             ],
             [
-              -46.2943348,
-              -23.5396702
+              -46.2938761,
+              -23.539835
+            ],
+            [
+              -46.2937707,
+              -23.5410857
+            ],
+            [
+              -46.2942424,
+              -23.5410951
             ],
             [
               -46.2941669,
@@ -110,14 +118,17 @@
       "type": "Feature",
       "id": "way/504649304",
       "properties": {
-        "timestamp": "2023-10-15T23:51:23Z",
-        "version": 3,
-        "changeset": 142638872,
+        "timestamp": "2024-09-08T23:34:15Z",
+        "version": 4,
+        "changeset": 156372012,
         "addr:city": "Suzano",
         "addr:street": "Avenida Armando de Salles Oliveira",
         "amenity": "hospital",
+        "contact:facebook": "https://www.facebook.com/hospitalstamariasuzano/",
         "healthcare": "hospital",
-        "name": "Santa Maria",
+        "healthcare:speciality": "obstetricia;fisioterapia;oncology;general",
+        "name": "Hospital Santa Maria de Suzano",
+        "phone": "+55 11 4746 5188",
         "id": "way/504649304"
       },
       "geometry": {
@@ -352,6 +363,86 @@
             [
               -46.3059346,
               -23.5523013
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1192551236",
+      "properties": {
+        "timestamp": "2024-09-08T22:43:41Z",
+        "version": 2,
+        "changeset": 156371384,
+        "addr:street": "Rua Sete de Setembro",
+        "amenity": "hospital",
+        "check_date": "2023-07-27",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Hospital Regional de Suzano",
+        "opening_hours": "off",
+        "id": "way/1192551236"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.3237302,
+              -23.5398571
+            ],
+            [
+              -46.3235955,
+              -23.5395057
+            ],
+            [
+              -46.3239808,
+              -23.5393825
+            ],
+            [
+              -46.3240174,
+              -23.5394811
+            ],
+            [
+              -46.3242116,
+              -23.5394305
+            ],
+            [
+              -46.3241676,
+              -23.5393034
+            ],
+            [
+              -46.3243463,
+              -23.5392456
+            ],
+            [
+              -46.3243976,
+              -23.5393526
+            ],
+            [
+              -46.3246014,
+              -23.5392852
+            ],
+            [
+              -46.324555,
+              -23.5391764
+            ],
+            [
+              -46.3247309,
+              -23.5391124
+            ],
+            [
+              -46.3247801,
+              -23.5392367
+            ],
+            [
+              -46.3248653,
+              -23.539453
+            ],
+            [
+              -46.3237302,
+              -23.5398571
             ]
           ]
         ]

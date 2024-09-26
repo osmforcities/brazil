@@ -1207,16 +1207,16 @@
         "coordinates": [
           [
             [
-              -49.1450584,
-              -26.681854
+              -49.1450515,
+              -26.6818354
             ],
             [
-              -49.1446258,
-              -26.6823741
+              -49.1445958,
+              -26.682372
             ],
             [
-              -49.1444565,
-              -26.6822617
+              -49.1444438,
+              -26.68227
             ],
             [
               -49.1439473,
@@ -1239,8 +1239,8 @@
               -26.6814621
             ],
             [
-              -49.1450584,
-              -26.681854
+              -49.1450515,
+              -26.6818354
             ]
           ]
         ]
@@ -1681,17 +1681,19 @@
       "type": "Feature",
       "id": "node/4721226675",
       "properties": {
-        "timestamp": "2018-01-19T17:50:48Z",
-        "version": 2,
-        "changeset": 55584441,
+        "timestamp": "2024-09-08T01:03:58Z",
+        "version": 3,
+        "changeset": 156332988,
         "addr:door": "Salas 07 e 08",
         "amenity": "school",
+        "check_date:opening_hours": "2024-09-07",
         "contact:email": "cooepeblumenau@terra.com.br",
-        "contact:phone": "+55 47 3380-1221;+55 47 99114-4020",
+        "contact:phone": "+55 47 3380-1221;+55 47 99114-4020;+55 47 99114-6061",
         "contact:website": "http://www.cooepe.com.br/",
         "description": "Educação de jovens e adultos",
         "name": "Cooepe",
-        "opening_hours": "08:00-12:00, 14:00-21:00",
+        "opening_hours": "Mo,We,Fr 07:30-10:30, 13:30-20:30; Tu, Th 07:30-10:30, 13:30-18:30; Sa-Su off",
+        "source:opening_hours": "survey",
         "id": "node/4721226675"
       },
       "geometry": {

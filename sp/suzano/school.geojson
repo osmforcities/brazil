@@ -3612,6 +3612,63 @@
     },
     {
       "type": "Feature",
+      "id": "way/1314236249",
+      "properties": {
+        "timestamp": "2024-09-08T19:46:42Z",
+        "version": 1,
+        "changeset": 156367160,
+        "addr:street": "Rua Tupinambá",
+        "amenity": "school",
+        "official_name": "Escola Estadual Vereador Antônio Valdemar Galo",
+        "religion": "none",
+        "id": "way/1314236249"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.294364,
+              -23.5400334
+            ],
+            [
+              -46.2943011,
+              -23.5406665
+            ],
+            [
+              -46.2945973,
+              -23.5406851
+            ],
+            [
+              -46.2945759,
+              -23.5410293
+            ],
+            [
+              -46.2942406,
+              -23.5410146
+            ],
+            [
+              -46.2942352,
+              -23.5410613
+            ],
+            [
+              -46.293798,
+              -23.5410539
+            ],
+            [
+              -46.2938973,
+              -23.5400113
+            ],
+            [
+              -46.294364,
+              -23.5400334
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/6504736085",
       "properties": {
         "timestamp": "2021-11-19T17:50:31Z",
@@ -3727,36 +3784,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/6786412460",
-      "properties": {
-        "timestamp": "2019-10-29T16:41:11Z",
-        "version": 3,
-        "changeset": 76356033,
-        "Horário de funcionamento": "das 07h às 22h30",
-        "addr:city": "Suzano",
-        "addr:housenumber": "90",
-        "addr:postcode": "08616-744",
-        "addr:street": "Rua Rio Grande do Norte",
-        "addr:suburb": "Jardim Cacique",
-        "amenity": "school",
-        "email": "emcelia.pereira@suzano.sp.gov.br",
-        "name": "Escola Municipal Professora Célia Pereira de Lima",
-        "opening_hours": "Mo-Fr 08:0o-17:00",
-        "phone": "+55 11 4748 4473",
-        "ref": "35191280",
-        "school:BR": "Fundamental/EJA",
-        "id": "node/6786412460"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -46.2963836,
-          -23.5531033
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/6791194007",
       "properties": {
         "timestamp": "2019-10-29T16:13:42Z",
@@ -3789,9 +3816,9 @@
       "type": "Feature",
       "id": "node/6799997469",
       "properties": {
-        "timestamp": "2021-11-19T17:50:31Z",
-        "version": 3,
-        "changeset": 114001528,
+        "timestamp": "2024-09-08T22:52:43Z",
+        "version": 4,
+        "changeset": 156371522,
         "Horário de funcionamento": "das 07h às 17h",
         "addr:city": "Suzano",
         "addr:housenumber": "704",
@@ -3800,17 +3827,18 @@
         "addr:suburb": "Jardim Imperador",
         "amenity": "school",
         "email": "emeliana.pereira@suzano.sp.gov.br",
-        "name": "Escola Municipal Eliana Pereira Figueira, Profa.",
+        "name": "Escola Municipal Professora Eliana Pereira Figueira",
         "opening_hours": "08:00-17:00",
         "phone": "+55 11 4743-1808",
+        "religion": "none",
         "school:BR": "Infantil",
         "id": "node/6799997469"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -46.3215882,
-          -23.5364057
+          -46.3216327,
+          -23.536452
         ]
       }
     },

@@ -5,9 +5,10 @@
       "type": "Feature",
       "id": "relation/2560355",
       "properties": {
-        "timestamp": "2023-10-29T03:15:25Z",
-        "version": 35,
-        "changeset": 143293064,
+        "timestamp": "2024-09-10T07:37:09Z",
+        "version": 42,
+        "changeset": 156426010,
+        "access": "customers",
         "addr:city": "São Paulo",
         "addr:country": "BR",
         "addr:housenumber": "261",
@@ -16,6 +17,10 @@
         "addr:suburb": "Interlagos",
         "alt_name": "Autódromo de Interlagos",
         "capacity": "60000",
+        "email": "interlagos.comercial1@gmail.com",
+        "fee": "yes",
+        "importance": "international",
+        "instagram": "@autodromointerlagos",
         "is_in:country": "Brasil",
         "is_in:country_code": "BR",
         "is_in:iso_3166_2": "BR-SP",
@@ -30,9 +35,13 @@
         "name:ru": "Интерлагос",
         "name:tr": "Autódromo José Carlos Pace",
         "name:zh": "若澤·卡洛斯·帕塞賽道",
-        "operator": "Prefeitura de São Paulo",
-        "operator:type": "government",
+        "operator": "São Paulo Turismo",
+        "operator:type": "public",
+        "owner": "Prefeitura de São Paulo",
+        "ownership": "municipal",
         "phone": "+55 11 5666 8822",
+        "rental": "yes",
+        "reservation": "recommended",
         "short_name": "Interlagos",
         "sport": "motor",
         "start_date": "1940-05-12",
@@ -105147,6 +105156,199 @@
     },
     {
       "type": "Feature",
+      "id": "way/1314540189",
+      "properties": {
+        "timestamp": "2024-09-10T05:40:15Z",
+        "version": 6,
+        "changeset": 156422565,
+        "access": "customers",
+        "addr:city": "São Paulo",
+        "addr:housenumber": "1311",
+        "addr:postcode": "04801-010",
+        "addr:street": "Avenida Jacinto Júlio",
+        "addr:suburb": "Interlagos",
+        "alt_name": "Kartódromo de Interlagos",
+        "area:highway": "raceway",
+        "email": "contato@kartodromodeinterlagos.com",
+        "fee": "yes",
+        "leisure": "sports_centre",
+        "name": "Kartódromo Internacional Ayrton Senna",
+        "official_name": "Kartódromo Municipal Ayrton Senna",
+        "old_website": "https://www.kartodromodeinterlagos.com/",
+        "opening_hours": "We-Fr 08:00-21:30; Sa 08:00-22:00; Su 08:00-20:00",
+        "operator": "São Paulo Turismo",
+        "operator:type": "public",
+        "owner": "Prefeitura de São Paulo",
+        "ownership": "municipal",
+        "phone": "+55 11 97606 3363",
+        "rental": "yes",
+        "reservation": "recommended",
+        "short_name": "Kartódromo Ayrton Senna",
+        "sport": "karting",
+        "start_date": "1970",
+        "website": "http://www.autodromodeinterlagos.com.br/wp1/conheca-interlagos/kartodromo",
+        "wikidata": "Q10313928",
+        "wikipedia": "pt:Kartódromo Municipal Ayrton Senna",
+        "id": "way/1314540189"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.6943378,
+              -23.7056757
+            ],
+            [
+              -46.6940227,
+              -23.7052705
+            ],
+            [
+              -46.6936136,
+              -23.7047413
+            ],
+            [
+              -46.6931442,
+              -23.704099
+            ],
+            [
+              -46.6930502,
+              -23.7039012
+            ],
+            [
+              -46.6930155,
+              -23.7037601
+            ],
+            [
+              -46.6929913,
+              -23.7034016
+            ],
+            [
+              -46.6929804,
+              -23.7031767
+            ],
+            [
+              -46.6928975,
+              -23.7029497
+            ],
+            [
+              -46.6926373,
+              -23.7025886
+            ],
+            [
+              -46.6925676,
+              -23.7024708
+            ],
+            [
+              -46.6925608,
+              -23.7023946
+            ],
+            [
+              -46.6926078,
+              -23.7023136
+            ],
+            [
+              -46.6927768,
+              -23.7022645
+            ],
+            [
+              -46.6929913,
+              -23.7022276
+            ],
+            [
+              -46.6932153,
+              -23.7022043
+            ],
+            [
+              -46.6933669,
+              -23.7021981
+            ],
+            [
+              -46.6934835,
+              -23.702219
+            ],
+            [
+              -46.6935922,
+              -23.7022595
+            ],
+            [
+              -46.6937068,
+              -23.7023387
+            ],
+            [
+              -46.6937652,
+              -23.702413
+            ],
+            [
+              -46.6938631,
+              -23.70265
+            ],
+            [
+              -46.6939636,
+              -23.7027716
+            ],
+            [
+              -46.6940052,
+              -23.7029251
+            ],
+            [
+              -46.6940481,
+              -23.7030565
+            ],
+            [
+              -46.6941755,
+              -23.703334
+            ],
+            [
+              -46.6942842,
+              -23.7035391
+            ],
+            [
+              -46.694378,
+              -23.7037528
+            ],
+            [
+              -46.6944719,
+              -23.7039799
+            ],
+            [
+              -46.6945712,
+              -23.704368
+            ],
+            [
+              -46.6946919,
+              -23.7047793
+            ],
+            [
+              -46.6947468,
+              -23.7051502
+            ],
+            [
+              -46.6947346,
+              -23.7052815
+            ],
+            [
+              -46.6947053,
+              -23.7054326
+            ],
+            [
+              -46.6946675,
+              -23.7054423
+            ],
+            [
+              -46.6946981,
+              -23.7055506
+            ],
+            [
+              -46.6943378,
+              -23.7056757
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/16258555",
       "properties": {
         "timestamp": "2024-03-12T03:38:27Z",
@@ -111506,6 +111708,120 @@
     },
     {
       "type": "Feature",
+      "id": "way/542523199",
+      "properties": {
+        "timestamp": "2024-09-10T02:52:32Z",
+        "version": 4,
+        "changeset": 156419564,
+        "highway": "raceway",
+        "name": "Pit Lane",
+        "sport": "karting",
+        "id": "way/542523199"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.6937703,
+            -23.7046137
+          ],
+          [
+            -46.693756,
+            -23.7046627
+          ],
+          [
+            -46.693758,
+            -23.7046799
+          ],
+          [
+            -46.6937644,
+            -23.7046962
+          ],
+          [
+            -46.6939935,
+            -23.7050396
+          ],
+          [
+            -46.6941825,
+            -23.7053092
+          ],
+          [
+            -46.6941989,
+            -23.7053313
+          ],
+          [
+            -46.694219,
+            -23.705351
+          ],
+          [
+            -46.6942395,
+            -23.7053633
+          ],
+          [
+            -46.6942653,
+            -23.7053688
+          ],
+          [
+            -46.6942971,
+            -23.7053703
+          ],
+          [
+            -46.6943417,
+            -23.7053639
+          ],
+          [
+            -46.6943923,
+            -23.7053559
+          ],
+          [
+            -46.6944503,
+            -23.705339
+          ],
+          [
+            -46.6945089,
+            -23.7053142
+          ],
+          [
+            -46.6945368,
+            -23.7052929
+          ],
+          [
+            -46.6945638,
+            -23.7052565
+          ],
+          [
+            -46.6945798,
+            -23.7052256
+          ],
+          [
+            -46.6945895,
+            -23.7051892
+          ],
+          [
+            -46.6945902,
+            -23.7051358
+          ],
+          [
+            -46.6945604,
+            -23.7049404
+          ],
+          [
+            -46.6943716,
+            -23.7041565
+          ],
+          [
+            -46.6943186,
+            -23.7040098
+          ],
+          [
+            -46.6942792,
+            -23.7039092
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/609739319",
       "properties": {
         "timestamp": "2019-07-09T15:18:00Z",
@@ -112408,6 +112724,36 @@
           [
             -46.5653385,
             -23.5612925
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/769110801",
+      "properties": {
+        "timestamp": "2024-09-10T05:54:55Z",
+        "version": 4,
+        "changeset": 156422899,
+        "highway": "raceway",
+        "name": "Quartermile",
+        "sport": "drag_racing",
+        "id": "way/769110801"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.693699,
+            -23.7004556
+          ],
+          [
+            -46.6940239,
+            -23.7015473
+          ],
+          [
+            -46.6948574,
+            -23.7043476
           ]
         ]
       }
@@ -113533,6 +113879,75 @@
     },
     {
       "type": "Feature",
+      "id": "way/1261363941",
+      "properties": {
+        "timestamp": "2024-09-10T02:52:32Z",
+        "version": 2,
+        "changeset": 156419564,
+        "highway": "raceway",
+        "name": "Pit Lane",
+        "sport": "karting",
+        "id": "way/1261363941"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.6942299,
+            -23.7038219
+          ],
+          [
+            -46.6942193,
+            -23.7038114
+          ],
+          [
+            -46.6941945,
+            -23.7038078
+          ],
+          [
+            -46.6941529,
+            -23.7038117
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1261363942",
+      "properties": {
+        "timestamp": "2024-09-10T02:52:32Z",
+        "version": 2,
+        "changeset": 156419564,
+        "covered": "yes",
+        "highway": "raceway",
+        "name": "Pit Lane",
+        "sport": "karting",
+        "id": "way/1261363942"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.6942792,
+            -23.7039092
+          ],
+          [
+            -46.694271,
+            -23.7038882
+          ],
+          [
+            -46.6942361,
+            -23.703828
+          ],
+          [
+            -46.6942299,
+            -23.7038219
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1286829775",
       "properties": {
         "timestamp": "2024-05-26T15:05:02Z",
@@ -113610,32 +114025,6 @@
             -46.5181674,
             -23.5366653
           ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/205160834",
-      "properties": {
-        "timestamp": "2024-03-30T08:23:43Z",
-        "version": 8,
-        "changeset": 149341250,
-        "alt_name": "Kartódromo de Interlagos",
-        "name": "Kartódromo Municipal Ayrton Senna",
-        "operator": "Prefeitura de São Paulo",
-        "operator:type": "government",
-        "sport": "karting",
-        "start_date": "1970",
-        "tourism": "attraction",
-        "wikidata": "Q10313928",
-        "wikipedia": "pt:Kartódromo Municipal Ayrton Senna",
-        "id": "node/205160834"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -46.6936914,
-          -23.703711
         ]
       }
     },

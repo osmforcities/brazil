@@ -2335,6 +2335,59 @@
     },
     {
       "type": "Feature",
+      "id": "way/1314642104",
+      "properties": {
+        "timestamp": "2024-09-10T13:54:42Z",
+        "version": 3,
+        "changeset": 156442051,
+        "addr:city": "Teresina",
+        "addr:housenumber": "20 B",
+        "addr:street": "Avenida Serra Grande - Quadra 09, Conjunto Redonda",
+        "addr:suburb": "Colorado",
+        "amenity": "pharmacy",
+        "building": "farmácia",
+        "healthcare": "pharmacy",
+        "name": "Drogaria Gavião",
+        "id": "way/1314642104"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.7395111,
+              -5.0957114
+            ],
+            [
+              -42.7396,
+              -5.0957428
+            ],
+            [
+              -42.7395237,
+              -5.0958995
+            ],
+            [
+              -42.7394475,
+              -5.095875
+            ],
+            [
+              -42.7394683,
+              -5.0958318
+            ],
+            [
+              -42.7394555,
+              -5.0958274
+            ],
+            [
+              -42.7395111,
+              -5.0957114
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/5631461990",
       "properties": {
         "timestamp": "2018-05-22T14:22:41Z",
@@ -4560,6 +4613,30 @@
         "coordinates": [
           -42.7810169,
           -5.0207948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12168172036",
+      "properties": {
+        "timestamp": "2024-09-10T13:39:42Z",
+        "version": 2,
+        "changeset": 156441275,
+        "addr:city": "Teresina",
+        "addr:housenumber": "20 B",
+        "addr:street": "Avenida Serra Grande - Quadra 09, Conjunto Redonda",
+        "addr:suburb": "Colorado",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Drogaria Gavião",
+        "id": "node/12168172036"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.7395194,
+          -5.09581
         ]
       }
     }

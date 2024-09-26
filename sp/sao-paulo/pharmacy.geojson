@@ -33875,32 +33875,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/8591585422",
-      "properties": {
-        "timestamp": "2021-04-04T01:44:32Z",
-        "version": 1,
-        "changeset": 102255533,
-        "addr:city": "São Paulo",
-        "addr:housenumber": "5657B",
-        "addr:postcode": "03295-000",
-        "addr:street": "Avenida Professor Luiz Ignácio Anhaia Mello",
-        "addr:suburb": "Vila Graciosa",
-        "amenity": "pharmacy",
-        "dispensing": "yes",
-        "healthcare": "pharmacy",
-        "name": "Bifarma",
-        "id": "node/8591585422"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -46.5428698,
-          -23.5908686
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/8607542370",
       "properties": {
         "timestamp": "2021-04-08T17:12:47Z",
@@ -35534,18 +35508,17 @@
       "type": "Feature",
       "id": "node/11290931641",
       "properties": {
-        "timestamp": "2023-10-26T13:21:05Z",
-        "version": 1,
-        "changeset": 143162430,
+        "timestamp": "2024-09-06T14:51:26Z",
+        "version": 2,
+        "changeset": 156279166,
         "addr:city": "São Paulo",
-        "addr:housenumber": "39",
-        "addr:postcode": "03267-110",
-        "addr:street": "Avenida do Oratório e Rua Nova Timboteua",
-        "addr:suburb": "vila industrial",
+        "addr:street": "Avenida do Oratório",
+        "addr:suburb": "Vila Industrial",
         "amenity": "pharmacy",
+        "dispensing": "yes",
+        "drive_through": "no",
         "healthcare": "pharmacy",
         "name": "Farmácia Super Popular",
-        "opening_hours": "seg á a sex das 8h ás 21h sáb dom e feriado das 8h ás 20h",
         "id": "node/11290931641"
       },
       "geometry": {
@@ -35588,28 +35561,27 @@
       "type": "Feature",
       "id": "node/11299757045",
       "properties": {
-        "timestamp": "2023-10-30T11:50:55Z",
-        "version": 1,
-        "changeset": 143361205,
+        "timestamp": "2024-09-06T14:51:26Z",
+        "version": 3,
+        "changeset": 156279166,
         "addr:city": "São Paulo",
         "addr:housenumber": "4712",
         "addr:postcode": "03220-200",
         "addr:street": "Avenida do Oratório",
-        "addr:suburb": "vila industrial",
+        "addr:suburb": "Vila Industrial",
         "amenity": "pharmacy",
         "dispensing": "yes",
         "drive_through": "yes",
         "healthcare": "pharmacy",
+        "mobile": "+55 11 99561 5506",
         "name": "Droganita",
-        "opening_hours": "seg a sáb das 08h ás 21h e dom das 08h ás 14h",
-        "phone": "55 11 99561-5506",
         "id": "node/11299757045"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -46.5293324,
-          -23.6030922
+          -46.5293232,
+          -23.6031606
         ]
       }
     },
@@ -36632,6 +36604,59 @@
         "coordinates": [
           -46.6403407,
           -23.5421334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12160554363",
+      "properties": {
+        "timestamp": "2024-09-06T18:16:34Z",
+        "version": 1,
+        "changeset": 156287466,
+        "addr:housenumber": "5441",
+        "addr:street": "Avenida Professor Luiz Ignácio Anhaia Mello",
+        "addr:suburb": "Vila Ema",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "opening_hours": "Mo-Sa 08:00-21:30; Su,PH 08:00-20:00",
+        "id": "node/12160554363"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5436631,
+          -23.5893478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12160564856",
+      "properties": {
+        "timestamp": "2024-09-06T18:01:14Z",
+        "version": 1,
+        "changeset": 156286948,
+        "addr:housenumber": "3680",
+        "addr:street": "Avenida Vila Ema",
+        "addr:suburb": "Vila Ema",
+        "amenity": "pharmacy",
+        "brand": "Drogaria São Paulo",
+        "brand:wikidata": "Q5308184",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Drogaria São Paulo",
+        "opening_hours": "Mo-Su,PH 07:00-23:00",
+        "id": "node/12160564856"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.54381,
+          -23.588124
         ]
       }
     }

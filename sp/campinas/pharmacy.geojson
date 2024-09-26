@@ -2942,27 +2942,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/8476110879",
-      "properties": {
-        "timestamp": "2021-03-01T14:42:37Z",
-        "version": 1,
-        "changeset": 100213666,
-        "amenity": "pharmacy",
-        "dispensing": "yes",
-        "healthcare": "pharmacy",
-        "name": "Farma Zanca",
-        "id": "node/8476110879"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -47.069457,
-          -22.8810124
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/8476144456",
       "properties": {
         "timestamp": "2021-03-01T14:49:59Z",
@@ -3027,6 +3006,58 @@
         "coordinates": [
           -47.0785499,
           -22.8305475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12160961765",
+      "properties": {
+        "timestamp": "2024-09-06T22:30:08Z",
+        "version": 1,
+        "changeset": 156294371,
+        "addr:city": "Campinas",
+        "addr:housenumber": "219",
+        "addr:postcode": "13075-290",
+        "addr:street": "Avenida Monsenhor Gerônimo Baggio",
+        "addr:suburb": "Jardim Nossa Sra. Auxiliadora",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Rede Drogão Popular",
+        "opening_hours": "Mo-Su 07:00-00:00",
+        "id": "node/12160961765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0639921,
+          -22.8818954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12160961766",
+      "properties": {
+        "timestamp": "2024-09-06T22:30:08Z",
+        "version": 1,
+        "changeset": 156294371,
+        "addr:city": "Campinas",
+        "addr:housenumber": "227",
+        "addr:postcode": "13075-350",
+        "addr:street": "Avenida Monsenhor Gerônimo Baggio",
+        "addr:suburb": "Jardim Nossa Sra. Auxiliadora",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Drogaria da Lagoa",
+        "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-13:00",
+        "id": "node/12160961766"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0638952,
+          -22.8819942
         ]
       }
     }

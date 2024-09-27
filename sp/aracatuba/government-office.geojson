@@ -5,9 +5,9 @@
       "type": "Feature",
       "id": "relation/4091503",
       "properties": {
-        "timestamp": "2019-03-04T18:22:49Z",
-        "version": 3,
-        "changeset": 67777309,
+        "timestamp": "2024-09-13T20:16:55Z",
+        "version": 4,
+        "changeset": 156587854,
         "addr:housenumber": "560",
         "addr:street": "Avenida Prestes Maia",
         "addr:suburb": "Novo Paraíso",
@@ -15,7 +15,7 @@
         "government": "administrative",
         "name": "Secretaria Municipal de Segurança",
         "office": "government",
-        "phone": "+55 18 3636-1240",
+        "phone": "+55 18 3636 1240",
         "type": "multipolygon",
         "website": "https://www.aracatuba.sp.gov.br/subsessao.php?IDSecao=21&IDCategoria=78",
         "id": "relation/4091503"
@@ -366,6 +366,27 @@
         "coordinates": [
           -50.4342484,
           -21.193978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12175515040",
+      "properties": {
+        "timestamp": "2024-09-13T20:16:55Z",
+        "version": 1,
+        "changeset": 156587854,
+        "addr:street": "Avenida Prestes Maia",
+        "government": "public_service",
+        "name": "Defesa Cívil",
+        "office": "government",
+        "id": "node/12175515040"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.45588,
+          -21.1912574
         ]
       }
     }

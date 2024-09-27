@@ -226,15 +226,15 @@
       "type": "Feature",
       "id": "relation/3406323",
       "properties": {
-        "timestamp": "2018-12-22T02:15:47Z",
-        "version": 2,
-        "changeset": 65684192,
+        "timestamp": "2024-09-13T22:39:00Z",
+        "version": 3,
+        "changeset": 156591372,
         "addr:housenumber": "352",
         "addr:postcode": "16075-093",
         "addr:street": "Rua Emília Santos",
         "amenity": "school",
         "name": "Escola Municipal de Ensino Básico Professor Lauro Bittencourt",
-        "phone": "+55 18 3623-5091",
+        "phone": "+55 18 3623 5091",
         "short_name": "EMEB Professor Lauro Bittencourt",
         "type": "multipolygon",
         "id": "relation/3406323"
@@ -515,12 +515,19 @@
       "type": "Feature",
       "id": "way/184018299",
       "properties": {
-        "timestamp": "2019-09-25T04:47:12Z",
-        "version": 3,
-        "changeset": 74886102,
+        "timestamp": "2024-09-13T23:04:19Z",
+        "version": 5,
+        "changeset": 156591879,
+        "addr:housenumber": "139",
+        "addr:street": "Rua Augusto Keller",
+        "addr:suburb": "Amizade",
         "amenity": "school",
         "barrier": "wall",
-        "name": "Escola Paraisão",
+        "name": "Escola Estadual Doutor Clóvis Arruda Campos",
+        "operator": "Secretaria da Educação do Estado de São Paulo",
+        "operator:type": "government",
+        "religion": "none",
+        "short_name": "Escola Paraisão",
         "id": "way/184018299"
       },
       "geometry": {
@@ -1117,16 +1124,17 @@
       "type": "Feature",
       "id": "way/254279598",
       "properties": {
-        "timestamp": "2018-12-22T02:15:17Z",
-        "version": 2,
-        "changeset": 65684192,
+        "timestamp": "2024-09-13T22:39:00Z",
+        "version": 3,
+        "changeset": 156591372,
         "addr:housenumber": "405",
         "addr:postcode": "16075-090",
         "addr:street": "Rua Judity Marchareti",
         "amenity": "school",
         "barrier": "wall",
         "name": "Escola Municipal de Ensino Infantil Professor Joaquim Fernandes",
-        "phone": "+55 18 3621-3747",
+        "phone": "+55 18 3621 3747",
+        "religion": "none",
         "short_name": "EMEI Professor Joaquim Fernandes",
         "id": "way/254279598"
       },
@@ -1973,6 +1981,108 @@
             [
               -50.4563469,
               -21.2026721
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1315364623",
+      "properties": {
+        "timestamp": "2024-09-13T17:03:24Z",
+        "version": 1,
+        "changeset": 156581825,
+        "amenity": "school",
+        "id": "way/1315364623"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -50.4552028,
+              -21.1998514
+            ],
+            [
+              -50.4553289,
+              -21.1999964
+            ],
+            [
+              -50.4552136,
+              -21.2000689
+            ],
+            [
+              -50.4552779,
+              -21.2001389
+            ],
+            [
+              -50.4552404,
+              -21.2001765
+            ],
+            [
+              -50.4551546,
+              -21.2001064
+            ],
+            [
+              -50.4551277,
+              -21.2001564
+            ],
+            [
+              -50.4550446,
+              -21.2000714
+            ],
+            [
+              -50.4550768,
+              -21.2000539
+            ],
+            [
+              -50.4550687,
+              -21.2000314
+            ],
+            [
+              -50.4548434,
+              -21.2001364
+            ],
+            [
+              -50.4549427,
+              -21.200309
+            ],
+            [
+              -50.4548649,
+              -21.2003365
+            ],
+            [
+              -50.4547549,
+              -21.2001364
+            ],
+            [
+              -50.4547495,
+              -21.2000989
+            ],
+            [
+              -50.4547925,
+              -21.2000514
+            ],
+            [
+              -50.4549078,
+              -21.2000064
+            ],
+            [
+              -50.4548676,
+              -21.1999439
+            ],
+            [
+              -50.4549319,
+              -21.1999189
+            ],
+            [
+              -50.4549588,
+              -21.1999714
+            ],
+            [
+              -50.4552028,
+              -21.1998514
             ]
           ]
         ]

@@ -3,20 +3,47 @@
   "features": [
     {
       "type": "Feature",
-      "id": "node/5287409206",
+      "id": "way/1315334429",
       "properties": {
-        "timestamp": "2017-12-23T14:45:50Z",
-        "version": 2,
-        "changeset": 54865315,
+        "timestamp": "2024-09-13T13:54:32Z",
+        "version": 1,
+        "changeset": 156573664,
+        "addr:housenumber": "241",
+        "addr:postcode": "16880-000",
+        "addr:street": "Rua Bartolomeu Bueno",
         "amenity": "hospital",
+        "healthcare": "hospital",
         "name": "Santa Casa de Misericordia de Valparaíso",
-        "id": "node/5287409206"
+        "opening_hours": "Mo-Fr 08:00-12:00,13:00-17:00; PH off",
+        "phone": "+55 18 3401 7171",
+        "website": "https://www.santacasadevalparaiso.com.br/",
+        "id": "way/1315334429"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -50.8617606,
-          -21.2306417
+          [
+            [
+              -50.8620379,
+              -21.230367
+            ],
+            [
+              -50.8619361,
+              -21.2311228
+            ],
+            [
+              -50.8603356,
+              -21.2309428
+            ],
+            [
+              -50.8604795,
+              -21.2302034
+            ],
+            [
+              -50.8620379,
+              -21.230367
+            ]
+          ]
         ]
       }
     }

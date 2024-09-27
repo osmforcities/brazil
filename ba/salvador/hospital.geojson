@@ -832,6 +832,134 @@
     },
     {
       "type": "Feature",
+      "id": "way/310359215",
+      "properties": {
+        "timestamp": "2024-09-13T20:04:05Z",
+        "version": 9,
+        "changeset": 156587494,
+        "addr:housenumber": "2096",
+        "addr:postcode": "41920-900",
+        "addr:street": "Avenida Juracy Magalhães Júnior",
+        "amenity": "hospital",
+        "barrier": "wall",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "emergency;paediatrics;radiology;maternity;intensive",
+        "name": "Hospital Aliança",
+        "phone": "+55 71 2108-5600",
+        "website": "https://hospitalalianca.com.br/",
+        "id": "way/310359215"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.4816582,
+              -13.0004189
+            ],
+            [
+              -38.481662,
+              -13.0004204
+            ],
+            [
+              -38.4819278,
+              -13.0005248
+            ],
+            [
+              -38.4817051,
+              -13.0011312
+            ],
+            [
+              -38.4813324,
+              -13.0020145
+            ],
+            [
+              -38.4804257,
+              -13.0017701
+            ],
+            [
+              -38.4799708,
+              -13.0016528
+            ],
+            [
+              -38.4796914,
+              -13.0014759
+            ],
+            [
+              -38.4791181,
+              -13.0010586
+            ],
+            [
+              -38.4788753,
+              -13.0007625
+            ],
+            [
+              -38.478689,
+              -13.0004464
+            ],
+            [
+              -38.4785697,
+              -13.0003301
+            ],
+            [
+              -38.4787051,
+              -13.0001838
+            ],
+            [
+              -38.4786099,
+              -13.0000949
+            ],
+            [
+              -38.4791919,
+              -12.999567
+            ],
+            [
+              -38.4796613,
+              -12.9998022
+            ],
+            [
+              -38.4798799,
+              -12.9998911
+            ],
+            [
+              -38.4801114,
+              -12.9999611
+            ],
+            [
+              -38.4803077,
+              -13.0000205
+            ],
+            [
+              -38.4805411,
+              -13.0001132
+            ],
+            [
+              -38.4807556,
+              -13.0001864
+            ],
+            [
+              -38.4810144,
+              -13.0002727
+            ],
+            [
+              -38.4813537,
+              -13.0003249
+            ],
+            [
+              -38.4815656,
+              -13.0003903
+            ],
+            [
+              -38.4816582,
+              -13.0004189
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/375112778",
       "properties": {
         "timestamp": "2023-09-10T10:50:30Z",
@@ -5984,44 +6112,6 @@
         "coordinates": [
           -38.4813718,
           -13.0010916
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/11737562556",
-      "properties": {
-        "timestamp": "2024-03-16T20:39:22Z",
-        "version": 1,
-        "changeset": 148749226,
-        "amenity": "hospital",
-        "healthcare": "hospital",
-        "id": "node/11737562556"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -38.480595,
-          -13.0014178
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/11737562557",
-      "properties": {
-        "timestamp": "2024-03-16T20:39:22Z",
-        "version": 1,
-        "changeset": 148749226,
-        "amenity": "hospital",
-        "healthcare": "hospital",
-        "id": "node/11737562557"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -38.4796981,
-          -13.00087
         ]
       }
     },

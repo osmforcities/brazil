@@ -813,26 +813,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/1143263841",
-      "properties": {
-        "timestamp": "2020-03-27T14:07:18Z",
-        "version": 2,
-        "changeset": 82718464,
-        "amenity": "pharmacy",
-        "dispensing": "yes",
-        "healthcare": "pharmacy",
-        "id": "node/1143263841"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -47.0682782,
-          -22.8829165
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/1143281449",
       "properties": {
         "timestamp": "2023-09-15T16:41:49Z",
@@ -2944,13 +2924,22 @@
       "type": "Feature",
       "id": "node/8476144456",
       "properties": {
-        "timestamp": "2021-03-01T14:49:59Z",
-        "version": 1,
-        "changeset": 100213992,
+        "timestamp": "2024-09-13T19:07:50Z",
+        "version": 2,
+        "changeset": 156585939,
+        "addr:city": "Campinas",
+        "addr:housenumber": "1370",
+        "addr:postcode": "13073-148",
+        "addr:street": "Avenida Brasil",
+        "addr:suburb": "Jardim Guanabara",
         "amenity": "pharmacy",
         "dispensing": "yes",
+        "drive_through": "no",
         "healthcare": "pharmacy",
         "name": "Farmácia Carcajon",
+        "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-13:00",
+        "phone": "+55 19 32431904",
+        "website": "http://www.carcajon.com.br/",
         "id": "node/8476144456"
       },
       "geometry": {

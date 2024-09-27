@@ -97,6 +97,72 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1315386333",
+      "properties": {
+        "timestamp": "2024-09-13T19:17:37Z",
+        "version": 1,
+        "changeset": 156586238,
+        "amenity": "pharmacy",
+        "building": "yes",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmácia Drogasil",
+        "id": "way/1315386333"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.6844682,
+              -3.8910054
+            ],
+            [
+              -38.6842409,
+              -3.8909936
+            ],
+            [
+              -38.6842005,
+              -3.8906577
+            ],
+            [
+              -38.6844395,
+              -3.8906577
+            ],
+            [
+              -38.6844682,
+              -3.8910054
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12175423278",
+      "properties": {
+        "timestamp": "2024-09-13T19:17:37Z",
+        "version": 1,
+        "changeset": 156586238,
+        "addr:housenumber": "1756B",
+        "addr:street": "Avenida Senador Almir Pinto",
+        "addr:suburb": "Outra Banda",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmácia Premium - Ambulatório",
+        "id": "node/12175423278"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.6755567,
+          -3.8802995
+        ]
+      }
     }
   ]
 }

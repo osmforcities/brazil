@@ -42,6 +42,120 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1315386335",
+      "properties": {
+        "timestamp": "2024-09-13T19:17:37Z",
+        "version": 1,
+        "changeset": 156586238,
+        "addr:street": "Rua Mundica Paula",
+        "addr:suburb": "Centro",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "AmorSaúde Maranguape",
+        "id": "way/1315386335"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.6843728,
+              -3.8893327
+            ],
+            [
+              -38.6843927,
+              -3.8896008
+            ],
+            [
+              -38.6841118,
+              -3.8896261
+            ],
+            [
+              -38.6840975,
+              -3.889348
+            ],
+            [
+              -38.6843728,
+              -3.8893327
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1315386340",
+      "properties": {
+        "timestamp": "2024-09-13T19:17:37Z",
+        "version": 1,
+        "changeset": 156586238,
+        "addr:street": "Rua Gontran Nascimento",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general;saúde_feminina",
+        "name": "Centro de Referência da Mulher Maria Augusta de Lima Paiva",
+        "operator": "prefeitura",
+        "operator:type": "public",
+        "id": "way/1315386340"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.6777402,
+              -3.880818
+            ],
+            [
+              -38.6775753,
+              -3.8810037
+            ],
+            [
+              -38.677267,
+              -3.8806903
+            ],
+            [
+              -38.677331,
+              -3.8806207
+            ],
+            [
+              -38.677426,
+              -3.8805278
+            ],
+            [
+              -38.6777402,
+              -3.880818
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12175423245",
+      "properties": {
+        "timestamp": "2024-09-13T19:17:37Z",
+        "version": 1,
+        "changeset": 156586238,
+        "addr:street": "Rua Mundica Paula",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "psychiatry",
+        "name": "CAPS Geral Maranguape",
+        "id": "node/12175423245"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.6837678,
+          -3.888271
+        ]
+      }
     }
   ]
 }

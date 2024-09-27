@@ -835,13 +835,20 @@
       "type": "Feature",
       "id": "node/1143281453",
       "properties": {
-        "timestamp": "2019-07-21T21:20:39Z",
-        "version": 5,
-        "changeset": 72492708,
+        "timestamp": "2024-09-14T12:15:22Z",
+        "version": 6,
+        "changeset": 156609437,
+        "addr:city": "Campinas",
+        "addr:housenumber": "448",
+        "addr:postcode": "13085-510",
+        "addr:street": "Avenida Albino José Barbosa de Oliveira",
+        "addr:suburb": "Barão Geraldo",
         "amenity": "pharmacy",
         "brand": "Drogasil",
         "brand:wikidata": "Q5308185",
         "brand:wikipedia": "pt:Drogasil",
+        "dispensing": "yes",
+        "drive_through": "no",
         "healthcare": "pharmacy",
         "name": "Drogasil",
         "wheelchair": "yes",
@@ -3047,6 +3054,32 @@
         "coordinates": [
           -47.0638952,
           -22.8819942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12176737996",
+      "properties": {
+        "timestamp": "2024-09-14T13:17:27Z",
+        "version": 1,
+        "changeset": 156612270,
+        "addr:city": "Campinas",
+        "addr:housenumber": "310",
+        "addr:postcode": "13070-055",
+        "addr:street": "Avenida Francisco José de Camargo Andrade",
+        "addr:suburb": "Jardim Chapadão",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Vet Fórmula - Manipulação Veterinária",
+        "phone": "+55 19 33657747",
+        "id": "node/12176737996"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0755786,
+          -22.8871516
         ]
       }
     }

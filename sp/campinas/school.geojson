@@ -6728,11 +6728,14 @@
       "type": "Feature",
       "id": "node/1617880279",
       "properties": {
-        "timestamp": "2012-02-04T16:37:00Z",
-        "version": 1,
-        "changeset": 10586027,
+        "timestamp": "2024-09-14T13:17:27Z",
+        "version": 2,
+        "changeset": 156612270,
+        "addr:city": "Campinas",
         "addr:housenumber": "601",
+        "addr:postcode": "13073-012",
         "addr:street": "Avenida Brasil",
+        "addr:suburb": "Jardim Guanabara",
         "amenity": "school",
         "name": "Oficina do Estudante",
         "website": "http://www.oficinadoestudante.com.br",
@@ -8544,6 +8547,30 @@
         "coordinates": [
           -47.0696349,
           -22.8851553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12177111982",
+      "properties": {
+        "timestamp": "2024-09-14T17:49:11Z",
+        "version": 1,
+        "changeset": 156622421,
+        "addr:city": "Campinas",
+        "addr:housenumber": "38",
+        "addr:postcode": "13075-250",
+        "addr:street": "Rua 1° de Março",
+        "addr:suburb": "Jardim Guanabara",
+        "amenity": "school",
+        "name": "Escola Estadual Professor Aníbal de Freitas",
+        "id": "node/12177111982"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0628829,
+          -22.888045
         ]
       }
     }

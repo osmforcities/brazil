@@ -2862,6 +2862,99 @@
     },
     {
       "type": "Feature",
+      "id": "way/472825823",
+      "properties": {
+        "timestamp": "2024-09-14T00:50:25Z",
+        "version": 6,
+        "changeset": 156593466,
+        "addr:city": "Praia Grande",
+        "addr:country": "BR",
+        "addr:housenumber": "2112",
+        "addr:postcode": "11724-000",
+        "addr:street": "Avenida Ministro Marcos Freire",
+        "addr:suburb": "Jardim Glória",
+        "amenity": "school",
+        "contact:phone": "+55 13 3592 2764",
+        "name": "Instituto Neymar jr",
+        "name:pt": "Instituto Neymar jr",
+        "office": "ngo",
+        "phone": "+55 13 3476 1111",
+        "school": "sport",
+        "sport": "soccer",
+        "website": "https://www.institutoneymarjr.org.br//",
+        "id": "way/472825823"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.4340652,
+              -24.0061117
+            ],
+            [
+              -46.4337997,
+              -24.006685
+            ],
+            [
+              -46.4326597,
+              -24.006266
+            ],
+            [
+              -46.4329038,
+              -24.0056976
+            ],
+            [
+              -46.4340652,
+              -24.0061117
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/557828295",
+      "properties": {
+        "timestamp": "2024-09-14T05:42:53Z",
+        "version": 2,
+        "changeset": 156596966,
+        "building": "yes",
+        "leisure": "fitness_centre",
+        "name": "Arena",
+        "sport": "fitness",
+        "id": "way/557828295"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.4128492,
+              -24.0018558
+            ],
+            [
+              -46.413275,
+              -24.0017939
+            ],
+            [
+              -46.4133266,
+              -24.0019575
+            ],
+            [
+              -46.4128733,
+              -24.0020089
+            ],
+            [
+              -46.4128492,
+              -24.0018558
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/557829812",
       "properties": {
         "timestamp": "2018-02-02T01:23:36Z",
@@ -2981,14 +3074,15 @@
       "type": "Feature",
       "id": "way/654568526",
       "properties": {
-        "timestamp": "2018-12-12T20:18:27Z",
-        "version": 1,
-        "changeset": 65421468,
+        "timestamp": "2024-09-14T05:34:28Z",
+        "version": 2,
+        "changeset": 156596830,
         "access": "yes",
         "leisure": "pitch",
         "lit": "yes",
         "name": "Beach Tennis Sharks",
-        "sport": "tennis",
+        "sport": "beachtennis",
+        "surface": "sand",
         "id": "way/654568526"
       },
       "geometry": {
@@ -3114,10 +3208,11 @@
       "type": "Feature",
       "id": "way/881798584",
       "properties": {
-        "timestamp": "2020-12-07T03:46:10Z",
-        "version": 1,
-        "changeset": 95389269,
+        "timestamp": "2024-09-14T01:48:56Z",
+        "version": 2,
+        "changeset": 156594019,
         "building": "sports_hall",
+        "leisure": "sports_hall",
         "name": "Poliesportivo Magic Paula",
         "sport": "basketball",
         "id": "way/881798584"
@@ -3248,6 +3343,130 @@
             [
               -46.5341274,
               -24.0517711
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1232388533",
+      "properties": {
+        "timestamp": "2024-09-14T02:21:52Z",
+        "version": 3,
+        "changeset": 156594413,
+        "building": "sports_hall",
+        "leisure": "sports_hall",
+        "name": "Ginásio Samambaia",
+        "sport": "multi",
+        "id": "way/1232388533"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.5257058,
+              -24.0349794
+            ],
+            [
+              -46.525349,
+              -24.0353049
+            ],
+            [
+              -46.5250429,
+              -24.0351982
+            ],
+            [
+              -46.5250301,
+              -24.0351251
+            ],
+            [
+              -46.5255234,
+              -24.0347733
+            ],
+            [
+              -46.5257058,
+              -24.0349794
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1315433420",
+      "properties": {
+        "timestamp": "2024-09-14T00:46:46Z",
+        "version": 1,
+        "changeset": 156593437,
+        "leisure": "pitch",
+        "sport": "soccer",
+        "id": "way/1315433420"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.4335556,
+              -24.0064963
+            ],
+            [
+              -46.4327321,
+              -24.0061938
+            ],
+            [
+              -46.4329051,
+              -24.005787
+            ],
+            [
+              -46.4337339,
+              -24.0060859
+            ],
+            [
+              -46.4335556,
+              -24.0064963
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1315437338",
+      "properties": {
+        "timestamp": "2024-09-14T01:51:25Z",
+        "version": 1,
+        "changeset": 156594050,
+        "leisure": "pitch",
+        "name": "Campo do Palmeirinhas",
+        "sport": "soccer",
+        "id": "way/1315437338"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.4585434,
+              -24.0059382
+            ],
+            [
+              -46.4581411,
+              -24.0063817
+            ],
+            [
+              -46.4575067,
+              -24.0058855
+            ],
+            [
+              -46.4579144,
+              -24.0054494
+            ],
+            [
+              -46.4585434,
+              -24.0059382
             ]
           ]
         ]
@@ -4767,11 +4986,11 @@
       "type": "Feature",
       "id": "way/599126749",
       "properties": {
-        "timestamp": "2018-06-19T04:02:46Z",
-        "version": 1,
-        "changeset": 59962913,
+        "timestamp": "2024-09-14T05:16:01Z",
+        "version": 2,
+        "changeset": 156596537,
         "highway": "raceway",
-        "sport": "motor",
+        "sport": "karting",
         "id": "way/599126749"
       },
       "geometry": {
@@ -4996,6 +5215,29 @@
     },
     {
       "type": "Feature",
+      "id": "node/6693477294",
+      "properties": {
+        "timestamp": "2024-09-14T06:09:12Z",
+        "version": 3,
+        "changeset": 156597381,
+        "brand": "Smart Fit",
+        "brand:wikidata": "Q30930959",
+        "brand:wikipedia": "pt:Smart Fit",
+        "leisure": "fitness_centre",
+        "name": "Smart Fit",
+        "sport": "fitness",
+        "id": "node/6693477294"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4088856,
+          -23.9971185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/7078449287",
       "properties": {
         "timestamp": "2020-05-05T23:09:49Z",
@@ -5029,6 +5271,64 @@
         "coordinates": [
           -46.416471,
           -23.9955467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7829988639",
+      "properties": {
+        "timestamp": "2024-09-14T02:00:22Z",
+        "version": 2,
+        "changeset": 156594158,
+        "leisure": "fitness_centre",
+        "sport": "fitness",
+        "id": "node/7829988639"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4542283,
+          -24.0131046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7830036675",
+      "properties": {
+        "timestamp": "2024-09-14T02:09:51Z",
+        "version": 2,
+        "changeset": 156594280,
+        "leisure": "fitness_centre",
+        "sport": "fitness",
+        "id": "node/7830036675"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4756605,
+          -24.0189115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7830049177",
+      "properties": {
+        "timestamp": "2024-09-14T02:13:53Z",
+        "version": 2,
+        "changeset": 156594318,
+        "leisure": "fitness_centre",
+        "name": "R3",
+        "sport": "fitness",
+        "id": "node/7830049177"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4838913,
+          -24.0209001
         ]
       }
     }

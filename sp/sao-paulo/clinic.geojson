@@ -3783,17 +3783,22 @@
       "type": "Feature",
       "id": "way/485980376",
       "properties": {
-        "timestamp": "2017-04-11T02:21:18Z",
-        "version": 1,
-        "changeset": 47643492,
+        "timestamp": "2024-09-14T13:14:49Z",
+        "version": 3,
+        "changeset": 156612147,
         "addr:housenumber": "540",
         "addr:postcode": "05207-000",
         "addr:street": "Rua Presidente Vargas",
         "addr:suburb": "Vila Caiuba",
         "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general;vaccination;ginecologia",
         "name": "Unidade Básica de Saúde Vila Caiúba",
-        "phone": "+55 11 3835-2063",
+        "opening_hours": "Mo-Fr 07:00-19:00; PH off",
+        "phone": "+55 11 3835 2063",
+        "ref:CNES": "6377742",
         "short_name": "UBS Vila Caiúba",
+        "source": "CNES",
         "id": "way/485980376"
       },
       "geometry": {
@@ -14473,28 +14478,6 @@
         "coordinates": [
           -46.6683695,
           -23.5750313
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/3857771557",
-      "properties": {
-        "timestamp": "2015-12-04T13:57:25Z",
-        "version": 2,
-        "changeset": 35747801,
-        "addr:housenumber": "80",
-        "addr:street": "Rua Júlio de Oliveira",
-        "addr:suburb": "Vila Flamengo",
-        "amenity": "clinic",
-        "name": "Pronto Socorro Perus",
-        "id": "node/3857771557"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -46.7383983,
-          -23.4036328
         ]
       }
     },

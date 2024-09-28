@@ -10291,9 +10291,9 @@
       "type": "Feature",
       "id": "way/325918624",
       "properties": {
-        "timestamp": "2022-08-05T15:05:51Z",
-        "version": 5,
-        "changeset": 124528239,
+        "timestamp": "2024-09-15T00:43:10Z",
+        "version": 6,
+        "changeset": 156631059,
         "addr:city": "Rio de Janeiro",
         "addr:housenumber": "328",
         "addr:street": "Rua Oito de Dezembro",
@@ -10339,6 +10339,10 @@
             [
               -43.2402358,
               -22.9086883
+            ],
+            [
+              -43.2403308,
+              -22.9084259
             ],
             [
               -43.2404665,
@@ -36403,6 +36407,135 @@
             [
               -43.2847738,
               -22.9021411
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1315615380",
+      "properties": {
+        "timestamp": "2024-09-15T00:27:05Z",
+        "version": 1,
+        "changeset": 156630914,
+        "addr:city": "Rio de Janeiro",
+        "addr:housenumber": "671",
+        "addr:postcode": "20960-004",
+        "addr:street": "Rua Ana Néri",
+        "addr:suburb": "Mangueira",
+        "amenity": "school",
+        "grades": "1-5",
+        "name": "Escola Tia Neuma",
+        "operator": "Colégio Santa Mônica - Programa Social da Mangueira",
+        "operator:type": "private",
+        "id": "way/1315615380"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.2421021,
+              -22.9000169
+            ],
+            [
+              -43.2420844,
+              -22.900122
+            ],
+            [
+              -43.2419388,
+              -22.900113
+            ],
+            [
+              -43.241934,
+              -22.9000125
+            ],
+            [
+              -43.2421021,
+              -22.9000169
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1315615381",
+      "properties": {
+        "timestamp": "2024-09-15T00:27:05Z",
+        "version": 1,
+        "changeset": 156630914,
+        "amenity": "school",
+        "name": "Escola Tia Neuma",
+        "id": "way/1315615381"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.2420844,
+              -22.900122
+            ],
+            [
+              -43.24207,
+              -22.9003192
+            ],
+            [
+              -43.2419245,
+              -22.9003102
+            ],
+            [
+              -43.2419388,
+              -22.900113
+            ],
+            [
+              -43.2420844,
+              -22.900122
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1315615382",
+      "properties": {
+        "timestamp": "2024-09-15T00:27:05Z",
+        "version": 1,
+        "changeset": 156630914,
+        "amenity": "school",
+        "name": "Escola Tia Neuma",
+        "id": "way/1315615382"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.2417177,
+              -22.9002927
+            ],
+            [
+              -43.2417187,
+              -22.9005714
+            ],
+            [
+              -43.2417262,
+              -22.9005789
+            ],
+            [
+              -43.2416329,
+              -22.9005792
+            ],
+            [
+              -43.2416318,
+              -22.900293
+            ],
+            [
+              -43.2417177,
+              -22.9002927
             ]
           ]
         ]
@@ -77020,6 +77153,30 @@
         "coordinates": [
           -43.2419924,
           -22.9002314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12178369608",
+      "properties": {
+        "timestamp": "2024-09-15T13:49:51Z",
+        "version": 1,
+        "changeset": 156648569,
+        "addr:city": "Rio de Janeiro",
+        "addr:housenumber": "135",
+        "addr:street": "Rua Haroldo Lôbo",
+        "addr:suburb": "Portuguesa",
+        "amenity": "school",
+        "name": "Recriar",
+        "website": "https://familiarecriar.com.br/",
+        "id": "node/12178369608"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2107465,
+          -22.8036746
         ]
       }
     }

@@ -1750,27 +1750,18 @@
       "type": "Feature",
       "id": "way/49713112",
       "properties": {
-        "timestamp": "2021-12-06T04:19:35Z",
-        "version": 3,
-        "changeset": 114601634,
-        "IPP:BAIRRO": "Portuguesa",
-        "IPP:CHAVE": "11294",
-        "IPP:CODATIVIDA": "0",
-        "IPP:CODBAIRRO": "103",
-        "IPP:COD_INEP": "33086060",
-        "IPP:COD_SMA": "011294",
-        "IPP:CRE": "04",
-        "IPP:CodLote": "896542",
-        "IPP:CodNP": "447143",
-        "IPP:CodQuadra": "262C007800",
-        "IPP:CodTrecho": "46795",
-        "IPP:DESIGNACAO": "0420021",
-        "IPP:ENDERECO": "Rua Gustavo Augusto de Rezende, 541",
-        "IPP:ENDNOVO": "http://webapp.sme.rio.rj.gov.br/jcartela/publico/pesquisa.do?idSetor=11294&cmd=load",
-        "IPP:FLG_VALIDA": "S",
-        "IPP:TELEFONES": "3393-2250",
+        "timestamp": "2024-09-16T11:44:49Z",
+        "version": 4,
+        "changeset": 156684603,
+        "addr:city": "Rio de Janeiro",
+        "addr:housenumber": "541",
+        "addr:street": "Rua Gustavo Augusto de Rezende",
+        "addr:suburb": "Portuguesa",
         "amenity": "school",
         "name": "Escola Municipal Gurgel do Amaral",
+        "operator": "Prefeitura do Rio",
+        "operator:type": "government",
+        "phone": "+55 21 3393-2250",
         "source": "IPP",
         "id": "way/49713112"
       },
@@ -10657,6 +10648,61 @@
             [
               -43.4784132,
               -23.0092221
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/327100057",
+      "properties": {
+        "timestamp": "2024-09-16T22:05:20Z",
+        "version": 3,
+        "changeset": 156707384,
+        "addr:city": "Rio de Janeiro",
+        "addr:housenumber": "1450",
+        "addr:street": "Rua Visconde de Niterói",
+        "addr:suburb": "Benfica",
+        "amenity": "school",
+        "name": "Sociedade Pestalozzi do Brasil",
+        "id": "way/327100057"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.240534,
+              -22.8996351
+            ],
+            [
+              -43.2400941,
+              -22.8999637
+            ],
+            [
+              -43.2396837,
+              -22.8994992
+            ],
+            [
+              -43.2397843,
+              -22.8991354
+            ],
+            [
+              -43.2399856,
+              -22.8992007
+            ],
+            [
+              -43.2401745,
+              -22.8992595
+            ],
+            [
+              -43.2403328,
+              -22.8993608
+            ],
+            [
+              -43.240534,
+              -22.8996351
             ]
           ]
         ]

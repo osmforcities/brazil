@@ -43,80 +43,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/174959726",
-      "properties": {
-        "timestamp": "2021-10-27T23:09:23Z",
-        "version": 3,
-        "changeset": 113058515,
-        "addr:city": "Buritama",
-        "addr:postcode": "15290000",
-        "addr:street": "Rua Joaquim Pereira Rosa",
-        "addr:suburb": "Livramento",
-        "building": "club",
-        "fee": "no",
-        "leisure": "sports_centre",
-        "name": "CERET",
-        "sport": "centro_recreativo;editado_por_jhowcazz",
-        "id": "way/174959726"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -50.1450585,
-              -21.0598756
-            ],
-            [
-              -50.1447882,
-              -21.0599696
-            ],
-            [
-              -50.1447024,
-              -21.0597043
-            ],
-            [
-              -50.1441257,
-              -21.059887
-            ],
-            [
-              -50.1436536,
-              -21.0585754
-            ],
-            [
-              -50.1445926,
-              -21.0582344
-            ],
-            [
-              -50.1448178,
-              -21.0588747
-            ],
-            [
-              -50.1449625,
-              -21.0592863
-            ],
-            [
-              -50.1450043,
-              -21.0592757
-            ],
-            [
-              -50.1451004,
-              -21.0595523
-            ],
-            [
-              -50.1449654,
-              -21.0595955
-            ],
-            [
-              -50.1450585,
-              -21.0598756
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/463931416",
       "properties": {
         "timestamp": "2017-01-05T19:32:01Z",
@@ -400,9 +326,10 @@
       "type": "Feature",
       "id": "way/997040076",
       "properties": {
-        "timestamp": "2022-04-16T22:40:21Z",
-        "version": 3,
-        "changeset": 119800516,
+        "timestamp": "2024-09-16T00:58:41Z",
+        "version": 4,
+        "changeset": 156668020,
+        "access": "private",
         "landuse": "recreation_ground",
         "leisure": "pitch",
         "natural": "grassland",
@@ -442,12 +369,12 @@
       "type": "Feature",
       "id": "way/997040079",
       "properties": {
-        "timestamp": "2021-10-27T23:04:57Z",
-        "version": 1,
-        "changeset": 113058462,
+        "timestamp": "2024-09-16T00:58:41Z",
+        "version": 2,
+        "changeset": 156668020,
+        "building": "roof",
         "leisure": "pitch",
-        "name": "Quadra",
-        "sport": "soccer",
+        "sport": "multi",
         "id": "way/997040079"
       },
       "geometry": {
@@ -474,6 +401,161 @@
               -50.1444814,
               -21.0594576
             ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/997040081",
+      "properties": {
+        "timestamp": "2024-09-16T00:58:41Z",
+        "version": 2,
+        "changeset": 156668020,
+        "access": "private",
+        "leisure": "pitch",
+        "sport": "boules",
+        "id": "way/997040081"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -50.1444734,
+              -21.058379
+            ],
+            [
+              -50.1446097,
+              -21.0583385
+            ],
+            [
+              -50.1446932,
+              -21.0585805
+            ],
+            [
+              -50.144559,
+              -21.0586215
+            ],
+            [
+              -50.1444734,
+              -21.058379
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1315824782",
+      "properties": {
+        "timestamp": "2024-09-16T00:58:41Z",
+        "version": 1,
+        "changeset": 156668020,
+        "leisure": "pitch",
+        "sport": "tennis",
+        "surface": "clay",
+        "id": "way/1315824782"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -50.1448084,
+              -21.0589072
+            ],
+            [
+              -50.1449455,
+              -21.0593039
+            ],
+            [
+              -50.1447353,
+              -21.0593622
+            ],
+            [
+              -50.1445982,
+              -21.0589683
+            ],
+            [
+              -50.1448084,
+              -21.0589072
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/174959726",
+      "properties": {
+        "timestamp": "2024-09-16T01:01:27Z",
+        "version": 5,
+        "changeset": 156668054,
+        "addr:city": "Buritama",
+        "addr:postcode": "15290-000",
+        "addr:street": "Rua Joaquim Pereira Rosa",
+        "addr:suburb": "Livramento",
+        "club": "social",
+        "fee": "no",
+        "name": "Centro Recreativo e Esportivo dos Trabalhadores - CERET",
+        "sport": "centro_recreativo;editado_por_jhowcazz",
+        "id": "way/174959726"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -50.145065,
+            -21.0598932
+          ],
+          [
+            -50.1447882,
+            -21.0599696
+          ],
+          [
+            -50.1447024,
+            -21.0597043
+          ],
+          [
+            -50.1441257,
+            -21.059887
+          ],
+          [
+            -50.1436673,
+            -21.0585854
+          ],
+          [
+            -50.1445619,
+            -21.058213
+          ],
+          [
+            -50.1445926,
+            -21.0582344
+          ],
+          [
+            -50.1448178,
+            -21.0588747
+          ],
+          [
+            -50.1449625,
+            -21.0592863
+          ],
+          [
+            -50.1450043,
+            -21.0592757
+          ],
+          [
+            -50.1451004,
+            -21.0595523
+          ],
+          [
+            -50.1449654,
+            -21.0595955
+          ],
+          [
+            -50.145065,
+            -21.0598932
           ]
         ]
       }

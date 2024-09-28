@@ -42,6 +42,89 @@
     },
     {
       "type": "Feature",
+      "id": "way/1315827423",
+      "properties": {
+        "timestamp": "2024-09-16T01:37:50Z",
+        "version": 1,
+        "changeset": 156668535,
+        "access": "yes",
+        "leisure": "pitch",
+        "sport": "soccer",
+        "surface": "artificial_turf",
+        "id": "way/1315827423"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -50.056423,
+              -21.0484423
+            ],
+            [
+              -50.0564979,
+              -21.0485636
+            ],
+            [
+              -50.0562097,
+              -21.0487372
+            ],
+            [
+              -50.0561287,
+              -21.04861
+            ],
+            [
+              -50.056423,
+              -21.0484423
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1315827424",
+      "properties": {
+        "timestamp": "2024-09-16T01:37:50Z",
+        "version": 1,
+        "changeset": 156668535,
+        "access": "yes",
+        "hoops": "1",
+        "leisure": "pitch",
+        "sport": "basketball",
+        "surface": "paved",
+        "id": "way/1315827424"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -50.0565557,
+              -21.0483681
+            ],
+            [
+              -50.0566453,
+              -21.0484921
+            ],
+            [
+              -50.0565248,
+              -21.0485699
+            ],
+            [
+              -50.0564414,
+              -21.0484373
+            ],
+            [
+              -50.0565557,
+              -21.0483681
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/5869763899",
       "properties": {
         "timestamp": "2018-08-31T01:25:05Z",
@@ -56,6 +139,65 @@
         "coordinates": [
           -50.0553909,
           -21.0531278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12179441474",
+      "properties": {
+        "timestamp": "2024-09-16T01:37:50Z",
+        "version": 1,
+        "changeset": 156668535,
+        "leisure": "pitch",
+        "sport": "skateboard",
+        "id": "node/12179441474"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.0541458,
+          -21.0472377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12179441475",
+      "properties": {
+        "timestamp": "2024-09-16T01:37:50Z",
+        "version": 1,
+        "changeset": 156668535,
+        "access": "yes",
+        "leisure": "pitch",
+        "sport": "soccer",
+        "surface": "grass",
+        "id": "node/12179441475"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.054393,
+          -21.0475665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12179441490",
+      "properties": {
+        "timestamp": "2024-09-16T01:37:50Z",
+        "version": 1,
+        "changeset": 156668535,
+        "leisure": "fitness_station",
+        "sport": "fitness",
+        "id": "node/12179441490"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.0561201,
+          -21.0484257
         ]
       }
     }

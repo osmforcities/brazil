@@ -134,14 +134,17 @@
       "type": "Feature",
       "id": "way/1221615164",
       "properties": {
-        "timestamp": "2024-08-22T13:50:57Z",
-        "version": 3,
-        "changeset": 155607284,
+        "timestamp": "2024-09-16T03:01:53Z",
+        "version": 4,
+        "changeset": 156669554,
+        "addr:housenumber": "240",
         "addr:street": "Rua Coronel Canuto",
+        "addr:suburb": "Centro",
         "building": "yes",
         "government": "healthcare",
-        "name": "Secretaria Municipal de Saúde",
+        "name": "Vigilancia Sanitaria",
         "office": "government",
+        "operator": "Secretaria Municipal de Saúde",
         "source": "microsoft/BuildingFootprints",
         "id": "way/1221615164"
       },
@@ -150,8 +153,8 @@
         "coordinates": [
           [
             [
-              -45.4678249,
-              -22.2461469
+              -45.4678447,
+              -22.2461078
             ],
             [
               -45.4678358,
@@ -170,12 +173,12 @@
               -22.2461892
             ],
             [
-              -45.4677739,
-              -22.2461248
+              -45.4677937,
+              -22.2460857
             ],
             [
-              -45.4678249,
-              -22.2461469
+              -45.4678447,
+              -22.2461078
             ]
           ]
         ]
@@ -185,9 +188,12 @@
       "type": "Feature",
       "id": "node/4727770066",
       "properties": {
-        "timestamp": "2024-07-14T22:49:59Z",
-        "version": 2,
-        "changeset": 153949429,
+        "timestamp": "2024-09-16T03:01:53Z",
+        "version": 3,
+        "changeset": 156669554,
+        "addr:housenumber": "115",
+        "addr:street": "Rua Coronel Canuto",
+        "addr:suburb": "Centro",
         "government": "register_office",
         "name": "Cartório de Registro Civil",
         "office": "government",
@@ -196,8 +202,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -45.4666388,
-          -22.2458785
+          -45.4666747,
+          -22.2458571
         ]
       }
     }

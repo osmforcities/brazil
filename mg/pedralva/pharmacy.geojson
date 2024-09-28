@@ -3,6 +3,74 @@
   "features": [
     {
       "type": "Feature",
+      "id": "way/1315833799",
+      "properties": {
+        "timestamp": "2024-09-16T03:01:53Z",
+        "version": 1,
+        "changeset": 156669554,
+        "addr:description": "Terreo",
+        "addr:housenumber": "229",
+        "addr:street": "Rua Coronel Canuto",
+        "addr:suburb": "Centro",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "name": "Farmacia Drogaria Ferrera",
+        "source": "microsoft/BuildingFootprints",
+        "id": "way/1315833799"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -45.4675805,
+              -22.2462529
+            ],
+            [
+              -45.4676415,
+              -22.2462784
+            ],
+            [
+              -45.4675785,
+              -22.2464072
+            ],
+            [
+              -45.4675175,
+              -22.2463817
+            ],
+            [
+              -45.4675805,
+              -22.2462529
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11963469268",
+      "properties": {
+        "timestamp": "2024-09-16T03:01:53Z",
+        "version": 2,
+        "changeset": 156669554,
+        "addr:housenumber": "112",
+        "addr:street": "Travessa José Fortes Bustamante",
+        "addr:suburb": "Centro",
+        "amenity": "pharmacy",
+        "entrance": "yes",
+        "name": "Farmacia Economize",
+        "id": "node/11963469268"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.4671893,
+          -22.2459206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/11969115082",
       "properties": {
         "timestamp": "2024-09-12T02:51:00Z",
@@ -22,6 +90,51 @@
         "coordinates": [
           -45.4669861,
           -22.2487621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12179492326",
+      "properties": {
+        "timestamp": "2024-09-16T03:01:53Z",
+        "version": 1,
+        "changeset": 156669554,
+        "addr:description": "Terreo",
+        "addr:housenumber": "112",
+        "addr:street": "Travessa José Fortes Bustamante",
+        "addr:suburb": "Centro",
+        "amenity": "pharmacy",
+        "name": "Farmacia Economize",
+        "id": "node/12179492326"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.467181,
+          -22.245977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12179492361",
+      "properties": {
+        "timestamp": "2024-09-16T03:01:53Z",
+        "version": 1,
+        "changeset": 156669554,
+        "addr:housenumber": "31",
+        "addr:street": "Rua Coronel Canuto",
+        "addr:suburb": "Centro",
+        "amenity": "pharmacy",
+        "name": "Farmacia Basica Municipal de Pedralva",
+        "id": "node/12179492361"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.4659647,
+          -22.2455472
         ]
       }
     }

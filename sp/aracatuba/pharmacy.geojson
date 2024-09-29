@@ -292,6 +292,34 @@
     },
     {
       "type": "Feature",
+      "id": "node/4042866193",
+      "properties": {
+        "timestamp": "2024-09-17T19:38:11Z",
+        "version": 2,
+        "changeset": 156745064,
+        "addr:city": "Araçatuba",
+        "addr:housenumber": "519",
+        "addr:street": "Rua Aviação",
+        "addr:suburb": "Santana",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "mobile": "+55 18 98816 8924",
+        "name": "MultiFarma",
+        "phone": "+55 18 3301 6500",
+        "id": "node/4042866193"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4347164,
+          -21.1938921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/4418972537",
       "properties": {
         "timestamp": "2018-12-22T02:14:42Z",
@@ -503,6 +531,54 @@
         "coordinates": [
           -50.4597064,
           -21.1914045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12182777907",
+      "properties": {
+        "timestamp": "2024-09-17T19:38:11Z",
+        "version": 1,
+        "changeset": 156745064,
+        "addr:street": "Rua Aviação",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Drogaria Aviação",
+        "phone": "+55 18 3621 1133",
+        "id": "node/12182777907"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4345882,
+          -21.1947629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12182981796",
+      "properties": {
+        "timestamp": "2024-09-17T23:21:52Z",
+        "version": 1,
+        "changeset": 156750315,
+        "addr:street": "Rua Luiz Mitidiero",
+        "amenity": "pharmacy",
+        "dispensing": "no",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Droga Flix",
+        "operator": "Rede Droga Flix",
+        "id": "node/12182981796"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4255678,
+          -21.189397
         ]
       }
     }

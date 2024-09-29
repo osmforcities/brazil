@@ -125,6 +125,194 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1316232716",
+      "properties": {
+        "timestamp": "2024-09-17T20:26:14Z",
+        "version": 1,
+        "changeset": 156746384,
+        "addr:city": "Alagoinhas",
+        "addr:housenumber": "16",
+        "addr:postcode": "48030-573",
+        "addr:street": "Rua José Batista Lira Sobrinho",
+        "addr:suburb": "Jardim Petrolar",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hemovida",
+        "id": "way/1316232716"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.4123105,
+              -12.1399804
+            ],
+            [
+              -38.4124325,
+              -12.140513
+            ],
+            [
+              -38.4121723,
+              -12.1405746
+            ],
+            [
+              -38.4120463,
+              -12.140042
+            ],
+            [
+              -38.4123105,
+              -12.1399804
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1316232717",
+      "properties": {
+        "timestamp": "2024-09-17T20:26:14Z",
+        "version": 1,
+        "changeset": 156746384,
+        "addr:city": "Alagoinhas",
+        "addr:housenumber": "254-284",
+        "addr:postcode": "48030-040",
+        "addr:street": "Travessa Dantas Bião",
+        "addr:suburb": "Jardim Petrolar",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "HAPVIDA",
+        "id": "way/1316232717"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.4143135,
+              -12.1403234
+            ],
+            [
+              -38.4134641,
+              -12.1404998
+            ],
+            [
+              -38.4134145,
+              -12.1402576
+            ],
+            [
+              -38.4142533,
+              -12.1400396
+            ],
+            [
+              -38.4143135,
+              -12.1403234
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1316232722",
+      "properties": {
+        "timestamp": "2024-09-17T20:26:14Z",
+        "version": 1,
+        "changeset": 156746384,
+        "addr:city": "Alagoinhas",
+        "addr:housenumber": "S/N",
+        "addr:postcode": "48005-020",
+        "addr:street": "Rua Marechal Deodoro",
+        "addr:suburb": "Centro",
+        "amenity": "hospital",
+        "healthcare": "laboratory",
+        "name": "Laboratório Santa Maria",
+        "id": "way/1316232722"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.4211939,
+              -12.1401972
+            ],
+            [
+              -38.4211297,
+              -12.1404985
+            ],
+            [
+              -38.4210876,
+              -12.1405031
+            ],
+            [
+              -38.4210024,
+              -12.1401378
+            ],
+            [
+              -38.4211939,
+              -12.1401972
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12182848145",
+      "properties": {
+        "timestamp": "2024-09-17T20:26:14Z",
+        "version": 1,
+        "changeset": 156746384,
+        "addr:city": "Alagoinhas",
+        "addr:housenumber": "175",
+        "addr:postcode": "48005-020",
+        "addr:street": "Rua Marechal Deodoro",
+        "addr:suburb": "Centro",
+        "amenity": "hospital",
+        "healthcare": "clinic",
+        "healthcare:speciality": "cardiology",
+        "name": "Clínica Cardiocenter",
+        "id": "node/12182848145"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4208903,
+          -12.1394388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12182848146",
+      "properties": {
+        "timestamp": "2024-09-17T20:26:14Z",
+        "version": 1,
+        "changeset": 156746384,
+        "addr:city": "Alagoinhas",
+        "addr:housenumber": "S/N",
+        "addr:postcode": "48005-020",
+        "addr:street": "Rua Marechal Deodoro",
+        "addr:suburb": "Centro",
+        "amenity": "hospital",
+        "healthcare": "clinic",
+        "healthcare:speciality": "occupational;otolaryngology",
+        "name": "AUDIOCLÍNICA",
+        "id": "node/12182848146"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4206537,
+          -12.1396509
+        ]
+      }
     }
   ]
 }

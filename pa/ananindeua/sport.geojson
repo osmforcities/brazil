@@ -4133,6 +4133,48 @@
     },
     {
       "type": "Feature",
+      "id": "way/1316211412",
+      "properties": {
+        "timestamp": "2024-09-17T18:26:42Z",
+        "version": 1,
+        "changeset": 156742684,
+        "access": "permissive",
+        "leisure": "pitch",
+        "name": "Riba",
+        "sport": "futsal",
+        "surface": "artificial_turf",
+        "id": "way/1316211412"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.4135753,
+              -1.3486706
+            ],
+            [
+              -48.4135815,
+              -1.3488148
+            ],
+            [
+              -48.4133647,
+              -1.3488015
+            ],
+            [
+              -48.413378,
+              -1.3486582
+            ],
+            [
+              -48.4135753,
+              -1.3486706
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1257644325",
       "properties": {
         "timestamp": "2024-03-05T02:15:56Z",
@@ -4194,6 +4236,31 @@
             -48.4185455,
             -1.3822401
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12182629051",
+      "properties": {
+        "timestamp": "2024-09-17T18:28:22Z",
+        "version": 1,
+        "changeset": 156742731,
+        "access": "publico",
+        "addr:city": "Ananindeua",
+        "addr:street": "Rua Coletora Sul",
+        "addr:suburb": "aguas lindas",
+        "leisure": "pitch",
+        "name": "praca do parque ani",
+        "sport": "futsal;volleyball",
+        "surface": "concrete",
+        "id": "node/12182629051"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.3835355,
+          -1.3965497
         ]
       }
     }

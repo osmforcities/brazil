@@ -123,44 +123,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/273574301",
-      "properties": {
-        "timestamp": "2014-04-11T20:00:59Z",
-        "version": 1,
-        "changeset": 21633852,
-        "tourism": "hotel",
-        "id": "way/273574301"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -35.8885455,
-              -9.8380733
-            ],
-            [
-              -35.8889909,
-              -9.8377148
-            ],
-            [
-              -35.8892299,
-              -9.8379788
-            ],
-            [
-              -35.8887899,
-              -9.8383695
-            ],
-            [
-              -35.8885455,
-              -9.8380733
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/537170187",
       "properties": {
         "timestamp": "2019-03-17T01:54:18Z",
@@ -384,6 +346,64 @@
     },
     {
       "type": "Feature",
+      "id": "way/1316502790",
+      "properties": {
+        "timestamp": "2024-09-18T20:40:40Z",
+        "version": 2,
+        "changeset": 156793047,
+        "addr:city": "Barra de São Miguel",
+        "addr:housenumber": "15A",
+        "addr:postcode": "57180-000",
+        "addr:street": "Rua Roberto Mascarenhas de Brito",
+        "addr:suburb": "Barra Mar",
+        "alt_name": "Hotel Ritz Barra de São Miguel",
+        "building": "yes",
+        "email": "reservas@ritzbsm.com.br",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "Ritz Barra de São Miguel",
+        "not:brand:wikidata": "Q782200",
+        "phone": "(82) 2121-4001",
+        "short_name": "Ritz BSM",
+        "tourism": "hotel",
+        "website": "https://www.ritzbsm.com.br/",
+        "wheelchair": "yes",
+        "id": "way/1316502790"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -35.8828285,
+              -9.8300367
+            ],
+            [
+              -35.8824896,
+              -9.8302655
+            ],
+            [
+              -35.8822257,
+              -9.8298916
+            ],
+            [
+              -35.882396,
+              -9.8297805
+            ],
+            [
+              -35.8825662,
+              -9.8296693
+            ],
+            [
+              -35.8828285,
+              -9.8300367
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/2783780315",
       "properties": {
         "timestamp": "2014-04-11T18:10:01Z",
@@ -398,6 +418,30 @@
         "coordinates": [
           -35.8801205,
           -9.8247325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12184832108",
+      "properties": {
+        "timestamp": "2024-09-18T20:40:40Z",
+        "version": 1,
+        "changeset": 156793047,
+        "addr:city": "Barra de São Miguel",
+        "addr:housenumber": "15A",
+        "addr:postcode": "57180-000",
+        "addr:street": "Rua Roberto Mascarenhas de Brito",
+        "addr:suburb": "Barra Mar",
+        "entrance": "main",
+        "wheelchair": "yes",
+        "id": "node/12184832108"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.882396,
+          -9.8297805
         ]
       }
     }

@@ -5,22 +5,23 @@
       "type": "Feature",
       "id": "way/1219239417",
       "properties": {
-        "timestamp": "2023-10-29T05:14:47Z",
-        "version": 1,
-        "changeset": 143295210,
+        "timestamp": "2024-09-20T02:27:53Z",
+        "version": 3,
+        "changeset": 156846426,
         "addr:city": "Leme",
         "addr:housenumber": "705",
         "addr:postcode": "13611-300",
         "addr:street": "Avenida Doutor Hermínio Ometto",
         "addr:suburb": "Jardim Alvorada",
         "amenity": "clinic",
-        "building": "yes",
         "healthcare": "clinic",
         "healthcare:speciality": "paediatrics",
         "name": "Centro Médico Integrado Antônio Macarenko",
         "name:pt": "CMI - Centro Médico Integrado Antônio Macarenko",
-        "operator": "Prefeitura do Município de Leme",
+        "opening_hours": "Mo-Fr 07:00-17:00; PH off",
         "operator:type": "government",
+        "ref:CNES": "2034468",
+        "source": "CNES",
         "id": "way/1219239417"
       },
       "geometry": {
@@ -28,20 +29,24 @@
         "coordinates": [
           [
             [
-              -47.3770016,
-              -22.1968095
+              -47.3766138,
+              -22.1965078
             ],
             [
-              -47.3760088,
-              -22.1976468
+              -47.3762925,
+              -22.1967819
             ],
             [
-              -47.3759663,
-              -22.195797
+              -47.3762057,
+              -22.1967054
             ],
             [
-              -47.3770016,
-              -22.1968095
+              -47.376531,
+              -22.1964275
+            ],
+            [
+              -47.3766138,
+              -22.1965078
             ]
           ]
         ]
@@ -103,6 +108,57 @@
             [
               -47.4021869,
               -22.1947056
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1316826648",
+      "properties": {
+        "timestamp": "2024-09-20T00:46:45Z",
+        "version": 1,
+        "changeset": 156845237,
+        "addr:housenumber": "465",
+        "addr:postcode": "13616-520",
+        "addr:street": "Rua Siqueira Campos",
+        "addr:suburb": "São Manoel",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "opening_hours": "Mo-Fr 07:00-17:00; PH off",
+        "operator": "Secretaria Municipal de Saúde",
+        "operator:type": "government",
+        "ref:CNES": "2088002",
+        "short_name": "ESF São Manoel",
+        "source": "CNES",
+        "id": "way/1316826648"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.373641,
+              -22.1697579
+            ],
+            [
+              -47.3736723,
+              -22.1699464
+            ],
+            [
+              -47.3735315,
+              -22.1699705
+            ],
+            [
+              -47.3735002,
+              -22.1697773
+            ],
+            [
+              -47.373641,
+              -22.1697579
             ]
           ]
         ]

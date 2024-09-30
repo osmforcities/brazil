@@ -3,24 +3,44 @@
   "features": [
     {
       "type": "Feature",
-      "id": "node/3774578419",
+      "id": "way/1316827165",
       "properties": {
-        "timestamp": "2021-09-28T19:41:03Z",
-        "version": 3,
-        "changeset": 111835287,
+        "timestamp": "2024-09-20T00:58:21Z",
+        "version": 2,
+        "changeset": 156845367,
         "addr:street": "Rua Nossa Senhora do Rosário",
         "amenity": "university",
         "internet_access": "yes",
         "internet_access:fee": "customers",
         "name": "UFAM - Universidade Federal do Amazonas",
         "website": "www.icet.ufam.edu.br",
-        "id": "node/3774578419"
+        "id": "way/1316827165"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -58.4362281,
-          -3.1428455
+          [
+            [
+              -58.432143,
+              -3.142272
+            ],
+            [
+              -58.4325537,
+              -3.1433783
+            ],
+            [
+              -58.4310112,
+              -3.1434151
+            ],
+            [
+              -58.4309233,
+              -3.1424051
+            ],
+            [
+              -58.432143,
+              -3.142272
+            ]
+          ]
         ]
       }
     },

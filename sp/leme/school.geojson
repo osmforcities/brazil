@@ -5,20 +5,22 @@
       "type": "Feature",
       "id": "relation/12470162",
       "properties": {
-        "timestamp": "2024-01-09T13:05:44Z",
-        "version": 2,
-        "changeset": 146066282,
+        "timestamp": "2024-09-20T15:21:51Z",
+        "version": 3,
+        "changeset": 156873328,
         "addr:city": "Leme",
         "addr:housenumber": "1745",
         "addr:postcode": "13617-000",
         "addr:street": "Avenida Joaquim Lopes Águila",
         "addr:suburb": "Vila São João",
         "amenity": "school",
-        "name": "SESI-SP FERNANDO ARRAES DE ALMEIDA",
+        "name": "SESI-SP Fernando Arraes de  Almeida",
         "operator": "SESI - Serviço Social da Indústria",
         "operator:type": "private_non_profit",
+        "phone": "+55 19 3571 4318",
+        "religion": "none",
         "type": "multipolygon",
-        "website": "https://www.sesisp.org.br",
+        "website": "https://www.sesisp.org.br/educacao/educacao/leme",
         "id": "relation/12470162"
       },
       "geometry": {
@@ -346,10 +348,15 @@
       "type": "Feature",
       "id": "way/546256261",
       "properties": {
-        "timestamp": "2017-12-12T06:29:07Z",
-        "version": 1,
-        "changeset": 54557712,
+        "timestamp": "2024-09-20T02:27:53Z",
+        "version": 2,
+        "changeset": 156846426,
+        "addr:street": "Rua Fernão Dias Paes Leme",
         "amenity": "school",
+        "official_name": "Escola Estadual Doutor Custódio Ângelo de Lima",
+        "operator": "Secretaria da Educação do Estado de São Paulo",
+        "operator:type": "government",
+        "religion": "none",
         "id": "way/546256261"
       },
       "geometry": {
@@ -539,6 +546,141 @@
     },
     {
       "type": "Feature",
+      "id": "way/1316826645",
+      "properties": {
+        "timestamp": "2024-09-20T00:46:45Z",
+        "version": 1,
+        "changeset": 156845237,
+        "addr:suburb": "São Manoel",
+        "amenity": "school",
+        "id": "way/1316826645"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.3741941,
+              -22.1693786
+            ],
+            [
+              -47.3734402,
+              -22.169497
+            ],
+            [
+              -47.3732523,
+              -22.1685113
+            ],
+            [
+              -47.3740271,
+              -22.1684098
+            ],
+            [
+              -47.3741941,
+              -22.1693786
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1316833066",
+      "properties": {
+        "timestamp": "2024-09-20T02:20:55Z",
+        "version": 1,
+        "changeset": 156846351,
+        "amenity": "school",
+        "id": "way/1316833066"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.3706708,
+              -22.1944374
+            ],
+            [
+              -47.3695391,
+              -22.1947702
+            ],
+            [
+              -47.3694786,
+              -22.1947538
+            ],
+            [
+              -47.3694999,
+              -22.1946154
+            ],
+            [
+              -47.3697134,
+              -22.1939728
+            ],
+            [
+              -47.3706708,
+              -22.1944374
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1317031577",
+      "properties": {
+        "timestamp": "2024-09-20T22:44:19Z",
+        "version": 1,
+        "changeset": 156890158,
+        "amenity": "school",
+        "id": "way/1317031577"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.3617132,
+              -22.1914579
+            ],
+            [
+              -47.3618747,
+              -22.1916949
+            ],
+            [
+              -47.3618107,
+              -22.1917542
+            ],
+            [
+              -47.3617498,
+              -22.1918106
+            ],
+            [
+              -47.3617193,
+              -22.1918811
+            ],
+            [
+              -47.3617041,
+              -22.1919291
+            ],
+            [
+              -47.3612805,
+              -22.1921605
+            ],
+            [
+              -47.3610642,
+              -22.1918078
+            ],
+            [
+              -47.3617132,
+              -22.1914579
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/4274766363",
       "properties": {
         "timestamp": "2023-10-12T14:29:10Z",
@@ -688,27 +830,6 @@
         "coordinates": [
           -47.3899209,
           -22.2023972
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/4351543219",
-      "properties": {
-        "timestamp": "2016-08-15T18:12:40Z",
-        "version": 1,
-        "changeset": 41473248,
-        "addr:city": "Leme",
-        "addr:street": "Rua Fernão Dias Paes Leme",
-        "amenity": "school",
-        "name": "Escola Estadual Dr Custódio Ângelo de Lima",
-        "id": "node/4351543219"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -47.3796159,
-          -22.1958437
         ]
       }
     },

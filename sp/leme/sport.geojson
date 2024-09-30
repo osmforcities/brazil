@@ -2463,63 +2463,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/1298863224",
-      "properties": {
-        "timestamp": "2024-07-03T19:24:59Z",
-        "version": 1,
-        "changeset": 153516648,
-        "addr:city": "Leme",
-        "addr:housenumber": "96",
-        "addr:street": "Rua Coronel Antônio Abade",
-        "addr:suburb": "Centro",
-        "building": "yes",
-        "fee": "yes",
-        "leisure": "sports_centre",
-        "name": "Clube 29 de Agosto",
-        "operator": "Clube 29 de Agosto",
-        "operator:type": "private",
-        "payment:cash": "yes",
-        "sport": "swimming;multi;fitness;beachvolleyball;futsal",
-        "id": "way/1298863224"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -47.3827856,
-              -22.182282
-            ],
-            [
-              -47.3825186,
-              -22.1826966
-            ],
-            [
-              -47.3821081,
-              -22.1824769
-            ],
-            [
-              -47.3818601,
-              -22.182843
-            ],
-            [
-              -47.3812425,
-              -22.1824878
-            ],
-            [
-              -47.3817511,
-              -22.1817443
-            ],
-            [
-              -47.3827856,
-              -22.182282
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/919766159",
       "properties": {
         "timestamp": "2024-01-04T04:06:03Z",
@@ -2574,6 +2517,60 @@
     },
     {
       "type": "Feature",
+      "id": "way/1298863224",
+      "properties": {
+        "timestamp": "2024-09-19T20:06:49Z",
+        "version": 2,
+        "changeset": 156838665,
+        "addr:city": "Leme",
+        "addr:housenumber": "96",
+        "addr:street": "Rua Coronel Antônio Abade",
+        "addr:suburb": "Centro",
+        "club": "social",
+        "fee": "yes",
+        "name": "Clube 29 de Agosto",
+        "operator": "Clube 29 de Agosto",
+        "operator:type": "private",
+        "payment:cash": "yes",
+        "sport": "swimming;multi;fitness;beachvolleyball;futsal",
+        "id": "way/1298863224"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -47.3827856,
+            -22.182282
+          ],
+          [
+            -47.3825186,
+            -22.1826966
+          ],
+          [
+            -47.3821081,
+            -22.1824769
+          ],
+          [
+            -47.3818601,
+            -22.182843
+          ],
+          [
+            -47.3812425,
+            -22.1824878
+          ],
+          [
+            -47.3817511,
+            -22.1817443
+          ],
+          [
+            -47.3827856,
+            -22.182282
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/4351509451",
       "properties": {
         "timestamp": "2016-08-15T17:47:11Z",
@@ -2591,27 +2588,6 @@
         "coordinates": [
           -47.3710553,
           -22.1916159
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/5257817029",
-      "properties": {
-        "timestamp": "2017-12-01T15:05:04Z",
-        "version": 1,
-        "changeset": 54238783,
-        "addr:street": "Rua João Arrais Seródio",
-        "leisure": "sports_centre",
-        "name": "Club 29 de Agosto",
-        "sport": "fitness;soccer;pool",
-        "id": "node/5257817029"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -47.3825522,
-          -22.1824631
         ]
       }
     },

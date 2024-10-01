@@ -1450,6 +1450,60 @@
     },
     {
       "type": "Feature",
+      "id": "way/742155845",
+      "properties": {
+        "timestamp": "2024-09-21T15:10:42Z",
+        "version": 6,
+        "changeset": 156916375,
+        "addr:housenumber": "5",
+        "addr:street": "Praça Castro Alves",
+        "name": "Hotel Fasano",
+        "phone": "+55 71 2201 6300",
+        "stars": "5",
+        "tourism": "hotel",
+        "website": "https://fasano.com.br/hoteis/fasano-salvador",
+        "wikidata": "Q105215538",
+        "wikimedia_commons": "Category:Hotel Fasano Salvador",
+        "id": "way/742155845"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.5142775,
+              -12.9768408
+            ],
+            [
+              -38.5144364,
+              -12.9770946
+            ],
+            [
+              -38.5144127,
+              -12.9771042
+            ],
+            [
+              -38.5139352,
+              -12.97702
+            ],
+            [
+              -38.5139967,
+              -12.9767524
+            ],
+            [
+              -38.5142537,
+              -12.9768206
+            ],
+            [
+              -38.5142775,
+              -12.9768408
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/829488107",
       "properties": {
         "timestamp": "2020-07-24T02:36:09Z",
@@ -5802,17 +5856,18 @@
       "type": "Feature",
       "id": "node/11729279998",
       "properties": {
-        "timestamp": "2024-03-14T01:26:51Z",
-        "version": 1,
-        "changeset": 148618388,
+        "timestamp": "2024-09-21T14:07:36Z",
+        "version": 2,
+        "changeset": 156913671,
+        "name": "Hotel Colonial Chile",
         "tourism": "hotel",
         "id": "node/11729279998"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -38.5135301,
-          -12.9755612
+          -38.5134024,
+          -12.9756317
         ]
       }
     },

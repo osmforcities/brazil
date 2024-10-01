@@ -5,12 +5,13 @@
       "type": "Feature",
       "id": "relation/9531455",
       "properties": {
-        "timestamp": "2019-05-01T01:20:01Z",
-        "version": 1,
-        "changeset": 69755320,
+        "timestamp": "2024-09-21T18:38:19Z",
+        "version": 2,
+        "changeset": 156924488,
         "amenity": "university",
         "name": "Claretiano Faculdade e Colégio",
         "type": "multipolygon",
+        "website": "https://claretiano.edu.br/rioclaro",
         "id": "relation/9531455"
       },
       "geometry": {
@@ -343,10 +344,16 @@
       "type": "Feature",
       "id": "way/598051530",
       "properties": {
-        "timestamp": "2018-06-15T11:45:34Z",
-        "version": 1,
-        "changeset": 59872268,
+        "timestamp": "2024-09-21T16:08:05Z",
+        "version": 3,
+        "changeset": 156918864,
+        "addr:housenumber": "1193",
+        "addr:street": "Rua 7",
+        "addr:suburb": "Centro",
         "amenity": "university",
+        "contact:facebook": "https://www.facebook.com/AsserRC/",
+        "name": "ASSER - Campus Rio Claro",
+        "website": "https://www.unicep.edu.br/",
         "id": "way/598051530"
       },
       "geometry": {
@@ -659,25 +666,6 @@
               -22.3994052
             ]
           ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/3320896853",
-      "properties": {
-        "timestamp": "2018-06-15T11:45:36Z",
-        "version": 2,
-        "changeset": 59872268,
-        "amenity": "university",
-        "name": "ASSER - Campus Rio Claro",
-        "id": "node/3320896853"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -47.5641297,
-          -22.4101223
         ]
       }
     },

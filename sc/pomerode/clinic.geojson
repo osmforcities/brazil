@@ -1239,9 +1239,9 @@
       "type": "Feature",
       "id": "node/5662254887",
       "properties": {
-        "timestamp": "2023-08-30T11:18:31Z",
-        "version": 2,
-        "changeset": 140583082,
+        "timestamp": "2024-09-21T20:55:12Z",
+        "version": 3,
+        "changeset": 156928403,
         "amenity": "clinic",
         "contact:email": "contato@conssetra.com.br",
         "contact:facebook": "Conssetra-Saúde-e-Segurança-do-Trabalho/100063500712305/",
@@ -1258,8 +1258,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -49.171979,
-          -26.7307098
+          -49.171983,
+          -26.7306966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5737806591",
+      "properties": {
+        "timestamp": "2024-09-21T13:59:39Z",
+        "version": 4,
+        "changeset": 156913298,
+        "amenity": "clinic",
+        "contact:email": "centrodeimagem@hmrt.com.br",
+        "contact:phone": "+55 47 3395-3835",
+        "contact:website": "https://hmrt.com.br",
+        "healthcare": "laboratory",
+        "healthcare:speciality": "diagnostic_radiology",
+        "name": "Centro de Imagem",
+        "opening_hours": "Mo-Fr 07:00-19:00",
+        "operator": "Hospital e Maternidade Rio do Testo",
+        "id": "node/5737806591"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.1682461,
+          -26.7161289
         ]
       }
     },

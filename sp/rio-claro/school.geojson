@@ -98,16 +98,19 @@
       "type": "Feature",
       "id": "way/544326890",
       "properties": {
-        "timestamp": "2017-12-19T12:25:26Z",
-        "version": 2,
-        "changeset": 54758045,
+        "timestamp": "2024-09-21T16:08:05Z",
+        "version": 3,
+        "changeset": 156918864,
         "addr:city": "Rio Claro",
         "addr:housenumber": "793",
         "addr:postcode": "13500-050",
-        "addr:street": "Av. 7",
+        "addr:street": "Avenida 7",
         "addr:suburb": "Centro",
         "amenity": "school",
         "name": "Escola Estadual Coronel Joaquim Salles",
+        "operator": "Secretaria da Educação do Estado de São Paulo",
+        "operator:type": "government",
+        "religion": "none",
         "id": "way/544326890"
       },
       "geometry": {
@@ -183,81 +186,6 @@
             [
               -47.5536809,
               -22.4102361
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/547043977",
-      "properties": {
-        "timestamp": "2024-03-20T09:08:49Z",
-        "version": 2,
-        "changeset": 148900066,
-        "amenity": "school",
-        "name": "APAE de Rio Claro",
-        "id": "way/547043977"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -47.5706399,
-              -22.4143397
-            ],
-            [
-              -47.5706908,
-              -22.4143075
-            ],
-            [
-              -47.5707336,
-              -22.414307
-            ],
-            [
-              -47.5715845,
-              -22.4147915
-            ],
-            [
-              -47.5721111,
-              -22.4151785
-            ],
-            [
-              -47.5721512,
-              -22.4152483
-            ],
-            [
-              -47.5721497,
-              -22.4152982
-            ],
-            [
-              -47.5720295,
-              -22.4155958
-            ],
-            [
-              -47.5719879,
-              -22.4156328
-            ],
-            [
-              -47.571934,
-              -22.4156357
-            ],
-            [
-              -47.5703457,
-              -22.4151415
-            ],
-            [
-              -47.5703186,
-              -22.4151031
-            ],
-            [
-              -47.5702961,
-              -22.4150623
-            ],
-            [
-              -47.5706399,
-              -22.4143397
             ]
           ]
         ]
@@ -1101,11 +1029,11 @@
       "type": "Feature",
       "id": "way/584463430",
       "properties": {
-        "timestamp": "2024-03-16T22:58:54Z",
-        "version": 2,
-        "changeset": 148753123,
+        "timestamp": "2024-09-21T20:59:41Z",
+        "version": 3,
+        "changeset": 156928350,
         "amenity": "school",
-        "name": "Escola Municipal \"Samira Assencio Savoldi\"",
+        "name": "Escola Municipal Samira Assencio Savoldi \"",
         "id": "way/584463430"
       },
       "geometry": {
@@ -1365,6 +1293,46 @@
             [
               -47.5611299,
               -22.4168454
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/883942453",
+      "properties": {
+        "timestamp": "2024-09-21T16:08:05Z",
+        "version": 2,
+        "changeset": 156918864,
+        "amenity": "school",
+        "building:levels": "2",
+        "name": "Escola Purisimo de Ensino fundamental",
+        "id": "way/883942453"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.5635563,
+              -22.41191
+            ],
+            [
+              -47.5633252,
+              -22.4118312
+            ],
+            [
+              -47.5635002,
+              -22.4114138
+            ],
+            [
+              -47.5637248,
+              -22.4114943
+            ],
+            [
+              -47.5635563,
+              -22.41191
             ]
           ]
         ]

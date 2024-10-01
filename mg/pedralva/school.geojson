@@ -77,9 +77,12 @@
       "type": "Feature",
       "id": "way/942628146",
       "properties": {
-        "timestamp": "2023-11-11T18:32:38Z",
-        "version": 2,
-        "changeset": 143910707,
+        "timestamp": "2024-09-21T03:09:58Z",
+        "version": 3,
+        "changeset": 156893929,
+        "addr:housenumber": "14",
+        "addr:street": "Praça Oscar Pereira Magalhães",
+        "addr:suburb": "Centro",
         "amenity": "school",
         "name": "Escola Municipal Coronel Gaspar",
         "id": "way/942628146"
@@ -97,8 +100,8 @@
               -22.2447363
             ],
             [
-              -45.4658089,
-              -22.2448255
+              -45.4657928,
+              -22.2448317
             ],
             [
               -45.4657281,
@@ -113,6 +116,10 @@
               -22.2452644
             ],
             [
+              -45.4656023,
+              -22.2452434
+            ],
+            [
               -45.4654638,
               -22.2451964
             ],
@@ -125,8 +132,8 @@
               -22.2450206
             ],
             [
-              -45.4655838,
-              -22.2447669
+              -45.4655771,
+              -22.2447781
             ],
             [
               -45.4656101,
@@ -298,6 +305,24 @@
         "coordinates": [
           -45.4644771,
           -22.2467555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12189302989",
+      "properties": {
+        "timestamp": "2024-09-21T03:09:58Z",
+        "version": 1,
+        "changeset": 156893929,
+        "entrance": "main",
+        "id": "node/12189302989"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.4656023,
+          -22.2452434
         ]
       }
     }

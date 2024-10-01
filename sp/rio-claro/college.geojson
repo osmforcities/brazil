@@ -64,11 +64,19 @@
       "type": "Feature",
       "id": "way/558291082",
       "properties": {
-        "timestamp": "2018-02-03T16:35:23Z",
-        "version": 1,
-        "changeset": 56033461,
+        "timestamp": "2024-09-21T16:08:05Z",
+        "version": 2,
+        "changeset": 156918864,
+        "addr:housenumber": "445",
+        "addr:postcode": "13500-380",
+        "addr:street": "Avenida 5",
+        "addr:suburb": "Centro",
         "amenity": "college",
-        "name": "Bayeux",
+        "name": "ETEC Professor Armando Bayeux da Silva",
+        "operator": "Centro Paula Souza",
+        "operator:type": "government",
+        "phone": "+55 19 3524 2330",
+        "website": "https://www.etecbayeux.com.br/",
         "id": "way/558291082"
       },
       "geometry": {
@@ -157,6 +165,51 @@
             [
               -47.567947,
               -22.3906035
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1317247503",
+      "properties": {
+        "timestamp": "2024-09-21T20:59:41Z",
+        "version": 1,
+        "changeset": 156928350,
+        "addr:housenumber": "Km 174",
+        "addr:postcode": "13503-750",
+        "addr:street": "Trevo Vereador Pimentel Júnior",
+        "amenity": "college",
+        "name": "Sest / Senat",
+        "opening_hours": "Mo-Fr 06:00-22:00; Sa,Su 06:00-19:00; PH off",
+        "phone": "+55 19 3522 1710",
+        "website": "https://www.sestsenat.org.br/unidade/rioclaro",
+        "id": "way/1317247503"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.5895993,
+              -22.4088704
+            ],
+            [
+              -47.5888576,
+              -22.4097514
+            ],
+            [
+              -47.5865051,
+              -22.4086861
+            ],
+            [
+              -47.5870952,
+              -22.407971
+            ],
+            [
+              -47.5895993,
+              -22.4088704
             ]
           ]
         ]

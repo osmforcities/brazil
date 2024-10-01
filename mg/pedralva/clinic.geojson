@@ -51,16 +51,16 @@
               -22.2456669
             ],
             [
-              -45.465355,
-              -22.2455432
+              -45.4653483,
+              -22.2455382
             ],
             [
-              -45.4653761,
-              -22.2454845
+              -45.4653815,
+              -22.2454895
             ],
             [
-              -45.465409,
-              -22.2454367
+              -45.4654157,
+              -22.2454379
             ],
             [
               -45.4654959,
@@ -69,6 +69,50 @@
             [
               -45.4655475,
               -22.2454259
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1221612388",
+      "properties": {
+        "timestamp": "2024-09-21T04:07:41Z",
+        "version": 4,
+        "changeset": 156894722,
+        "addr:housenumber": "349",
+        "addr:street": "Rua Coronel Estevam Resende",
+        "addr:suburb": "Centro",
+        "amenity": "clinic",
+        "building": "yes",
+        "name": "Clinica de Fisioterapia",
+        "source": "microsoft/BuildingFootprints",
+        "id": "way/1221612388"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -45.4690169,
+              -22.2453643
+            ],
+            [
+              -45.4689585,
+              -22.2454248
+            ],
+            [
+              -45.4689185,
+              -22.2454009
+            ],
+            [
+              -45.4689604,
+              -22.2453306
+            ],
+            [
+              -45.4690169,
+              -22.2453643
             ]
           ]
         ]
@@ -94,6 +138,27 @@
         "coordinates": [
           -45.4694929,
           -22.2442009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12189338338",
+      "properties": {
+        "timestamp": "2024-09-21T03:28:01Z",
+        "version": 1,
+        "changeset": 156894188,
+        "addr:street": "Rua Presidente Vargas",
+        "addr:suburb": "Centro",
+        "amenity": "clinic",
+        "name": "Fisioterapia e Acunputura",
+        "id": "node/12189338338"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.4662273,
+          -22.2427092
         ]
       }
     }

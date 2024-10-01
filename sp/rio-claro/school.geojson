@@ -531,12 +531,13 @@
       "type": "Feature",
       "id": "way/584407451",
       "properties": {
-        "timestamp": "2024-09-18T16:00:52Z",
-        "version": 3,
-        "changeset": 156781039,
+        "timestamp": "2024-09-22T01:18:37Z",
+        "version": 4,
+        "changeset": 156933105,
         "addr:street": "Avenida Treze Jw",
         "addr:suburb": "Novo Jardim Wenzel",
         "amenity": "school",
+        "religion": "none",
         "id": "way/584407451"
       },
       "geometry": {
@@ -1406,6 +1407,103 @@
     },
     {
       "type": "Feature",
+      "id": "way/1317297076",
+      "properties": {
+        "timestamp": "2024-09-22T00:39:33Z",
+        "version": 1,
+        "changeset": 156932560,
+        "amenity": "school",
+        "id": "way/1317297076"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.601781,
+              -22.4040766
+            ],
+            [
+              -47.6020515,
+              -22.4043989
+            ],
+            [
+              -47.6019253,
+              -22.4044906
+            ],
+            [
+              -47.6015857,
+              -22.4046962
+            ],
+            [
+              -47.6015166,
+              -22.4047101
+            ],
+            [
+              -47.6014084,
+              -22.4046906
+            ],
+            [
+              -47.601189,
+              -22.4044406
+            ],
+            [
+              -47.601781,
+              -22.4040766
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1317404657",
+      "properties": {
+        "timestamp": "2024-09-22T15:49:17Z",
+        "version": 1,
+        "changeset": 156958008,
+        "amenity": "school",
+        "short_name": "Escola José Fernandes",
+        "id": "way/1317404657"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.5471027,
+              -22.2792911
+            ],
+            [
+              -47.5468582,
+              -22.2796078
+            ],
+            [
+              -47.5458057,
+              -22.2790261
+            ],
+            [
+              -47.5461201,
+              -22.2785994
+            ],
+            [
+              -47.5465905,
+              -22.2788817
+            ],
+            [
+              -47.5465206,
+              -22.2789679
+            ],
+            [
+              -47.5471027,
+              -22.2792911
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/4279227905",
       "properties": {
         "timestamp": "2016-07-03T01:00:50Z",
@@ -1500,25 +1598,6 @@
         "coordinates": [
           -47.5440056,
           -22.2947552
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/6476738200",
-      "properties": {
-        "timestamp": "2023-04-06T18:11:20Z",
-        "version": 2,
-        "changeset": 134588630,
-        "amenity": "school",
-        "name": "Escola José Fernandes",
-        "id": "node/6476738200"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -47.5463815,
-          -22.2791954
         ]
       }
     },

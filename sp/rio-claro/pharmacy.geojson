@@ -227,6 +227,109 @@
     },
     {
       "type": "Feature",
+      "id": "way/1317464941",
+      "properties": {
+        "timestamp": "2024-09-22T21:11:54Z",
+        "version": 1,
+        "changeset": 156969548,
+        "addr:housenumber": "1700",
+        "addr:street": "Rua 14",
+        "amenity": "pharmacy",
+        "branch": "Drogaria São Paulo Rio Claro III",
+        "brand": "Drogaria São Paulo",
+        "brand:wikidata": "Q5308184",
+        "building": "yes",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "mobile": "+55 19 99927 0118",
+        "name": "Drogaria São Paulo",
+        "opening_hours": "24/7",
+        "id": "way/1317464941"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.5720117,
+              -22.4076602
+            ],
+            [
+              -47.5721005,
+              -22.4076998
+            ],
+            [
+              -47.5721084,
+              -22.4077206
+            ],
+            [
+              -47.5720757,
+              -22.4078088
+            ],
+            [
+              -47.5719728,
+              -22.407785
+            ],
+            [
+              -47.5720117,
+              -22.4076602
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1317466782",
+      "properties": {
+        "timestamp": "2024-09-22T21:23:58Z",
+        "version": 1,
+        "changeset": 156969880,
+        "addr:postcode": "13500-270",
+        "addr:street": "Rua 14",
+        "amenity": "pharmacy",
+        "brand": "Droga Raia",
+        "brand:wikidata": "Q10357101",
+        "building": "yes",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Droga Raia",
+        "opening_hours": "Mo-SU,PH 07:00-23:00",
+        "phone": "+55 19 3532 5615",
+        "id": "way/1317466782"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.5724349,
+              -22.4069559
+            ],
+            [
+              -47.5723767,
+              -22.407121
+            ],
+            [
+              -47.5722127,
+              -22.4070855
+            ],
+            [
+              -47.5722682,
+              -22.4069082
+            ],
+            [
+              -47.5724349,
+              -22.4069559
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/4279229408",
       "properties": {
         "timestamp": "2016-07-03T01:00:15Z",
@@ -262,6 +365,33 @@
         "coordinates": [
           -47.5696274,
           -22.4136858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12193570009",
+      "properties": {
+        "timestamp": "2024-09-22T23:43:43Z",
+        "version": 1,
+        "changeset": 156972386,
+        "addr:housenumber": "1512",
+        "addr:street": "Rua 14",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Drogal",
+        "opening_hours": "Mo-Su,PH 07:00-23:00",
+        "phone": "+55 19 3533 4646",
+        "website": "https://www.drogal.com.br/",
+        "id": "node/12193570009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.5714032,
+          -22.4094377
         ]
       }
     }

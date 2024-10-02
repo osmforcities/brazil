@@ -637,6 +637,103 @@
     },
     {
       "type": "Feature",
+      "id": "way/1318169392",
+      "properties": {
+        "timestamp": "2024-09-25T18:07:39Z",
+        "version": 1,
+        "changeset": 157095720,
+        "addr:city": "Petrolina",
+        "addr:street": "Av. José de Sá Maniçoba",
+        "addr:suburb": "Centro",
+        "amenity": "hospital",
+        "barrier": "wall",
+        "healthcare": "hospital",
+        "name": "CENTRO DE PARTO NORMAL - MARIA DAS DORES DE SOUZA",
+        "id": "way/1318169392"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.4947962,
+              -9.3917966
+            ],
+            [
+              -40.494375,
+              -9.39209
+            ],
+            [
+              -40.4939875,
+              -9.3915487
+            ],
+            [
+              -40.4942035,
+              -9.3914058
+            ],
+            [
+              -40.4942777,
+              -9.3913567
+            ],
+            [
+              -40.4947962,
+              -9.3917966
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1318169393",
+      "properties": {
+        "timestamp": "2024-09-25T18:07:39Z",
+        "version": 1,
+        "changeset": 157095720,
+        "amenity": "hospital",
+        "barrier": "wall",
+        "healthcare": "hospital",
+        "name": "Hospital Municipal de Petrolina - Dr. Alírio Brandão (HMUP)",
+        "id": "way/1318169393"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.4947962,
+              -9.3917966
+            ],
+            [
+              -40.4949056,
+              -9.391892
+            ],
+            [
+              -40.4953164,
+              -9.3922498
+            ],
+            [
+              -40.4952093,
+              -9.3923162
+            ],
+            [
+              -40.4947534,
+              -9.3925988
+            ],
+            [
+              -40.494375,
+              -9.39209
+            ],
+            [
+              -40.4947962,
+              -9.3917966
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/1989706181",
       "properties": {
         "timestamp": "2022-11-27T21:19:14Z",
@@ -681,6 +778,46 @@
         "coordinates": [
           -40.4841976,
           -9.3944201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12199568628",
+      "properties": {
+        "timestamp": "2024-09-25T18:07:39Z",
+        "version": 1,
+        "changeset": 157095720,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "CENTRO DE PARTO NORMAL - MARIA DAS DORES DE SOUZA",
+        "id": "node/12199568628"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.4943651,
+          -9.3916823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12199568633",
+      "properties": {
+        "timestamp": "2024-09-25T18:07:39Z",
+        "version": 1,
+        "changeset": 157095720,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hospital Municipal de Petrolina - Dr. Alírio Brandão (HMUP)",
+        "id": "node/12199568633"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.4948184,
+          -9.3921836
         ]
       }
     }

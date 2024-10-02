@@ -1386,11 +1386,12 @@
       "type": "Feature",
       "id": "node/8441841629",
       "properties": {
-        "timestamp": "2024-06-25T00:51:41Z",
-        "version": 5,
-        "changeset": 153134384,
+        "timestamp": "2024-09-23T02:36:13Z",
+        "version": 6,
+        "changeset": 156974469,
         "addr:postcode": "89107-000",
         "amenity": "clinic",
+        "check_date:opening_hours": "2024-09-22",
         "contact:facebook": "HemosLaboratorio",
         "contact:instagram": "hemoslaboratorio",
         "contact:linkedin": "hemos-laboratório-médico",
@@ -1402,7 +1403,9 @@
         "internet_access:fee": "no",
         "laboratory": "blood_check",
         "name": "Hemos Sabin Pomerode",
-        "opening_hours": "Mo-Fr 06:30-16:30; Sa 07:00-11:00",
+        "opening_hours": "Mo-Fr 06:30-16:30; Sa 07:00-11:00; Su off",
+        "source:opening_hours": "survey",
+        "wheelchair": "yes",
         "id": "node/8441841629"
       },
       "geometry": {

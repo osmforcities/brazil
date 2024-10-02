@@ -328,47 +328,6 @@
     },
     {
       "type": "Feature",
-      "id": "relation/8445539",
-      "properties": {
-        "timestamp": "2024-06-20T02:44:06Z",
-        "version": 2,
-        "changeset": 152921594,
-        "leisure": "pitch",
-        "sport": "volleyball",
-        "surface": "sand",
-        "type": "multipolygon",
-        "id": "relation/8445539"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -49.1782182,
-              -26.7380943
-            ],
-            [
-              -49.17799,
-              -26.7380803
-            ],
-            [
-              -49.1780088,
-              -26.7378355
-            ],
-            [
-              -49.178237,
-              -26.7378495
-            ],
-            [
-              -49.1782182,
-              -26.7380943
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/324753351",
       "properties": {
         "timestamp": "2020-01-28T01:27:25Z",
@@ -3945,24 +3904,24 @@
         "coordinates": [
           [
             [
-              -49.1732128,
-              -26.7467828
+              -49.1731974,
+              -26.7467696
             ],
             [
-              -49.1732128,
-              -26.7468476
+              -49.1731974,
+              -26.7468344
             ],
             [
-              -49.1730827,
-              -26.7468475
+              -49.1730733,
+              -26.7468344
             ],
             [
-              -49.1730827,
-              -26.7467828
+              -49.1730733,
+              -26.7467696
             ],
             [
-              -49.1732128,
-              -26.7467828
+              -49.1731974,
+              -26.7467696
             ]
           ]
         ]
@@ -4926,6 +4885,86 @@
     },
     {
       "type": "Feature",
+      "id": "way/1317493098",
+      "properties": {
+        "timestamp": "2024-09-23T02:36:13Z",
+        "version": 1,
+        "changeset": 156974469,
+        "leisure": "pitch",
+        "sport": "volleyball",
+        "surface": "sand",
+        "id": "way/1317493098"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.1781229,
+              -26.7378425
+            ],
+            [
+              -49.1781041,
+              -26.7380873
+            ],
+            [
+              -49.17799,
+              -26.7380803
+            ],
+            [
+              -49.1780088,
+              -26.7378355
+            ],
+            [
+              -49.1781229,
+              -26.7378425
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1317493099",
+      "properties": {
+        "timestamp": "2024-09-23T02:36:13Z",
+        "version": 1,
+        "changeset": 156974469,
+        "leisure": "pitch",
+        "sport": "volleyball",
+        "surface": "sand",
+        "id": "way/1317493099"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.178237,
+              -26.7378495
+            ],
+            [
+              -49.1782182,
+              -26.7380943
+            ],
+            [
+              -49.1781041,
+              -26.7380873
+            ],
+            [
+              -49.1781229,
+              -26.7378425
+            ],
+            [
+              -49.178237,
+              -26.7378495
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/431480057",
       "properties": {
         "timestamp": "2021-02-21T00:31:37Z",
@@ -4968,32 +5007,6 @@
           [
             -49.1774993,
             -26.7377677
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/431480058",
-      "properties": {
-        "timestamp": "2018-07-24T16:41:32Z",
-        "version": 5,
-        "changeset": 61030326,
-        "barrier": "fence",
-        "fence_type": "chain_link",
-        "height": "5",
-        "id": "way/431480058"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -49.1780088,
-            -26.7378355
-          ],
-          [
-            -49.17799,
-            -26.7380803
           ]
         ]
       }
@@ -5344,84 +5357,6 @@
           [
             -49.1650714,
             -26.81993
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/607537367",
-      "properties": {
-        "timestamp": "2018-07-24T16:41:32Z",
-        "version": 2,
-        "changeset": 61030326,
-        "barrier": "fence",
-        "fence_type": "chain_link",
-        "height": "5",
-        "id": "way/607537367"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -49.178237,
-            -26.7378495
-          ],
-          [
-            -49.1780088,
-            -26.7378355
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/607537368",
-      "properties": {
-        "timestamp": "2018-07-24T16:41:33Z",
-        "version": 2,
-        "changeset": 61030326,
-        "barrier": "fence",
-        "fence_type": "chain_link",
-        "height": "5",
-        "id": "way/607537368"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -49.1782182,
-            -26.7380943
-          ],
-          [
-            -49.178237,
-            -26.7378495
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/607537369",
-      "properties": {
-        "timestamp": "2018-07-24T16:41:33Z",
-        "version": 2,
-        "changeset": 61030326,
-        "barrier": "fence",
-        "fence_type": "chain_link",
-        "height": "5",
-        "id": "way/607537369"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -49.17799,
-            -26.7380803
-          ],
-          [
-            -49.1782182,
-            -26.7380943
           ]
         ]
       }

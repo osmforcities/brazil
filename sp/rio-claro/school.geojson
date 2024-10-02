@@ -145,10 +145,12 @@
       "type": "Feature",
       "id": "way/544524583",
       "properties": {
-        "timestamp": "2017-12-04T11:59:54Z",
-        "version": 1,
-        "changeset": 54326984,
+        "timestamp": "2024-09-23T01:49:25Z",
+        "version": 2,
+        "changeset": 156973915,
         "amenity": "school",
+        "religion": "none",
+        "short_name": "Escola Municipal Benjamim Ferreira",
         "id": "way/544524583"
       },
       "geometry": {
@@ -160,20 +162,12 @@
               -22.4102361
             ],
             [
-              -47.5534449,
-              -22.4111238
+              -47.5534529,
+              -22.4110692
             ],
             [
-              -47.5535093,
-              -22.4116941
-            ],
-            [
-              -47.5529138,
-              -22.4118478
-            ],
-            [
-              -47.5528333,
-              -22.4112974
+              -47.5528977,
+              -22.4109354
             ],
             [
               -47.5529782,
@@ -234,11 +228,14 @@
       "type": "Feature",
       "id": "way/547910496",
       "properties": {
-        "timestamp": "2019-05-01T01:20:12Z",
-        "version": 3,
-        "changeset": 69755320,
+        "timestamp": "2024-09-23T00:15:43Z",
+        "version": 4,
+        "changeset": 156972738,
         "amenity": "school",
         "name": "Escola Estadual Raul Fernandes Chanceler",
+        "operator": "Secretaria da Educação do Estado de São Paulo",
+        "operator:type": "government",
+        "religion": "none",
         "id": "way/547910496"
       },
       "geometry": {
@@ -1504,6 +1501,155 @@
     },
     {
       "type": "Feature",
+      "id": "way/1317484130",
+      "properties": {
+        "timestamp": "2024-09-23T00:15:43Z",
+        "version": 1,
+        "changeset": 156972738,
+        "addr:street": "Rua 3 A",
+        "amenity": "school",
+        "short_name": "EE João Batista Leme",
+        "id": "way/1317484130"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.5592684,
+              -22.3922027
+            ],
+            [
+              -47.5598013,
+              -22.3943859
+            ],
+            [
+              -47.5596128,
+              -22.394439
+            ],
+            [
+              -47.5594611,
+              -22.3944162
+            ],
+            [
+              -47.5593217,
+              -22.3943366
+            ],
+            [
+              -47.5588175,
+              -22.3922482
+            ],
+            [
+              -47.55892,
+              -22.3921989
+            ],
+            [
+              -47.5590306,
+              -22.3921762
+            ],
+            [
+              -47.5591167,
+              -22.3921496
+            ],
+            [
+              -47.5591946,
+              -22.3921648
+            ],
+            [
+              -47.5592684,
+              -22.3922027
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1317492790",
+      "properties": {
+        "timestamp": "2024-09-23T02:32:10Z",
+        "version": 1,
+        "changeset": 156974405,
+        "addr:street": "Avenida Vinte A",
+        "amenity": "school",
+        "id": "way/1317492790"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.5555644,
+              -22.3998702
+            ],
+            [
+              -47.5555061,
+              -22.4005742
+            ],
+            [
+              -47.5554596,
+              -22.4006
+            ],
+            [
+              -47.5546353,
+              -22.4005591
+            ],
+            [
+              -47.5547051,
+              -22.3998121
+            ],
+            [
+              -47.5555644,
+              -22.3998702
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1317721489",
+      "properties": {
+        "timestamp": "2024-09-23T23:03:22Z",
+        "version": 1,
+        "changeset": 157016380,
+        "amenity": "school",
+        "id": "way/1317721489"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.5857425,
+              -22.4154416
+            ],
+            [
+              -47.5858187,
+              -22.4162247
+            ],
+            [
+              -47.5850356,
+              -22.4162557
+            ],
+            [
+              -47.5848314,
+              -22.4161909
+            ],
+            [
+              -47.5850051,
+              -22.4154754
+            ],
+            [
+              -47.5857425,
+              -22.4154416
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/4279227905",
       "properties": {
         "timestamp": "2016-07-03T01:00:50Z",
@@ -1524,26 +1670,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/4279239697",
-      "properties": {
-        "timestamp": "2016-07-03T01:01:37Z",
-        "version": 1,
-        "changeset": 40450138,
-        "addr:street": "Rua Três A",
-        "amenity": "school",
-        "name": "EE João Batista Leme",
-        "id": "node/4279239697"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -47.5592117,
-          -22.3936543
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/4279260889",
       "properties": {
         "timestamp": "2016-07-03T01:00:34Z",
@@ -1559,26 +1685,6 @@
         "coordinates": [
           -47.5490067,
           -22.3789601
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/4279271189",
-      "properties": {
-        "timestamp": "2016-07-03T01:20:54Z",
-        "version": 1,
-        "changeset": 40450279,
-        "addr:street": "Três A",
-        "amenity": "school",
-        "name": "Pré escola - Dom Pedro I",
-        "id": "node/4279271189"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -47.5588968,
-          -22.3917147
         ]
       }
     },

@@ -2012,6 +2012,53 @@
     },
     {
       "type": "Feature",
+      "id": "way/1317709889",
+      "properties": {
+        "timestamp": "2024-09-23T22:15:44Z",
+        "version": 2,
+        "changeset": 157015542,
+        "amenity": "pharmacy",
+        "brand": "Droga Raia",
+        "brand:wikidata": "Q10357101",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Droga Raia",
+        "id": "way/1317709889"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.0169073,
+              -19.9766831
+            ],
+            [
+              -44.0169623,
+              -19.976457
+            ],
+            [
+              -44.0170213,
+              -19.9764697
+            ],
+            [
+              -44.0170482,
+              -19.9765099
+            ],
+            [
+              -44.0170434,
+              -19.9766864
+            ],
+            [
+              -44.0169073,
+              -19.9766831
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/315989092",
       "properties": {
         "timestamp": "2021-07-22T14:27:38Z",
@@ -3035,18 +3082,19 @@
       "type": "Feature",
       "id": "node/1827736166",
       "properties": {
-        "timestamp": "2021-10-08T01:59:49Z",
-        "version": 3,
-        "changeset": 112240231,
+        "timestamp": "2024-09-23T22:10:46Z",
+        "version": 4,
+        "changeset": 157015406,
         "amenity": "pharmacy",
-        "name": "Drogamario",
+        "healthcare": "pharmacy",
+        "name": "Drogamário",
         "id": "node/1827736166"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -44.0149103,
-          -19.9760409
+          -44.0148957,
+          -19.9760222
         ]
       }
     },
@@ -4612,6 +4660,26 @@
         "coordinates": [
           -44.0138404,
           -19.975432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12195614552",
+      "properties": {
+        "timestamp": "2024-09-23T22:10:46Z",
+        "version": 1,
+        "changeset": 157015406,
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Saúde Prime",
+        "id": "node/12195614552"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.0176678,
+          -19.9766158
         ]
       }
     }

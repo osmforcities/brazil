@@ -3,56 +3,24 @@
   "features": [
     {
       "type": "Feature",
-      "id": "way/479516926",
-      "properties": {
-        "timestamp": "2018-02-03T16:35:26Z",
-        "version": 3,
-        "changeset": 56033461,
-        "amenity": "pharmacy",
-        "building": "yes",
-        "healthcare": "pharmacy",
-        "name": "Farmácia Nissei",
-        "id": "way/479516926"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -47.559981,
-              -22.4085477
-            ],
-            [
-              -47.5598912,
-              -22.4088152
-            ],
-            [
-              -47.5597505,
-              -22.4087748
-            ],
-            [
-              -47.5598403,
-              -22.4085073
-            ],
-            [
-              -47.559981,
-              -22.4085477
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/479516927",
       "properties": {
-        "timestamp": "2018-02-03T16:35:26Z",
-        "version": 3,
-        "changeset": 56033461,
+        "timestamp": "2024-09-23T01:02:46Z",
+        "version": 5,
+        "changeset": 156973336,
+        "addr:housenumber": "160",
+        "addr:street": "Avenida 2",
+        "addr:suburb": "Centro",
         "amenity": "pharmacy",
+        "brand": "Drogaria São Paulo",
+        "brand:wikidata": "Q5308184",
         "building": "yes",
+        "dispensing": "yes",
+        "drive_through": "no",
         "healthcare": "pharmacy",
+        "mobile": "+55 19 99614 7873",
         "name": "Drogaria São Paulo",
+        "opening_hours": "Mo-Su,PH 07:00-23:00",
         "id": "way/479516927"
       },
       "geometry": {
@@ -60,24 +28,40 @@
         "coordinates": [
           [
             [
-              -47.5601108,
-              -22.4086329
+              -47.5601054,
+              -22.4086403
             ],
             [
               -47.5600354,
               -22.4088493
             ],
             [
-              -47.5599107,
-              -22.4088122
+              -47.5599047,
+              -22.4088022
             ],
             [
-              -47.5599862,
-              -22.4085957
+              -47.5598259,
+              -22.4087787
             ],
             [
-              -47.5601108,
-              -22.4086329
+              -47.55979,
+              -22.4087353
+            ],
+            [
+              -47.5598682,
+              -22.4085139
+            ],
+            [
+              -47.5599811,
+              -22.4085455
+            ],
+            [
+              -47.5599707,
+              -22.4086069
+            ],
+            [
+              -47.5601054,
+              -22.4086403
             ]
           ]
         ]
@@ -87,13 +71,20 @@
       "type": "Feature",
       "id": "way/479516929",
       "properties": {
-        "timestamp": "2018-02-03T16:35:26Z",
-        "version": 3,
-        "changeset": 56033461,
+        "timestamp": "2024-09-23T01:10:53Z",
+        "version": 5,
+        "changeset": 156973434,
+        "addr:street": "Rua 3",
+        "addr:suburb": "Centro",
         "amenity": "pharmacy",
+        "brand": "Droga Raia",
+        "brand:wikidata": "Q10357101",
         "building": "yes",
+        "dispensing": "yes",
+        "drive_through": "no",
         "healthcare": "pharmacy",
         "name": "Droga Raia",
+        "opening_hours": "24/7",
         "id": "way/479516929"
       },
       "geometry": {
@@ -140,12 +131,18 @@
       "type": "Feature",
       "id": "way/479516930",
       "properties": {
-        "timestamp": "2018-02-03T16:35:27Z",
-        "version": 3,
-        "changeset": 56033461,
+        "timestamp": "2024-09-23T01:10:53Z",
+        "version": 4,
+        "changeset": 156973434,
+        "addr:housenumber": "165",
+        "addr:street": "Avenida 2",
+        "addr:suburb": "Centro",
         "amenity": "pharmacy",
         "building": "yes",
+        "dispensing": "yes",
+        "drive_through": "no",
         "healthcare": "pharmacy",
+        "mobile": "+55 19 99295 5567",
         "name": "Farmácia Super Popular",
         "id": "way/479516930"
       },
@@ -350,26 +347,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/4279229606",
-      "properties": {
-        "timestamp": "2019-12-17T16:26:53Z",
-        "version": 4,
-        "changeset": 78536485,
-        "amenity": "pharmacy",
-        "dispensing": "yes",
-        "healthcare": "pharmacy",
-        "id": "node/4279229606"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -47.5696274,
-          -22.4136858
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/12193570009",
       "properties": {
         "timestamp": "2024-09-22T23:43:43Z",
@@ -392,6 +369,31 @@
         "coordinates": [
           -47.5714032,
           -22.4094377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12195601824",
+      "properties": {
+        "timestamp": "2024-09-23T21:51:26Z",
+        "version": 1,
+        "changeset": 157014906,
+        "addr:street": "Avenida Presidente Tancredo de Almeida Neves",
+        "amenity": "pharmacy",
+        "brand": "Drogaria São Paulo",
+        "brand:wikidata": "Q5308184",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Drogaria São Paulo",
+        "id": "node/12195601824"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.57181,
+          -22.4142768
         ]
       }
     }

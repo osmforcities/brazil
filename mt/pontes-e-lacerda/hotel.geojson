@@ -83,6 +83,58 @@
     },
     {
       "type": "Feature",
+      "id": "way/1317960642",
+      "properties": {
+        "timestamp": "2024-09-24T19:11:39Z",
+        "version": 1,
+        "changeset": 157053719,
+        "air_conditioning": "yes",
+        "building": "yes",
+        "building:levels": "3",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "Avenida",
+        "tourism": "hotel",
+        "id": "way/1317960642"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -59.3315915,
+              -15.2315514
+            ],
+            [
+              -59.3317719,
+              -15.2318348
+            ],
+            [
+              -59.3318815,
+              -15.2317698
+            ],
+            [
+              -59.3319499,
+              -15.2318773
+            ],
+            [
+              -59.3316681,
+              -15.2320443
+            ],
+            [
+              -59.3314193,
+              -15.2316534
+            ],
+            [
+              -59.3315915,
+              -15.2315514
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/2298368020",
       "properties": {
         "timestamp": "2014-03-27T04:42:57Z",
@@ -115,25 +167,6 @@
         "coordinates": [
           -59.3309604,
           -15.2405154
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/2901858165",
-      "properties": {
-        "timestamp": "2014-06-05T21:06:52Z",
-        "version": 1,
-        "changeset": 22763613,
-        "name": "Hotel Avenida",
-        "tourism": "hotel",
-        "id": "node/2901858165"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -59.3315077,
-          -15.2316567
         ]
       }
     },

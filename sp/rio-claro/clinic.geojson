@@ -53,22 +53,26 @@
       "type": "Feature",
       "id": "way/565603690",
       "properties": {
-        "timestamp": "2018-03-02T03:51:36Z",
-        "version": 1,
-        "changeset": 56806942,
+        "timestamp": "2024-09-24T21:14:58Z",
+        "version": 3,
+        "changeset": 157057375,
         "addr:city": "Rio Claro",
         "addr:housenumber": "1012",
+        "addr:postcode": "13502-748",
         "addr:street": "Rua Oito Jn",
         "addr:suburb": "Jardim Novo I",
         "amenity": "clinic",
         "building": "yes",
-        "description": "Unidade Saúde da Família - Dr.Dirceu Ferreira Penteado",
         "healthcare": "clinic",
-        "name": "USF Jardim Novo I e II",
-        "opening_hours": "Mo-Fr 07:00-16:00",
+        "healthcare:speciality": "general",
+        "name": "Unidade Saúde da Família Doutor Dirceu Ferreira Penteado",
+        "opening_hours": "Mo-Fr 07:00-16:00; PH off",
         "operator": "Fundação Municipal de Saúde de Rio Claro",
-        "phone": "+551935344975",
-        "source": "http://www.saude-rioclaro.org.br/enderecos.htm",
+        "operator:type": "government",
+        "phone": "+55 19 3534 4975",
+        "ref:CNES": "3347087",
+        "short_name": "USF Jardim Novo I e II",
+        "source": "http://www.saude-rioclaro.org.br/enderecos.htm;CNES",
         "id": "way/565603690"
       },
       "geometry": {
@@ -76,24 +80,116 @@
         "coordinates": [
           [
             [
-              -47.5787563,
-              -22.4538374
+              -47.578826,
+              -22.4535325
             ],
             [
-              -47.57868,
-              -22.4534024
+              -47.5788114,
+              -22.453503
             ],
             [
-              -47.5791465,
-              -22.4533108
+              -47.5787916,
+              -22.4535039
             ],
             [
-              -47.579255,
-              -22.4537383
+              -47.5787831,
+              -22.4534625
             ],
             [
-              -47.5787563,
-              -22.4538374
+              -47.5787969,
+              -22.4534627
+            ],
+            [
+              -47.5787829,
+              -22.4534036
+            ],
+            [
+              -47.5789575,
+              -22.4533704
+            ],
+            [
+              -47.5789669,
+              -22.4534179
+            ],
+            [
+              -47.5789952,
+              -22.4534126
+            ],
+            [
+              -47.5791108,
+              -22.4534908
+            ],
+            [
+              -47.5791106,
+              -22.4535076
+            ],
+            [
+              -47.5791693,
+              -22.4535388
+            ],
+            [
+              -47.5791562,
+              -22.4535666
+            ],
+            [
+              -47.5791087,
+              -22.4536294
+            ],
+            [
+              -47.5789966,
+              -22.453566
+            ],
+            [
+              -47.5789882,
+              -22.4535833
+            ],
+            [
+              -47.5791602,
+              -22.453697
+            ],
+            [
+              -47.5791038,
+              -22.4537741
+            ],
+            [
+              -47.5789275,
+              -22.4536651
+            ],
+            [
+              -47.5789142,
+              -22.4536737
+            ],
+            [
+              -47.5789024,
+              -22.4536668
+            ],
+            [
+              -47.5788888,
+              -22.4536753
+            ],
+            [
+              -47.578875,
+              -22.4536676
+            ],
+            [
+              -47.5788586,
+              -22.4536717
+            ],
+            [
+              -47.5788404,
+              -22.4536567
+            ],
+            [
+              -47.5789244,
+              -22.4535373
+            ],
+            [
+              -47.5789102,
+              -22.453525
+            ],
+            [
+              -47.578826,
+              -22.4535325
             ]
           ]
         ]

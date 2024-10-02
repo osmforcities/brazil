@@ -4724,16 +4724,22 @@
       "type": "Feature",
       "id": "way/155580730",
       "properties": {
-        "timestamp": "2016-01-24T14:54:28Z",
-        "version": 2,
-        "changeset": 36777366,
+        "timestamp": "2024-09-24T11:26:18Z",
+        "version": 3,
+        "changeset": 157034886,
+        "addr:city": "Campinas",
         "addr:housenumber": "2138",
+        "addr:postcode": "13023-102",
         "addr:street": "Rua José Paulino",
+        "addr:suburb": "Vila Itapura",
         "club": "sport",
         "leisure": "sports_centre",
+        "mobile": "+55 (19) 99925-2256",
         "name": "Clube Fonte São Paulo",
-        "source": "Bing",
-        "sport": "multi",
+        "opening_hours": "Mo 15:00-22:00; Tu-Sa 07:00-22:00; Su 07:00-18:30",
+        "phone": "+55 (19) 3731-8801",
+        "source": "local knowledge",
+        "sport": "multi;swimming;gymnastics;tennis;badminton;volleyball;basketball;soccer;yoga",
         "website": "http://www.fontesaopaulo.com.br/",
         "id": "way/155580730"
       },
@@ -27195,6 +27201,34 @@
         "coordinates": [
           -47.0635047,
           -22.887872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12196897191",
+      "properties": {
+        "timestamp": "2024-09-24T12:39:32Z",
+        "version": 1,
+        "changeset": 157038015,
+        "addr:city": "Campinas",
+        "addr:housenumber": "1581",
+        "addr:postcode": "13073-221",
+        "addr:street": "Rua Frei Manuel da Ressurreição",
+        "addr:suburb": "Jardim Guanabara",
+        "leisure": "fitness_centre",
+        "name": "Studio Inspirar",
+        "opening_hours": "Mo-Th 07:00-21:00; Fr 07:00-20:00; Sa 09:00-13:00",
+        "phone": "+55 (19) 3368-8941",
+        "sport": "pilates",
+        "website": "http://www.studioinspirar.com.br/",
+        "id": "node/12196897191"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0686223,
+          -22.8833824
         ]
       }
     }

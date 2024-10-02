@@ -21581,14 +21581,15 @@
       "type": "Feature",
       "id": "way/674959753",
       "properties": {
-        "timestamp": "2020-05-07T02:44:44Z",
-        "version": 6,
-        "changeset": 84795332,
+        "timestamp": "2024-09-24T18:01:37Z",
+        "version": 7,
+        "changeset": 157051448,
         "addr:city": "Rio de Janeiro",
         "addr:housenumber": "416",
         "addr:street": "Rua José Higino",
         "addr:suburb": "Tijuca",
         "amenity": "school",
+        "building": "school",
         "denomination": "baptist",
         "name": "Colégio Batista Shepard",
         "phone": "+55 21 2105-0555",
@@ -77270,6 +77271,30 @@
         "coordinates": [
           -43.2107465,
           -22.8036746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12197487868",
+      "properties": {
+        "timestamp": "2024-09-24T17:51:36Z",
+        "version": 1,
+        "changeset": 157051046,
+        "addr:city": "Rio de Janeiro",
+        "addr:housenumber": "422",
+        "addr:postcode": "21660-380",
+        "addr:street": "Rua Manuel Barata",
+        "addr:suburb": "Guadalupe",
+        "amenity": "school",
+        "name": "Centro Educacional Alegria Do Saber (BIDU)",
+        "id": "node/12197487868"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3760896,
+          -22.8359235
         ]
       }
     }

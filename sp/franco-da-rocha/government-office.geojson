@@ -133,13 +133,14 @@
       "type": "Feature",
       "id": "way/519150959",
       "properties": {
-        "timestamp": "2023-06-26T12:14:16Z",
-        "version": 7,
-        "changeset": 137790296,
+        "timestamp": "2024-09-24T01:23:11Z",
+        "version": 8,
+        "changeset": 157018197,
         "addr:city": "Franco da Rocha",
         "addr:street": "Calçadão Amália Sestine",
         "addr:suburb": "Centro",
         "building": "yes",
+        "government": "yes",
         "name": "Casa de Cultura Marielle Franco",
         "office": "government",
         "id": "way/519150959"
@@ -184,15 +185,22 @@
       "type": "Feature",
       "id": "way/622474076",
       "properties": {
-        "timestamp": "2023-04-18T03:11:56Z",
-        "version": 4,
-        "changeset": 135038630,
+        "timestamp": "2024-09-24T01:23:11Z",
+        "version": 5,
+        "changeset": 157018197,
+        "addr:city": "Franco da Rocha",
+        "addr:housenumber": "661",
+        "addr:postcode": "07847-200",
         "addr:street": "Avenida Israel",
-        "building": "public",
+        "addr:suburb": "Vila Bela",
+        "building": "government",
         "government": "social_security",
         "name": "Previdência Social Franco da Rocha",
         "office": "government",
+        "opening_hours": "Mo-Fr 08:30-12:30",
+        "phone": "+55 11 4449-2656",
         "smoking": "outside",
+        "website": "https://servicos.receita.fazenda.gov.br/Servicos/saga/unidadesatendimento/Unidades/InformacoesDasUnidades.aspx?unidade=08047",
         "id": "way/622474076"
       },
       "geometry": {
@@ -337,58 +345,11 @@
     },
     {
       "type": "Feature",
-      "id": "way/877545320",
-      "properties": {
-        "timestamp": "2020-11-25T14:59:29Z",
-        "version": 1,
-        "changeset": 94783137,
-        "addr:city": "Franco da Rocha",
-        "addr:housenumber": "377",
-        "addr:postcode": "07850-325",
-        "addr:street": "Avenida Liberdade",
-        "addr:suburb": "Centro",
-        "building": "yes",
-        "government": "tax",
-        "name": "Receita Federal",
-        "office": "government",
-        "opening_hours": "Mo-Fr 08:30-12:30",
-        "id": "way/877545320"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -46.7243826,
-              -23.3339604
-            ],
-            [
-              -46.7242404,
-              -23.3339653
-            ],
-            [
-              -46.7242431,
-              -23.3338126
-            ],
-            [
-              -46.7243826,
-              -23.3338102
-            ],
-            [
-              -46.7243826,
-              -23.3339604
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/877625039",
       "properties": {
-        "timestamp": "2023-04-12T01:28:08Z",
-        "version": 2,
-        "changeset": 134795403,
+        "timestamp": "2024-09-24T01:23:11Z",
+        "version": 3,
+        "changeset": 157018197,
         "addr:city": "Franco da Rocha",
         "addr:housenumber": "500",
         "addr:street": "Avenida Liberdade",
@@ -396,6 +357,7 @@
         "building": "public",
         "name": "Sabesp - Agência Franco da Rocha",
         "office": "government",
+        "operator": "Companhia de Saneamento Básico do Estado de São Paulo",
         "id": "way/877625039"
       },
       "geometry": {

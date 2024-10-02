@@ -3242,69 +3242,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/605313835",
-      "properties": {
-        "timestamp": "2024-09-18T13:33:23Z",
-        "version": 2,
-        "changeset": 156773986,
-        "level": "Saibro",
-        "name": "Radical Tennis",
-        "opening_hours": "Mo-Fr 09:00-12:00,13:30-18:30; Sa 09:00-17:00; PH closed",
-        "shop": "sports",
-        "sport": "tennis",
-        "wheelchair": "designated",
-        "id": "way/605313835"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -42.7985062,
-              -5.0732558
-            ],
-            [
-              -42.7986835,
-              -5.0733127
-            ],
-            [
-              -42.798977,
-              -5.0734069
-            ],
-            [
-              -42.7989416,
-              -5.0735104
-            ],
-            [
-              -42.7989246,
-              -5.0735069
-            ],
-            [
-              -42.798818,
-              -5.0738082
-            ],
-            [
-              -42.7983942,
-              -5.073663
-            ],
-            [
-              -42.7984986,
-              -5.0733408
-            ],
-            [
-              -42.7984775,
-              -5.0733342
-            ],
-            [
-              -42.7985062,
-              -5.0732558
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/615906929",
       "properties": {
         "timestamp": "2018-08-10T16:46:03Z",
@@ -19424,9 +19361,9 @@
       "type": "Feature",
       "id": "way/1316957770",
       "properties": {
-        "timestamp": "2024-09-21T07:31:12Z",
-        "version": 3,
-        "changeset": 156898938,
+        "timestamp": "2024-09-24T09:52:21Z",
+        "version": 4,
+        "changeset": 157031188,
         "addr:city": "Teresina",
         "addr:street": "Rua das Acerolas",
         "addr:suburb": "Colorado",
@@ -19434,7 +19371,7 @@
         "fee": "yes",
         "leisure": "sports_centre",
         "name": "Arena Colorado",
-        "phine": "86 99901-4875",
+        "phone": "86 99901-4875",
         "sport": "soccer;volleyball;futvôlei",
         "id": "way/1316957770"
       },
@@ -20842,6 +20779,62 @@
         "coordinates": [
           -42.7589789,
           -4.9985509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12197484001",
+      "properties": {
+        "timestamp": "2024-09-24T17:24:22Z",
+        "version": 1,
+        "changeset": 157049952,
+        "addr:city": "Teresina",
+        "addr:housenumber": "1668",
+        "addr:postcode": "64018290",
+        "addr:street": "Avenida Barão de Gurguéia",
+        "addr:suburb": "Vermelha",
+        "email": "baraodegurgueia@skyfitacademia.com.br",
+        "leisure": "fitness_centre",
+        "name": "Skyfit Barão de Gurguéia",
+        "sport": "fitness",
+        "website": "https://skyfitacademia.com/unidade/barao-de-gurgueia-teresina-pi/",
+        "id": "node/12197484001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.8091834,
+          -5.1064123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12197933945",
+      "properties": {
+        "timestamp": "2024-09-24T23:45:55Z",
+        "version": 1,
+        "changeset": 157059834,
+        "addr:city": "Teresina",
+        "addr:housenumber": "1315",
+        "addr:postcode": "64018500",
+        "addr:street": "Avenida Barão de Gurguéia",
+        "addr:suburb": "Vermelha",
+        "contact:facebook": "https://www.facebook.com/Hardcoreextremeacademia/",
+        "leisure": "fitness_centre",
+        "name": "Harcore Extreme Academia",
+        "phone": "+5586981159584",
+        "sport": "fitness",
+        "website": "https://hardcoreextremeacademia.sitesca.com/matricular",
+        "wheelchair": "yes",
+        "id": "node/12197933945"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.8101078,
+          -5.1031241
         ]
       }
     }

@@ -5369,15 +5369,11 @@
       "type": "Feature",
       "id": "node/4890486221",
       "properties": {
-        "timestamp": "2022-07-17T13:43:13Z",
-        "version": 2,
-        "changeset": 123721838,
-        "addr:housenumber": "407",
-        "addr:street": "rua pouso alegre",
+        "timestamp": "2024-09-24T20:00:07Z",
+        "version": 3,
+        "changeset": 157055151,
         "amenity": "hospital",
-        "fixme": "25320999 precisa do ddd",
         "healthcare": "hospital",
-        "name": "Instituto de olhos - hospital universitário",
         "id": "node/4890486221"
       },
       "geometry": {
@@ -5582,6 +5578,33 @@
         "coordinates": [
           -44.0133452,
           -19.974549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12197698262",
+      "properties": {
+        "timestamp": "2024-09-24T19:54:17Z",
+        "version": 1,
+        "changeset": 157054988,
+        "addr:city": "Belo Horizonte",
+        "addr:housenumber": "232",
+        "addr:postcode": "30260-080",
+        "addr:street": "Avenida Churchill",
+        "addr:suburb": "Santa Efigênia",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "ophthalmology",
+        "name": "Instituto de Olhos Ciências Médicas MG",
+        "wheelchair": "yes",
+        "id": "node/12197698262"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.9171565,
+          -19.9222969
         ]
       }
     }

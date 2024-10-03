@@ -45,6 +45,107 @@
     },
     {
       "type": "Feature",
+      "id": "way/1318546361",
+      "properties": {
+        "timestamp": "2024-09-27T00:18:15Z",
+        "version": 2,
+        "changeset": 157150263,
+        "amenity": "school",
+        "wikidata": "Q130370376",
+        "id": "way/1318546361"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.4211435,
+              -28.9853462
+            ],
+            [
+              -49.4210362,
+              -28.9854336
+            ],
+            [
+              -49.4208763,
+              -28.9852921
+            ],
+            [
+              -49.4209817,
+              -28.9852095
+            ],
+            [
+              -49.4211435,
+              -28.9853462
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1318794884",
+      "properties": {
+        "timestamp": "2024-09-27T13:50:00Z",
+        "version": 2,
+        "changeset": 157172471,
+        "addr:housenumber": "592",
+        "addr:postcode": "88914000",
+        "addr:street": "Rua Apolônio Ireno Cardoso",
+        "amenity": "school",
+        "name": "E.E.B. Apolônio Ireno Cardoso",
+        "opening_hours": "Mo-Fr 07:45-11:45, 13:15-17:15, 18:30-22:00",
+        "phone": "+55 48 3529-0199",
+        "religion": "none",
+        "wikidata": "Q130373494",
+        "id": "way/1318794884"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.4145195,
+              -28.9827269
+            ],
+            [
+              -49.4143044,
+              -28.9830033
+            ],
+            [
+              -49.4139036,
+              -28.9827647
+            ],
+            [
+              -49.4139613,
+              -28.9826906
+            ],
+            [
+              -49.4139135,
+              -28.9826621
+            ],
+            [
+              -49.4139556,
+              -28.9826081
+            ],
+            [
+              -49.4139174,
+              -28.9825853
+            ],
+            [
+              -49.4140328,
+              -28.9824371
+            ],
+            [
+              -49.4145195,
+              -28.9827269
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/9675796342",
       "properties": {
         "timestamp": "2024-02-27T01:23:18Z",
@@ -61,30 +162,6 @@
         "coordinates": [
           -49.4684326,
           -29.0367329
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/11233465937",
-      "properties": {
-        "timestamp": "2023-10-05T16:52:30Z",
-        "version": 2,
-        "changeset": 142198573,
-        "addr:housenumber": "592",
-        "addr:postcode": "88914000",
-        "addr:street": "Rua Apolônio Ireno Cardoso",
-        "amenity": "school",
-        "name": "E.E.B. Apolônio Ireno Cardoso",
-        "opening_hours": "Mo-Fr 07:45-11:45, 13:15-17:15, 18:30-22:00",
-        "phone": "+55 48 3529-0199",
-        "id": "node/11233465937"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.4142852,
-          -28.9826816
         ]
       }
     },

@@ -3,55 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": "way/227171855",
-      "properties": {
-        "timestamp": "2016-12-21T04:44:21Z",
-        "version": 3,
-        "changeset": 44556496,
-        "IJSN:administra": "Privada",
-        "IJSN:classeCnae": "Profissional",
-        "addr:city": "Cachoeiro de Itapemirim",
-        "addr:housenumber": "60",
-        "addr:place": "Gilberto Machado",
-        "addr:postcode": "29303-340",
-        "addr:street": "Rua Dona Clarice Toledo de Carvalho",
-        "alt_name": "Centro de Ensino Profissional Mário Rezende",
-        "amenity": "college",
-        "contact:phone": "(28) 3522-4015/3517-5048",
-        "name": "SENAI",
-        "short_name": "Serviço Nacional de Aprendizagem Industrial",
-        "id": "way/227171855"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -41.122813,
-              -20.8590207
-            ],
-            [
-              -41.1220352,
-              -20.8585942
-            ],
-            [
-              -41.1226488,
-              -20.8579481
-            ],
-            [
-              -41.1233066,
-              -20.8584638
-            ],
-            [
-              -41.122813,
-              -20.8590207
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/3477819884",
       "properties": {
         "timestamp": "2019-07-11T17:33:19Z",
@@ -83,28 +34,30 @@
       "type": "Feature",
       "id": "node/3477819885",
       "properties": {
-        "timestamp": "2019-07-11T17:33:19Z",
-        "version": 3,
-        "changeset": 72146221,
+        "timestamp": "2024-09-27T08:33:20Z",
+        "version": 4,
+        "changeset": 157159864,
         "IJSN:administra": "Privada",
         "IJSN:classeCnae": "Profissional",
         "addr:city": "Cachoeiro de Itapemirim",
         "addr:housenumber": "60",
-        "addr:place": "Gilberto Machado",
-        "addr:postcode": "29303-340",
-        "addr:street": "Rua Dona Clarice Toledo de Carvalho",
-        "alt_name": "Centro de Ensino Profissional",
+        "addr:postcode": "29312-200",
+        "addr:street": "Avenida Domingos Alcino Dadalto",
+        "addr:suburb": "IBC",
+        "alt_name": "Centro de Ensino Profissional;Centro de Ensino Profissional Mário Rezende",
         "amenity": "college",
-        "contact:phone": "+55 28 3522-4015/3517-5048",
-        "name": "Centro de Ensino Profissional Mário Rezende",
-        "short_name": "CEP",
+        "contact:phone": "+55 28 3522-4015/3517-5048;(28) 3522-4015/3517-5048",
+        "name": "Centro de Ensino Profissional Mário Rezende;SENAI",
+        "operator": "Serviço Nacional de Apredizagem Industrial",
+        "operator:type": "association",
+        "short_name": "CEP;Serviço Nacional de Aprendizagem Industrial",
         "id": "node/3477819885"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -41.1223576,
-          -20.858442
+          -41.1486387,
+          -20.8489073
         ]
       }
     },

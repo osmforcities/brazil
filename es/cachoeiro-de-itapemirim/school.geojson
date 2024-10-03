@@ -435,15 +435,15 @@
       "type": "Feature",
       "id": "way/151804309",
       "properties": {
-        "timestamp": "2022-04-19T15:40:32Z",
-        "version": 5,
-        "changeset": 119913577,
+        "timestamp": "2024-09-27T08:33:20Z",
+        "version": 6,
+        "changeset": 157159864,
         "IJSN:administra": "Privada",
         "IJSN:classeCnae": "Infantil, Fundamental e Médio",
         "addr:city": "Cachoeiro de Itapemirim",
-        "addr:place": "Alto Monte Cristo",
         "addr:postcode": "29312-200",
         "addr:street": "Avenida Domingos Alcino Dadalto",
+        "addr:suburb": "IBC",
         "alt_name": "SESI",
         "amenity": "school",
         "contact:phone": "(28) 3521-3668",
@@ -533,6 +533,52 @@
             [
               -41.1501353,
               -20.8491888
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/227171855",
+      "properties": {
+        "timestamp": "2024-09-27T08:33:20Z",
+        "version": 4,
+        "changeset": 157159864,
+        "addr:city": "Cachoeiro de Itapemirim",
+        "addr:housenumber": "60",
+        "addr:postcode": "29303-340",
+        "addr:street": "Rua Dona Clarice Toledo de Carvalho",
+        "addr:suburb": "Campo Leopoldina",
+        "amenity": "school",
+        "name": "Colégio Adventista de Cachoeiro de Itapemirim – Caci",
+        "phone": "+55 28 3521 8191",
+        "website": "https://cachoeiro.educacaoadventista.org.br/",
+        "id": "way/227171855"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.122813,
+              -20.8590207
+            ],
+            [
+              -41.1220352,
+              -20.8585942
+            ],
+            [
+              -41.1226488,
+              -20.8579481
+            ],
+            [
+              -41.1233066,
+              -20.8584638
+            ],
+            [
+              -41.122813,
+              -20.8590207
             ]
           ]
         ]
@@ -3892,6 +3938,34 @@
         "coordinates": [
           -41.1193339,
           -20.8219874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12204421187",
+      "properties": {
+        "timestamp": "2024-09-27T08:23:27Z",
+        "version": 1,
+        "changeset": 157159535,
+        "addr:city": "Cachoeiro de Itapemirim",
+        "addr:housenumber": "57",
+        "addr:postcode": "29314-673",
+        "addr:street": "Amélia Molinarolli Giro",
+        "addr:suburb": "São Geraldo",
+        "amenity": "school",
+        "name": "Escola Maple Bear Cachoeiro do Itapemirim",
+        "operator": "Up To Date Instituto de Ensino Multilingue Limitada",
+        "operator:type": "private",
+        "phone": "+55 28 3027 2838",
+        "website": "https://cachoeirodoitapemirim.maplebear.com.br/pt/",
+        "id": "node/12204421187"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.1239997,
+          -20.8679664
         ]
       }
     }

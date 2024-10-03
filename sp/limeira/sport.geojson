@@ -3560,12 +3560,11 @@
       "type": "Feature",
       "id": "way/682929258",
       "properties": {
-        "timestamp": "2019-04-10T14:49:54Z",
-        "version": 1,
-        "changeset": 69086025,
+        "timestamp": "2024-09-27T22:53:54Z",
+        "version": 2,
+        "changeset": 157190794,
         "leisure": "pitch",
         "lit": "yes",
-        "name": "campo sao bento 2",
         "sport": "soccer",
         "surface": "grass",
         "id": "way/682929258"
@@ -4177,6 +4176,45 @@
     },
     {
       "type": "Feature",
+      "id": "way/1318791983",
+      "properties": {
+        "timestamp": "2024-09-27T13:33:24Z",
+        "version": 1,
+        "changeset": 157171670,
+        "leisure": "pitch",
+        "sport": "soccer",
+        "id": "way/1318791983"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.3713808,
+              -22.5830147
+            ],
+            [
+              -47.3712065,
+              -22.5833886
+            ],
+            [
+              -47.3705359,
+              -22.5831336
+            ],
+            [
+              -47.3707156,
+              -22.5827546
+            ],
+            [
+              -47.3713808,
+              -22.5830147
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/478726932",
       "properties": {
         "timestamp": "2017-03-05T23:17:27Z",
@@ -4261,6 +4299,25 @@
         "coordinates": [
           -47.4286248,
           -22.5545343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12205930039",
+      "properties": {
+        "timestamp": "2024-09-27T20:31:01Z",
+        "version": 1,
+        "changeset": 157187534,
+        "leisure": "fitness_station",
+        "sport": "fitness",
+        "id": "node/12205930039"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.3728972,
+          -22.5803478
         ]
       }
     }

@@ -175,34 +175,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/12200424344",
-      "properties": {
-        "timestamp": "2024-09-26T00:38:51Z",
-        "version": 1,
-        "changeset": 157105729,
-        "addr:city": "Serra Preta",
-        "addr:postcode": "44660-000",
-        "addr:suburb": "Lagoa do Batista",
-        "amenity": "school",
-        "grades": "1-5",
-        "internet_access": "yes",
-        "name": "Escola Municipal Leão Simões Leite",
-        "operator": "Prefeitura Municipal de Serra Preta",
-        "operator:type": "government",
-        "polling_station": "yes",
-        "wheelchair": "yes",
-        "id": "node/12200424344"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -39.2926401,
-          -12.0570237
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/12201391166",
       "properties": {
         "timestamp": "2024-09-26T11:58:22Z",
@@ -227,6 +199,63 @@
         "coordinates": [
           -39.2884391,
           -12.0976573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12205095265",
+      "properties": {
+        "timestamp": "2024-09-27T14:11:07Z",
+        "version": 1,
+        "changeset": 157173383,
+        "addr:city": "Serra Preta",
+        "addr:postcode": "44660-000",
+        "addr:suburb": "Sapateiro",
+        "amenity": "school",
+        "grades": "1-5",
+        "internet_access": "wlan",
+        "name": "Escola Municipal Dr. Henrique Brito Filho",
+        "opening_hours": "Mo-Fr 08:00-12:00",
+        "operator": "Prefeitura Municipal de Serra Preta",
+        "operator:type": "government",
+        "polling_station": "yes",
+        "wheelchair": "yes",
+        "id": "node/12205095265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.2846447,
+          -12.0780086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12205991160",
+      "properties": {
+        "timestamp": "2024-09-27T21:20:06Z",
+        "version": 1,
+        "changeset": 157188682,
+        "addr:city": "Serra Preta",
+        "addr:postcode": "44660-000",
+        "addr:suburb": "Lagoa do Batista",
+        "amenity": "school",
+        "grades": "1-5",
+        "internet_access": "wlan",
+        "name": "Escola Municipal Leão Simões Leite",
+        "operator": "Prefeitura Municipal de Serra Preta",
+        "operator:type": "public",
+        "polling_station": "yes",
+        "wheelchair": "yes",
+        "id": "node/12205991160"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.2926413,
+          -12.0570233
         ]
       }
     }

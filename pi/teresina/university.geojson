@@ -890,13 +890,14 @@
       "type": "Feature",
       "id": "way/742873630",
       "properties": {
-        "timestamp": "2023-10-04T13:03:23Z",
-        "version": 3,
-        "changeset": 142144773,
+        "timestamp": "2024-09-26T00:27:40Z",
+        "version": 4,
+        "changeset": 157105592,
         "addr:street": "Rua Valdivino Tito",
         "amenity": "university",
         "internet_access": "yes",
-        "name": "IFPI - Campus Teresina Sul",
+        "internet_access:fee": "no",
+        "name": "Instituto Federal do Piauí - Campus Teresina Sul",
         "operator": "Instituto Federal do Piauí - IFPI",
         "operator:type": "public",
         "website": "https://www.ifpi.edu.br/teresinazonasul",
@@ -1651,6 +1652,54 @@
             [
               -42.8096871,
               -5.094058
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1318240466",
+      "properties": {
+        "timestamp": "2024-09-26T00:27:40Z",
+        "version": 1,
+        "changeset": 157105592,
+        "amenity": "university",
+        "barrier": "wall",
+        "name": "Instituto Federal do Piauí - Campus Avançado Dirceu Acorverde",
+        "id": "way/1318240466"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.7390267,
+              -5.0994341
+            ],
+            [
+              -42.7389508,
+              -5.0996638
+            ],
+            [
+              -42.7388659,
+              -5.0996334
+            ],
+            [
+              -42.7388446,
+              -5.0997002
+            ],
+            [
+              -42.7381687,
+              -5.099461
+            ],
+            [
+              -42.7382681,
+              -5.0991646
+            ],
+            [
+              -42.7390267,
+              -5.0994341
             ]
           ]
         ]

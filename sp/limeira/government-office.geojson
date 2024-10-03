@@ -67,6 +67,51 @@
     },
     {
       "type": "Feature",
+      "id": "way/1318264757",
+      "properties": {
+        "timestamp": "2024-09-26T02:36:05Z",
+        "version": 1,
+        "changeset": 157107033,
+        "building": "yes",
+        "government": "public_service",
+        "name": "Velório",
+        "office": "government",
+        "id": "way/1318264757"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.4109535,
+              -22.5698437
+            ],
+            [
+              -47.4108134,
+              -22.5699985
+            ],
+            [
+              -47.4106481,
+              -22.5698586
+            ],
+            [
+              -47.4107468,
+              -22.5697653
+            ],
+            [
+              -47.4108594,
+              -22.5697547
+            ],
+            [
+              -47.4109535,
+              -22.5698437
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/9050731588",
       "properties": {
         "timestamp": "2023-10-23T13:08:25Z",
@@ -175,6 +220,30 @@
         "coordinates": [
           -47.4165575,
           -22.562556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12201922969",
+      "properties": {
+        "timestamp": "2024-09-26T14:25:37Z",
+        "version": 1,
+        "changeset": 157131627,
+        "addr:housenumber": "800",
+        "addr:street": "Avenida Carlos Kuntz Busch",
+        "addr:suburb": "Parque Egisto Ragazzo",
+        "government": "public_service",
+        "name": "Poupatempo",
+        "office": "government",
+        "website": "https://www.poupatempo.sp.gov.br/",
+        "id": "node/12201922969"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.3858781,
+          -22.5328533
         ]
       }
     }

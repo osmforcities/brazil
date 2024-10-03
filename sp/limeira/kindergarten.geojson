@@ -172,19 +172,90 @@
     },
     {
       "type": "Feature",
-      "id": "node/1683691202",
+      "id": "way/1318264754",
       "properties": {
-        "timestamp": "2012-03-20T19:58:43Z",
+        "timestamp": "2024-09-26T02:36:05Z",
         "version": 1,
-        "changeset": 11044763,
+        "changeset": 157107033,
         "amenity": "kindergarten",
-        "id": "node/1683691202"
+        "id": "way/1318264754"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -47.4088847,
-          -22.5717376
+          [
+            [
+              -47.408951,
+              -22.571203
+            ],
+            [
+              -47.4092633,
+              -22.5714935
+            ],
+            [
+              -47.4092748,
+              -22.5715381
+            ],
+            [
+              -47.4086754,
+              -22.5720831
+            ],
+            [
+              -47.4086226,
+              -22.5720852
+            ],
+            [
+              -47.4082529,
+              -22.5717841
+            ],
+            [
+              -47.408951,
+              -22.571203
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1318513372",
+      "properties": {
+        "timestamp": "2024-09-26T21:43:04Z",
+        "version": 1,
+        "changeset": 157146922,
+        "addr:housenumber": "403",
+        "addr:street": "Rua João Guilherme",
+        "addr:suburb": "Vila Cidade Jardim",
+        "amenity": "kindergarten",
+        "phone": "+55 19 3441 5657",
+        "preschool": "yes",
+        "id": "way/1318513372"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.399943,
+              -22.5695321
+            ],
+            [
+              -47.3995609,
+              -22.5698965
+            ],
+            [
+              -47.3993878,
+              -22.5697588
+            ],
+            [
+              -47.3997437,
+              -22.5694072
+            ],
+            [
+              -47.399943,
+              -22.5695321
+            ]
+          ]
         ]
       }
     },

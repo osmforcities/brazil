@@ -175,29 +175,58 @@
     },
     {
       "type": "Feature",
-      "id": "node/12155179537",
+      "id": "node/12200424344",
       "properties": {
-        "timestamp": "2024-09-04T11:09:48Z",
+        "timestamp": "2024-09-26T00:38:51Z",
         "version": 1,
-        "changeset": 156180823,
+        "changeset": 157105729,
         "addr:city": "Serra Preta",
-        "addr:postcode": "44660000",
-        "addr:suburb": "Zona Rural",
+        "addr:postcode": "44660-000",
+        "addr:suburb": "Lagoa do Batista",
         "amenity": "school",
-        "grades": "1-4",
-        "internet_access": "wlan",
+        "grades": "1-5",
+        "internet_access": "yes",
         "name": "Escola Municipal Leão Simões Leite",
         "operator": "Prefeitura Municipal de Serra Preta",
         "operator:type": "government",
         "polling_station": "yes",
         "wheelchair": "yes",
-        "id": "node/12155179537"
+        "id": "node/12200424344"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -39.2926403,
-          -12.0570246
+          -39.2926401,
+          -12.0570237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12201391166",
+      "properties": {
+        "timestamp": "2024-09-26T11:58:22Z",
+        "version": 1,
+        "changeset": 157125089,
+        "addr:city": "Serra Preta",
+        "addr:postcode": "44660-000",
+        "addr:suburb": "Buraco D'Água",
+        "amenity": "school",
+        "grades": "1-5",
+        "internet_access": "wlan",
+        "name": "Escola Municipal Luiz Correia Costa",
+        "opening_hours": "Mo-Fr 08:00-12:00",
+        "operator": "Prefeitura Municipal de Serra Preta",
+        "operator:type": "government",
+        "polling_station": "yes",
+        "wheelchair": "yes",
+        "id": "node/12201391166"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.2884391,
+          -12.0976573
         ]
       }
     }

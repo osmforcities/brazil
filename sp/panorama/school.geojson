@@ -5,11 +5,16 @@
       "type": "Feature",
       "id": "way/954720033",
       "properties": {
-        "timestamp": "2021-06-15T19:05:45Z",
-        "version": 1,
-        "changeset": 106419794,
+        "timestamp": "2024-09-28T14:29:40Z",
+        "version": 2,
+        "changeset": 157213605,
+        "addr:city": "Panorama",
+        "addr:housenumber": "633",
+        "addr:street": "Rua Porfírio Augusto Pires",
+        "addr:suburb": "Marrecas",
         "amenity": "school",
-        "name": "Objetivo Panorama",
+        "grades": "0,1-9,10-12",
+        "name": "Centro de Ensino Caça Talentos",
         "id": "way/954720033"
       },
       "geometry": {
@@ -37,12 +42,24 @@
               -21.3546805
             ],
             [
-              -51.8572547,
-              -21.3549566
+              -51.857037,
+              -21.3550357
             ],
             [
-              -51.8571291,
-              -21.3546979
+              -51.8569291,
+              -21.3547704
+            ],
+            [
+              -51.8568203,
+              -21.3544993
+            ],
+            [
+              -51.8569518,
+              -21.3543325
+            ],
+            [
+              -51.8571503,
+              -21.3546798
             ],
             [
               -51.8569356,
@@ -106,6 +123,65 @@
             [
               -51.8511567,
               -21.3546366
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1318984022",
+      "properties": {
+        "timestamp": "2024-09-28T11:41:17Z",
+        "version": 1,
+        "changeset": 157206412,
+        "addr:city": "Panorama",
+        "addr:housenumber": "1885",
+        "addr:postcode": "17982-004",
+        "addr:street": "Rua Ivan Inácio da Silva",
+        "addr:suburb": "Nosso Teto",
+        "amenity": "school",
+        "grades": "1-9",
+        "name": "Bacharel Armando Ribeiro",
+        "operator": "Prefeitura Municipal",
+        "operator:type": "public",
+        "id": "way/1318984022"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.8520302,
+              -21.3644772
+            ],
+            [
+              -51.8514138,
+              -21.365321
+            ],
+            [
+              -51.8513834,
+              -21.365321
+            ],
+            [
+              -51.8513461,
+              -21.3653014
+            ],
+            [
+              -51.8513134,
+              -21.3652601
+            ],
+            [
+              -51.8509188,
+              -21.3644511
+            ],
+            [
+              -51.8518551,
+              -21.3640815
+            ],
+            [
+              -51.8520302,
+              -21.3644772
             ]
           ]
         ]

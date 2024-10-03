@@ -3,48 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": "way/547677867",
-      "properties": {
-        "timestamp": "2017-12-18T14:11:05Z",
-        "version": 1,
-        "changeset": 54731916,
-        "addr:city": "limeira",
-        "addr:street": "Rua João Kuhl Filho",
-        "amenity": "library",
-        "building": "yes",
-        "name": "Biblioteca Municipal João de Sousa Ferraz",
-        "id": "way/547677867"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -47.4153958,
-              -22.5640755
-            ],
-            [
-              -47.4153712,
-              -22.564517
-            ],
-            [
-              -47.4148324,
-              -22.5644952
-            ],
-            [
-              -47.4148646,
-              -22.5640444
-            ],
-            [
-              -47.4153958,
-              -22.5640755
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/547680695",
       "properties": {
         "timestamp": "2017-12-18T14:23:16Z",
@@ -62,24 +20,24 @@
         "coordinates": [
           [
             [
-              -47.4153205,
-              -22.5623199
+              -47.4153366,
+              -22.5622704
             ],
             [
-              -47.4153104,
-              -22.562939
+              -47.4153158,
+              -22.562882
             ],
             [
-              -47.4149372,
-              -22.5629338
+              -47.4149265,
+              -22.5628867
             ],
             [
-              -47.4149472,
-              -22.5623147
+              -47.4149499,
+              -22.5622528
             ],
             [
-              -47.4153205,
-              -22.5623199
+              -47.4153366,
+              -22.5622704
             ]
           ]
         ]
@@ -152,6 +110,25 @@
         "coordinates": [
           -47.429661,
           -22.5553785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12206289637",
+      "properties": {
+        "timestamp": "2024-09-28T02:22:19Z",
+        "version": 1,
+        "changeset": 157193129,
+        "amenity": "library",
+        "name": "Biblioteca Municipal João de Sousa Ferraz",
+        "id": "node/12206289637"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.4149483,
+          -22.5642449
         ]
       }
     }

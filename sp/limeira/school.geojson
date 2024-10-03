@@ -458,6 +458,49 @@
     },
     {
       "type": "Feature",
+      "id": "way/329108150",
+      "properties": {
+        "timestamp": "2024-09-28T00:43:28Z",
+        "version": 2,
+        "changeset": 157192162,
+        "addr:city": "Limeira",
+        "addr:housenumber": "698",
+        "addr:postcode": "13484270",
+        "addr:street": "Avenida Maria Thereza Silveira de Barros Camargo",
+        "amenity": "school",
+        "name": "Portinari Grupo Educacional",
+        "id": "way/329108150"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.4151497,
+              -22.5512068
+            ],
+            [
+              -47.4146937,
+              -22.5507113
+            ],
+            [
+              -47.4149922,
+              -22.5504293
+            ],
+            [
+              -47.4154635,
+              -22.5509001
+            ],
+            [
+              -47.4151497,
+              -22.5512068
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/547697324",
       "properties": {
         "timestamp": "2017-12-18T20:15:30Z",
@@ -829,57 +872,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/550002019",
-      "properties": {
-        "timestamp": "2017-12-31T00:07:43Z",
-        "version": 1,
-        "changeset": 55047968,
-        "amenity": "school",
-        "name": "Centro Infantil José Reinaldo Ribeiro Brugnaro",
-        "id": "way/550002019"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -47.4112848,
-              -22.5486593
-            ],
-            [
-              -47.4114039,
-              -22.5487274
-            ],
-            [
-              -47.4108737,
-              -22.549361
-            ],
-            [
-              -47.4104031,
-              -22.5491097
-            ],
-            [
-              -47.4106356,
-              -22.548929
-            ],
-            [
-              -47.4108425,
-              -22.5488112
-            ],
-            [
-              -47.411075,
-              -22.5487169
-            ],
-            [
-              -47.4112848,
-              -22.5486593
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/556077495",
       "properties": {
         "timestamp": "2018-01-26T19:25:06Z",
@@ -1076,24 +1068,24 @@
         "coordinates": [
           [
             [
-              -47.4014843,
-              -22.5608558
+              -47.4015166,
+              -22.5608297
             ],
             [
               -47.401079,
               -22.5612455
             ],
             [
-              -47.4004309,
-              -22.5606801
+              -47.400443,
+              -22.5606614
             ],
             [
-              -47.4008556,
-              -22.5602905
+              -47.4008981,
+              -22.5602494
             ],
             [
-              -47.4014843,
-              -22.5608558
+              -47.4015166,
+              -22.5608297
             ]
           ]
         ]
@@ -1233,11 +1225,14 @@
       "type": "Feature",
       "id": "way/624091512",
       "properties": {
-        "timestamp": "2018-09-08T15:33:00Z",
-        "version": 1,
-        "changeset": 62405035,
+        "timestamp": "2024-09-28T18:20:56Z",
+        "version": 2,
+        "changeset": 157222869,
         "amenity": "school",
         "name": "Escola Estadual Lázaro Duarte do Páteo",
+        "operator": "Secretaria da Educação do Estado de São Paulo",
+        "operator:type": "government",
+        "religion": "none",
         "id": "way/624091512"
       },
       "geometry": {
@@ -1280,10 +1275,11 @@
       "type": "Feature",
       "id": "way/633023150",
       "properties": {
-        "timestamp": "2018-10-11T16:21:34Z",
-        "version": 1,
-        "changeset": 63426050,
+        "timestamp": "2024-09-28T02:22:19Z",
+        "version": 2,
+        "changeset": 157193129,
         "amenity": "school",
+        "short_name": "EMEIEF Professor Aldo José Kuhl",
         "id": "way/633023150"
       },
       "geometry": {
@@ -1545,9 +1541,9 @@
       "type": "Feature",
       "id": "way/1125956497",
       "properties": {
-        "timestamp": "2022-12-31T00:11:18Z",
-        "version": 1,
-        "changeset": 130706397,
+        "timestamp": "2024-09-28T00:48:31Z",
+        "version": 2,
+        "changeset": 157192213,
         "addr:city": "Limeira",
         "addr:housenumber": "332",
         "addr:postcode": "13484-397",
@@ -1556,7 +1552,10 @@
         "amenity": "school",
         "email": "e020096a@educacao.sp.gov.br",
         "name": "Escola Estadual Professor Antonio Perches Lordello",
+        "operator": "Secretaria da Educação do Estado de São Paulo",
+        "operator:type": "government",
         "phone": "+55 19 3441 4916",
+        "religion": "none",
         "id": "way/1125956497"
       },
       "geometry": {
@@ -1902,6 +1901,67 @@
     },
     {
       "type": "Feature",
+      "id": "way/1319095118",
+      "properties": {
+        "timestamp": "2024-09-28T20:27:46Z",
+        "version": 1,
+        "changeset": 157227869,
+        "addr:street": "Rua Waldemar Panaro",
+        "addr:suburb": "Parque Residencial Abílio Pedro",
+        "alt_name": "EMEIEF Abílio Pedro",
+        "amenity": "school",
+        "email": "emeief.marciasillmann@edu.limeira.sp.gov.br",
+        "phone": "+55  19 3445 4121",
+        "religion": "none",
+        "short_name": "EMEIEF Professora Marcia Aparecida Della Coletta Sillmann",
+        "id": "way/1319095118"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.4444258,
+              -22.55537
+            ],
+            [
+              -47.4446575,
+              -22.5559977
+            ],
+            [
+              -47.4446359,
+              -22.5560205
+            ],
+            [
+              -47.444571,
+              -22.5560234
+            ],
+            [
+              -47.4437152,
+              -22.5557923
+            ],
+            [
+              -47.4437152,
+              -22.5556667
+            ],
+            [
+              -47.4437368,
+              -22.5555754
+            ],
+            [
+              -47.4438203,
+              -22.5555355
+            ],
+            [
+              -47.4444258,
+              -22.55537
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/2583920884",
       "properties": {
         "timestamp": "2014-04-09T21:04:12Z",
@@ -1937,43 +1997,6 @@
         "coordinates": [
           -47.4308158,
           -22.5592873
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/2584068272",
-      "properties": {
-        "timestamp": "2014-11-07T04:41:54Z",
-        "version": 3,
-        "changeset": 26607729,
-        "amenity": "school",
-        "name": "EMEIEF Professor Aldo José Kuhl",
-        "id": "node/2584068272"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -47.4283046,
-          -22.5586866
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/2584351070",
-      "properties": {
-        "timestamp": "2016-03-15T01:20:03Z",
-        "version": 2,
-        "changeset": 37833518,
-        "amenity": "school",
-        "id": "node/2584351070"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -47.4287434,
-          -22.5589614
         ]
       }
     },
@@ -2097,6 +2120,25 @@
         "coordinates": [
           -47.3754525,
           -22.5615479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12206289638",
+      "properties": {
+        "timestamp": "2024-09-28T02:22:19Z",
+        "version": 1,
+        "changeset": 157193129,
+        "amenity": "school",
+        "name": "Centro de Ciências",
+        "id": "node/12206289638"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.4154498,
+          -22.564292
         ]
       }
     }

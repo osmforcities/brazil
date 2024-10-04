@@ -143,9 +143,9 @@
       "type": "Feature",
       "id": "node/12190959606",
       "properties": {
-        "timestamp": "2024-09-21T20:11:37Z",
-        "version": 1,
-        "changeset": 156927197,
+        "timestamp": "2024-09-29T20:37:53Z",
+        "version": 2,
+        "changeset": 157270439,
         "addr:city": "Campinas",
         "addr:housenumber": "888",
         "addr:postcode": "13073-330",
@@ -155,7 +155,7 @@
         "mobile": "+55 19 988399892",
         "name": "Casa de Repouso Malu",
         "phone": "+55 19 33248978",
-        "social_facility": "group_home",
+        "social_facility": "nursing_home",
         "social_facility:for": "senior",
         "id": "node/12190959606"
       },
@@ -213,6 +213,35 @@
         "coordinates": [
           -47.0700034,
           -22.8902962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12209609784",
+      "properties": {
+        "timestamp": "2024-09-29T20:37:53Z",
+        "version": 1,
+        "changeset": 157270439,
+        "addr:city": "Campinas",
+        "addr:housenumber": "715",
+        "addr:postcode": "13073-221",
+        "addr:street": "Rua Frei Manuel da Ressurreição",
+        "addr:suburb": "Jardim Guanabara",
+        "amenity": "social_facility",
+        "mobile": "+55 (19) 99485-3454",
+        "name": "Doce Viver Casa de Repouso",
+        "phone": "+55 (19) 3579-4401",
+        "social_facility": "nursing_home",
+        "social_facility:for": "senior",
+        "website": "https://casaderepousodoceviver.com.br/",
+        "id": "node/12209609784"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0724384,
+          -22.8903053
         ]
       }
     }

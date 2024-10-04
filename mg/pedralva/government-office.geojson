@@ -50,9 +50,9 @@
       "type": "Feature",
       "id": "way/1221588843",
       "properties": {
-        "timestamp": "2024-07-12T13:12:30Z",
-        "version": 5,
-        "changeset": 153855559,
+        "timestamp": "2024-09-29T18:32:33Z",
+        "version": 6,
+        "changeset": 157266725,
         "building": "office",
         "building:levels": "1",
         "government": "water_utility_company",
@@ -67,24 +67,28 @@
         "coordinates": [
           [
             [
-              -45.4645102,
-              -22.2477072
+              -45.4644928,
+              -22.2477122
             ],
             [
-              -45.4644392,
-              -22.2476772
+              -45.4644388,
+              -22.2476894
             ],
             [
-              -45.4645111,
-              -22.2475314
+              -45.4644218,
+              -22.2476822
             ],
             [
-              -45.4645821,
-              -22.2475614
+              -45.4644937,
+              -22.2475364
             ],
             [
-              -45.4645102,
-              -22.2477072
+              -45.4645647,
+              -22.2475664
+            ],
+            [
+              -45.4644928,
+              -22.2477122
             ]
           ]
         ]
@@ -272,6 +276,47 @@
         "coordinates": [
           -45.4659455,
           -22.246987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12209385862",
+      "properties": {
+        "timestamp": "2024-09-29T18:32:33Z",
+        "version": 1,
+        "changeset": 157266725,
+        "entrance": "main",
+        "id": "node/12209385862"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.4644388,
+          -22.2476894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12209385883",
+      "properties": {
+        "timestamp": "2024-09-29T18:32:33Z",
+        "version": 1,
+        "changeset": 157266725,
+        "addr:housenumber": "74",
+        "addr:street": "Avenida Doutor Jorge Bacha",
+        "addr:suburb": "Centro",
+        "government": "youth_welfare_department",
+        "name": "Conselho Tutelar",
+        "office": "government",
+        "id": "node/12209385883"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.4650305,
+          -22.2460121
         ]
       }
     }

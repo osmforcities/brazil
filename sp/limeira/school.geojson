@@ -54,16 +54,18 @@
       "type": "Feature",
       "id": "way/274708036",
       "properties": {
-        "timestamp": "2022-11-06T19:25:25Z",
-        "version": 2,
-        "changeset": 128567803,
+        "timestamp": "2024-09-29T01:21:47Z",
+        "version": 3,
+        "changeset": 157233600,
         "addr:city": "Limeira",
-        "addr:housenumber": "S/N",
         "addr:postcode": "13481-500",
         "addr:street": "Avenida Doutor Antônio de Luna",
         "addr:suburb": "Parque Residencial Aeroporto",
         "amenity": "school",
         "name": "Escola Estadual Dom Tarcísio Ariovaldo Amaral",
+        "operator": "Secretaria da Educação do Estado de São Paulo",
+        "operator:type": "government",
+        "religion": "none",
         "id": "way/274708036"
       },
       "geometry": {
@@ -122,9 +124,9 @@
       "type": "Feature",
       "id": "way/274708100",
       "properties": {
-        "timestamp": "2019-04-13T01:05:48Z",
-        "version": 3,
-        "changeset": 69166808,
+        "timestamp": "2024-09-29T01:52:04Z",
+        "version": 4,
+        "changeset": 157233950,
         "addr:housenumber": "19",
         "addr:postcode": "13481-115",
         "addr:street": "Rua Professora Yolanda Stocco Pagoto",
@@ -132,8 +134,10 @@
         "amenity": "school",
         "email": "emeief.josejustino@edu.limeira.sp.gov.br",
         "name": "Escola Municipal  de Educação Infantil e Ensino Fundamental Professor José Justino Castilho",
+        "operator": "Secretaria da Educação",
+        "operator:type": "government",
         "phone": "+55 19 3445 1414",
-        "ref": "35249841",
+        "ref:INEP": "35249841",
         "id": "way/274708100"
       },
       "geometry": {
@@ -309,11 +313,20 @@
       "type": "Feature",
       "id": "way/274708603",
       "properties": {
-        "timestamp": "2014-04-15T23:51:12Z",
-        "version": 1,
-        "changeset": 21720202,
+        "timestamp": "2024-09-29T16:20:59Z",
+        "version": 2,
+        "changeset": 157262250,
+        "addr:housenumber": "548",
+        "addr:postcode": "13481-340",
+        "addr:street": "Avenida Fausto Esteves dos Santos",
+        "addr:suburb": "Conjunto Residencial Victor D'Andrea",
         "amenity": "school",
+        "email": "e049529A@educacao.sp.gov.br",
         "name": "Escola Estadual Ataliba Pires do Amaral",
+        "operator": "Secretaria da Educação do Estado de São Paulo",
+        "operator:type": "government",
+        "phone": "+55 19 3441 4071",
+        "religion": "none",
         "id": "way/274708603"
       },
       "geometry": {
@@ -433,12 +446,12 @@
               -22.6045948
             ],
             [
-              -47.4136899,
-              -22.604601
+              -47.4137063,
+              -22.6045745
             ],
             [
-              -47.4136555,
-              -22.6045699
+              -47.413676,
+              -22.6045321
             ],
             [
               -47.4136154,
@@ -1382,18 +1395,19 @@
       "type": "Feature",
       "id": "way/1110836917",
       "properties": {
-        "timestamp": "2022-11-06T19:51:41Z",
-        "version": 1,
-        "changeset": 128568452,
+        "timestamp": "2024-09-29T01:21:47Z",
+        "version": 2,
+        "changeset": 157233600,
         "addr:city": "Limeira",
-        "addr:housenumber": "S/N",
         "addr:postcode": "13481-603",
         "addr:street": "Rua José Joaquim Duarte do Pateo",
         "addr:suburb": "Jardim do Lago",
         "amenity": "school",
         "grades": "6-12",
         "name": "Escola Estadual Gustavo Peccinini",
-        "phone": "+55 (19) 3451-0003",
+        "operator": "Secretaria da Educação do Estado de São Paulo",
+        "operator:type": "government",
+        "phone": "+55 19 3451 0003",
         "id": "way/1110836917"
       },
       "geometry": {
@@ -1436,18 +1450,19 @@
       "type": "Feature",
       "id": "way/1110836918",
       "properties": {
-        "timestamp": "2022-11-06T19:51:41Z",
-        "version": 1,
-        "changeset": 128568452,
+        "timestamp": "2024-09-29T01:21:47Z",
+        "version": 2,
+        "changeset": 157233600,
         "addr:city": "Limeira",
         "addr:housenumber": "S/N",
         "addr:postcode": "13481-604",
         "addr:street": "Avenida Dorival Faveri",
         "addr:suburb": "Jardim do Lago",
         "amenity": "school",
+        "email": "emeief.mariadegaspare@edu.limeira.sp.gov.br",
         "grades": "0-5",
-        "name": "EMEIEF Profa. Maria Aparecida Degaspare",
-        "phone": "+55 (19) 3442-7624",
+        "phone": "+55 19 3442 7624",
+        "short_name": "EMEIEF Professora Maria Aparecida Degaspare",
         "id": "way/1110836918"
       },
       "geometry": {
@@ -1955,6 +1970,83 @@
             [
               -47.4444258,
               -22.55537
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1319132606",
+      "properties": {
+        "timestamp": "2024-09-29T00:15:36Z",
+        "version": 1,
+        "changeset": 157232711,
+        "addr:housenumber": "200",
+        "addr:street": "Rua Sebastião Teixeira",
+        "addr:suburb": "Residencial Rubi",
+        "amenity": "school",
+        "email": "emeief.raquelfranceschi@edu.limeira.sp.gov.br",
+        "religion": "none",
+        "short_name": "EMEIEF Professora Raquel Aparecida Gonçalves Franceschi",
+        "wheelchair": "yes",
+        "id": "way/1319132606"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.4280422,
+              -22.6155164
+            ],
+            [
+              -47.4282782,
+              -22.6157862
+            ],
+            [
+              -47.4285866,
+              -22.6155634
+            ],
+            [
+              -47.42893,
+              -22.6160116
+            ],
+            [
+              -47.4288602,
+              -22.616118
+            ],
+            [
+              -47.4279,
+              -22.6167915
+            ],
+            [
+              -47.4278571,
+              -22.6168039
+            ],
+            [
+              -47.4278061,
+              -22.616789
+            ],
+            [
+              -47.4277766,
+              -22.616742
+            ],
+            [
+              -47.4277498,
+              -22.6160289
+            ],
+            [
+              -47.4278061,
+              -22.6160091
+            ],
+            [
+              -47.4277015,
+              -22.615759
+            ],
+            [
+              -47.4280422,
+              -22.6155164
             ]
           ]
         ]

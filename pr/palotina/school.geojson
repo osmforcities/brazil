@@ -238,9 +238,9 @@
       "type": "Feature",
       "id": "way/345796895",
       "properties": {
-        "timestamp": "2022-04-21T18:01:52Z",
-        "version": 5,
-        "changeset": 120013500,
+        "timestamp": "2024-09-29T22:32:29Z",
+        "version": 6,
+        "changeset": 157273026,
         "addr:city": "Palotina",
         "addr:housenumber": "486",
         "addr:postcode": "85950-000",
@@ -259,12 +259,12 @@
               -24.2811767
             ],
             [
-              -53.844963,
-              -24.2811308
+              -53.8449789,
+              -24.2811351
             ],
             [
-              -53.8445523,
-              -24.2810201
+              -53.8445687,
+              -24.2810245
             ],
             [
               -53.8444666,
@@ -372,13 +372,12 @@
       "type": "Feature",
       "id": "way/356796852",
       "properties": {
-        "timestamp": "2019-06-18T21:04:34Z",
-        "version": 5,
-        "changeset": 71380530,
+        "timestamp": "2024-09-29T13:52:07Z",
+        "version": 6,
+        "changeset": 157254673,
         "addr:city": "Palotina",
         "addr:country": "BR",
         "addr:housenumber": "1513",
-        "addr:place": "Escola Estadual Professora Shirley Saurin",
         "addr:postcode": "85950-000",
         "addr:street": "Avenida Shirley Saurin",
         "addr:suburb": "Jardim Ouro Verde",
@@ -420,6 +419,10 @@
             [
               -53.837963,
               -24.2647789
+            ],
+            [
+              -53.8373946,
+              -24.2647772
             ],
             [
               -53.8373505,
@@ -1293,10 +1296,11 @@
       "type": "Feature",
       "id": "node/6537570747",
       "properties": {
-        "timestamp": "2019-06-10T17:07:42Z",
-        "version": 1,
-        "changeset": 71111093,
+        "timestamp": "2024-09-29T22:32:29Z",
+        "version": 2,
+        "changeset": 157273026,
         "highway": "crossing",
+        "traffic_calming": "table",
         "id": "node/6537570747"
       },
       "geometry": {
@@ -1329,17 +1333,17 @@
       "type": "Feature",
       "id": "node/6556242606",
       "properties": {
-        "timestamp": "2019-06-18T21:04:34Z",
-        "version": 1,
-        "changeset": 71380530,
+        "timestamp": "2024-09-29T22:32:29Z",
+        "version": 2,
+        "changeset": 157273026,
         "traffic_calming": "bump",
         "id": "node/6556242606"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -53.844963,
-          -24.2811308
+          -53.8449789,
+          -24.2811351
         ]
       }
     },
@@ -1347,17 +1351,17 @@
       "type": "Feature",
       "id": "node/9683389410",
       "properties": {
-        "timestamp": "2022-04-21T18:01:52Z",
-        "version": 1,
-        "changeset": 120013500,
+        "timestamp": "2024-09-29T22:32:29Z",
+        "version": 2,
+        "changeset": 157273026,
         "traffic_calming": "bump",
         "id": "node/9683389410"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -53.8445523,
-          -24.2810201
+          -53.8445687,
+          -24.2810245
         ]
       }
     },
@@ -1396,6 +1400,24 @@
         "coordinates": [
           -53.8446436,
           -24.2787852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12208964533",
+      "properties": {
+        "timestamp": "2024-09-29T13:52:07Z",
+        "version": 1,
+        "changeset": 157254673,
+        "traffic_calming": "table",
+        "id": "node/12208964533"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.8373946,
+          -24.2647772
         ]
       }
     }

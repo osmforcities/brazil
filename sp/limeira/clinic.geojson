@@ -77,11 +77,94 @@
     },
     {
       "type": "Feature",
+      "id": "way/1089920619",
+      "properties": {
+        "timestamp": "2024-09-29T00:15:36Z",
+        "version": 2,
+        "changeset": 157232711,
+        "addr:housenumber": "100",
+        "addr:street": "Rua Professora Maria Expedita Cordeiro da Silva",
+        "addr:suburb": "Residencial Rubi",
+        "amenity": "clinic",
+        "building:levels": "2",
+        "healthcare": "clinic",
+        "height": "6",
+        "name": "Ambulatório de Especialidades Doutor Hélio Márcio Mamede",
+        "opening_hours": "Mo-Su 07:00-19:00; PH off",
+        "operator": "Secretaria da Saúde",
+        "operator:type": "government",
+        "phone": "+55 19 3441 3637",
+        "ref:CNES": "0064203",
+        "source": "CNES;https://www.limeira.sp.gov.br/ubs",
+        "id": "way/1089920619"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.4284026,
+              -22.6156213
+            ],
+            [
+              -47.4283371,
+              -22.6155495
+            ],
+            [
+              -47.4282822,
+              -22.6155952
+            ],
+            [
+              -47.4282256,
+              -22.6155397
+            ],
+            [
+              -47.428284,
+              -22.6154907
+            ],
+            [
+              -47.4282044,
+              -22.615409
+            ],
+            [
+              -47.4282999,
+              -22.6153338
+            ],
+            [
+              -47.4283672,
+              -22.6154155
+            ],
+            [
+              -47.4283902,
+              -22.6154041
+            ],
+            [
+              -47.4284592,
+              -22.6154792
+            ],
+            [
+              -47.4284344,
+              -22.6154907
+            ],
+            [
+              -47.428491,
+              -22.6155511
+            ],
+            [
+              -47.4284026,
+              -22.6156213
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1105777249",
       "properties": {
-        "timestamp": "2023-06-08T23:20:39Z",
-        "version": 2,
-        "changeset": 137115154,
+        "timestamp": "2024-09-29T16:01:31Z",
+        "version": 3,
+        "changeset": 157261242,
         "addr:housenumber": "1973",
         "addr:postcode": "13481-169",
         "addr:street": "Avenida Pedro Perissotto",
@@ -89,8 +172,15 @@
         "amenity": "clinic",
         "building": "yes",
         "healthcare": "clinic",
-        "name": "UBS Campo Belo",
+        "healthcare:speciality": "general;vaccination",
+        "name": "Unidade Básica de Saúde Campo Belo",
+        "opening_hours": "Mo-Fr 07:00-17:00; PH off",
+        "operator": "Secretaria de Saúde",
+        "operator:type": "government",
         "phone": "+55 19 3441 0942",
+        "ref:CNES": "3045617",
+        "short_name": "UBS Campo Belo",
+        "source": "https://www.limeira.sp.gov.br/ubs;CNES",
         "id": "way/1105777249"
       },
       "geometry": {
@@ -98,28 +188,40 @@
         "coordinates": [
           [
             [
-              -47.3883228,
-              -22.5991916
+              -47.3882231,
+              -22.5991435
             ],
             [
-              -47.388206,
-              -22.5991463
+              -47.3880989,
+              -22.5990397
             ],
             [
-              -47.3882235,
-              -22.599046
+              -47.3881505,
+              -22.5989679
             ],
             [
-              -47.3884278,
-              -22.5988811
+              -47.3882112,
+              -22.599032
             ],
             [
-              -47.3885481,
-              -22.5989738
+              -47.3882871,
+              -22.5989552
             ],
             [
-              -47.3883228,
-              -22.5991916
+              -47.3882204,
+              -22.5988993
+            ],
+            [
+              -47.3882761,
+              -22.5988476
+            ],
+            [
+              -47.3884054,
+              -22.5989487
+            ],
+            [
+              -47.3882231,
+              -22.5991435
             ]
           ]
         ]
@@ -281,56 +383,255 @@
     },
     {
       "type": "Feature",
-      "id": "node/2793858052",
+      "id": "way/1319137050",
       "properties": {
-        "timestamp": "2022-11-06T22:00:07Z",
-        "version": 3,
-        "changeset": 128571948,
-        "addr:city": "Limeira",
-        "addr:housenumber": "S/N",
-        "addr:postcode": "13481-340",
-        "addr:street": "Avenida Fausto Esteves dos Santos",
-        "addr:suburb": "Parque Victor D'Andrea",
+        "timestamp": "2024-09-29T01:21:47Z",
+        "version": 1,
+        "changeset": 157233600,
+        "addr:postcode": "13481-500",
+        "addr:street": "Avenida Doutor Antônio de Luna",
+        "addr:suburb": "Parque Jardim Aeroporto",
         "amenity": "clinic",
+        "building": "yes",
         "healthcare": "clinic",
-        "name": "UBS Cecap",
-        "phone": "+55 (19) 3442-5927",
-        "phone_1": "+55 (19) 3442-4712",
-        "id": "node/2793858052"
+        "healthcare:speciality": "general;vaccination",
+        "name": "Unidade Básica de Saúde Aeroporto",
+        "opening_hours": "Mo-Fr 07:00-17:00; PH off",
+        "operator": "Secretaria de Saúde",
+        "operator:type": "government",
+        "phone": "+55 19 3442 5931",
+        "ref:CNES": "2051591",
+        "short_name": "UBS Aeroporto",
+        "id": "way/1319137050"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -47.4007354,
-          -22.5929372
+          [
+            [
+              -47.4177665,
+              -22.6002403
+            ],
+            [
+              -47.4176812,
+              -22.6003894
+            ],
+            [
+              -47.4175959,
+              -22.6005384
+            ],
+            [
+              -47.4175593,
+              -22.6005188
+            ],
+            [
+              -47.4175304,
+              -22.6005694
+            ],
+            [
+              -47.4173994,
+              -22.6005145
+            ],
+            [
+              -47.4173963,
+              -22.6004864
+            ],
+            [
+              -47.4174055,
+              -22.6004512
+            ],
+            [
+              -47.4173735,
+              -22.600433
+            ],
+            [
+              -47.4175746,
+              -22.6001432
+            ],
+            [
+              -47.4177665,
+              -22.6002403
+            ]
+          ]
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "node/10163835187",
+      "id": "way/1319141389",
       "properties": {
-        "timestamp": "2022-11-06T21:05:17Z",
+        "timestamp": "2024-09-29T02:20:26Z",
         "version": 1,
-        "changeset": 128570703,
-        "addr:city": "Limeira",
-        "addr:housenumber": "S/N",
-        "addr:postcode": "13481-780",
-        "addr:street": "Avenida Doutor Antônio de Luna",
-        "addr:suburb": "Jardim Aeroporto",
+        "changeset": 157234277,
+        "addr:housenumber": "162",
+        "addr:postcode": "13486-122",
+        "addr:street": "Rua Castro Barreto",
+        "addr:suburb": "Boa Vista",
         "amenity": "clinic",
+        "building": "yes",
         "healthcare": "clinic",
-        "name": "UBS Aeroporto",
-        "opening_hours": "Mo-Fr 08:00-12:00,13:00-16:00; Sa off",
-        "phone": "+55 (19) 3442-5931",
-        "phone_1": "+55 (19) 3444-4657",
-        "id": "node/10163835187"
+        "healthcare:speciality": "general;vaccination",
+        "name": "Unidade Básica de Saúde Boa Vista",
+        "opening_hours": "Mo-Fr 07:00-17:00; `PH off",
+        "operator": "Secretaria de Saúde",
+        "operator:type": "government",
+        "phone": "+55 19 3451 2021",
+        "ref:CNES": "2056046",
+        "short_name": "UBS Boa Vista",
+        "source": "https://www.limeira.sp.gov.br/ubs;CNES",
+        "id": "way/1319141389"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -47.4175275,
-          -22.6002566
+          [
+            [
+              -47.3941058,
+              -22.5610477
+            ],
+            [
+              -47.3941728,
+              -22.5610948
+            ],
+            [
+              -47.3940816,
+              -22.5611914
+            ],
+            [
+              -47.3940146,
+              -22.5611492
+            ],
+            [
+              -47.3941058,
+              -22.5610477
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1319279680",
+      "properties": {
+        "timestamp": "2024-09-29T16:20:59Z",
+        "version": 1,
+        "changeset": 157262250,
+        "addr:postcode": "13481-340",
+        "addr:street": "Avenida Fausto Esteves dos Santos",
+        "addr:suburb": "Conjunto Residencial Victor D'Andrea",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general;vaccination",
+        "name": "Unidade Básica de Saúde Doutor Antônio de Luna",
+        "opening_hours": "Mo-Fr 07:00-17:00; PH off",
+        "operator": "Secretaria de Saúde",
+        "operator:type": "government",
+        "phone": "+55 19 3442 5927",
+        "short_name": "UBS Cecap",
+        "id": "way/1319279680"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.4008727,
+              -22.5928426
+            ],
+            [
+              -47.4007703,
+              -22.5931314
+            ],
+            [
+              -47.4005477,
+              -22.593059
+            ],
+            [
+              -47.4006621,
+              -22.5927595
+            ],
+            [
+              -47.400793,
+              -22.5927966
+            ],
+            [
+              -47.4007873,
+              -22.5928128
+            ],
+            [
+              -47.4008727,
+              -22.5928426
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1319281892",
+      "properties": {
+        "timestamp": "2024-09-29T16:32:46Z",
+        "version": 1,
+        "changeset": 157262671,
+        "addr:housenumber": "153",
+        "addr:postcode": "13481-738",
+        "addr:street": "Rua Luiz Pereira do Prado",
+        "addr:suburb": "Jardim Graminha I",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general;vaccination",
+        "name": "Unidade Básica de Saúde Doutor José da Silva Seabra",
+        "opening_hours": "Mo-Fr 07:00-17:00; PH off",
+        "operator": "Secretaria de Saúde",
+        "operator:type": "government",
+        "ref:CNES": "7200277",
+        "short_name": "UBS Graminha",
+        "source": "CNES;https://www.limeira.sp.gov.br/ubs",
+        "id": "way/1319281892"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.4311089,
+              -22.5907939
+            ],
+            [
+              -47.4312162,
+              -22.590997
+            ],
+            [
+              -47.4311331,
+              -22.5910416
+            ],
+            [
+              -47.4311143,
+              -22.591002
+            ],
+            [
+              -47.4310607,
+              -22.5910292
+            ],
+            [
+              -47.4310285,
+              -22.5909822
+            ],
+            [
+              -47.4309936,
+              -22.5909921
+            ],
+            [
+              -47.43094,
+              -22.5908682
+            ],
+            [
+              -47.4311089,
+              -22.5907939
+            ]
+          ]
         ]
       }
     }

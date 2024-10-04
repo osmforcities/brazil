@@ -2841,9 +2841,9 @@
       "type": "Feature",
       "id": "node/8445430718",
       "properties": {
-        "timestamp": "2024-09-24T12:39:32Z",
-        "version": 2,
-        "changeset": 157038015,
+        "timestamp": "2024-09-29T21:00:27Z",
+        "version": 3,
+        "changeset": 157270965,
         "addr:city": "Campinas",
         "addr:housenumber": "2116",
         "addr:postcode": "13070-000",
@@ -2855,6 +2855,7 @@
         "brand:wikipedia": "pt:RaiaDrogasil",
         "dispensing": "yes",
         "healthcare": "pharmacy",
+        "mobile": "+55 (19) 99615-9217",
         "name": "Droga Raia",
         "opening_hours": "24/7",
         "id": "node/8445430718"
@@ -3183,6 +3184,35 @@
         "coordinates": [
           -47.0718582,
           -22.89213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12209566184",
+      "properties": {
+        "timestamp": "2024-09-29T21:00:27Z",
+        "version": 1,
+        "changeset": 157270965,
+        "addr:city": "Campinas",
+        "addr:housenumber": "60",
+        "addr:postcode": "13070-143",
+        "addr:street": "Rua Orlando Carpino",
+        "addr:suburb": "Jardim Chapadão",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "mobile": "+55 (19) 99797-9693",
+        "name": "Animalia Farma",
+        "opening_hours": "Mo-Fr 08:30-18:00; Sa 08:00-12:30",
+        "phone": "+55 (19) 3241-2279",
+        "website": "https://animaliafarma.com.br/campinas/",
+        "id": "node/12209566184"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0756291,
+          -22.8909236
         ]
       }
     }

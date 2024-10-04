@@ -2713,21 +2713,104 @@
     },
     {
       "type": "Feature",
-      "id": "node/1881549750",
+      "id": "way/1312720781",
       "properties": {
-        "timestamp": "2019-09-07T00:31:38Z",
+        "timestamp": "2024-09-30T19:42:28Z",
         "version": 2,
-        "changeset": 74195950,
+        "changeset": 157312526,
         "amenity": "clinic",
+        "building": "yes",
+        "description": "Clínica odontológica do PSF",
         "healthcare": "clinic",
-        "name": "USB Baú e Lixeira",
-        "id": "node/1881549750"
+        "healthcare:speciality": "orthodontics",
+        "operator": "Sistema Único de Saúde",
+        "operator:short": "SUS",
+        "operator:wikidata": "Q7531056",
+        "source": "microsoft/BuildingFootprints",
+        "id": "way/1312720781"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -56.0830123,
-          -15.5924519
+          [
+            [
+              -56.0829196,
+              -15.5923116
+            ],
+            [
+              -56.0828178,
+              -15.5923151
+            ],
+            [
+              -56.0828152,
+              -15.5922429
+            ],
+            [
+              -56.082917,
+              -15.5922394
+            ],
+            [
+              -56.0829181,
+              -15.5922713
+            ],
+            [
+              -56.0829196,
+              -15.5923116
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1312720783",
+      "properties": {
+        "timestamp": "2024-09-30T19:42:28Z",
+        "version": 2,
+        "changeset": 157312526,
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "PSF Baú e Lixeira",
+        "operator": "Sistema Único de Saúde",
+        "operator:short": "SUS",
+        "operator:wikidata": "Q7531056",
+        "source": "microsoft/BuildingFootprints",
+        "id": "way/1312720783"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -56.0828709,
+              -15.5923565
+            ],
+            [
+              -56.0829584,
+              -15.5923317
+            ],
+            [
+              -56.082995,
+              -15.5923213
+            ],
+            [
+              -56.0830922,
+              -15.5924382
+            ],
+            [
+              -56.0830067,
+              -15.5925715
+            ],
+            [
+              -56.0828952,
+              -15.5925251
+            ],
+            [
+              -56.0828709,
+              -15.5923565
+            ]
+          ]
         ]
       }
     },
@@ -2887,6 +2970,44 @@
         "coordinates": [
           -56.0912593,
           -15.6024643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12212488745",
+      "properties": {
+        "timestamp": "2024-09-30T19:42:28Z",
+        "version": 1,
+        "changeset": 157312526,
+        "door": "yes",
+        "indoor": "door",
+        "id": "node/12212488745"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.0829584,
+          -15.5923317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12212488748",
+      "properties": {
+        "timestamp": "2024-09-30T19:42:28Z",
+        "version": 1,
+        "changeset": 157312526,
+        "door": "yes",
+        "indoor": "door",
+        "id": "node/12212488748"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.0829181,
+          -15.5922713
         ]
       }
     }

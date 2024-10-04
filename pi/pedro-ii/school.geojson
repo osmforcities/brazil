@@ -5,11 +5,11 @@
       "type": "Feature",
       "id": "relation/12175300",
       "properties": {
-        "timestamp": "2021-01-12T15:43:42Z",
-        "version": 1,
-        "changeset": 97383882,
+        "timestamp": "2024-09-30T15:11:20Z",
+        "version": 2,
+        "changeset": 157302633,
         "amenity": "school",
-        "name": "U.E. Tertuliano Brandão Filho",
+        "short_name": "U.E. Tertuliano Brandão Filho",
         "type": "multipolygon",
         "id": "relation/12175300"
       },
@@ -45,12 +45,13 @@
       "type": "Feature",
       "id": "relation/12175301",
       "properties": {
-        "timestamp": "2021-01-12T15:43:42Z",
-        "version": 1,
-        "changeset": 97383882,
+        "timestamp": "2024-09-30T15:11:20Z",
+        "version": 2,
+        "changeset": 157302633,
         "amenity": "school",
-        "name": "CEEP Prof. Angelina Mendes Braga",
         "operator": "Governo do PI",
+        "operator:type": "government",
+        "short_name": "CEEP Professor Angelina Mendes Braga",
         "type": "multipolygon",
         "id": "relation/12175301"
       },
@@ -86,11 +87,11 @@
       "type": "Feature",
       "id": "way/551987735",
       "properties": {
-        "timestamp": "2020-09-22T14:56:22Z",
-        "version": 2,
-        "changeset": 91304165,
+        "timestamp": "2024-09-30T15:11:20Z",
+        "version": 3,
+        "changeset": 157302633,
         "amenity": "school",
-        "name": "U. E. Dep. Milton Brandão",
+        "short_name": "U. E. Deputado Milton Brandão",
         "id": "way/551987735"
       },
       "geometry": {
@@ -185,11 +186,12 @@
       "type": "Feature",
       "id": "way/830930515",
       "properties": {
-        "timestamp": "2020-07-27T22:27:10Z",
-        "version": 1,
-        "changeset": 88587709,
+        "timestamp": "2024-09-30T15:36:53Z",
+        "version": 2,
+        "changeset": 157303708,
         "amenity": "school",
         "name": "Escola Municipal Ines Passos Galvão",
+        "religion": "none",
         "id": "way/830930515"
       },
       "geometry": {
@@ -236,11 +238,13 @@
       "type": "Feature",
       "id": "way/850162191",
       "properties": {
-        "timestamp": "2020-09-22T14:58:24Z",
-        "version": 1,
-        "changeset": 91304277,
+        "timestamp": "2024-09-30T15:36:53Z",
+        "version": 2,
+        "changeset": 157303708,
+        "addr:suburb": "Santo Antônio",
         "amenity": "school",
         "name": "Escola Thomaz Café de Oliveira",
+        "religion": "none",
         "id": "way/850162191"
       },
       "geometry": {
@@ -428,54 +432,11 @@
     },
     {
       "type": "Feature",
-      "id": "way/850300850",
-      "properties": {
-        "timestamp": "2024-08-16T12:56:55Z",
-        "version": 4,
-        "changeset": 155326565,
-        "amenity": "school",
-        "name": "Escola Municipl de Educação Infantil Vovó Inácia",
-        "id": "way/850300850"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -41.4506535,
-              -4.4277002
-            ],
-            [
-              -41.4506292,
-              -4.4276482
-            ],
-            [
-              -41.4505999,
-              -4.4275853
-            ],
-            [
-              -41.4509849,
-              -4.4274153
-            ],
-            [
-              -41.4510399,
-              -4.4275343
-            ],
-            [
-              -41.4506535,
-              -4.4277002
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/850520897",
       "properties": {
-        "timestamp": "2022-02-13T13:55:48Z",
-        "version": 2,
-        "changeset": 117354938,
+        "timestamp": "2024-09-30T15:11:20Z",
+        "version": 3,
+        "changeset": 157302633,
         "addr:city": "Pedro II",
         "addr:housenumber": "460",
         "addr:postcode": "64255-000",
@@ -483,6 +444,7 @@
         "addr:suburb": "Centro",
         "amenity": "school",
         "name": "COESP",
+        "religion": "none",
         "id": "way/850520897"
       },
       "geometry": {
@@ -625,15 +587,15 @@
       "type": "Feature",
       "id": "way/1030815698",
       "properties": {
-        "timestamp": "2022-02-13T00:08:34Z",
-        "version": 2,
-        "changeset": 117339404,
+        "timestamp": "2024-09-30T15:11:20Z",
+        "version": 3,
+        "changeset": 157302633,
         "addr:city": "Pedro II",
         "addr:housenumber": "910",
         "addr:postcode": "64255-000",
         "addr:street": "Rua Lauro Cordeiro",
         "amenity": "school",
-        "name": "U E Maria Mendes Mourao",
+        "short_name": "U E Maria Mendes Mourão",
         "id": "way/1030815698"
       },
       "geometry": {
@@ -845,30 +807,6 @@
         "coordinates": [
           -41.4505655,
           -4.4235639
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/9021371136",
-      "properties": {
-        "timestamp": "2023-02-23T14:13:12Z",
-        "version": 2,
-        "changeset": 132928403,
-        "addr:city": "Pedro II",
-        "addr:housenumber": "255",
-        "addr:postcode": "64255-000",
-        "addr:street": "Rua Lauro Cordeiro",
-        "addr:suburb": "Centro",
-        "amenity": "school",
-        "name": "Escola De Educação Infantil Vovo Inacia",
-        "id": "node/9021371136"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -41.4506292,
-          -4.4276482
         ]
       }
     },
@@ -1123,11 +1061,13 @@
       "type": "Feature",
       "id": "node/9501766656",
       "properties": {
-        "timestamp": "2023-03-21T13:12:11Z",
-        "version": 2,
-        "changeset": 133940490,
+        "timestamp": "2024-09-30T15:36:53Z",
+        "version": 3,
+        "changeset": 157303708,
+        "addr:street": "Avenida Coronel Cordeiro",
         "amenity": "school",
-        "name": "Esc de Ed Especial Pe Norberto APAE",
+        "name": "Escola de Educação Especial  Padre  Norberto",
+        "operator": "APAE",
         "id": "node/9501766656"
       },
       "geometry": {
@@ -1142,15 +1082,15 @@
       "type": "Feature",
       "id": "node/9502636898",
       "properties": {
-        "timestamp": "2022-02-13T13:56:38Z",
-        "version": 1,
-        "changeset": 117354969,
+        "timestamp": "2024-09-30T16:43:13Z",
+        "version": 2,
+        "changeset": 157306387,
         "addr:city": "Pedro II",
         "addr:postcode": "64255-000",
         "addr:street": "Rua Tertuliano Brandão Filho",
         "addr:suburb": "Centro",
         "amenity": "school",
-        "name": "Esc Mul Jose Teixeira Santos",
+        "name": "Escola Municipal José Teixeira Santos",
         "phone": "+55 86 3271 1405",
         "id": "node/9502636898"
       },
@@ -1228,29 +1168,6 @@
         "coordinates": [
           -41.459413,
           -4.4245426
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/9502715836",
-      "properties": {
-        "timestamp": "2022-02-13T13:58:52Z",
-        "version": 1,
-        "changeset": 117355035,
-        "addr:city": "Pedro II",
-        "addr:postcode": "64255-000",
-        "addr:street": "Rua Waldemar Martins",
-        "addr:suburb": "Santo Antônio",
-        "amenity": "school",
-        "name": "Unid Esc Tomaz Cafe De Oliveira",
-        "id": "node/9502715836"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -41.4579861,
-          -4.430859
         ]
       }
     },

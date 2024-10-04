@@ -536,13 +536,20 @@
       "type": "Feature",
       "id": "node/6838738079",
       "properties": {
-        "timestamp": "2020-03-27T14:07:18Z",
-        "version": 2,
-        "changeset": 82718464,
+        "timestamp": "2024-09-30T17:18:01Z",
+        "version": 3,
+        "changeset": 157307801,
+        "addr:city": "Campinas",
         "addr:housenumber": "719",
+        "addr:postcode": "13073-141",
+        "addr:street": "Rua Dona Rosa de Gusmão",
+        "addr:suburb": "Jardim Guanabara",
         "amenity": "dentist",
         "healthcare": "dentist",
         "name": "Valejo Piva",
+        "opening_hours": "Mo-Fr 08:00-18:00",
+        "phone": "+55 (19)3213-8668",
+        "website": "https://valejopiva.com.br/",
         "id": "node/6838738079"
       },
       "geometry": {
@@ -980,6 +987,33 @@
         "coordinates": [
           -47.073425,
           -22.8909342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12212230424",
+      "properties": {
+        "timestamp": "2024-09-30T17:18:01Z",
+        "version": 1,
+        "changeset": 157307801,
+        "addr:city": "Campinas",
+        "addr:housenumber": "980",
+        "addr:postcode": "13070-118",
+        "addr:street": "Rua Doutor Miguel Penteado",
+        "addr:suburb": "Jardim Chapadão",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "Dra. Mônica Cantadori",
+        "phone": "+55 (19) 3243-1088",
+        "website": "https://www.monicacantadori.com.br/",
+        "id": "node/12212230424"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0710885,
+          -22.8853691
         ]
       }
     }

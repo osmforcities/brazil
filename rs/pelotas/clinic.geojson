@@ -498,6 +498,121 @@
     },
     {
       "type": "Feature",
+      "id": "way/1319736676",
+      "properties": {
+        "timestamp": "2024-09-30T22:39:23Z",
+        "version": 1,
+        "changeset": 157316552,
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "operator": "Secretaria Municipal de Saúde",
+        "short_name": "UBS Simões Lopes",
+        "id": "way/1319736676"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -52.3567964,
+              -31.7738024
+            ],
+            [
+              -52.3567903,
+              -31.7738878
+            ],
+            [
+              -52.356478,
+              -31.773849
+            ],
+            [
+              -52.3564734,
+              -31.7737583
+            ],
+            [
+              -52.3564902,
+              -31.7737622
+            ],
+            [
+              -52.3564856,
+              -31.7737259
+            ],
+            [
+              -52.3566029,
+              -31.7737454
+            ],
+            [
+              -52.3566044,
+              -31.7737752
+            ],
+            [
+              -52.3567964,
+              -31.7738024
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1319741654",
+      "properties": {
+        "timestamp": "2024-09-30T23:35:20Z",
+        "version": 1,
+        "changeset": 157317335,
+        "addr:housenumber": "939",
+        "addr:postcode": "96020-720",
+        "addr:street": "Rua Doutor Amarante",
+        "addr:suburb": "Centro",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Unidade Básica de Saúde Sansca",
+        "opening_hours": "MO-Fr 08:00-12:00,13:00-17:00",
+        "operator": "Secretaria Municipal de Saúde",
+        "operator:type": "government",
+        "phone": "+55 53 3222 7980",
+        "ref:CNES": "2253143",
+        "short_name": "UBS Sansca",
+        "source": "CNES",
+        "id": "way/1319741654"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -52.346734,
+              -31.756793
+            ],
+            [
+              -52.3467748,
+              -31.75689
+            ],
+            [
+              -52.3468155,
+              -31.756987
+            ],
+            [
+              -52.3467154,
+              -31.7570167
+            ],
+            [
+              -52.3466246,
+              -31.7568187
+            ],
+            [
+              -52.346734,
+              -31.756793
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/1362236783",
       "properties": {
         "timestamp": "2021-01-29T21:01:15Z",
@@ -602,28 +717,6 @@
         "coordinates": [
           -52.3740229,
           -31.7628134
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/4816827244",
-      "properties": {
-        "timestamp": "2021-01-29T21:01:15Z",
-        "version": 3,
-        "changeset": 98389164,
-        "amenity": "clinic",
-        "healthcare": "clinic",
-        "name": "UBS Simões Lopes",
-        "operator": "Secretaria Municipal de Saúde",
-        "source": "local_knowledge",
-        "id": "node/4816827244"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -52.3566929,
-          -31.7738623
         ]
       }
     },
@@ -754,49 +847,6 @@
         "coordinates": [
           -52.355061,
           -31.7147181
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/4826192445",
-      "properties": {
-        "timestamp": "2021-01-29T21:01:15Z",
-        "version": 3,
-        "changeset": 98389164,
-        "amenity": "clinic",
-        "healthcare": "clinic",
-        "name": "UBS Sansca",
-        "operator": "Secretaria Municipal de Saúde",
-        "source": "CNEFE/IBGE",
-        "id": "node/4826192445"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -52.3467744,
-          -31.7569158
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/4826192446",
-      "properties": {
-        "timestamp": "2021-01-29T21:01:15Z",
-        "version": 3,
-        "changeset": 98389164,
-        "amenity": "clinic",
-        "healthcare": "clinic",
-        "name": "Centro de Saúde",
-        "operator": "Secretaria Municipal de Saúde",
-        "id": "node/4826192446"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -52.3502398,
-          -31.7675989
         ]
       }
     },
@@ -1280,38 +1330,6 @@
         "coordinates": [
           -52.3483059,
           -31.7657107
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/7574137321",
-      "properties": {
-        "timestamp": "2023-06-16T02:10:05Z",
-        "version": 2,
-        "changeset": 137394205,
-        "addr:city": "Pelotas",
-        "addr:housenumber": "107",
-        "addr:postcode": "96025-390",
-        "addr:street": "Avenida Visconde da Graça",
-        "addr:suburb": "Simões Lopes",
-        "amenity": "clinic",
-        "fixme": "aguarde confirmação",
-        "healthcare": "clinic",
-        "name": "UBS Simões Lopes",
-        "opening_hours": "7:30 - 17:30 não fecha ao meio dia",
-        "operator": "Secretaria Municipal de Saúde",
-        "operator:ref:vatin": "BR87455531001200",
-        "operator:type": "public",
-        "phone": "+55 53 3225 8008",
-        "ref:CNES": "2253283",
-        "id": "node/7574137321"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -52.3560164,
-          -31.7749773
         ]
       }
     },

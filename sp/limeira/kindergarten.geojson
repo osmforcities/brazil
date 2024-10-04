@@ -5,11 +5,18 @@
       "type": "Feature",
       "id": "way/550002019",
       "properties": {
-        "timestamp": "2024-09-28T18:20:56Z",
-        "version": 2,
-        "changeset": 157222869,
+        "timestamp": "2024-09-30T01:01:45Z",
+        "version": 3,
+        "changeset": 157275124,
+        "addr:housenumber": "220",
+        "addr:street": "Rua Fleming",
+        "addr:suburb": "Jardim Brasil",
         "amenity": "kindergarten",
+        "email": "ci.josereinaldo@edu.limeira.sp.gov.br",
         "name": "Centro Infantil José Reinaldo Ribeiro Brugnaro",
+        "operator": "Secretaria da Educação",
+        "operator:type": "government",
+        "phone": "+55 19 3441 5193",
         "id": "way/550002019"
       },
       "geometry": {
@@ -369,6 +376,47 @@
             [
               -47.3719446,
               -22.5810344
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1319370835",
+      "properties": {
+        "timestamp": "2024-09-30T01:13:51Z",
+        "version": 1,
+        "changeset": 157275331,
+        "addr:street": "Rua Sebastião Tolêdo",
+        "addr:suburb": "Vila Castelar",
+        "amenity": "kindergarten",
+        "name": "Escola de Educação Infantil Risca Rabisca",
+        "id": "way/1319370835"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.4135824,
+              -22.5496695
+            ],
+            [
+              -47.4136807,
+              -22.5497894
+            ],
+            [
+              -47.413621,
+              -22.5498332
+            ],
+            [
+              -47.4135245,
+              -22.5497149
+            ],
+            [
+              -47.4135824,
+              -22.5496695
             ]
           ]
         ]

@@ -5,11 +5,11 @@
       "type": "Feature",
       "id": "way/425195552",
       "properties": {
-        "timestamp": "2019-06-21T22:20:44Z",
-        "version": 3,
-        "changeset": 71497778,
+        "timestamp": "2024-09-30T15:11:20Z",
+        "version": 4,
+        "changeset": 157302633,
         "addr:city": "Pedro II",
-        "addr:postcode": "64255000",
+        "addr:postcode": "64255-000",
         "addr:street": "Rua Vasco da Gama",
         "addr:suburb": "Centro",
         "leisure": "stadium",
@@ -361,6 +361,51 @@
             [
               -41.7200814,
               -4.5710466
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1026694082",
+      "properties": {
+        "timestamp": "2024-09-30T15:36:53Z",
+        "version": 2,
+        "changeset": 157303708,
+        "building": "roof",
+        "leisure": "pitch",
+        "name": "Quadra Esportiva da Escola Inês Passos",
+        "sport": "multi",
+        "id": "way/1026694082"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.4495903,
+              -4.4280682
+            ],
+            [
+              -41.4496517,
+              -4.4281519
+            ],
+            [
+              -41.4496917,
+              -4.4282639
+            ],
+            [
+              -41.449372,
+              -4.4283825
+            ],
+            [
+              -41.4492887,
+              -4.4281876
+            ],
+            [
+              -41.4495903,
+              -4.4280682
             ]
           ]
         ]
@@ -904,6 +949,26 @@
         "coordinates": [
           -41.409363,
           -4.411423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7875855390",
+      "properties": {
+        "timestamp": "2024-09-30T15:11:20Z",
+        "version": 2,
+        "changeset": 157302633,
+        "leisure": "fitness_station",
+        "name": "Academia de Saúde",
+        "sport": "fitness",
+        "id": "node/7875855390"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.4545484,
+          -4.4227
         ]
       }
     },

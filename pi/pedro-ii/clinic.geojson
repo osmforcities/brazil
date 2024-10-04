@@ -5,13 +5,20 @@
       "type": "Feature",
       "id": "way/844311339",
       "properties": {
-        "timestamp": "2021-01-09T23:19:45Z",
-        "version": 2,
-        "changeset": 97232060,
+        "timestamp": "2024-09-30T15:36:53Z",
+        "version": 3,
+        "changeset": 157303708,
+        "addr:postcode": "64255-000",
+        "addr:street": "Rua Auto Freire",
+        "addr:suburb": "Cristo Rei",
         "amenity": "clinic",
         "building": "yes",
         "healthcare": "clinic",
-        "name": "Posto de Saúde Bairro Cristo Rei",
+        "name": "Unidade Básica de Saúde Cristo Rei",
+        "old_name": "Posto de Saúde Bairro Cristo Rei",
+        "opening_hours": "Mo-Fr 07:00-17:00; PH off",
+        "ref:CNES": "2404435",
+        "source": "CNES",
         "id": "way/844311339"
       },
       "geometry": {
@@ -44,15 +51,70 @@
     },
     {
       "type": "Feature",
+      "id": "way/1079449395",
+      "properties": {
+        "timestamp": "2024-09-30T16:32:13Z",
+        "version": 3,
+        "changeset": 157305902,
+        "addr:street": "Rua Alto Freire",
+        "addr:suburb": "Boa Esperança",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Unidade Básica de Saúde Boa Esperança",
+        "opening_hours": "Mo-Fr 07:00-17:00; PH off",
+        "ref:CNES": "2404419",
+        "short_name": "UBS Boa Esperança",
+        "source": "CNES",
+        "id": "way/1079449395"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.4477428,
+              -4.4219384
+            ],
+            [
+              -41.4477948,
+              -4.4220759
+            ],
+            [
+              -41.4477042,
+              -4.4221162
+            ],
+            [
+              -41.4476357,
+              -4.4219745
+            ],
+            [
+              -41.4477428,
+              -4.4219384
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1161842958",
       "properties": {
-        "timestamp": "2023-04-12T23:39:25Z",
-        "version": 1,
-        "changeset": 134839782,
+        "timestamp": "2024-09-30T17:01:46Z",
+        "version": 3,
+        "changeset": 157307163,
+        "addr:housenumber": "490",
+        "addr:postcode": "64255-000",
+        "addr:street": "Rua Vereador Agostinho Pinheiro dos Santos",
+        "addr:suburb": "Centro",
         "amenity": "clinic",
         "building": "yes",
         "healthcare": "clinic",
         "name": "Centro de Saúde Hortencia Campelo",
+        "opening_hours": "Mo-Fr 07:00-17:00; PH off",
+        "ref:CNES": "2778394",
+        "source": "CNES",
         "id": "way/1161842958"
       },
       "geometry": {
@@ -60,24 +122,40 @@
         "coordinates": [
           [
             [
-              -41.4552194,
-              -4.4234139
+              -41.4551646,
+              -4.4234397
             ],
             [
-              -41.4549412,
-              -4.4235422
+              -41.4550296,
+              -4.4234981
             ],
             [
-              -41.4547949,
-              -4.423251
+              -41.4550245,
+              -4.4234822
             ],
             [
-              -41.4550073,
-              -4.423157
+              -41.4550615,
+              -4.4234629
             ],
             [
-              -41.4552194,
-              -4.4234139
+              -41.4550326,
+              -4.4233943
+            ],
+            [
+              -41.4549902,
+              -4.4234066
+            ],
+            [
+              -41.4549777,
+              -4.4233725
+            ],
+            [
+              -41.4551124,
+              -4.4233256
+            ],
+            [
+              -41.4551646,
+              -4.4234397
             ]
           ]
         ]
@@ -122,57 +200,6 @@
             [
               -41.4596604,
               -4.4318856
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1167577978",
-      "properties": {
-        "timestamp": "2023-04-30T18:08:28Z",
-        "version": 1,
-        "changeset": 135548026,
-        "amenity": "clinic",
-        "building": "yes",
-        "healthcare": "clinic",
-        "name": "Secretaria Municipal de Saúde de Pedro II",
-        "operator": "Ministério da Saúde",
-        "operator:wikidata": "Q6867090",
-        "id": "way/1167577978"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -41.4569603,
-              -4.4264294
-            ],
-            [
-              -41.4568376,
-              -4.4264923
-            ],
-            [
-              -41.456798,
-              -4.4264261
-            ],
-            [
-              -41.4567062,
-              -4.4264736
-            ],
-            [
-              -41.4566411,
-              -4.4263713
-            ],
-            [
-              -41.4568651,
-              -4.4262623
-            ],
-            [
-              -41.4569603,
-              -4.4264294
             ]
           ]
         ]
@@ -257,26 +284,6 @@
               -4.489709
             ]
           ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/12166253007",
-      "properties": {
-        "timestamp": "2024-09-09T19:58:36Z",
-        "version": 1,
-        "changeset": 156412260,
-        "amenity": "clinic",
-        "healthcare": "clinic",
-        "name": "UBS Boa Esperança",
-        "id": "node/12166253007"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -41.4477245,
-          -4.4221356
         ]
       }
     }

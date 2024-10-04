@@ -1663,10 +1663,14 @@
       "type": "Feature",
       "id": "node/6838753277",
       "properties": {
-        "timestamp": "2020-03-27T14:07:18Z",
-        "version": 2,
-        "changeset": 82718464,
+        "timestamp": "2024-09-30T17:18:01Z",
+        "version": 3,
+        "changeset": 157307801,
+        "addr:city": "Campinas",
         "addr:housenumber": "686",
+        "addr:postcode": "13073-141",
+        "addr:street": "Rua Dona Rosa de Gusmão",
+        "addr:suburb": "Jardim Guanabara",
         "amenity": "clinic",
         "healthcare": "clinic",
         "name": "Casa da Gestante",
@@ -2355,6 +2359,59 @@
         "coordinates": [
           -47.0693549,
           -22.8897322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12211476907",
+      "properties": {
+        "timestamp": "2024-09-30T10:42:40Z",
+        "version": 1,
+        "changeset": 157290669,
+        "addr:city": "Campinas",
+        "addr:housenumber": "962",
+        "addr:postcode": "13073-221",
+        "addr:street": "Rua Frei Manuel da Ressurreição",
+        "addr:suburb": "Jardim Guanabara",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "plastic_surgery",
+        "name": "Renovare",
+        "phone": "+55 (19) 3213-2086",
+        "website": "https://clinicarenovarecampinas.com.br/",
+        "id": "node/12211476907"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0717591,
+          -22.8882661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12212230425",
+      "properties": {
+        "timestamp": "2024-09-30T17:18:01Z",
+        "version": 1,
+        "changeset": 157307801,
+        "addr:city": "Campinas",
+        "addr:housenumber": "933",
+        "addr:postcode": "13070-118",
+        "addr:street": "Rua Doutor Miguel Penteado",
+        "addr:suburb": "Jardim Chapadão",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Ginecologia e Obstetrícia",
+        "id": "node/12212230425"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0715113,
+          -22.8855824
         ]
       }
     }

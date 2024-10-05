@@ -5,10 +5,14 @@
       "type": "Feature",
       "id": "way/447576551",
       "properties": {
-        "timestamp": "2016-10-13T20:37:55Z",
-        "version": 1,
-        "changeset": 42881348,
+        "timestamp": "2024-10-02T20:25:53Z",
+        "version": 2,
+        "changeset": 157394558,
+        "addr:city": "Arcoverde",
+        "addr:suburb": "São Cristóvão",
         "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Memorial Arcoverde",
         "id": "way/447576551"
       },
       "geometry": {
@@ -16,24 +20,24 @@
         "coordinates": [
           [
             [
-              -37.0715436,
-              -8.4151277
+              -37.0715662,
+              -8.4152464
             ],
             [
-              -37.0720693,
-              -8.4165445
+              -37.0720331,
+              -8.4165355
             ],
             [
-              -37.0717421,
-              -8.4166454
+              -37.0716968,
+              -8.4166499
             ],
             [
-              -37.0712432,
-              -8.4152285
+              -37.0712002,
+              -8.4152352
             ],
             [
-              -37.0715436,
-              -8.4151277
+              -37.0715662,
+              -8.4152464
             ]
           ]
         ]
@@ -115,60 +119,40 @@
     },
     {
       "type": "Feature",
-      "id": "way/1131424274",
+      "id": "way/1320171878",
       "properties": {
-        "timestamp": "2023-01-13T03:48:12Z",
+        "timestamp": "2024-10-02T20:25:53Z",
         "version": 1,
-        "changeset": 131211938,
+        "changeset": 157394558,
         "amenity": "hospital",
         "healthcare": "hospital",
-        "name": "memorial",
-        "id": "way/1131424274"
+        "id": "way/1320171878"
       },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              -37.0717997,
-              -8.4146042
+              -37.070886,
+              -8.4152268
             ],
             [
-              -37.0717954,
-              -8.4148165
+              -37.0708791,
+              -8.4154494
             ],
             [
-              -37.0716409,
-              -8.4148271
+              -37.0705848,
+              -8.4154511
             ],
             [
-              -37.0716409,
-              -8.4146127
+              -37.0705848,
+              -8.4152183
             ],
             [
-              -37.0717997,
-              -8.4146042
+              -37.070886,
+              -8.4152268
             ]
           ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/4421414870",
-      "properties": {
-        "timestamp": "2016-10-10T18:02:37Z",
-        "version": 2,
-        "changeset": 42783372,
-        "amenity": "hospital",
-        "name": "Hospital Memorial",
-        "id": "node/4421414870"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -37.0713982,
-          -8.4153137
         ]
       }
     },

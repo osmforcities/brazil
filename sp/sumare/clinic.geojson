@@ -168,9 +168,9 @@
       "type": "Feature",
       "id": "way/626443779",
       "properties": {
-        "timestamp": "2022-05-07T23:32:31Z",
-        "version": 3,
-        "changeset": 120685266,
+        "timestamp": "2024-10-02T00:06:21Z",
+        "version": 4,
+        "changeset": 157360234,
         "addr:housenumber": "35",
         "addr:postcode": "13170-586",
         "addr:street": "Rua Piracanjuba",
@@ -178,6 +178,7 @@
         "amenity": "clinic",
         "building": "yes",
         "healthcare": "clinic",
+        "healthcare:speciality": "general;vaccination",
         "name": "Unidade de Saúde da Famíla Doutor Hércules L. do Amaral Júnior",
         "opening_hours": "Mo-Fr 08:00-17:00; Sa,Su,PH off",
         "operator": "Prefeitura Municipal de Sumaré",
@@ -185,7 +186,7 @@
         "phone": "+55 19 3832 3028",
         "ref": "CNES-6304753",
         "short_name": "UBS Dall'Orto",
-        "source": "CNES",
+        "source": "CNES;https://ruas-brasil.openalfa.com/nova-veneza_sumare/saude",
         "id": "way/626443779"
       },
       "geometry": {
@@ -485,30 +486,6 @@
               -22.8407068
             ]
           ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/9723837913",
-      "properties": {
-        "timestamp": "2022-05-07T23:32:31Z",
-        "version": 1,
-        "changeset": 120685266,
-        "addr:housenumber": "35",
-        "addr:postcode": "13170-586",
-        "addr:street": "Rua Piracanjuba",
-        "addr:suburb": "Jardim Dall Orto",
-        "amenity": "clinic",
-        "healthcare": "clinic",
-        "name": "Centro de Atenção Integrada a Saúde Familiar Jardim Dall Orto",
-        "id": "node/9723837913"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -47.2174358,
-          -22.8022879
         ]
       }
     },

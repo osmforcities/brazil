@@ -534,18 +534,19 @@
       "type": "Feature",
       "id": "way/1111619029",
       "properties": {
-        "timestamp": "2022-11-08T21:05:43Z",
-        "version": 1,
-        "changeset": 128657870,
+        "timestamp": "2024-10-02T16:37:49Z",
+        "version": 2,
+        "changeset": 157387375,
         "addr:city": "Marília",
         "addr:housenumber": "70",
         "addr:postcode": "17522-390",
         "addr:street": "Rua João Baptista Marinho",
         "addr:suburb": "Nucleo Habitacional Nova Marilia",
         "amenity": "school",
-        "name": "E.E Prof. Maria Cecilia Ferraz de Freitas",
-        "operator": "Escola Pública Estadual",
-        "operator:type": "public",
+        "operator": "Secretaria da Educação do Estado de São Paulo",
+        "operator:type": "government",
+        "religion": "none",
+        "short_name": "E.E Professora Maria Cecilia Ferraz de Freitas",
         "id": "way/1111619029"
       },
       "geometry": {
@@ -662,18 +663,19 @@
       "type": "Feature",
       "id": "way/1180781440",
       "properties": {
-        "timestamp": "2023-06-09T23:20:50Z",
-        "version": 1,
-        "changeset": 137156274,
+        "timestamp": "2024-10-02T16:01:57Z",
+        "version": 2,
+        "changeset": 157386083,
         "addr:city": "Marília",
         "addr:housenumber": "86",
         "addr:postcode": "17521-250",
         "addr:street": "Rua Antônio Hernandes",
         "addr:suburb": "Jardim Esplanada",
         "amenity": "school",
-        "name": "E.E Prof. Nelson Cabrini",
-        "operator": "Pública Estadual",
+        "operator": "Secretaria da Educação do Estado de São Paulo",
         "operator:type": "government",
+        "religion": "none",
+        "short_name": "E.E Professor Nelson Cabrini",
         "id": "way/1180781440"
       },
       "geometry": {
@@ -825,6 +827,148 @@
     },
     {
       "type": "Feature",
+      "id": "way/1320104471",
+      "properties": {
+        "timestamp": "2024-10-02T14:28:24Z",
+        "version": 1,
+        "changeset": 157382010,
+        "addr:housenumber": "443",
+        "addr:street": "Alameda Joaquim Cavina",
+        "addr:suburb": "Parque das Esmeraldas II",
+        "amenity": "school",
+        "building": "yes",
+        "name": "Colégio Preve Objetivo Marília",
+        "phone": "+ 55 14 3454 0647",
+        "website": "https://www.objetivo.br/",
+        "id": "way/1320104471"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.9190997,
+              -22.2212355
+            ],
+            [
+              -49.9187998,
+              -22.2212223
+            ],
+            [
+              -49.9188051,
+              -22.2211183
+            ],
+            [
+              -49.9187416,
+              -22.2211155
+            ],
+            [
+              -49.9187366,
+              -22.2212136
+            ],
+            [
+              -49.9185902,
+              -22.2212072
+            ],
+            [
+              -49.9186106,
+              -22.2211654
+            ],
+            [
+              -49.9187664,
+              -22.2210402
+            ],
+            [
+              -49.9187771,
+              -22.2209393
+            ],
+            [
+              -49.9189626,
+              -22.220941
+            ],
+            [
+              -49.9189769,
+              -22.2210405
+            ],
+            [
+              -49.9191094,
+              -22.2210463
+            ],
+            [
+              -49.9190997,
+              -22.2212355
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1320128070",
+      "properties": {
+        "timestamp": "2024-10-02T16:37:49Z",
+        "version": 1,
+        "changeset": 157387375,
+        "addr:housenumber": "1306",
+        "addr:postcode": "17520-240",
+        "addr:street": "Avenida João Ramalho",
+        "addr:suburb": "Jardim Conquista",
+        "amenity": "school",
+        "email": "sumarilia@sesisp.org.br",
+        "mobile": "+55 14 99716 5825",
+        "operator": "Serviço Social da Indústria",
+        "operator:type": "private_non_profit",
+        "phone": "+55 14 3401 1500",
+        "religion": "none",
+        "website": "https://marilia.sesisp.org.br/",
+        "id": "way/1320128070"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.92855,
+              -22.2414592
+            ],
+            [
+              -49.9281605,
+              -22.2425026
+            ],
+            [
+              -49.9277752,
+              -22.2431249
+            ],
+            [
+              -49.9274759,
+              -22.2433602
+            ],
+            [
+              -49.9273611,
+              -22.2433412
+            ],
+            [
+              -49.9266027,
+              -22.2421308
+            ],
+            [
+              -49.9265371,
+              -22.2417665
+            ],
+            [
+              -49.9268077,
+              -22.2408748
+            ],
+            [
+              -49.92855,
+              -22.2414592
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/1446711702",
       "properties": {
         "timestamp": "2014-01-09T18:54:39Z",
@@ -921,28 +1065,6 @@
         "coordinates": [
           -49.9604448,
           -22.193926
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/9738633817",
-      "properties": {
-        "timestamp": "2022-05-13T23:07:01Z",
-        "version": 1,
-        "changeset": 120957688,
-        "addr:housenumber": "1306",
-        "addr:postcode": "17520240",
-        "addr:street": "Avenida João Ramalho",
-        "amenity": "school",
-        "name": "Sesi - CE308",
-        "id": "node/9738633817"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.9268834,
-          -22.2410308
         ]
       }
     }

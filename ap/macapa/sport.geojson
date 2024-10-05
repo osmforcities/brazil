@@ -844,6 +844,47 @@
     },
     {
       "type": "Feature",
+      "id": "way/276160392",
+      "properties": {
+        "timestamp": "2024-10-02T19:04:31Z",
+        "version": 3,
+        "changeset": 157392084,
+        "access": "yes",
+        "leisure": "pitch",
+        "name": "Quadra Poliesportiva Unifap",
+        "sport": "futsal;volleyball;handball;basketball",
+        "id": "way/276160392"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.0834506,
+              -0.005288
+            ],
+            [
+              -51.0834498,
+              -0.0057582
+            ],
+            [
+              -51.0831477,
+              -0.005756
+            ],
+            [
+              -51.0831435,
+              -0.0052859
+            ],
+            [
+              -51.0834506,
+              -0.005288
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/311644507",
       "properties": {
         "timestamp": "2014-11-07T21:52:17Z",
@@ -1201,15 +1242,15 @@
       "type": "Feature",
       "id": "way/473042037",
       "properties": {
-        "timestamp": "2022-12-15T07:27:30Z",
-        "version": 5,
-        "changeset": 130101283,
+        "timestamp": "2024-10-02T19:13:50Z",
+        "version": 7,
+        "changeset": 157392388,
         "area": "yes",
         "lanes": "5",
         "leisure": "stadium",
         "lit": "yes",
-        "name": "Estádio da Unifap",
-        "sport": "running",
+        "name": "Estadio da Unifap",
+        "sport": "running;soccer;arremeço_de_dardo;arremeço_de_peso;salto_com_vara;athletics;lançamento_de_disco",
         "surface": "paved",
         "id": "way/473042037"
       },
@@ -2149,11 +2190,13 @@
       "type": "Feature",
       "id": "way/535619885",
       "properties": {
-        "timestamp": "2020-11-06T16:31:25Z",
-        "version": 3,
-        "changeset": 93675257,
+        "timestamp": "2024-10-02T19:04:31Z",
+        "version": 4,
+        "changeset": 157392084,
+        "access": "yes",
         "covered": "no",
         "leisure": "swimming_pool",
+        "location": "outdoor",
         "name": "Piscina Unifap;Piscina da Universidade Federal do Amapá",
         "sport": "swimming",
         "id": "way/535619885"
@@ -8615,6 +8658,24 @@
               0.0498397
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2807837790",
+      "properties": {
+        "timestamp": "2024-08-26T13:16:48Z",
+        "version": 5,
+        "changeset": 155782222,
+        "entrance": "yes",
+        "id": "node/2807837790"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.0834498,
+          -0.0057582
         ]
       }
     },

@@ -3366,12 +3366,17 @@
       "type": "Feature",
       "id": "way/1009636365",
       "properties": {
-        "timestamp": "2021-12-06T14:32:48Z",
-        "version": 1,
-        "changeset": 114621449,
+        "timestamp": "2024-10-02T23:45:58Z",
+        "version": 2,
+        "changeset": 157398316,
+        "addr:city": "Palhoça",
+        "addr:postcode": "88130470",
+        "addr:street": "Rua Antônio Vieira",
         "building": "yes",
+        "fee": "yes",
         "leisure": "sports_centre",
-        "sport": "multi",
+        "name": "Ginásio Associação Esportiva Recreativa Ponte do Imaruim",
+        "sport": "volleyball;futsal;handball",
         "id": "way/1009636365"
       },
       "geometry": {
@@ -5142,6 +5147,28 @@
         "coordinates": [
           -48.6469243,
           -27.6736354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9315612939",
+      "properties": {
+        "timestamp": "2024-10-02T23:45:58Z",
+        "version": 2,
+        "changeset": 157398316,
+        "blind": "no",
+        "fitness_station": "yes",
+        "leisure": "fitness_station",
+        "sport": "fitness",
+        "wheelchair": "no",
+        "id": "node/9315612939"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.6534838,
+          -27.6332532
         ]
       }
     },

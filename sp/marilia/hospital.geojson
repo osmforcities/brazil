@@ -267,80 +267,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/612754731",
-      "properties": {
-        "timestamp": "2023-08-17T23:12:46Z",
-        "version": 3,
-        "changeset": 140033842,
-        "addr:city": "Marília",
-        "addr:housenumber": "828",
-        "addr:postcode": "17515-900",
-        "addr:street": "Avenida Vicente Ferreira",
-        "amenity": "hospital",
-        "healthcare": "hospital",
-        "name": "Santa Casa de Marília",
-        "ref:CNES": "2083116",
-        "ref:vatin": "BR52049244000162",
-        "id": "way/612754731"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -49.9387729,
-              -22.2119942
-            ],
-            [
-              -49.938781,
-              -22.2120886
-            ],
-            [
-              -49.9381278,
-              -22.2121358
-            ],
-            [
-              -49.938089,
-              -22.2117471
-            ],
-            [
-              -49.9381059,
-              -22.211719
-            ],
-            [
-              -49.9381314,
-              -22.2116971
-            ],
-            [
-              -49.938163,
-              -22.2116837
-            ],
-            [
-              -49.9381976,
-              -22.2116801
-            ],
-            [
-              -49.9382727,
-              -22.2116851
-            ],
-            [
-              -49.9385785,
-              -22.211659
-            ],
-            [
-              -49.9386133,
-              -22.2120079
-            ],
-            [
-              -49.9387729,
-              -22.2119942
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/653541952",
       "properties": {
         "timestamp": "2023-08-17T23:12:46Z",
@@ -482,14 +408,70 @@
     },
     {
       "type": "Feature",
+      "id": "way/1078021362",
+      "properties": {
+        "timestamp": "2024-10-02T16:37:49Z",
+        "version": 3,
+        "changeset": 157387375,
+        "addr:housenumber": "288",
+        "addr:postcode": "17520-460",
+        "addr:street": "Rua Antônio Pereira da Silva",
+        "addr:suburb": "Monte Castelo",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "layer": "1",
+        "name": "PA Sul",
+        "phone": "+55 14 3451 4551",
+        "id": "way/1078021362"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.9228356,
+              -22.2462462
+            ],
+            [
+              -49.9229177,
+              -22.2464552
+            ],
+            [
+              -49.9225258,
+              -22.2465804
+            ],
+            [
+              -49.922446,
+              -22.2463646
+            ],
+            [
+              -49.9228356,
+              -22.2462462
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1176288121",
       "properties": {
-        "timestamp": "2023-05-26T14:13:43Z",
-        "version": 1,
-        "changeset": 136590182,
+        "timestamp": "2024-10-02T17:52:51Z",
+        "version": 3,
+        "changeset": 157389781,
+        "addr:housenumber": "828",
+        "addr:street": "Avenida Vicente Ferreira",
         "amenity": "hospital",
+        "email": "ouvidoria@santacasamarilia.com.br",
+        "emergency": "yes",
         "healthcare": "hospital",
-        "name": "Santa Casa de Marília",
+        "healthcare:speciality": "hemodiálise;endoscopia;transplante_renal;oncology",
+        "name": "Santa Casa de Misericórdia de Marília",
+        "operator": "Irmandade da Santa Casa de Misericórdia de Marília",
+        "operator:type": "religious",
+        "phone": "+55 14 3402 5555",
         "id": "way/1176288121"
       },
       "geometry": {
@@ -513,8 +495,20 @@
               -22.2135865
             ],
             [
-              -49.9381278,
-              -22.2121358
+              -49.9380956,
+              -22.2117385
+            ],
+            [
+              -49.9383342,
+              -22.2116238
+            ],
+            [
+              -49.938621,
+              -22.2115787
+            ],
+            [
+              -49.9386477,
+              -22.2120998
             ],
             [
               -49.9391464,

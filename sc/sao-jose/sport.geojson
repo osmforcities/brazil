@@ -2971,11 +2971,14 @@
       "type": "Feature",
       "id": "way/605708641",
       "properties": {
-        "timestamp": "2022-10-15T14:46:51Z",
-        "version": 2,
-        "changeset": 127574411,
+        "timestamp": "2024-10-02T23:45:58Z",
+        "version": 3,
+        "changeset": 157398316,
+        "access": "customers",
+        "covered": "no",
         "leisure": "pitch",
-        "sport": "five-a-side",
+        "lit": "yes",
+        "sport": "soccer",
         "surface": "artificial_turf",
         "id": "way/605708641"
       },
@@ -3011,11 +3014,14 @@
       "type": "Feature",
       "id": "way/605708642",
       "properties": {
-        "timestamp": "2022-10-15T14:46:51Z",
-        "version": 2,
-        "changeset": 127574411,
+        "timestamp": "2024-10-02T23:45:58Z",
+        "version": 3,
+        "changeset": 157398316,
+        "access": "customers",
+        "covered": "no",
         "leisure": "pitch",
-        "sport": "five-a-side",
+        "lit": "yes",
+        "sport": "soccer",
         "surface": "artificial_turf",
         "id": "way/605708642"
       },
@@ -4641,6 +4647,102 @@
             [
               -48.6209881,
               -27.5868094
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1320193860",
+      "properties": {
+        "timestamp": "2024-10-02T23:45:58Z",
+        "version": 1,
+        "changeset": 157398316,
+        "access": "customers",
+        "covered": "no",
+        "leisure": "pitch",
+        "lit": "yes",
+        "sport": "soccer",
+        "surface": "artificial_turf",
+        "id": "way/1320193860"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.6171332,
+              -27.6023309
+            ],
+            [
+              -48.6171128,
+              -27.6024783
+            ],
+            [
+              -48.6170877,
+              -27.6026599
+            ],
+            [
+              -48.6168834,
+              -27.6026216
+            ],
+            [
+              -48.6169569,
+              -27.6023009
+            ],
+            [
+              -48.6171332,
+              -27.6023309
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1320193861",
+      "properties": {
+        "timestamp": "2024-10-02T23:45:58Z",
+        "version": 1,
+        "changeset": 157398316,
+        "fee": "yes",
+        "leisure": "sports_centre",
+        "name": "Beira Mar Gol",
+        "sport": "soccer",
+        "id": "way/1320193861"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.6172196,
+              -27.6024933
+            ],
+            [
+              -48.6171834,
+              -27.6026816
+            ],
+            [
+              -48.6168834,
+              -27.6026216
+            ],
+            [
+              -48.6169569,
+              -27.6023009
+            ],
+            [
+              -48.6171332,
+              -27.6023309
+            ],
+            [
+              -48.6171128,
+              -27.6024783
+            ],
+            [
+              -48.6172196,
+              -27.6024933
             ]
           ]
         ]

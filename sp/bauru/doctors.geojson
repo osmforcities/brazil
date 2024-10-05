@@ -439,9 +439,9 @@
       "type": "Feature",
       "id": "node/12211140319",
       "properties": {
-        "timestamp": "2024-09-30T08:01:34Z",
-        "version": 1,
-        "changeset": 157284238,
+        "timestamp": "2024-10-01T07:13:42Z",
+        "version": 2,
+        "changeset": 157324497,
         "addr:city": "Bauru",
         "addr:housenumber": "1814",
         "addr:street": "Rua Floriano Peixoto",
@@ -455,8 +455,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -49.0751932,
-          -22.3427875
+          -49.0751745,
+          -22.3427815
         ]
       }
     },
@@ -464,9 +464,9 @@
       "type": "Feature",
       "id": "node/12211140320",
       "properties": {
-        "timestamp": "2024-09-30T08:01:34Z",
-        "version": 1,
-        "changeset": 157284238,
+        "timestamp": "2024-10-01T07:13:42Z",
+        "version": 2,
+        "changeset": 157324497,
         "addr:city": "Bauru",
         "addr:housenumber": "1820",
         "addr:street": "Rua Floriano Peixoto",
@@ -479,8 +479,58 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -49.0751381,
-          -22.3428333
+          -49.0751303,
+          -22.342823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12213455597",
+      "properties": {
+        "timestamp": "2024-10-01T07:07:12Z",
+        "version": 1,
+        "changeset": 157324279,
+        "addr:city": "Bauru",
+        "addr:housenumber": "1183",
+        "addr:street": "Rua Rafael Pereira Martini",
+        "amenity": "doctors",
+        "healthcare": "doctor",
+        "healthcare:speciality": "ophthalmology",
+        "name": "Clínica de Olhos Roma",
+        "wikidata": "Q130388877",
+        "id": "node/12213455597"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.0251653,
+          -22.3201026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12213533756",
+      "properties": {
+        "timestamp": "2024-10-01T07:13:42Z",
+        "version": 1,
+        "changeset": 157324497,
+        "addr:city": "Bauru",
+        "addr:housenumber": "1808",
+        "addr:street": "Rua Floriano Peixoto",
+        "amenity": "doctors",
+        "healthcare": "doctor",
+        "healthcare:speciality": "ophthalmology",
+        "name": "Dr Flavio Rodrigues e Silva",
+        "wikidata": "Q130388875",
+        "id": "node/12213533756"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.0752159,
+          -22.3427477
         ]
       }
     }

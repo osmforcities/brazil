@@ -67,6 +67,63 @@
     },
     {
       "type": "Feature",
+      "id": "way/549160721",
+      "properties": {
+        "timestamp": "2024-10-01T17:44:22Z",
+        "version": 7,
+        "changeset": 157350537,
+        "addr:city": "Ribeirão Pires",
+        "addr:housenumber": "70",
+        "addr:postcode": "09424-250",
+        "addr:street": "Avenida Humberto de Campos",
+        "addr:suburb": "Centro",
+        "amenity": "clinic",
+        "building": "yes",
+        "building:levels": "2",
+        "healthcare": "clinic",
+        "healthcare:speciality": "gynaecology;mastologia;vulvoscopia;colposcopia",
+        "name": "CAISM - Centro de Atenção Integral à Saúde da Mulher",
+        "opening_hours": "Mo-Fr 08:00-17:00; PH off",
+        "operator": "Prefeitura da Estância Turística de Ribeirão Pires",
+        "operator:type": "public/government",
+        "phone": "+55 11 4823-7874",
+        "website": "https://www.ribeiraopires.sp.gov.br/",
+        "id": "way/549160721"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.417918,
+              -23.7118539
+            ],
+            [
+              -46.4179528,
+              -23.7119638
+            ],
+            [
+              -46.4175558,
+              -23.7120692
+            ],
+            [
+              -46.417521,
+              -23.7119593
+            ],
+            [
+              -46.4178617,
+              -23.7118689
+            ],
+            [
+              -46.417918,
+              -23.7118539
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/769133600",
       "properties": {
         "timestamp": "2021-05-05T00:45:19Z",
@@ -231,6 +288,24 @@
               -23.7316188
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7166748186",
+      "properties": {
+        "timestamp": "2020-03-08T01:21:09Z",
+        "version": 2,
+        "changeset": 81912752,
+        "entrance": "yes",
+        "id": "node/7166748186"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4178617,
+          -23.7118689
         ]
       }
     }

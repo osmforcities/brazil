@@ -1108,12 +1108,22 @@
       "type": "Feature",
       "id": "way/607987043",
       "properties": {
-        "timestamp": "2018-07-14T23:14:03Z",
-        "version": 1,
-        "changeset": 60722352,
+        "timestamp": "2024-10-01T21:54:35Z",
+        "version": 3,
+        "changeset": 157358292,
+        "addr:housenumber": "250",
+        "addr:postcode": "13486-009",
+        "addr:street": "Rua Arthur Voigt",
+        "addr:suburb": "Jardim Suiça",
         "amenity": "school",
-        "name": "Escola SESI",
-        "operator": "SESI",
+        "email": "ce005@sesisp.org.br",
+        "name": "SESI Nova Suíça",
+        "opening_hours": "Mo-Fr 09:00-16:00; PH off",
+        "operator": "Serviço Social da Indústria",
+        "operator:type": "private_non_profit",
+        "phone": "+55 19 3441 1949",
+        "religion": "none",
+        "website": "https://limeira.sesisp.org.br/horario-de-atendimento",
         "id": "way/607987043"
       },
       "geometry": {
@@ -2060,41 +2070,205 @@
     },
     {
       "type": "Feature",
-      "id": "node/2583920884",
+      "id": "way/1319744017",
       "properties": {
-        "timestamp": "2014-04-09T21:04:12Z",
-        "version": 3,
-        "changeset": 21596590,
+        "timestamp": "2024-10-01T00:04:35Z",
+        "version": 1,
+        "changeset": 157317694,
+        "addr:street": "Rua Antônio Sonego",
+        "addr:suburb": "Bairro dos Lopes",
         "amenity": "school",
-        "name": "Escola Sesi",
-        "wheelchair": "limited",
-        "id": "node/2583920884"
+        "operator": "Secretaria da Educação",
+        "operator:type": "government",
+        "religion": "none",
+        "short_name": "EMEIEF Bairro dos Lopes",
+        "id": "way/1319744017"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -47.4305598,
-          -22.5588394
+          [
+            [
+              -47.3267628,
+              -22.6510125
+            ],
+            [
+              -47.3265525,
+              -22.6514453
+            ],
+            [
+              -47.3261078,
+              -22.6512774
+            ],
+            [
+              -47.326318,
+              -22.6508334
+            ],
+            [
+              -47.3267628,
+              -22.6510125
+            ]
+          ]
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "node/2583920885",
+      "id": "way/1319752206",
       "properties": {
-        "timestamp": "2014-04-09T21:04:46Z",
-        "version": 3,
-        "changeset": 21596597,
+        "timestamp": "2024-10-01T01:48:31Z",
+        "version": 1,
+        "changeset": 157318822,
+        "addr:housenumber": "26",
+        "addr:street": "Praça Primeiro de Maio",
+        "addr:suburb": "Jardim Morro Azul",
         "amenity": "school",
-        "name": "E.E. Cônego Manuel Alves",
-        "wheelchair": "limited",
-        "id": "node/2583920885"
+        "operator": "Secretaria da Educação do Estado de São Paulo",
+        "operator:type": "government",
+        "phone": "+55 19 3451 0001",
+        "religion": "none",
+        "short_name": "E.E. Cônego Manuel Alves",
+        "id": "way/1319752206"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -47.4308158,
-          -22.5592873
+          [
+            [
+              -47.4305701,
+              -22.5585661
+            ],
+            [
+              -47.4310939,
+              -22.559299
+            ],
+            [
+              -47.4308214,
+              -22.5594676
+            ],
+            [
+              -47.4305833,
+              -22.5591427
+            ],
+            [
+              -47.4302963,
+              -22.5587249
+            ],
+            [
+              -47.4305701,
+              -22.5585661
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1319974859",
+      "properties": {
+        "timestamp": "2024-10-01T21:12:23Z",
+        "version": 1,
+        "changeset": 157357303,
+        "addr:housenumber": "321",
+        "addr:postcode": "13486-250",
+        "addr:street": "Rua Luís Pessoto",
+        "addr:suburb": "Jardim Nova Limeira",
+        "amenity": "school",
+        "email": "ceief.deovaldoteixeira@edu.limeira.sp.gov.br",
+        "operator": "Secretaria da Educação",
+        "operator:type": "government",
+        "phone": "+55 19 3451 1012",
+        "religion": "none",
+        "short_name": "CEIEF Professor Deovaldo Teixeira de Carvalho",
+        "id": "way/1319974859"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.3667572,
+              -22.5455104
+            ],
+            [
+              -47.3669609,
+              -22.5458329
+            ],
+            [
+              -47.3673207,
+              -22.5460895
+            ],
+            [
+              -47.367035,
+              -22.5464461
+            ],
+            [
+              -47.3669292,
+              -22.5464315
+            ],
+            [
+              -47.3668789,
+              -22.5463973
+            ],
+            [
+              -47.3666356,
+              -22.5458818
+            ],
+            [
+              -47.3665774,
+              -22.5457425
+            ],
+            [
+              -47.3665827,
+              -22.5456375
+            ],
+            [
+              -47.3666276,
+              -22.5455935
+            ],
+            [
+              -47.3667572,
+              -22.5455104
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1319979547",
+      "properties": {
+        "timestamp": "2024-10-01T21:54:35Z",
+        "version": 1,
+        "changeset": 157358292,
+        "amenity": "school",
+        "id": "way/1319979547"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.3866888,
+              -22.5763872
+            ],
+            [
+              -47.3867406,
+              -22.5778157
+            ],
+            [
+              -47.3862063,
+              -22.5778415
+            ],
+            [
+              -47.3861265,
+              -22.5763909
+            ],
+            [
+              -47.3866888,
+              -22.5763872
+            ]
+          ]
         ]
       }
     },

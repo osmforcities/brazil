@@ -61,54 +61,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/1317378228",
-      "properties": {
-        "timestamp": "2024-09-22T12:25:02Z",
-        "version": 1,
-        "changeset": 156949101,
-        "addr:city": "Campinas",
-        "addr:housenumber": "1139",
-        "addr:postcode": "13073-330",
-        "addr:street": "Rua Frei Antônio de Pádua",
-        "addr:suburb": "Jardim Guanabara",
-        "amenity": "doctors",
-        "building": "yes",
-        "healthcare": "doctor",
-        "name": "Clínica Terzis",
-        "opening_hours": "Su-Fr 07:30-22:00; Sa 07:30-13:30",
-        "phone": "+55 (19) 3252-7521",
-        "id": "way/1317378228"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -47.07093,
-              -22.8880542
-            ],
-            [
-              -47.0707487,
-              -22.8881545
-            ],
-            [
-              -47.0705855,
-              -22.8879067
-            ],
-            [
-              -47.0707608,
-              -22.8878134
-            ],
-            [
-              -47.07093,
-              -22.8880542
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/1712160685",
       "properties": {
         "timestamp": "2024-09-28T11:28:42Z",
@@ -1292,6 +1244,36 @@
         "coordinates": [
           -47.0707141,
           -22.8907843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12213937106",
+      "properties": {
+        "timestamp": "2024-10-01T11:31:52Z",
+        "version": 1,
+        "changeset": 157334724,
+        "addr:city": "Campinas",
+        "addr:housenumber": "1232",
+        "addr:postcode": "13073-330",
+        "addr:street": "Rua Frei Antônio de Pádua",
+        "addr:suburb": "Jardim Guanabara",
+        "amenity": "doctors",
+        "healthcare": "doctor",
+        "healthcare:speciality": "osteopathy",
+        "mobile": "+55 (19) 9 9258-8292",
+        "name": "Instituto Luciana Guimarães",
+        "opening_hours": "Mo-Fr 08:00-19:00",
+        "phone": "+55 (19) 3217-9371",
+        "website": "https://lucianaguimaraes.com.br/dra-luciana-guimaraes-osteopata-e-fisioterapeuta/",
+        "id": "node/12213937106"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0700529,
+          -22.8873538
         ]
       }
     }

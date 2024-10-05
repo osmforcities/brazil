@@ -13473,51 +13473,6 @@
     },
     {
       "type": "Feature",
-      "id": "relation/18056252",
-      "properties": {
-        "timestamp": "2024-09-17T23:12:29Z",
-        "version": 1,
-        "changeset": 156750125,
-        "building": "yes",
-        "ele": "21.37",
-        "height": "2.68",
-        "leisure": "fitness_centre",
-        "name": "Lions Arena CT",
-        "sport": "crossfit",
-        "type": "multipolygon",
-        "website": "https://www.instagram.com/lions_arenact/",
-        "id": "relation/18056252"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -43.5740267,
-              -22.902824
-            ],
-            [
-              -43.5740117,
-              -22.90259
-            ],
-            [
-              -43.5741054,
-              -22.9025849
-            ],
-            [
-              -43.5741176,
-              -22.9028199
-            ],
-            [
-              -43.5740267,
-              -22.902824
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/15018420",
       "properties": {
         "timestamp": "2023-08-17T14:41:43Z",
@@ -106851,6 +106806,88 @@
     },
     {
       "type": "Feature",
+      "id": "way/1319936420",
+      "properties": {
+        "timestamp": "2024-10-01T17:40:56Z",
+        "version": 1,
+        "changeset": 157350414,
+        "leisure": "pitch",
+        "sport": "beachvolleyball",
+        "surface": "sand",
+        "id": "way/1319936420"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.4220694,
+              -23.0068283
+            ],
+            [
+              -43.4219999,
+              -23.0070755
+            ],
+            [
+              -43.4217422,
+              -23.0070329
+            ],
+            [
+              -43.4218271,
+              -23.006807
+            ],
+            [
+              -43.4220694,
+              -23.0068283
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1319936840",
+      "properties": {
+        "timestamp": "2024-10-01T17:43:52Z",
+        "version": 1,
+        "changeset": 157350509,
+        "access": "private",
+        "leisure": "pitch",
+        "lit": "yes",
+        "sport": "futvoley;beath_tenis",
+        "surface": "sand",
+        "id": "way/1319936840"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.4233559,
+              -23.0045258
+            ],
+            [
+              -43.4233405,
+              -23.0045626
+            ],
+            [
+              -43.4231879,
+              -23.0045258
+            ],
+            [
+              -43.4232049,
+              -23.0044875
+            ],
+            [
+              -43.4233559,
+              -23.0045258
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/30658172",
       "properties": {
         "timestamp": "2015-09-21T12:59:11Z",
@@ -119944,6 +119981,70 @@
         "coordinates": [
           -43.4211225,
           -23.0100948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12214545044",
+      "properties": {
+        "timestamp": "2024-10-01T17:40:56Z",
+        "version": 1,
+        "changeset": 157350414,
+        "leisure": "pitch",
+        "sport": "beachvolleyball",
+        "surface": "sand",
+        "id": "node/12214545044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.4218432,
+          -23.0068969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12214545052",
+      "properties": {
+        "timestamp": "2024-10-01T17:40:56Z",
+        "version": 1,
+        "changeset": 157350414,
+        "access": "private",
+        "leisure": "pitch",
+        "lit": "yes",
+        "name": "qudra de beath tenis",
+        "sport": "beath_tenis",
+        "surface": "sand",
+        "id": "node/12214545052"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.4219903,
+          -23.0069178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12215085203",
+      "properties": {
+        "timestamp": "2024-10-01T21:55:05Z",
+        "version": 1,
+        "changeset": 157358301,
+        "leisure": "fitness_centre",
+        "name": "Lions Arena CT",
+        "sport": "crossfit",
+        "website": "https://www.instagram.com/lions_arenact/",
+        "id": "node/12215085203"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.5740714,
+          -22.9026972
         ]
       }
     }

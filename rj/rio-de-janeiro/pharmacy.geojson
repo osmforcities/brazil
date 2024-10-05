@@ -4248,6 +4248,27 @@
     },
     {
       "type": "Feature",
+      "id": "node/1180395497",
+      "properties": {
+        "timestamp": "2024-10-01T17:11:04Z",
+        "version": 5,
+        "changeset": 157349313,
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Drogaria",
+        "source": "survey",
+        "id": "node/1180395497"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.177737,
+          -22.9373335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/1180396851",
       "properties": {
         "timestamp": "2022-10-13T13:38:01Z",
@@ -11794,6 +11815,64 @@
         "coordinates": [
           -43.3414718,
           -22.8704116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12214697014",
+      "properties": {
+        "timestamp": "2024-10-01T17:58:18Z",
+        "version": 1,
+        "changeset": 157351064,
+        "addr:city": "Rio de Janeiro",
+        "addr:housenumber": "517",
+        "addr:postcode": "21660-310",
+        "addr:street": "Rua Doutor Heliodoro Balbi",
+        "addr:suburb": "Guadalupe",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Drogarias Ofertão",
+        "opening_hours": "Mo-Sa 08:00-21:00/ Sa 08:00-17:00",
+        "id": "node/12214697014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3748395,
+          -22.8362925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12214703511",
+      "properties": {
+        "timestamp": "2024-10-01T17:57:13Z",
+        "version": 1,
+        "changeset": 157351031,
+        "addr:city": "Rio de Janeiro",
+        "addr:housenumber": "645",
+        "addr:postcode": "20520052",
+        "addr:street": "Rua Conde de Bonfim",
+        "addr:suburb": "Tijuca",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "mobile": "021965701165",
+        "name": "Drogaria Venancio",
+        "note": "4 estrelas",
+        "opening_hours": "Mo-Su 07:30-22:00",
+        "website": "drogariavenancio.com.br",
+        "wheelchair": "limited",
+        "id": "node/12214703511"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2392439,
+          -22.9317867
         ]
       }
     }

@@ -190,22 +190,27 @@
       "type": "Feature",
       "id": "node/8853016039",
       "properties": {
-        "timestamp": "2023-06-30T20:51:37Z",
-        "version": 3,
-        "changeset": 137973838,
+        "timestamp": "2024-10-03T19:08:50Z",
+        "version": 4,
+        "changeset": 157433259,
         "abbr_name": "UBS Antônio Marmo Ferreira Santana",
         "addr:city": "Corumbá de Goiás",
         "addr:housenumber": "9",
         "addr:postcode": "72960-000",
         "addr:street": "Avenida Professor Francisco Bruno",
         "addr:suburb": "Alto da Boa Vista",
+        "alt_name": "UBS Alto da Boa Vista",
         "amenity": "clinic",
+        "contact:mobile": "+55 62 99841 2962",
+        "contact:whatsapp": "https://wa.me/556298412962",
         "healthcare": "clinic",
         "name": "Unidade Básica de Saúde Antônio Marmo Ferreira Santana",
         "opening_hours": "Mo-Fr 07:00-11:00, 13:00-16:00",
         "operator": "Secretária de Saúde da Prefeitura de Corumbá de Goiás",
         "operator:type": "public",
         "phone": "+55 62 3338 1939",
+        "phone:mobile": "+55 62 99841 2962",
+        "website": "https://corumbadegoias.go.gov.br/estrutura-organizacional/?id=49",
         "id": "node/8853016039"
       },
       "geometry": {
@@ -230,6 +235,30 @@
         "coordinates": [
           -48.812715,
           -15.9278676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12219308002",
+      "properties": {
+        "timestamp": "2024-10-03T19:33:34Z",
+        "version": 1,
+        "changeset": 157434060,
+        "addr:city": "Corumbá de Goiás",
+        "addr:postcode": "72960-000",
+        "addr:street": "Rua 1",
+        "addr:suburb": "Alto da Boa Vista",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Centro de Especialidades Valdete de Jesus Alves dos Santos",
+        "id": "node/12219308002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.8193048,
+          -15.9288059
         ]
       }
     }

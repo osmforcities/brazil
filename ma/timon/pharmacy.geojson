@@ -103,6 +103,51 @@
     },
     {
       "type": "Feature",
+      "id": "way/1320403731",
+      "properties": {
+        "timestamp": "2024-10-03T14:41:50Z",
+        "version": 1,
+        "changeset": 157422587,
+        "addr:city": "Timon",
+        "addr:postcode": "65636-395",
+        "addr:street": "Avenida Luís Firmino de Sousa",
+        "addr:suburb": "Vila João Reis",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Drogaria Barbosa",
+        "id": "way/1320403731"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.8498084,
+              -5.1090975
+            ],
+            [
+              -42.8498221,
+              -5.1092674
+            ],
+            [
+              -42.8497388,
+              -5.109274
+            ],
+            [
+              -42.8497219,
+              -5.1090648
+            ],
+            [
+              -42.8498084,
+              -5.1090975
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/6978550143",
       "properties": {
         "timestamp": "2021-05-26T19:47:37Z",
@@ -611,6 +656,25 @@
         "coordinates": [
           -42.8359729,
           -5.0939342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12218844652",
+      "properties": {
+        "timestamp": "2024-10-03T14:41:50Z",
+        "version": 1,
+        "changeset": 157422587,
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "id": "node/12218844652"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.8485802,
+          -5.1083367
         ]
       }
     }

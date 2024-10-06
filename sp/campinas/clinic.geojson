@@ -1915,26 +1915,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/7179041607",
-      "properties": {
-        "timestamp": "2021-11-11T00:32:24Z",
-        "version": 2,
-        "changeset": 113630769,
-        "amenity": "clinic",
-        "healthcare": "clinic",
-        "name": "Vital Brasil",
-        "id": "node/7179041607"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -47.0687488,
-          -22.8981046
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/7179045698",
       "properties": {
         "timestamp": "2024-09-24T12:17:18Z",
@@ -2694,6 +2674,63 @@
         "coordinates": [
           -47.0663095,
           -22.8869088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12218392030",
+      "properties": {
+        "timestamp": "2024-10-03T11:11:58Z",
+        "version": 1,
+        "changeset": 157413384,
+        "addr:city": "Campinas",
+        "addr:housenumber": "708",
+        "addr:postcode": "13020-431",
+        "addr:street": "Avenida Barão de Itapura",
+        "addr:suburb": "Botafogo",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "otolaryngology",
+        "name": "IMA Instituto de Medicina Avançada",
+        "opening_hours": "Mo-Fr 08:00-18:00",
+        "website": "https://www.imacampinas.com.br/",
+        "id": "node/12218392030"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0682914,
+          -22.8974267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12218392031",
+      "properties": {
+        "timestamp": "2024-10-03T11:11:58Z",
+        "version": 1,
+        "changeset": 157413384,
+        "addr:city": "Campinas",
+        "addr:housenumber": "685",
+        "addr:postcode": "13020-431",
+        "addr:street": "Avenida Barão de Itapura",
+        "addr:suburb": "Botafogo",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "mobile": "+55 (19) 98262-0739",
+        "name": "OrtoClínica Campinas",
+        "opening_hours": "Mo-Fr 07:00-18:00",
+        "phone": "+55 (19) 3733-9022",
+        "website": "https://ortoclinicacampinas.com.br",
+        "id": "node/12218392031"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0686848,
+          -22.897511
         ]
       }
     }

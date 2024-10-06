@@ -1741,9 +1741,9 @@
       "type": "Feature",
       "id": "way/581734146",
       "properties": {
-        "timestamp": "2024-03-22T13:12:00Z",
-        "version": 3,
-        "changeset": 149013093,
+        "timestamp": "2024-10-03T18:05:51Z",
+        "version": 4,
+        "changeset": 157431298,
         "addr:city": "Londrina",
         "addr:housenumber": "1589",
         "addr:street": "Avenida Duque de Caxias",
@@ -1823,6 +1823,10 @@
             [
               -51.1534314,
               -23.329118
+            ],
+            [
+              -51.1535977,
+              -23.3288219
             ],
             [
               -51.1541878,
@@ -11124,6 +11128,29 @@
         "coordinates": [
           -51.1735155,
           -23.2782781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12219157335",
+      "properties": {
+        "timestamp": "2024-10-03T18:05:51Z",
+        "version": 1,
+        "changeset": 157431298,
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "network": "Londrina",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "id": "node/12219157335"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1535977,
+          -23.3288219
         ]
       }
     }

@@ -1411,6 +1411,60 @@
     },
     {
       "type": "Feature",
+      "id": "way/581730371",
+      "properties": {
+        "timestamp": "2024-10-03T17:27:22Z",
+        "version": 2,
+        "changeset": 157430026,
+        "addr:city": "Londrina",
+        "addr:housenumber": "1187",
+        "addr:postcode": "86015-000",
+        "addr:street": "Avenida Duque de Caxias",
+        "addr:suburb": "Jardim Petrópolis",
+        "amenity": "pharmacy",
+        "brand": "Droga Raia",
+        "brand:wikidata": "Q10357101",
+        "building": "yes",
+        "building:levels": "1",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "mobile": "+55-43-991261839",
+        "name": "Droga Raia",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "operator": "Droga Raia",
+        "id": "way/581730371"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.1525561,
+              -23.3307922
+            ],
+            [
+              -51.1526908,
+              -23.3305515
+            ],
+            [
+              -51.1527644,
+              -23.3305862
+            ],
+            [
+              -51.1526297,
+              -23.3308269
+            ],
+            [
+              -51.1525561,
+              -23.3307922
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/687052288",
       "properties": {
         "timestamp": "2019-05-01T12:30:03Z",
@@ -2568,6 +2622,39 @@
         "coordinates": [
           -51.1829643,
           -23.2611443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12219087866",
+      "properties": {
+        "timestamp": "2024-10-03T17:33:24Z",
+        "version": 1,
+        "changeset": 157430217,
+        "addr:city": "Londrina",
+        "addr:housenumber": "2083",
+        "addr:postcode": "86015-490",
+        "addr:street": "Rua Senador Souza Naves",
+        "addr:suburb": "Jardim Petrópolis",
+        "amenity": "pharmacy",
+        "brand": "Farmácia São João",
+        "brand:wikidata": "Q65164556",
+        "contact:facebook": "https://www.saojoaofarmacias.com.br/",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "mobile": "+55 43 991461940",
+        "name": "Farmácia São João",
+        "opening_hours": "Mo-Su 07:30-23:00",
+        "operator": "Farmácia São João",
+        "id": "node/12219087866"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1575846,
+          -23.3310365
         ]
       }
     }

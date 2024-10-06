@@ -48,23 +48,52 @@
     },
     {
       "type": "Feature",
-      "id": "node/2938354736",
+      "id": "way/1312904672",
       "properties": {
-        "timestamp": "2019-01-18T23:43:51Z",
-        "version": 4,
-        "changeset": 66442756,
+        "timestamp": "2024-10-03T22:44:55Z",
+        "version": 2,
+        "changeset": 157439210,
         "addr:street": "Rodovia Engenheiro Félix Malburg",
         "building": "hotel",
         "name": "Hotel Formosa",
         "phone": "+55 49 3343-0052",
+        "source": "microsoft/BuildingFootprints",
         "tourism": "hotel",
-        "id": "node/2938354736"
+        "id": "way/1312904672"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -52.7970706,
-          -26.6493282
+          [
+            [
+              -52.7972263,
+              -26.6493467
+            ],
+            [
+              -52.7970425,
+              -26.6494356
+            ],
+            [
+              -52.7969617,
+              -26.6493021
+            ],
+            [
+              -52.7970841,
+              -26.6492429
+            ],
+            [
+              -52.7971054,
+              -26.6492781
+            ],
+            [
+              -52.7971668,
+              -26.6492484
+            ],
+            [
+              -52.7972263,
+              -26.6493467
+            ]
+          ]
         ]
       }
     }

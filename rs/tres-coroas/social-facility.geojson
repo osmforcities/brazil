@@ -3,21 +3,43 @@
   "features": [
     {
       "type": "Feature",
-      "id": "node/12146663547",
+      "id": "way/1303777523",
       "properties": {
-        "timestamp": "2024-08-30T18:57:21Z",
-        "version": 1,
-        "changeset": 155988079,
+        "timestamp": "2024-10-05T06:35:16Z",
+        "version": 2,
+        "changeset": 157485552,
         "amenity": "social_facility",
+        "building": "yes",
         "social_facility": "group_home",
         "social_facility:for": "senior",
-        "id": "node/12146663547"
+        "source": "microsoft/BuildingFootprints",
+        "id": "way/1303777523"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -50.7754605,
-          -29.5149709
+          [
+            [
+              -50.7754027,
+              -29.514912
+            ],
+            [
+              -50.7755328,
+              -29.5149069
+            ],
+            [
+              -50.7755401,
+              -29.5150456
+            ],
+            [
+              -50.77541,
+              -29.5150508
+            ],
+            [
+              -50.7754027,
+              -29.514912
+            ]
+          ]
         ]
       }
     }

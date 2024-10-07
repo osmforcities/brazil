@@ -48,10 +48,13 @@
       "type": "Feature",
       "id": "node/1931153386",
       "properties": {
-        "timestamp": "2020-03-15T21:44:35Z",
-        "version": 3,
-        "changeset": 82228665,
+        "timestamp": "2024-10-05T00:32:13Z",
+        "version": 4,
+        "changeset": 157481533,
+        "addr:street": "Avenida Santa Bárbara",
         "amenity": "pharmacy",
+        "dispensing": "yes",
+        "drive_through": "no",
         "healthcare": "pharmacy",
         "name": "Farmavip",
         "id": "node/1931153386"
@@ -59,8 +62,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -47.4073292,
-          -22.5736257
+          -47.4073768,
+          -22.573611
         ]
       }
     },
@@ -112,6 +115,28 @@
         "coordinates": [
           -47.401133,
           -22.562514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12228589657",
+      "properties": {
+        "timestamp": "2024-10-05T23:35:03Z",
+        "version": 1,
+        "changeset": 157520386,
+        "addr:street": "Avenida Canadá",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Bem Te Faz Farmácia",
+        "id": "node/12228589657"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.4480267,
+          -22.5497555
         ]
       }
     }

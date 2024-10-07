@@ -3,6 +3,56 @@
   "features": [
     {
       "type": "Feature",
+      "id": "way/1306046119",
+      "properties": {
+        "timestamp": "2024-10-05T06:51:17Z",
+        "version": 3,
+        "changeset": 157485961,
+        "building": "yes",
+        "government": "register_office",
+        "name": "Cartório",
+        "office": "government",
+        "source": "microsoft/BuildingFootprints",
+        "id": "way/1306046119"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -50.778898,
+              -29.5172867
+            ],
+            [
+              -50.7788994,
+              -29.5174174
+            ],
+            [
+              -50.7789396,
+              -29.5174171
+            ],
+            [
+              -50.7789419,
+              -29.5176356
+            ],
+            [
+              -50.7787928,
+              -29.5176368
+            ],
+            [
+              -50.7787891,
+              -29.5172876
+            ],
+            [
+              -50.778898,
+              -29.5172867
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/12146663545",
       "properties": {
         "timestamp": "2024-08-30T18:57:21Z",
@@ -18,25 +68,6 @@
         "coordinates": [
           -50.7780859,
           -29.5141172
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/12146663551",
-      "properties": {
-        "timestamp": "2024-08-30T18:57:21Z",
-        "version": 1,
-        "changeset": 155988079,
-        "government": "register_office",
-        "office": "government",
-        "id": "node/12146663551"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -50.7788351,
-          -29.5175616
         ]
       }
     }

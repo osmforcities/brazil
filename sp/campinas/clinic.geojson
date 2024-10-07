@@ -118,21 +118,27 @@
       "type": "Feature",
       "id": "way/157779532",
       "properties": {
-        "timestamp": "2021-09-30T14:50:05Z",
-        "version": 7,
-        "changeset": 111921564,
+        "timestamp": "2024-10-05T14:31:58Z",
+        "version": 9,
+        "changeset": 157504209,
         "addr:city": "Campinas",
-        "addr:housenumber": "38",
-        "addr:street": "Rua Luiz Antônio de Assunção Leite",
+        "addr:housenumber": "331",
+        "addr:postcode": "13033-660",
+        "addr:street": "Rua Dona Licínia Teixeira de Souza",
         "addr:suburb": "Vila Proost",
         "amenity": "clinic",
         "building": "yes",
         "emergency": "no",
         "emergency_telephone_code": "+551932435182",
+        "healthcare": "clinic",
         "link": "http://sistema.saude.sp.gov.br/consulta_cnes/",
-        "name": "Posto de Saúde - Jardim Aurélia",
-        "opening_hours": "07:00-19:00",
+        "mobile": "+55 (19) 3243-5886",
+        "name": "Centro de Saúde \"Dr. Estimado Domingues\" - Jardim Aurélia",
+        "opening_hours": "Mo-Fr 07:00-19:00; Sa 07:00-13:00",
+        "operator": "Prefeitura de Campinas",
         "operator:type": "public",
+        "phone": "+55 (19) 3213-7822",
+        "website": "https://portal.campinas.sp.gov.br/secretaria/saude/pagina/centro-de-saude-jardim-aurelia",
         "id": "way/157779532"
       },
       "geometry": {
@@ -178,6 +184,75 @@
             [
               -47.0923716,
               -22.9015488
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/284933924",
+      "properties": {
+        "timestamp": "2024-10-05T14:42:12Z",
+        "version": 5,
+        "changeset": 157504600,
+        "addr:city": "Campinas",
+        "addr:housenumber": "199",
+        "addr:postcode": "13082-325",
+        "addr:street": "Avenida Maria Luíza Pompeo de Camargo",
+        "addr:suburb": "Jardim Campineiro",
+        "amenity": "clinic",
+        "building": "yes",
+        "emergency": "no",
+        "healthcare": "clinic",
+        "mobile": "+55 (19) 3246-1229",
+        "name": "Centro de Saúde \"Joana Julia de Rezende Tripoloni\" - Jardim São Marcos",
+        "opening_hours": "Mo-Fr 07:00-19:00",
+        "operator": "Prefeitura de Campinas",
+        "operator:type": "public",
+        "phone": "+55 (19) 3246-3018",
+        "website": "https://portal.campinas.sp.gov.br/secretaria/saude/pagina/centro-de-saude-jardim-sao-marcos",
+        "id": "way/284933924"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.1198831,
+              -22.8477389
+            ],
+            [
+              -47.1199399,
+              -22.847806
+            ],
+            [
+              -47.1199637,
+              -22.8480294
+            ],
+            [
+              -47.1198833,
+              -22.8480838
+            ],
+            [
+              -47.1195178,
+              -22.8480869
+            ],
+            [
+              -47.1195703,
+              -22.8480634
+            ],
+            [
+              -47.1195044,
+              -22.8475617
+            ],
+            [
+              -47.119767,
+              -22.8476434
+            ],
+            [
+              -47.1198831,
+              -22.8477389
             ]
           ]
         ]
@@ -389,15 +464,24 @@
       "type": "Feature",
       "id": "way/538743968",
       "properties": {
-        "timestamp": "2021-12-18T23:24:14Z",
-        "version": 4,
-        "changeset": 115112099,
+        "timestamp": "2024-10-05T14:20:15Z",
+        "version": 5,
+        "changeset": 157503724,
+        "addr:city": "Campinas",
+        "addr:housenumber": "893",
+        "addr:postcode": "13084-008",
         "addr:street": "Avenida Albino José Barbosa de Oliveira",
+        "addr:suburb": "Barão Geraldo",
         "amenity": "clinic",
         "building": "yes",
         "healthcare": "clinic",
-        "name": "Posto de Saúde - Atílio Vicentin",
-        "opening_hours": "Mo-Fr 07:00-21:00",
+        "mobile": "+55 (19) 99790-5877",
+        "name": "Centro de Saúde \"Attílio Vicentin\" - Barão Geraldo",
+        "opening_hours": "Mo-Fr 07:00-19:00",
+        "operator": "Prefeitura de Campinas",
+        "operator:type": "public",
+        "phone": "+55 (19) 3289-9691",
+        "website": "https://portal.campinas.sp.gov.br/secretaria/saude/pagina/centro-de-saude-barao-geraldo",
         "id": "way/538743968"
       },
       "geometry": {
@@ -1770,12 +1854,23 @@
       "type": "Feature",
       "id": "node/6391216785",
       "properties": {
-        "timestamp": "2023-12-04T10:23:51Z",
-        "version": 3,
-        "changeset": 144748927,
+        "timestamp": "2024-10-05T14:42:12Z",
+        "version": 4,
+        "changeset": 157504600,
+        "addr:city": "Campinas",
+        "addr:housenumber": "286",
+        "addr:postcode": "13063-580",
+        "addr:street": "Rua Matin Luther King Júnior",
+        "addr:suburb": "Jardim Eulina",
         "amenity": "clinic",
         "healthcare": "clinic",
-        "name": "Centro de Saúde Jardim Eulina",
+        "mobile": "+55 (19) 3243-3343",
+        "name": "Centro de Saúde \"Dr. Laerte de Moraes\" - Jardim Eulina",
+        "opening_hours": "Mo-Fr 07:00-18:00",
+        "operator": "Prefeitura de Campinas",
+        "operator:type": "public",
+        "phone": "+55 (19) 3243-0233",
+        "website": "https://portal.campinas.sp.gov.br/secretaria/saude/pagina/centro-de-saude-jardim-eulina",
         "id": "node/6391216785"
       },
       "geometry": {

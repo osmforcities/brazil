@@ -7288,9 +7288,9 @@
       "type": "Feature",
       "id": "way/903983956",
       "properties": {
-        "timestamp": "2024-01-08T19:17:20Z",
-        "version": 2,
-        "changeset": 146040917,
+        "timestamp": "2024-10-05T19:49:41Z",
+        "version": 3,
+        "changeset": 157515681,
         "addr:city": "Sorocaba",
         "addr:housenumber": "178",
         "addr:postcode": "18090-505",
@@ -7299,10 +7299,10 @@
         "branch": "Unidade Progresso",
         "building": "yes",
         "leisure": "fitness_centre",
-        "name": "Academia Ghimper",
+        "name": "Ghimper Academias - Unidade Progresso",
         "opening_hours": "Mo-Fr 06:00-22:00; Sa 08:00-18:00; Su 09:00-13:00",
         "phone": "+55 15 3231 9968",
-        "sport": "fitness",
+        "sport": "fitness;swimming",
         "website": "https://ghimperacademias.com.br/unidade-progresso-fitness-e-lutas/",
         "id": "way/903983956"
       },
@@ -11101,6 +11101,60 @@
             [
               -47.3780719,
               -23.3968624
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1109016580",
+      "properties": {
+        "timestamp": "2024-10-05T14:47:38Z",
+        "version": 2,
+        "changeset": 157504799,
+        "addr:city": "Sorocaba",
+        "addr:housenumber": "1699",
+        "addr:postcode": "18013-004",
+        "addr:street": "Avenida São Paulo",
+        "addr:suburb": "Árvore Grande",
+        "building": "yes",
+        "image": "https://i0.wp.com/ghimperacademias.com.br/wp-content/uploads/2024/08/image00010-scaled.jpeg",
+        "internet_access": "wlan",
+        "layer": "1",
+        "leisure": "fitness_centre",
+        "mobile": "+55 15 99791-7454",
+        "name": "Ghimper Academias - Unidade Avenida São Paulo",
+        "opening_hours": "Mo-Fr 06:00-22:00; Sa 09:00-14:00, Su 09:00-13:00",
+        "sport": "swimming",
+        "start_date": "2024-07-29",
+        "website": "https://ghimperacademias.com.br/unidades/",
+        "wheelchair": "yes",
+        "id": "way/1109016580"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.4370528,
+              -23.4941519
+            ],
+            [
+              -47.4369173,
+              -23.4940476
+            ],
+            [
+              -47.4371549,
+              -23.493788
+            ],
+            [
+              -47.4372904,
+              -23.4938923
+            ],
+            [
+              -47.4370528,
+              -23.4941519
             ]
           ]
         ]

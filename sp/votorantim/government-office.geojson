@@ -68,9 +68,9 @@
       "type": "Feature",
       "id": "way/866504262",
       "properties": {
-        "timestamp": "2020-11-03T03:28:15Z",
-        "version": 1,
-        "changeset": 93448744,
+        "timestamp": "2024-10-05T18:30:32Z",
+        "version": 2,
+        "changeset": 157513333,
         "addr:city": "Votorantim",
         "addr:housenumber": "225",
         "addr:street": "Rua Albertina Nascimento",
@@ -85,24 +85,28 @@
         "coordinates": [
           [
             [
-              -47.4454273,
-              -23.5416564
+              -47.4453938,
+              -23.5416402
             ],
             [
-              -47.445351,
-              -23.5416411
+              -47.4453675,
+              -23.5416355
             ],
             [
-              -47.4453831,
-              -23.5415061
+              -47.4453201,
+              -23.5416272
             ],
             [
-              -47.4454594,
-              -23.5415214
+              -47.4453552,
+              -23.541459
             ],
             [
-              -47.4454273,
-              -23.5416564
+              -47.445429,
+              -23.5414719
+            ],
+            [
+              -47.4453938,
+              -23.5416402
             ]
           ]
         ]
@@ -153,6 +157,43 @@
               -23.5716689
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12228251391",
+      "properties": {
+        "timestamp": "2024-10-05T18:30:32Z",
+        "version": 1,
+        "changeset": 157513333,
+        "entrance": "yes",
+        "id": "node/12228251391"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.4453675,
+          -23.5416355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12228261406",
+      "properties": {
+        "timestamp": "2024-10-05T18:30:32Z",
+        "version": 1,
+        "changeset": 157513333,
+        "name": "Coordenadoria de Reintegração Social e Cidadania",
+        "office": "government",
+        "id": "node/12228261406"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.445358,
+          -23.5414189
         ]
       }
     }

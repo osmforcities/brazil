@@ -1046,11 +1046,12 @@
       "type": "Feature",
       "id": "way/159116086",
       "properties": {
-        "timestamp": "2023-07-20T00:51:30Z",
-        "version": 2,
-        "changeset": 138739700,
+        "timestamp": "2024-10-07T16:55:09Z",
+        "version": 3,
+        "changeset": 157591232,
+        "addr:city": "Campinas",
         "addr:housenumber": "80",
-        "addr:postcode": "13015 - 100",
+        "addr:postcode": "13015-100",
         "addr:street": "Avenida Anchieta",
         "addr:suburb": "Centro",
         "amenity": "school",
@@ -8717,6 +8718,60 @@
         "coordinates": [
           -47.0703324,
           -22.8873492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12231638022",
+      "properties": {
+        "timestamp": "2024-10-07T12:15:11Z",
+        "version": 1,
+        "changeset": 157579471,
+        "addr:city": "Campinas",
+        "addr:housenumber": "266",
+        "addr:postcode": "13070-070",
+        "addr:street": "Avenida João Erbolato",
+        "addr:suburb": "Jardim Chapadão",
+        "amenity": "school",
+        "mobile": "+55 (19) 98120-9039",
+        "name": "Inclusione Clínica e Escola",
+        "phone": "+55 (19) 3213-1610",
+        "website": "https://inclusione.com.br/",
+        "id": "node/12231638022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0798584,
+          -22.8891357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12231638023",
+      "properties": {
+        "timestamp": "2024-10-07T12:15:11Z",
+        "version": 1,
+        "changeset": 157579471,
+        "addr:city": "Campinas",
+        "addr:housenumber": "291",
+        "addr:postcode": "13070-070",
+        "addr:street": "Avenida João Erbolato",
+        "addr:suburb": "Jardim Chapadão",
+        "amenity": "school",
+        "mobile": "+55 (19) 98120-9039",
+        "name": "Inclusione Clínica e Escola",
+        "phone": "+55 (19) 3213-1610",
+        "website": "https://inclusione.com.br",
+        "id": "node/12231638023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.080131,
+          -22.8894273
         ]
       }
     }

@@ -240,42 +240,43 @@
     },
     {
       "type": "Feature",
-      "id": "node/10115033449",
+      "id": "way/1322147895",
       "properties": {
-        "timestamp": "2022-10-19T19:44:56Z",
+        "timestamp": "2024-10-08T13:45:41Z",
         "version": 1,
-        "changeset": 127803836,
+        "changeset": 157627872,
         "access": "yes",
+        "building": "yes",
         "leisure": "pitch",
-        "name": "Campo do Morro",
-        "sport": "soccer",
-        "id": "node/10115033449"
+        "name": "Quadra do Morro;Campo do Morro",
+        "sport": "futsal;soccer",
+        "id": "way/1322147895"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -56.3396963,
-          -15.7827468
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/10115033450",
-      "properties": {
-        "timestamp": "2022-10-19T19:44:56Z",
-        "version": 1,
-        "changeset": 127803836,
-        "leisure": "pitch",
-        "name": "Quadra do Morro",
-        "sport": "futsal",
-        "id": "node/10115033450"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -56.3390162,
-          -15.7821215
+          [
+            [
+              -56.3391043,
+              -15.782071
+            ],
+            [
+              -56.3390219,
+              -15.7822929
+            ],
+            [
+              -56.3386958,
+              -15.7821807
+            ],
+            [
+              -56.3387782,
+              -15.7819589
+            ],
+            [
+              -56.3391043,
+              -15.782071
+            ]
+          ]
         ]
       }
     }

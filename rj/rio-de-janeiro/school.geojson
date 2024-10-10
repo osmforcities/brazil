@@ -1703,11 +1703,21 @@
       "type": "Feature",
       "id": "way/49712587",
       "properties": {
-        "timestamp": "2010-02-07T19:22:25Z",
-        "version": 2,
-        "changeset": 3817936,
+        "timestamp": "2024-10-08T15:36:34Z",
+        "version": 3,
+        "changeset": 157633209,
+        "addr:city": "Rio de Janeiro",
+        "addr:housenumber": "340",
+        "addr:postcode": "21940-010",
+        "addr:street": "Rua Abélia",
+        "addr:suburb": "Jardim Guanabara",
         "amenity": "school",
-        "name": "Colégio Municipal Alvaro Moreyra",
+        "name": "Escola Municipal Álvaro Moreira",
+        "operator": "Prefeitura do Rio",
+        "operator:type": "government",
+        "phone": "+55 21 3393-7005",
+        "source": "IPP",
+        "website": "http://webapp.sme.rio.rj.gov.br/jcartela/publico/pesquisa.do?idSetor=11317&cmd=load",
         "id": "way/49712587"
       },
       "geometry": {
@@ -1731,8 +1741,8 @@
               -22.8095867
             ],
             [
-              -43.1968683,
-              -22.8097395
+              -43.1968403,
+              -22.8097551
             ],
             [
               -43.196908,
@@ -2044,11 +2054,20 @@
       "type": "Feature",
       "id": "way/50007124",
       "properties": {
-        "timestamp": "2010-02-13T17:29:35Z",
-        "version": 2,
-        "changeset": 3866775,
+        "timestamp": "2024-10-08T15:36:34Z",
+        "version": 3,
+        "changeset": 157633209,
+        "addr:city": "Rio de Janeiro",
+        "addr:housenumber": "258",
+        "addr:postcode": "21940-120",
+        "addr:street": "Rua Gaspar Magalhães",
+        "addr:suburb": "Jardim Guanabara",
         "amenity": "school",
         "name": "Escola Municipal Brigadeiro Eduardo Gomes",
+        "operator": "Prefeitura do Rio",
+        "operator:type": "government",
+        "phone": "+55 21 3393-2630;+55 21 3393-4185",
+        "website": "http://webapp.sme.rio.rj.gov.br/jcartela/publico/pesquisa.do?cmd=load&idSetor=11314",
         "id": "way/50007124"
       },
       "geometry": {
@@ -48502,40 +48521,6 @@
         "coordinates": [
           -43.4705756,
           -22.8867467
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/823943977",
-      "properties": {
-        "timestamp": "2015-10-05T19:08:25Z",
-        "version": 2,
-        "changeset": 34454402,
-        "IPP:BAIRRO": "Jardim Guanabara",
-        "IPP:CHAVE": "11317",
-        "IPP:CODATIVIDA": "0",
-        "IPP:CODBAIRRO": "099",
-        "IPP:COD_INEP": "33085935",
-        "IPP:COD_SMA": "011317",
-        "IPP:CRE": "04",
-        "IPP:DESIGNACAO": "0420008",
-        "IPP:ENDERECO": "Rua Abélia, 340",
-        "IPP:ENDNOVO": "http://webapp.sme.rio.rj.gov.br/jcartela/publico/pesquisa.do?idSetor=11317&cmd=load",
-        "IPP:FLG_VALIDA": "S",
-        "IPP:TELEFONES": "3393-7005",
-        "addr:housenumber": "340",
-        "addr:street": "Rua Abélia",
-        "amenity": "school",
-        "name": "Escola Municipal Álvaro Moreira",
-        "source": "IPP",
-        "id": "node/823943977"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.1965555,
-          -22.8100288
         ]
       }
     },

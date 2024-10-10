@@ -19891,6 +19891,109 @@
     },
     {
       "type": "Feature",
+      "id": "way/1322036008",
+      "properties": {
+        "timestamp": "2024-10-08T03:10:09Z",
+        "version": 1,
+        "changeset": 157605645,
+        "addr:city": "Teresina",
+        "addr:street": "Avenida Doutor Josué Moura Santos",
+        "addr:suburb": "Pedra Mole",
+        "amenity": "school",
+        "grades": "1-9",
+        "name": "E.M. Clodoaldo Freitas",
+        "operator": "SEMEC",
+        "operator:type": "public",
+        "id": "way/1322036008"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.7857322,
+              -5.0217458
+            ],
+            [
+              -42.7857845,
+              -5.0221993
+            ],
+            [
+              -42.785412,
+              -5.0222695
+            ],
+            [
+              -42.7853668,
+              -5.0220006
+            ],
+            [
+              -42.7853751,
+              -5.0219887
+            ],
+            [
+              -42.7853357,
+              -5.0217864
+            ],
+            [
+              -42.7855706,
+              -5.0216902
+            ],
+            [
+              -42.7855844,
+              -5.0217727
+            ],
+            [
+              -42.7857322,
+              -5.0217458
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1322155339",
+      "properties": {
+        "timestamp": "2024-10-08T14:19:20Z",
+        "version": 1,
+        "changeset": 157629529,
+        "addr:city": "Teresina",
+        "addr:street": "Avenida José dos Santos e Silva",
+        "addr:suburb": "Centro-Sul",
+        "amenity": "school",
+        "name": "Colégio Certo",
+        "id": "way/1322155339"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.8133765,
+              -5.0965
+            ],
+            [
+              -42.8133094,
+              -5.0966337
+            ],
+            [
+              -42.8131022,
+              -5.0965203
+            ],
+            [
+              -42.8131722,
+              -5.0963941
+            ],
+            [
+              -42.8133765,
+              -5.0965
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/910039648",
       "properties": {
         "timestamp": "2021-02-23T14:39:25Z",
@@ -21854,26 +21957,6 @@
         "coordinates": [
           -42.6937493,
           -4.9495006
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/8258507449",
-      "properties": {
-        "timestamp": "2020-12-24T21:42:35Z",
-        "version": 1,
-        "changeset": 96403216,
-        "amenity": "school",
-        "name": "E.M. Clodoaldo Freitas",
-        "phone": "+55 86 3215 7911",
-        "id": "node/8258507449"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -42.7855839,
-          -5.0220723
         ]
       }
     },

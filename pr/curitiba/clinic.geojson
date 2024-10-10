@@ -4629,6 +4629,225 @@
     },
     {
       "type": "Feature",
+      "id": "way/1322357307",
+      "properties": {
+        "timestamp": "2024-10-08T20:39:04Z",
+        "version": 1,
+        "changeset": 157645518,
+        "addr:housenumber": "1163",
+        "addr:street": "Rua Batista da Costa",
+        "addr:suburb": "Xaxim",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "Unidade de Saúde Xaxim",
+        "operator": "Secretaria Municipal da Saúde",
+        "operator:type": "public",
+        "id": "way/1322357307"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.2773014,
+              -25.5163278
+            ],
+            [
+              -49.2773322,
+              -25.5163676
+            ],
+            [
+              -49.277362,
+              -25.5163488
+            ],
+            [
+              -49.277414,
+              -25.516416
+            ],
+            [
+              -49.2773719,
+              -25.5164426
+            ],
+            [
+              -49.2773769,
+              -25.516449
+            ],
+            [
+              -49.2773516,
+              -25.516465
+            ],
+            [
+              -49.277365,
+              -25.5164824
+            ],
+            [
+              -49.2772896,
+              -25.51653
+            ],
+            [
+              -49.2772608,
+              -25.5164928
+            ],
+            [
+              -49.2772512,
+              -25.5164988
+            ],
+            [
+              -49.2772589,
+              -25.5165087
+            ],
+            [
+              -49.2772028,
+              -25.5165441
+            ],
+            [
+              -49.2771673,
+              -25.5164984
+            ],
+            [
+              -49.2771948,
+              -25.516481
+            ],
+            [
+              -49.2771587,
+              -25.5164343
+            ],
+            [
+              -49.2771446,
+              -25.5164432
+            ],
+            [
+              -49.2770679,
+              -25.516344
+            ],
+            [
+              -49.2771666,
+              -25.5162818
+            ],
+            [
+              -49.2772347,
+              -25.5163698
+            ],
+            [
+              -49.2773014,
+              -25.5163278
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1322357308",
+      "properties": {
+        "timestamp": "2024-10-08T20:39:04Z",
+        "version": 1,
+        "changeset": 157645518,
+        "addr:housenumber": "131",
+        "addr:street": "Rua Bernardo Mann",
+        "addr:suburb": "Xaxim",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Unidade de Saúde São Pedro",
+        "operator": "Secretaria Municipal da Saúde",
+        "operator:type": "public",
+        "id": "way/1322357308"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.2699776,
+              -25.5210646
+            ],
+            [
+              -49.2699916,
+              -25.5210899
+            ],
+            [
+              -49.2699997,
+              -25.5210897
+            ],
+            [
+              -49.2700147,
+              -25.5211167
+            ],
+            [
+              -49.2700244,
+              -25.5211123
+            ],
+            [
+              -49.2700346,
+              -25.5211308
+            ],
+            [
+              -49.2700234,
+              -25.5211359
+            ],
+            [
+              -49.2700399,
+              -25.5211656
+            ],
+            [
+              -49.2700327,
+              -25.5211688
+            ],
+            [
+              -49.2700494,
+              -25.5211988
+            ],
+            [
+              -49.2699585,
+              -25.5212399
+            ],
+            [
+              -49.2699349,
+              -25.5211973
+            ],
+            [
+              -49.2699106,
+              -25.5212082
+            ],
+            [
+              -49.269935,
+              -25.5212524
+            ],
+            [
+              -49.2698497,
+              -25.5212909
+            ],
+            [
+              -49.2697736,
+              -25.5211534
+            ],
+            [
+              -49.269859,
+              -25.5211149
+            ],
+            [
+              -49.2698773,
+              -25.5211479
+            ],
+            [
+              -49.2699062,
+              -25.5211349
+            ],
+            [
+              -49.2698893,
+              -25.5211044
+            ],
+            [
+              -49.2699776,
+              -25.5210646
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/1669427919",
       "properties": {
         "timestamp": "2023-01-08T14:57:48Z",
@@ -9137,31 +9356,6 @@
         "coordinates": [
           -49.2568412,
           -25.5104296
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/4361493730",
-      "properties": {
-        "timestamp": "2023-01-02T21:02:24Z",
-        "version": 2,
-        "changeset": 130803502,
-        "addr:housenumber": "131",
-        "addr:street": "Rua Bernardo Mann",
-        "addr:suburb": "Xaxim",
-        "amenity": "clinic",
-        "healthcare": "clinic",
-        "name": "Unidade de Saúde São Pedro",
-        "operator": "Secretaria Municipal da Saúde",
-        "operator:type": "public",
-        "id": "node/4361493730"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.2699119,
-          -25.521175
         ]
       }
     },
@@ -13697,31 +13891,6 @@
         "coordinates": [
           -49.2707641,
           -25.527138
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/10301261660",
-      "properties": {
-        "timestamp": "2023-01-02T21:02:24Z",
-        "version": 1,
-        "changeset": 130803502,
-        "addr:housenumber": "1163",
-        "addr:street": "Rua Batista da Costa",
-        "addr:suburb": "Xaxim",
-        "amenity": "clinic",
-        "healthcare": "clinic",
-        "name": "Unidade de Saúde Xaxim",
-        "operator": "Secretaria Municipal da Saúde",
-        "operator:type": "public",
-        "id": "node/10301261660"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.2772318,
-          -25.5164301
         ]
       }
     },

@@ -799,9 +799,9 @@
       "type": "Feature",
       "id": "way/485790879",
       "properties": {
-        "timestamp": "2017-04-10T05:46:47Z",
-        "version": 1,
-        "changeset": 47610627,
+        "timestamp": "2024-10-08T13:57:46Z",
+        "version": 2,
+        "changeset": 157628469,
         "leisure": "pitch",
         "name": "Campão",
         "sport": "soccer",
@@ -1910,6 +1910,47 @@
     },
     {
       "type": "Feature",
+      "id": "way/1322150018",
+      "properties": {
+        "timestamp": "2024-10-08T13:58:13Z",
+        "version": 1,
+        "changeset": 157628488,
+        "leisure": "pitch",
+        "name": "Campinho Morumbi",
+        "sport": "soccer",
+        "surface": "grass",
+        "id": "way/1322150018"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.2616027,
+              -23.2821508
+            ],
+            [
+              -51.2616916,
+              -23.2824881
+            ],
+            [
+              -51.2609502,
+              -23.2826529
+            ],
+            [
+              -51.2608613,
+              -23.2823157
+            ],
+            [
+              -51.2616027,
+              -23.2821508
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/681698209",
       "properties": {
         "timestamp": "2019-07-05T15:56:15Z",
@@ -1961,26 +2002,6 @@
         "coordinates": [
           -51.2778201,
           -23.2702774
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/4785564013",
-      "properties": {
-        "timestamp": "2017-04-10T05:46:47Z",
-        "version": 1,
-        "changeset": 47610627,
-        "leisure": "pitch",
-        "name": "Campão",
-        "sport": "soccer",
-        "id": "node/4785564013"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -51.2561746,
-          -23.2770499
         ]
       }
     },
@@ -2044,27 +2065,6 @@
         "coordinates": [
           -51.2615688,
           -23.2836192
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/6384093290",
-      "properties": {
-        "timestamp": "2019-04-04T18:52:55Z",
-        "version": 1,
-        "changeset": 68895428,
-        "leisure": "pitch",
-        "name": "Campinho Morumbi",
-        "sport": "soccer",
-        "surface": "grass",
-        "id": "node/6384093290"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -51.2612473,
-          -23.2824208
         ]
       }
     },

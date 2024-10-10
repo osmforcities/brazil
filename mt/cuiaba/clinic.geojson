@@ -493,9 +493,9 @@
       "type": "Feature",
       "id": "way/814651032",
       "properties": {
-        "timestamp": "2022-12-12T11:04:54Z",
-        "version": 3,
-        "changeset": 129994630,
+        "timestamp": "2024-10-08T19:44:58Z",
+        "version": 4,
+        "changeset": 157643759,
         "addr:city": "Cuiabá",
         "addr:street": "Avenida Rio Piraim",
         "addr:suburb": "Grande Terceiro",
@@ -503,6 +503,9 @@
         "building": "yes",
         "healthcare": "clinic",
         "name": "Centro de Saúde Grande Terceiro",
+        "operator": "Sistema Único de Saúde",
+        "operator:short": "SUS",
+        "operator:wikidata": "Q7531056",
         "id": "way/814651032"
       },
       "geometry": {
@@ -1583,9 +1586,9 @@
       "type": "Feature",
       "id": "way/1120197456",
       "properties": {
-        "timestamp": "2022-12-07T20:15:54Z",
-        "version": 1,
-        "changeset": 129834619,
+        "timestamp": "2024-10-08T19:44:58Z",
+        "version": 2,
+        "changeset": 157643759,
         "addr:city": "Cuiabá",
         "addr:street": "Avenida Rio Piraim",
         "addr:suburb": "Grande Terceiro",
@@ -1593,7 +1596,7 @@
         "building": "yes",
         "healthcare": "clinic",
         "name": "Serviço de Assistência Especializada",
-        "short_name": "SAE",
+        "short_name": "SAE Grande Terceiro",
         "id": "way/1120197456"
       },
       "geometry": {
@@ -2809,6 +2812,50 @@
             [
               -56.0828709,
               -15.5923565
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1322347036",
+      "properties": {
+        "timestamp": "2024-10-08T19:44:58Z",
+        "version": 1,
+        "changeset": 157643759,
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "UBS Novo Milênio e São João Del Rey",
+        "operator": "Sistema Único de Saúde",
+        "operator:short": "SUS",
+        "operator:wikidata": "Q7531056",
+        "id": "way/1322347036"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -56.0080486,
+              -15.6162197
+            ],
+            [
+              -56.0080893,
+              -15.6163763
+            ],
+            [
+              -56.0079253,
+              -15.6164158
+            ],
+            [
+              -56.0078846,
+              -15.6162592
+            ],
+            [
+              -56.0080486,
+              -15.6162197
             ]
           ]
         ]

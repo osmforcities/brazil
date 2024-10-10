@@ -3,6 +3,49 @@
   "features": [
     {
       "type": "Feature",
+      "id": "way/176408435",
+      "properties": {
+        "timestamp": "2024-10-08T13:53:58Z",
+        "version": 2,
+        "changeset": 157628294,
+        "access": "yes",
+        "leisure": "pitch",
+        "lit": "yes",
+        "name": "Complexo de esporte de Platina",
+        "sport": "soccer",
+        "surface": "grass",
+        "id": "way/176408435"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -50.2088021,
+              -22.6321174
+            ],
+            [
+              -50.2082422,
+              -22.6325575
+            ],
+            [
+              -50.2075706,
+              -22.6318298
+            ],
+            [
+              -50.2081305,
+              -22.6313896
+            ],
+            [
+              -50.2088021,
+              -22.6321174
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/578213284",
       "properties": {
         "timestamp": "2018-04-09T19:19:11Z",
@@ -37,29 +80,6 @@
               -22.6354185
             ]
           ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/9653044347",
-      "properties": {
-        "timestamp": "2022-08-29T11:05:37Z",
-        "version": 2,
-        "changeset": 125517984,
-        "access": "yes",
-        "leisure": "pitch",
-        "lit": "yes",
-        "name": "Complexo de esporte de Platina",
-        "sport": "soccer",
-        "surface": "grass",
-        "id": "node/9653044347"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -50.2081642,
-          -22.6319665
         ]
       }
     }

@@ -845,10 +845,14 @@
       "type": "Feature",
       "id": "way/110107793",
       "properties": {
-        "timestamp": "2020-09-07T16:23:22Z",
-        "version": 2,
-        "changeset": 90540978,
+        "timestamp": "2024-10-08T14:01:31Z",
+        "version": 3,
+        "changeset": 157628648,
         "access": "yes",
+        "addr:city": "Floriano",
+        "addr:street": "Rua Patu",
+        "addr:suburb": "Floriano",
+        "fixme": "R. Patu, Maringá - PR",
         "leisure": "pitch",
         "lit": "yes",
         "name": "Estádio Valdemar Bravin",
@@ -8185,6 +8189,46 @@
     },
     {
       "type": "Feature",
+      "id": "way/1322150951",
+      "properties": {
+        "timestamp": "2024-10-08T14:01:06Z",
+        "version": 1,
+        "changeset": 157628621,
+        "leisure": "pitch",
+        "name": "Quadra e futebol society Projeto Meu Campinho",
+        "sport": "soccer",
+        "id": "way/1322150951"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -52.0625149,
+              -23.3639802
+            ],
+            [
+              -52.0624727,
+              -23.3641311
+            ],
+            [
+              -52.0621284,
+              -23.3640499
+            ],
+            [
+              -52.0621706,
+              -23.363899
+            ],
+            [
+              -52.0625149,
+              -23.3639802
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/187793914",
       "properties": {
         "timestamp": "2012-10-26T13:31:41Z",
@@ -8742,52 +8786,6 @@
         "coordinates": [
           -51.9729233,
           -23.3877087
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/6872140220",
-      "properties": {
-        "timestamp": "2019-10-11T21:52:57Z",
-        "version": 1,
-        "changeset": 75586906,
-        "leisure": "pitch",
-        "name": "Quadra e futebol society Projeto Meu Campinho",
-        "sport": "soccer",
-        "id": "node/6872140220"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -52.0624196,
-          -23.3641118
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/7884771473",
-      "properties": {
-        "timestamp": "2020-09-07T18:36:21Z",
-        "version": 1,
-        "changeset": 90545325,
-        "access": "yes",
-        "addr:city": "Floriano",
-        "addr:street": "Rua Patu",
-        "addr:suburb": "Floriano",
-        "fixme": "R. Patu, Maringá - PR",
-        "leisure": "pitch",
-        "lit": "yes",
-        "sport": "soccer",
-        "surface": "grass",
-        "id": "node/7884771473"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -52.052743,
-          -23.5264752
         ]
       }
     },

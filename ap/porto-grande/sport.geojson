@@ -91,11 +91,13 @@
       "type": "Feature",
       "id": "way/656100076",
       "properties": {
-        "timestamp": "2018-12-19T00:05:42Z",
-        "version": 1,
-        "changeset": 65596581,
+        "timestamp": "2024-10-08T14:12:46Z",
+        "version": 2,
+        "changeset": 157629198,
         "leisure": "pitch",
-        "sport": "volleyball",
+        "lit": "no",
+        "sport": "volleyball;beachvolleyball",
+        "surface": "sand",
         "id": "way/656100076"
       },
       "geometry": {
@@ -130,13 +132,14 @@
       "type": "Feature",
       "id": "way/656100181",
       "properties": {
-        "timestamp": "2019-01-05T01:08:31Z",
-        "version": 2,
-        "changeset": 66038196,
+        "timestamp": "2024-10-08T14:12:46Z",
+        "version": 3,
+        "changeset": 157629198,
         "leisure": "pitch",
         "lit": "yes",
+        "name": "Campo de Futebol de áreia",
         "sport": "soccer",
-        "surface": "sand",
+        "surface": "sand;ground",
         "id": "way/656100181"
       },
       "geometry": {
@@ -211,11 +214,13 @@
       "type": "Feature",
       "id": "way/656309912",
       "properties": {
-        "timestamp": "2018-12-19T18:46:59Z",
-        "version": 1,
-        "changeset": 65620304,
+        "timestamp": "2024-10-08T14:12:19Z",
+        "version": 2,
+        "changeset": 157629173,
         "leisure": "pitch",
-        "sport": "basketball",
+        "lit": "yes",
+        "name": "Quadra de Esportes Maria Cristina",
+        "sport": "basketball;soccer",
         "id": "way/656309912"
       },
       "geometry": {
@@ -372,6 +377,60 @@
     },
     {
       "type": "Feature",
+      "id": "way/659611154",
+      "properties": {
+        "timestamp": "2024-10-08T14:13:02Z",
+        "version": 8,
+        "changeset": 157629208,
+        "building": "yes",
+        "leisure": "pitch",
+        "lit": "yes",
+        "sport": "soccer",
+        "surface": "concrete",
+        "id": "way/659611154"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.4144355,
+              0.7147482
+            ],
+            [
+              -51.4145385,
+              0.7145855
+            ],
+            [
+              -51.4146081,
+              0.7144788
+            ],
+            [
+              -51.4145134,
+              0.7144163
+            ],
+            [
+              -51.4143879,
+              0.7143327
+            ],
+            [
+              -51.4142142,
+              0.7146085
+            ],
+            [
+              -51.4143327,
+              0.714684
+            ],
+            [
+              -51.4144355,
+              0.7147482
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/660066608",
       "properties": {
         "timestamp": "2019-04-13T18:49:47Z",
@@ -407,6 +466,46 @@
             [
               -51.4148354,
               0.7139717
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/660793892",
+      "properties": {
+        "timestamp": "2024-10-08T14:13:23Z",
+        "version": 2,
+        "changeset": 157629217,
+        "leisure": "pitch",
+        "name": "Quadra da Area 6",
+        "sport": "soccer",
+        "id": "way/660793892"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.4025922,
+              0.6961386
+            ],
+            [
+              -51.4025071,
+              0.6959466
+            ],
+            [
+              -51.4022029,
+              0.6960815
+            ],
+            [
+              -51.402288,
+              0.6962734
+            ],
+            [
+              -51.4025922,
+              0.6961386
             ]
           ]
         ]
@@ -530,110 +629,6 @@
               0.7137918
             ]
           ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/6145237652",
-      "properties": {
-        "timestamp": "2018-12-18T13:44:11Z",
-        "version": 1,
-        "changeset": 65581484,
-        "leisure": "pitch",
-        "lit": "yes",
-        "name": "Campo de Futebol de áreia",
-        "sport": "soccer",
-        "surface": "ground",
-        "id": "node/6145237652"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -51.4113146,
-          0.7090601
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/6145245989",
-      "properties": {
-        "timestamp": "2018-12-18T13:48:03Z",
-        "version": 1,
-        "changeset": 65581587,
-        "leisure": "pitch",
-        "lit": "no",
-        "sport": "beachvolleyball",
-        "surface": "sand",
-        "id": "node/6145245989"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -51.410821,
-          0.7090601
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/6146454798",
-      "properties": {
-        "timestamp": "2018-12-18T23:21:38Z",
-        "version": 1,
-        "changeset": 65595937,
-        "leisure": "pitch",
-        "lit": "yes",
-        "name": "Quadra de Esportes Maria Cristina",
-        "sport": "soccer",
-        "id": "node/6146454798"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -51.4112723,
-          0.7072611
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/6174895315",
-      "properties": {
-        "timestamp": "2019-01-03T00:22:04Z",
-        "version": 2,
-        "changeset": 65974676,
-        "leisure": "pitch",
-        "lit": "yes",
-        "sport": "soccer",
-        "surface": "concrete",
-        "id": "node/6174895315"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -51.4145041,
-          0.7145846
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/6185824031",
-      "properties": {
-        "timestamp": "2019-01-05T14:20:13Z",
-        "version": 1,
-        "changeset": 66048202,
-        "leisure": "pitch",
-        "sport": "soccer",
-        "id": "node/6185824031"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -51.4024056,
-          0.6960938
         ]
       }
     }

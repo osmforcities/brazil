@@ -3365,6 +3365,52 @@
     },
     {
       "type": "Feature",
+      "id": "way/1322148972",
+      "properties": {
+        "timestamp": "2024-10-08T13:51:42Z",
+        "version": 1,
+        "changeset": 157628188,
+        "addr:city": "Lins",
+        "addr:housenumber": "860",
+        "addr:postcode": "16403-484",
+        "addr:street": "Rua Voluntário João Batista de Arruda",
+        "addr:suburb": "Junqueira",
+        "leisure": "pitch",
+        "lit": "yes",
+        "sport": "soccer",
+        "surface": "paved",
+        "id": "way/1322148972"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.7420713,
+              -21.6886141
+            ],
+            [
+              -49.7422618,
+              -21.6888403
+            ],
+            [
+              -49.741863,
+              -21.6891305
+            ],
+            [
+              -49.7416724,
+              -21.6889042
+            ],
+            [
+              -49.7420713,
+              -21.6886141
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/633215897",
       "properties": {
         "timestamp": "2023-12-24T16:29:41Z",
@@ -3469,32 +3515,6 @@
         "coordinates": [
           -49.7516395,
           -21.686689
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/5261369159",
-      "properties": {
-        "timestamp": "2017-12-03T04:26:07Z",
-        "version": 3,
-        "changeset": 54288404,
-        "addr:city": "Lins",
-        "addr:housenumber": "860",
-        "addr:postcode": "16403-484",
-        "addr:street": "Rua Voluntário João Batista de Arruda",
-        "addr:suburb": "Junqueira",
-        "leisure": "pitch",
-        "lit": "yes",
-        "sport": "soccer",
-        "surface": "paved",
-        "id": "node/5261369159"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.741507,
-          -21.6888816
         ]
       }
     },

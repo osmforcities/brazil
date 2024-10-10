@@ -2243,13 +2243,14 @@
       "type": "Feature",
       "id": "way/838810543",
       "properties": {
-        "timestamp": "2023-03-12T12:15:28Z",
-        "version": 3,
-        "changeset": 133584102,
+        "timestamp": "2024-10-08T23:03:17Z",
+        "version": 4,
+        "changeset": 157648522,
         "amenity": "clinic",
         "building": "yes",
         "healthcare": "clinic",
         "name": "Unidade de Saúde Familiar Clementino Fraga - 5º Centro",
+        "name:en": "Clementino Fraga Family Health Unit - 5th Center",
         "operator": "Sistema Único de Saúde",
         "operator:short": "SUS",
         "operator:type": "public",
@@ -7808,6 +7809,36 @@
         "coordinates": [
           -38.5176679,
           -13.0045347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10830106907",
+      "properties": {
+        "timestamp": "2024-10-08T17:33:24Z",
+        "version": 2,
+        "changeset": 157638113,
+        "addr:housenumber": "38",
+        "addr:street": "Rua Professor Sabino Silva",
+        "amenity": "clinic",
+        "check_date": "2024-10-08",
+        "contact:phone": "+55 71 98393-4970",
+        "cuisine": "regional",
+        "healthcare": "clinic",
+        "healthcare:speciality": "plastic_surgery",
+        "name": "Royal Face",
+        "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-13:00",
+        "operator:type": "private",
+        "survey:date": "2023-03-14",
+        "wheelchair": "no",
+        "id": "node/10830106907"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5176999,
+          -13.0044788
         ]
       }
     },

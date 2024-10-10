@@ -3,19 +3,41 @@
   "features": [
     {
       "type": "Feature",
-      "id": "node/4919978834",
+      "id": "way/1322155680",
       "properties": {
-        "timestamp": "2017-06-17T03:53:58Z",
+        "timestamp": "2024-10-08T14:21:00Z",
         "version": 1,
-        "changeset": 49606284,
+        "changeset": 157629596,
         "amenity": "dentist",
-        "id": "node/4919978834"
+        "building": "yes",
+        "healthcare": "dentist",
+        "id": "way/1322155680"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -47.4713121,
-          -5.4764966
+          [
+            [
+              -47.4713959,
+              -5.476508
+            ],
+            [
+              -47.4713077,
+              -5.476758
+            ],
+            [
+              -47.4711739,
+              -5.4767112
+            ],
+            [
+              -47.4712621,
+              -5.4764612
+            ],
+            [
+              -47.4713959,
+              -5.476508
+            ]
+          ]
         ]
       }
     },

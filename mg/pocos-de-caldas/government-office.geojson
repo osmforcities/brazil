@@ -252,13 +252,23 @@
       "type": "Feature",
       "id": "way/837923122",
       "properties": {
-        "timestamp": "2020-08-17T16:10:25Z",
-        "version": 1,
-        "changeset": 89528204,
+        "timestamp": "2024-10-08T15:06:14Z",
+        "version": 2,
+        "changeset": 157631732,
+        "addr:city": "Poços de Caldas",
+        "addr:housenumber": "454",
+        "addr:postcode": "37701-033",
+        "addr:street": "Rua Junqueiras",
+        "addr:suburb": "Centro",
         "building": "yes",
+        "government": "legislative",
         "layer": "1",
         "name": "Câmara Municipal de Poços de Caldas",
         "office": "government",
+        "opening_hours": "Mo-Fr 09:00-18:00",
+        "phone": "+553537293800",
+        "website": "https://www.pocosdecaldas.mg.leg.br/",
+        "wheelchair": "yes",
         "id": "way/837923122"
       },
       "geometry": {
@@ -573,6 +583,73 @@
               -21.7850198
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1322285880",
+      "properties": {
+        "timestamp": "2024-10-08T15:27:44Z",
+        "version": 1,
+        "changeset": 157632765,
+        "building": "yes",
+        "office": "government",
+        "id": "way/1322285880"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.5671939,
+              -21.7890637
+            ],
+            [
+              -46.5669726,
+              -21.7888049
+            ],
+            [
+              -46.5670602,
+              -21.7887424
+            ],
+            [
+              -46.5672884,
+              -21.7889978
+            ],
+            [
+              -46.5671939,
+              -21.7890637
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12235678059",
+      "properties": {
+        "timestamp": "2024-10-08T15:27:44Z",
+        "version": 1,
+        "changeset": 157632765,
+        "addr:city": "Poços de Caldas",
+        "addr:housenumber": "555",
+        "addr:postcode": "37701-033",
+        "addr:street": "Rua Junqueiras",
+        "addr:suburb": "Centro",
+        "government": "yes",
+        "name": "Câmara Municipal de Poços de Caldas - Anexo",
+        "office": "government",
+        "opening_hours": "Mo-Su 09:00-18:00",
+        "phone": "+553537293800",
+        "website": "https://www.pocosdecaldas.mg.leg.br/",
+        "id": "node/12235678059"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5671269,
+          -21.7889133
         ]
       }
     }

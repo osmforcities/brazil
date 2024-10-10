@@ -4016,16 +4016,21 @@
       "type": "Feature",
       "id": "node/4343779493",
       "properties": {
-        "timestamp": "2023-04-21T16:18:41Z",
-        "version": 9,
-        "changeset": 135201149,
+        "timestamp": "2024-10-08T17:33:24Z",
+        "version": 10,
+        "changeset": 157638113,
         "amenity": "pharmacy",
         "brand": "Extrafarma",
         "brand:wikidata": "Q20055480",
         "brand:wikipedia": "pt:Extrafarma",
+        "check_date": "2024-10-08",
         "healthcare": "pharmacy",
-        "name": "Extrafarma",
+        "name": "Pague Menos",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
         "survey:date": "2023-03-14",
+        "wheelchair": "yes",
         "id": "node/4343779493"
       },
       "geometry": {
@@ -8206,6 +8211,27 @@
         "coordinates": [
           -38.5109394,
           -12.9960687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12236021777",
+      "properties": {
+        "timestamp": "2024-10-08T17:59:47Z",
+        "version": 4,
+        "changeset": 157636645,
+        "amenity": "pharmacy",
+        "name": "Ultra Popular",
+        "panoramax": "62832ee5-73fe-406e-9697-0eb5131ba977",
+        "wheelchair": "yes",
+        "id": "node/12236021777"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.518309,
+          -13.004302
         ]
       }
     }

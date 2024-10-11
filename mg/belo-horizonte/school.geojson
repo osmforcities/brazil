@@ -14412,60 +14412,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/1290772670",
-      "properties": {
-        "timestamp": "2024-06-09T22:18:20Z",
-        "version": 2,
-        "changeset": 152472947,
-        "addr:city": "Belo Horizonte",
-        "addr:housenumber": "122",
-        "addr:postcode": "30642-000",
-        "addr:street": "Rua Costa Belém",
-        "addr:suburb": "Barreiro",
-        "amenity": "school",
-        "grades": "0-18",
-        "name": "Colégio Santa Rita de Cássia",
-        "religion": "christian",
-        "id": "way/1290772670"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -44.0115733,
-              -19.9783031
-            ],
-            [
-              -44.0129484,
-              -19.9786069
-            ],
-            [
-              -44.0130242,
-              -19.9783427
-            ],
-            [
-              -44.0132044,
-              -19.9783867
-            ],
-            [
-              -44.0130615,
-              -19.9789195
-            ],
-            [
-              -44.0114717,
-              -19.9785755
-            ],
-            [
-              -44.0115733,
-              -19.9783031
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/1297782359",
       "properties": {
         "timestamp": "2024-07-01T22:10:04Z",
@@ -15199,6 +15145,46 @@
           [
             -43.9951398,
             -19.9000977
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1290772670",
+      "properties": {
+        "timestamp": "2024-10-09T00:10:09Z",
+        "version": 4,
+        "changeset": 157649322,
+        "addr:city": "Belo Horizonte",
+        "addr:housenumber": "122",
+        "addr:postcode": "30642-000",
+        "addr:street": "Rua Costa Belém",
+        "addr:suburb": "Barreiro",
+        "amenity": "school",
+        "grades": "0-18",
+        "name": "Colégio Santa Rita de Cássia",
+        "religion": "christian",
+        "id": "way/1290772670"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -44.0125819,
+            -19.9787942
+          ],
+          [
+            -44.0126463,
+            -19.9788081
+          ],
+          [
+            -44.012808,
+            -19.9788431
+          ],
+          [
+            -44.0117124,
+            -19.9783325
           ]
         ]
       }

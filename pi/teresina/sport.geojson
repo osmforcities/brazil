@@ -8687,12 +8687,15 @@
       "type": "Feature",
       "id": "way/888234509",
       "properties": {
-        "timestamp": "2020-12-24T17:04:33Z",
-        "version": 1,
-        "changeset": 96397561,
+        "timestamp": "2024-10-09T05:57:08Z",
+        "version": 2,
+        "changeset": 157655693,
+        "access": "permissive",
         "leisure": "pitch",
-        "name": "Mini Estádio Planaltão",
+        "lit": "yes",
+        "name": "Mini Estádio Planaltão;Campo do Planalto",
         "sport": "soccer",
+        "surface": "grass",
         "id": "way/888234509"
       },
       "geometry": {
@@ -19754,6 +19757,49 @@
     },
     {
       "type": "Feature",
+      "id": "way/1322451924",
+      "properties": {
+        "timestamp": "2024-10-09T05:56:44Z",
+        "version": 1,
+        "changeset": 157655681,
+        "access": "yes",
+        "leisure": "pitch",
+        "lit": "yes",
+        "name": "Arena Prof. João Gonçalves de Oliveira",
+        "sport": "soccer",
+        "surface": "artificial_turf",
+        "id": "way/1322451924"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.7590554,
+              -4.998328
+            ],
+            [
+              -42.7591585,
+              -4.998792
+            ],
+            [
+              -42.7587459,
+              -4.998883
+            ],
+            [
+              -42.7586428,
+              -4.9984189
+            ],
+            [
+              -42.7590554,
+              -4.998328
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/686353155",
       "properties": {
         "timestamp": "2023-05-20T17:44:37Z",
@@ -20939,29 +20985,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/11063168984",
-      "properties": {
-        "timestamp": "2023-07-23T12:48:17Z",
-        "version": 1,
-        "changeset": 138892594,
-        "access": "permissive",
-        "leisure": "pitch",
-        "lit": "yes",
-        "name": "Campo do Planalto",
-        "sport": "soccer",
-        "surface": "grass",
-        "id": "node/11063168984"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -42.7814838,
-          -5.0621833
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/11817468063",
       "properties": {
         "timestamp": "2024-04-15T00:32:57Z",
@@ -21003,29 +21026,6 @@
         "coordinates": [
           -42.7807425,
           -5.0573479
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/12001809381",
-      "properties": {
-        "timestamp": "2024-06-23T02:05:54Z",
-        "version": 1,
-        "changeset": 153050649,
-        "access": "yes",
-        "leisure": "pitch",
-        "lit": "yes",
-        "name": "Arena Prof. João Gonçalves de Oliveira",
-        "sport": "soccer",
-        "surface": "artificial_turf",
-        "id": "node/12001809381"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -42.7589789,
-          -4.9985509
         ]
       }
     },

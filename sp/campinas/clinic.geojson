@@ -1051,6 +1051,60 @@
     },
     {
       "type": "Feature",
+      "id": "way/1280597898",
+      "properties": {
+        "timestamp": "2024-10-09T11:27:09Z",
+        "version": 2,
+        "changeset": 157667626,
+        "addr:city": "Campinas",
+        "addr:housenumber": "1915",
+        "addr:postcode": "13070-000",
+        "addr:street": "Avenida Andrade Neves",
+        "addr:suburb": "Jardim Chapadão",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "Centro de Especialidades",
+        "opening_hours": "Mo-Sa 07:00-19:00",
+        "operator": "Beneficiência Portuguesa",
+        "operator:type": "private",
+        "phone": "+55 (19) 2519-6199",
+        "id": "way/1280597898"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.0758861,
+              -22.8929223
+            ],
+            [
+              -47.0758311,
+              -22.8930171
+            ],
+            [
+              -47.0755046,
+              -22.8928749
+            ],
+            [
+              -47.0755614,
+              -22.8927784
+            ],
+            [
+              -47.0756448,
+              -22.8928153
+            ],
+            [
+              -47.0758861,
+              -22.8929223
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1317378228",
       "properties": {
         "timestamp": "2024-10-01T11:31:52Z",
@@ -2920,9 +2974,9 @@
       "type": "Feature",
       "id": "node/12231638214",
       "properties": {
-        "timestamp": "2024-10-07T11:56:17Z",
-        "version": 1,
-        "changeset": 157578670,
+        "timestamp": "2024-10-09T10:20:56Z",
+        "version": 2,
+        "changeset": 157665281,
         "addr:city": "Campinas",
         "addr:housenumber": "720",
         "addr:postcode": "13070-160",
@@ -2931,7 +2985,7 @@
         "amenity": "clinic",
         "healthcare": "clinic",
         "mobile": "+55 (19) 99513-4210",
-        "name": "Espaço Vita Saude e Bem-Estar",
+        "name": "Espaço Vita Saúde e Bem-Estar",
         "opening_hours": "Mo-Fr 07:00-20:00",
         "website": "https://espacovita.com.br/",
         "id": "node/12231638214"
@@ -2941,6 +2995,35 @@
         "coordinates": [
           -47.0722672,
           -22.8835233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12239714400",
+      "properties": {
+        "timestamp": "2024-10-09T21:39:27Z",
+        "version": 1,
+        "changeset": 157690756,
+        "addr:city": "Campinas",
+        "addr:housenumber": "158",
+        "addr:postcode": "13073-230",
+        "addr:street": "Rua Gonçalves César",
+        "addr:suburb": "Jardim Guanabara",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Centro Clínico Vera Cruz",
+        "opening_hours": "Mo-Fr 07:00-18:30",
+        "operator": "Vera Cruz",
+        "operator:type": "private",
+        "phone": "+55 (19) 3751-3770",
+        "id": "node/12239714400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0672297,
+          -22.8881873
         ]
       }
     }

@@ -83,6 +83,51 @@
     },
     {
       "type": "Feature",
+      "id": "way/760218523",
+      "properties": {
+        "timestamp": "2024-10-09T13:34:48Z",
+        "version": 4,
+        "changeset": 157672766,
+        "access": "private",
+        "building": "yes",
+        "club": "sport",
+        "leisure": "pitch",
+        "lit": "yes",
+        "name": "Ginásio Municipal de Esportes Dionísio Cavazzola",
+        "sport": "soccer",
+        "surface": "wood",
+        "id": "way/760218523"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.7594403,
+              -27.7103957
+            ],
+            [
+              -51.7596831,
+              -27.7107428
+            ],
+            [
+              -51.7593916,
+              -27.7109027
+            ],
+            [
+              -51.7591488,
+              -27.7105556
+            ],
+            [
+              -51.7594403,
+              -27.7103957
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/760241592",
       "properties": {
         "timestamp": "2020-03-10T14:13:27Z",
@@ -126,9 +171,9 @@
       "type": "Feature",
       "id": "way/760241609",
       "properties": {
-        "timestamp": "2020-01-02T18:06:07Z",
-        "version": 1,
-        "changeset": 79125269,
+        "timestamp": "2024-10-09T13:33:45Z",
+        "version": 2,
+        "changeset": 157672715,
         "leisure": "pitch",
         "sport": "soccer",
         "id": "way/760241609"
@@ -246,6 +291,46 @@
     },
     {
       "type": "Feature",
+      "id": "way/1322586166",
+      "properties": {
+        "timestamp": "2024-10-09T13:34:14Z",
+        "version": 1,
+        "changeset": 157672731,
+        "leisure": "pitch",
+        "name": "Campo de Areia",
+        "sport": "soccer",
+        "id": "way/1322586166"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.7619075,
+              -27.7100479
+            ],
+            [
+              -51.7618971,
+              -27.710233
+            ],
+            [
+              -51.7614909,
+              -27.710215
+            ],
+            [
+              -51.7615013,
+              -27.7100298
+            ],
+            [
+              -51.7619075,
+              -27.7100479
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/7101912801",
       "properties": {
         "timestamp": "2020-01-02T16:53:26Z",
@@ -268,26 +353,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/7108266650",
-      "properties": {
-        "timestamp": "2020-01-05T01:24:19Z",
-        "version": 1,
-        "changeset": 79203286,
-        "leisure": "pitch",
-        "name": "Campo de Areia",
-        "sport": "soccer",
-        "id": "node/7108266650"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -51.761818,
-          -27.7101282
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/7112384715",
       "properties": {
         "timestamp": "2020-01-06T14:48:03Z",
@@ -305,47 +370,6 @@
         "coordinates": [
           -51.7554901,
           -27.7089835
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/7123618591",
-      "properties": {
-        "timestamp": "2020-01-11T01:57:51Z",
-        "version": 1,
-        "changeset": 79440579,
-        "leisure": "pitch",
-        "sport": "soccer",
-        "id": "node/7123618591"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -51.7640204,
-          -27.7068547
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/7123618611",
-      "properties": {
-        "timestamp": "2020-01-11T01:57:51Z",
-        "version": 1,
-        "changeset": 79440579,
-        "access": "private",
-        "leisure": "pitch",
-        "lit": "yes",
-        "sport": "soccer",
-        "surface": "wood",
-        "id": "node/7123618611"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -51.7594404,
-          -27.7106636
         ]
       }
     }

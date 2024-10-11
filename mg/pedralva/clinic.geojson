@@ -123,6 +123,109 @@
     },
     {
       "type": "Feature",
+      "id": "way/1221651807",
+      "properties": {
+        "timestamp": "2024-10-09T03:29:20Z",
+        "version": 3,
+        "changeset": 157652341,
+        "addr:housenumber": "29",
+        "addr:street": "Rua Coronel Gaspar",
+        "addr:suburb": "Centro",
+        "amenity": "clinic",
+        "building": "yes",
+        "name": "Life Clinica Integrativa",
+        "source": "microsoft/BuildingFootprints",
+        "id": "way/1221651807"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -45.4676883,
+              -22.2431627
+            ],
+            [
+              -45.4674962,
+              -22.2431021
+            ],
+            [
+              -45.4675239,
+              -22.2430269
+            ],
+            [
+              -45.4675633,
+              -22.2430393
+            ],
+            [
+              -45.4676773,
+              -22.2430753
+            ],
+            [
+              -45.467716,
+              -22.2430875
+            ],
+            [
+              -45.4676883,
+              -22.2431627
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1322743192",
+      "properties": {
+        "timestamp": "2024-10-09T23:22:21Z",
+        "version": 1,
+        "changeset": 157692478,
+        "addr:housenumber": "61",
+        "addr:street": "Rua Xavier Lisboa",
+        "addr:suburb": "Centro",
+        "amenity": "clinic",
+        "building": "yes",
+        "name": "Centro de Práticas Integrativas e Complementares em Saúde",
+        "id": "way/1322743192"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -45.4670287,
+              -22.24366
+            ],
+            [
+              -45.4668959,
+              -22.2437332
+            ],
+            [
+              -45.4668685,
+              -22.2436908
+            ],
+            [
+              -45.4669691,
+              -22.2436353
+            ],
+            [
+              -45.4669581,
+              -22.2436182
+            ],
+            [
+              -45.4669903,
+              -22.2436004
+            ],
+            [
+              -45.4670287,
+              -22.24366
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/12127944867",
       "properties": {
         "timestamp": "2024-08-22T15:25:12Z",
@@ -148,9 +251,9 @@
       "type": "Feature",
       "id": "node/12189338338",
       "properties": {
-        "timestamp": "2024-09-21T03:28:01Z",
-        "version": 1,
-        "changeset": 156894188,
+        "timestamp": "2024-10-09T03:29:20Z",
+        "version": 2,
+        "changeset": 157652341,
         "addr:street": "Rua Presidente Vargas",
         "addr:suburb": "Centro",
         "amenity": "clinic",
@@ -160,8 +263,31 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -45.4662273,
-          -22.2427092
+          -45.46623,
+          -22.2426974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12239940285",
+      "properties": {
+        "timestamp": "2024-10-09T23:55:16Z",
+        "version": 1,
+        "changeset": 157692996,
+        "addr:description": "Terreo",
+        "addr:housenumber": "300",
+        "addr:street": "Rua Dona Inácia Macedo",
+        "addr:suburb": "Centro",
+        "amenity": "clinic",
+        "name": "Consultorio de Fisioterapia e Pilates",
+        "id": "node/12239940285"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.4679068,
+          -22.2452036
         ]
       }
     }

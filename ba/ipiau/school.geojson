@@ -278,25 +278,54 @@
     },
     {
       "type": "Feature",
-      "id": "node/7129437566",
+      "id": "way/1322458874",
       "properties": {
-        "timestamp": "2020-01-13T22:07:35Z",
+        "timestamp": "2024-10-09T06:56:43Z",
         "version": 1,
-        "changeset": 79534852,
+        "changeset": 157657539,
         "addr:city": "Ipiaú",
         "addr:postcode": "45570-000",
         "addr:street": "BA-551 Estrada do Guloso",
         "addr:suburb": "Guloso",
         "amenity": "school",
+        "building": "yes",
         "name": "Escola Eunice G. Thiara, Guloso",
         "operator": "Prefeitura de Ipiaú",
-        "id": "node/7129437566"
+        "id": "way/1322458874"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -39.6790561,
-          -14.029689
+          [
+            [
+              -39.679181,
+              -14.0296003
+            ],
+            [
+              -39.6791978,
+              -14.0296755
+            ],
+            [
+              -39.6791702,
+              -14.0296813
+            ],
+            [
+              -39.6791875,
+              -14.029759
+            ],
+            [
+              -39.6791106,
+              -14.0297752
+            ],
+            [
+              -39.6790765,
+              -14.0296223
+            ],
+            [
+              -39.679181,
+              -14.0296003
+            ]
+          ]
         ]
       }
     }

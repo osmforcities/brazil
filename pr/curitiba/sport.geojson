@@ -17072,6 +17072,59 @@
     },
     {
       "type": "Feature",
+      "id": "way/414687899",
+      "properties": {
+        "timestamp": "2024-10-09T13:29:01Z",
+        "version": 2,
+        "changeset": 157672513,
+        "access": "customers",
+        "building": "yes",
+        "covered": "yes",
+        "fee": "yes",
+        "height": "20",
+        "leisure": "pitch",
+        "lit": "yes",
+        "name": "Bola de Meia",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:pix": "yes",
+        "roof:colour": "lightblue",
+        "roof:shape": "round",
+        "source": "local knowledge;survey",
+        "sport": "soccer",
+        "surface": "artificial_turf",
+        "id": "way/414687899"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.261351,
+              -25.443156
+            ],
+            [
+              -49.2611919,
+              -25.4434973
+            ],
+            [
+              -49.2609512,
+              -25.4434058
+            ],
+            [
+              -49.2611103,
+              -25.4430645
+            ],
+            [
+              -49.261351,
+              -25.443156
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/414732617",
       "properties": {
         "timestamp": "2019-01-02T21:55:04Z",
@@ -38442,6 +38495,95 @@
     },
     {
       "type": "Feature",
+      "id": "way/1322583123",
+      "properties": {
+        "timestamp": "2024-10-09T13:27:55Z",
+        "version": 1,
+        "changeset": 157672454,
+        "access": "permissive",
+        "building": "yes",
+        "covered": "yes",
+        "indoor": "no",
+        "leisure": "pitch",
+        "lit": "yes",
+        "name": "Copacabana Sports",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "source": "survey",
+        "sport": "soccer",
+        "id": "way/1322583123"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.2301072,
+              -25.432734
+            ],
+            [
+              -49.2301396,
+              -25.4329316
+            ],
+            [
+              -49.2297077,
+              -25.4329894
+            ],
+            [
+              -49.2296753,
+              -25.4327919
+            ],
+            [
+              -49.2301072,
+              -25.432734
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1322583192",
+      "properties": {
+        "timestamp": "2024-10-09T13:28:24Z",
+        "version": 1,
+        "changeset": 157672474,
+        "leisure": "pitch",
+        "sport": "soccer",
+        "id": "way/1322583192"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.2262127,
+              -25.4633548
+            ],
+            [
+              -49.2261663,
+              -25.4635454
+            ],
+            [
+              -49.2259992,
+              -25.4635123
+            ],
+            [
+              -49.2260456,
+              -25.4633216
+            ],
+            [
+              -49.2262127,
+              -25.4633548
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/120578701",
       "properties": {
         "timestamp": "2023-12-16T22:50:17Z",
@@ -40482,25 +40624,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/4924421130",
-      "properties": {
-        "timestamp": "2017-06-19T13:57:59Z",
-        "version": 1,
-        "changeset": 49668231,
-        "leisure": "pitch",
-        "sport": "soccer",
-        "id": "node/4924421130"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.2260948,
-          -25.463405
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/5073234904",
       "properties": {
         "timestamp": "2017-09-01T12:07:46Z",
@@ -40974,35 +41097,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/10031934992",
-      "properties": {
-        "timestamp": "2022-09-17T16:29:22Z",
-        "version": 1,
-        "changeset": 126305617,
-        "access": "permissive",
-        "covered": "yes",
-        "indoor": "no",
-        "leisure": "pitch",
-        "lit": "yes",
-        "name": "Copacabana Sports",
-        "payment:cash": "yes",
-        "payment:credit_cards": "yes",
-        "payment:mastercard": "yes",
-        "payment:visa": "yes",
-        "source": "survey",
-        "sport": "soccer",
-        "id": "node/10031934992"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.2298278,
-          -25.4327939
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/10555650846",
       "properties": {
         "timestamp": "2023-03-18T18:00:56Z",
@@ -41104,35 +41198,6 @@
         "coordinates": [
           -49.2858852,
           -25.4514425
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/10951694641",
-      "properties": {
-        "timestamp": "2023-06-04T15:05:53Z",
-        "version": 1,
-        "changeset": 136936688,
-        "access": "customers",
-        "covered": "yes",
-        "fee": "yes",
-        "leisure": "pitch",
-        "lit": "yes",
-        "name": "Bola de Meia",
-        "payment:cash": "yes",
-        "payment:credit_cards": "yes",
-        "payment:pix": "yes",
-        "source": "local knowledge;survey",
-        "sport": "soccer",
-        "surface": "artificial_turf",
-        "id": "node/10951694641"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.261265,
-          -25.4432763
         ]
       }
     },

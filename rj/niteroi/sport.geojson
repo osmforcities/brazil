@@ -4528,10 +4528,11 @@
       "type": "Feature",
       "id": "way/202570517",
       "properties": {
-        "timestamp": "2013-01-23T17:38:08Z",
-        "version": 1,
-        "changeset": 14760012,
+        "timestamp": "2024-10-09T07:39:25Z",
+        "version": 2,
+        "changeset": 157659135,
         "leisure": "pitch",
+        "name": "Campo de Futebol do Jair",
         "sport": "soccer",
         "id": "way/202570517"
       },
@@ -4540,24 +4541,24 @@
         "coordinates": [
           [
             [
-              -43.0705879,
-              -22.8685196
+              -43.0706457,
+              -22.8685387
             ],
             [
-              -43.0701256,
-              -22.8687859
+              -43.0701366,
+              -22.8687553
             ],
             [
-              -43.0697825,
-              -22.8680137
+              -43.0697615,
+              -22.868007
             ],
             [
-              -43.0702881,
-              -22.8677475
+              -43.0702708,
+              -22.8677904
             ],
             [
-              -43.0705879,
-              -22.8685196
+              -43.0706457,
+              -22.8685387
             ]
           ]
         ]
@@ -10779,6 +10780,46 @@
     },
     {
       "type": "Feature",
+      "id": "way/1322467446",
+      "properties": {
+        "timestamp": "2024-10-09T07:41:42Z",
+        "version": 1,
+        "changeset": 157659205,
+        "leisure": "pitch",
+        "name": "Planeta Bola",
+        "sport": "soccer",
+        "id": "way/1322467446"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.013162,
+              -22.9320288
+            ],
+            [
+              -43.0129102,
+              -22.9323324
+            ],
+            [
+              -43.0127519,
+              -22.9322211
+            ],
+            [
+              -43.0130037,
+              -22.9319174
+            ],
+            [
+              -43.013162,
+              -22.9320288
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/202272654",
       "properties": {
         "timestamp": "2013-01-21T12:40:33Z",
@@ -11128,26 +11169,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/4724320961",
-      "properties": {
-        "timestamp": "2021-06-08T16:41:38Z",
-        "version": 2,
-        "changeset": 106047550,
-        "leisure": "pitch",
-        "name": "Campo de Futebol do Jair",
-        "sport": "soccer",
-        "id": "node/4724320961"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.0702069,
-          -22.8682697
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/6446228371",
       "properties": {
         "timestamp": "2022-10-23T20:19:24Z",
@@ -11405,26 +11426,6 @@
         "coordinates": [
           -43.0296339,
           -22.9752611
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/11046612364",
-      "properties": {
-        "timestamp": "2023-07-14T13:43:01Z",
-        "version": 2,
-        "changeset": 138508799,
-        "leisure": "pitch",
-        "name": "Planeta Bola",
-        "sport": "soccer",
-        "id": "node/11046612364"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.0128829,
-          -22.9321797
         ]
       }
     },

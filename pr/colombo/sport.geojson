@@ -647,10 +647,11 @@
       "type": "Feature",
       "id": "way/620132123",
       "properties": {
-        "timestamp": "2018-08-26T16:45:41Z",
-        "version": 1,
-        "changeset": 62011060,
+        "timestamp": "2024-10-09T13:27:11Z",
+        "version": 2,
+        "changeset": 157672420,
         "leisure": "pitch",
+        "name": "Só Esporte Grama Sintética",
         "sport": "soccer",
         "id": "way/620132123"
       },
@@ -1452,6 +1453,46 @@
     },
     {
       "type": "Feature",
+      "id": "way/1322582992",
+      "properties": {
+        "timestamp": "2024-10-09T13:26:55Z",
+        "version": 1,
+        "changeset": 157672415,
+        "building": "yes",
+        "leisure": "pitch",
+        "sport": "soccer",
+        "id": "way/1322582992"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.193046,
+              -25.3262337
+            ],
+            [
+              -49.1925852,
+              -25.3264431
+            ],
+            [
+              -49.1924289,
+              -25.3261621
+            ],
+            [
+              -49.1928897,
+              -25.3259527
+            ],
+            [
+              -49.193046,
+              -25.3262337
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/5301495419",
       "properties": {
         "timestamp": "2019-01-28T11:58:54Z",
@@ -1472,45 +1513,6 @@
         "coordinates": [
           -49.1630668,
           -25.3499113
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/5921847191",
-      "properties": {
-        "timestamp": "2018-09-22T03:49:23Z",
-        "version": 1,
-        "changeset": 62815266,
-        "leisure": "pitch",
-        "name": "Só Esporte Grama Sintética",
-        "sport": "soccer",
-        "id": "node/5921847191"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.1563776,
-          -25.340275
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/6642174344",
-      "properties": {
-        "timestamp": "2019-07-24T02:07:30Z",
-        "version": 1,
-        "changeset": 72580859,
-        "leisure": "pitch",
-        "sport": "soccer",
-        "id": "node/6642174344"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.19273,
-          -25.3262401
         ]
       }
     },

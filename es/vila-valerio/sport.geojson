@@ -173,13 +173,15 @@
       "type": "Feature",
       "id": "way/661252629",
       "properties": {
-        "timestamp": "2019-05-19T20:25:49Z",
-        "version": 4,
-        "changeset": 70420027,
+        "timestamp": "2024-10-09T07:51:59Z",
+        "version": 5,
+        "changeset": 157659546,
+        "access": "yes",
         "leisure": "pitch",
         "lit": "yes",
-        "name": "Campo de Areia",
+        "name": "Campo de Areia;Campo de futebol de areia",
         "sport": "soccer",
+        "surface": "grass",
         "id": "way/661252629"
       },
       "geometry": {
@@ -187,28 +189,24 @@
         "coordinates": [
           [
             [
-              -40.3919879,
-              -18.9929796
+              -40.3919876,
+              -18.9929888
             ],
             [
-              -40.3920764,
-              -18.9930886
+              -40.3921792,
+              -18.9931796
             ],
             [
-              -40.3921837,
-              -18.9931799
+              -40.3920087,
+              -18.9933326
             ],
             [
-              -40.3920093,
-              -18.9933118
-            ],
-            [
-              -40.3918082,
+              -40.3918171,
               -18.9931419
             ],
             [
-              -40.3919879,
-              -18.9929796
+              -40.3919876,
+              -18.9929888
             ]
           ]
         ]
@@ -490,28 +488,6 @@
               -18.9935684
             ]
           ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/6983755441",
-      "properties": {
-        "timestamp": "2019-11-17T00:08:36Z",
-        "version": 1,
-        "changeset": 77178070,
-        "access": "yes",
-        "leisure": "pitch",
-        "name": "Campo de futebol de areia",
-        "sport": "soccer",
-        "surface": "grass",
-        "id": "node/6983755441"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -40.3917299,
-          -18.9938172
         ]
       }
     },

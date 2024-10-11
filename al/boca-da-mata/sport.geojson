@@ -517,11 +517,11 @@
     },
     {
       "type": "Feature",
-      "id": "node/11658563276",
+      "id": "way/1322457791",
       "properties": {
-        "timestamp": "2024-05-03T21:10:58Z",
-        "version": 2,
-        "changeset": 150856508,
+        "timestamp": "2024-10-09T06:43:04Z",
+        "version": 1,
+        "changeset": 157657075,
         "access": "yes",
         "addr:city": "Boca Da Mata",
         "addr:housenumber": "205",
@@ -535,13 +535,33 @@
         "ref": "5531",
         "sport": "soccer",
         "surface": "grass",
-        "id": "node/11658563276"
+        "id": "way/1322457791"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -36.1358444,
-          -9.6581344
+          [
+            [
+              -36.1360091,
+              -9.6577299
+            ],
+            [
+              -36.136281,
+              -9.6585468
+            ],
+            [
+              -36.1357002,
+              -9.6587347
+            ],
+            [
+              -36.1354282,
+              -9.6579179
+            ],
+            [
+              -36.1360091,
+              -9.6577299
+            ]
+          ]
         ]
       }
     }

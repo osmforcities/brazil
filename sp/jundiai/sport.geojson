@@ -10865,6 +10865,93 @@
     },
     {
       "type": "Feature",
+      "id": "way/1322472452",
+      "properties": {
+        "timestamp": "2024-10-09T08:15:31Z",
+        "version": 1,
+        "changeset": 157660340,
+        "access": "yes",
+        "leisure": "pitch",
+        "lit": "no",
+        "name": "Campo de Futebol Vila Alvorada",
+        "sport": "soccer",
+        "surface": "grass",
+        "id": "way/1322472452"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.9116396,
+              -23.1843534
+            ],
+            [
+              -46.911655,
+              -23.1847724
+            ],
+            [
+              -46.9113227,
+              -23.1847828
+            ],
+            [
+              -46.9113071,
+              -23.1843638
+            ],
+            [
+              -46.9116396,
+              -23.1843534
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1322472453",
+      "properties": {
+        "timestamp": "2024-10-09T08:15:31Z",
+        "version": 1,
+        "changeset": 157660340,
+        "access": "yes",
+        "description": "Quadra Poliesportiva Vila Alvorada",
+        "leisure": "pitch",
+        "lit": "yes",
+        "name": "Quadra Poliesportiva Vila Alvorada",
+        "sport": "volleyball;futsal;futbol",
+        "surface": "concrete",
+        "id": "way/1322472453"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.9118987,
+              -23.1843148
+            ],
+            [
+              -46.9119118,
+              -23.1845526
+            ],
+            [
+              -46.9117212,
+              -23.1845615
+            ],
+            [
+              -46.9117081,
+              -23.1843237
+            ],
+            [
+              -46.9118987,
+              -23.1843148
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/338501751",
       "properties": {
         "timestamp": "2015-11-19T13:33:20Z",
@@ -11286,53 +11373,6 @@
         "coordinates": [
           -46.9642448,
           -23.1161302
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/6919273735",
-      "properties": {
-        "timestamp": "2019-10-27T00:14:21Z",
-        "version": 1,
-        "changeset": 76255078,
-        "access": "yes",
-        "description": "Quadra Poliesportiva Vila Alvorada",
-        "leisure": "pitch",
-        "lit": "yes",
-        "name": "Quadra Poliesportiva Vila Alvorada",
-        "sport": "volleyball;futsal;futbol",
-        "surface": "concrete",
-        "id": "node/6919273735"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -46.9118147,
-          -23.1843416
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/6919273737",
-      "properties": {
-        "timestamp": "2019-10-27T00:14:21Z",
-        "version": 1,
-        "changeset": 76255078,
-        "access": "yes",
-        "leisure": "pitch",
-        "lit": "no",
-        "name": "Campo de Futebol Vila Alvorada",
-        "sport": "soccer",
-        "surface": "grass",
-        "id": "node/6919273737"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -46.9114633,
-          -23.1845339
         ]
       }
     }

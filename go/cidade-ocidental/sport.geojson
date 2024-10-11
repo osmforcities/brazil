@@ -3,6 +3,47 @@
   "features": [
     {
       "type": "Feature",
+      "id": "way/1192796670",
+      "properties": {
+        "timestamp": "2024-10-09T08:43:51Z",
+        "version": 2,
+        "changeset": 157661360,
+        "leisure": "pitch",
+        "lit": "yes",
+        "sport": "soccer",
+        "surface": "ground",
+        "id": "way/1192796670"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.939976,
+              -16.1081204
+            ],
+            [
+              -47.9398551,
+              -16.107866
+            ],
+            [
+              -47.9400045,
+              -16.1078005
+            ],
+            [
+              -47.9401254,
+              -16.1080549
+            ],
+            [
+              -47.939976,
+              -16.1081204
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1197577073",
       "properties": {
         "timestamp": "2023-11-13T23:17:07Z",
@@ -522,27 +563,6 @@
         "coordinates": [
           -47.940028,
           -16.1083993
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/6380920615",
-      "properties": {
-        "timestamp": "2019-04-03T13:51:16Z",
-        "version": 1,
-        "changeset": 68840108,
-        "leisure": "pitch",
-        "lit": "yes",
-        "sport": "soccer",
-        "surface": "ground",
-        "id": "node/6380920615"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -47.9399169,
-          -16.1081078
         ]
       }
     },

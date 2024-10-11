@@ -418,10 +418,10 @@
       "type": "Feature",
       "id": "way/549182442",
       "properties": {
-        "timestamp": "2017-12-26T16:38:04Z",
-        "version": 1,
-        "changeset": 54934151,
-        "description": "Campo do São Roque",
+        "timestamp": "2024-10-09T07:20:45Z",
+        "version": 2,
+        "changeset": 157658389,
+        "description": "Campo do São Roque;Campo de Futebol",
         "leisure": "pitch",
         "lit": "yes",
         "sport": "soccer",
@@ -433,24 +433,24 @@
         "coordinates": [
           [
             [
-              -43.563651,
-              -22.7201046
+              -43.5636402,
+              -22.7201146
             ],
             [
-              -43.5636395,
-              -22.720957
+              -43.5636425,
+              -22.7209598
             ],
             [
-              -43.563095,
-              -22.7209535
+              -43.5630868,
+              -22.7209612
             ],
             [
-              -43.5630835,
-              -22.7201152
+              -43.5630843,
+              -22.7201159
             ],
             [
-              -43.563651,
-              -22.7201046
+              -43.5636402,
+              -22.7201146
             ]
           ]
         ]
@@ -1067,6 +1067,90 @@
     },
     {
       "type": "Feature",
+      "id": "way/1322464013",
+      "properties": {
+        "timestamp": "2024-10-09T07:20:45Z",
+        "version": 1,
+        "changeset": 157658389,
+        "building": "yes",
+        "description": "Quadra poliesportiva São Roque",
+        "leisure": "pitch",
+        "lit": "yes",
+        "sport": "association_football;volleyball;basketball",
+        "surface": "paved",
+        "id": "way/1322464013"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.563909,
+              -22.7200684
+            ],
+            [
+              -43.5639052,
+              -22.7202725
+            ],
+            [
+              -43.5637504,
+              -22.7202701
+            ],
+            [
+              -43.5637542,
+              -22.7200659
+            ],
+            [
+              -43.563909,
+              -22.7200684
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1322464014",
+      "properties": {
+        "timestamp": "2024-10-09T07:20:45Z",
+        "version": 1,
+        "changeset": 157658389,
+        "description": "Pista de Skate\n",
+        "leisure": "pitch",
+        "sport": "skateboard",
+        "surface": "asphalt",
+        "id": "way/1322464014"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.5637988,
+              -22.7203358
+            ],
+            [
+              -43.5637977,
+              -22.7205345
+            ],
+            [
+              -43.5636985,
+              -22.720534
+            ],
+            [
+              -43.5636995,
+              -22.7203354
+            ],
+            [
+              -43.5637988,
+              -22.7203358
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/554677076",
       "properties": {
         "timestamp": "2018-01-21T16:05:26Z",
@@ -1097,71 +1181,6 @@
             -43.5587629,
             -22.7216463
           ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/5305048461",
-      "properties": {
-        "timestamp": "2017-12-26T16:38:03Z",
-        "version": 1,
-        "changeset": 54934151,
-        "description": "Quadra poliesportiva São Roque",
-        "leisure": "pitch",
-        "lit": "yes",
-        "sport": "association_football;volleyball;basketball",
-        "surface": "paved",
-        "id": "node/5305048461"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.5638044,
-          -22.7201435
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/5305048462",
-      "properties": {
-        "timestamp": "2017-12-26T18:01:19Z",
-        "version": 2,
-        "changeset": 54936109,
-        "description": "Pista de Skate\n",
-        "leisure": "pitch",
-        "sport": "skateboard",
-        "surface": "asphalt",
-        "id": "node/5305048462"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.5637311,
-          -22.7204383
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/5305048463",
-      "properties": {
-        "timestamp": "2017-12-26T18:01:19Z",
-        "version": 2,
-        "changeset": 54936109,
-        "description": "Campo de Futebol",
-        "leisure": "pitch",
-        "lit": "yes",
-        "sport": "soccer",
-        "surface": "grass",
-        "id": "node/5305048463"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.5633519,
-          -22.7205078
         ]
       }
     },

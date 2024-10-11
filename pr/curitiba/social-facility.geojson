@@ -1227,6 +1227,62 @@
     },
     {
       "type": "Feature",
+      "id": "way/1322711832",
+      "properties": {
+        "timestamp": "2024-10-09T20:27:54Z",
+        "version": 1,
+        "changeset": 157688779,
+        "addr:city": "Curitiba",
+        "addr:housenumber": "1214",
+        "addr:street": "Rua Primeiro de Maio",
+        "addr:suburb": "Xaxim",
+        "alt_name": "CRAS Vila São Pedro",
+        "amenity": "social_facility",
+        "name": "Centro de Referência de Assistência Social Vila São Pedro",
+        "operator": "Fundação de Ação Social",
+        "operator:type": "public",
+        "social_facility": "outreach",
+        "social_facility:for": "underprivileged",
+        "id": "way/1322711832"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.2765028,
+              -25.5159189
+            ],
+            [
+              -49.2766547,
+              -25.5161051
+            ],
+            [
+              -49.2765252,
+              -25.5161907
+            ],
+            [
+              -49.276436,
+              -25.5160813
+            ],
+            [
+              -49.2764264,
+              -25.5160877
+            ],
+            [
+              -49.2763614,
+              -25.5160079
+            ],
+            [
+              -49.2765028,
+              -25.5159189
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/2630127186",
       "properties": {
         "timestamp": "2022-08-05T20:52:05Z",
@@ -2064,34 +2120,6 @@
         "coordinates": [
           -49.2761406,
           -25.5314285
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/10301261661",
-      "properties": {
-        "timestamp": "2023-02-09T17:37:20Z",
-        "version": 2,
-        "changeset": 132319913,
-        "addr:city": "Curitiba",
-        "addr:housenumber": "1214",
-        "addr:street": "Rua Primeiro de Maio",
-        "addr:suburb": "Xaxim",
-        "alt_name": "CRAS Vila São Pedro",
-        "amenity": "social_facility",
-        "name": "Centro de Referência de Assistência Social Vila São Pedro",
-        "operator": "Fundação de Ação Social",
-        "operator:type": "public",
-        "social_facility": "outreach",
-        "social_facility:for": "underprivileged",
-        "id": "node/10301261661"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.2765201,
-          -25.5160662
         ]
       }
     },

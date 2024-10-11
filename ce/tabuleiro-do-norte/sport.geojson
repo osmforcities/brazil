@@ -129,6 +129,48 @@
     },
     {
       "type": "Feature",
+      "id": "way/957149665",
+      "properties": {
+        "timestamp": "2024-10-09T06:08:02Z",
+        "version": 2,
+        "changeset": 157655984,
+        "addr:street": "Rua Monsenhor Otávio Santiago",
+        "building": "yes",
+        "leisure": "sports_hall",
+        "name": "Ginásio Poliesportivo Pedro Moreira de Almeida - MOREIRÃO",
+        "sport": "multi",
+        "id": "way/957149665"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.1240778,
+              -5.2477494
+            ],
+            [
+              -38.1238795,
+              -5.2479483
+            ],
+            [
+              -38.1235604,
+              -5.2476329
+            ],
+            [
+              -38.1237588,
+              -5.247434
+            ],
+            [
+              -38.1240778,
+              -5.2477494
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/972588902",
       "properties": {
         "timestamp": "2021-08-12T13:14:45Z",
@@ -350,6 +392,89 @@
     },
     {
       "type": "Feature",
+      "id": "way/1322452996",
+      "properties": {
+        "timestamp": "2024-10-09T06:08:02Z",
+        "version": 1,
+        "changeset": 157655984,
+        "access": "yes",
+        "leisure": "pitch",
+        "name": "Areninha Manduca Macedo",
+        "sport": "soccer",
+        "id": "way/1322452996"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.1239936,
+              -5.2473264
+            ],
+            [
+              -38.1242409,
+              -5.2475777
+            ],
+            [
+              -38.1240873,
+              -5.2477276
+            ],
+            [
+              -38.12384,
+              -5.2474763
+            ],
+            [
+              -38.1239936,
+              -5.2473264
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1322453220",
+      "properties": {
+        "timestamp": "2024-10-09T06:08:38Z",
+        "version": 1,
+        "changeset": 157656001,
+        "addr:housenumber": "109\\108",
+        "addr:street": "R. Gomes de oliveira (Macena)",
+        "leisure": "pitch",
+        "name": "Campo de Futebol",
+        "sport": "soccer",
+        "id": "way/1322453220"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.1286554,
+              -5.2601568
+            ],
+            [
+              -38.1286142,
+              -5.2603834
+            ],
+            [
+              -38.1280787,
+              -5.2602868
+            ],
+            [
+              -38.1281199,
+              -5.2600603
+            ],
+            [
+              -38.1286554,
+              -5.2601568
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1320414483",
       "properties": {
         "timestamp": "2024-10-03T15:43:54Z",
@@ -382,49 +507,6 @@
             -38.1385571,
             -5.2174109
           ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/6406772535",
-      "properties": {
-        "timestamp": "2019-04-15T15:01:07Z",
-        "version": 2,
-        "changeset": 69238931,
-        "addr:housenumber": "109\\108",
-        "addr:street": "R. Gomes de oliveira (Macena)",
-        "leisure": "pitch",
-        "name": "Campo de Futebol",
-        "sport": "soccer",
-        "id": "node/6406772535"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -38.1285019,
-          -5.2602501
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/7893600615",
-      "properties": {
-        "timestamp": "2021-09-22T13:15:22Z",
-        "version": 2,
-        "changeset": 111543454,
-        "addr:street": "Rua Monsenhor Otávio Santiago",
-        "leisure": "sports_hall",
-        "name": "Ginásio Poliesportivo Pedro Moreira de Almeida - MOREIRÃO",
-        "sport": "multi",
-        "id": "node/7893600615"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -38.1238136,
-          -5.2478123
         ]
       }
     },
@@ -472,27 +554,6 @@
         "coordinates": [
           -38.1249152,
           -5.2569819
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/11180792096",
-      "properties": {
-        "timestamp": "2023-09-10T10:32:58Z",
-        "version": 1,
-        "changeset": 141056458,
-        "access": "yes",
-        "leisure": "pitch",
-        "name": "Areninha Manduca Macedo",
-        "sport": "soccer",
-        "id": "node/11180792096"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -38.1240374,
-          -5.2476058
         ]
       }
     },

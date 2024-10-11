@@ -81,6 +81,48 @@
     },
     {
       "type": "Feature",
+      "id": "way/1322451910",
+      "properties": {
+        "timestamp": "2024-10-09T05:56:20Z",
+        "version": 1,
+        "changeset": 157655673,
+        "building": "yes",
+        "leisure": "pitch",
+        "lit": "yes",
+        "name": "Ginasio Municipal",
+        "sport": "soccer",
+        "id": "way/1322451910"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.4483102,
+              -4.2139993
+            ],
+            [
+              -44.44803,
+              -4.2143658
+            ],
+            [
+              -44.4479013,
+              -4.2142679
+            ],
+            [
+              -44.4481814,
+              -4.2139015
+            ],
+            [
+              -44.4483102,
+              -4.2139993
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/5609516575",
       "properties": {
         "timestamp": "2022-08-29T11:05:37Z",
@@ -96,27 +138,6 @@
         "coordinates": [
           -44.4451486,
           -4.2121455
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/5609516580",
-      "properties": {
-        "timestamp": "2018-05-10T13:52:08Z",
-        "version": 1,
-        "changeset": 58851472,
-        "leisure": "pitch",
-        "lit": "yes",
-        "name": "Ginasio Municipal",
-        "sport": "soccer",
-        "id": "node/5609516580"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.4481468,
-          -4.2140643
         ]
       }
     }

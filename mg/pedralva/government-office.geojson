@@ -183,9 +183,9 @@
       "type": "Feature",
       "id": "way/1221615164",
       "properties": {
-        "timestamp": "2024-09-16T03:01:53Z",
-        "version": 4,
-        "changeset": 156669554,
+        "timestamp": "2024-10-09T23:22:21Z",
+        "version": 5,
+        "changeset": 157692478,
         "addr:housenumber": "240",
         "addr:street": "Rua Coronel Canuto",
         "addr:suburb": "Centro",
@@ -202,8 +202,8 @@
         "coordinates": [
           [
             [
-              -45.4678447,
-              -22.2461078
+              -45.4678473,
+              -22.2461027
             ],
             [
               -45.4678358,
@@ -214,20 +214,77 @@
               -22.2461556
             ],
             [
-              -45.4678619,
-              -22.2462414
+              -45.4678992,
+              -22.2461529
+            ],
+            [
+              -45.4678558,
+              -22.2462388
             ],
             [
               -45.4677413,
               -22.2461892
             ],
             [
-              -45.4677937,
-              -22.2460857
+              -45.4677768,
+              -22.2461191
             ],
             [
-              -45.4678447,
-              -22.2461078
+              -45.4677617,
+              -22.2461126
+            ],
+            [
+              -45.4677812,
+              -22.2460741
+            ],
+            [
+              -45.4678473,
+              -22.2461027
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1221641030",
+      "properties": {
+        "timestamp": "2024-10-09T23:22:21Z",
+        "version": 2,
+        "changeset": 157692478,
+        "addr:housenumber": "156",
+        "addr:street": "Rua Xavier Lisboa",
+        "addr:suburb": "Centro",
+        "building": "yes",
+        "government": "healthcare",
+        "name": "Secretaria de Saude",
+        "office": "government",
+        "source": "microsoft/BuildingFootprints",
+        "id": "way/1221641030"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -45.4674372,
+              -22.2443528
+            ],
+            [
+              -45.4676281,
+              -22.2442841
+            ],
+            [
+              -45.4676573,
+              -22.2443538
+            ],
+            [
+              -45.4674665,
+              -22.2444224
+            ],
+            [
+              -45.4674372,
+              -22.2443528
             ]
           ]
         ]

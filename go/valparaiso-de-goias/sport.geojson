@@ -416,11 +416,14 @@
       "type": "Feature",
       "id": "way/681528631",
       "properties": {
-        "timestamp": "2021-01-25T05:55:49Z",
-        "version": 2,
-        "changeset": 98091920,
+        "timestamp": "2024-10-09T08:42:27Z",
+        "version": 3,
+        "changeset": 157661304,
         "leisure": "pitch",
+        "lit": "no",
+        "name": "Barrão",
         "sport": "soccer",
+        "surface": "grass",
         "id": "way/681528631"
       },
       "geometry": {
@@ -428,24 +431,24 @@
         "coordinates": [
           [
             [
-              -47.9927424,
-              -16.0723631
+              -47.9927448,
+              -16.0723608
             ],
             [
-              -47.9927438,
-              -16.0730219
+              -47.9927427,
+              -16.0730209
             ],
             [
-              -47.9922189,
-              -16.0730251
+              -47.9922249,
+              -16.0730193
             ],
             [
-              -47.9922317,
-              -16.0723638
+              -47.9922271,
+              -16.0723593
             ],
             [
-              -47.9927424,
-              -16.0723631
+              -47.9927448,
+              -16.0723608
             ]
           ]
         ]
@@ -455,9 +458,9 @@
       "type": "Feature",
       "id": "way/681530227",
       "properties": {
-        "timestamp": "2019-04-04T04:10:24Z",
-        "version": 1,
-        "changeset": 68865647,
+        "timestamp": "2024-10-09T08:43:06Z",
+        "version": 2,
+        "changeset": 157661333,
         "leisure": "pitch",
         "sport": "soccer",
         "id": "way/681530227"
@@ -467,24 +470,24 @@
         "coordinates": [
           [
             [
-              -47.993714,
-              -16.0748551
+              -47.9937155,
+              -16.0748537
             ],
             [
-              -47.993714,
-              -16.0751257
+              -47.9937139,
+              -16.0751256
             ],
             [
-              -47.9935343,
-              -16.0751257
+              -47.9935355,
+              -16.0751246
             ],
             [
-              -47.993537,
-              -16.0748525
+              -47.9935372,
+              -16.0748527
             ],
             [
-              -47.993714,
-              -16.0748551
+              -47.9937155,
+              -16.0748537
             ]
           ]
         ]
@@ -494,9 +497,9 @@
       "type": "Feature",
       "id": "way/681530228",
       "properties": {
-        "timestamp": "2019-04-04T04:10:24Z",
-        "version": 1,
-        "changeset": 68865647,
+        "timestamp": "2024-10-09T08:43:06Z",
+        "version": 2,
+        "changeset": 157661333,
         "leisure": "pitch",
         "sport": "skateboard",
         "id": "way/681530228"
@@ -506,24 +509,24 @@
         "coordinates": [
           [
             [
-              -47.9934968,
-              -16.0747881
+              -47.9935004,
+              -16.0747846
             ],
             [
-              -47.9934995,
-              -16.0749505
+              -47.9935012,
+              -16.074952
             ],
             [
-              -47.9933814,
-              -16.0749582
+              -47.9933872,
+              -16.0749525
             ],
             [
-              -47.9933868,
-              -16.0747855
+              -47.9933864,
+              -16.0747851
             ],
             [
-              -47.9934968,
-              -16.0747881
+              -47.9935004,
+              -16.0747846
             ]
           ]
         ]
@@ -702,6 +705,126 @@
     },
     {
       "type": "Feature",
+      "id": "way/1322476253",
+      "properties": {
+        "timestamp": "2024-10-09T08:42:27Z",
+        "version": 1,
+        "changeset": 157661304,
+        "building": "yes",
+        "leisure": "pitch",
+        "name": "Ginásio de esportes",
+        "sport": "soccer",
+        "id": "way/1322476253"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.9926529,
+              -16.0730921
+            ],
+            [
+              -47.9926507,
+              -16.0734847
+            ],
+            [
+              -47.9923308,
+              -16.0734831
+            ],
+            [
+              -47.9923329,
+              -16.0730904
+            ],
+            [
+              -47.9926529,
+              -16.0730921
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1322476358",
+      "properties": {
+        "timestamp": "2024-10-09T08:43:06Z",
+        "version": 1,
+        "changeset": 157661333,
+        "leisure": "pitch",
+        "sport": "soccer",
+        "id": "way/1322476358"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.9927824,
+              -16.0743254
+            ],
+            [
+              -47.9927758,
+              -16.0748565
+            ],
+            [
+              -47.9924392,
+              -16.0748527
+            ],
+            [
+              -47.9924458,
+              -16.0743215
+            ],
+            [
+              -47.9927824,
+              -16.0743254
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1322476409",
+      "properties": {
+        "timestamp": "2024-10-09T08:43:29Z",
+        "version": 1,
+        "changeset": 157661350,
+        "leisure": "pitch",
+        "sport": "soccer",
+        "surface": "ground",
+        "id": "way/1322476409"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.9814047,
+              -16.0837321
+            ],
+            [
+              -47.9813189,
+              -16.0841113
+            ],
+            [
+              -47.9806299,
+              -16.0839674
+            ],
+            [
+              -47.9807157,
+              -16.0835883
+            ],
+            [
+              -47.9814047,
+              -16.0837321
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/4543513743",
       "properties": {
         "timestamp": "2016-12-07T17:44:12Z",
@@ -716,106 +839,6 @@
         "coordinates": [
           -47.9816392,
           -16.0693521
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/6379937389",
-      "properties": {
-        "timestamp": "2019-04-03T02:04:24Z",
-        "version": 1,
-        "changeset": 68819557,
-        "leisure": "pitch",
-        "sport": "soccer",
-        "surface": "ground",
-        "id": "node/6379937389"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -47.9810332,
-          -16.0838089
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/6382426557",
-      "properties": {
-        "timestamp": "2019-04-04T04:06:48Z",
-        "version": 1,
-        "changeset": 68865580,
-        "leisure": "pitch",
-        "name": "Ginásio de esportes",
-        "sport": "soccer",
-        "id": "node/6382426557"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -47.9925092,
-          -16.0735057
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/6382430047",
-      "properties": {
-        "timestamp": "2019-04-04T04:07:58Z",
-        "version": 1,
-        "changeset": 68865605,
-        "leisure": "pitch",
-        "lit": "no",
-        "name": "Barrão",
-        "sport": "soccer",
-        "surface": "grass",
-        "id": "node/6382430047"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -47.9922804,
-          -16.0727294
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/6382440683",
-      "properties": {
-        "timestamp": "2019-04-04T04:10:24Z",
-        "version": 1,
-        "changeset": 68865647,
-        "leisure": "pitch",
-        "sport": "skateboard",
-        "id": "node/6382440683"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -47.9934458,
-          -16.0748783
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/6382440684",
-      "properties": {
-        "timestamp": "2019-04-04T04:10:24Z",
-        "version": 1,
-        "changeset": 68865647,
-        "leisure": "pitch",
-        "sport": "soccer",
-        "id": "node/6382440684"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -47.9936255,
-          -16.0749891
         ]
       }
     }

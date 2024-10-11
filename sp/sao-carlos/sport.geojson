@@ -4219,12 +4219,15 @@
       "type": "Feature",
       "id": "way/238786891",
       "properties": {
-        "timestamp": "2013-09-20T19:30:23Z",
-        "version": 1,
-        "changeset": 17945720,
+        "timestamp": "2024-10-09T08:27:24Z",
+        "version": 2,
+        "changeset": 157660752,
+        "access": "yes",
         "leisure": "pitch",
+        "lit": "yes",
+        "name": "Campo de futebol do Jardim Munique",
         "sport": "soccer",
-        "surface": "sand",
+        "surface": "sand;ground",
         "id": "way/238786891"
       },
       "geometry": {
@@ -13369,9 +13372,9 @@
       "type": "Feature",
       "id": "way/1050880235",
       "properties": {
-        "timestamp": "2022-04-10T22:23:09Z",
-        "version": 1,
-        "changeset": 119552723,
+        "timestamp": "2024-10-09T08:28:07Z",
+        "version": 2,
+        "changeset": 157660771,
         "leisure": "pitch",
         "sport": "soccer",
         "id": "way/1050880235"
@@ -13381,24 +13384,24 @@
         "coordinates": [
           [
             [
-              -47.8504931,
-              -21.9978519
+              -47.8504991,
+              -21.9978547
             ],
             [
-              -47.8502667,
-              -21.9979275
+              -47.8502683,
+              -21.9979245
             ],
             [
-              -47.8501187,
-              -21.9975077
+              -47.8501221,
+              -21.9975093
             ],
             [
-              -47.8503526,
-              -21.99744
+              -47.8503529,
+              -21.9974394
             ],
             [
-              -47.8504931,
-              -21.9978519
+              -47.8504991,
+              -21.9978547
             ]
           ]
         ]
@@ -14569,6 +14572,84 @@
             [
               -47.8729212,
               -21.9942213
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1322474468",
+      "properties": {
+        "timestamp": "2024-10-09T08:27:49Z",
+        "version": 1,
+        "changeset": 157660762,
+        "leisure": "pitch",
+        "sport": "soccer",
+        "id": "way/1322474468"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.8544168,
+              -21.9969907
+            ],
+            [
+              -47.8544232,
+              -21.9972207
+            ],
+            [
+              -47.8539601,
+              -21.9972316
+            ],
+            [
+              -47.8539538,
+              -21.9970018
+            ],
+            [
+              -47.8544168,
+              -21.9969907
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1322474594",
+      "properties": {
+        "timestamp": "2024-10-09T08:28:31Z",
+        "version": 1,
+        "changeset": 157660792,
+        "leisure": "pitch",
+        "sport": "soccer",
+        "id": "way/1322474594"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.8819107,
+              -21.9375234
+            ],
+            [
+              -47.8818595,
+              -21.9377312
+            ],
+            [
+              -47.8815033,
+              -21.9376557
+            ],
+            [
+              -47.8815545,
+              -21.9374479
+            ],
+            [
+              -47.8819107,
+              -21.9375234
             ]
           ]
         ]
@@ -17417,67 +17498,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/5263809238",
-      "properties": {
-        "timestamp": "2017-12-04T14:17:54Z",
-        "version": 1,
-        "changeset": 54330977,
-        "leisure": "pitch",
-        "sport": "soccer",
-        "id": "node/5263809238"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -47.8541738,
-          -21.9971375
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/5264115222",
-      "properties": {
-        "timestamp": "2020-03-21T04:38:27Z",
-        "version": 2,
-        "changeset": 82451977,
-        "access": "yes",
-        "leisure": "pitch",
-        "lit": "yes",
-        "name": "Campo de futebol do Jardim Munique",
-        "sport": "soccer",
-        "surface": "ground",
-        "id": "node/5264115222"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -47.8577257,
-          -22.0020558
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/5264115223",
-      "properties": {
-        "timestamp": "2022-04-10T22:23:09Z",
-        "version": 2,
-        "changeset": 119552723,
-        "leisure": "pitch",
-        "sport": "soccer",
-        "id": "node/5264115223"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -47.8504219,
-          -21.99781
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/6245788953",
       "properties": {
         "timestamp": "2019-01-30T00:41:41Z",
@@ -17652,25 +17672,6 @@
         "coordinates": [
           -47.9020447,
           -21.9743713
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/10174566300",
-      "properties": {
-        "timestamp": "2022-11-10T21:40:45Z",
-        "version": 1,
-        "changeset": 128752348,
-        "leisure": "pitch",
-        "sport": "soccer",
-        "id": "node/10174566300"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -47.881669,
-          -21.9375991
         ]
       }
     },

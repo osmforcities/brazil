@@ -469,6 +469,49 @@
     },
     {
       "type": "Feature",
+      "id": "way/581656945",
+      "properties": {
+        "timestamp": "2024-10-09T08:34:51Z",
+        "version": 2,
+        "changeset": 157661041,
+        "leisure": "pitch",
+        "lit": "yes",
+        "name": "GINASIO DA UEG;GINASIO DE ESPORTES DA UEG",
+        "sport": "soccer",
+        "sport_1": "basketball",
+        "surface": "paved",
+        "id": "way/581656945"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.9388751,
+              -15.5613847
+            ],
+            [
+              -49.9390011,
+              -15.5617429
+            ],
+            [
+              -49.9387622,
+              -15.5618209
+            ],
+            [
+              -49.9386362,
+              -15.5614628
+            ],
+            [
+              -49.9388751,
+              -15.5613847
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/581656946",
       "properties": {
         "timestamp": "2021-10-31T15:32:55Z",
@@ -504,6 +547,48 @@
             [
               -49.9386512,
               -15.5619232
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/581656956",
+      "properties": {
+        "timestamp": "2024-10-09T08:34:25Z",
+        "version": 2,
+        "changeset": 157661029,
+        "leisure": "pitch",
+        "lit": "yes",
+        "sport": "futbol;voley",
+        "sport_1": "volleyball",
+        "surface": "asphalt",
+        "id": "way/581656956"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.9450509,
+              -15.5650331
+            ],
+            [
+              -49.9451743,
+              -15.5652404
+            ],
+            [
+              -49.9448799,
+              -15.5654031
+            ],
+            [
+              -49.9447565,
+              -15.5651958
+            ],
+            [
+              -49.9450509,
+              -15.5650331
             ]
           ]
         ]
@@ -836,6 +921,49 @@
     },
     {
       "type": "Feature",
+      "id": "way/1322475516",
+      "properties": {
+        "timestamp": "2024-10-09T08:34:25Z",
+        "version": 1,
+        "changeset": 157661029,
+        "leisure": "pitch",
+        "lit": "yes",
+        "sport": "soccer",
+        "sport_1": "basketball",
+        "sport_2": "volleyball",
+        "surface": "asphalt",
+        "id": "way/1322475516"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.9451839,
+              -15.5653185
+            ],
+            [
+              -49.9452756,
+              -15.5654562
+            ],
+            [
+              -49.945037,
+              -15.5656038
+            ],
+            [
+              -49.9449453,
+              -15.5654661
+            ],
+            [
+              -49.9451839,
+              -15.5653185
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/5306938399",
       "properties": {
         "timestamp": "2018-04-29T14:06:42Z",
@@ -852,74 +980,6 @@
         "coordinates": [
           -49.9491253,
           -15.5589124
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/5306939435",
-      "properties": {
-        "timestamp": "2018-01-03T12:55:03Z",
-        "version": 2,
-        "changeset": 55128210,
-        "leisure": "pitch",
-        "lit": "yes",
-        "sport": "futbol;voley",
-        "sport_1": "volleyball",
-        "surface": "asphalt",
-        "id": "node/5306939435"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.944908,
-          -15.5651303
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/5306939436",
-      "properties": {
-        "timestamp": "2017-12-27T19:06:10Z",
-        "version": 1,
-        "changeset": 54964903,
-        "leisure": "pitch",
-        "lit": "yes",
-        "sport": "soccer",
-        "sport_1": "basketball",
-        "sport_2": "volleyball",
-        "surface": "asphalt",
-        "id": "node/5306939436"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.9451017,
-          -15.5654352
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/5306939470",
-      "properties": {
-        "timestamp": "2018-04-19T18:56:55Z",
-        "version": 3,
-        "changeset": 58242063,
-        "leisure": "pitch",
-        "lit": "yes",
-        "name": "GINASIO DE ESPORTES DA UEG",
-        "sport": "soccer",
-        "sport_1": "basketball",
-        "surface": "paved",
-        "id": "node/5306939470"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.9388615,
-          -15.5617865
         ]
       }
     }

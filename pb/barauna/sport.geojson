@@ -505,6 +505,47 @@
     },
     {
       "type": "Feature",
+      "id": "way/1322458200",
+      "properties": {
+        "timestamp": "2024-10-09T06:49:36Z",
+        "version": 1,
+        "changeset": 157657313,
+        "building": "yes",
+        "leisure": "pitch",
+        "name": "Ginásio",
+        "sport": "soccer",
+        "id": "way/1322458200"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -36.2474456,
+              -6.6448588
+            ],
+            [
+              -36.2474671,
+              -6.6450534
+            ],
+            [
+              -36.2471938,
+              -6.6450831
+            ],
+            [
+              -36.2471723,
+              -6.6448885
+            ],
+            [
+              -36.2474456,
+              -6.6448588
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/632913826",
       "properties": {
         "timestamp": "2018-10-11T12:57:34Z",
@@ -541,26 +582,6 @@
             -36.2459859,
             -6.6399322
           ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/6366425559",
-      "properties": {
-        "timestamp": "2019-03-28T00:48:16Z",
-        "version": 1,
-        "changeset": 68607978,
-        "leisure": "pitch",
-        "name": "Ginásio",
-        "sport": "soccer",
-        "id": "node/6366425559"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.2473445,
-          -6.6450966
         ]
       }
     }

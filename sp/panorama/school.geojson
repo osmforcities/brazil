@@ -79,6 +79,84 @@
     },
     {
       "type": "Feature",
+      "id": "way/1318850756",
+      "properties": {
+        "timestamp": "2024-10-09T15:10:36Z",
+        "version": 5,
+        "changeset": 157677026,
+        "addr:city": "Panorama",
+        "addr:housenumber": "135",
+        "addr:postcode": "17980-102",
+        "addr:street": "Rua Paulo de Arruda Mendes",
+        "addr:suburb": "Marrecas",
+        "amenity": "school",
+        "grades": "1-9, 10-12",
+        "name": "E.E. João Brásio",
+        "wheelchair": "yes",
+        "id": "way/1318850756"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.8511567,
+              -21.3546366
+            ],
+            [
+              -51.8512179,
+              -21.3547577
+            ],
+            [
+              -51.8514759,
+              -21.3552686
+            ],
+            [
+              -51.8509442,
+              -21.355509
+            ],
+            [
+              -51.85053,
+              -21.3556962
+            ],
+            [
+              -51.8504315,
+              -21.355483
+            ],
+            [
+              -51.8503936,
+              -21.355401
+            ],
+            [
+              -51.8503607,
+              -21.3553298
+            ],
+            [
+              -51.8503429,
+              -21.3552912
+            ],
+            [
+              -51.850325,
+              -21.3552526
+            ],
+            [
+              -51.8502204,
+              -21.3550262
+            ],
+            [
+              -51.8505588,
+              -21.3548863
+            ],
+            [
+              -51.8511567,
+              -21.3546366
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1318984022",
       "properties": {
         "timestamp": "2024-09-28T11:41:17Z",
@@ -133,6 +211,215 @@
               -21.3644772
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1322597030",
+      "properties": {
+        "timestamp": "2024-10-09T14:24:21Z",
+        "version": 1,
+        "changeset": 157675322,
+        "addr:city": "Panorama",
+        "addr:housenumber": "1100",
+        "addr:street": "Rua Domingos Chiararia",
+        "addr:suburb": "Marrecas",
+        "amenity": "school",
+        "grades": "0",
+        "name": "E.M.E.F. Abener Augusto Pires",
+        "operator": "PM Panorama.",
+        "operator:type": "public",
+        "phone": "(18) 3871-9091",
+        "id": "way/1322597030"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.8534499,
+              -21.3565574
+            ],
+            [
+              -51.8534286,
+              -21.3565525
+            ],
+            [
+              -51.8534127,
+              -21.3565385
+            ],
+            [
+              -51.8533968,
+              -21.3565195
+            ],
+            [
+              -51.8532207,
+              -21.3561536
+            ],
+            [
+              -51.853057,
+              -21.3558018
+            ],
+            [
+              -51.8530641,
+              -21.3557845
+            ],
+            [
+              -51.8530809,
+              -21.3557672
+            ],
+            [
+              -51.8534968,
+              -21.35559
+            ],
+            [
+              -51.8536994,
+              -21.3559723
+            ],
+            [
+              -51.8539055,
+              -21.3563728
+            ],
+            [
+              -51.8534499,
+              -21.3565574
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1322651097",
+      "properties": {
+        "timestamp": "2024-10-09T17:05:49Z",
+        "version": 1,
+        "changeset": 157681913,
+        "addr:city": "Panorama",
+        "addr:housenumber": "2638",
+        "addr:street": "Rua Vicente M. dos Santos",
+        "addr:suburb": "Marrecas",
+        "amenity": "school",
+        "grades": "0",
+        "name": "E.M.E.F. Keyla Maria Gazolla",
+        "operator": "P.M. Panorama",
+        "operator:type": "public",
+        "phone": "(18) 3871-0265",
+        "id": "way/1322651097"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.8522039,
+              -21.3526948
+            ],
+            [
+              -51.8521057,
+              -21.3525597
+            ],
+            [
+              -51.8523322,
+              -21.3523949
+            ],
+            [
+              -51.8528197,
+              -21.3521938
+            ],
+            [
+              -51.8529294,
+              -21.3524023
+            ],
+            [
+              -51.8525038,
+              -21.3525852
+            ],
+            [
+              -51.8522039,
+              -21.3526948
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12215208403",
+      "properties": {
+        "timestamp": "2024-10-02T01:26:35Z",
+        "version": 1,
+        "changeset": 157361162,
+        "access": "permissive",
+        "barrier": "gate",
+        "height": "2",
+        "locked": "yes",
+        "material": "metal",
+        "wheelchair": "yes",
+        "id": "node/12215208403"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.8505588,
+          -21.3548863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12215208407",
+      "properties": {
+        "timestamp": "2024-10-02T01:26:35Z",
+        "version": 1,
+        "changeset": 157361162,
+        "barrier": "wicket_gate",
+        "id": "node/12215208407"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.8503936,
+          -21.355401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12215208408",
+      "properties": {
+        "timestamp": "2024-10-02T01:26:35Z",
+        "version": 1,
+        "changeset": 157361162,
+        "barrier": "gate",
+        "id": "node/12215208408"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.8503429,
+          -21.3552912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12215208410",
+      "properties": {
+        "timestamp": "2024-10-02T01:26:35Z",
+        "version": 1,
+        "changeset": 157361162,
+        "barrier": "gate",
+        "height": "2",
+        "material": "metal",
+        "id": "node/12215208410"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.8509442,
+          -21.355509
         ]
       }
     }

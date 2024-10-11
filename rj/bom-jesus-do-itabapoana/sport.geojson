@@ -461,12 +461,16 @@
       "type": "Feature",
       "id": "way/1092448618",
       "properties": {
-        "timestamp": "2022-09-06T19:05:23Z",
-        "version": 1,
-        "changeset": 125872083,
+        "timestamp": "2024-10-09T07:58:40Z",
+        "version": 2,
+        "changeset": 157659763,
+        "access": "permit",
+        "description": "Campo de futebol  comunitário",
         "leisure": "pitch",
+        "lit": "yes",
+        "name": "Campo da VtS",
         "sport": "soccer",
-        "surface": "grass",
+        "surface": "grass;grass_paver",
         "id": "way/1092448618"
       },
       "geometry": {
@@ -474,7 +478,7 @@
         "coordinates": [
           [
             [
-              -41.6886512,
+              -41.6886511,
               -21.1458234
             ],
             [
@@ -490,34 +494,10 @@
               -21.1453935
             ],
             [
-              -41.6886512,
+              -41.6886511,
               -21.1458234
             ]
           ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/7781954089",
-      "properties": {
-        "timestamp": "2020-08-03T19:55:08Z",
-        "version": 1,
-        "changeset": 88893024,
-        "access": "permit",
-        "description": "Campo de futebol  comunitário",
-        "leisure": "pitch",
-        "lit": "yes",
-        "name": "Campo da VtS",
-        "sport": "soccer",
-        "surface": "grass_paver",
-        "id": "node/7781954089"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -41.6876746,
-          -21.1460085
         ]
       }
     }

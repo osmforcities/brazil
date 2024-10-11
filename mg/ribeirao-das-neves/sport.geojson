@@ -589,11 +589,13 @@
       "type": "Feature",
       "id": "way/653219223",
       "properties": {
-        "timestamp": "2018-12-06T17:42:37Z",
-        "version": 1,
-        "changeset": 65246704,
+        "timestamp": "2024-10-09T07:12:28Z",
+        "version": 2,
+        "changeset": 157658079,
         "leisure": "pitch",
+        "name": "Campo do Veneza",
         "sport": "soccer",
+        "surface": "dirt",
         "id": "way/653219223"
       },
       "geometry": {
@@ -601,32 +603,24 @@
         "coordinates": [
           [
             [
-              -44.1411592,
-              -19.7738009
+              -44.1411713,
+              -19.7737686
             ],
             [
-              -44.1408371,
-              -19.7731714
+              -44.140811,
+              -19.7730861
             ],
             [
-              -44.1408371,
-              -19.7729982
+              -44.1412586,
+              -19.7728768
             ],
             [
-              -44.1411521,
-              -19.7728117
+              -44.1416191,
+              -19.7735592
             ],
             [
-              -44.1412335,
-              -19.7728251
-            ],
-            [
-              -44.1416476,
-              -19.7735678
-            ],
-            [
-              -44.1411592,
-              -19.7738009
+              -44.1411713,
+              -19.7737686
             ]
           ]
         ]
@@ -636,11 +630,13 @@
       "type": "Feature",
       "id": "way/653219250",
       "properties": {
-        "timestamp": "2018-12-06T17:42:38Z",
-        "version": 1,
-        "changeset": 65246704,
+        "timestamp": "2024-10-09T07:12:03Z",
+        "version": 2,
+        "changeset": 157658062,
         "leisure": "pitch",
+        "lit": "yes",
         "sport": "soccer",
+        "surface": "grass",
         "id": "way/653219250"
       },
       "geometry": {
@@ -648,28 +644,24 @@
         "coordinates": [
           [
             [
-              -44.139707,
-              -19.7728895
+              -44.139737,
+              -19.772912
             ],
             [
-              -44.1398663,
-              -19.7731426
+              -44.1398641,
+              -19.7731417
             ],
             [
-              -44.1397707,
-              -19.7732092
+              -44.1397255,
+              -19.7732096
             ],
             [
-              -44.1396646,
-              -19.7732025
+              -44.1395985,
+              -19.7729799
             ],
             [
-              -44.1395725,
-              -19.7728895
-            ],
-            [
-              -44.139707,
-              -19.7728895
+              -44.139737,
+              -19.772912
             ]
           ]
         ]
@@ -1626,83 +1618,81 @@
     },
     {
       "type": "Feature",
-      "id": "node/6121832130",
+      "id": "way/1322460521",
       "properties": {
-        "timestamp": "2018-12-06T16:15:01Z",
+        "timestamp": "2024-10-09T07:10:39Z",
         "version": 1,
-        "changeset": 65243661,
-        "leisure": "pitch",
-        "name": "Campo do Veneza",
-        "sport": "soccer",
-        "surface": "dirt",
-        "id": "node/6121832130"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.1411516,
-          -19.7737523
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/6121832144",
-      "properties": {
-        "timestamp": "2018-12-06T16:15:02Z",
-        "version": 1,
-        "changeset": 65243661,
-        "leisure": "pitch",
-        "lit": "yes",
-        "sport": "soccer",
-        "surface": "grass",
-        "id": "node/6121832144"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.1396792,
-          -19.7730422
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/6417200341",
-      "properties": {
-        "timestamp": "2019-04-20T02:42:26Z",
-        "version": 1,
-        "changeset": 69393435,
-        "leisure": "pitch",
-        "name": "campo do conjunto",
-        "sport": "soccer",
-        "id": "node/6417200341"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.1389355,
-          -19.7655218
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/7578539942",
-      "properties": {
-        "timestamp": "2020-06-01T18:45:01Z",
-        "version": 1,
-        "changeset": 86059129,
+        "changeset": 157658019,
         "leisure": "pitch",
         "name": "Campinho do Cruzeiro",
         "sport": "soccer",
-        "id": "node/7578539942"
+        "id": "way/1322460521"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -44.095036,
-          -19.7419709
+          [
+            [
+              -44.0951262,
+              -19.7418056
+            ],
+            [
+              -44.0951405,
+              -19.7420843
+            ],
+            [
+              -44.0949523,
+              -19.7420929
+            ],
+            [
+              -44.094938,
+              -19.7418141
+            ],
+            [
+              -44.0951262,
+              -19.7418056
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1322460603",
+      "properties": {
+        "timestamp": "2024-10-09T07:11:32Z",
+        "version": 1,
+        "changeset": 157658051,
+        "leisure": "pitch",
+        "name": "campo do conjunto",
+        "sport": "soccer",
+        "id": "way/1322460603"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.1389645,
+              -19.7650781
+            ],
+            [
+              -44.1394209,
+              -19.7657899
+            ],
+            [
+              -44.138926,
+              -19.7660709
+            ],
+            [
+              -44.1384696,
+              -19.7653592
+            ],
+            [
+              -44.1389645,
+              -19.7650781
+            ]
+          ]
         ]
       }
     }

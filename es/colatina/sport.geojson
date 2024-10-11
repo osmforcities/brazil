@@ -126,9 +126,9 @@
       "type": "Feature",
       "id": "way/169837726",
       "properties": {
-        "timestamp": "2019-10-27T14:57:32Z",
-        "version": 11,
-        "changeset": 76268167,
+        "timestamp": "2024-10-09T07:53:26Z",
+        "version": 12,
+        "changeset": 157659587,
         "access": "yes",
         "addr:city": "colatina",
         "addr:country": "BR",
@@ -136,7 +136,7 @@
         "foot": "yes",
         "leisure": "pitch",
         "lit": "yes",
-        "name": "Campo de Futebol de Itapina",
+        "name": "Campo de Futebol de Itapina;Campo de futebol de Itapina",
         "sport": "soccer",
         "surface": "grass",
         "id": "way/169837726"
@@ -150,48 +150,12 @@
               -19.5329586
             ],
             [
-              -40.8160195,
-              -19.5331502
-            ],
-            [
-              -40.816035,
-              -19.5333327
-            ],
-            [
-              -40.8160431,
-              -19.5334272
-            ],
-            [
               -40.8160484,
               -19.53349
             ],
             [
-              -40.8159594,
-              -19.5334967
-            ],
-            [
-              -40.8158392,
-              -19.5335058
-            ],
-            [
-              -40.8155284,
-              -19.5335293
-            ],
-            [
-              -40.8153405,
-              -19.5335435
-            ],
-            [
-              -40.8151829,
-              -19.5335555
-            ],
-            [
               -40.8150525,
               -19.5335653
-            ],
-            [
-              -40.8150388,
-              -19.5334035
             ],
             [
               -40.8150073,
@@ -2023,40 +1987,40 @@
     },
     {
       "type": "Feature",
-      "id": "node/5436277856",
+      "id": "way/1322469442",
       "properties": {
-        "timestamp": "2018-02-25T23:12:06Z",
+        "timestamp": "2024-10-09T07:54:15Z",
         "version": 1,
-        "changeset": 56673146,
+        "changeset": 157659616,
         "leisure": "pitch",
         "sport": "soccer",
-        "id": "node/5436277856"
+        "id": "way/1322469442"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -40.5529292,
-          -19.627597
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/6029603790",
-      "properties": {
-        "timestamp": "2018-11-01T12:55:06Z",
-        "version": 1,
-        "changeset": 64077552,
-        "leisure": "pitch",
-        "name": "Campo de futebol de Itapina",
-        "sport": "soccer",
-        "id": "node/6029603790"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -40.8158216,
-          -19.5332962
+          [
+            [
+              -40.5530155,
+              -19.6272283
+            ],
+            [
+              -40.5534207,
+              -19.627974
+            ],
+            [
+              -40.5529777,
+              -19.6281876
+            ],
+            [
+              -40.5525724,
+              -19.627442
+            ],
+            [
+              -40.5530155,
+              -19.6272283
+            ]
+          ]
         ]
       }
     },

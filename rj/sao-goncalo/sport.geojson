@@ -4468,13 +4468,15 @@
       "type": "Feature",
       "id": "way/479306682",
       "properties": {
-        "timestamp": "2017-03-08T16:27:27Z",
-        "version": 1,
-        "changeset": 46685082,
+        "timestamp": "2024-10-09T07:40:09Z",
+        "version": 2,
+        "changeset": 157659157,
+        "access": "yes",
         "leisure": "pitch",
-        "name": "Campo do Chiqueirinho",
+        "lit": "yes",
+        "name": "Campo do Chiqueirinho;Quadra do Campo do Bom Retiro",
         "sport": "soccer",
-        "surface": "dirt/sand",
+        "surface": "dirt/sand;paved",
         "id": "way/479306682"
       },
       "geometry": {
@@ -4482,24 +4484,24 @@
         "coordinates": [
           [
             [
-              -43.069301,
-              -22.8651556
+              -43.0692999,
+              -22.865152
             ],
             [
-              -43.0690391,
-              -22.8650123
+              -43.0690345,
+              -22.8650135
             ],
             [
-              -43.0691346,
-              -22.8648426
+              -43.0691362,
+              -22.864848
             ],
             [
-              -43.0693965,
-              -22.8649878
+              -43.0694016,
+              -22.8649865
             ],
             [
-              -43.069301,
-              -22.8651556
+              -43.0692999,
+              -22.865152
             ]
           ]
         ]
@@ -6345,6 +6347,90 @@
     },
     {
       "type": "Feature",
+      "id": "way/1322467426",
+      "properties": {
+        "timestamp": "2024-10-09T07:40:54Z",
+        "version": 1,
+        "changeset": 157659173,
+        "access": "customers",
+        "leisure": "pitch",
+        "lit": "yes",
+        "sport": "soccer",
+        "surface": "grass",
+        "id": "way/1322467426"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.0424134,
+              -22.823517
+            ],
+            [
+              -43.0423409,
+              -22.8237277
+            ],
+            [
+              -43.0418974,
+              -22.8235979
+            ],
+            [
+              -43.0419699,
+              -22.8233874
+            ],
+            [
+              -43.0424134,
+              -22.823517
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1322467427",
+      "properties": {
+        "timestamp": "2024-10-09T07:40:54Z",
+        "version": 1,
+        "changeset": 157659173,
+        "access": "customers",
+        "leisure": "pitch",
+        "lit": "yes",
+        "sport": "beachvolleyball",
+        "surface": "sand",
+        "id": "way/1322467427"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.041937,
+              -22.823351
+            ],
+            [
+              -43.0418635,
+              -22.823592
+            ],
+            [
+              -43.0416623,
+              -22.8235398
+            ],
+            [
+              -43.0417358,
+              -22.8232989
+            ],
+            [
+              -43.041937,
+              -22.823351
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/71951244",
       "properties": {
         "timestamp": "2010-08-11T19:43:42Z",
@@ -6503,29 +6589,6 @@
         "coordinates": [
           -43.0335622,
           -22.8257458
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/4724320962",
-      "properties": {
-        "timestamp": "2023-10-23T00:30:57Z",
-        "version": 3,
-        "changeset": 142993563,
-        "access": "yes",
-        "leisure": "pitch",
-        "lit": "yes",
-        "name": "Quadra do Campo do Bom Retiro",
-        "sport": "soccer",
-        "surface": "paved",
-        "id": "node/4724320962"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.0692192,
-          -22.8649963
         ]
       }
     },
@@ -6690,28 +6753,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/11105998695",
-      "properties": {
-        "timestamp": "2023-08-10T23:29:09Z",
-        "version": 1,
-        "changeset": 139727113,
-        "access": "customers",
-        "leisure": "pitch",
-        "lit": "yes",
-        "sport": "soccer",
-        "surface": "grass",
-        "id": "node/11105998695"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.0421069,
-          -22.8235397
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/11105998696",
       "properties": {
         "timestamp": "2023-08-10T23:29:09Z",
@@ -6729,28 +6770,6 @@
         "coordinates": [
           -43.0423085,
           -22.8233324
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/11105998697",
-      "properties": {
-        "timestamp": "2023-08-10T23:29:09Z",
-        "version": 1,
-        "changeset": 139727113,
-        "access": "customers",
-        "leisure": "pitch",
-        "lit": "yes",
-        "sport": "beachvolleyball",
-        "surface": "sand",
-        "id": "node/11105998697"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.0417885,
-          -22.8234347
         ]
       }
     },

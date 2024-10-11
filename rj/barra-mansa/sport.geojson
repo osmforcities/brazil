@@ -1584,6 +1584,52 @@
     },
     {
       "type": "Feature",
+      "id": "way/686869555",
+      "properties": {
+        "timestamp": "2024-10-09T07:48:44Z",
+        "version": 5,
+        "changeset": 157659440,
+        "addr:city": "Barra Mansa",
+        "addr:street": "Rua José Modesto Mário",
+        "addr:suburb": "São Luiz",
+        "leisure": "pitch",
+        "lit": "yes",
+        "name": "Quadra Esportiva Boa Sorte",
+        "playground": "yes",
+        "soccer": "futsal",
+        "sport": "soccer",
+        "id": "way/686869555"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.1546367,
+              -22.5592947
+            ],
+            [
+              -44.1544893,
+              -22.5591168
+            ],
+            [
+              -44.1546168,
+              -22.5590267
+            ],
+            [
+              -44.1547642,
+              -22.5592046
+            ],
+            [
+              -44.1546367,
+              -22.5592947
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/686965814",
       "properties": {
         "timestamp": "2020-07-21T03:58:15Z",
@@ -2697,10 +2743,11 @@
       "type": "Feature",
       "id": "way/707116145",
       "properties": {
-        "timestamp": "2019-07-25T00:40:43Z",
-        "version": 1,
-        "changeset": 72622405,
+        "timestamp": "2024-10-09T07:49:29Z",
+        "version": 2,
+        "changeset": 157659460,
         "leisure": "pitch",
+        "name": "Campo de Futebol",
         "sport": "soccer",
         "id": "way/707116145"
       },
@@ -2721,7 +2768,7 @@
               -22.4591969
             ],
             [
-              -44.2900761,
+              -44.2900762,
               -22.4593892
             ],
             [
@@ -3585,9 +3632,9 @@
       "type": "Feature",
       "id": "way/827725081",
       "properties": {
-        "timestamp": "2020-07-18T21:17:05Z",
-        "version": 1,
-        "changeset": 88186747,
+        "timestamp": "2024-10-09T07:49:05Z",
+        "version": 2,
+        "changeset": 157659449,
         "leisure": "pitch",
         "sport": "soccer",
         "id": "way/827725081"
@@ -4756,50 +4803,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/4289791372",
-      "properties": {
-        "timestamp": "2019-05-07T23:57:20Z",
-        "version": 2,
-        "changeset": 70001932,
-        "addr:city": "Barra Mansa",
-        "addr:street": "Rua José Modesto Mário",
-        "addr:suburb": "São Luiz",
-        "leisure": "pitch",
-        "lit": "yes",
-        "name": "Quadra Esportiva Boa Sorte",
-        "sport": "soccer",
-        "id": "node/4289791372"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.1547085,
-          -22.5591797
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/4318555703",
-      "properties": {
-        "timestamp": "2016-07-24T17:34:45Z",
-        "version": 1,
-        "changeset": 40995504,
-        "leisure": "pitch",
-        "name": "Campo de Futebol",
-        "sport": "soccer",
-        "id": "node/4318555703"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.2896591,
-          -22.4596585
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/4324380278",
       "properties": {
         "timestamp": "2024-05-04T20:59:33Z",
@@ -4943,25 +4946,6 @@
         "coordinates": [
           -44.1761169,
           -22.5381867
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/7727231682",
-      "properties": {
-        "timestamp": "2021-04-28T14:02:35Z",
-        "version": 2,
-        "changeset": 103782461,
-        "leisure": "pitch",
-        "sport": "soccer",
-        "id": "node/7727231682"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.1789973,
-          -22.5834868
         ]
       }
     },

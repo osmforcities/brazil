@@ -1028,10 +1028,13 @@
       "type": "Feature",
       "id": "way/482163856",
       "properties": {
-        "timestamp": "2017-03-23T05:04:42Z",
-        "version": 1,
-        "changeset": 47085968,
+        "timestamp": "2024-10-09T08:13:42Z",
+        "version": 2,
+        "changeset": 157660280,
+        "access": "private",
         "leisure": "pitch",
+        "lit": "yes",
+        "name": "Associação Vera Cruz",
         "sport": "soccer",
         "surface": "grass",
         "id": "way/482163856"
@@ -2205,46 +2208,43 @@
     },
     {
       "type": "Feature",
-      "id": "node/5122477157",
+      "id": "way/1322472281",
       "properties": {
-        "timestamp": "2017-09-27T03:14:49Z",
-        "version": 2,
-        "changeset": 52401842,
+        "timestamp": "2024-10-09T08:14:06Z",
+        "version": 1,
+        "changeset": 157660292,
         "description": "Campo de Futebol da Vila dos Pescadores \"Campinho\"",
         "leisure": "pitch",
         "name": "Campo de Futebol",
         "sport": "soccer",
         "surface": "sand",
-        "id": "node/5122477157"
+        "id": "way/1322472281"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -46.3989654,
-          -23.9268328
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/11952398960",
-      "properties": {
-        "timestamp": "2024-06-02T19:58:03Z",
-        "version": 1,
-        "changeset": 152174990,
-        "access": "private",
-        "leisure": "pitch",
-        "lit": "yes",
-        "name": "Associação Vera Cruz",
-        "sport": "soccer",
-        "surface": "grass",
-        "id": "node/11952398960"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -46.4304643,
-          -23.8873341
+          [
+            [
+              -46.399004,
+              -23.9266865
+            ],
+            [
+              -46.3990944,
+              -23.9269841
+            ],
+            [
+              -46.3988894,
+              -23.9270361
+            ],
+            [
+              -46.3987989,
+              -23.9267386
+            ],
+            [
+              -46.399004,
+              -23.9266865
+            ]
+          ]
         ]
       }
     }

@@ -233,67 +233,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/1122403975",
-      "properties": {
-        "timestamp": "2022-12-15T15:51:25Z",
-        "version": 1,
-        "changeset": 130121097,
-        "building": "yes",
-        "club": "sport",
-        "name": "AFAÇO, Associação dos Funcionários da Aços Finos Piratini",
-        "sport": "futsal;soccer",
-        "id": "way/1122403975"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -51.613427,
-              -29.9595771
-            ],
-            [
-              -51.6134067,
-              -29.9597075
-            ],
-            [
-              -51.6129148,
-              -29.9604013
-            ],
-            [
-              -51.6123212,
-              -29.9608839
-            ],
-            [
-              -51.6112683,
-              -29.9615179
-            ],
-            [
-              -51.6094713,
-              -29.9625358
-            ],
-            [
-              -51.6094632,
-              -29.9608029
-            ],
-            [
-              -51.6096827,
-              -29.9608134
-            ],
-            [
-              -51.6118618,
-              -29.9584888
-            ],
-            [
-              -51.613427,
-              -29.9595771
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/1156371045",
       "properties": {
         "timestamp": "2023-03-22T17:48:46Z",
@@ -875,6 +814,88 @@
     },
     {
       "type": "Feature",
+      "id": "way/1322825086",
+      "properties": {
+        "timestamp": "2024-10-10T06:27:46Z",
+        "version": 1,
+        "changeset": 157699691,
+        "access": "permit",
+        "leisure": "pitch",
+        "sport": "soccer",
+        "surface": "grass",
+        "id": "way/1322825086"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.6112642,
+              -29.9579911
+            ],
+            [
+              -51.6109601,
+              -29.9582705
+            ],
+            [
+              -51.6103947,
+              -29.9578087
+            ],
+            [
+              -51.6106988,
+              -29.9575292
+            ],
+            [
+              -51.6112642,
+              -29.9579911
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1322825112",
+      "properties": {
+        "timestamp": "2024-10-10T06:29:02Z",
+        "version": 1,
+        "changeset": 157699718,
+        "access": "permit",
+        "leisure": "pitch",
+        "sport": "soccer",
+        "surface": "grass",
+        "id": "way/1322825112"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.6131499,
+              -29.9597038
+            ],
+            [
+              -51.6126175,
+              -29.9602058
+            ],
+            [
+              -51.6117783,
+              -29.959538
+            ],
+            [
+              -51.6123108,
+              -29.9590359
+            ],
+            [
+              -51.6131499,
+              -29.9597038
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1122320492",
       "properties": {
         "timestamp": "2023-03-22T17:48:46Z",
@@ -1032,6 +1053,64 @@
           [
             -51.6182202,
             -29.9654746
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1122403975",
+      "properties": {
+        "timestamp": "2024-10-10T06:29:02Z",
+        "version": 2,
+        "changeset": 157699718,
+        "club": "sport",
+        "name": "AFAÇO, Associação dos Funcionários da Aços Finos Piratini",
+        "sport": "futsal;soccer",
+        "id": "way/1122403975"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -51.613427,
+            -29.9595771
+          ],
+          [
+            -51.6134067,
+            -29.9597075
+          ],
+          [
+            -51.6129148,
+            -29.9604013
+          ],
+          [
+            -51.6123212,
+            -29.9608839
+          ],
+          [
+            -51.6112683,
+            -29.9615179
+          ],
+          [
+            -51.6094713,
+            -29.9625358
+          ],
+          [
+            -51.6094632,
+            -29.9608029
+          ],
+          [
+            -51.6096827,
+            -29.9608134
+          ],
+          [
+            -51.6118618,
+            -29.9584888
+          ],
+          [
+            -51.613427,
+            -29.9595771
           ]
         ]
       }
@@ -1397,48 +1476,6 @@
         "coordinates": [
           -51.6146334,
           -29.9630309
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/10265529038",
-      "properties": {
-        "timestamp": "2022-12-15T15:51:25Z",
-        "version": 1,
-        "changeset": 130121097,
-        "access": "permit",
-        "leisure": "pitch",
-        "sport": "soccer",
-        "surface": "grass",
-        "id": "node/10265529038"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -51.6124965,
-          -29.9596775
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/10265529040",
-      "properties": {
-        "timestamp": "2022-12-15T15:51:25Z",
-        "version": 1,
-        "changeset": 130121097,
-        "access": "permit",
-        "leisure": "pitch",
-        "sport": "soccer",
-        "surface": "grass",
-        "id": "node/10265529040"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -51.6110526,
-          -29.9580623
         ]
       }
     }

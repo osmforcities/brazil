@@ -83,12 +83,58 @@
     },
     {
       "type": "Feature",
+      "id": "way/256050206",
+      "properties": {
+        "timestamp": "2024-10-10T06:26:37Z",
+        "version": 2,
+        "changeset": 157699661,
+        "leisure": "pitch",
+        "name": "Campo de Futebol - Esporte Clube Flamengo",
+        "source": "Bing",
+        "sport": "soccer",
+        "id": "way/256050206"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.7642839,
+              -29.4233455
+            ],
+            [
+              -51.7642541,
+              -29.4242923
+            ],
+            [
+              -51.763543,
+              -29.4242753
+            ],
+            [
+              -51.7635729,
+              -29.4233285
+            ],
+            [
+              -51.7642839,
+              -29.4233455
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/256050209",
       "properties": {
-        "timestamp": "2018-02-09T13:37:23Z",
-        "version": 3,
-        "changeset": 56216949,
+        "timestamp": "2024-10-10T06:26:57Z",
+        "version": 4,
+        "changeset": 157699669,
+        "addr:city": "Westfália",
+        "addr:postcode": "95893-000",
+        "addr:street": "Avenida Henrique Uebel",
+        "addr:suburb": "Bela Vista",
         "leisure": "pitch",
+        "name": "Campo de Futebol - Esporte Clube Fluminense",
         "source": "Bing",
         "sport": "soccer",
         "surface": "grass",
@@ -159,50 +205,6 @@
               -29.4266035
             ]
           ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/7008091467",
-      "properties": {
-        "timestamp": "2021-06-12T18:16:03Z",
-        "version": 3,
-        "changeset": 106262031,
-        "addr:city": "Westfália",
-        "addr:postcode": "95893-000",
-        "addr:street": "Avenida Henrique Uebel",
-        "addr:suburb": "Bela Vista",
-        "leisure": "pitch",
-        "name": "Campo de Futebol - Esporte Clube Fluminense",
-        "sport": "soccer",
-        "id": "node/7008091467"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -51.7651757,
-          -29.4183451
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/7008103941",
-      "properties": {
-        "timestamp": "2019-11-25T12:21:04Z",
-        "version": 1,
-        "changeset": 77520322,
-        "leisure": "pitch",
-        "name": "Campo de Futebol - Esporte Clube Flamengo",
-        "sport": "soccer",
-        "id": "node/7008103941"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -51.7639223,
-          -29.4238066
         ]
       }
     }

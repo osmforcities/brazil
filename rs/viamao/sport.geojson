@@ -289,10 +289,11 @@
       "type": "Feature",
       "id": "way/260534537",
       "properties": {
-        "timestamp": "2014-02-07T22:33:57Z",
-        "version": 1,
-        "changeset": 20438813,
+        "timestamp": "2024-10-10T06:38:26Z",
+        "version": 2,
+        "changeset": 157699961,
         "leisure": "pitch",
+        "name": "Campo do tamoio",
         "sport": "soccer",
         "id": "way/260534537"
       },
@@ -2896,6 +2897,45 @@
     },
     {
       "type": "Feature",
+      "id": "way/1322826081",
+      "properties": {
+        "timestamp": "2024-10-10T06:37:59Z",
+        "version": 1,
+        "changeset": 157699955,
+        "leisure": "pitch",
+        "sport": "soccer",
+        "id": "way/1322826081"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.0222707,
+              -30.0559114
+            ],
+            [
+              -51.0222467,
+              -30.0560428
+            ],
+            [
+              -51.0219597,
+              -30.0560035
+            ],
+            [
+              -51.0219838,
+              -30.0558721
+            ],
+            [
+              -51.0222707,
+              -30.0559114
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/112022834",
       "properties": {
         "timestamp": "2021-01-04T00:54:02Z",
@@ -4774,45 +4814,6 @@
         "coordinates": [
           -51.0146158,
           -30.0510965
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/4673741259",
-      "properties": {
-        "timestamp": "2017-02-08T00:27:45Z",
-        "version": 1,
-        "changeset": 45901782,
-        "leisure": "pitch",
-        "name": "Campo do tamoio",
-        "sport": "soccer",
-        "id": "node/4673741259"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -51.0247779,
-          -30.0853374
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/5374311430",
-      "properties": {
-        "timestamp": "2020-01-24T16:30:51Z",
-        "version": 3,
-        "changeset": 80043972,
-        "leisure": "pitch",
-        "sport": "soccer",
-        "id": "node/5374311430"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -51.0221839,
-          -30.0559376
         ]
       }
     }

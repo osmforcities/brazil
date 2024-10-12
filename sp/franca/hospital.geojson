@@ -193,12 +193,22 @@
       "type": "Feature",
       "id": "way/298399272",
       "properties": {
-        "timestamp": "2014-08-17T19:35:35Z",
-        "version": 1,
-        "changeset": 24817135,
+        "timestamp": "2024-10-10T12:34:03Z",
+        "version": 2,
+        "changeset": 157713779,
+        "addr:city": "Franca SP",
+        "addr:housenumber": "331",
+        "addr:postcode": "14406-355",
+        "addr:street": "Rua Abílio Coutinho",
+        "addr:suburb": "São Joaquim",
         "amenity": "hospital",
         "emergency": "yes",
-        "name": "Hospital São Joaquim",
+        "healthcare:speciality": "general",
+        "mobile": "01637117777",
+        "name": "Hospital São Joaquim e Matern",
+        "opening_hours": "24/7",
+        "operator": "Particular",
+        "operator:type": "public",
         "id": "way/298399272"
       },
       "geometry": {
@@ -216,6 +226,10 @@
             [
               -47.423485,
               -20.5420095
+            ],
+            [
+              -47.4230745,
+              -20.5416244
             ],
             [
               -47.4230504,
@@ -531,6 +545,237 @@
             [
               -47.4020721,
               -20.4930028
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1322883335",
+      "properties": {
+        "timestamp": "2024-10-10T11:51:41Z",
+        "version": 1,
+        "changeset": 157712030,
+        "addr:city": "Franca- SP",
+        "addr:housenumber": "745",
+        "addr:postcode": "14407342",
+        "addr:street": "Rua Ilton Barbosa Silva",
+        "addr:suburb": "Parque Vicente Leporace 1",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "mobile": "01637065317",
+        "name": "Dr Cleomar Borges de Oliveira",
+        "operator": "Secretaria de Saude",
+        "operator:type": "public",
+        "id": "way/1322883335"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.4149449,
+              -20.4984654
+            ],
+            [
+              -47.4149634,
+              -20.4989272
+            ],
+            [
+              -47.4144425,
+              -20.4989409
+            ],
+            [
+              -47.4145793,
+              -20.4984308
+            ],
+            [
+              -47.4149449,
+              -20.4984654
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1322885129",
+      "properties": {
+        "timestamp": "2024-10-10T12:01:33Z",
+        "version": 1,
+        "changeset": 157712389,
+        "addr:city": "Franca SP",
+        "addr:housenumber": "4731",
+        "addr:postcode": "14401416",
+        "addr:street": "Av. Alonso Y Alonso",
+        "addr:suburb": "Jardim Bueno",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "mobile": "01637119314",
+        "name": "Dr Chafi Facuri",
+        "opening_hours": "Mo-Fr 08:00-16:50",
+        "operator": "Secretaria da Saude de Franca",
+        "operator:type": "public",
+        "id": "way/1322885129"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.3655404,
+              -20.5313503
+            ],
+            [
+              -47.3655291,
+              -20.5314792
+            ],
+            [
+              -47.3654233,
+              -20.5314773
+            ],
+            [
+              -47.3654284,
+              -20.5312176
+            ],
+            [
+              -47.3655969,
+              -20.5312243
+            ],
+            [
+              -47.3655928,
+              -20.5313503
+            ],
+            [
+              -47.3655404,
+              -20.5313503
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1322888289",
+      "properties": {
+        "timestamp": "2024-10-10T12:18:16Z",
+        "version": 1,
+        "changeset": 157713165,
+        "addr:city": "Franca SP",
+        "addr:housenumber": "2691",
+        "addr:postcode": "14403610",
+        "addr:street": "RUA Ângela Rosa Scarabucica",
+        "addr:suburb": "Jardim Angela Rosa",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "mobile": "01637068350",
+        "name": "Dr David Ewbank Junior",
+        "opening_hours": "Mo-Fr 07:00-19:00",
+        "operator": "Secretaria Municipal da Saude",
+        "operator:type": "public",
+        "id": "way/1322888289"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.3828036,
+              -20.5448812
+            ],
+            [
+              -47.3827913,
+              -20.5453928
+            ],
+            [
+              -47.3827522,
+              -20.5453832
+            ],
+            [
+              -47.3826023,
+              -20.5453832
+            ],
+            [
+              -47.3825879,
+              -20.5454082
+            ],
+            [
+              -47.3824215,
+              -20.5453851
+            ],
+            [
+              -47.3823846,
+              -20.5453928
+            ],
+            [
+              -47.3823168,
+              -20.545387
+            ],
+            [
+              -47.3823168,
+              -20.5452024
+            ],
+            [
+              -47.3823106,
+              -20.544887
+            ],
+            [
+              -47.3828036,
+              -20.5448812
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1322890679",
+      "properties": {
+        "timestamp": "2024-10-10T12:28:00Z",
+        "version": 1,
+        "changeset": 157713553,
+        "addr:city": "Franca SP",
+        "addr:housenumber": "500",
+        "addr:postcode": "14409261",
+        "addr:street": "Rua Frei Agostinho Piedade",
+        "addr:suburb": "Santa Terezinha",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "mobile": "55 169937065356",
+        "name": "Dr Mario Martins",
+        "opening_hours": "Mo-Fr 07:00-19:00",
+        "operator": "Secretaria Municipal da Saude",
+        "operator:type": "public",
+        "id": "way/1322890679"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.4015393,
+              -20.4990296
+            ],
+            [
+              -47.4016463,
+              -20.4992682
+            ],
+            [
+              -47.4013482,
+              -20.4993786
+            ],
+            [
+              -47.4012479,
+              -20.4991349
+            ],
+            [
+              -47.4015393,
+              -20.4990296
             ]
           ]
         ]

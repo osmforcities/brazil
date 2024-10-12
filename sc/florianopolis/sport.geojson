@@ -5767,13 +5767,15 @@
       "type": "Feature",
       "id": "way/133286075",
       "properties": {
-        "timestamp": "2022-05-21T19:23:00Z",
-        "version": 6,
-        "changeset": 121295317,
+        "timestamp": "2024-10-10T08:16:50Z",
+        "version": 7,
+        "changeset": 157703024,
+        "access": "yes",
         "leisure": "pitch",
         "lit": "yes",
-        "sport": "five-a-side",
-        "surface": "artificial_turf",
+        "name": "Escola de Futebol Pagani",
+        "sport": "five-a-side;soccer",
+        "surface": "artificial_turf;grass",
         "id": "way/133286075"
       },
       "geometry": {
@@ -18050,6 +18052,47 @@
             [
               -48.4956582,
               -27.5889399
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/648212674",
+      "properties": {
+        "timestamp": "2024-10-10T08:17:22Z",
+        "version": 2,
+        "changeset": 157703037,
+        "building": "yes",
+        "leisure": "pitch",
+        "name": "Fair Play",
+        "sport": "soccer",
+        "id": "way/648212674"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.5324115,
+              -27.6646447
+            ],
+            [
+              -48.532739,
+              -27.6651277
+            ],
+            [
+              -48.5322839,
+              -27.6653698
+            ],
+            [
+              -48.5319564,
+              -27.6648868
+            ],
+            [
+              -48.5324115,
+              -27.6646447
             ]
           ]
         ]
@@ -33995,26 +34038,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/2539072474",
-      "properties": {
-        "timestamp": "2013-11-19T00:54:14Z",
-        "version": 1,
-        "changeset": 18986039,
-        "leisure": "pitch",
-        "name": "Fair Play",
-        "sport": "soccer",
-        "id": "node/2539072474"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.5323901,
-          -27.6650344
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/2632604217",
       "properties": {
         "timestamp": "2015-01-18T18:46:55Z",
@@ -35546,29 +35569,6 @@
         "coordinates": [
           -48.4184619,
           -27.4764102
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/10925854549",
-      "properties": {
-        "timestamp": "2023-05-25T07:56:24Z",
-        "version": 1,
-        "changeset": 136530865,
-        "access": "yes",
-        "leisure": "pitch",
-        "lit": "yes",
-        "name": "Escola de Futebol Pagani",
-        "sport": "soccer",
-        "surface": "grass",
-        "id": "node/10925854549"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.5716221,
-          -27.5940154
         ]
       }
     },

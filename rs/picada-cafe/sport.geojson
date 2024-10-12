@@ -160,6 +160,47 @@
     },
     {
       "type": "Feature",
+      "id": "way/1322840222",
+      "properties": {
+        "timestamp": "2024-10-10T08:21:05Z",
+        "version": 1,
+        "changeset": 157703172,
+        "access": "yes",
+        "leisure": "pitch",
+        "name": "Campo de futebol de areia",
+        "sport": "soccer",
+        "id": "way/1322840222"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.1503401,
+              -29.4622977
+            ],
+            [
+              -51.1503558,
+              -29.4624679
+            ],
+            [
+              -51.15005,
+              -29.4624893
+            ],
+            [
+              -51.1500343,
+              -29.4623191
+            ],
+            [
+              -51.1503401,
+              -29.4622977
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/4795533543",
       "properties": {
         "timestamp": "2017-04-21T23:52:56Z",
@@ -175,27 +216,6 @@
         "coordinates": [
           -51.1206871,
           -29.445864
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/7120551103",
-      "properties": {
-        "timestamp": "2020-01-09T23:59:44Z",
-        "version": 1,
-        "changeset": 79396370,
-        "access": "yes",
-        "leisure": "pitch",
-        "name": "Campo de futebol de areia",
-        "sport": "soccer",
-        "id": "node/7120551103"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -51.1502072,
-          -29.4623565
         ]
       }
     }

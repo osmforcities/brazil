@@ -125,11 +125,12 @@
       "type": "Feature",
       "id": "way/714139850",
       "properties": {
-        "timestamp": "2020-09-27T10:58:10Z",
-        "version": 2,
-        "changeset": 91578515,
+        "timestamp": "2024-10-10T08:27:15Z",
+        "version": 3,
+        "changeset": 157703386,
         "access": "yes",
         "leisure": "pitch",
+        "name": "campo do América",
         "sport": "soccer",
         "surface": "grass",
         "id": "way/714139850"
@@ -139,24 +140,24 @@
         "coordinates": [
           [
             [
-              -51.9699491,
-              -30.1228386
+              -51.9699594,
+              -30.12282
             ],
             [
-              -51.9701464,
-              -30.1233525
+              -51.9701904,
+              -30.1233695
             ],
             [
-              -51.9692276,
-              -30.1237138
+              -51.9692535,
+              -30.1236642
             ],
             [
-              -51.9690084,
-              -30.1231087
+              -51.9690225,
+              -30.1231145
             ],
             [
-              -51.9699491,
-              -30.1228386
+              -51.9699594,
+              -30.12282
             ]
           ]
         ]
@@ -448,106 +449,166 @@
     },
     {
       "type": "Feature",
-      "id": "node/9051676458",
+      "id": "way/1322840932",
       "properties": {
-        "timestamp": "2021-08-31T19:10:10Z",
+        "timestamp": "2024-10-10T08:25:10Z",
         "version": 1,
-        "changeset": 110529142,
+        "changeset": 157703315,
+        "access": "yes",
+        "leisure": "pitch",
+        "name": "Perimetral",
+        "sport": "soccer",
+        "id": "way/1322840932"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.9554493,
+              -30.1258245
+            ],
+            [
+              -51.9558166,
+              -30.1265073
+            ],
+            [
+              -51.9553882,
+              -30.1266797
+            ],
+            [
+              -51.9550208,
+              -30.1259969
+            ],
+            [
+              -51.9554493,
+              -30.1258245
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1322840991",
+      "properties": {
+        "timestamp": "2024-10-10T08:26:45Z",
+        "version": 1,
+        "changeset": 157703364,
         "access": "private",
         "leisure": "pitch",
         "name": "Rondon",
         "sport": "soccer",
         "surface": "grass",
-        "id": "node/9051676458"
+        "id": "way/1322840991"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -51.9683216,
-          -30.1248012
+          [
+            [
+              -51.9685794,
+              -30.1246418
+            ],
+            [
+              -51.9686708,
+              -30.124916
+            ],
+            [
+              -51.9680945,
+              -30.1250596
+            ],
+            [
+              -51.9680032,
+              -30.1247855
+            ],
+            [
+              -51.9685794,
+              -30.1246418
+            ]
+          ]
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "node/9051685840",
+      "id": "way/1322840992",
       "properties": {
-        "timestamp": "2021-08-31T19:12:37Z",
+        "timestamp": "2024-10-10T08:26:45Z",
         "version": 1,
-        "changeset": 110529225,
-        "access": "yes",
-        "leisure": "pitch",
-        "name": "Perimetral",
-        "sport": "soccer",
-        "id": "node/9051685840"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -51.9552829,
-          -30.1263145
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/9051693274",
-      "properties": {
-        "timestamp": "2021-08-31T19:08:46Z",
-        "version": 1,
-        "changeset": 110529095,
+        "changeset": 157703364,
         "boules": "bar",
         "leisure": "pitch",
         "name": "sbua",
         "sport": "boules",
-        "id": "node/9051693274"
+        "id": "way/1322840992"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -51.9690612,
-          -30.1249524
+          [
+            [
+              -51.9691618,
+              -30.124821
+            ],
+            [
+              -51.9691876,
+              -30.1248883
+            ],
+            [
+              -51.9690098,
+              -30.1249391
+            ],
+            [
+              -51.9689841,
+              -30.1248718
+            ],
+            [
+              -51.9691618,
+              -30.124821
+            ]
+          ]
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "node/9051705356",
+      "id": "way/1322840993",
       "properties": {
-        "timestamp": "2021-08-31T19:07:16Z",
+        "timestamp": "2024-10-10T08:26:45Z",
         "version": 1,
-        "changeset": 110529042,
-        "leisure": "pitch",
-        "name": "campo do América",
-        "sport": "soccer",
-        "id": "node/9051705356"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -51.9695981,
-          -30.1232056
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/9051710196",
-      "properties": {
-        "timestamp": "2021-08-31T19:11:15Z",
-        "version": 1,
-        "changeset": 110529183,
+        "changeset": 157703364,
         "access": "private",
         "leisure": "pitch",
         "name": "Apae",
         "sport": "soccer",
-        "id": "node/9051710196"
+        "id": "way/1322840993"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -51.969673,
-          -30.1254949
+          [
+            [
+              -51.9698159,
+              -30.1253135
+            ],
+            [
+              -51.9699845,
+              -30.1255279
+            ],
+            [
+              -51.969578,
+              -30.1257671
+            ],
+            [
+              -51.9694094,
+              -30.1255527
+            ],
+            [
+              -51.9698159,
+              -30.1253135
+            ]
+          ]
         ]
       }
     }

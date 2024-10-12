@@ -131,18 +131,20 @@
       "type": "Feature",
       "id": "way/682037800",
       "properties": {
-        "timestamp": "2019-07-15T18:49:16Z",
-        "version": 2,
-        "changeset": 72277823,
+        "timestamp": "2024-10-10T08:55:02Z",
+        "version": 3,
+        "changeset": 157704514,
         "addr:city": "Pelotas",
-        "addr:suburb": "Sitio Floresta",
+        "addr:street": "Rua Arthur Raubach",
+        "addr:suburb": "Sitio Floresta;Três Vendas",
         "amenity": "clinic",
         "building": "yes",
         "healthcare": "clinic",
-        "healthcare:speciality": "general;dentistry;gynaecology",
+        "healthcare:speciality": "general;dentistry;gynaecology;dentist",
         "name": "Unidade Básica de Saúde Sitio Floresta",
         "opening_hours": "Mo-Fr 08:00-17:00",
         "operator": "Prefeitura Municipal de Pelotas",
+        "payment:none": "yes",
         "phone": "+55 53 3278-9188",
         "wheelchair": "yes",
         "id": "way/682037800"
@@ -152,24 +154,24 @@
         "coordinates": [
           [
             [
-              -52.3569945,
-              -31.6919279
+              -52.3570685,
+              -31.691844
             ],
             [
-              -52.3570213,
-              -31.6914236
+              -52.3570873,
+              -31.6915749
             ],
             [
-              -52.3574585,
-              -31.6917636
+              -52.3571906,
+              -31.6915801
             ],
             [
-              -52.3574397,
-              -31.6919393
+              -52.3571718,
+              -31.6918493
             ],
             [
-              -52.3569945,
-              -31.6919279
+              -52.3570685,
+              -31.691844
             ]
           ]
         ]
@@ -1034,33 +1036,6 @@
         "coordinates": [
           -52.2299018,
           -31.7603719
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/6382680789",
-      "properties": {
-        "timestamp": "2019-04-07T06:42:29Z",
-        "version": 2,
-        "changeset": 68968440,
-        "addr:city": "Pelotas",
-        "addr:street": "Rua Arthur Raubach",
-        "addr:suburb": "Três Vendas",
-        "amenity": "clinic",
-        "healthcare": "clinic",
-        "healthcare:speciality": "general;gynaecology;dentist",
-        "name": "Unidade Básica de Saúde Sitio Floresta",
-        "opening_hours": "Mo-Fr 08:00-17:00",
-        "payment:none": "yes",
-        "wheelchair": "yes",
-        "id": "node/6382680789"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -52.3570555,
-          -31.6917261
         ]
       }
     },

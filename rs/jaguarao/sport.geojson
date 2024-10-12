@@ -565,11 +565,11 @@
       "type": "Feature",
       "id": "way/1287047640",
       "properties": {
-        "timestamp": "2024-05-27T11:52:04Z",
-        "version": 1,
-        "changeset": 151894578,
+        "timestamp": "2024-10-10T08:56:05Z",
+        "version": 2,
+        "changeset": 157704572,
         "leisure": "pitch",
-        "name": "Campo do jaguarense 2",
+        "name": "Campo do jaguarense 2;Campo do Jaguarense",
         "sport": "soccer",
         "surface": "grass",
         "id": "way/1287047640"
@@ -579,24 +579,69 @@
         "coordinates": [
           [
             [
-              -53.388209,
-              -32.5650602
+              -53.3880022,
+              -32.5649728
             ],
             [
-              -53.3880669,
-              -32.5652953
+              -53.3878824,
+              -32.5652068
             ],
             [
-              -53.3873078,
-              -32.5650014
+              -53.3873127,
+              -32.5649997
             ],
             [
-              -53.3874232,
-              -32.564746
+              -53.3874325,
+              -32.5647656
             ],
             [
-              -53.388209,
-              -32.5650602
+              -53.3880022,
+              -32.5649728
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1322844988",
+      "properties": {
+        "timestamp": "2024-10-10T08:56:05Z",
+        "version": 1,
+        "changeset": 157704572,
+        "addr:city": "Jaguarão",
+        "addr:postcode": "96300-000",
+        "addr:street": "Rua 24 de Maio",
+        "building": "yes",
+        "leisure": "sports_centre",
+        "name": "Sociedade Clube Jaguarense",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "sport": "soccer",
+        "id": "way/1322844988"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -53.3871933,
+              -32.5645564
+            ],
+            [
+              -53.3870714,
+              -32.5647312
+            ],
+            [
+              -53.3868362,
+              -32.5646147
+            ],
+            [
+              -53.3869582,
+              -32.5644399
+            ],
+            [
+              -53.3871933,
+              -32.5645564
             ]
           ]
         ]
@@ -731,51 +776,6 @@
         "coordinates": [
           -53.379058,
           -32.5665932
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/5735273984",
-      "properties": {
-        "timestamp": "2018-07-03T01:05:30Z",
-        "version": 1,
-        "changeset": 60361749,
-        "leisure": "pitch",
-        "name": "Campo do Jaguarense",
-        "sport": "soccer",
-        "surface": "grass",
-        "id": "node/5735273984"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -53.3874781,
-          -32.5651655
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/5736667495",
-      "properties": {
-        "timestamp": "2018-07-03T13:39:20Z",
-        "version": 1,
-        "changeset": 60380249,
-        "addr:city": "Jaguarão",
-        "addr:postcode": "96300-000",
-        "addr:street": "Rua 24 de Maio",
-        "leisure": "sports_centre",
-        "name": "Sociedade Clube Jaguarense",
-        "opening_hours": "Mo-Su 09:00-21:00",
-        "sport": "soccer",
-        "id": "node/5736667495"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -53.3869903,
-          -32.5645908
         ]
       }
     }

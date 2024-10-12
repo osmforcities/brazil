@@ -669,6 +669,90 @@
     },
     {
       "type": "Feature",
+      "id": "way/1322824688",
+      "properties": {
+        "timestamp": "2024-10-10T06:22:41Z",
+        "version": 1,
+        "changeset": 157699524,
+        "covered": "no",
+        "leisure": "pitch",
+        "lit": "no",
+        "sport": "soccer",
+        "surface": "grass",
+        "id": "way/1322824688"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -53.4536612,
+              -29.5686057
+            ],
+            [
+              -53.4534662,
+              -29.5688633
+            ],
+            [
+              -53.4529388,
+              -29.5685613
+            ],
+            [
+              -53.4531338,
+              -29.5683036
+            ],
+            [
+              -53.4536612,
+              -29.5686057
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1322824692",
+      "properties": {
+        "timestamp": "2024-10-10T06:22:41Z",
+        "version": 1,
+        "changeset": 157699524,
+        "building": "yes",
+        "covered": "yes",
+        "leisure": "sports_centre",
+        "lit": "yes",
+        "sport": "futsal",
+        "id": "way/1322824692"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -53.4535307,
+              -29.5691995
+            ],
+            [
+              -53.4533257,
+              -29.5694783
+            ],
+            [
+              -53.4531232,
+              -29.5693657
+            ],
+            [
+              -53.4533283,
+              -29.5690868
+            ],
+            [
+              -53.4535307,
+              -29.5691995
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/230552119",
       "properties": {
         "timestamp": "2021-07-20T02:42:13Z",
@@ -749,50 +833,6 @@
             -53.441032,
             -29.5761035
           ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/3310193385",
-      "properties": {
-        "timestamp": "2015-01-25T18:18:59Z",
-        "version": 2,
-        "changeset": 28401928,
-        "building": "yes",
-        "covered": "yes",
-        "leisure": "sports_centre",
-        "lit": "yes",
-        "sport": "futsal",
-        "id": "node/3310193385"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -53.4533114,
-          -29.5692956
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/3310297911",
-      "properties": {
-        "timestamp": "2015-01-25T18:18:59Z",
-        "version": 1,
-        "changeset": 28401928,
-        "covered": "no",
-        "leisure": "pitch",
-        "lit": "no",
-        "sport": "soccer",
-        "surface": "grass",
-        "id": "node/3310297911"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -53.4532768,
-          -29.5686527
         ]
       }
     },

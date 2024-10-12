@@ -2090,6 +2090,49 @@
     },
     {
       "type": "Feature",
+      "id": "way/552156168",
+      "properties": {
+        "timestamp": "2024-10-10T06:23:57Z",
+        "version": 3,
+        "changeset": 157699567,
+        "description": "Campinho da Verena",
+        "leisure": "park;pitch",
+        "lit": "no",
+        "name": "Praça Ernesto Frederico Söhnle",
+        "sport": "soccer",
+        "surface": "grass",
+        "id": "way/552156168"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -52.4291362,
+              -29.6991425
+            ],
+            [
+              -52.4288202,
+              -29.6991617
+            ],
+            [
+              -52.428782,
+              -29.6986878
+            ],
+            [
+              -52.429098,
+              -29.6986686
+            ],
+            [
+              -52.4291362,
+              -29.6991425
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/564092784",
       "properties": {
         "timestamp": "2018-02-25T16:10:50Z",
@@ -4921,10 +4964,11 @@
       "type": "Feature",
       "id": "way/1128330148",
       "properties": {
-        "timestamp": "2023-01-08T22:21:22Z",
-        "version": 1,
-        "changeset": 131032347,
+        "timestamp": "2024-10-10T06:24:21Z",
+        "version": 2,
+        "changeset": 157699583,
         "leisure": "pitch",
+        "name": "Arena Esportes",
         "sport": "soccer",
         "surface": "artificial_turf",
         "id": "way/1128330148"
@@ -7048,28 +7092,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/5331377369",
-      "properties": {
-        "timestamp": "2018-02-24T21:39:04Z",
-        "version": 2,
-        "changeset": 56646584,
-        "description": "Campinho da Verena",
-        "leisure": "pitch",
-        "lit": "no",
-        "sport": "soccer",
-        "surface": "grass",
-        "id": "node/5331377369"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -52.428959,
-          -29.6989137
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/6465888857",
       "properties": {
         "timestamp": "2019-05-11T00:13:40Z",
@@ -7107,26 +7129,6 @@
         "coordinates": [
           -52.4445095,
           -29.7260644
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/10315714651",
-      "properties": {
-        "timestamp": "2023-01-08T22:21:22Z",
-        "version": 1,
-        "changeset": 131032347,
-        "leisure": "pitch",
-        "name": "Arena Esportes",
-        "sport": "soccer",
-        "id": "node/10315714651"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -52.4366704,
-          -29.7680347
         ]
       }
     },

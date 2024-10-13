@@ -634,100 +634,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/677411871",
-      "properties": {
-        "timestamp": "2024-09-27T23:58:13Z",
-        "version": 3,
-        "changeset": 157191695,
-        "addr:city": "Divinópolis",
-        "addr:housenumber": "263",
-        "addr:postcode": "35501-351",
-        "addr:street": "Rua Lagoa da Prata",
-        "addr:suburb": "Belvedere",
-        "amenity": "school",
-        "mobile": "(37) 9 9181-0880",
-        "name": "Escola Municipal José Carlos Pereira",
-        "website": "https://www.instagram.com/emjosecarlospereira",
-        "wheelchair": "yes",
-        "id": "way/677411871"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -44.9129223,
-              -20.1743414
-            ],
-            [
-              -44.9138251,
-              -20.1747696
-            ],
-            [
-              -44.9135694,
-              -20.1752933
-            ],
-            [
-              -44.9126539,
-              -20.1748473
-            ],
-            [
-              -44.9129223,
-              -20.1743414
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/677411872",
-      "properties": {
-        "timestamp": "2024-08-25T21:25:26Z",
-        "version": 3,
-        "changeset": 155756351,
-        "addr:city": "DIvinópolis-MG",
-        "addr:housenumber": "2400",
-        "addr:postcode": "35501-280",
-        "addr:street": "Rua Vinato Correa",
-        "addr:suburb": "Bela Vista",
-        "amenity": "school",
-        "name": "Escola Municipal Professora Hermínia Corgozinho",
-        "phone": "+55 37 3214-8265",
-        "ref": "INEP-31037231",
-        "website": "https://sredivinopolis.educacao.mg.gov.br/2-uncategorised/67-escolas-de-divinopolis?start=32",
-        "id": "way/677411872"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -44.9068198,
-              -20.1721132
-            ],
-            [
-              -44.9069922,
-              -20.1725586
-            ],
-            [
-              -44.9062859,
-              -20.1727994
-            ],
-            [
-              -44.9061136,
-              -20.1723541
-            ],
-            [
-              -44.9068198,
-              -20.1721132
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/679426596",
       "properties": {
         "timestamp": "2019-03-26T10:35:42Z",
@@ -1349,6 +1255,59 @@
         "coordinates": [
           -44.9279412,
           -20.1567455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12244741890",
+      "properties": {
+        "timestamp": "2024-10-11T19:07:27Z",
+        "version": 2,
+        "changeset": 157770231,
+        "addr:city": "Divinópolis",
+        "addr:housenumber": "2400",
+        "addr:postcode": "35501-280",
+        "addr:street": "Rua Vinato Correa",
+        "addr:suburb": "Bela Vista",
+        "amenity": "school",
+        "name": "Escola Municipal Professora Hermínia Corgozinho",
+        "phone": "+55 37 3214-8265",
+        "website": "https://sredivinopolis.educacao.mg.gov.br/2-uncategorised/67-escolas-de-divinopolis?start=32",
+        "id": "node/12244741890"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.9062663,
+          -20.17268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12244741891",
+      "properties": {
+        "timestamp": "2024-10-11T19:07:27Z",
+        "version": 2,
+        "changeset": 157770231,
+        "addr:city": "Divinópolis",
+        "addr:housenumber": "263",
+        "addr:postcode": "35501-351",
+        "addr:street": "Rua Lagoa da Prata",
+        "addr:suburb": "Belvedere",
+        "amenity": "school",
+        "mobile": "(37) 9 9181-0880",
+        "name": "Escola Municipal José Carlos Pereira",
+        "website": "https://www.instagram.com/emjosecarlospereira",
+        "wheelchair": "yes",
+        "id": "node/12244741891"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.9136704,
+          -20.1751312
         ]
       }
     }

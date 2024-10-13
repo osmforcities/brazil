@@ -2014,9 +2014,9 @@
       "type": "Feature",
       "id": "node/6838753277",
       "properties": {
-        "timestamp": "2024-09-30T17:18:01Z",
-        "version": 3,
-        "changeset": 157307801,
+        "timestamp": "2024-10-11T12:05:59Z",
+        "version": 4,
+        "changeset": 157754130,
         "addr:city": "Campinas",
         "addr:housenumber": "686",
         "addr:postcode": "13073-141",
@@ -2030,8 +2030,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -47.0707302,
-          -22.8858844
+          -47.0706953,
+          -22.8857757
         ]
       }
     },
@@ -2306,9 +2306,9 @@
       "type": "Feature",
       "id": "node/10594107526",
       "properties": {
-        "timestamp": "2024-10-07T17:00:34Z",
-        "version": 2,
-        "changeset": 157591417,
+        "timestamp": "2024-10-11T11:43:15Z",
+        "version": 3,
+        "changeset": 157753258,
         "addr:city": "Campinas",
         "addr:housenumber": "234",
         "addr:postcode": "13073-212",
@@ -2316,16 +2316,16 @@
         "addr:suburb": "Jardim Guanabara",
         "amenity": "clinic",
         "healthcare": "clinic",
-        "healthcare:speciality": "medicina_do_trabalho",
+        "healthcare:speciality": "occupational",
         "name": "Grupo TBS",
-        "phone": "+55 19 31147900",
+        "phone": "+55 (19) 3114-7900",
         "id": "node/10594107526"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -47.0711114,
-          -22.8916333
+          -47.0711612,
+          -22.891517
         ]
       }
     },
@@ -2387,29 +2387,88 @@
     },
     {
       "type": "Feature",
-      "id": "node/12175405817",
+      "id": "node/12175405844",
       "properties": {
-        "timestamp": "2024-10-07T17:00:34Z",
-        "version": 2,
-        "changeset": 157591417,
+        "timestamp": "2024-10-11T11:37:58Z",
+        "version": 4,
+        "changeset": 157753055,
         "addr:city": "Campinas",
-        "addr:housenumber": "526",
-        "addr:postcode": "13073-221",
-        "addr:street": "Rua Frei Manuel da Ressurreição",
+        "addr:housenumber": "135",
+        "addr:postcode": "13073-230",
+        "addr:street": "Rua Gonçalves César",
         "addr:suburb": "Jardim Guanabara",
         "amenity": "clinic",
         "healthcare": "clinic",
-        "healthcare:speciality": "gynaecology;paediatrics;dermatology;nutrição",
-        "name": "Clínica Mater Baby Campinas",
-        "opening_hours": "Mo-Fr 08:00-19:00",
-        "phone": "+55 19 32317742",
-        "id": "node/12175405817"
+        "healthcare:speciality": "otolaryngology",
+        "name": "Clínica Respirare",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "phone": "+55 (19) 3232-1933",
+        "website": "http://clinicarespirare.com.br/",
+        "id": "node/12175405844"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -47.0718777,
-          -22.8919472
+          -47.0676028,
+          -22.8881947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12188783104",
+      "properties": {
+        "timestamp": "2024-10-11T16:34:48Z",
+        "version": 5,
+        "changeset": 157765040,
+        "addr:city": "Campinas",
+        "addr:housenumber": "402",
+        "addr:postcode": "13023-180",
+        "addr:street": "Rua Álvaro Müller",
+        "addr:suburb": "Vila Itapura",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "orthopaedics",
+        "name": "Centro de Traumologia, Reabilitação e Ortopedia",
+        "opening_hours": "Mo-Fr 07:00-19:30",
+        "phone": "+55 (19) 3231-3053",
+        "short_name": "CETRO",
+        "id": "node/12188783104"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.062475,
+          -22.895126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12201856995",
+      "properties": {
+        "timestamp": "2024-10-11T11:37:58Z",
+        "version": 2,
+        "changeset": 157753055,
+        "addr:city": "Campinas",
+        "addr:housenumber": "539",
+        "addr:postcode": "13023-030",
+        "addr:street": "Rua Barata Ribeiro",
+        "addr:suburb": "Vila Itapura",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "mobile": "+55 (19) 99451-5740",
+        "name": "Clínica Êxito Medicina e Diagnóstico",
+        "opening_hours": "Mo-Fr 07:00-19:00; Sa 07:00-12:00",
+        "phone": "+55 (19) 3232-0719",
+        "website": "http://exitomedicina1.hospedagemdesites.ws/2017/index.html",
+        "id": "node/12201856995"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.065052,
+          -22.8944367
         ]
       }
     },
@@ -2417,9 +2476,9 @@
       "type": "Feature",
       "id": "node/12205551636",
       "properties": {
-        "timestamp": "2024-09-27T17:43:49Z",
-        "version": 1,
-        "changeset": 157182461,
+        "timestamp": "2024-10-11T12:02:16Z",
+        "version": 2,
+        "changeset": 157753996,
         "addr:city": "Campinas",
         "addr:housenumber": "641",
         "addr:postcode": "13073-350",
@@ -2436,8 +2495,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -47.0671571,
-          -22.890859
+          -47.0672258,
+          -22.8908039
         ]
       }
     },
@@ -2445,9 +2504,9 @@
       "type": "Feature",
       "id": "node/12205551640",
       "properties": {
-        "timestamp": "2024-09-27T17:43:49Z",
-        "version": 1,
-        "changeset": 157182461,
+        "timestamp": "2024-10-11T12:02:16Z",
+        "version": 2,
+        "changeset": 157753996,
         "addr:city": "Campinas",
         "addr:housenumber": "425",
         "addr:postcode": "13073-350",
@@ -2465,8 +2524,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -47.0684502,
-          -22.892497
+          -47.0684269,
+          -22.8924562
         ]
       }
     },
@@ -2503,9 +2562,9 @@
       "type": "Feature",
       "id": "node/12205551647",
       "properties": {
-        "timestamp": "2024-09-27T17:43:49Z",
-        "version": 1,
-        "changeset": 157182461,
+        "timestamp": "2024-10-11T12:02:16Z",
+        "version": 2,
+        "changeset": 157753996,
         "addr:city": "Campinas",
         "addr:housenumber": "216",
         "addr:postcode": "13073-350",
@@ -2522,8 +2581,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -47.0694686,
-          -22.8942344
+          -47.0693368,
+          -22.8942977
         ]
       }
     },
@@ -2531,9 +2590,9 @@
       "type": "Feature",
       "id": "node/12205551648",
       "properties": {
-        "timestamp": "2024-09-27T17:43:49Z",
-        "version": 1,
-        "changeset": 157182461,
+        "timestamp": "2024-10-11T12:02:16Z",
+        "version": 2,
+        "changeset": 157753996,
         "addr:city": "Campinas",
         "addr:housenumber": "198",
         "addr:postcode": "13073-350",
@@ -2550,8 +2609,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -47.0695243,
-          -22.8942999
+          -47.0693892,
+          -22.8943785
         ]
       }
     },
@@ -2587,9 +2646,9 @@
       "type": "Feature",
       "id": "node/12207040932",
       "properties": {
-        "timestamp": "2024-09-28T14:43:49Z",
-        "version": 1,
-        "changeset": 157214285,
+        "timestamp": "2024-10-11T12:02:16Z",
+        "version": 2,
+        "changeset": 157753996,
         "addr:city": "Campinas",
         "addr:housenumber": "572",
         "addr:postcode": "13073-350",
@@ -2607,8 +2666,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -47.0674038,
-          -22.8915911
+          -47.0672764,
+          -22.8916666
         ]
       }
     },
@@ -2616,9 +2675,9 @@
       "type": "Feature",
       "id": "node/12207040938",
       "properties": {
-        "timestamp": "2024-09-28T14:43:49Z",
-        "version": 1,
-        "changeset": 157214285,
+        "timestamp": "2024-10-11T12:02:16Z",
+        "version": 2,
+        "changeset": 157753996,
         "addr:city": "Campinas",
         "addr:housenumber": "694",
         "addr:postcode": "13073-350",
@@ -2634,8 +2693,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -47.0667214,
-          -22.8906914
+          -47.066604,
+          -22.8907577
         ]
       }
     },
@@ -2643,9 +2702,9 @@
       "type": "Feature",
       "id": "node/12207040941",
       "properties": {
-        "timestamp": "2024-09-28T14:43:49Z",
-        "version": 1,
-        "changeset": 157214285,
+        "timestamp": "2024-10-11T12:02:16Z",
+        "version": 2,
+        "changeset": 157753996,
         "addr:city": "Campinas",
         "addr:housenumber": "348",
         "addr:postcode": "13073-240",
@@ -2662,8 +2721,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -47.0666258,
-          -22.8887879
+          -47.0665726,
+          -22.8887869
         ]
       }
     },
@@ -2697,9 +2756,9 @@
       "type": "Feature",
       "id": "node/12209609780",
       "properties": {
-        "timestamp": "2024-09-29T20:37:53Z",
-        "version": 1,
-        "changeset": 157270439,
+        "timestamp": "2024-10-11T12:13:20Z",
+        "version": 2,
+        "changeset": 157754419,
         "addr:city": "Campinas",
         "addr:housenumber": "106",
         "addr:postcode": "13073-340",
@@ -2715,8 +2774,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -47.069443,
-          -22.8919807
+          -47.0693245,
+          -22.8919593
         ]
       }
     },
@@ -2724,9 +2783,9 @@
       "type": "Feature",
       "id": "node/12209609783",
       "properties": {
-        "timestamp": "2024-09-29T20:37:53Z",
-        "version": 1,
-        "changeset": 157270439,
+        "timestamp": "2024-10-11T12:31:53Z",
+        "version": 2,
+        "changeset": 157755090,
         "addr:city": "Campinas",
         "addr:housenumber": "380",
         "addr:postcode": "13073-340",
@@ -2743,36 +2802,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -47.0693549,
-          -22.8897322
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/12211476907",
-      "properties": {
-        "timestamp": "2024-09-30T10:42:40Z",
-        "version": 1,
-        "changeset": 157290669,
-        "addr:city": "Campinas",
-        "addr:housenumber": "962",
-        "addr:postcode": "13073-221",
-        "addr:street": "Rua Frei Manuel da Ressurreição",
-        "addr:suburb": "Jardim Guanabara",
-        "amenity": "clinic",
-        "healthcare": "clinic",
-        "healthcare:speciality": "plastic_surgery",
-        "name": "Renovare",
-        "phone": "+55 (19) 3213-2086",
-        "website": "https://clinicarenovarecampinas.com.br/",
-        "id": "node/12211476907"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -47.0717591,
-          -22.8882661
+          -47.0692663,
+          -22.8897683
         ]
       }
     },
@@ -2780,9 +2811,9 @@
       "type": "Feature",
       "id": "node/12212230425",
       "properties": {
-        "timestamp": "2024-09-30T17:18:01Z",
-        "version": 1,
-        "changeset": 157307801,
+        "timestamp": "2024-10-11T12:02:16Z",
+        "version": 2,
+        "changeset": 157753996,
         "addr:city": "Campinas",
         "addr:housenumber": "933",
         "addr:postcode": "13070-118",
@@ -2796,37 +2827,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -47.0715113,
-          -22.8855824
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/12213937119",
-      "properties": {
-        "timestamp": "2024-10-07T12:30:46Z",
-        "version": 2,
-        "changeset": 157580123,
-        "addr:city": "Campinas",
-        "addr:housenumber": "1028",
-        "addr:postcode": "13073-330",
-        "addr:street": "Rua Frei Antônio de Pádua",
-        "addr:suburb": "Jardim Guanabara",
-        "amenity": "clinic",
-        "healthcare": "clinic",
-        "mobile": "+55 (19) 99688-1975",
-        "name": "Clínica Raíizes",
-        "opening_hours": "Mo-Fr 08:00-18:00",
-        "phone": "+55 (19) 3381-2671",
-        "website": "https://clinicaraizescampinas.com.br/",
-        "id": "node/12213937119"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -47.0711005,
-          -22.8889479
+          -47.0715772,
+          -22.8855546
         ]
       }
     },
@@ -2834,9 +2836,9 @@
       "type": "Feature",
       "id": "node/12213937121",
       "properties": {
-        "timestamp": "2024-10-01T11:31:52Z",
-        "version": 1,
-        "changeset": 157334724,
+        "timestamp": "2024-10-11T11:46:48Z",
+        "version": 2,
+        "changeset": 157753380,
         "addr:city": "Campinas",
         "addr:housenumber": "1263",
         "addr:postcode": "13073-330",
@@ -2853,8 +2855,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -47.0700876,
-          -22.8870006
+          -47.0701809,
+          -22.8869551
         ]
       }
     },
@@ -2996,11 +2998,146 @@
     },
     {
       "type": "Feature",
+      "id": "node/12229728134",
+      "properties": {
+        "timestamp": "2024-10-11T12:02:16Z",
+        "version": 2,
+        "changeset": 157753996,
+        "addr:city": "Campinas",
+        "addr:housenumber": "565",
+        "addr:postcode": "13073-141",
+        "addr:street": "Rua Dona Rosa de Gusmão",
+        "addr:suburb": "Jardim Guanabara",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "mobile": "+55 (19) 98177-3566",
+        "name": "Clínica Beltz",
+        "phone": "+55 (19) 3212-0875",
+        "id": "node/12229728134"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0703629,
+          -22.886569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12229728138",
+      "properties": {
+        "timestamp": "2024-10-11T11:46:48Z",
+        "version": 2,
+        "changeset": 157753380,
+        "addr:city": "Campinas",
+        "addr:housenumber": "1400",
+        "addr:postcode": "13073-330",
+        "addr:street": "Rua Frei Antônio de Pádua",
+        "addr:suburb": "Jardim Guanabara",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "mobile": "+55 (19) 99153-7463",
+        "name": "Espaço Comportamento",
+        "website": "https://www.instagram.com/espaco.comportamento/",
+        "id": "node/12229728138"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0690521,
+          -22.8860658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12229728141",
+      "properties": {
+        "timestamp": "2024-10-11T12:05:59Z",
+        "version": 2,
+        "changeset": 157754130,
+        "addr:city": "Campinas",
+        "addr:housenumber": "875",
+        "addr:postcode": "13073-320",
+        "addr:street": "Rua Doutor Barbosa da Cunha",
+        "addr:suburb": "Jardim Guanabara",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "fertility",
+        "name": "Vivitá Medicina Reprodutiva",
+        "opening_hours": "Mo-Fr 08:00-18:00",
+        "phone": "+55 (19) 3203-2759",
+        "website": "https://vivita.com.br/",
+        "id": "node/12229728141"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0690788,
+          -22.8870171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12229728144",
+      "properties": {
+        "timestamp": "2024-10-11T12:31:53Z",
+        "version": 2,
+        "changeset": 157755090,
+        "addr:city": "Campinas",
+        "addr:housenumber": "404",
+        "addr:postcode": "13073-340",
+        "addr:street": "Rua Camargo Pimentel",
+        "addr:suburb": "Jardim Guanabara",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "paediatrics",
+        "name": "Bebê em Movimento",
+        "id": "node/12229728144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0691756,
+          -22.889576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12229728145",
+      "properties": {
+        "timestamp": "2024-10-11T12:31:53Z",
+        "version": 2,
+        "changeset": 157755090,
+        "addr:city": "Campinas",
+        "addr:housenumber": "394",
+        "addr:postcode": "13073-340",
+        "addr:street": "Rua Camargo Pimentel",
+        "addr:suburb": "Jardim Guanabara",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "mobile": "+55 (19) 99160-7338",
+        "name": "Instituto da Mente",
+        "id": "node/12229728145"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0692199,
+          -22.8896672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/12231638211",
       "properties": {
-        "timestamp": "2024-10-07T11:56:17Z",
-        "version": 1,
-        "changeset": 157578670,
+        "timestamp": "2024-10-11T12:05:59Z",
+        "version": 2,
+        "changeset": 157754130,
         "addr:city": "Campinas",
         "addr:housenumber": "1011",
         "addr:postcode": "13070-187",
@@ -3019,8 +3156,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -47.07357,
-          -22.8843696
+          -47.0736263,
+          -22.884466
         ]
       }
     },
@@ -3056,9 +3193,9 @@
       "type": "Feature",
       "id": "node/12239714400",
       "properties": {
-        "timestamp": "2024-10-09T21:39:27Z",
-        "version": 1,
-        "changeset": 157690756,
+        "timestamp": "2024-10-11T12:02:16Z",
+        "version": 2,
+        "changeset": 157753996,
         "addr:city": "Campinas",
         "addr:housenumber": "158",
         "addr:postcode": "13073-230",
@@ -3076,8 +3213,64 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -47.0672297,
-          -22.8881873
+          -47.0670935,
+          -22.8882628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12243887642",
+      "properties": {
+        "timestamp": "2024-10-11T11:46:48Z",
+        "version": 2,
+        "changeset": 157753380,
+        "addr:city": "Campinas",
+        "addr:housenumber": "1382",
+        "addr:postcode": "13073-330",
+        "addr:street": "Rua Frei Antônio de Pádua",
+        "addr:suburb": "Jardim Guanabara",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "neurology",
+        "mobile": "+55 (19) 99100-9186",
+        "name": "Polisono",
+        "opening_hours": "Mo-Fr 08:00-12:00,13:00-17:00",
+        "phone": "+55 (19) 3325-9077",
+        "website": "http://www.polisono.com.br/",
+        "id": "node/12243887642"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0691325,
+          -22.8862251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12244534292",
+      "properties": {
+        "timestamp": "2024-10-11T16:54:58Z",
+        "version": 1,
+        "changeset": 157765904,
+        "addr:city": "Campinas",
+        "addr:housenumber": "880",
+        "addr:postcode": "13041-317",
+        "addr:street": "Rua Vitoriano dos Anjos",
+        "addr:suburb": "Vila João Jorge",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Clínica LYS",
+        "phone": "+55 (19) 3233-0070",
+        "id": "node/12244534292"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0594743,
+          -22.917206
         ]
       }
     }

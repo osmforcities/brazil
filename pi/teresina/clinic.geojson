@@ -3118,6 +3118,63 @@
     },
     {
       "type": "Feature",
+      "id": "way/1323203942",
+      "properties": {
+        "timestamp": "2024-10-11T14:57:23Z",
+        "version": 1,
+        "changeset": 157760813,
+        "addr:city": "Teresina",
+        "addr:street": "Rua Santa Teresinha",
+        "addr:suburb": "Vila Meio Norte",
+        "amenity": "clinic",
+        "building": "house",
+        "building:levels": "1",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general;dentistry;vaccination",
+        "house": "bungalow",
+        "name": "UBS Vila do Avião",
+        "operator": "FMS - Teresina",
+        "operator:type": "public",
+        "id": "way/1323203942"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.782246,
+              -5.0073687
+            ],
+            [
+              -42.7823115,
+              -5.0073915
+            ],
+            [
+              -42.7822551,
+              -5.007552
+            ],
+            [
+              -42.7821611,
+              -5.0075193
+            ],
+            [
+              -42.782184,
+              -5.0074542
+            ],
+            [
+              -42.7822125,
+              -5.0074641
+            ],
+            [
+              -42.782246,
+              -5.0073687
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/637666636",
       "properties": {
         "timestamp": "2022-08-02T01:43:57Z",
@@ -6949,26 +7006,6 @@
         "coordinates": [
           -42.7587552,
           -5.0969817
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/8446399094",
-      "properties": {
-        "timestamp": "2021-02-22T16:46:42Z",
-        "version": 1,
-        "changeset": 99760638,
-        "amenity": "clinic",
-        "healthcare": "clinic",
-        "name": "UBS Vila do Avião",
-        "id": "node/8446399094"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -42.7822436,
-          -5.0074313
         ]
       }
     },

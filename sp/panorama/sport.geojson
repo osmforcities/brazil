@@ -606,13 +606,57 @@
     },
     {
       "type": "Feature",
-      "id": "way/1318850755",
+      "id": "way/1318847129",
       "properties": {
-        "timestamp": "2024-09-27T18:11:34Z",
-        "version": 1,
-        "changeset": 157183458,
+        "timestamp": "2024-10-11T19:18:12Z",
+        "version": 4,
+        "changeset": 157770560,
+        "access": "yes",
         "leisure": "pitch",
         "sport": "soccer",
+        "surface": "grass",
+        "id": "way/1318847129"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.8553741,
+              -21.374115
+            ],
+            [
+              -51.8556563,
+              -21.3739972
+            ],
+            [
+              -51.8557525,
+              -21.3741972
+            ],
+            [
+              -51.8554704,
+              -21.374315
+            ],
+            [
+              -51.8553741,
+              -21.374115
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1318850755",
+      "properties": {
+        "timestamp": "2024-10-11T19:16:07Z",
+        "version": 2,
+        "changeset": 157770502,
+        "access": "yes",
+        "leisure": "pitch",
+        "lit": "yes",
+        "sport": "soccer",
+        "surface": "grass",
         "id": "way/1318850755"
       },
       "geometry": {
@@ -677,6 +721,47 @@
             [
               -51.8479568,
               -21.3551971
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1319008857",
+      "properties": {
+        "timestamp": "2024-10-11T21:49:16Z",
+        "version": 3,
+        "changeset": 157774512,
+        "leisure": "pitch",
+        "lit": "yes",
+        "sport": "volleyball",
+        "surface": "concrete",
+        "id": "way/1319008857"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.8581313,
+              -21.3640846
+            ],
+            [
+              -51.858051,
+              -21.3642473
+            ],
+            [
+              -51.857936,
+              -21.3641981
+            ],
+            [
+              -51.8580163,
+              -21.3640354
+            ],
+            [
+              -51.8581313,
+              -21.3640846
             ]
           ]
         ]
@@ -1242,11 +1327,13 @@
       "type": "Feature",
       "id": "way/1320438509",
       "properties": {
-        "timestamp": "2024-10-03T17:53:01Z",
-        "version": 1,
-        "changeset": 157430811,
+        "timestamp": "2024-10-11T19:18:12Z",
+        "version": 2,
+        "changeset": 157770560,
+        "access": "yes",
         "leisure": "pitch",
         "sport": "volleyball",
+        "surface": "sand",
         "id": "way/1320438509"
       },
       "geometry": {
@@ -1549,11 +1636,14 @@
       "type": "Feature",
       "id": "way/1322729289",
       "properties": {
-        "timestamp": "2024-10-09T22:05:23Z",
-        "version": 1,
-        "changeset": 157691297,
+        "timestamp": "2024-10-11T19:16:07Z",
+        "version": 2,
+        "changeset": 157770502,
+        "access": "yes",
         "leisure": "pitch",
+        "lit": "yes",
         "sport": "soccer",
+        "surface": "grass",
         "id": "way/1322729289"
       },
       "geometry": {
@@ -1579,6 +1669,86 @@
             [
               -51.8608726,
               -21.376281
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1323164253",
+      "properties": {
+        "timestamp": "2024-10-11T12:21:17Z",
+        "version": 1,
+        "changeset": 157754715,
+        "leisure": "pitch",
+        "sport": "soccer",
+        "surface": "grass",
+        "id": "way/1323164253"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.8751166,
+              -21.3692757
+            ],
+            [
+              -51.8747638,
+              -21.3696539
+            ],
+            [
+              -51.874432,
+              -21.3693855
+            ],
+            [
+              -51.8747849,
+              -21.3690073
+            ],
+            [
+              -51.8751166,
+              -21.3692757
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1323273854",
+      "properties": {
+        "timestamp": "2024-10-11T21:02:39Z",
+        "version": 1,
+        "changeset": 157773510,
+        "leisure": "sports_centre",
+        "sport": "soccer",
+        "surface": "sand",
+        "id": "way/1323273854"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.8493941,
+              -21.36809
+            ],
+            [
+              -51.8492754,
+              -21.3682076
+            ],
+            [
+              -51.8489709,
+              -21.3679413
+            ],
+            [
+              -51.8490896,
+              -21.3678236
+            ],
+            [
+              -51.8493941,
+              -21.36809
             ]
           ]
         ]

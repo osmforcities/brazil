@@ -48,9 +48,9 @@
       "type": "Feature",
       "id": "way/345401835",
       "properties": {
-        "timestamp": "2024-07-31T01:31:30Z",
-        "version": 4,
-        "changeset": 154628051,
+        "timestamp": "2024-10-12T14:57:33Z",
+        "version": 5,
+        "changeset": 157799721,
         "addr:city": "Palotina",
         "addr:housenumber": "348",
         "addr:postcode": "85950-000",
@@ -70,6 +70,10 @@
             [
               -53.8485343,
               -24.2798438
+            ],
+            [
+              -53.848651,
+              -24.279874
             ],
             [
               -53.8491344,
@@ -94,6 +98,10 @@
             [
               -53.8483298,
               -24.2804741
+            ],
+            [
+              -53.8485101,
+              -24.2799184
             ],
             [
               -53.8485343,
@@ -273,6 +281,46 @@
         "coordinates": [
           -53.8249749,
           -24.2809898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12246406617",
+      "properties": {
+        "timestamp": "2024-10-12T14:57:33Z",
+        "version": 1,
+        "changeset": 157799721,
+        "highway": "traffic_signals",
+        "traffic_signals:backward": "signal",
+        "traffic_signals:countdown": "yes",
+        "id": "node/12246406617"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.8485101,
+          -24.2799184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12246406618",
+      "properties": {
+        "timestamp": "2024-10-12T14:57:33Z",
+        "version": 1,
+        "changeset": 157799721,
+        "highway": "traffic_signals",
+        "traffic_signals:backward": "signal",
+        "traffic_signals:countdown": "yes",
+        "id": "node/12246406618"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.848651,
+          -24.279874
         ]
       }
     }

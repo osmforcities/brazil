@@ -5153,6 +5153,53 @@
     },
     {
       "type": "Feature",
+      "id": "way/1323442952",
+      "properties": {
+        "timestamp": "2024-10-12T16:14:22Z",
+        "version": 1,
+        "changeset": 157803646,
+        "addr:city": "Niterói",
+        "addr:suburb": "Caramujo",
+        "amenity": "school",
+        "building": "school",
+        "name": "Escola Municipal José de Anchieta",
+        "operator": "Município de Niterói",
+        "id": "way/1323442952"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.0670162,
+              -22.8935269
+            ],
+            [
+              -43.0667946,
+              -22.8939988
+            ],
+            [
+              -43.0665487,
+              -22.8938958
+            ],
+            [
+              -43.0665751,
+              -22.8937141
+            ],
+            [
+              -43.0667194,
+              -22.8934164
+            ],
+            [
+              -43.0670162,
+              -22.8935269
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/452654175",
       "properties": {
         "timestamp": "2024-05-26T16:06:43Z",
@@ -6381,21 +6428,22 @@
       "type": "Feature",
       "id": "node/2503450579",
       "properties": {
-        "timestamp": "2019-10-19T12:02:37Z",
-        "version": 2,
-        "changeset": 75928084,
+        "timestamp": "2024-10-12T16:09:15Z",
+        "version": 3,
+        "changeset": 157803390,
         "addr:city": "Niterói",
-        "addr:housenumber": "80",
-        "addr:street": "Rua A",
+        "addr:suburb": "Caramujo",
         "amenity": "school",
-        "name": "Unidade Municipal de Educação Infantil Luiz Eduardo Travassos",
+        "name": "Escola Municipal José de Anchieta",
+        "operator": "Muncípio de Niterói",
+        "operator:type": "public",
         "id": "node/2503450579"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -43.0668131,
-          -22.8935374
+          -43.066734,
+          -22.8937672
         ]
       }
     },

@@ -1547,25 +1547,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/6412445861",
-      "properties": {
-        "timestamp": "2019-04-17T17:35:16Z",
-        "version": 1,
-        "changeset": 69318464,
-        "amenity": "bicycle_rental",
-        "fee": "yes",
-        "id": "node/6412445861"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -46.6414815,
-          -23.5751309
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/6600248153",
       "properties": {
         "timestamp": "2019-07-09T15:18:00Z",
@@ -10091,16 +10072,22 @@
       "type": "Feature",
       "id": "node/11135386509",
       "properties": {
-        "timestamp": "2023-08-22T03:41:44Z",
-        "version": 1,
-        "changeset": 140207504,
+        "timestamp": "2024-10-12T17:12:42Z",
+        "version": 2,
+        "changeset": 157805983,
         "amenity": "bicycle_rental",
         "authentication:app": "yes",
         "bicycle_rental": "docking_station",
+        "brand": "Bike Sampa",
+        "brand:wikidata": "Q97188366",
+        "capacity": "19",
+        "fee": "yes",
         "name": "Metrô Paraíso",
-        "network": "Bike Itaú (Bike Sampa)",
+        "network": "Bike Sampa",
         "network:wikidata": "Q97188366",
-        "operator": "Tembici",
+        "not:brand:wikidata": "Q28724",
+        "operator": "Bike Sampa",
+        "payment:app": "yes",
         "ref": "150",
         "rental": "city_bike",
         "source": "network website",
@@ -10110,8 +10097,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -46.6415216,
-          -23.574991
+          -46.6414988,
+          -23.5750098
         ]
       }
     },

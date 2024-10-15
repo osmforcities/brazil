@@ -197,6 +197,97 @@
     },
     {
       "type": "Feature",
+      "id": "way/161312748",
+      "properties": {
+        "timestamp": "2024-10-13T16:33:06Z",
+        "version": 7,
+        "changeset": 157843074,
+        "addr:city": "Curitiba",
+        "addr:housenumber": "3430",
+        "addr:postcode": "80610-260",
+        "addr:street": "Avenida República Argentina",
+        "addr:suburb": "Portão",
+        "amenity": "community_centre",
+        "building": "yes",
+        "building:levels": "3",
+        "community_centre": "cultural_centre",
+        "name": "Portão Cultural",
+        "opening_hours": "Tu-Su 10:00-19:00",
+        "operator": "Prefeitura Municipal de Curitiba",
+        "operator:type": "public",
+        "website": "http://www.fundacaoculturaldecuritiba.com.br/espacos-culturais/portao-cultural/",
+        "id": "way/161312748"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.2933767,
+              -25.476138
+            ],
+            [
+              -49.2933635,
+              -25.4761737
+            ],
+            [
+              -49.2933119,
+              -25.4763134
+            ],
+            [
+              -49.2932656,
+              -25.4764389
+            ],
+            [
+              -49.2932321,
+              -25.4765296
+            ],
+            [
+              -49.2931946,
+              -25.4766312
+            ],
+            [
+              -49.2931277,
+              -25.4768125
+            ],
+            [
+              -49.293113,
+              -25.4768522
+            ],
+            [
+              -49.292891,
+              -25.4767854
+            ],
+            [
+              -49.2929058,
+              -25.4767454
+            ],
+            [
+              -49.2929724,
+              -25.476565
+            ],
+            [
+              -49.293009,
+              -25.4764657
+            ],
+            [
+              -49.2931422,
+              -25.476105
+            ],
+            [
+              -49.2931547,
+              -25.4760712
+            ],
+            [
+              -49.2933767,
+              -25.476138
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/232699562",
       "properties": {
         "timestamp": "2024-02-29T13:59:38Z",
@@ -2048,6 +2139,25 @@
     },
     {
       "type": "Feature",
+      "id": "node/4678927289",
+      "properties": {
+        "timestamp": "2024-10-13T16:33:06Z",
+        "version": 4,
+        "changeset": 157843074,
+        "entrance": "yes",
+        "level": "1",
+        "id": "node/4678927289"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2929724,
+          -25.476565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/5022578943",
       "properties": {
         "timestamp": "2017-08-08T16:28:54Z",
@@ -2371,6 +2481,63 @@
         "coordinates": [
           -49.2327104,
           -25.4537073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12248620177",
+      "properties": {
+        "timestamp": "2024-10-13T16:33:06Z",
+        "version": 1,
+        "changeset": 157843074,
+        "entrance": "yes",
+        "level": "1",
+        "id": "node/12248620177"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.293009,
+          -25.4764657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12248640613",
+      "properties": {
+        "timestamp": "2024-10-13T16:33:06Z",
+        "version": 1,
+        "changeset": 157843074,
+        "entrance": "yes",
+        "level": "1",
+        "id": "node/12248640613"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2932321,
+          -25.4765296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12248640616",
+      "properties": {
+        "timestamp": "2024-10-13T16:33:06Z",
+        "version": 1,
+        "changeset": 157843074,
+        "entrance": "yes",
+        "level": "1",
+        "id": "node/12248640616"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2931946,
+          -25.4766312
         ]
       }
     }

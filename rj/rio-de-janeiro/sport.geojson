@@ -108114,6 +108114,45 @@
     },
     {
       "type": "Feature",
+      "id": "way/1323664851",
+      "properties": {
+        "timestamp": "2024-10-13T17:15:59Z",
+        "version": 1,
+        "changeset": 157844890,
+        "leisure": "pitch",
+        "sport": "soccer",
+        "id": "way/1323664851"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.471047,
+              -23.0317854
+            ],
+            [
+              -43.4709182,
+              -23.0320075
+            ],
+            [
+              -43.4707594,
+              -23.0319296
+            ],
+            [
+              -43.4708881,
+              -23.0317074
+            ],
+            [
+              -43.471047,
+              -23.0317854
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/30658172",
       "properties": {
         "timestamp": "2015-09-21T12:59:11Z",
@@ -120574,6 +120613,46 @@
         "coordinates": [
           -43.5740714,
           -22.9026972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12247569852",
+      "properties": {
+        "timestamp": "2024-10-13T04:40:49Z",
+        "version": 1,
+        "changeset": 157819349,
+        "name": "Quebra vento",
+        "shop": "sports",
+        "sport": "surf",
+        "id": "node/12247569852"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.4719938,
+          -23.0303919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12247569860",
+      "properties": {
+        "timestamp": "2024-10-13T04:40:49Z",
+        "version": 1,
+        "changeset": 157819349,
+        "name": "Surf & Co.",
+        "shop": "sports",
+        "sport": "surf",
+        "id": "node/12247569860"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.4729116,
+          -23.0304514
         ]
       }
     }

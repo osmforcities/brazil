@@ -354,61 +354,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/315747945",
-      "properties": {
-        "timestamp": "2014-12-04T13:29:31Z",
-        "version": 1,
-        "changeset": 27235074,
-        "amenity": "pharmacy",
-        "building": "yes",
-        "id": "way/315747945"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -43.457134,
-              -23.0243575
-            ],
-            [
-              -43.4572256,
-              -23.0243836
-            ],
-            [
-              -43.4571898,
-              -23.0244806
-            ],
-            [
-              -43.4572072,
-              -23.024486
-            ],
-            [
-              -43.4571608,
-              -23.0246117
-            ],
-            [
-              -43.4571112,
-              -23.0246339
-            ],
-            [
-              -43.4570334,
-              -23.0246129
-            ],
-            [
-              -43.4570445,
-              -23.0245848
-            ],
-            [
-              -43.457134,
-              -23.0243575
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/316376698",
       "properties": {
         "timestamp": "2017-04-11T11:33:09Z",
@@ -11873,6 +11818,66 @@
         "coordinates": [
           -43.2392439,
           -22.9317867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12247569851",
+      "properties": {
+        "timestamp": "2024-10-13T04:40:49Z",
+        "version": 1,
+        "changeset": 157819349,
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Farmario",
+        "id": "node/12247569851"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.472034,
+          -23.0303302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12247569859",
+      "properties": {
+        "timestamp": "2024-10-13T04:40:49Z",
+        "version": 1,
+        "changeset": 157819349,
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Droga Raia",
+        "id": "node/12247569859"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.4713045,
+          -23.0305697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12247569862",
+      "properties": {
+        "timestamp": "2024-10-13T04:40:49Z",
+        "version": 1,
+        "changeset": 157819349,
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Drogasmil",
+        "id": "node/12247569862"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.4722317,
+          -23.0307619
         ]
       }
     }

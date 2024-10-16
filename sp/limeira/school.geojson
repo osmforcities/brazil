@@ -2575,6 +2575,69 @@
     },
     {
       "type": "Feature",
+      "id": "way/1323939408",
+      "properties": {
+        "timestamp": "2024-10-14T19:44:41Z",
+        "version": 1,
+        "changeset": 157893890,
+        "addr:housenumber": "75",
+        "addr:postcode": "13486-449",
+        "addr:street": "Rua Ambrosino Henrique",
+        "addr:suburb": "Vila Labaki",
+        "amenity": "school",
+        "email": "e901258a@educacao.sp.gov.br",
+        "official_name": "Escola Estadual Luigino Burigotto",
+        "operator": "Secretaria da Educação do Estado de São Paulo",
+        "phone": "+55 19 3451 0680",
+        "religion": "none",
+        "id": "way/1323939408"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.3768151,
+              -22.5614251
+            ],
+            [
+              -47.3767168,
+              -22.561853
+            ],
+            [
+              -47.376701,
+              -22.5618854
+            ],
+            [
+              -47.3766642,
+              -22.5619194
+            ],
+            [
+              -47.3757393,
+              -22.5617233
+            ],
+            [
+              -47.3758973,
+              -22.5611091
+            ],
+            [
+              -47.3763746,
+              -22.5612258
+            ],
+            [
+              -47.3763553,
+              -22.5613344
+            ],
+            [
+              -47.3768151,
+              -22.5614251
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/4624187827",
       "properties": {
         "timestamp": "2017-01-22T20:59:30Z",
@@ -2641,58 +2704,6 @@
         "coordinates": [
           -47.4023332,
           -22.5886933
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/10964011244",
-      "properties": {
-        "timestamp": "2023-06-08T18:08:26Z",
-        "version": 1,
-        "changeset": 137107499,
-        "addr:city": "Limeira",
-        "addr:housenumber": "75",
-        "addr:postcode": "13486-449",
-        "addr:street": "Rua Ambrosino Henrique",
-        "addr:suburb": "Vila Labaki",
-        "amenity": "school",
-        "email": "e901258a@educacao.sp.gov.br",
-        "name": "Escola Estadual Luigino Burigotto",
-        "phone": "+55 19 3451 0680",
-        "id": "node/10964011244"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -47.3766851,
-          -22.561794
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/10964011245",
-      "properties": {
-        "timestamp": "2023-06-08T18:08:26Z",
-        "version": 1,
-        "changeset": 137107499,
-        "addr:city": "Limeira",
-        "addr:housenumber": "230",
-        "addr:postcode": "13486-445",
-        "addr:street": "Rua Olívia Sacco Iaquinta",
-        "addr:suburb": "Vila Labaki",
-        "amenity": "school",
-        "email": "ci.neusafrancisco@edu.limeira.sp.gov.br",
-        "name": "Centro Infantil Neusa Francisco Correa da Silva",
-        "phone": "+55 19 3441 9867",
-        "id": "node/10964011245"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -47.3754525,
-          -22.5615479
         ]
       }
     },

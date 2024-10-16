@@ -448,24 +448,26 @@
       "type": "Feature",
       "id": "node/4349885613",
       "properties": {
-        "timestamp": "2022-07-28T17:49:18Z",
-        "version": 5,
-        "changeset": 124197348,
+        "timestamp": "2024-10-14T11:44:57Z",
+        "version": 6,
+        "changeset": 157872930,
         "addr:city": "Anápolis",
         "addr:housenumber": "917",
         "addr:postcode": "75020-010",
         "addr:street": "Avenida Senador José Lourenço Dias",
+        "addr:suburb": "Centro",
         "alt_name": "Clínica Jamous",
         "amenity": "clinic",
         "contact:email": "ouvidoria@clinicajamous.com.br",
         "contact:facebook": "https://www.facebook.com/centromedicojamous",
         "contact:instagram": "https://www.instagram.com/centromedicojamous",
-        "contact:mobile": "+55 62 9669-9337",
-        "contact:whatsapp": "+55 62 3937-5151",
+        "contact:mobile": "+55 62 9669 9337",
+        "contact:whatsapp": "https://wa.me/556299699337",
         "healthcare": "clinic",
         "healthcare:speciality": "general;paediatrics;endocrinology;cardiology;plastic_surgery;surgery;neurology;radiology;gastroenterology;psychiatry;dermatology",
         "name": "Centro Médico Jamous",
-        "phone": "+55 62 3937-5151",
+        "opening_hours": "Mo-Fr 07:00-17:00; Sa 07:00-12:00",
+        "phone": "+55 62 3937 5151",
         "website": "https://www.clinicajamous.com.br/",
         "id": "node/4349885613"
       },
@@ -558,6 +560,36 @@
         "coordinates": [
           -48.9554196,
           -16.279334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12250361946",
+      "properties": {
+        "timestamp": "2024-10-14T12:09:21Z",
+        "version": 1,
+        "changeset": 157874140,
+        "addr:city": "Anápolis",
+        "addr:housenumber": "3790",
+        "addr:postcode": "75083-440",
+        "addr:street": "Avenida Brasil Norte",
+        "addr:suburb": "Cidade Universitária",
+        "amenity": "clinic",
+        "contact:mobile": "+55 62 98304 0190",
+        "contact:whatsapp": "https://wa.me/5562983040190",
+        "healthcare": "clinic",
+        "healthcare:speciality": "cardiology",
+        "mobile": "+55 62 98304 0190",
+        "name": "CardioCor Clínica Cardiológica",
+        "opening_hours": "Mo-Fr 07:30-17:00",
+        "id": "node/12250361946"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.9417662,
+          -16.2964194
         ]
       }
     }

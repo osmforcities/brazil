@@ -5095,9 +5095,12 @@
       "type": "Feature",
       "id": "way/252221756",
       "properties": {
-        "timestamp": "2024-06-28T01:07:51Z",
-        "version": 7,
-        "changeset": 153270965,
+        "timestamp": "2024-10-14T14:59:19Z",
+        "version": 8,
+        "changeset": 157882235,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "615",
+        "addr:street": "Avenida Tiradentes",
         "amenity": "university",
         "name": "Faculdade de Tecnologia de São Paulo",
         "phone": "+55 11 3322-2200",
@@ -5111,36 +5114,76 @@
         "coordinates": [
           [
             [
-              -46.632352,
-              -23.5303203
+              -46.632349,
+              -23.5303079
             ],
             [
               -46.6323016,
               -23.5301609
             ],
             [
-              -46.6319754,
-              -23.5291281
+              -46.6321385,
+              -23.5296445
             ],
             [
-              -46.6331611,
-              -23.5287852
+              -46.6320366,
+              -23.5293169
             ],
             [
-              -46.6335836,
-              -23.5299994
+              -46.6320197,
+              -23.5292626
             ],
             [
-              -46.6332485,
-              -23.5300866
+              -46.6319696,
+              -23.5291014
             ],
             [
-              -46.6325873,
-              -23.5302588
+              -46.6328394,
+              -23.5288678
             ],
             [
-              -46.632352,
-              -23.5303203
+              -46.6328155,
+              -23.5288029
+            ],
+            [
+              -46.6331287,
+              -23.5287194
+            ],
+            [
+              -46.6331413,
+              -23.5287572
+            ],
+            [
+              -46.6333809,
+              -23.5294946
+            ],
+            [
+              -46.6334223,
+              -23.5296406
+            ],
+            [
+              -46.6334324,
+              -23.5296764
+            ],
+            [
+              -46.6335232,
+              -23.5299884
+            ],
+            [
+              -46.6335276,
+              -23.5300025
+            ],
+            [
+              -46.6332894,
+              -23.5300642
+            ],
+            [
+              -46.6326849,
+              -23.5302209
+            ],
+            [
+              -46.632349,
+              -23.5303079
             ]
           ]
         ]
@@ -14651,6 +14694,85 @@
         "coordinates": [
           -46.6510409,
           -23.5899043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12250662003",
+      "properties": {
+        "timestamp": "2024-10-14T14:59:19Z",
+        "version": 1,
+        "changeset": 157882235,
+        "entrance": "yes",
+        "id": "node/12250662003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6321385,
+          -23.5296445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12250662006",
+      "properties": {
+        "timestamp": "2024-10-14T14:59:19Z",
+        "version": 1,
+        "changeset": 157882235,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "709",
+        "addr:street": "Avenida Tiradentes",
+        "entrance": "yes",
+        "id": "node/12250662006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6320366,
+          -23.5293169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12250662012",
+      "properties": {
+        "timestamp": "2024-10-14T14:59:19Z",
+        "version": 1,
+        "changeset": 157882235,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "110",
+        "addr:street": "Praça Coronel Fernando Prestes",
+        "id": "node/12250662012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6332894,
+          -23.5300642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12250662013",
+      "properties": {
+        "timestamp": "2024-10-14T14:59:19Z",
+        "version": 1,
+        "changeset": 157882235,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "30",
+        "addr:street": "Praça Coronel Fernando Prestes",
+        "id": "node/12250662013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6326849,
+          -23.5302209
         ]
       }
     }

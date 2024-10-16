@@ -2339,6 +2339,49 @@
     },
     {
       "type": "Feature",
+      "id": "way/931193447",
+      "properties": {
+        "timestamp": "2024-10-14T01:08:29Z",
+        "version": 2,
+        "changeset": 157856014,
+        "amenity": "pharmacy",
+        "brand": "Farmatodo",
+        "brand:wikidata": "Q5856092",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmatodo",
+        "id": "way/931193447"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -34.9081028,
+              -8.1325978
+            ],
+            [
+              -34.9080116,
+              -8.1325827
+            ],
+            [
+              -34.9080338,
+              -8.1324512
+            ],
+            [
+              -34.908125,
+              -8.1324663
+            ],
+            [
+              -34.9081028,
+              -8.1325978
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/931193539",
       "properties": {
         "timestamp": "2022-02-02T01:39:27Z",
@@ -4365,9 +4408,9 @@
       "type": "Feature",
       "id": "node/5746162652",
       "properties": {
-        "timestamp": "2024-10-13T19:43:06Z",
-        "version": 4,
-        "changeset": 157849782,
+        "timestamp": "2024-10-14T01:07:40Z",
+        "version": 5,
+        "changeset": 157856005,
         "addr:city": "Recife",
         "addr:housenumber": "849",
         "addr:street": "Rua Barão de Souza Leão",
@@ -4377,7 +4420,8 @@
         "dispensing": "yes",
         "healthcare": "pharmacy",
         "level": "0",
-        "name": "Farmácia Prime",
+        "name": "Pegfarma",
+        "operator": "amenity=pharmacy",
         "source": "Prefeitura do Recife",
         "wheelchair": "yes",
         "id": "node/5746162652"

@@ -5,16 +5,21 @@
       "type": "Feature",
       "id": "way/1176288122",
       "properties": {
-        "timestamp": "2023-05-26T14:13:43Z",
-        "version": 1,
-        "changeset": 136590182,
+        "timestamp": "2024-10-15T16:17:21Z",
+        "version": 2,
+        "changeset": 157928439,
         "addr:housenumber": "150",
         "addr:street": "Rua Alvarenga Peixoto",
+        "alt_name": "Instituto de Neurologia e Neurocirurgia de Marília",
         "amenity": "doctors",
         "building": "yes",
+        "contact:facebook": "https://www.facebook.com/people/InNeuro-Instituto-de-Neurologia-e-Neurocirurgia-de-Mar%C3%ADlia/100057528605864/",
+        "email": "neuromarilia@gmail.com",
         "healthcare": "doctor",
         "healthcare:speciality": "neurology;neurosurgery;neuropsychiatry",
-        "name": "INNEURO",
+        "name": "InNeuro",
+        "opening_hours": "Mo-Fr 08:00-18:00; PH off",
+        "phone": "+55 14 3433 4755",
         "wheelchair": "yes",
         "id": "way/1176288122"
       },
@@ -41,6 +46,245 @@
             [
               -49.9381265,
               -22.215541
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1324169323",
+      "properties": {
+        "timestamp": "2024-10-15T16:44:15Z",
+        "version": 1,
+        "changeset": 157929527,
+        "addr:housenumber": "1245",
+        "addr:street": "Avenida Vicente Ferreira",
+        "amenity": "doctors",
+        "building": "yes",
+        "healthcare": "doctor",
+        "healthcare:speciality": "cardiology",
+        "name": "Instituto de Cardiologia de Marília",
+        "phone": "+55 14 3402 1212",
+        "id": "way/1324169323"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.9391154,
+              -22.2090329
+            ],
+            [
+              -49.939182,
+              -22.2090776
+            ],
+            [
+              -49.9390006,
+              -22.2093114
+            ],
+            [
+              -49.9389707,
+              -22.2092859
+            ],
+            [
+              -49.938973,
+              -22.2091817
+            ],
+            [
+              -49.9391154,
+              -22.2090329
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1324169324",
+      "properties": {
+        "timestamp": "2024-10-15T16:44:15Z",
+        "version": 1,
+        "changeset": 157929527,
+        "addr:housenumber": "1229",
+        "addr:street": "Avenida Vicente Ferreira",
+        "amenity": "doctors",
+        "building": "yes",
+        "contact:facebook": "https://www.facebook.com/clinicavialogo/",
+        "email": "clinicavialogo@hotmail.com",
+        "healthcare": "doctor",
+        "healthcare:speciality": "general",
+        "name": "Vialogo Odontologia Saúde",
+        "id": "way/1324169324"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.9391384,
+              -22.2092668
+            ],
+            [
+              -49.9389799,
+              -22.209456
+            ],
+            [
+              -49.9389501,
+              -22.209473
+            ],
+            [
+              -49.9389363,
+              -22.2093731
+            ],
+            [
+              -49.9390006,
+              -22.2093114
+            ],
+            [
+              -49.9390879,
+              -22.2092243
+            ],
+            [
+              -49.9391384,
+              -22.2092668
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1324234163",
+      "properties": {
+        "timestamp": "2024-10-15T21:54:26Z",
+        "version": 1,
+        "changeset": 157940057,
+        "addr:housenumber": "´470",
+        "addr:street": "Rua Doutor Joaquim de Abreu Sampaio Vidal",
+        "amenity": "doctors",
+        "healthcare": "doctor",
+        "healthcare:speciality": "general",
+        "mobile": "+55 14 99123 4736",
+        "name": "Centro Médico Aconchego",
+        "phone": "+55 14 2105 1466",
+        "website": "https://hem.org.br/centro-medico-aconchego/",
+        "id": "way/1324234163"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.9579899,
+              -22.2095577
+            ],
+            [
+              -49.957929,
+              -22.2096994
+            ],
+            [
+              -49.9578894,
+              -22.2096927
+            ],
+            [
+              -49.9578467,
+              -22.2097932
+            ],
+            [
+              -49.9576852,
+              -22.2097467
+            ],
+            [
+              -49.957641,
+              -22.2098468
+            ],
+            [
+              -49.9575557,
+              -22.209813
+            ],
+            [
+              -49.9577187,
+              -22.2094731
+            ],
+            [
+              -49.9579899,
+              -22.2095577
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1324235703",
+      "properties": {
+        "timestamp": "2024-10-15T22:04:57Z",
+        "version": 1,
+        "changeset": 157940273,
+        "addr:street": "Rua Doutor Joaquim de Abreu Sampaio Vidal",
+        "amenity": "doctors",
+        "healthcare": "doctor",
+        "healthcare:speciality": "general",
+        "name": "Centro Médico Aconchego",
+        "id": "way/1324235703"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.957488,
+              -22.2094584
+            ],
+            [
+              -49.9573335,
+              -22.2094087
+            ],
+            [
+              -49.9573192,
+              -22.2094373
+            ],
+            [
+              -49.9572143,
+              -22.2094103
+            ],
+            [
+              -49.9572273,
+              -22.2093704
+            ],
+            [
+              -49.9571504,
+              -22.2093355
+            ],
+            [
+              -49.957353,
+              -22.2088548
+            ],
+            [
+              -49.957488,
+              -22.2089065
+            ],
+            [
+              -49.9573856,
+              -22.2091932
+            ],
+            [
+              -49.9577558,
+              -22.2093053
+            ],
+            [
+              -49.9577022,
+              -22.2094562
+            ],
+            [
+              -49.9575136,
+              -22.2094023
+            ],
+            [
+              -49.957488,
+              -22.2094584
             ]
           ]
         ]

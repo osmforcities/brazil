@@ -3,73 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": "relation/5821259",
-      "properties": {
-        "timestamp": "2022-07-13T13:08:43Z",
-        "version": 3,
-        "changeset": 123565075,
-        "amenity": "hospital",
-        "healthcare": "hospital",
-        "name": "Hospital Espírita de Marília",
-        "short_name": "HEM",
-        "type": "multipolygon",
-        "website": "https://www.hem.org.br/",
-        "id": "relation/5821259"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -49.9576739,
-              -22.2096035
-            ],
-            [
-              -49.9577135,
-              -22.2095133
-            ],
-            [
-              -49.9571814,
-              -22.2093372
-            ],
-            [
-              -49.9573787,
-              -22.2088291
-            ],
-            [
-              -49.9579062,
-              -22.2090047
-            ],
-            [
-              -49.9582401,
-              -22.2081449
-            ],
-            [
-              -49.9591831,
-              -22.2084587
-            ],
-            [
-              -49.9584961,
-              -22.2102278
-            ],
-            [
-              -49.9575481,
-              -22.209929
-            ],
-            [
-              -49.9575632,
-              -22.2098914
-            ],
-            [
-              -49.9576739,
-              -22.2096035
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/129377233",
       "properties": {
         "timestamp": "2022-07-13T13:08:43Z",
@@ -458,9 +391,9 @@
       "type": "Feature",
       "id": "way/1176288121",
       "properties": {
-        "timestamp": "2024-10-02T17:52:51Z",
-        "version": 3,
-        "changeset": 157389781,
+        "timestamp": "2024-10-15T16:17:21Z",
+        "version": 4,
+        "changeset": 157928439,
         "addr:housenumber": "828",
         "addr:street": "Avenida Vicente Ferreira",
         "amenity": "hospital",
@@ -472,6 +405,7 @@
         "operator": "Irmandade da Santa Casa de Misericórdia de Marília",
         "operator:type": "religious",
         "phone": "+55 14 3402 5555",
+        "website": "https://santacasamarilia.com.br/index.php",
         "id": "way/1176288121"
       },
       "geometry": {
@@ -499,12 +433,16 @@
               -22.2117385
             ],
             [
-              -49.9383342,
-              -22.2116238
+              -49.9382716,
+              -22.2116069
             ],
             [
-              -49.938621,
-              -22.2115787
+              -49.938445,
+              -22.2115783
+            ],
+            [
+              -49.9386236,
+              -22.211569
             ],
             [
               -49.9386477,
@@ -517,6 +455,133 @@
             [
               -49.9392993,
               -22.2134213
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1324163244",
+      "properties": {
+        "timestamp": "2024-10-15T16:17:21Z",
+        "version": 1,
+        "changeset": 157928439,
+        "addr:street": "Avenida Brigadeiro Eduardo Gomes",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Complexo Ambulatorial Bento de Abreu Sampaio Vidal",
+        "id": "way/1324163244"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.9385902,
+              -22.2117796
+            ],
+            [
+              -49.9385067,
+              -22.2117941
+            ],
+            [
+              -49.9385041,
+              -22.2117723
+            ],
+            [
+              -49.9383606,
+              -22.2117796
+            ],
+            [
+              -49.938358,
+              -22.2116153
+            ],
+            [
+              -49.9385667,
+              -22.2115912
+            ],
+            [
+              -49.9385902,
+              -22.2117796
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1324234167",
+      "properties": {
+        "timestamp": "2024-10-15T21:54:26Z",
+        "version": 1,
+        "changeset": 157940057,
+        "addr:housenumber": "470",
+        "addr:street": "Rua Doutor Joaquim de Abreu Sampaio Vidal",
+        "amenity": "hospital",
+        "email": "hem@hem.org.br",
+        "healthcare": "hospital",
+        "healthcare:speciality": "psychiatry",
+        "name": "Hospital Espirita de Marília",
+        "phone": "+55 14 2105 1455",
+        "website": "https://hem.org.br/",
+        "id": "way/1324234167"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.9594199,
+              -22.208521
+            ],
+            [
+              -49.9588074,
+              -22.2101604
+            ],
+            [
+              -49.958542,
+              -22.2100784
+            ],
+            [
+              -49.958583,
+              -22.2099562
+            ],
+            [
+              -49.9583433,
+              -22.2098828
+            ],
+            [
+              -49.9582472,
+              -22.2101552
+            ],
+            [
+              -49.9577351,
+              -22.2099744
+            ],
+            [
+              -49.9578889,
+              -22.2097253
+            ],
+            [
+              -49.9579409,
+              -22.2097362
+            ],
+            [
+              -49.9580905,
+              -22.209342
+            ],
+            [
+              -49.9577825,
+              -22.2092489
+            ],
+            [
+              -49.9582247,
+              -22.2081181
+            ],
+            [
+              -49.9594199,
+              -22.208521
             ]
           ]
         ]

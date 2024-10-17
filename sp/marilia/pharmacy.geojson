@@ -329,6 +329,63 @@
     },
     {
       "type": "Feature",
+      "id": "way/1324235702",
+      "properties": {
+        "timestamp": "2024-10-15T22:04:57Z",
+        "version": 1,
+        "changeset": 157940273,
+        "addr:housenumber": "260",
+        "addr:postcode": "17506-130",
+        "addr:street": "Rua Doutor Joaquim de Abreu Sampaio Vidal",
+        "addr:suburb": "Alto Cafezal",
+        "amenity": "pharmacy",
+        "brand": "Droga Raia",
+        "brand:wikidata": "Q10357101",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Droga Raia",
+        "opening_hours": "Mo-Su,PH 07:00-23:00",
+        "phone": "+55 14 3422 1918",
+        "id": "way/1324235702"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.9566497,
+              -22.2093053
+            ],
+            [
+              -49.9566125,
+              -22.2094066
+            ],
+            [
+              -49.9564169,
+              -22.2093441
+            ],
+            [
+              -49.9564006,
+              -22.2093614
+            ],
+            [
+              -49.9563098,
+              -22.2093269
+            ],
+            [
+              -49.9563633,
+              -22.209204
+            ],
+            [
+              -49.9566497,
+              -22.2093053
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/3777329813",
       "properties": {
         "timestamp": "2022-07-13T13:08:43Z",
@@ -387,31 +444,6 @@
         "coordinates": [
           -49.9554858,
           -22.2226109
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/9738655317",
-      "properties": {
-        "timestamp": "2022-07-13T13:08:43Z",
-        "version": 2,
-        "changeset": 123565075,
-        "addr:housenumber": "260",
-        "addr:postcode": "17506130",
-        "addr:street": "Rua Doutor Joaquim de Abreu Sampaio Vidal",
-        "amenity": "pharmacy",
-        "brand": "Droga Raia",
-        "brand:wikidata": "Q10357101",
-        "healthcare": "pharmacy",
-        "name": "Droga Raia",
-        "id": "node/9738655317"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.9565497,
-          -22.209559
         ]
       }
     }

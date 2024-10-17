@@ -5,13 +5,16 @@
       "type": "Feature",
       "id": "relation/5950448",
       "properties": {
-        "timestamp": "2022-05-23T17:46:01Z",
-        "version": 2,
-        "changeset": 121382866,
+        "timestamp": "2024-10-15T21:54:26Z",
+        "version": 3,
+        "changeset": 157940057,
+        "addr:housenumber": "618",
+        "addr:street": "Rua Doutor Joaquim de Abreu Sampaio Vidal",
         "amenity": "school",
-        "building": "school",
+        "email": "colegiobezerra@colegiobezerra.com.br",
         "name": "Colégio Bezerra de Menezes",
-        "official_name": "Educandário \"Dr. Bezerra de Menezes\"",
+        "official_name": "Educandário Doutor Bezerra de Menezes",
+        "phone": "+55 14) 3433 9722",
         "type": "multipolygon",
         "website": "https://www.colegiobezerra.com.br/",
         "id": "relation/5950448"
@@ -25,10 +28,6 @@
               -22.2103889
             ],
             [
-              -49.9593896,
-              -22.2103563
-            ],
-            [
               -49.9593004,
               -22.2103261
             ],
@@ -37,32 +36,40 @@
               -22.2103387
             ],
             [
-              -49.9592291,
-              -22.2103163
+              -49.9591373,
+              -22.2102866
             ],
             [
-              -49.959341,
-              -22.2100326
+              -49.9588208,
+              -22.2101682
             ],
             [
-              -49.9593744,
-              -22.2100438
+              -49.9589159,
+              -22.2099254
             ],
             [
-              -49.9594017,
-              -22.2099746
+              -49.959033,
+              -22.2096036
             ],
             [
-              -49.9597863,
-              -22.2101047
+              -49.9594714,
+              -22.2085304
             ],
             [
-              -49.959759,
-              -22.2101739
+              -49.9603332,
+              -22.2088522
             ],
             [
-              -49.959778,
-              -22.2101803
+              -49.9609262,
+              -22.2090307
+            ],
+            [
+              -49.9602166,
+              -22.2107877
+            ],
+            [
+              -49.9596275,
+              -22.2105934
             ],
             [
               -49.959666,
@@ -136,12 +143,21 @@
       "type": "Feature",
       "id": "way/374670096",
       "properties": {
-        "timestamp": "2022-07-26T14:27:34Z",
-        "version": 3,
-        "changeset": 124099342,
+        "timestamp": "2024-10-15T18:22:58Z",
+        "version": 4,
+        "changeset": 157933476,
         "addr:city": "Marilia",
+        "addr:housenumber": "2687",
+        "addr:postcode": "17506-030",
+        "addr:street": "Rua Vinte e Quatro de Dezembro",
+        "addr:suburb": "São Miguel",
         "amenity": "school",
-        "name": "E.E. Profº Baltazar de Godoy Moreira",
+        "official_name": "Escola Estadual Professor Baltazar de Godoy Moreira",
+        "operator": "Secretaria da Educação do Estado de São Paulo",
+        "operator:type": "government",
+        "phone": "+ 55 14 3433 0536",
+        "religion": "none",
+        "short_name": "E.E. Professor Baltazar de Godoy Moreira",
         "id": "way/374670096"
       },
       "geometry": {
@@ -157,16 +173,16 @@
               -22.2013832
             ],
             [
-              -49.9591998,
-              -22.2006781
+              -49.959216,
+              -22.2006032
             ],
             [
-              -49.9599571,
-              -22.2009124
+              -49.9599834,
+              -22.2008525
             ],
             [
-              -49.9597167,
-              -22.2016354
+              -49.9596722,
+              -22.2016466
             ],
             [
               -49.9589311,
@@ -263,11 +279,23 @@
       "type": "Feature",
       "id": "way/612754733",
       "properties": {
-        "timestamp": "2018-07-31T19:56:55Z",
-        "version": 1,
-        "changeset": 61240231,
+        "timestamp": "2024-10-15T17:11:28Z",
+        "version": 2,
+        "changeset": 157930589,
+        "addr:housenumber": "270",
+        "addr:street": "Avenida Cristo Rei",
+        "addr:suburb": "Banzato",
         "amenity": "school",
+        "contact:facebook": "https://www.facebook.com/colegiocristoreimarilia",
+        "denomination": "roman_catholic",
+        "email": "colegio@cristorei.com.br",
         "name": "Colégio Cristo Rei",
+        "opening_hours": "Mo-Th 07:00-17:30; Fr 07:00-17:00; PH off",
+        "operator": "Irmãos do Sagrado Coração",
+        "operator:type": "religious",
+        "phone": "+55 14 3402 2399",
+        "religion": "christian",
+        "website": "http://www.cristorei.com.br/Main/Home/Index/",
         "id": "way/612754733"
       },
       "geometry": {
@@ -275,32 +303,32 @@
         "coordinates": [
           [
             [
-              -49.9388051,
-              -22.2073392
+              -49.938897,
+              -22.2072478
             ],
             [
-              -49.9407443,
-              -22.2071058
+              -49.9407879,
+              -22.2070356
             ],
             [
-              -49.9407809,
-              -22.2074408
+              -49.9408406,
+              -22.2073919
             ],
             [
-              -49.940907,
-              -22.2075161
+              -49.9409437,
+              -22.2074651
             ],
             [
-              -49.9411265,
-              -22.2077043
+              -49.9411678,
+              -22.2076278
             ],
             [
-              -49.9404516,
-              -22.2084947
+              -49.9404355,
+              -22.208433
             ],
             [
-              -49.9388051,
-              -22.2073392
+              -49.938897,
+              -22.2072478
             ]
           ]
         ]
@@ -392,11 +420,18 @@
       "type": "Feature",
       "id": "way/1081530544",
       "properties": {
-        "timestamp": "2022-07-26T14:27:34Z",
-        "version": 1,
-        "changeset": 124099342,
+        "timestamp": "2024-10-15T18:22:58Z",
+        "version": 2,
+        "changeset": 157933476,
+        "addr:housenumber": "720",
+        "addr:street": "Rua Nicolino Roselli",
+        "addr:suburb": "Lorenzetti",
         "amenity": "school",
-        "name": "EMEF Profª Edméa Braz Rojo Sola",
+        "email": "emefedmea@gmail.com",
+        "phone": "+55 14 3454 9119",
+        "religion": "none",
+        "short_name": "EMEF Professora Edméa Braz Rojo Sola",
+        "website": "https://emefedmeasola.blogspot.com/",
         "id": "way/1081530544"
       },
       "geometry": {
@@ -962,6 +997,115 @@
             [
               -49.92855,
               -22.2414592
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1324163245",
+      "properties": {
+        "timestamp": "2024-10-15T16:17:21Z",
+        "version": 1,
+        "changeset": 157928439,
+        "addr:housenumber": "265",
+        "addr:postcode": "17515-430",
+        "addr:street": "Avenida Brigadeiro Eduardo Gomes",
+        "addr:suburb": "Jardim Maria Izabel",
+        "amenity": "school",
+        "contact:facebook": "https://www.facebook.com/EEProf.AmilcareMattei/",
+        "email": "e033728A@educacao.sp.gov.br",
+        "official_name": "Escola Estadual Professor Amilcare Mattei",
+        "operator": "Secretaria da Educação do Estado de São Paulo",
+        "operator:type": "government",
+        "phone": "+55 14 3433 3518",
+        "religion": "none",
+        "id": "way/1324163245"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.9373454,
+              -22.2095428
+            ],
+            [
+              -49.9378335,
+              -22.2104241
+            ],
+            [
+              -49.9378612,
+              -22.2106644
+            ],
+            [
+              -49.9373523,
+              -22.2108888
+            ],
+            [
+              -49.9367327,
+              -22.2098729
+            ],
+            [
+              -49.9373454,
+              -22.2095428
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1324169322",
+      "properties": {
+        "timestamp": "2024-10-15T16:44:15Z",
+        "version": 1,
+        "changeset": 157929527,
+        "addr:housenumber": "1191",
+        "addr:street": "Avenida Vicente Ferreira",
+        "amenity": "school",
+        "contact:facebook": "https://www.facebook.com/colegiorealize",
+        "mobile": "+55 14 99654 7042",
+        "name": "Colégio Realize+",
+        "website": "https://colegiorealizemais.com.br/",
+        "id": "way/1324169322"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.9393634,
+              -22.2097515
+            ],
+            [
+              -49.9390924,
+              -22.2100683
+            ],
+            [
+              -49.9390557,
+              -22.2100726
+            ],
+            [
+              -49.9389868,
+              -22.2094751
+            ],
+            [
+              -49.9392922,
+              -22.2091328
+            ],
+            [
+              -49.9394266,
+              -22.2092381
+            ],
+            [
+              -49.9391814,
+              -22.2095937
+            ],
+            [
+              -49.9393634,
+              -22.2097515
             ]
           ]
         ]

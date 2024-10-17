@@ -5,13 +5,20 @@
       "type": "Feature",
       "id": "relation/5821291",
       "properties": {
-        "timestamp": "2023-10-22T15:08:36Z",
-        "version": 4,
-        "changeset": 142972685,
+        "timestamp": "2024-10-15T16:51:54Z",
+        "version": 5,
+        "changeset": 157929784,
+        "addr:housenumber": "737",
+        "addr:postcode": "17525-900",
+        "addr:street": "Avenida Hygino Muzzi Filho",
+        "addr:suburb": "Mirante",
         "amenity": "university",
-        "name": "Universidade Estadual de São Paulo",
-        "note": "Nome baseado na padronização estabelecida pela universidade. Ver http://www.unesp.br/aci/nome_unesp.php",
-        "official_name": "Universidade Estadual Paulista \"Júlio de Mesquita Filho\"",
+        "description": "Faculdade de Filosofia e Ciências - Câmpus de Marília",
+        "name": "Universidade Estadual de São Paulo Júlio de Mesquita Filho",
+        "official_name": "Universidade Estadual Paulista Júlio de Mesquita Filho",
+        "operator": "Governo do Estado de São Paulo",
+        "operator:type": "government",
+        "phone": "+55 14 3402 1300",
         "short_name": "UNESP",
         "type": "multipolygon",
         "website": "https://www.marilia.unesp.br/",
@@ -327,6 +334,95 @@
             [
               -49.9492873,
               -22.216531
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1324169325",
+      "properties": {
+        "timestamp": "2024-10-15T16:44:15Z",
+        "version": 1,
+        "changeset": 157929527,
+        "addr:street": "Avenida Vicente Ferreira",
+        "amenity": "university",
+        "name": "Universidade Estadual Paulista Júlio de Mesquita Filho",
+        "short_name": "UNESP",
+        "website": "https://www.marilia.unesp.br/",
+        "id": "way/1324169325"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.9387066,
+              -22.2082463
+            ],
+            [
+              -49.9387847,
+              -22.2090329
+            ],
+            [
+              -49.9379488,
+              -22.2090924
+            ],
+            [
+              -49.9379212,
+              -22.2090521
+            ],
+            [
+              -49.9378409,
+              -22.2083164
+            ],
+            [
+              -49.9387066,
+              -22.2082463
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1324172101",
+      "properties": {
+        "timestamp": "2024-10-15T17:02:03Z",
+        "version": 1,
+        "changeset": 157930188,
+        "addr:street": "Avenida Cristo Rei",
+        "amenity": "university",
+        "name": "Centro Psicológico de Pratica Aplicada",
+        "operator": "Associação Educacional Latino Aamericana",
+        "operator:type": "private",
+        "short_name": "CCPA",
+        "id": "way/1324172101"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.9393304,
+              -22.2101073
+            ],
+            [
+              -49.9394406,
+              -22.2101881
+            ],
+            [
+              -49.9393947,
+              -22.2102391
+            ],
+            [
+              -49.9392776,
+              -22.2101626
+            ],
+            [
+              -49.9393304,
+              -22.2101073
             ]
           ]
         ]

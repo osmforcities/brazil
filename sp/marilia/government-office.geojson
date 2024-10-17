@@ -47,10 +47,10 @@
       "type": "Feature",
       "id": "way/612779446",
       "properties": {
-        "timestamp": "2022-07-27T15:30:45Z",
-        "version": 3,
-        "changeset": 124146885,
-        "building": "yes",
+        "timestamp": "2024-10-15T17:57:35Z",
+        "version": 4,
+        "changeset": 157932478,
+        "government": "administrative",
         "name": "CETESB - Agência Ambiental de Marília",
         "office": "government",
         "id": "way/612779446"
@@ -60,12 +60,12 @@
         "coordinates": [
           [
             [
-              -49.935721,
-              -22.2057109
+              -49.9356875,
+              -22.2055981
             ],
             [
-              -49.9365103,
-              -22.2052828
+              -49.9364585,
+              -22.2051869
             ],
             [
               -49.9368154,
@@ -76,8 +76,8 @@
               -22.2062647
             ],
             [
-              -49.935721,
-              -22.2057109
+              -49.9356875,
+              -22.2055981
             ]
           ]
         ]
@@ -363,9 +363,9 @@
       "type": "Feature",
       "id": "way/633261804",
       "properties": {
-        "timestamp": "2018-10-12T09:53:36Z",
-        "version": 1,
-        "changeset": 63448781,
+        "timestamp": "2024-10-15T23:48:31Z",
+        "version": 2,
+        "changeset": 157942181,
         "building": "yes",
         "government": "finance",
         "name": "Receita Federal",
@@ -377,24 +377,56 @@
         "coordinates": [
           [
             [
-              -49.9548805,
-              -22.2068644
+              -49.9549341,
+              -22.2068098
             ],
             [
-              -49.9551202,
-              -22.206216
+              -49.9551738,
+              -22.2061614
             ],
             [
-              -49.9554769,
-              -22.206329
+              -49.9555064,
+              -22.2062644
+            ],
+            [
+              -49.9552978,
+              -22.2067971
+            ],
+            [
+              -49.9553705,
+              -22.2068077
+            ],
+            [
+              -49.9554792,
+              -22.2065274
+            ],
+            [
+              -49.9556846,
+              -22.2065997
+            ],
+            [
+              -49.955506,
+              -22.2070592
+            ],
+            [
+              -49.9552973,
+              -22.2070021
+            ],
+            [
+              -49.9553274,
+              -22.2068904
+            ],
+            [
+              -49.9552772,
+              -22.2068618
             ],
             [
               -49.9552373,
-              -22.2069774
+              -22.2069426
             ],
             [
-              -49.9548805,
-              -22.2068644
+              -49.9549341,
+              -22.2068098
             ]
           ]
         ]
@@ -810,18 +842,61 @@
     },
     {
       "type": "Feature",
+      "id": "way/1324246956",
+      "properties": {
+        "timestamp": "2024-10-15T23:31:15Z",
+        "version": 1,
+        "changeset": 157941913,
+        "addr:street": "Rua Benjamin Pereira de Souza",
+        "building": "yes",
+        "government": "administrative",
+        "name": "Secretaria Municipal da Educação",
+        "office": "government",
+        "id": "way/1324246956"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.9548691,
+              -22.208144
+            ],
+            [
+              -49.9543782,
+              -22.2079627
+            ],
+            [
+              -49.9544024,
+              -22.2079081
+            ],
+            [
+              -49.9549013,
+              -22.2080819
+            ],
+            [
+              -49.9548691,
+              -22.208144
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/5189493363",
       "properties": {
-        "timestamp": "2022-07-13T13:08:43Z",
-        "version": 2,
-        "changeset": 123565075,
+        "timestamp": "2024-10-15T23:48:31Z",
+        "version": 3,
+        "changeset": 157942181,
+        "addr:street": "Avenida Castro Alves",
         "government": "social_security",
-        "name": "INSS Marília",
+        "name": "Instituto Nacional do Seguro Social",
         "office": "government",
-        "operator": "Instituto Nacional do Seguro Social",
-        "operator:short": "INSS",
-        "operator:wikidata": "Q10302614",
+        "operator": "Ministério da Previdência e Assistência Social",
+        "operator:short": "MPAS",
         "source": "OSM Note 241353",
+        "website": "https://www.gov.br/inss/pt-br",
         "id": "node/5189493363"
       },
       "geometry": {

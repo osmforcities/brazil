@@ -1227,11 +1227,12 @@
       "type": "Feature",
       "id": "node/3536653150",
       "properties": {
-        "timestamp": "2024-08-25T01:13:46Z",
-        "version": 15,
-        "changeset": 155718192,
+        "timestamp": "2024-10-16T00:19:01Z",
+        "version": 16,
+        "changeset": 157942644,
         "alt_name": "Sesi Farmácia",
         "amenity": "pharmacy",
+        "check_date:opening_hours": "2024-10-14",
         "contact:email": "fm551@farmasesi.com.br",
         "contact:phone": "+55 47 3326-0032;+55 47 3326-1406;+55 47 3231-5380",
         "contact:website": "https://farmasesi.com.br",
@@ -1240,7 +1241,8 @@
         "healthcare": "pharmacy",
         "level": "0",
         "name": "Farma Sesi",
-        "opening_hours": "24/7",
+        "opening_hours": "Mo-Fr 06:00-24:00; Sa-Su 07:00-24:00",
+        "source:opening_hours": "survey",
         "id": "node/3536653150"
       },
       "geometry": {

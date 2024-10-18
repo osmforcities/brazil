@@ -5,15 +5,17 @@
       "type": "Feature",
       "id": "way/71255444",
       "properties": {
-        "timestamp": "2016-06-23T02:04:28Z",
-        "version": 4,
-        "changeset": 40217599,
+        "timestamp": "2024-10-16T23:36:24Z",
+        "version": 5,
+        "changeset": 157986653,
         "addr:city": "Ponta Grossa",
         "addr:housenumber": "500",
         "addr:street": "Rua Doutor Joaquim de Paula Xavier",
         "addr:suburb": "Vila Estrela",
         "amenity": "hospital",
         "building": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "paediatrics",
         "name": "Hospital da Criança João Vargas de Oliveira",
         "opening_hours": "24/7",
         "id": "way/71255444"
@@ -635,6 +637,116 @@
     },
     {
       "type": "Feature",
+      "id": "way/1324503646",
+      "properties": {
+        "timestamp": "2024-10-16T23:26:37Z",
+        "version": 1,
+        "changeset": 157986508,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "id": "way/1324503646"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -50.2016,
+              -25.1019855
+            ],
+            [
+              -50.2016564,
+              -25.1024421
+            ],
+            [
+              -50.2014203,
+              -25.1024567
+            ],
+            [
+              -50.2014257,
+              -25.1025174
+            ],
+            [
+              -50.201313,
+              -25.1025271
+            ],
+            [
+              -50.201254,
+              -25.1020098
+            ],
+            [
+              -50.2016,
+              -25.1019855
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1324506468",
+      "properties": {
+        "timestamp": "2024-10-16T23:53:37Z",
+        "version": 1,
+        "changeset": 157986919,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "id": "way/1324506468"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -50.1592378,
+              -25.1010054
+            ],
+            [
+              -50.1597376,
+              -25.1012096
+            ],
+            [
+              -50.1597193,
+              -25.1012606
+            ],
+            [
+              -50.159797,
+              -25.101291
+            ],
+            [
+              -50.1594496,
+              -25.1019077
+            ],
+            [
+              -50.1590047,
+              -25.1017297
+            ],
+            [
+              -50.1590459,
+              -25.1016566
+            ],
+            [
+              -50.1589849,
+              -25.1016345
+            ],
+            [
+              -50.1591464,
+              -25.1013558
+            ],
+            [
+              -50.159052,
+              -25.1013158
+            ],
+            [
+              -50.1592378,
+              -25.1010054
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/4259722589",
       "properties": {
         "timestamp": "2016-09-06T04:03:03Z",
@@ -691,6 +803,46 @@
         "coordinates": [
           -50.104948,
           -25.0987891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12256464715",
+      "properties": {
+        "timestamp": "2024-10-16T23:26:37Z",
+        "version": 1,
+        "changeset": 157986508,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "UPA Santa Paula",
+        "id": "node/12256464715"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.2016295,
+          -25.1021798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12256491257",
+      "properties": {
+        "timestamp": "2024-10-16T23:53:37Z",
+        "version": 1,
+        "changeset": 157986919,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "HU Hospital Universitário UEPG",
+        "id": "node/12256491257"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.1589453,
+          -25.1015324
         ]
       }
     }

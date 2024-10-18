@@ -531,14 +531,18 @@
       "type": "Feature",
       "id": "way/1076922505",
       "properties": {
-        "timestamp": "2022-07-08T18:59:25Z",
-        "version": 1,
-        "changeset": 123378276,
+        "timestamp": "2024-10-16T00:50:28Z",
+        "version": 2,
+        "changeset": 157942995,
+        "addr:housenumber": "430",
+        "addr:street": "Avenida das Indústrias",
+        "addr:suburb": "Palmital",
         "building": "yes",
-        "name": "Poupa Tempo",
+        "government": "public_service",
+        "name": "Poupatempo",
         "office": "government",
-        "operator": "Governo do Estado de São Paulo",
-        "operator:wikidata": "Q10290787",
+        "opening_hours": "Mo-Fr 09:00-17:00; Sa 09:00-13:00; PH off",
+        "website": "https://www.poupatempo.sp.gov.br/",
         "id": "way/1076922505"
       },
       "geometry": {
@@ -546,32 +550,28 @@
         "coordinates": [
           [
             [
-              -49.9515525,
-              -22.2103482
+              -49.9515845,
+              -22.2103017
             ],
             [
-              -49.9510534,
-              -22.2100002
+              -49.9512103,
+              -22.2100312
             ],
             [
-              -49.9512848,
-              -22.2097274
+              -49.9513636,
+              -22.2098592
             ],
             [
-              -49.9512981,
-              -22.2097365
+              -49.9515053,
+              -22.2099563
             ],
             [
-              -49.9515205,
-              -22.2098886
+              -49.9517325,
+              -22.2101348
             ],
             [
-              -49.9517775,
-              -22.2100833
-            ],
-            [
-              -49.9515525,
-              -22.2103482
+              -49.9515845,
+              -22.2103017
             ]
           ]
         ]
@@ -796,9 +796,9 @@
       "type": "Feature",
       "id": "way/1183496860",
       "properties": {
-        "timestamp": "2023-06-19T20:39:47Z",
-        "version": 1,
-        "changeset": 137534613,
+        "timestamp": "2024-10-16T00:50:28Z",
+        "version": 2,
+        "changeset": 157942995,
         "addr:city": "Marília",
         "addr:housenumber": "949",
         "addr:postcode": "17500-011",
@@ -808,8 +808,10 @@
         "government": "register_office",
         "name": "1º Tabelião de Notas e Protestos de Letras e Títulos",
         "office": "government",
-        "opening_hours": "Mo-Fr 09:00-17:00",
-        "phone": "(14)3316-4500",
+        "opening_hours": "Mo-Fr 09:00-17:00; PH off",
+        "operator": "Antonio Sebastião Bertoncini",
+        "phone": "+55 14 3316 4500",
+        "website": "https://www.notas1.com.br/",
         "id": "way/1183496860"
       },
       "geometry": {
@@ -817,24 +819,40 @@
         "coordinates": [
           [
             [
-              -49.9518343,
+              -49.9518297,
+              -22.2122136
+            ],
+            [
+              -49.9517958,
+              -22.2123002
+            ],
+            [
+              -49.9515208,
+              -22.2122028
+            ],
+            [
+              -49.9515547,
+              -22.2121092
+            ],
+            [
+              -49.9516747,
+              -22.2121492
+            ],
+            [
+              -49.9516881,
+              -22.21213
+            ],
+            [
+              -49.9517575,
+              -22.2121593
+            ],
+            [
+              -49.951741,
               -22.212184
             ],
             [
-              -49.9517882,
-              -22.212303
-            ],
-            [
-              -49.9514903,
-              -22.2122042
-            ],
-            [
-              -49.9515364,
-              -22.2120852
-            ],
-            [
-              -49.9518343,
-              -22.212184
+              -49.9518297,
+              -22.2122136
             ]
           ]
         ]

@@ -3,130 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": "way/129377233",
-      "properties": {
-        "timestamp": "2022-07-13T13:08:43Z",
-        "version": 2,
-        "changeset": 123565075,
-        "amenity": "hospital",
-        "healthcare": "hospital",
-        "name": "Hospital das Clinicas",
-        "id": "way/129377233"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -49.9358949,
-              -22.2265113
-            ],
-            [
-              -49.9359512,
-              -22.226623
-            ],
-            [
-              -49.9358717,
-              -22.2266748
-            ],
-            [
-              -49.9358466,
-              -22.226628
-            ],
-            [
-              -49.9357635,
-              -22.2266876
-            ],
-            [
-              -49.935742,
-              -22.2266528
-            ],
-            [
-              -49.9356508,
-              -22.226705
-            ],
-            [
-              -49.9357447,
-              -22.2268912
-            ],
-            [
-              -49.9359942,
-              -22.2267472
-            ],
-            [
-              -49.9360639,
-              -22.2268887
-            ],
-            [
-              -49.9358252,
-              -22.2270178
-            ],
-            [
-              -49.9358493,
-              -22.2270625
-            ],
-            [
-              -49.9358171,
-              -22.2270898
-            ],
-            [
-              -49.9359495,
-              -22.227293
-            ],
-            [
-              -49.9358305,
-              -22.2273828
-            ],
-            [
-              -49.9356803,
-              -22.2271544
-            ],
-            [
-              -49.9352592,
-              -22.2273927
-            ],
-            [
-              -49.9351815,
-              -22.2272661
-            ],
-            [
-              -49.9355945,
-              -22.2270302
-            ],
-            [
-              -49.9355704,
-              -22.2269905
-            ],
-            [
-              -49.9356133,
-              -22.2269657
-            ],
-            [
-              -49.9354926,
-              -22.2267472
-            ],
-            [
-              -49.9357179,
-              -22.2266156
-            ],
-            [
-              -49.9356938,
-              -22.2265535
-            ],
-            [
-              -49.9358654,
-              -22.2264567
-            ],
-            [
-              -49.9358949,
-              -22.2265113
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/488499740",
       "properties": {
         "timestamp": "2022-07-13T13:08:43Z",
@@ -193,6 +69,58 @@
             [
               -49.9674975,
               -22.2383295
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/645075976",
+      "properties": {
+        "timestamp": "2024-10-17T19:06:39Z",
+        "version": 2,
+        "changeset": 158022848,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "physiatry",
+        "name": "Centro de Reabilitação Lucy Montoro",
+        "operator": "Instituto de Medicina Física e Reabilitação do Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo",
+        "operator:type": "government",
+        "website": "https://redelucymontoro.org.br/site/apresentacao/interior/marilia/",
+        "id": "way/645075976"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.9352686,
+              -22.2264939
+            ],
+            [
+              -49.9355302,
+              -22.2268986
+            ],
+            [
+              -49.9355199,
+              -22.2269926
+            ],
+            [
+              -49.9354597,
+              -22.2270563
+            ],
+            [
+              -49.9350776,
+              -22.2272603
+            ],
+            [
+              -49.9347574,
+              -22.2267759
+            ],
+            [
+              -49.9352686,
+              -22.2264939
             ]
           ]
         ]
@@ -582,6 +510,64 @@
             [
               -49.9594199,
               -22.208521
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1324842011",
+      "properties": {
+        "timestamp": "2024-10-17T20:22:27Z",
+        "version": 3,
+        "changeset": 158025082,
+        "addr:housenumber": "255",
+        "addr:postcode": "17519-080",
+        "addr:street": "Rua Doutor Reinaldo Machado",
+        "addr:suburb": "Fragata",
+        "amenity": "hospital",
+        "email": "superintendencia@hcfamema.sp.gov.br",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "Hospital das Clínicas da Faculdade de Medicina de Marília",
+        "phone": "+55 14 3434 2525",
+        "short_name": "HCFAMEMA",
+        "website": "https://hcfamema.sp.gov.br/",
+        "id": "way/1324842011"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.9359484,
+              -22.2261642
+            ],
+            [
+              -49.9367563,
+              -22.2274418
+            ],
+            [
+              -49.9356601,
+              -22.2280809
+            ],
+            [
+              -49.9351441,
+              -22.2272771
+            ],
+            [
+              -49.9356851,
+              -22.2269509
+            ],
+            [
+              -49.9354003,
+              -22.2264733
+            ],
+            [
+              -49.9359484,
+              -22.2261642
             ]
           ]
         ]

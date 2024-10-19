@@ -19662,6 +19662,61 @@
     },
     {
       "type": "Feature",
+      "id": "way/1324731301",
+      "properties": {
+        "timestamp": "2024-10-17T16:11:12Z",
+        "version": 1,
+        "changeset": 158016114,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "318",
+        "addr:postcode": "05411-000",
+        "addr:street": "Rua Cristiano Viana",
+        "brand": "Radisson",
+        "brand:wikidata": "Q1751979",
+        "building": "yes",
+        "height": "45",
+        "name": "Radisson",
+        "tourism": "hotel",
+        "id": "way/1324731301"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.6764812,
+              -23.5599348
+            ],
+            [
+              -46.676366,
+              -23.5598668
+            ],
+            [
+              -46.6764461,
+              -23.5597505
+            ],
+            [
+              -46.6764885,
+              -23.5596899
+            ],
+            [
+              -46.6765402,
+              -23.559619
+            ],
+            [
+              -46.6766554,
+              -23.5596871
+            ],
+            [
+              -46.6764812,
+              -23.5599348
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/905643820",
       "properties": {
         "timestamp": "2021-02-10T02:03:22Z",
@@ -27444,25 +27499,6 @@
         "coordinates": [
           -46.6404515,
           -23.5412418
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/11181463798",
-      "properties": {
-        "timestamp": "2023-09-10T15:59:25Z",
-        "version": 1,
-        "changeset": 141070086,
-        "name": "Radisson",
-        "tourism": "hotel",
-        "id": "node/11181463798"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -46.6766337,
-          -23.5597504
         ]
       }
     },

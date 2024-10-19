@@ -4454,9 +4454,9 @@
       "type": "Feature",
       "id": "way/678092546",
       "properties": {
-        "timestamp": "2020-03-28T17:15:13Z",
-        "version": 5,
-        "changeset": 82759139,
+        "timestamp": "2024-10-17T22:04:07Z",
+        "version": 6,
+        "changeset": 158027908,
         "addr:city": "Recife",
         "addr:postcode": "50770-120",
         "addr:street": "Rua Motocolombó",
@@ -4521,6 +4521,10 @@
             [
               -34.9048875,
               -8.0807962
+            ],
+            [
+              -34.9051357,
+              -8.0806255
             ],
             [
               -34.9051429,
@@ -6496,6 +6500,50 @@
     },
     {
       "type": "Feature",
+      "id": "way/1324584080",
+      "properties": {
+        "timestamp": "2024-10-17T03:49:36Z",
+        "version": 1,
+        "changeset": 157990199,
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "USF+ Vila Arraes",
+        "not:operator:wikidata": "Q7531056",
+        "operator": "Sistema Único de Saúde",
+        "operator:type": "public",
+        "id": "way/1324584080"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -34.9594041,
+              -8.0470392
+            ],
+            [
+              -34.9590752,
+              -8.0469385
+            ],
+            [
+              -34.9591118,
+              -8.0463437
+            ],
+            [
+              -34.9594247,
+              -8.0463425
+            ],
+            [
+              -34.9594041,
+              -8.0470392
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/2418401655",
       "properties": {
         "timestamp": "2021-11-24T23:18:32Z",
@@ -8189,28 +8237,6 @@
         "coordinates": [
           -34.9186586,
           -8.0230149
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/9633608901",
-      "properties": {
-        "timestamp": "2022-04-03T15:22:05Z",
-        "version": 1,
-        "changeset": 119268680,
-        "addr:street": "Avenida Afonso Olindense",
-        "amenity": "clinic",
-        "healthcare": "clinic",
-        "name": "Upinha - Vila Arraes",
-        "opening_hours": "24/7",
-        "id": "node/9633608901"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -34.9593751,
-          -8.0467746
         ]
       }
     }

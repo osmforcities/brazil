@@ -7006,6 +7006,80 @@
     },
     {
       "type": "Feature",
+      "id": "way/618429551",
+      "properties": {
+        "timestamp": "2024-10-17T22:17:11Z",
+        "version": 2,
+        "changeset": 158028248,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "2258",
+        "addr:street": "Avenida Parada Pinto",
+        "addr:suburb": "Lauzane Paulista",
+        "amenity": "pharmacy",
+        "brand": "Drogaria São Paulo",
+        "brand:wikidata": "Q5308184",
+        "building": "retail",
+        "healthcare": "pharmacy",
+        "height": "5.187",
+        "name": "Drogaria São Paulo",
+        "source": "pmsp;survey",
+        "wheelchair": "yes",
+        "id": "way/618429551"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.6490153,
+              -23.4702858
+            ],
+            [
+              -46.6490525,
+              -23.4703137
+            ],
+            [
+              -46.6490191,
+              -23.4704534
+            ],
+            [
+              -46.6489755,
+              -23.470446
+            ],
+            [
+              -46.6489716,
+              -23.4704405
+            ],
+            [
+              -46.6489595,
+              -23.4704231
+            ],
+            [
+              -46.6489631,
+              -23.4704112
+            ],
+            [
+              -46.6489324,
+              -23.4704034
+            ],
+            [
+              -46.6489337,
+              -23.4703991
+            ],
+            [
+              -46.6489769,
+              -23.470257
+            ],
+            [
+              -46.6490153,
+              -23.4702858
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/618429815",
       "properties": {
         "timestamp": "2020-08-30T22:45:44Z",
@@ -36655,6 +36729,34 @@
         "coordinates": [
           -46.6408926,
           -23.5433365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12258003261",
+      "properties": {
+        "timestamp": "2024-10-17T09:20:15Z",
+        "version": 1,
+        "changeset": 157998564,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "3834",
+        "addr:postcode": "02430-002",
+        "addr:street": "Rua Conselheiro Moreira de Barros",
+        "addr:suburb": "Lauzane Paulista",
+        "amenity": "pharmacy",
+        "brand": "Farma Conde",
+        "brand:wikidata": "Q100492677",
+        "building": "healthcare",
+        "healthcare": "pharmacy",
+        "name": "Farma Conde",
+        "id": "node/12258003261"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6503852,
+          -23.4760989
         ]
       }
     }

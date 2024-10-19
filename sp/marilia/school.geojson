@@ -698,19 +698,22 @@
       "type": "Feature",
       "id": "way/1180781440",
       "properties": {
-        "timestamp": "2024-10-02T16:01:57Z",
-        "version": 2,
-        "changeset": 157386083,
+        "timestamp": "2024-10-17T14:51:18Z",
+        "version": 3,
+        "changeset": 158012241,
         "addr:city": "Marília",
         "addr:housenumber": "86",
         "addr:postcode": "17521-250",
         "addr:street": "Rua Antônio Hernandes",
         "addr:suburb": "Jardim Esplanada",
         "amenity": "school",
+        "official_name": "Escola Estadual Professor Nelson Cabrini",
         "operator": "Secretaria da Educação do Estado de São Paulo",
         "operator:type": "government",
+        "phone": "+ 55 14 3417 3066",
         "religion": "none",
         "short_name": "E.E Professor Nelson Cabrini",
+        "source": "http://www.educacao.sp.gov.br/cgrh/escolas/nelson-cabrini-prof/",
         "id": "way/1180781440"
       },
       "geometry": {
@@ -757,17 +760,20 @@
       "type": "Feature",
       "id": "way/1182129967",
       "properties": {
-        "timestamp": "2023-06-14T22:54:22Z",
-        "version": 1,
-        "changeset": 137347537,
+        "timestamp": "2024-10-17T14:51:18Z",
+        "version": 2,
+        "changeset": 158012241,
         "addr:city": "Marília",
         "addr:housenumber": "1498",
         "addr:postcode": "17520-080",
         "addr:street": "Avenida Reverendo Álvaro Simões",
         "addr:suburb": "Fragata",
         "amenity": "school",
-        "building": "yes",
-        "name": "Colégio Esmeraldas - III",
+        "brunch": "Unidade 3",
+        "description": "Ensino Fundamental 2 E Ensino Médio",
+        "name": "Colégio Esmeraldas",
+        "phone": "+55 14 3451 1548",
+        "religion": "none",
         "website": "https://www.colegioesmeraldas.com.br",
         "id": "way/1182129967"
       },
@@ -776,40 +782,24 @@
         "coordinates": [
           [
             [
-              -49.9243719,
-              -22.2326663
+              -49.9243762,
+              -22.2326638
             ],
             [
-              -49.9242959,
-              -22.232958
+              -49.924215,
+              -22.2332851
             ],
             [
-              -49.9241076,
-              -22.232916
+              -49.9235993,
+              -22.2331482
             ],
             [
-              -49.9240523,
-              -22.2331284
+              -49.9237605,
+              -22.232527
             ],
             [
-              -49.9237734,
-              -22.2330661
-            ],
-            [
-              -49.9237442,
-              -22.2331785
-            ],
-            [
-              -49.923602,
-              -22.2331467
-            ],
-            [
-              -49.9237626,
-              -22.2325302
-            ],
-            [
-              -49.9243719,
-              -22.2326663
+              -49.9243762,
+              -22.2326638
             ]
           ]
         ]
@@ -1113,14 +1103,65 @@
     },
     {
       "type": "Feature",
+      "id": "way/1324856248",
+      "properties": {
+        "timestamp": "2024-10-17T20:22:27Z",
+        "version": 2,
+        "changeset": 158025082,
+        "addr:housenumber": "800",
+        "addr:postcode": "17519-030",
+        "addr:street": "Rua Doutor Reinaldo Machado",
+        "addr:suburb": "Fragata",
+        "amenity": "school",
+        "fax": "+55 14 3413 2594",
+        "name": "Faculdade de Medicina de Marília",
+        "operator": "Governo do Estado de São Paulo",
+        "operator:type": "government",
+        "operator:wikidata": "Q10290787",
+        "phone": "+55 14 3311 2929",
+        "short_name": "FANEMA",
+        "website": "https://www.famema.br/",
+        "id": "way/1324856248"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.9369632,
+              -22.2264025
+            ],
+            [
+              -49.9373741,
+              -22.2270717
+            ],
+            [
+              -49.9368705,
+              -22.2273577
+            ],
+            [
+              -49.9364287,
+              -22.2266999
+            ],
+            [
+              -49.9369632,
+              -22.2264025
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/1446711702",
       "properties": {
-        "timestamp": "2014-01-09T18:54:39Z",
-        "version": 4,
-        "changeset": 19905426,
+        "timestamp": "2024-10-17T14:51:18Z",
+        "version": 5,
+        "changeset": 158012241,
         "amenity": "school",
         "name": "Colégio Água Viva",
         "operator": "CPFL",
+        "operator:type": "private",
         "id": "node/1446711702"
       },
       "geometry": {

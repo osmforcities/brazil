@@ -155,16 +155,24 @@
       "type": "Feature",
       "id": "way/1078210818",
       "properties": {
-        "timestamp": "2022-07-13T13:08:43Z",
-        "version": 1,
-        "changeset": 123565075,
+        "timestamp": "2024-10-17T19:57:12Z",
+        "version": 2,
+        "changeset": 158024353,
+        "addr:housenumber": "1088",
+        "addr:street": "Rua Comendador Fragata",
+        "addr:suburb": "Fragata",
         "amenity": "pharmacy",
         "brand": "Droga Raia",
         "brand:wikidata": "Q10357101",
         "building": "yes",
         "dispensing": "yes",
+        "drive_through": "no",
         "healthcare": "pharmacy",
         "name": "Droga Raia",
+        "opening_hours": "24/7",
+        "phone": "+55 14 3422 4016",
+        "website": "https://www.drogaraia.com.br/",
+        "wheelchair": "yes",
         "id": "way/1078210818"
       },
       "geometry": {
@@ -172,24 +180,36 @@
         "coordinates": [
           [
             [
-              -49.9350055,
-              -22.2262297
+              -49.9349616,
+              -22.2261257
             ],
             [
-              -49.9348891,
-              -22.2262911
+              -49.9349245,
+              -22.2261442
             ],
             [
-              -49.9347134,
-              -22.225995
+              -49.9349744,
+              -22.2262364
             ],
             [
-              -49.9348365,
-              -22.2259342
+              -49.9349049,
+              -22.2262667
             ],
             [
-              -49.9350055,
-              -22.2262297
+              -49.9347608,
+              -22.2260324
+            ],
+            [
+              -49.9348469,
+              -22.2259841
+            ],
+            [
+              -49.9348944,
+              -22.2260008
+            ],
+            [
+              -49.9349616,
+              -22.2261257
             ]
           ]
         ]
@@ -454,12 +474,15 @@
       "type": "Feature",
       "id": "node/3777338902",
       "properties": {
-        "timestamp": "2022-07-13T13:08:43Z",
-        "version": 3,
-        "changeset": 123565075,
+        "timestamp": "2024-10-17T19:06:39Z",
+        "version": 4,
+        "changeset": 158022848,
+        "addr:street": "Avenida Tiradentes",
         "amenity": "pharmacy",
+        "dispensing": "yes",
+        "drive_through": "no",
         "healthcare": "pharmacy",
-        "name": "Drogaria Total - Tauste Sul",
+        "name": "Drogaria Total",
         "id": "node/3777338902"
       },
       "geometry": {

@@ -1750,6 +1750,52 @@
     },
     {
       "type": "Feature",
+      "id": "way/1146725496",
+      "properties": {
+        "timestamp": "2024-10-17T11:09:22Z",
+        "version": 2,
+        "changeset": 158002824,
+        "amenity": "pharmacy",
+        "brand": "Pague Menos",
+        "brand:wikidata": "Q7124466",
+        "brand:wikipedia": "pt:Pague Menos",
+        "building": "yes",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Pague Menos",
+        "source": "microsoft/BuildingFootprints",
+        "id": "way/1146725496"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -56.0951684,
+              -15.603784
+            ],
+            [
+              -56.0948812,
+              -15.6035421
+            ],
+            [
+              -56.0949476,
+              -15.6034689
+            ],
+            [
+              -56.0952348,
+              -15.6037109
+            ],
+            [
+              -56.0951684,
+              -15.603784
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1148093464",
       "properties": {
         "timestamp": "2024-09-20T15:07:46Z",
@@ -3539,6 +3585,107 @@
     },
     {
       "type": "Feature",
+      "id": "way/1324657677",
+      "properties": {
+        "timestamp": "2024-10-17T11:09:22Z",
+        "version": 1,
+        "changeset": 158002824,
+        "addr:city": "Cuiabá",
+        "addr:street": "Rua Barão de Melgaço",
+        "addr:suburb": "Centro Sul",
+        "amenity": "pharmacy",
+        "brand": "Drogaria São Paulo",
+        "brand:wikidata": "Q5308184",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Drogaria São Paulo",
+        "opening_hours": "24/7",
+        "id": "way/1324657677"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -56.1059192,
+              -15.6061136
+            ],
+            [
+              -56.1059538,
+              -15.606111
+            ],
+            [
+              -56.1060194,
+              -15.6061758
+            ],
+            [
+              -56.1059002,
+              -15.6062876
+            ],
+            [
+              -56.1058192,
+              -15.6062074
+            ],
+            [
+              -56.1059192,
+              -15.6061136
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1324657682",
+      "properties": {
+        "timestamp": "2024-10-17T11:09:22Z",
+        "version": 1,
+        "changeset": 158002824,
+        "amenity": "pharmacy",
+        "brand": "Drogasil",
+        "brand:wikidata": "Q5308185",
+        "brand:wikipedia": "pt:Drogasil",
+        "building": "yes",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Drogasil",
+        "wheelchair": "yes",
+        "id": "way/1324657682"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -56.0955981,
+              -15.603185
+            ],
+            [
+              -56.0955147,
+              -15.6032596
+            ],
+            [
+              -56.0953911,
+              -15.6031375
+            ],
+            [
+              -56.095446,
+              -15.6030837
+            ],
+            [
+              -56.0955019,
+              -15.6030866
+            ],
+            [
+              -56.0955981,
+              -15.603185
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/550387511",
       "properties": {
         "timestamp": "2019-10-05T18:19:14Z",
@@ -3679,55 +3826,6 @@
         "coordinates": [
           -56.1206538,
           -15.5904293
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/6817805839",
-      "properties": {
-        "timestamp": "2019-09-23T15:34:49Z",
-        "version": 1,
-        "changeset": 74816246,
-        "amenity": "pharmacy",
-        "brand": "Drogasil",
-        "brand:wikidata": "Q5308185",
-        "brand:wikipedia": "pt:Drogasil",
-        "dispensing": "yes",
-        "healthcare": "pharmacy",
-        "name": "Drogasil",
-        "wheelchair": "yes",
-        "id": "node/6817805839"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -56.0954655,
-          -15.6030374
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/6817805840",
-      "properties": {
-        "timestamp": "2019-09-23T15:34:49Z",
-        "version": 1,
-        "changeset": 74816246,
-        "amenity": "pharmacy",
-        "brand": "Pague Menos",
-        "brand:wikidata": "Q7124466",
-        "brand:wikipedia": "pt:Pague Menos",
-        "dispensing": "yes",
-        "healthcare": "pharmacy",
-        "name": "Pague Menos",
-        "id": "node/6817805840"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -56.0949613,
-          -15.6035194
         ]
       }
     },

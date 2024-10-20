@@ -584,63 +584,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/296122032",
-      "properties": {
-        "timestamp": "2021-10-05T15:34:26Z",
-        "version": 3,
-        "changeset": 112129176,
-        "addr:city": "São Paulo",
-        "addr:housenumber": "2108",
-        "addr:postcode": "02430-001",
-        "addr:street": "Rua Conselheiro Moreira de Barros",
-        "addr:suburb": "Lausanne Paulista",
-        "amenity": "pharmacy",
-        "building": "yes",
-        "dispensing": "yes",
-        "healthcare": "pharmacy",
-        "height": "8.027",
-        "name": "Promofarma",
-        "source": "pmsp",
-        "id": "way/296122032"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -46.6401694,
-              -23.485771
-            ],
-            [
-              -46.6402248,
-              -23.4856962
-            ],
-            [
-              -46.6404205,
-              -23.4858221
-            ],
-            [
-              -46.6404147,
-              -23.4858299
-            ],
-            [
-              -46.640417,
-              -23.4858314
-            ],
-            [
-              -46.6403675,
-              -23.4858984
-            ],
-            [
-              -46.6401694,
-              -23.485771
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/296122040",
       "properties": {
         "timestamp": "2021-12-05T13:36:38Z",
@@ -7200,6 +7143,64 @@
             [
               -46.6326719,
               -23.478236
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/618435353",
+      "properties": {
+        "timestamp": "2024-10-18T06:00:40Z",
+        "version": 2,
+        "changeset": 158035248,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "936",
+        "addr:street": "Avenida Santa Inês",
+        "amenity": "pharmacy",
+        "brand:wikidata": "Q10357101",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "height": "8.045",
+        "source": "pmsp",
+        "id": "way/618435353"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.629586,
+              -23.4715593
+            ],
+            [
+              -46.6295707,
+              -23.4714799
+            ],
+            [
+              -46.6297209,
+              -23.4714555
+            ],
+            [
+              -46.6297254,
+              -23.471479
+            ],
+            [
+              -46.6297324,
+              -23.4715151
+            ],
+            [
+              -46.6297362,
+              -23.4715349
+            ],
+            [
+              -46.6297307,
+              -23.4715358
+            ],
+            [
+              -46.629586,
+              -23.4715593
             ]
           ]
         ]
@@ -23920,71 +23921,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/1294962828",
-      "properties": {
-        "timestamp": "2024-06-22T13:23:25Z",
-        "version": 1,
-        "changeset": 153029676,
-        "addr:city": "São Paulo",
-        "addr:housenumber": "936",
-        "addr:street": "Avenida Santa Inês",
-        "amenity": "pharmacy",
-        "brand": "Droga Raia",
-        "brand:wikidata": "Q10357101",
-        "healthcare": "pharmacy",
-        "name": "Droga Raia",
-        "id": "way/1294962828"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -46.6297643,
-              -23.4714359
-            ],
-            [
-              -46.6297822,
-              -23.4715274
-            ],
-            [
-              -46.6297363,
-              -23.471535
-            ],
-            [
-              -46.6295443,
-              -23.4715657
-            ],
-            [
-              -46.6295375,
-              -23.4715316
-            ],
-            [
-              -46.6295267,
-              -23.4714781
-            ],
-            [
-              -46.6295593,
-              -23.4714723
-            ],
-            [
-              -46.6295765,
-              -23.4714692
-            ],
-            [
-              -46.6297054,
-              -23.4714463
-            ],
-            [
-              -46.6297643,
-              -23.4714359
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/1296262848",
       "properties": {
         "timestamp": "2024-06-26T05:31:47Z",
@@ -36757,6 +36693,27 @@
         "coordinates": [
           -46.6503852,
           -23.4760989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12260477881",
+      "properties": {
+        "timestamp": "2024-10-18T06:00:40Z",
+        "version": 1,
+        "changeset": 158035248,
+        "access": "customers",
+        "door": "automatic",
+        "entrance": "yes",
+        "level": "0",
+        "id": "node/12260477881"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6297254,
+          -23.471479
         ]
       }
     }

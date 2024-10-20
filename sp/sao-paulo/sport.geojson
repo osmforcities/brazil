@@ -107656,6 +107656,86 @@
     },
     {
       "type": "Feature",
+      "id": "way/1324887452",
+      "properties": {
+        "timestamp": "2024-10-18T00:00:46Z",
+        "version": 1,
+        "changeset": 158029989,
+        "fitness_station": "*",
+        "leisure": "fitness_station",
+        "sport": "fitness",
+        "id": "way/1324887452"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.6327781,
+              -23.4825559
+            ],
+            [
+              -46.632879,
+              -23.4825707
+            ],
+            [
+              -46.6328629,
+              -23.4826789
+            ],
+            [
+              -46.6327631,
+              -23.4826652
+            ],
+            [
+              -46.6327781,
+              -23.4825559
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1324887455",
+      "properties": {
+        "timestamp": "2024-10-18T00:00:46Z",
+        "version": 1,
+        "changeset": 158029989,
+        "fitness_station": "fitness_station",
+        "leisure": "fitness_station",
+        "sport": "fitness",
+        "id": "way/1324887455"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.6269512,
+              -23.4750986
+            ],
+            [
+              -46.6269339,
+              -23.4751006
+            ],
+            [
+              -46.6269153,
+              -23.4749453
+            ],
+            [
+              -46.6269346,
+              -23.4749426
+            ],
+            [
+              -46.6269512,
+              -23.4750986
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/16258555",
       "properties": {
         "timestamp": "2024-03-12T03:38:27Z",
@@ -123057,6 +123137,31 @@
         "coordinates": [
           -46.6432135,
           -23.5478188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12259861011",
+      "properties": {
+        "timestamp": "2024-10-18T00:00:46Z",
+        "version": 1,
+        "changeset": 158029989,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "2100",
+        "addr:postcode": "02430-001",
+        "addr:street": "Rua Conselheiro Moreira de Barros",
+        "addr:suburb": "Lauzane Paulista",
+        "leisure": "fitness_centre",
+        "name": "Red Fitness",
+        "sport": "fitness",
+        "id": "node/12259861011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6403631,
+          -23.4859318
         ]
       }
     }

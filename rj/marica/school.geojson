@@ -3,45 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": "way/187384355",
-      "properties": {
-        "timestamp": "2024-02-09T09:54:44Z",
-        "version": 4,
-        "changeset": 147248953,
-        "amenity": "school",
-        "name": "Colégio HMS",
-        "id": "way/187384355"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -42.8161262,
-              -22.9152344
-            ],
-            [
-              -42.8158534,
-              -22.9155027
-            ],
-            [
-              -42.8153952,
-              -22.915112
-            ],
-            [
-              -42.8156871,
-              -22.9148454
-            ],
-            [
-              -42.8161262,
-              -22.9152344
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/1317652692",
       "properties": {
         "timestamp": "2024-09-23T17:54:21Z",
@@ -629,9 +590,9 @@
       "type": "Feature",
       "id": "node/11581835139",
       "properties": {
-        "timestamp": "2024-02-03T13:51:11Z",
-        "version": 1,
-        "changeset": 147020692,
+        "timestamp": "2024-10-18T02:52:36Z",
+        "version": 2,
+        "changeset": 158032119,
         "addr:city": "Maricá",
         "addr:country": "BR",
         "addr:postcode": "24942-285",
@@ -643,6 +604,7 @@
         "nohousenumber": "yes",
         "operator": "Governo do Estado do Rio de Janeiro",
         "operator:type": "government",
+        "operator:wikidata": "Q48855361",
         "id": "node/11581835139"
       },
       "geometry": {
@@ -982,12 +944,12 @@
       "type": "Feature",
       "id": "node/11582441178",
       "properties": {
-        "timestamp": "2024-02-03T18:54:17Z",
-        "version": 1,
-        "changeset": 147030713,
+        "timestamp": "2024-10-18T02:28:49Z",
+        "version": 2,
+        "changeset": 158031798,
         "addr:city": "Maricá",
         "addr:country": "BR",
-        "addr:postcode": "24913-270",
+        "addr:postcode": "24913-730",
         "addr:state": "RJ",
         "addr:street": "Rua Ledo Barroso Bittencourt",
         "addr:suburb": "Mumbuca",
@@ -1183,9 +1145,9 @@
       "type": "Feature",
       "id": "node/11583011144",
       "properties": {
-        "timestamp": "2024-02-04T00:56:14Z",
-        "version": 1,
-        "changeset": 147038467,
+        "timestamp": "2024-10-18T02:19:49Z",
+        "version": 2,
+        "changeset": 158031669,
         "addr:city": "Maricá",
         "addr:country": "BR",
         "addr:postcode": "24931-870",
@@ -1197,6 +1159,7 @@
         "nohousenumber": "yes",
         "operator": "Governo do Estado do Rio de Janeiro",
         "operator:type": "government",
+        "operator:wikidata": "Q48855361",
         "id": "node/11583011144"
       },
       "geometry": {
@@ -1410,12 +1373,12 @@
       "type": "Feature",
       "id": "node/11583273974",
       "properties": {
-        "timestamp": "2024-02-04T02:55:22Z",
-        "version": 1,
-        "changeset": 147039786,
+        "timestamp": "2024-10-18T01:47:42Z",
+        "version": 2,
+        "changeset": 158031286,
         "addr:city": "Maricá",
         "addr:country": "BR",
-        "addr:postcode": "24900-000",
+        "addr:postcode": "24944-660",
         "addr:state": "RJ",
         "addr:street": "Estrada de Cassorotiba",
         "addr:suburb": "Santa Paula",
@@ -1892,9 +1855,9 @@
       "type": "Feature",
       "id": "node/11585115128",
       "properties": {
-        "timestamp": "2024-02-04T20:06:00Z",
-        "version": 1,
-        "changeset": 147067742,
+        "timestamp": "2024-10-18T03:09:41Z",
+        "version": 2,
+        "changeset": 158032362,
         "addr:city": "Maricá",
         "addr:country": "BR",
         "addr:housenumber": "259",
@@ -1906,6 +1869,7 @@
         "name": "CIEP Professora Maria do Amparo Rangel e Souza",
         "operator": "Governo do Estado do Rio de Janeiro",
         "operator:type": "government",
+        "operator:wikidata": "Q48855361",
         "phone": "+55 21 2637 4264",
         "id": "node/11585115128"
       },
@@ -2168,6 +2132,30 @@
         "coordinates": [
           -42.9321836,
           -22.91146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12259898601",
+      "properties": {
+        "timestamp": "2024-10-18T00:39:08Z",
+        "version": 1,
+        "changeset": 158030503,
+        "addr:city": "Maricá",
+        "addr:postcode": "24900-360",
+        "addr:street": "Rua Rodrigo Alves Rangel",
+        "addr:suburb": "Centro",
+        "amenity": "school",
+        "name": "Colégio HMS",
+        "nohousenumber": "yes",
+        "id": "node/12259898601"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.8157729,
+          -22.9152025
         ]
       }
     }

@@ -12712,14 +12712,17 @@
       "type": "Feature",
       "id": "way/888269361",
       "properties": {
-        "timestamp": "2024-09-19T23:36:47Z",
-        "version": 3,
-        "changeset": 156844316,
+        "timestamp": "2024-10-18T18:46:46Z",
+        "version": 4,
+        "changeset": 158063901,
         "addr:city": "Teresina",
+        "addr:postcode": "64083170",
+        "addr:street": "Residencial Sol Nascente",
         "addr:suburb": "Colorado",
         "amenity": "school",
         "barrier": "wall",
-        "name": "E.M. Barjas Negri",
+        "grades": "1º ao 9º Ano - Ensino Fundamental",
+        "name": "Escola Municipal Barjas Negri",
         "operator": "Prefeitura Municipal de Teresina",
         "operator:type": "public/government",
         "phone": "+55 86 3215 7852",
@@ -23923,6 +23926,34 @@
         "coordinates": [
           -42.7391298,
           -5.0940418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12264377866",
+      "properties": {
+        "timestamp": "2024-10-18T18:46:46Z",
+        "version": 1,
+        "changeset": 158063901,
+        "addr:city": "Teresina",
+        "addr:postcode": "64083170",
+        "addr:street": "Residencial Sol Nascente",
+        "addr:suburb": "Colorado",
+        "amenity": "school",
+        "grades": "1º ao 9º Ano - Ensino Fundamental",
+        "name": "Escola Municipal Barjas Negri",
+        "operator": "Prefeitura de Teresina",
+        "operator:type": "public",
+        "phone": "+55 86 3215-7852",
+        "religion": "none",
+        "id": "node/12264377866"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.7387401,
+          -5.0939204
         ]
       }
     }

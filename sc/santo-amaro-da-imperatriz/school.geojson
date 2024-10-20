@@ -96,12 +96,12 @@
       "type": "Feature",
       "id": "way/681911404",
       "properties": {
-        "timestamp": "2024-04-16T17:38:05Z",
-        "version": 4,
-        "changeset": 150096425,
+        "timestamp": "2024-10-18T20:53:01Z",
+        "version": 5,
+        "changeset": 158067634,
         "access": "yes",
         "amenity": "school",
-        "name": "Colégio Estadual Nereu Ramos",
+        "name": "E.E.B Nereu Ramos",
         "operator": "Governo do Estado de Santa Catarina",
         "operator:type": "government",
         "operator:wikidata": "Q67536979",
@@ -377,16 +377,16 @@
       "type": "Feature",
       "id": "way/1134679427",
       "properties": {
-        "timestamp": "2023-01-24T02:22:41Z",
-        "version": 1,
-        "changeset": 131630491,
+        "timestamp": "2024-10-18T20:53:01Z",
+        "version": 2,
+        "changeset": 158067634,
         "addr:city": "Santo Amaro da Imperatriz",
         "addr:housenumber": "478",
         "addr:postcode": "88140-000",
         "addr:street": "Rua João Jacinto Machado",
         "addr:suburb": "Sul do Rio",
         "amenity": "school",
-        "name": "Escola Básica Anísio Vicente de Freitas",
+        "name": "E.E.B Anísio Vicente de Freitas",
         "operator": "Governo do Estado de Santa Catarina",
         "operator:type": "government",
         "operator:wikidata": "Q67536979",
@@ -432,16 +432,16 @@
       "type": "Feature",
       "id": "way/1136594886",
       "properties": {
-        "timestamp": "2024-04-16T20:33:25Z",
-        "version": 3,
-        "changeset": 150102257,
+        "timestamp": "2024-10-18T20:53:01Z",
+        "version": 4,
+        "changeset": 158067634,
         "addr:city": "Santo Amaro da Imperatriz",
         "addr:housenumber": "117",
         "addr:postcode": "88140-000",
         "addr:street": "Rua Frei Jacó Hoefflers",
         "addr:suburb": "Centro",
         "amenity": "school",
-        "name": "Escola Básica Professora Lourdes Garcia",
+        "name": "E.B.M Professora Lourdes Garcia",
         "note": "Colégio em obras finalizado recentemente, retorno as aulas previsto para 13/02/2023",
         "operator": "Prefeitura de Santo Amaro da Imperatriz",
         "operator:type": "public",
@@ -489,6 +489,203 @@
     },
     {
       "type": "Feature",
+      "id": "way/1325499402",
+      "properties": {
+        "timestamp": "2024-10-18T20:53:01Z",
+        "version": 1,
+        "changeset": 158067634,
+        "addr:city": "Santo Amaro da Imperatriz",
+        "addr:postcode": "88140-000",
+        "addr:street": "Rua São Sebastião",
+        "addr:suburb": "Sul do Rio",
+        "amenity": "school",
+        "name": "Escola Municipal Sul do Rio Cubatão",
+        "id": "way/1325499402"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.7141621,
+              -27.6955484
+            ],
+            [
+              -48.7143605,
+              -27.6954785
+            ],
+            [
+              -48.7144632,
+              -27.6960015
+            ],
+            [
+              -48.7142659,
+              -27.6960446
+            ],
+            [
+              -48.7141621,
+              -27.6955484
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1325499411",
+      "properties": {
+        "timestamp": "2024-10-18T20:53:01Z",
+        "version": 1,
+        "changeset": 158067634,
+        "addr:city": "Santo Amaro da Imperatriz",
+        "addr:postcode": "88140-000",
+        "addr:street": "Rua Gustavo João de Farias",
+        "addr:suburb": "Fabrício",
+        "amenity": "school",
+        "name": "E.B.M Professora Maria Andréia Goulart Hilleshein",
+        "operator": "Prefeitura de Santo Amaro da Imperatriz",
+        "id": "way/1325499411"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.7772803,
+              -27.6966625
+            ],
+            [
+              -48.7773252,
+              -27.6972166
+            ],
+            [
+              -48.7776241,
+              -27.6971778
+            ],
+            [
+              -48.7776374,
+              -27.6973036
+            ],
+            [
+              -48.7773567,
+              -27.6973313
+            ],
+            [
+              -48.7771439,
+              -27.697268
+            ],
+            [
+              -48.7770821,
+              -27.6967385
+            ],
+            [
+              -48.7772803,
+              -27.6966625
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1325499412",
+      "properties": {
+        "timestamp": "2024-10-18T20:53:01Z",
+        "version": 1,
+        "changeset": 158067634,
+        "addr:city": "Santo Amaro da Imperatriz",
+        "addr:postcode": "88140-000",
+        "addr:street": "Rua Anadir Melchíades Derner",
+        "addr:suburb": "Centro",
+        "amenity": "school",
+        "name": "Centro Educacional Espaço do Saber",
+        "id": "way/1325499412"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.7767599,
+              -27.682536
+            ],
+            [
+              -48.7769745,
+              -27.6824516
+            ],
+            [
+              -48.7770349,
+              -27.682495
+            ],
+            [
+              -48.7772643,
+              -27.6830634
+            ],
+            [
+              -48.7770079,
+              -27.6831649
+            ],
+            [
+              -48.7767599,
+              -27.682536
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1325499413",
+      "properties": {
+        "timestamp": "2024-10-18T20:53:01Z",
+        "version": 1,
+        "changeset": 158067634,
+        "amenity": "school",
+        "name": "E.B.M Prof Augusto Althoff",
+        "id": "way/1325499413"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.8024602,
+              -27.7084642
+            ],
+            [
+              -48.8021775,
+              -27.7088623
+            ],
+            [
+              -48.8019071,
+              -27.7087722
+            ],
+            [
+              -48.8019739,
+              -27.7086855
+            ],
+            [
+              -48.8016727,
+              -27.7085025
+            ],
+            [
+              -48.80162,
+              -27.7082206
+            ],
+            [
+              -48.8019384,
+              -27.7081618
+            ],
+            [
+              -48.8024602,
+              -27.7084642
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/10865602882",
       "properties": {
         "timestamp": "2023-05-03T18:10:49Z",
@@ -503,25 +700,6 @@
         "coordinates": [
           -48.7537512,
           -27.6721099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/11988962296",
-      "properties": {
-        "timestamp": "2024-06-17T20:54:45Z",
-        "version": 1,
-        "changeset": 152819709,
-        "amenity": "school",
-        "name": "Centro Educacional Espaço do Saber",
-        "id": "node/11988962296"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.7770444,
-          -27.6830326
         ]
       }
     }

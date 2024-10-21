@@ -3,54 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": "way/555970496",
-      "properties": {
-        "timestamp": "2024-03-19T18:03:03Z",
-        "version": 3,
-        "changeset": 148874459,
-        "amenity": "clinic",
-        "healthcare": "clinic",
-        "name": "UPA da Vila Cristina",
-        "id": "way/555970496"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -47.5503876,
-              -22.3837386
-            ],
-            [
-              -47.5504357,
-              -22.3837562
-            ],
-            [
-              -47.5511026,
-              -22.3844224
-            ],
-            [
-              -47.5505244,
-              -22.3848174
-            ],
-            [
-              -47.5499502,
-              -22.3840795
-            ],
-            [
-              -47.5499642,
-              -22.3840266
-            ],
-            [
-              -47.5503876,
-              -22.3837386
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/565603690",
       "properties": {
         "timestamp": "2024-09-24T21:14:58Z",
@@ -475,62 +427,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/584407453",
-      "properties": {
-        "timestamp": "2024-03-21T13:28:49Z",
-        "version": 3,
-        "changeset": 148963721,
-        "amenity": "clinic",
-        "healthcare": "clinic",
-        "name": "UBS da 29 - Oreste Armando Giovani / UPA",
-        "id": "way/584407453"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -47.5640661,
-              -22.4248552
-            ],
-            [
-              -47.5638556,
-              -22.4253534
-            ],
-            [
-              -47.5638027,
-              -22.4253673
-            ],
-            [
-              -47.5630807,
-              -22.4251016
-            ],
-            [
-              -47.5630698,
-              -22.4250791
-            ],
-            [
-              -47.5632945,
-              -22.4245598
-            ],
-            [
-              -47.5633242,
-              -22.4245514
-            ],
-            [
-              -47.5640674,
-              -22.4248295
-            ],
-            [
-              -47.5640661,
-              -22.4248552
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/584407464",
       "properties": {
         "timestamp": "2018-04-29T15:08:06Z",
@@ -831,6 +727,146 @@
             [
               -47.5897648,
               -22.3964266
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1326140397",
+      "properties": {
+        "timestamp": "2024-10-19T21:28:18Z",
+        "version": 1,
+        "changeset": 158107811,
+        "addr:housenumber": "1784",
+        "addr:postcode": "13506-040",
+        "addr:street": "Avenida José Felício Castellano",
+        "addr:suburb": "Vila Cristina",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general;vaccination",
+        "name": "Unidade Básica de Saúde Doutor Silvio Arnaldo Piva",
+        "opening_hours": "Mo-Fr 07:00-16:00; PH off",
+        "operator": "Fundação Municipal de Saúde",
+        "operator:type": "government",
+        "phone": "+55 19 3527 2908",
+        "ref:CNES": "2060825",
+        "short_name": "UBS Vila Cristina",
+        "source": "CNES",
+        "id": "way/1326140397"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.5503931,
+              -22.3837723
+            ],
+            [
+              -47.5504184,
+              -22.3837578
+            ],
+            [
+              -47.5504437,
+              -22.3837605
+            ],
+            [
+              -47.550669,
+              -22.3839704
+            ],
+            [
+              -47.5502242,
+              -22.3842535
+            ],
+            [
+              -47.550336,
+              -22.3843999
+            ],
+            [
+              -47.5502312,
+              -22.3844677
+            ],
+            [
+              -47.5499402,
+              -22.3840823
+            ],
+            [
+              -47.5499355,
+              -22.3840619
+            ],
+            [
+              -47.5499646,
+              -22.3840339
+            ],
+            [
+              -47.5503931,
+              -22.3837723
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1326149277",
+      "properties": {
+        "timestamp": "2024-10-19T22:40:01Z",
+        "version": 1,
+        "changeset": 158109217,
+        "addr:housenumber": "1311",
+        "addr:street": "Avenida Vinte e Nove",
+        "addr:suburb": "Bairro do Estádio",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Unidade Básica de Saúde Oreste Armando Giovani",
+        "operator": "Fundação Municipal de Saúde",
+        "operator:type": "government",
+        "phone": "+55 19 3524 3015",
+        "id": "way/1326149277"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.5635964,
+              -22.4248184
+            ],
+            [
+              -47.5634985,
+              -22.4250531
+            ],
+            [
+              -47.5633848,
+              -22.425014
+            ],
+            [
+              -47.563443,
+              -22.4248501
+            ],
+            [
+              -47.5633821,
+              -22.4248232
+            ],
+            [
+              -47.5633081,
+              -22.4250042
+            ],
+            [
+              -47.5631917,
+              -22.4249577
+            ],
+            [
+              -47.5632896,
+              -22.4247083
+            ],
+            [
+              -47.5635964,
+              -22.4248184
             ]
           ]
         ]

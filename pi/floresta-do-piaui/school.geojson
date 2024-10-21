@@ -60,24 +60,24 @@
         "coordinates": [
           [
             [
-              -41.8008609,
-              -7.4631599
+              -41.8008502,
+              -7.463179
             ],
             [
-              -41.8005176,
-              -7.4637876
+              -41.8005069,
+              -7.4638067
             ],
             [
-              -41.8000241,
-              -7.4635482
+              -41.8000134,
+              -7.4635673
             ],
             [
-              -41.800362,
-              -7.4629126
+              -41.8003513,
+              -7.4629317
             ],
             [
-              -41.8008609,
-              -7.4631599
+              -41.8008502,
+              -7.463179
             ]
           ]
         ]
@@ -124,6 +124,107 @@
     },
     {
       "type": "Feature",
+      "id": "way/1326084150",
+      "properties": {
+        "timestamp": "2024-10-19T16:26:46Z",
+        "version": 1,
+        "changeset": 158098978,
+        "addr:city": "Floresta do Piauí",
+        "addr:street": "Rua João Martins de Carvalho",
+        "amenity": "school",
+        "name": "Unid Esc Prof Antonio Jose Da Silva",
+        "id": "way/1326084150"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.7994417,
+              -7.4666062
+            ],
+            [
+              -41.799636,
+              -7.4667055
+            ],
+            [
+              -41.7994907,
+              -7.4669849
+            ],
+            [
+              -41.7992674,
+              -7.4668708
+            ],
+            [
+              -41.7993243,
+              -7.4667615
+            ],
+            [
+              -41.7994473,
+              -7.4668244
+            ],
+            [
+              -41.7994874,
+              -7.4667473
+            ],
+            [
+              -41.7993933,
+              -7.4666993
+            ],
+            [
+              -41.7994417,
+              -7.4666062
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1326106053",
+      "properties": {
+        "timestamp": "2024-10-19T18:30:26Z",
+        "version": 1,
+        "changeset": 158103294,
+        "addr:city": "Floresta do Piauí",
+        "addr:housenumber": "270",
+        "addr:postcode": "64563-000",
+        "addr:street": "Rua Rufino Raimundo Torres",
+        "addr:suburb": "Centro",
+        "amenity": "school",
+        "name": "Unid Esc Dirceu Mendes Arcoverde",
+        "id": "way/1326106053"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.7995504,
+              -7.4671408
+            ],
+            [
+              -41.7993887,
+              -7.4674722
+            ],
+            [
+              -41.7990805,
+              -7.4673302
+            ],
+            [
+              -41.7992377,
+              -7.4669788
+            ],
+            [
+              -41.7995504,
+              -7.4671408
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/9467019859",
       "properties": {
         "timestamp": "2022-02-01T20:20:31Z",
@@ -143,30 +244,6 @@
         "coordinates": [
           -41.7994232,
           -7.4668859
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/9467026320",
-      "properties": {
-        "timestamp": "2022-02-01T20:19:51Z",
-        "version": 1,
-        "changeset": 116883655,
-        "addr:city": "Floresta do Piauí",
-        "addr:housenumber": "270",
-        "addr:postcode": "64563-000",
-        "addr:street": "Rua Rufino Raimundo Torres",
-        "addr:suburb": "Centro",
-        "amenity": "school",
-        "name": "Unid Esc Dirceu Mendes Arcoverde",
-        "id": "node/9467026320"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -41.7992596,
-          -7.4673406
         ]
       }
     }

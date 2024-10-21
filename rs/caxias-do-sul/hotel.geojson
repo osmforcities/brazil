@@ -137,53 +137,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/339590183",
-      "properties": {
-        "timestamp": "2023-02-24T22:55:36Z",
-        "version": 4,
-        "changeset": 132987959,
-        "addr:city": "Caxias do Sul",
-        "addr:housenumber": "2266",
-        "addr:postcode": "95020-510",
-        "addr:street": "Rua Sinimbu",
-        "addr:suburb": "Centro",
-        "building": "hotel",
-        "name": "Coophotel (FECHADO)",
-        "note": "Antigo Hotel Alfred.",
-        "phone": "+55 54 3209-8600",
-        "tourism": "hotel",
-        "id": "way/339590183"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -51.1845069,
-              -29.169019
-            ],
-            [
-              -51.1845004,
-              -29.1693391
-            ],
-            [
-              -51.1842108,
-              -29.1693346
-            ],
-            [
-              -51.1842174,
-              -29.1690145
-            ],
-            [
-              -51.1845069,
-              -29.169019
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/339593287",
       "properties": {
         "timestamp": "2019-03-05T22:58:27Z",
@@ -816,6 +769,29 @@
         "coordinates": [
           -51.1812466,
           -29.1700495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12269392132",
+      "properties": {
+        "timestamp": "2024-10-19T16:40:09Z",
+        "version": 1,
+        "changeset": 158099539,
+        "addr:housenumber": "2266",
+        "addr:street": "Rua Sinimbu",
+        "name": "Hotel Laghetto Stilo Caxias (em construção)",
+        "note": "Antigo Hotel Alfred e Coophotel.",
+        "tourism": "hotel",
+        "website": "https://www.laghettohoteis.com.br/",
+        "id": "node/12269392132"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1843579,
+          -29.1691004
         ]
       }
     }

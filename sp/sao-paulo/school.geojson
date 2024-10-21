@@ -52239,11 +52239,17 @@
       "type": "Feature",
       "id": "way/681521060",
       "properties": {
-        "timestamp": "2019-04-09T08:03:38Z",
-        "version": 2,
-        "changeset": 69033867,
+        "timestamp": "2024-10-19T04:23:56Z",
+        "version": 3,
+        "changeset": 158074530,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "190",
+        "addr:postcode": "03081-030",
+        "addr:street": "Rua Maria Eugênia",
+        "alt_name": "Escola Estadual Erasmo Braga",
         "amenity": "school",
-        "name": "Escola Estadual Erasmo Braga",
+        "barrier": "wall",
+        "name": "E.E Erasmo Braga",
         "id": "way/681521060"
       },
       "geometry": {
@@ -52251,28 +52257,44 @@
         "coordinates": [
           [
             [
-              -46.5736998,
-              -23.533353
+              -46.5736951,
+              -23.5333413
             ],
             [
-              -46.5739054,
-              -23.533889
+              -46.5738267,
+              -23.5336588
             ],
             [
-              -46.573986,
-              -23.5340812
+              -46.5739188,
+              -23.5338808
             ],
             [
-              -46.5734539,
-              -23.5342586
+              -46.5739963,
+              -23.5340677
             ],
             [
-              -46.573212,
-              -23.5335194
+              -46.5734413,
+              -23.5342563
             ],
             [
-              -46.5736998,
-              -23.533353
+              -46.5731364,
+              -23.5335313
+            ],
+            [
+              -46.5732396,
+              -23.5334945
+            ],
+            [
+              -46.5733287,
+              -23.5334627
+            ],
+            [
+              -46.5733736,
+              -23.5334465
+            ],
+            [
+              -46.5736951,
+              -23.5333413
             ]
           ]
         ]
@@ -112402,6 +112424,26 @@
         "coordinates": [
           -46.7338864,
           -23.5557737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12265471376",
+      "properties": {
+        "timestamp": "2024-10-19T04:23:56Z",
+        "version": 1,
+        "changeset": 158074530,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "190",
+        "addr:street": "Rua Maria Eugênia",
+        "id": "node/12265471376"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5738267,
+          -23.5336588
         ]
       }
     }

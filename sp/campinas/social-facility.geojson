@@ -45,6 +45,63 @@
     },
     {
       "type": "Feature",
+      "id": "way/989246976",
+      "properties": {
+        "timestamp": "2024-10-20T12:17:40Z",
+        "version": 2,
+        "changeset": 158125842,
+        "addr:city": "Campinas",
+        "addr:housenumber": "171",
+        "addr:postcode": "13070-070",
+        "addr:street": "Avenida João Erbolato",
+        "addr:suburb": "Jardim Chapadão",
+        "amenity": "social_facility",
+        "building": "house",
+        "layer": "-1",
+        "name": "Doce Viver",
+        "social_facility": "nursing_home",
+        "social_facility:for": "senior",
+        "website": "https://casaderepousodoceviver.com.br",
+        "id": "way/989246976"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.0791449,
+              -22.889937
+            ],
+            [
+              -47.0790297,
+              -22.8899628
+            ],
+            [
+              -47.0789815,
+              -22.8897803
+            ],
+            [
+              -47.0789406,
+              -22.8897894
+            ],
+            [
+              -47.0789101,
+              -22.8896738
+            ],
+            [
+              -47.0790662,
+              -22.8896388
+            ],
+            [
+              -47.0791449,
+              -22.889937
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1226206575",
       "properties": {
         "timestamp": "2023-11-23T14:20:08Z",
@@ -329,6 +386,87 @@
         "coordinates": [
           -47.0705792,
           -22.8847223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12270897446",
+      "properties": {
+        "timestamp": "2024-10-20T12:17:40Z",
+        "version": 1,
+        "changeset": 158125842,
+        "addr:city": "Campinas",
+        "addr:housenumber": "530",
+        "addr:postcode": "13087-070",
+        "addr:street": "Rua Afrânio Peixoto",
+        "addr:suburb": "Parque Taquaral",
+        "amenity": "social_facility",
+        "name": "Doce Viver",
+        "social_facility": "nursing_home",
+        "social_facility:for": "senior",
+        "website": "https://casaderepousodoceviver.com.br",
+        "id": "node/12270897446"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0580049,
+          -22.8672951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12270897447",
+      "properties": {
+        "timestamp": "2024-10-20T12:17:40Z",
+        "version": 1,
+        "changeset": 158125842,
+        "addr:city": "Campinas",
+        "addr:housenumber": "44",
+        "addr:postcode": "13087-045",
+        "addr:street": "Rua Emerson José Moreira",
+        "addr:suburb": "Parque Taquaral",
+        "amenity": "social_facility",
+        "name": "Doce Viver",
+        "social_facility": "nursing_home",
+        "social_facility:for": "senior",
+        "website": "https://casaderepousodoceviver.com.br",
+        "id": "node/12270897447"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0535175,
+          -22.870565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12270897449",
+      "properties": {
+        "timestamp": "2024-10-20T12:17:40Z",
+        "version": 1,
+        "changeset": 158125842,
+        "addr:city": "Campinas",
+        "addr:housenumber": "71",
+        "addr:postcode": "13087-250",
+        "addr:street": "Avenida Martin Afonso",
+        "addr:suburb": "Parque Taquaral",
+        "amenity": "social_facility",
+        "name": "Doce Viver",
+        "social_facility": "nursing_home",
+        "social_facility:for": "senior",
+        "website": "https://casaderepousodoceviver.com.br",
+        "id": "node/12270897449"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0542905,
+          -22.8728514
         ]
       }
     }

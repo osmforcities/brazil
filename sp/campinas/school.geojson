@@ -1985,13 +1985,18 @@
       "type": "Feature",
       "id": "way/367901158",
       "properties": {
-        "timestamp": "2021-06-23T22:55:21Z",
-        "version": 3,
-        "changeset": 106862630,
+        "timestamp": "2024-10-20T12:27:53Z",
+        "version": 4,
+        "changeset": 158126150,
+        "addr:city": "Campinas",
         "addr:housenumber": "1735",
+        "addr:postcode": "13020-433",
         "addr:street": "Avenida Barão de Itapura",
+        "addr:suburb": "Botafogo",
         "amenity": "school",
         "name": "Instituto Educacional Imaculada",
+        "phone": "+55 (19) 3231-7911",
+        "website": "https://imaculada.com.br/",
         "id": "way/367901158"
       },
       "geometry": {
@@ -6742,9 +6747,9 @@
       "type": "Feature",
       "id": "node/1617880279",
       "properties": {
-        "timestamp": "2024-09-14T13:17:27Z",
-        "version": 2,
-        "changeset": 156612270,
+        "timestamp": "2024-10-20T12:37:47Z",
+        "version": 3,
+        "changeset": 158126504,
         "addr:city": "Campinas",
         "addr:housenumber": "601",
         "addr:postcode": "13073-012",
@@ -6758,8 +6763,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -47.0646144,
-          -22.8897716
+          -47.0647686,
+          -22.8901274
         ]
       }
     },
@@ -8759,6 +8764,58 @@
         "coordinates": [
           -47.080131,
           -22.8894273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12270873954",
+      "properties": {
+        "timestamp": "2024-10-20T12:27:53Z",
+        "version": 1,
+        "changeset": 158126150,
+        "addr:city": "Campinas",
+        "addr:housenumber": "329",
+        "addr:postcode": "13070-056",
+        "addr:street": "Rua Francisco Otaviano",
+        "addr:suburb": "Jardim Chapadão",
+        "amenity": "school",
+        "name": "Escola 14 Bis",
+        "phone": "+55 (19) 3243-4525",
+        "website": "https://escola14bis.com.br/",
+        "id": "node/12270873954"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0763337,
+          -22.8853695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12270873955",
+      "properties": {
+        "timestamp": "2024-10-20T12:27:53Z",
+        "version": 1,
+        "changeset": 158126150,
+        "addr:city": "Campinas",
+        "addr:housenumber": "58",
+        "addr:postcode": "13076-011",
+        "addr:street": "Rua Dona Maria Umbelina Couto",
+        "addr:suburb": "Taquaral",
+        "amenity": "school",
+        "name": "Poliedro Colégio",
+        "phone": "+55 (19) 4141-1616",
+        "website": "https://www.colegiopoliedro.com.br/",
+        "id": "node/12270873955"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0583413,
+          -22.8873167
         ]
       }
     }

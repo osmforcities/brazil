@@ -64,26 +64,49 @@
     },
     {
       "type": "Feature",
-      "id": "node/11257363602",
+      "id": "way/1326273340",
       "properties": {
-        "timestamp": "2023-10-12T11:24:08Z",
+        "timestamp": "2024-10-20T15:02:45Z",
         "version": 1,
-        "changeset": 142474940,
+        "changeset": 158132341,
         "addr:city": "Itapebi",
         "addr:postcode": "45855-000",
         "addr:street": "Rua do Colégio",
         "addr:suburb": "Ventania",
         "amenity": "school",
+        "building": "yes",
+        "building:levels": "1",
         "name": "Grupo Escolar Juarez Cardoso de Souza",
         "operator": "Município de Itapebi",
         "operator:type": "public",
-        "id": "node/11257363602"
+        "source": "microsoft/BuildingFootprints",
+        "id": "way/1326273340"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -39.559881,
-          -15.9074958
+          [
+            [
+              -39.5600209,
+              -15.9074934
+            ],
+            [
+              -39.5599792,
+              -15.9076536
+            ],
+            [
+              -39.5597824,
+              -15.9076062
+            ],
+            [
+              -39.5598241,
+              -15.907446
+            ],
+            [
+              -39.5600209,
+              -15.9074934
+            ]
+          ]
         ]
       }
     },

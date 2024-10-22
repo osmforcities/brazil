@@ -627,11 +627,11 @@
       "type": "Feature",
       "id": "way/584451792",
       "properties": {
-        "timestamp": "2018-04-29T18:52:55Z",
-        "version": 1,
-        "changeset": 58535113,
+        "timestamp": "2024-10-20T02:15:01Z",
+        "version": 2,
+        "changeset": 158111915,
         "amenity": "school",
-        "name": "E.M. Francisca Coan",
+        "short_name": "E.M. Francisca Coan",
         "id": "way/584451792"
       },
       "geometry": {
@@ -686,11 +686,18 @@
       "type": "Feature",
       "id": "way/584451793",
       "properties": {
-        "timestamp": "2024-03-21T18:51:25Z",
-        "version": 2,
-        "changeset": 148980114,
+        "timestamp": "2024-10-20T02:15:01Z",
+        "version": 3,
+        "changeset": 158111915,
+        "addr:housenumber": "951",
+        "addr:postcode": "13505-315",
+        "addr:street": "Rua M Vinte e Dois",
+        "addr:suburb": "Jardim Ipanema",
         "amenity": "school",
-        "name": "Escola Estadual Prof. Nelson Stroili",
+        "official_name": "Escola Estadual Professor Nelson Stroili",
+        "operator": "Secretaria da Educação do Estado de São Paulo",
+        "operator:type": "government",
+        "religion": "none",
         "id": "way/584451793"
       },
       "geometry": {
@@ -929,11 +936,12 @@
       "type": "Feature",
       "id": "way/584463427",
       "properties": {
-        "timestamp": "2024-03-16T22:58:54Z",
-        "version": 2,
-        "changeset": 148753123,
+        "timestamp": "2024-10-20T02:09:02Z",
+        "version": 3,
+        "changeset": 158111837,
         "amenity": "school",
-        "name": "EM Armando Grisi",
+        "religion": "none",
+        "short_name": "EM Armando Grisi",
         "id": "way/584463427"
       },
       "geometry": {
@@ -1699,6 +1707,162 @@
             [
               -47.5782171,
               -22.4261706
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1326158643",
+      "properties": {
+        "timestamp": "2024-10-20T00:47:11Z",
+        "version": 2,
+        "changeset": 158110976,
+        "amenity": "school",
+        "id": "way/1326158643"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.5860833,
+              -22.4543017
+            ],
+            [
+              -47.5855737,
+              -22.4544666
+            ],
+            [
+              -47.5851123,
+              -22.4546463
+            ],
+            [
+              -47.5848092,
+              -22.4536572
+            ],
+            [
+              -47.5849568,
+              -22.45363
+            ],
+            [
+              -47.5849755,
+              -22.4536622
+            ],
+            [
+              -47.5856461,
+              -22.4534936
+            ],
+            [
+              -47.5856273,
+              -22.4534363
+            ],
+            [
+              -47.58574,
+              -22.4534044
+            ],
+            [
+              -47.5857845,
+              -22.4534196
+            ],
+            [
+              -47.5858229,
+              -22.4534546
+            ],
+            [
+              -47.5860833,
+              -22.4543017
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1326158645",
+      "properties": {
+        "timestamp": "2024-10-20T00:47:11Z",
+        "version": 2,
+        "changeset": 158110976,
+        "addr:street": "Rua Dezessete Jn",
+        "amenity": "school",
+        "religion": "none",
+        "id": "way/1326158645"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.5879661,
+              -22.4563253
+            ],
+            [
+              -47.5874429,
+              -22.4566411
+            ],
+            [
+              -47.5874572,
+              -22.4564108
+            ],
+            [
+              -47.5873362,
+              -22.4562135
+            ],
+            [
+              -47.5871547,
+              -22.4559833
+            ],
+            [
+              -47.5875568,
+              -22.4557432
+            ],
+            [
+              -47.5879661,
+              -22.4563253
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1326165602",
+      "properties": {
+        "timestamp": "2024-10-20T02:09:02Z",
+        "version": 1,
+        "changeset": 158111837,
+        "amenity": "school",
+        "id": "way/1326165602"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.5868188,
+              -22.3907035
+            ],
+            [
+              -47.5864701,
+              -22.3915194
+            ],
+            [
+              -47.5861241,
+              -22.3914054
+            ],
+            [
+              -47.5860704,
+              -22.3913161
+            ],
+            [
+              -47.5863762,
+              -22.3905522
+            ],
+            [
+              -47.5868188,
+              -22.3907035
             ]
           ]
         ]

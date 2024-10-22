@@ -654,13 +654,25 @@
       "type": "Feature",
       "id": "way/584463426",
       "properties": {
-        "timestamp": "2024-03-16T22:15:46Z",
-        "version": 2,
-        "changeset": 148752209,
+        "timestamp": "2024-10-20T02:09:02Z",
+        "version": 4,
+        "changeset": 158111837,
+        "addr:housenumber": "4219",
+        "addr:postcode": "13504-365",
+        "addr:street": "Rua Vinte e Um",
+        "addr:suburb": "Jardim Wenzel",
         "amenity": "clinic",
         "building": "yes",
         "healthcare": "clinic",
-        "name": "UBS Wenzel",
+        "healthcare:speciality": "general;vaccination",
+        "name": "Unidade Básica de Saúde Doutor Mario Fittipaldi",
+        "opening_hours": "MO-Fr 07:00-16:00; PH off",
+        "operator": "Fundação Municipal de Saúde",
+        "operator:type": "government",
+        "phone": "+55 19 3533 3343",
+        "ref:CNES": "2030462",
+        "short_name": "UBS Wenzel",
+        "source": "https://rioclaro.sp.gov.br/unidades-basicas-de-saude/;CNES",
         "id": "way/584463426"
       },
       "geometry": {
@@ -668,24 +680,56 @@
         "coordinates": [
           [
             [
-              -47.5870226,
-              -22.3895637
+              -47.5870866,
+              -22.3893511
             ],
             [
-              -47.5867987,
-              -22.3894805
+              -47.5869328,
+              -22.3893069
             ],
             [
-              -47.5870262,
-              -22.3889572
+              -47.5870503,
+              -22.3890224
             ],
             [
-              -47.5872502,
-              -22.3890405
+              -47.5870996,
+              -22.3890329
             ],
             [
-              -47.5870226,
-              -22.3895637
+              -47.5871271,
+              -22.3889968
+            ],
+            [
+              -47.5872061,
+              -22.3890285
+            ],
+            [
+              -47.5871917,
+              -22.3890704
+            ],
+            [
+              -47.5871994,
+              -22.3890754
+            ],
+            [
+              -47.5871069,
+              -22.3892924
+            ],
+            [
+              -47.587081,
+              -22.3892759
+            ],
+            [
+              -47.5870723,
+              -22.3892986
+            ],
+            [
+              -47.5870955,
+              -22.3893079
+            ],
+            [
+              -47.5870866,
+              -22.3893511
             ]
           ]
         ]

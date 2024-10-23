@@ -609,13 +609,25 @@
       "type": "Feature",
       "id": "way/584463424",
       "properties": {
-        "timestamp": "2018-04-29T19:58:23Z",
-        "version": 1,
-        "changeset": 58536495,
+        "timestamp": "2024-10-21T00:45:52Z",
+        "version": 2,
+        "changeset": 158149554,
+        "addr:housenumber": "1390",
+        "addr:postcode": "13504-651",
+        "addr:street": "Avenida 64 PA",
+        "addr:suburb": "Jardim Panorama",
         "amenity": "clinic",
         "building": "yes",
         "healthcare": "clinic",
-        "name": "USF Jd. Panorama",
+        "healthcare:speciality": "general",
+        "name": "Unidade de Saúde da Família Doutor Oswaldo Akamine",
+        "opening_hours": "Mo-Fr 07:00-16:00; PH off",
+        "operator": "Fundação de Saúde",
+        "operator:type": "government",
+        "phone": "+55 19 3532 5377",
+        "ref:CNES": "5981921",
+        "short_name": "USF Panorama",
+        "source": "CNES;https://rioclaro.sp.gov.br/autarquia/fundacao-de-saude/",
         "id": "way/584463424"
       },
       "geometry": {
@@ -623,28 +635,32 @@
         "coordinates": [
           [
             [
-              -47.5903244,
-              -22.387533
+              -47.5902998,
+              -22.3874924
             ],
             [
-              -47.5901343,
-              -22.3876176
+              -47.5901995,
+              -22.387542
             ],
             [
-              -47.5900517,
-              -22.3874601
+              -47.5901764,
+              -22.3874991
             ],
             [
-              -47.5899849,
-              -22.386988
+              -47.5901165,
+              -22.387332
             ],
             [
-              -47.5900342,
-              -22.386959
+              -47.5901851,
+              -22.3872965
             ],
             [
-              -47.5903244,
-              -22.387533
+              -47.59026,
+              -22.3874496
+            ],
+            [
+              -47.5902998,
+              -22.3874924
             ]
           ]
         ]
@@ -739,13 +755,22 @@
       "type": "Feature",
       "id": "way/584463429",
       "properties": {
-        "timestamp": "2018-04-29T19:58:24Z",
-        "version": 1,
-        "changeset": 58536495,
+        "timestamp": "2024-10-21T14:24:43Z",
+        "version": 4,
+        "changeset": 158172988,
+        "addr:street": "Rua Vinte e Cinco Se",
+        "addr:suburb": "Jardim Residencial Santa Eliza",
         "amenity": "clinic",
         "building": "yes",
         "healthcare": "clinic",
-        "name": "USF Santa Elisa",
+        "healthcare:speciality": "general",
+        "name": "Unidade de Saúde da Família Doutor Acácio Jorge",
+        "opening_hours": "Mo-Fr 07:00-17:00; PH off",
+        "operator": "Fundação Municipal de Saúde",
+        "operator:type": "government",
+        "ref:CNES": "9422005",
+        "short_name": "USF Santa Elisa",
+        "source": "CNES",
         "id": "way/584463429"
       },
       "geometry": {
@@ -753,24 +778,44 @@
         "coordinates": [
           [
             [
-              -47.5897648,
-              -22.3964266
+              -47.5896611,
+              -22.3963473
             ],
             [
-              -47.5895267,
-              -22.3966555
+              -47.5896059,
+              -22.3964
             ],
             [
-              -47.5893819,
-              -22.3964914
+              -47.5896341,
+              -22.3964411
             ],
             [
-              -47.5896364,
-              -22.3962971
+              -47.5895865,
+              -22.3964859
             ],
             [
-              -47.5897648,
-              -22.3964266
+              -47.5895503,
+              -22.3964615
+            ],
+            [
+              -47.5894742,
+              -22.3965182
+            ],
+            [
+              -47.5894178,
+              -22.3964656
+            ],
+            [
+              -47.5895965,
+              -22.3962953
+            ],
+            [
+              -47.5896328,
+              -22.3963268
+            ],
+            [
+              -47.5896611,
+              -22.3963473
             ]
           ]
         ]

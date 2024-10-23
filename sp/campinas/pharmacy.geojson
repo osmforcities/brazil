@@ -1286,20 +1286,20 @@
       "type": "Feature",
       "id": "node/1732405945",
       "properties": {
-        "timestamp": "2024-10-11T12:13:20Z",
-        "version": 6,
-        "changeset": 157754419,
+        "timestamp": "2024-10-21T10:50:02Z",
+        "version": 7,
+        "changeset": 158164087,
         "addr:city": "Campinas",
-        "addr:housenumber": "1117/1125",
+        "addr:housenumber": "1117",
         "addr:postcode": "13070-711",
         "addr:street": "Avenida Doutor Alberto Sarmento",
-        "addr:suburb": "Castelo",
+        "addr:suburb": "Bonfim",
         "amenity": "pharmacy",
         "dispensing": "no",
         "healthcare": "pharmacy",
-        "name": "PoupaFarma",
+        "name": "Nissei",
         "phone": "+55 19 35000705",
-        "website": "https://www.poupafarma.com.br/",
+        "website": "https://www.farmaciasnissei.com.br",
         "id": "node/1732405945"
       },
       "geometry": {
@@ -2872,9 +2872,14 @@
       "type": "Feature",
       "id": "node/8445432262",
       "properties": {
-        "timestamp": "2024-10-11T12:13:20Z",
-        "version": 2,
-        "changeset": 157754419,
+        "timestamp": "2024-10-21T10:50:02Z",
+        "version": 3,
+        "changeset": 158164087,
+        "addr:city": "Campinas",
+        "addr:housenumber": "2222",
+        "addr:postcode": "13070-001",
+        "addr:street": "Avenida Andrade Neves",
+        "addr:suburb": "Jardim Chapadão",
         "amenity": "pharmacy",
         "brand": "Drogaria São Paulo",
         "brand:wikidata": "Q5308184",
@@ -2882,6 +2887,7 @@
         "dispensing": "yes",
         "healthcare": "pharmacy",
         "name": "Drogaria São Paulo",
+        "opening_hours": "24/7",
         "id": "node/8445432262"
       },
       "geometry": {
@@ -3242,6 +3248,33 @@
         "coordinates": [
           -47.0733171,
           -22.8834563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12273180593",
+      "properties": {
+        "timestamp": "2024-10-21T10:50:02Z",
+        "version": 1,
+        "changeset": 158164087,
+        "addr:city": "Campinas",
+        "addr:housenumber": "2260",
+        "addr:postcode": "13070-001",
+        "addr:street": "Avenida Andrade Neves",
+        "addr:suburb": "Jardim Chapadão",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "mobile": "+55 (19) 97136-1602",
+        "name": "Ultrafarma",
+        "phone": "+55 (19) 2660-4266",
+        "id": "node/12273180593"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0764463,
+          -22.8897668
         ]
       }
     }

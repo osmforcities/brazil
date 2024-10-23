@@ -5200,6 +5200,170 @@
     },
     {
       "type": "Feature",
+      "id": "way/1326386118",
+      "properties": {
+        "timestamp": "2024-10-21T01:55:29Z",
+        "version": 1,
+        "changeset": 158150412,
+        "addr:city": "Niterói",
+        "addr:housenumber": "363",
+        "addr:postcode": "24350350",
+        "addr:street": "Rua Américo Alves da Costa",
+        "addr:suburb": "Piratininga",
+        "amenity": "school",
+        "branch": "Piratininga",
+        "name": "Canadian School of Niterói",
+        "name:en": "Canadian School of Niterói",
+        "name:pt": "Escola Canadense de Niterói",
+        "website": "https://www.canadianschoolniteroi.com.br/",
+        "id": "way/1326386118"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.065668,
+              -22.9381298
+            ],
+            [
+              -43.0659518,
+              -22.9383923
+            ],
+            [
+              -43.0660889,
+              -22.938519
+            ],
+            [
+              -43.0658771,
+              -22.9387133
+            ],
+            [
+              -43.065792,
+              -22.9386346
+            ],
+            [
+              -43.0655885,
+              -22.9388214
+            ],
+            [
+              -43.0654546,
+              -22.9386975
+            ],
+            [
+              -43.0653407,
+              -22.9385923
+            ],
+            [
+              -43.065552,
+              -22.9383984
+            ],
+            [
+              -43.065464,
+              -22.938317
+            ],
+            [
+              -43.065668,
+              -22.9381298
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1326387117",
+      "properties": {
+        "timestamp": "2024-10-21T02:05:06Z",
+        "version": 1,
+        "changeset": 158150527,
+        "addr:city": "Niterói",
+        "addr:housenumber": "132",
+        "addr:postcode": "24346-082",
+        "addr:street": "Rua Antonio Nascimento Cottas",
+        "addr:suburb": "Itaipu",
+        "amenity": "school",
+        "branch": "Expansão Itacoatiara",
+        "name": "Canadian School of Niterói",
+        "name:en": "Canadian School of Niterói",
+        "name:pt": "Escola Canadense de Niterói",
+        "website": "https://www.canadianschoolniteroi.com.br/",
+        "id": "way/1326387117"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.0342419,
+              -22.9620181
+            ],
+            [
+              -43.0351941,
+              -22.9618611
+            ],
+            [
+              -43.0353255,
+              -22.9625367
+            ],
+            [
+              -43.0351284,
+              -22.9625691
+            ],
+            [
+              -43.0351222,
+              -22.962537
+            ],
+            [
+              -43.0350385,
+              -22.9625508
+            ],
+            [
+              -43.0350346,
+              -22.962531
+            ],
+            [
+              -43.0349014,
+              -22.962553
+            ],
+            [
+              -43.0348626,
+              -22.9625594
+            ],
+            [
+              -43.0348599,
+              -22.9625454
+            ],
+            [
+              -43.0345172,
+              -22.9626019
+            ],
+            [
+              -43.0345229,
+              -22.9626311
+            ],
+            [
+              -43.0342164,
+              -22.9626816
+            ],
+            [
+              -43.0341561,
+              -22.9623716
+            ],
+            [
+              -43.0343059,
+              -22.9623469
+            ],
+            [
+              -43.0342419,
+              -22.9620181
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/452654175",
       "properties": {
         "timestamp": "2024-05-26T16:06:43Z",
@@ -7575,6 +7739,60 @@
         "coordinates": [
           -43.0977238,
           -22.8983495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12272202834",
+      "properties": {
+        "timestamp": "2024-10-21T01:55:29Z",
+        "version": 1,
+        "changeset": 158150412,
+        "entrance": "main",
+        "id": "node/12272202834"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.0659518,
+          -22.9383923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12272202835",
+      "properties": {
+        "timestamp": "2024-10-21T01:55:29Z",
+        "version": 1,
+        "changeset": 158150412,
+        "entrance": "yes",
+        "id": "node/12272202835"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.0654546,
+          -22.9386975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12272224345",
+      "properties": {
+        "timestamp": "2024-10-21T02:05:06Z",
+        "version": 1,
+        "changeset": 158150527,
+        "entrance": "yes",
+        "id": "node/12272224345"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.0349014,
+          -22.962553
         ]
       }
     }

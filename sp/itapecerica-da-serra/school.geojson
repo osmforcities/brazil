@@ -3503,6 +3503,85 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1327114790",
+      "properties": {
+        "timestamp": "2024-10-21T22:20:49Z",
+        "version": 1,
+        "changeset": 158189603,
+        "addr:city": "Cotia",
+        "addr:housenumber": "351",
+        "addr:postcode": "06724100",
+        "addr:street": "Estrada do Caputera",
+        "addr:suburb": "Ressaca",
+        "amenity": "school",
+        "capacity": "360",
+        "grades": "1-5",
+        "mobile": "11916212144",
+        "name": "EM Elydia Scopel Cremonezzi",
+        "opening_hours": "We-Fr 08:00-12:00, 13:00-17:00; Mo 07:00-17:40",
+        "operator": "Prefeitura",
+        "operator:type": "government",
+        "id": "way/1327114790"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.8966352,
+              -23.680806
+            ],
+            [
+              -46.8965387,
+              -23.6811256
+            ],
+            [
+              -46.8961422,
+              -23.6810211
+            ],
+            [
+              -46.8962364,
+              -23.680898
+            ],
+            [
+              -46.8963183,
+              -23.6807911
+            ],
+            [
+              -46.8966254,
+              -23.6807869
+            ],
+            [
+              -46.8966352,
+              -23.680806
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12277488031",
+      "properties": {
+        "timestamp": "2024-10-21T22:20:49Z",
+        "version": 1,
+        "changeset": 158189603,
+        "addr:city": "Cotia",
+        "addr:housenumber": "351",
+        "addr:postcode": "06724100",
+        "addr:street": "Estrada do Caputera",
+        "id": "node/12277488031"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.8962364,
+          -23.680898
+        ]
+      }
     }
   ]
 }

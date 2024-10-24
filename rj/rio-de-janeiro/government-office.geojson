@@ -5496,11 +5496,21 @@
       "type": "Feature",
       "id": "node/5126280223",
       "properties": {
-        "timestamp": "2017-09-24T12:15:30Z",
-        "version": 1,
-        "changeset": 52327122,
-        "name": "BAMRJ",
+        "timestamp": "2024-10-22T20:58:03Z",
+        "version": 2,
+        "changeset": 158229138,
+        "addr:city": "Rio de Janeiro",
+        "addr:housenumber": "10500",
+        "addr:postcode": "21030-001",
+        "addr:street": "Avenida Brasil",
+        "addr:suburb": "Penha",
+        "email": "bamrj.secom@marinha.mil.br",
+        "government": "government",
+        "name": "Base de Abastecimento da Marinha no Rio de Janeiro (BAMRJ)",
         "office": "government",
+        "phone": "(21) 2101-0705",
+        "short_name": "BAMRJ",
+        "website": "https://www.marinha.mil.br/dabm/BAMRJ",
         "id": "node/5126280223"
       },
       "geometry": {
@@ -6241,6 +6251,35 @@
         "coordinates": [
           -43.3200001,
           -22.8234234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12279667901",
+      "properties": {
+        "timestamp": "2024-10-22T21:00:22Z",
+        "version": 2,
+        "changeset": 158229201,
+        "addr:city": "Rio de Janeiro",
+        "addr:housenumber": "10500",
+        "addr:postcode": "21030-001",
+        "addr:street": "Avenida Brasil",
+        "addr:suburb": "Penha",
+        "email": "cianb.secom@marinha.mil.brnb",
+        "government": "government",
+        "name": "Centro de Instrução e Adestramento Almirante Newton Braga (CIANB)",
+        "office": "government",
+        "opening_hours": "Su-Th 08:00-16:30",
+        "phone": "(21) 2101-0969",
+        "website": "http://www.marinha.mil.br/cianb",
+        "id": "node/12279667901"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2594524,
+          -22.8349405
         ]
       }
     }

@@ -380,6 +380,58 @@
     },
     {
       "type": "Feature",
+      "id": "way/1327388943",
+      "properties": {
+        "timestamp": "2024-10-22T23:15:47Z",
+        "version": 1,
+        "changeset": 158232044,
+        "addr:housenumber": "1760",
+        "addr:postcode": "13500-270",
+        "addr:street": "Rua 14",
+        "addr:suburb": "Santa Cruz",
+        "amenity": "pharmacy",
+        "brand": "Droga Raia",
+        "brand:wikidata": "Q10357101",
+        "building": "yes",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Droga Raia",
+        "opening_hours": "Mo-Su,PH 07:00-23:00",
+        "phone": "+55 19 3532 5615",
+        "website": "https://www.drogaraia.com.br/",
+        "id": "way/1327388943"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.5784312,
+              -22.3937741
+            ],
+            [
+              -47.5784849,
+              -22.3938113
+            ],
+            [
+              -47.5783347,
+              -22.3939377
+            ],
+            [
+              -47.5782864,
+              -22.3938857
+            ],
+            [
+              -47.5784312,
+              -22.3937741
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/4279229408",
       "properties": {
         "timestamp": "2016-07-03T01:00:15Z",
@@ -447,6 +499,29 @@
         "coordinates": [
           -47.57181,
           -22.4142768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12280152525",
+      "properties": {
+        "timestamp": "2024-10-22T23:15:47Z",
+        "version": 1,
+        "changeset": 158232044,
+        "addr:street": "Avenida 40",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Drogal",
+        "id": "node/12280152525"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.577699,
+          -22.3941064
         ]
       }
     }

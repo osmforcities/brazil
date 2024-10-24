@@ -4609,6 +4609,130 @@
     },
     {
       "type": "Feature",
+      "id": "way/202894508",
+      "properties": {
+        "timestamp": "2024-10-22T22:16:15Z",
+        "version": 6,
+        "changeset": 158231001,
+        "addr:city": "Niterói",
+        "addr:street": "Rua Presidente Backer",
+        "addr:suburb": "Icaraí",
+        "leisure": "stadium",
+        "name": "Estádio Caio Martins",
+        "operator": "Governo do Estado do Rio de Janeiro",
+        "sport": "baseball",
+        "id": "way/202894508"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.1069954,
+              -22.9007442
+            ],
+            [
+              -43.1062505,
+              -22.9014177
+            ],
+            [
+              -43.1062085,
+              -22.9014442
+            ],
+            [
+              -43.1061615,
+              -22.9014476
+            ],
+            [
+              -43.1061286,
+              -22.9014274
+            ],
+            [
+              -43.1058765,
+              -22.9012073
+            ],
+            [
+              -43.105919,
+              -22.9011663
+            ],
+            [
+              -43.1052027,
+              -22.9005364
+            ],
+            [
+              -43.1051592,
+              -22.9005785
+            ],
+            [
+              -43.1048557,
+              -22.900318
+            ],
+            [
+              -43.1048561,
+              -22.9002906
+            ],
+            [
+              -43.1055236,
+              -22.8995153
+            ],
+            [
+              -43.1057046,
+              -22.8995085
+            ],
+            [
+              -43.1057469,
+              -22.8995376
+            ],
+            [
+              -43.1057384,
+              -22.8995764
+            ],
+            [
+              -43.10577,
+              -22.8996028
+            ],
+            [
+              -43.1058097,
+              -22.8995926
+            ],
+            [
+              -43.1062776,
+              -22.9000229
+            ],
+            [
+              -43.1065357,
+              -22.9002605
+            ],
+            [
+              -43.1067979,
+              -22.900488
+            ],
+            [
+              -43.1067898,
+              -22.9005323
+            ],
+            [
+              -43.1068301,
+              -22.900566
+            ],
+            [
+              -43.1068801,
+              -22.9005689
+            ],
+            [
+              -43.1070129,
+              -22.900678
+            ],
+            [
+              -43.1069954,
+              -22.9007442
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/237236281",
       "properties": {
         "timestamp": "2021-02-18T01:55:23Z",
@@ -8916,11 +9040,14 @@
       "type": "Feature",
       "id": "way/1037349268",
       "properties": {
-        "timestamp": "2022-03-05T14:38:49Z",
-        "version": 1,
-        "changeset": 118128692,
+        "timestamp": "2024-10-22T22:16:15Z",
+        "version": 2,
+        "changeset": 158231001,
+        "access": "yes",
         "leisure": "pitch",
-        "sport": "soccer",
+        "name": "Caio Martins",
+        "sport": "soccer;baseball",
+        "surface": "grass",
         "id": "way/1037349268"
       },
       "geometry": {
@@ -11179,6 +11306,29 @@
     },
     {
       "type": "Feature",
+      "id": "node/4602026025",
+      "properties": {
+        "timestamp": "2024-10-22T22:42:33Z",
+        "version": 2,
+        "changeset": 158231448,
+        "addr:city": "Niterói",
+        "addr:street": "Alameda São Boaventura",
+        "addr:suburb": "Fonseca",
+        "leisure": "fitness_centre",
+        "name": "Smart Fit",
+        "sport": "fitness",
+        "id": "node/4602026025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.0923215,
+          -22.8814966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/6446228371",
       "properties": {
         "timestamp": "2022-10-23T20:19:24Z",
@@ -11724,6 +11874,33 @@
         "coordinates": [
           -43.127266,
           -22.9078753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12280001897",
+      "properties": {
+        "timestamp": "2024-10-22T22:42:33Z",
+        "version": 1,
+        "changeset": 158231448,
+        "addr:city": "Niterói",
+        "addr:housenumber": "43",
+        "addr:postcode": "24120-210",
+        "addr:street": "Rua Leite Ribeiro",
+        "addr:suburb": "Fonseca",
+        "leisure": "fitness_centre",
+        "name": "Espaço Conviver",
+        "phone": "(21) 99393-6345",
+        "sport": "fitness;swimming",
+        "website": "https://www.instagram.com/academiaespacoconviver/",
+        "id": "node/12280001897"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.0938235,
+          -22.8821755
         ]
       }
     }

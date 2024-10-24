@@ -3,27 +3,50 @@
   "features": [
     {
       "type": "Feature",
-      "id": "node/12258852980",
+      "id": "way/1327243798",
       "properties": {
-        "timestamp": "2024-10-21T19:18:37Z",
-        "version": 2,
-        "changeset": 158184506,
+        "timestamp": "2024-10-22T13:40:14Z",
+        "version": 1,
+        "changeset": 158212479,
         "addr:city": "Itapebi",
         "addr:postcode": "45855-000",
         "addr:state": "Bahia",
         "addr:street": "Praça Dois de Julho",
         "addr:suburb": "Cidade Baixa de Itapebi",
         "amenity": "clinic",
+        "building": "yes",
+        "building:levels": "1",
         "healthcare": "clinic",
         "name": "Posto de Saúde Joathan Cardoso Ribeiro",
         "operator": "Município de Itapebi",
-        "id": "node/12258852980"
+        "source": "microsoft/BuildingFootprints",
+        "id": "way/1327243798"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -39.5246807,
-          -15.9514391
+          [
+            [
+              -39.5247364,
+              -15.9515457
+            ],
+            [
+              -39.5245685,
+              -15.9514865
+            ],
+            [
+              -39.5246037,
+              -15.9513944
+            ],
+            [
+              -39.5247715,
+              -15.9514535
+            ],
+            [
+              -39.5247364,
+              -15.9515457
+            ]
+          ]
         ]
       }
     },

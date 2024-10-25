@@ -2469,11 +2469,12 @@
       "type": "Feature",
       "id": "way/1263262236",
       "properties": {
-        "timestamp": "2024-10-22T20:52:58Z",
-        "version": 2,
-        "changeset": 158228997,
+        "timestamp": "2024-10-23T12:12:11Z",
+        "version": 4,
+        "changeset": 158250303,
         "amenity": "school",
         "building": "yes",
+        "name": "Escola estadual de ensino fundamental e médio Benjamin Constant",
         "id": "way/1263262236"
       },
       "geometry": {
@@ -2519,6 +2520,10 @@
             [
               -48.4929441,
               -1.4473895
+            ],
+            [
+              -48.4929323,
+              -1.4473806
             ],
             [
               -48.4929179,
@@ -4978,6 +4983,48 @@
         "coordinates": [
           -48.4752165,
           -1.4155267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12281654505",
+      "properties": {
+        "timestamp": "2024-10-23T12:10:56Z",
+        "version": 1,
+        "changeset": 158250215,
+        "leaf_type": "broadleaved",
+        "natural": "tree",
+        "id": "node/12281654505"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.4929323,
+          -1.4473806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12281700900",
+      "properties": {
+        "timestamp": "2024-10-23T12:33:38Z",
+        "version": 1,
+        "changeset": 158251212,
+        "addr:street": "Travessa Benjamin Constant",
+        "amenity": "school",
+        "grades": "6-9(ensino fumdamental) 1-3(ensino médio)",
+        "name": "escola benjamin",
+        "operator": "marcia",
+        "operator:type": "public",
+        "id": "node/12281700900"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.4928513,
+          -1.4472191
         ]
       }
     }

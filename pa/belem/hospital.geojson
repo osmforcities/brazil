@@ -793,9 +793,9 @@
       "type": "Feature",
       "id": "way/685123713",
       "properties": {
-        "timestamp": "2020-06-18T07:04:08Z",
-        "version": 2,
-        "changeset": 86807602,
+        "timestamp": "2024-10-23T12:36:10Z",
+        "version": 3,
+        "changeset": 158251322,
         "alt_name": "Unimed",
         "amenity": "hospital",
         "building": "yes",
@@ -818,6 +818,10 @@
             [
               -48.4920296,
               -1.4432406
+            ],
+            [
+              -48.4919451,
+              -1.4431246
             ],
             [
               -48.4917225,
@@ -1481,6 +1485,26 @@
         "coordinates": [
           -48.4912586,
           -1.3989541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12281670054",
+      "properties": {
+        "timestamp": "2024-10-23T12:12:50Z",
+        "version": 1,
+        "changeset": 158250350,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "hospital psiquiatrico",
+        "id": "node/12281670054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.4932091,
+          -1.4483188
         ]
       }
     }

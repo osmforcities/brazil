@@ -50,13 +50,18 @@
       "type": "Feature",
       "id": "way/681901930",
       "properties": {
-        "timestamp": "2023-01-24T01:56:36Z",
-        "version": 4,
-        "changeset": 131630172,
+        "timestamp": "2024-10-23T20:47:55Z",
+        "version": 5,
+        "changeset": 158271105,
         "access": "yes",
+        "addr:city": "Santo Amaro da Imperatriz",
+        "addr:housenumber": "3267",
+        "addr:postcode": "88140-000",
+        "addr:street": "Rua Leopoldo Broering",
+        "addr:suburb": "Vila Becker",
         "alt_name": "E.E.B. Professora Zulma Becker",
         "amenity": "school",
-        "name": "Escola Professora Zulma Becker",
+        "name": "E.E.B Professora Zulma Becker",
         "official_name": "Escola Estadual Básica Professora Zulma Becker",
         "operator": "Governo do Estado de Santa Catarina",
         "operator:type": "government",
@@ -139,9 +144,9 @@
       "type": "Feature",
       "id": "way/1022398115",
       "properties": {
-        "timestamp": "2023-01-24T12:55:28Z",
-        "version": 5,
-        "changeset": 131650731,
+        "timestamp": "2024-10-23T20:47:55Z",
+        "version": 6,
+        "changeset": 158271105,
         "access": "yes",
         "addr:city": "Santo Amaro da Imperatriz",
         "addr:housenumber": "4192",
@@ -149,7 +154,7 @@
         "addr:street": "Rua São Sebastião",
         "addr:suburb": "Sul do Rio",
         "amenity": "school",
-        "name": "Escola Professor Silveira de Matos",
+        "name": "E.E.B Professor Silveira de Matos",
         "official_name": "Escola de Educação Básica Professor Silveira de Matos",
         "operator": "Governo do Estado de Santa Catarina",
         "operator:type": "government",
@@ -534,9 +539,9 @@
       "type": "Feature",
       "id": "way/1325499411",
       "properties": {
-        "timestamp": "2024-10-18T20:53:01Z",
-        "version": 1,
-        "changeset": 158067634,
+        "timestamp": "2024-10-23T20:47:55Z",
+        "version": 2,
+        "changeset": 158271105,
         "addr:city": "Santo Amaro da Imperatriz",
         "addr:postcode": "88140-000",
         "addr:street": "Rua Gustavo João de Farias",
@@ -544,6 +549,7 @@
         "amenity": "school",
         "name": "E.B.M Professora Maria Andréia Goulart Hilleshein",
         "operator": "Prefeitura de Santo Amaro da Imperatriz",
+        "operator:type": "public",
         "id": "way/1325499411"
       },
       "geometry": {
@@ -686,20 +692,112 @@
     },
     {
       "type": "Feature",
-      "id": "node/10865602882",
+      "id": "way/1327629758",
       "properties": {
-        "timestamp": "2023-05-03T18:10:49Z",
+        "timestamp": "2024-10-23T20:47:55Z",
         "version": 1,
-        "changeset": 135671924,
+        "changeset": 158271105,
+        "addr:city": "Santo Amaro da Imperatriz",
+        "addr:housenumber": "965",
+        "addr:postcode": "88140-000",
+        "addr:street": "Rua Presidente Castelo Branco",
+        "addr:suburb": "Calemba",
         "amenity": "school",
-        "name": "Escola Básica Municipal Alvim Duarte da Silva",
-        "id": "node/10865602882"
+        "name": "E.B.M Alvim Duarte da Silva",
+        "operator": "Prefeitura de Santo Amaro da Imperatriz",
+        "id": "way/1327629758"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -48.7537512,
-          -27.6721099
+          [
+            [
+              -48.7535441,
+              -27.6720204
+            ],
+            [
+              -48.753583,
+              -27.6719971
+            ],
+            [
+              -48.7540987,
+              -27.6719223
+            ],
+            [
+              -48.7541817,
+              -27.6719331
+            ],
+            [
+              -48.75428,
+              -27.6719783
+            ],
+            [
+              -48.7542415,
+              -27.6720421
+            ],
+            [
+              -48.7541132,
+              -27.6722344
+            ],
+            [
+              -48.7540231,
+              -27.6721853
+            ],
+            [
+              -48.7535452,
+              -27.6721805
+            ],
+            [
+              -48.7535441,
+              -27.6720204
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1327629765",
+      "properties": {
+        "timestamp": "2024-10-23T20:47:55Z",
+        "version": 1,
+        "changeset": 158271105,
+        "addr:city": "Santo Amaro da Imperatriz",
+        "addr:housenumber": "2625",
+        "addr:postcode": "88140-000",
+        "addr:street": "Rua Nossa Senhora das Dores",
+        "addr:suburb": "Vila Santana",
+        "amenity": "school",
+        "name": "E.B.M Vila Santana",
+        "operator": "Prefeitura de Santo Amaro da Imperatriz",
+        "operator:type": "public",
+        "id": "way/1327629765"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.7503691,
+              -27.7075941
+            ],
+            [
+              -48.7506846,
+              -27.7075451
+            ],
+            [
+              -48.7508789,
+              -27.7085256
+            ],
+            [
+              -48.7505945,
+              -27.7087305
+            ],
+            [
+              -48.7503691,
+              -27.7075941
+            ]
+          ]
         ]
       }
     }

@@ -3,39 +3,332 @@
   "features": [
     {
       "type": "Feature",
-      "id": "node/3160171951",
+      "id": "way/1327413261",
       "properties": {
-        "timestamp": "2015-06-12T04:37:06Z",
-        "version": 2,
-        "changeset": 31911837,
+        "timestamp": "2024-10-23T02:00:55Z",
+        "version": 1,
+        "changeset": 158234430,
         "amenity": "clinic",
-        "name": "PSF Bom Sucesso",
-        "id": "node/3160171951"
+        "building": "yes",
+        "healthcare": "clinic",
+        "id": "way/1327413261"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -47.5361804,
-          -22.4569881
+          [
+            [
+              -47.5372478,
+              -22.4494431
+            ],
+            [
+              -47.5373075,
+              -22.4496248
+            ],
+            [
+              -47.5372478,
+              -22.449654
+            ],
+            [
+              -47.5371917,
+              -22.4496702
+            ],
+            [
+              -47.537125,
+              -22.4494755
+            ],
+            [
+              -47.5372478,
+              -22.4494431
+            ]
+          ]
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "node/3160356588",
+      "id": "way/1327414874",
       "properties": {
-        "timestamp": "2015-06-12T04:37:06Z",
+        "timestamp": "2024-10-23T13:53:26Z",
         "version": 2,
-        "changeset": 31911837,
+        "changeset": 158254741,
+        "addr:housenumber": "545",
+        "addr:postcode": "13510-033",
+        "addr:street": "Avenida Cinco",
+        "addr:suburb": "Centro",
         "amenity": "clinic",
-        "name": "PSF Indaiá",
-        "id": "node/3160356588"
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Unidade Básica de Saúde Margarida Polak Lara",
+        "opening_hours": "Mo-Fr 07:00-16:00; PH off",
+        "operator": "Secretaria de Saúde",
+        "operator:type": "government",
+        "phone": "+55 19 3545 3818",
+        "ref:CNES": "5784689",
+        "short_name": "UBS Margarida Polak Lara",
+        "source": "CNES",
+        "website": "https://sgc.santagertrudes.sp.gov.br/;jsessionid=E562BA3BFAC554B22FDF94EC90CEFC57/pesquisa-publica/servicos/81",
+        "id": "way/1327414874"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -47.5372438,
-          -22.4496067
+          [
+            [
+              -47.5296094,
+              -22.4590353
+            ],
+            [
+              -47.5296695,
+              -22.4591159
+            ],
+            [
+              -47.5296394,
+              -22.4591353
+            ],
+            [
+              -47.5296823,
+              -22.4591957
+            ],
+            [
+              -47.5297371,
+              -22.4591672
+            ],
+            [
+              -47.5297333,
+              -22.4591888
+            ],
+            [
+              -47.5297747,
+              -22.4592519
+            ],
+            [
+              -47.5297431,
+              -22.4592783
+            ],
+            [
+              -47.5297356,
+              -22.4592686
+            ],
+            [
+              -47.5297191,
+              -22.4592769
+            ],
+            [
+              -47.5297326,
+              -22.4592964
+            ],
+            [
+              -47.529692,
+              -22.459313
+            ],
+            [
+              -47.5296319,
+              -22.4592297
+            ],
+            [
+              -47.5295718,
+              -22.4592686
+            ],
+            [
+              -47.5295403,
+              -22.4592061
+            ],
+            [
+              -47.5295959,
+              -22.4591728
+            ],
+            [
+              -47.5295342,
+              -22.4590798
+            ],
+            [
+              -47.5295628,
+              -22.4590603
+            ],
+            [
+              -47.5295838,
+              -22.4590895
+            ],
+            [
+              -47.5296004,
+              -22.4590784
+            ],
+            [
+              -47.5295763,
+              -22.4590478
+            ],
+            [
+              -47.5296094,
+              -22.4590353
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1327644838",
+      "properties": {
+        "timestamp": "2024-10-23T22:23:25Z",
+        "version": 1,
+        "changeset": 158273296,
+        "addr:housenumber": "346",
+        "addr:postcode": "13513-056",
+        "addr:street": "Rua São Pedro",
+        "addr:suburb": "Jardim Luciana",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Unidade Básica de Futebol  João Aparecido Buschinelli",
+        "opening_hours": "Mo-Fr 07:00-16:00; PH off",
+        "operator": "Secretaria de Saúde",
+        "operator:type": "government",
+        "phone": "+55 19 3545 2702",
+        "ref:CNES": "6681174",
+        "short_name": "UBS João Aparecido Buschinelli",
+        "source": "CNES",
+        "website": "https://sgc.santagertrudes.sp.gov.br/;jsessionid=E562BA3BFAC554B22FDF94EC90CEFC57/pesquisa-publica/servicos/74",
+        "id": "way/1327644838"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.5367909,
+              -22.4547479
+            ],
+            [
+              -47.5367623,
+              -22.4548006
+            ],
+            [
+              -47.5368149,
+              -22.4548215
+            ],
+            [
+              -47.5367759,
+              -22.4549131
+            ],
+            [
+              -47.5367007,
+              -22.4548895
+            ],
+            [
+              -47.5366782,
+              -22.4549256
+            ],
+            [
+              -47.5366226,
+              -22.454902
+            ],
+            [
+              -47.5366541,
+              -22.4548548
+            ],
+            [
+              -47.536582,
+              -22.4548243
+            ],
+            [
+              -47.5366496,
+              -22.4546937
+            ],
+            [
+              -47.5367909,
+              -22.4547479
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1327652231",
+      "properties": {
+        "timestamp": "2024-10-23T23:23:30Z",
+        "version": 1,
+        "changeset": 158274511,
+        "addr:housenumber": "535",
+        "addr:postcode": "13512-240",
+        "addr:street": "Rua Olavo Basso",
+        "addr:suburb": "Jardim Parque Jequitibás",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Unidade Básica de Saúde Catarina Caetano Demarchi",
+        "opening_hours": "Mo-Fr 07:00-16:00; PH off",
+        "operator": "Secretaria de Saúde",
+        "operator:type": "government",
+        "phone": "+55 19 3545 1501",
+        "ref:CNES": "5020573",
+        "short_name": "UBS  Catarina Caetano Demarchi",
+        "source": "CNES",
+        "website": "https://sgc.santagertrudes.sp.gov.br/;jsessionid=E562BA3BFAC554B22FDF94EC90CEFC57/pesquisa-publica/servicos/85",
+        "wheelchair": "yes",
+        "id": "way/1327652231"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.5369138,
+              -22.4400778
+            ],
+            [
+              -47.5369496,
+              -22.4401515
+            ],
+            [
+              -47.5368202,
+              -22.4402052
+            ],
+            [
+              -47.5368598,
+              -22.4402866
+            ],
+            [
+              -47.5367687,
+              -22.4403244
+            ],
+            [
+              -47.5367239,
+              -22.4402321
+            ],
+            [
+              -47.53656,
+              -22.4403001
+            ],
+            [
+              -47.5365197,
+              -22.4402172
+            ],
+            [
+              -47.5366861,
+              -22.4401481
+            ],
+            [
+              -47.5366684,
+              -22.4401115
+            ],
+            [
+              -47.5367626,
+              -22.4400724
+            ],
+            [
+              -47.5367902,
+              -22.4401291
+            ],
+            [
+              -47.5369138,
+              -22.4400778
+            ]
+          ]
         ]
       }
     }

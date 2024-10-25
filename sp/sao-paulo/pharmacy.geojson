@@ -10557,6 +10557,87 @@
     },
     {
       "type": "Feature",
+      "id": "way/717672723",
+      "properties": {
+        "timestamp": "2024-10-23T15:01:44Z",
+        "version": 2,
+        "changeset": 158258337,
+        "addr:city": "São Paulo",
+        "addr:street": "Avenida Coronel Sezefredo Fagundes",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "height": "7.674",
+        "name": "Farmelhor",
+        "source": "pmsp",
+        "id": "way/717672723"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.6075831,
+              -23.4725672
+            ],
+            [
+              -46.6075663,
+              -23.4725445
+            ],
+            [
+              -46.6075061,
+              -23.472463
+            ],
+            [
+              -46.6075567,
+              -23.4724117
+            ],
+            [
+              -46.6075657,
+              -23.4724257
+            ],
+            [
+              -46.6075791,
+              -23.4724191
+            ],
+            [
+              -46.6075974,
+              -23.4724489
+            ],
+            [
+              -46.6076098,
+              -23.4724417
+            ],
+            [
+              -46.6076205,
+              -23.4724621
+            ],
+            [
+              -46.607629,
+              -23.4724582
+            ],
+            [
+              -46.6076869,
+              -23.4725386
+            ],
+            [
+              -46.6076184,
+              -23.4725855
+            ],
+            [
+              -46.6075977,
+              -23.4725577
+            ],
+            [
+              -46.6075831,
+              -23.4725672
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/717987902",
       "properties": {
         "timestamp": "2024-06-26T01:00:45Z",
@@ -24148,6 +24229,59 @@
     },
     {
       "type": "Feature",
+      "id": "way/1327552563",
+      "properties": {
+        "timestamp": "2024-10-23T15:01:44Z",
+        "version": 1,
+        "changeset": 158258337,
+        "addr:city": "São Paulo",
+        "addr:country": "BR",
+        "addr:housenumber": "1100",
+        "addr:postcode": "02306-001",
+        "addr:state": "SP",
+        "addr:street": "Avenida Coronel Sezefredo Fagundes",
+        "amenity": "pharmacy",
+        "brand": "Drogasil",
+        "brand:wikidata": "Q5308185",
+        "contact:email": "atendimento@drogasil.com.br",
+        "contact:phone": "+55 11 2203-9443;+55 11 2203-6315",
+        "contact:website": "http://www.drogasil.com.br/",
+        "healthcare": "pharmacy",
+        "name": "Drogasil",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "wheelchair": "yes",
+        "id": "way/1327552563"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.6040591,
+              -23.4691662
+            ],
+            [
+              -46.6036574,
+              -23.4692761
+            ],
+            [
+              -46.6036325,
+              -23.4692302
+            ],
+            [
+              -46.6038478,
+              -23.4690107
+            ],
+            [
+              -46.6040591,
+              -23.4691662
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/444963390",
       "properties": {
         "timestamp": "2022-04-02T15:19:33Z",
@@ -26443,35 +26577,6 @@
         "coordinates": [
           -46.6862992,
           -23.5827843
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/3809075684",
-      "properties": {
-        "timestamp": "2017-03-04T03:54:32Z",
-        "version": 2,
-        "changeset": 46563822,
-        "addr:city": "São Paulo",
-        "addr:country": "BR",
-        "addr:housenumber": "1100",
-        "addr:postcode": "02306-001",
-        "addr:state": "SP",
-        "addr:street": "Avenida Coronel Sezefredo Fagundes",
-        "amenity": "pharmacy",
-        "contact:email": "atendimento@drogasil.com.br",
-        "contact:phone": "+55 11 2203-9443;+55 11 2203-6315",
-        "contact:website": "http://www.drogasil.com.br/",
-        "name": "Drogasil",
-        "opening_hours": "Mo-Su 07:00-23:00",
-        "id": "node/3809075684"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -46.6038764,
-          -23.4691607
         ]
       }
     },

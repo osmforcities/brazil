@@ -662,11 +662,14 @@
       "type": "Feature",
       "id": "way/475960055",
       "properties": {
-        "timestamp": "2017-04-22T14:07:44Z",
-        "version": 2,
-        "changeset": 48034284,
+        "timestamp": "2024-10-24T14:35:23Z",
+        "version": 3,
+        "changeset": 158300098,
         "amenity": "pharmacy",
+        "brand": "Droga Raia",
+        "brand:wikidata": "Q10357101",
         "building": "yes",
+        "healthcare": "pharmacy",
         "name": "Droga Raia",
         "id": "way/475960055"
       },
@@ -3321,18 +3324,21 @@
       "type": "Feature",
       "id": "node/557557788",
       "properties": {
-        "timestamp": "2009-11-06T03:29:59Z",
-        "version": 1,
-        "changeset": 3045487,
+        "timestamp": "2024-10-24T20:32:16Z",
+        "version": 2,
+        "changeset": 158312831,
         "amenity": "pharmacy",
+        "brand": "Pacheco",
+        "brand:wikidata": "Q10268813",
+        "healthcare": "pharmacy",
         "name": "Pacheco",
         "id": "node/557557788"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -43.2197494,
-          -22.9837234
+          -43.2197517,
+          -22.9837038
         ]
       }
     },
@@ -8263,10 +8269,11 @@
       "type": "Feature",
       "id": "node/4711688987",
       "properties": {
-        "timestamp": "2018-05-13T21:12:00Z",
-        "version": 4,
-        "changeset": 58934327,
+        "timestamp": "2024-10-24T14:35:23Z",
+        "version": 5,
+        "changeset": 158300098,
         "amenity": "pharmacy",
+        "healthcare": "pharmacy",
         "name": "Drogaria Moderna",
         "id": "node/4711688987"
       },
@@ -11890,6 +11897,28 @@
         "coordinates": [
           -43.4722317,
           -23.0307619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12286168501",
+      "properties": {
+        "timestamp": "2024-10-24T20:21:54Z",
+        "version": 1,
+        "changeset": 158312544,
+        "addr:housenumber": "822",
+        "addr:street": "Avenida Ataulfo de Paiva",
+        "amenity": "pharmacy",
+        "name": "Drogasmil",
+        "website": "http://www.drogasmil.com.br",
+        "id": "node/12286168501"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2238128,
+          -22.9843932
         ]
       }
     }

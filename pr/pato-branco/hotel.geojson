@@ -3,6 +3,116 @@
   "features": [
     {
       "type": "Feature",
+      "id": "way/1327664784",
+      "properties": {
+        "timestamp": "2024-10-24T00:52:50Z",
+        "version": 2,
+        "changeset": 158275823,
+        "building": "hotel",
+        "name": "Luz Hotel",
+        "rooms": "74",
+        "tourism": "hotel",
+        "id": "way/1327664784"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -52.6730366,
+              -26.2288244
+            ],
+            [
+              -52.6738798,
+              -26.2287312
+            ],
+            [
+              -52.6739007,
+              -26.2287634
+            ],
+            [
+              -52.6738468,
+              -26.2288497
+            ],
+            [
+              -52.6732792,
+              -26.2289123
+            ],
+            [
+              -52.6733019,
+              -26.2290774
+            ],
+            [
+              -52.6732688,
+              -26.229081
+            ],
+            [
+              -52.6732859,
+              -26.2292052
+            ],
+            [
+              -52.6730919,
+              -26.2292266
+            ],
+            [
+              -52.6730366,
+              -26.2288244
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1327675335",
+      "properties": {
+        "timestamp": "2024-10-24T00:52:50Z",
+        "version": 1,
+        "changeset": 158275823,
+        "building": "yes",
+        "name": "Regente Hotel",
+        "rooms": "80",
+        "tourism": "hotel",
+        "id": "way/1327675335"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -52.673862,
+              -26.229156
+            ],
+            [
+              -52.6742134,
+              -26.2293226
+            ],
+            [
+              -52.6741457,
+              -26.2294374
+            ],
+            [
+              -52.6739118,
+              -26.2293264
+            ],
+            [
+              -52.673798,
+              -26.2295194
+            ],
+            [
+              -52.6736807,
+              -26.2294638
+            ],
+            [
+              -52.673862,
+              -26.229156
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/3725659450",
       "properties": {
         "timestamp": "2015-09-02T09:06:27Z",
@@ -82,28 +192,6 @@
         "coordinates": [
           -52.6740064,
           -26.2290275
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/3786443083",
-      "properties": {
-        "timestamp": "2015-10-14T18:34:41Z",
-        "version": 2,
-        "changeset": 34639068,
-        "addr:city": "Pato Branco",
-        "addr:housenumber": "584",
-        "addr:street": "Rua Tamoio",
-        "name": "Luz Hotel",
-        "tourism": "hotel",
-        "id": "node/3786443083"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -52.6738695,
-          -26.2288209
         ]
       }
     },

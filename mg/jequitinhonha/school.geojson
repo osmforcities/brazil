@@ -203,6 +203,78 @@
     },
     {
       "type": "Feature",
+      "id": "way/1236275829",
+      "properties": {
+        "timestamp": "2024-10-25T15:10:38Z",
+        "version": 3,
+        "changeset": 158342489,
+        "addr:city": "Jequitinhonha",
+        "addr:housenumber": "45",
+        "addr:postcode": "39960-000",
+        "addr:street": "Rua Espírito Santo",
+        "addr:suburb": "Vaticano",
+        "amenity": "school",
+        "name": "Escola Estadual Coronel Ramiro Pereira",
+        "operator": "Secretaria de Estado da Educação de Minas Gerais",
+        "operator:type": "public",
+        "id": "way/1236275829"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.0127254,
+              -16.4405761
+            ],
+            [
+              -41.0129216,
+              -16.4410791
+            ],
+            [
+              -41.0115027,
+              -16.4416068
+            ],
+            [
+              -41.0112968,
+              -16.4411007
+            ],
+            [
+              -41.0127254,
+              -16.4405761
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3413620334",
+      "properties": {
+        "timestamp": "2024-10-25T15:10:38Z",
+        "version": 4,
+        "changeset": 158342489,
+        "addr:city": "Jequitinhonha",
+        "addr:housenumber": "55",
+        "addr:postcode": "39960-000",
+        "addr:street": "Rua Felisburgo",
+        "amenity": "school",
+        "name": "Escola Estadual Epaminondas Ramos",
+        "operator": "Secretaria de Estado da Educação de Minas Gerais",
+        "phone": "+55 33 3741 2303",
+        "source": "IBGE",
+        "id": "node/3413620334"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.0049559,
+          -16.4368292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/3435983447",
       "properties": {
         "timestamp": "2015-04-03T22:22:05Z",
@@ -217,6 +289,80 @@
         "coordinates": [
           -41.3396741,
           -16.508683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11474786027",
+      "properties": {
+        "timestamp": "2024-10-25T15:10:38Z",
+        "version": 3,
+        "changeset": 158342489,
+        "addr:city": "Jequitinhonha",
+        "addr:housenumber": "223",
+        "addr:postcode": "39960-000",
+        "addr:street": "Rua Salvador de Castro",
+        "addr:suburb": "Alvorada",
+        "amenity": "school",
+        "name": "Escola Estadual Doutor Henrique Heitmann",
+        "id": "node/11474786027"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.0134404,
+          -16.4446141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11474786036",
+      "properties": {
+        "timestamp": "2024-10-25T15:10:38Z",
+        "version": 4,
+        "changeset": 158342489,
+        "addr:city": "Jequitinhonha",
+        "addr:housenumber": "10",
+        "addr:postcode": "39960-000",
+        "addr:street": "Rua Felisburgo",
+        "addr:suburb": "Centro",
+        "amenity": "school",
+        "name": "Escola Estadual São Miguel",
+        "operator": "Secretaria de Estado da Educação de Minas Gerais",
+        "phone": "+55 33 3741 2124",
+        "id": "node/11474786036"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.0052536,
+          -16.43686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11474786055",
+      "properties": {
+        "timestamp": "2024-10-25T15:10:38Z",
+        "version": 3,
+        "changeset": 158342489,
+        "addr:city": "Jequitinhonha",
+        "addr:housenumber": "133",
+        "addr:postcode": "39960-000",
+        "addr:street": "Rua Argentina",
+        "addr:suburb": "São José",
+        "amenity": "school",
+        "name": "Escola Municipal Doutor Antonio Lucena Peixoto",
+        "id": "node/11474786055"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.0021074,
+          -16.442657
         ]
       }
     },

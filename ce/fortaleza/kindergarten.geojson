@@ -4192,6 +4192,57 @@
     },
     {
       "type": "Feature",
+      "id": "way/1328419642",
+      "properties": {
+        "timestamp": "2024-10-26T16:59:24Z",
+        "version": 1,
+        "changeset": 158385111,
+        "addr:city": "Fortaleza",
+        "addr:housenumber": "480",
+        "addr:postcode": "60180-560",
+        "addr:street": "Rua 20 de Julho",
+        "addr:suburb": "Cais do Porto",
+        "amenity": "kindergarten",
+        "isced:level": "0",
+        "name": "Creche Rachel Guimarães Martins Barbosa",
+        "official_name": "Centro de Educação Infantil Rachel Guimarães Martins Barbosa",
+        "operator": "Secretaria Municipal da Educação de Fortaleza",
+        "operator:type": "public",
+        "short_name": "CEI Rachel Guimarães Martins Barbosa",
+        "source": "Secretaria Municipal da Educação de Fortaleza",
+        "source:date": "2024",
+        "id": "way/1328419642"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.472729,
+              -3.7225918
+            ],
+            [
+              -38.4730587,
+              -3.7227479
+            ],
+            [
+              -38.4728293,
+              -3.7232304
+            ],
+            [
+              -38.4724996,
+              -3.7230743
+            ],
+            [
+              -38.472729,
+              -3.7225918
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/383544014",
       "properties": {
         "timestamp": "2015-12-06T19:51:01Z",
@@ -4577,38 +4628,6 @@
         "coordinates": [
           -38.4749898,
           -3.7273137
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/8753562847",
-      "properties": {
-        "timestamp": "2021-05-21T16:31:56Z",
-        "version": 1,
-        "changeset": 105100849,
-        "addr:city": "Fortaleza",
-        "addr:housenumber": "480",
-        "addr:postcode": "60180-560",
-        "addr:street": "Rua 20 de Julho",
-        "addr:suburb": "Cais do Porto",
-        "amenity": "kindergarten",
-        "isced:level": "0",
-        "name": "Creche Maria Felício Lopes",
-        "official_name": "Centro de Educação Infantil Maria Felício Lopes",
-        "operator": "Secretaria Municipal da Educação de Fortaleza",
-        "operator:type": "public",
-        "ref:INEP": "23198818",
-        "short_name": "CEI Maria Felício Lopes",
-        "source": "Secretaria Municipal da Educação de Fortaleza",
-        "source:date": "2018",
-        "id": "node/8753562847"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -38.4713931,
-          -3.7222016
         ]
       }
     },

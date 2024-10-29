@@ -88313,6 +88313,78 @@
     },
     {
       "type": "Feature",
+      "id": "way/1328613720",
+      "properties": {
+        "timestamp": "2024-10-27T18:28:16Z",
+        "version": 1,
+        "changeset": 158425950,
+        "addr:street": "Praça Doutor José Oria",
+        "amenity": "school",
+        "grades": "1-4",
+        "name": "Escola Municipal de Ensino Fundamental Desembargador Theodomiro Dias",
+        "operator": "Prefeitura do Município de São Paulo",
+        "operator:type": "government",
+        "website": "http://eolgerenciamento.prefeitura.sp.gov.br/frmgerencial/menuescola.aspx?Cod=092703",
+        "id": "way/1328613720"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.7306499,
+              -23.5940461
+            ],
+            [
+              -46.7307288,
+              -23.5942632
+            ],
+            [
+              -46.7308007,
+              -23.5943681
+            ],
+            [
+              -46.7308965,
+              -23.5944673
+            ],
+            [
+              -46.7308347,
+              -23.594508
+            ],
+            [
+              -46.7302737,
+              -23.594882
+            ],
+            [
+              -46.7301974,
+              -23.5947665
+            ],
+            [
+              -46.7301264,
+              -23.5946397
+            ],
+            [
+              -46.7300483,
+              -23.5944803
+            ],
+            [
+              -46.7299951,
+              -23.5943567
+            ],
+            [
+              -46.7299614,
+              -23.5942559
+            ],
+            [
+              -46.7306499,
+              -23.5940461
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/222842154",
       "properties": {
         "timestamp": "2023-06-07T15:20:09Z",
@@ -112449,6 +112521,42 @@
         "coordinates": [
           -46.5738267,
           -23.5336588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12292183887",
+      "properties": {
+        "timestamp": "2024-10-27T18:28:16Z",
+        "version": 1,
+        "changeset": 158425950,
+        "entrance": "yes",
+        "id": "node/12292183887"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7307288,
+          -23.5942632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12292183888",
+      "properties": {
+        "timestamp": "2024-10-27T18:28:16Z",
+        "version": 1,
+        "changeset": 158425950,
+        "entrance": "main",
+        "id": "node/12292183888"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7308347,
+          -23.594508
         ]
       }
     }

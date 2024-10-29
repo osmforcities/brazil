@@ -583,13 +583,24 @@
       "type": "Feature",
       "id": "way/584463423",
       "properties": {
-        "timestamp": "2024-03-21T19:06:59Z",
-        "version": 2,
-        "changeset": 148980891,
+        "timestamp": "2024-10-27T00:56:17Z",
+        "version": 3,
+        "changeset": 158396014,
+        "addr:housenumber": "147",
+        "addr:postcode": "13504-685",
+        "addr:street": "Avenida 88 BV",
+        "addr:suburb": "Jardim Boa Vista",
         "amenity": "clinic",
         "building": "yes",
         "healthcare": "clinic",
-        "name": "USF Boa Vista",
+        "healthcare:speciality": "general",
+        "name": "Unidade de Saúde da Família Doutor Antônio Raphael Minervino Santomauro",
+        "opening_hours": "Mo-Fr 07:00-17:00; PH off",
+        "operator": "Fundação Municipal de Saúde",
+        "operator:type": "government",
+        "phone": "+55 19 3522 1414",
+        "ref:CNES": "2074494",
+        "short_name": "USF Boa Vista",
         "id": "way/584463423"
       },
       "geometry": {
@@ -597,36 +608,48 @@
         "coordinates": [
           [
             [
-              -47.589956,
-              -22.3806558
+              -47.5898859,
+              -22.3806242
             ],
             [
-              -47.5897856,
-              -22.3809751
+              -47.5897925,
+              -22.3808211
             ],
             [
-              -47.5896437,
-              -22.3809164
+              -47.5897447,
+              -22.38084
             ],
             [
-              -47.5897215,
-              -22.3807298
+              -47.5896764,
+              -22.3808076
             ],
             [
-              -47.5894636,
-              -22.3806168
+              -47.5896746,
+              -22.3807859
             ],
             [
-              -47.5895429,
-              -22.3804492
+              -47.5897204,
+              -22.3806958
             ],
             [
-              -47.5899249,
-              -22.3806083
+              -47.589695,
+              -22.3806881
             ],
             [
-              -47.589956,
-              -22.3806558
+              -47.5896976,
+              -22.3806675
+            ],
+            [
+              -47.5896244,
+              -22.3806317
+            ],
+            [
+              -47.5896749,
+              -22.3805384
+            ],
+            [
+              -47.5898859,
+              -22.3806242
             ]
           ]
         ]
@@ -636,9 +659,9 @@
       "type": "Feature",
       "id": "way/584463424",
       "properties": {
-        "timestamp": "2024-10-21T00:45:52Z",
-        "version": 2,
-        "changeset": 158149554,
+        "timestamp": "2024-10-27T01:01:47Z",
+        "version": 3,
+        "changeset": 158396088,
         "addr:housenumber": "1390",
         "addr:postcode": "13504-651",
         "addr:street": "Avenida 64 PA",
@@ -648,13 +671,13 @@
         "healthcare": "clinic",
         "healthcare:speciality": "general",
         "name": "Unidade de Saúde da Família Doutor Oswaldo Akamine",
-        "opening_hours": "Mo-Fr 07:00-16:00; PH off",
-        "operator": "Fundação de Saúde",
+        "opening_hours": "Mo-Fr 07:00-17:00; PH off",
+        "operator": "Fundação Municipal  de Saúde",
         "operator:type": "government",
         "phone": "+55 19 3532 5377",
         "ref:CNES": "5981921",
         "short_name": "USF Panorama",
-        "source": "CNES;https://rioclaro.sp.gov.br/autarquia/fundacao-de-saude/",
+        "source": "CNES;https://rioclaro.sp.gov.br/autarquia/fundacao-de-saude/;https://www.saude-rioclaro.org.br/enderecos.html",
         "id": "way/584463424"
       },
       "geometry": {

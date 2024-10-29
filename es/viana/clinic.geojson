@@ -5,20 +5,24 @@
       "type": "Feature",
       "id": "way/366603045",
       "properties": {
-        "timestamp": "2019-10-21T23:13:06Z",
-        "version": 3,
-        "changeset": 76020833,
+        "timestamp": "2024-10-27T03:58:01Z",
+        "version": 4,
+        "changeset": 158397661,
         "IJSN:tipoAgrup": "Pronto Atendimento",
         "addr:city": "Viana",
-        "addr:place": "Centro",
         "addr:postcode": "29135-000",
-        "addr:street": "Rua Virgílio Pereira",
+        "addr:street": "Rua Luiz Alvarenga",
+        "addr:suburb": "Centro",
         "amenity": "clinic",
-        "contact:phone": "(27) 3255-2677",
+        "contact:phone": "2733544720",
         "healthcare": "clinic",
-        "name": "Pronto Atendimento Municipal",
-        "short_name": "PA",
-        "source": "IJSN",
+        "healthcare:speciality": "emergency;dentistry",
+        "name": "Unidade de Pronto Atendimento (UPA) - Unidade Cabo Jorge Lacerda Balestreiro",
+        "opening_hours": "24/7",
+        "operator": "Prefeitura Municipal de Viana",
+        "operator:type": "government",
+        "short_name": "UPA",
+        "source": "Prefeitura Municipal de Viana",
         "id": "way/366603045"
       },
       "geometry": {
@@ -26,24 +30,36 @@
         "coordinates": [
           [
             [
-              -40.4969291,
-              -20.393574
+              -40.4968532,
+              -20.3935582
             ],
             [
-              -40.4965805,
-              -20.3941183
+              -40.4966972,
+              -20.3938409
             ],
             [
-              -40.4960682,
-              -20.3939134
+              -40.4965411,
+              -20.3941025
             ],
             [
-              -40.4963753,
-              -20.3933138
+              -40.4962538,
+              -20.3940083
             ],
             [
-              -40.4969291,
-              -20.393574
+              -40.4963713,
+              -20.3937819
+            ],
+            [
+              -40.4964804,
+              -20.3938244
+            ],
+            [
+              -40.496648,
+              -20.393464
+            ],
+            [
+              -40.4968532,
+              -20.3935582
             ]
           ]
         ]
@@ -788,34 +804,6 @@
         "coordinates": [
           -40.4476417,
           -20.3594717
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/3705967048",
-      "properties": {
-        "timestamp": "2019-07-07T03:34:18Z",
-        "version": 2,
-        "changeset": 71972740,
-        "IJSN:tipoAgrup": "Unidade Básica de Saúde",
-        "addr:city": "Viana",
-        "addr:place": "Centro",
-        "addr:postcode": "29135-000",
-        "addr:street": "Rua Governador Rubim",
-        "amenity": "clinic",
-        "contact:phone": "(27) 3255-1140",
-        "healthcare": "clinic",
-        "name": "Unidade de Saúde de Viana Mãe Casimira",
-        "short_name": "US",
-        "source": "IJSN",
-        "id": "node/3705967048"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -40.4969512,
-          -20.391376
         ]
       }
     }

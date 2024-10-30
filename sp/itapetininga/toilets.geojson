@@ -46,6 +46,49 @@
     },
     {
       "type": "Feature",
+      "id": "way/1328699426",
+      "properties": {
+        "timestamp": "2024-10-28T02:41:54Z",
+        "version": 1,
+        "changeset": 158437537,
+        "access": "yes",
+        "amenity": "toilets",
+        "building": "yes",
+        "name": "Banheiro Público",
+        "toilets:disposal": "flush",
+        "unisex": "yes",
+        "id": "way/1328699426"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.0481504,
+              -23.5869095
+            ],
+            [
+              -48.0481681,
+              -23.5868373
+            ],
+            [
+              -48.0482805,
+              -23.5868604
+            ],
+            [
+              -48.0482628,
+              -23.5869326
+            ],
+            [
+              -48.0481504,
+              -23.5869095
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/6434502917",
       "properties": {
         "timestamp": "2019-05-24T18:07:08Z",
@@ -311,24 +354,6 @@
         "coordinates": [
           -48.0518956,
           -23.5948396
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/10288645390",
-      "properties": {
-        "timestamp": "2022-12-27T02:18:57Z",
-        "version": 1,
-        "changeset": 130537000,
-        "amenity": "toilets",
-        "id": "node/10288645390"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.0480714,
-          -23.5859456
         ]
       }
     }

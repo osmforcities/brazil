@@ -500,6 +500,54 @@
     },
     {
       "type": "Feature",
+      "id": "way/1328681488",
+      "properties": {
+        "timestamp": "2024-10-28T00:14:15Z",
+        "version": 1,
+        "changeset": 158435531,
+        "addr:city": "Viana",
+        "addr:postcode": "29135-000",
+        "addr:street": "Rua Veronica Foli da Silva",
+        "addr:suburb": "Bom Pastor",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Unidade Básica de Saúde de Bom Pastor",
+        "opening_hours": "Mo-Fr 07:00-16:00",
+        "operator": "Prefeitura Municipal de Viana",
+        "operator:type": "government",
+        "id": "way/1328681488"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.470557,
+              -20.390755
+            ],
+            [
+              -40.4704683,
+              -20.3908858
+            ],
+            [
+              -40.4701383,
+              -20.3906906
+            ],
+            [
+              -40.4702202,
+              -20.3905619
+            ],
+            [
+              -40.470557,
+              -20.390755
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/2819612595",
       "properties": {
         "timestamp": "2019-07-11T17:33:19Z",
@@ -637,34 +685,6 @@
         "coordinates": [
           -40.431311,
           -20.3715203
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/3705967042",
-      "properties": {
-        "timestamp": "2019-07-07T03:34:18Z",
-        "version": 2,
-        "changeset": 71972740,
-        "IJSN:tipoAgrup": "Unidade Básica de Saúde",
-        "addr:city": "Viana",
-        "addr:place": "Bom Pastor",
-        "addr:postcode": "29135-000",
-        "addr:street": "Rua Anhanguera",
-        "amenity": "clinic",
-        "contact:phone": "(27) 3255 2904",
-        "healthcare": "clinic",
-        "name": "Unidade de Saúde da Família Bom Pastor",
-        "short_name": "USF",
-        "source": "IJSN",
-        "id": "node/3705967042"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -40.4741593,
-          -20.388856
         ]
       }
     },

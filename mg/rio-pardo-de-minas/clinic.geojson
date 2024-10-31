@@ -50,17 +50,21 @@
       "type": "Feature",
       "id": "way/712536683",
       "properties": {
-        "timestamp": "2019-08-10T18:36:12Z",
-        "version": 1,
-        "changeset": 73226883,
+        "timestamp": "2024-10-29T14:24:02Z",
+        "version": 2,
+        "changeset": 158500936,
         "addr:city": "Rio Pardo de Minas",
+        "addr:housenumber": "310",
         "addr:postcode": "39530000",
-        "addr:street": "Rua Ulisses Sena",
+        "addr:street": "Rua J",
         "addr:suburb": "Jardim Florestal",
         "amenity": "clinic",
         "building": "yes",
         "healthcare": "clinic",
-        "name": "Unidade Básica de Saúde",
+        "healthcare:speciality": "general",
+        "name": "Unidade Básica de Saúde Morais",
+        "operator": "Município de Rio Pardo de Minas",
+        "operator:type": "public",
         "id": "way/712536683"
       },
       "geometry": {
@@ -68,24 +72,32 @@
         "coordinates": [
           [
             [
-              -42.5438847,
-              -15.6243103
+              -42.5438685,
+              -15.6243335
             ],
             [
-              -42.5440778,
-              -15.6245996
+              -42.5439408,
+              -15.6244542
             ],
             [
-              -42.5438096,
-              -15.6247391
+              -42.5439643,
+              -15.6244411
             ],
             [
-              -42.5436325,
-              -15.6244343
+              -42.5440043,
+              -15.6245078
             ],
             [
-              -42.5438847,
-              -15.6243103
+              -42.5438684,
+              -15.6245833
+            ],
+            [
+              -42.5437562,
+              -15.6243959
+            ],
+            [
+              -42.5438685,
+              -15.6243335
             ]
           ]
         ]
@@ -95,9 +107,9 @@
       "type": "Feature",
       "id": "way/712536686",
       "properties": {
-        "timestamp": "2019-08-10T18:36:12Z",
-        "version": 1,
-        "changeset": 73226883,
+        "timestamp": "2024-10-29T14:24:02Z",
+        "version": 2,
+        "changeset": 158500936,
         "addr:city": "Rio Pardo de Minas",
         "addr:postcode": "39530-000",
         "addr:street": "Rua Deputado Edmundo Blum",
@@ -105,7 +117,10 @@
         "amenity": "clinic",
         "building": "yes",
         "healthcare": "clinic",
-        "name": "Unidade Básica de Saúde",
+        "healthcare:speciality": "general",
+        "name": "Unidade Básica de Saúde Cidade Alta",
+        "operator": "Município de Rio Pardo de Minas",
+        "operator:type": "public",
         "id": "way/712536686"
       },
       "geometry": {
@@ -131,6 +146,55 @@
             [
               -42.5426133,
               -15.6136367
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1329103222",
+      "properties": {
+        "timestamp": "2024-10-29T14:24:02Z",
+        "version": 1,
+        "changeset": 158500936,
+        "addr:city": "Rio Pardo de Minas",
+        "addr:housenumber": "43",
+        "addr:postcode": "39530-000",
+        "addr:street": "Rua Waldemir Patricio de Souza",
+        "addr:suburb": "Jaqueira",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Unidade Básica de Saúde Centro",
+        "operator": "Município de Rio Pardo de Minas",
+        "operator:type": "public",
+        "id": "way/1329103222"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.5384962,
+              -15.6131195
+            ],
+            [
+              -42.5385144,
+              -15.6133689
+            ],
+            [
+              -42.5384144,
+              -15.6133757
+            ],
+            [
+              -42.5383961,
+              -15.6131263
+            ],
+            [
+              -42.5384962,
+              -15.6131195
             ]
           ]
         ]

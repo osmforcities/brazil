@@ -201,13 +201,24 @@
       "type": "Feature",
       "id": "way/584407446",
       "properties": {
-        "timestamp": "2018-04-29T15:08:04Z",
-        "version": 1,
-        "changeset": 58529996,
+        "timestamp": "2024-10-29T18:43:03Z",
+        "version": 3,
+        "changeset": 158512046,
+        "addr:postcode": "13502-417",
+        "addr:street": "Rua 9 JG",
+        "addr:suburb": "Jardim Guanabara",
         "amenity": "clinic",
         "building": "yes",
         "healthcare": "clinic",
-        "name": "USF Jd. Guanabara - Dr. Celestino Donato",
+        "healthcare:speciality": "general",
+        "name": "Unidade de Saúde da Família Doutor Celestino Donato",
+        "opening_hours": "Mo-Fr 07:00-17:00; PH off",
+        "operator": "Fundação Municipal de Saúde",
+        "operator:type": "government",
+        "phone": "+55 19 3522 1407",
+        "ref:CNES": "5733022",
+        "short_name": "USF Jardim Guanabara",
+        "source": "CNES",
         "id": "way/584407446"
       },
       "geometry": {
@@ -215,24 +226,40 @@
         "coordinates": [
           [
             [
-              -47.581175,
-              -22.438189
+              -47.5811141,
+              -22.4384002
             ],
             [
-              -47.5815076,
-              -22.4383973
+              -47.5811977,
+              -22.4384493
             ],
             [
-              -47.5812072,
-              -22.4388534
+              -47.5810877,
+              -22.4385817
             ],
             [
-              -47.5808424,
-              -22.4386452
+              -47.5811014,
+              -22.4386002
             ],
             [
-              -47.581175,
-              -22.438189
+              -47.5810649,
+              -22.4386458
+            ],
+            [
+              -47.5809551,
+              -22.4385804
+            ],
+            [
+              -47.5809863,
+              -22.4385397
+            ],
+            [
+              -47.5810102,
+              -22.4385382
+            ],
+            [
+              -47.5811141,
+              -22.4384002
             ]
           ]
         ]
@@ -242,9 +269,9 @@
       "type": "Feature",
       "id": "way/584407449",
       "properties": {
-        "timestamp": "2024-09-23T23:03:22Z",
-        "version": 3,
-        "changeset": 157016380,
+        "timestamp": "2024-10-29T23:05:10Z",
+        "version": 4,
+        "changeset": 158520131,
         "addr:housenumber": "420",
         "addr:postcode": "13503-505",
         "addr:street": "Avenida Oito Jc",
@@ -258,7 +285,7 @@
         "operator:type": "government",
         "phone": "+55 19 3524 0313",
         "ref:CNES": "3355519",
-        "short_name": "USF Jardim  Centenário",
+        "short_name": "USF Jardim Centenário",
         "id": "way/584407449"
       },
       "geometry": {

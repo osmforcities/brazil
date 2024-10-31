@@ -1695,10 +1695,15 @@
       "type": "Feature",
       "id": "way/1326154204",
       "properties": {
-        "timestamp": "2024-10-19T23:38:38Z",
-        "version": 1,
-        "changeset": 158110139,
+        "timestamp": "2024-10-29T01:26:40Z",
+        "version": 2,
+        "changeset": 158479058,
         "amenity": "school",
+        "contact:website": "https://delciobaccaro.blogspot.com/",
+        "operator": "Secretaria de Educação  do Estado de São Paulo",
+        "operator:type": "government",
+        "religion": "none",
+        "short_name": "E.E. Professor Délcio Báccaro",
         "id": "way/1326154204"
       },
       "geometry": {
@@ -2033,6 +2038,113 @@
             [
               -47.5767062,
               -22.3768104
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1328923601",
+      "properties": {
+        "timestamp": "2024-10-29T00:21:55Z",
+        "version": 1,
+        "changeset": 158478269,
+        "addr:street": "Rua A",
+        "addr:suburb": "Chácara Luza",
+        "amenity": "school",
+        "name": "Escola Municipal Jardim Novo I",
+        "wheelchair": "yes",
+        "id": "way/1328923601"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.5747101,
+              -22.4291512
+            ],
+            [
+              -47.5744309,
+              -22.4307042
+            ],
+            [
+              -47.5728865,
+              -22.4304438
+            ],
+            [
+              -47.5735152,
+              -22.4290499
+            ],
+            [
+              -47.5747101,
+              -22.4291512
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1329098582",
+      "properties": {
+        "timestamp": "2024-10-29T14:14:45Z",
+        "version": 1,
+        "changeset": 158500477,
+        "addr:housenumber": "11",
+        "addr:postcode": "13502-414",
+        "addr:street": "Rua Seis JG",
+        "addr:suburb": "Jardim Guanabara",
+        "amenity": "school",
+        "official_name": "Escola Estadual Professor  João Baptista Negrão Filho",
+        "operator": "Secretaria da Educação do Estado de São Paulo",
+        "operator:type": "government",
+        "phone": "+55 19 3523 3180",
+        "religion": "none",
+        "short_name": "E.E. Professor João Baptista Negrão Filho",
+        "source": "http://www.educacao.sp.gov.br/cgrh/escolas/joao-baptista-negrao-filho-professor/",
+        "id": "way/1329098582"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.5803333,
+              -22.4356957
+            ],
+            [
+              -47.580393,
+              -22.43577
+            ],
+            [
+              -47.58037,
+              -22.4358104
+            ],
+            [
+              -47.5799636,
+              -22.4363835
+            ],
+            [
+              -47.5799085,
+              -22.4363962
+            ],
+            [
+              -47.579835,
+              -22.4363686
+            ],
+            [
+              -47.5794124,
+              -22.4360948
+            ],
+            [
+              -47.5797638,
+              -22.4355917
+            ],
+            [
+              -47.5803333,
+              -22.4356957
             ]
           ]
         ]

@@ -53,9 +53,9 @@
       "type": "Feature",
       "id": "way/896070525",
       "properties": {
-        "timestamp": "2021-01-17T05:39:37Z",
-        "version": 1,
-        "changeset": 97626497,
+        "timestamp": "2024-10-30T12:45:15Z",
+        "version": 2,
+        "changeset": 158539931,
         "waterway": "dam",
         "id": "way/896070525"
       },
@@ -71,6 +71,10 @@
             -26.4976632
           ],
           [
+            -53.6601734,
+            -26.4976306
+          ],
+          [
             -53.6602488,
             -26.497588
           ],
@@ -78,6 +82,24 @@
             -53.6603235,
             -26.4975911
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2895313603",
+      "properties": {
+        "timestamp": "2024-10-30T12:45:15Z",
+        "version": 4,
+        "changeset": 158539931,
+        "waterway": "weir",
+        "id": "node/2895313603"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.6601734,
+          -26.4976306
         ]
       }
     }

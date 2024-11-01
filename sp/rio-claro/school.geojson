@@ -580,6 +580,45 @@
     },
     {
       "type": "Feature",
+      "id": "way/584407462",
+      "properties": {
+        "timestamp": "2024-10-30T14:53:35Z",
+        "version": 3,
+        "changeset": 158545479,
+        "amenity": "school",
+        "name": "Escola Municipal Doutor Paulo Koelle",
+        "id": "way/584407462"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.5683613,
+              -22.414569
+            ],
+            [
+              -47.5680437,
+              -22.4153374
+            ],
+            [
+              -47.5671984,
+              -22.4150698
+            ],
+            [
+              -47.5675253,
+              -22.414297
+            ],
+            [
+              -47.5683613,
+              -22.414569
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/584426727",
       "properties": {
         "timestamp": "2024-03-19T18:19:24Z",
@@ -1695,15 +1734,22 @@
       "type": "Feature",
       "id": "way/1326154204",
       "properties": {
-        "timestamp": "2024-10-29T01:26:40Z",
-        "version": 2,
-        "changeset": 158479058,
+        "timestamp": "2024-10-30T01:52:03Z",
+        "version": 3,
+        "changeset": 158522453,
+        "addr:housenumber": "303",
+        "addr:postcode": "13502-010",
+        "addr:street": "Rua 1 JI",
+        "addr:suburb": "Jardim Inocoop",
         "amenity": "school",
         "contact:website": "https://delciobaccaro.blogspot.com/",
+        "official_name": "Escola Estadual Professor Délcio Báccaro",
         "operator": "Secretaria de Educação  do Estado de São Paulo",
         "operator:type": "government",
+        "phone": "+55 19 3534 2535",
         "religion": "none",
         "short_name": "E.E. Professor Délcio Báccaro",
+        "source": "http://www.educacao.sp.gov.br/cgrh/escolas/delcio-baccaro-professor/",
         "id": "way/1326154204"
       },
       "geometry": {
@@ -2152,6 +2198,75 @@
     },
     {
       "type": "Feature",
+      "id": "way/1329390203",
+      "properties": {
+        "timestamp": "2024-10-30T13:59:51Z",
+        "version": 1,
+        "changeset": 158542942,
+        "addr:housenumber": "1858",
+        "addr:postcode": "13503-400",
+        "addr:street": "Avenida 13",
+        "addr:suburb": "Consolação",
+        "amenity": "school",
+        "contact:instagram": "https://www.instagram.com/escola_michel_antonio_alem/",
+        "official_name": "Escola Estadual Professor Michel Antônio Alem",
+        "operator": "Secretaria da  Educação do Estado de São Paulo",
+        "operator:type": "government",
+        "phone": "+55 19 3524 3660",
+        "religion": "none",
+        "short_name": "E.E. Professor Michel Antônio Alem",
+        "id": "way/1329390203"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.5726559,
+              -22.4190202
+            ],
+            [
+              -47.5724171,
+              -22.4195637
+            ],
+            [
+              -47.5723758,
+              -22.4196358
+            ],
+            [
+              -47.5716707,
+              -22.4194067
+            ],
+            [
+              -47.5716455,
+              -22.4193301
+            ],
+            [
+              -47.5718889,
+              -22.4187527
+            ],
+            [
+              -47.5719348,
+              -22.4187145
+            ],
+            [
+              -47.5720267,
+              -22.418723
+            ],
+            [
+              -47.57261,
+              -22.418931
+            ],
+            [
+              -47.5726559,
+              -22.4190202
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/4279260889",
       "properties": {
         "timestamp": "2016-07-03T01:00:34Z",
@@ -2186,25 +2301,6 @@
         "coordinates": [
           -47.5440056,
           -22.2947552
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/8394594869",
-      "properties": {
-        "timestamp": "2021-02-04T17:01:26Z",
-        "version": 1,
-        "changeset": 98718258,
-        "amenity": "school",
-        "name": "Escola Municipal Doutor Paulo Koelle",
-        "id": "node/8394594869"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -47.5676076,
-          -22.4145036
         ]
       }
     }

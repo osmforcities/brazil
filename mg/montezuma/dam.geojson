@@ -3,20 +3,72 @@
   "features": [
     {
       "type": "Feature",
+      "id": "way/1329459640",
+      "properties": {
+        "timestamp": "2024-10-30T19:31:31Z",
+        "version": 1,
+        "changeset": 158556588,
+        "name": "Barragem da Copasa",
+        "operator": "Copasa",
+        "waterway": "dam",
+        "id": "way/1329459640"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.4906716,
+              -15.1731696
+            ],
+            [
+              -42.4905704,
+              -15.1732747
+            ],
+            [
+              -42.4905233,
+              -15.1731685
+            ],
+            [
+              -42.4903135,
+              -15.1726954
+            ],
+            [
+              -42.4903701,
+              -15.1726989
+            ],
+            [
+              -42.4904719,
+              -15.1728739
+            ],
+            [
+              -42.4905471,
+              -15.1729303
+            ],
+            [
+              -42.4906716,
+              -15.1731696
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/7903641498",
       "properties": {
-        "timestamp": "2020-09-14T00:55:59Z",
-        "version": 1,
-        "changeset": 90834749,
-        "name": "Barragem fazenda Perfil",
+        "timestamp": "2024-10-30T19:00:34Z",
+        "version": 3,
+        "changeset": 158555505,
+        "name": "Barragem da Fazenda Perfil",
         "waterway": "dam",
         "id": "node/7903641498"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -42.375707,
-          -15.1180658
+          -42.3753727,
+          -15.1180952
         ]
       }
     }

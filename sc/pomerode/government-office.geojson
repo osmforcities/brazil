@@ -606,10 +606,11 @@
       "type": "Feature",
       "id": "node/4821670970",
       "properties": {
-        "timestamp": "2024-08-28T21:30:54Z",
-        "version": 4,
-        "changeset": 155901815,
+        "timestamp": "2024-10-30T01:35:57Z",
+        "version": 5,
+        "changeset": 158522220,
         "addr:door": "Sala 03",
+        "check_date:opening_hours": "2024-10-28",
         "contact:email": "registrodeimoveis.pomerode@hotmail.com",
         "contact:fax": "+55 47 3387-6883",
         "contact:phone": "+55 47 3387-2268",
@@ -618,8 +619,10 @@
         "name": "Registro de Imóveis Pomerode",
         "office": "government",
         "official_name": "Ofício do Registro de Imóveis de Pomerode",
-        "opening_hours": "Mo-Fr 09:00-12:00, 14:00-18:00",
+        "opening_hours": "Mo-Fr 09:00-12:00, 14:00-18:00; Sa-Su off",
         "operator": "Christian Beurlen",
+        "source:opening_hours": "survey",
+        "wheelchair": "yes",
         "id": "node/4821670970"
       },
       "geometry": {

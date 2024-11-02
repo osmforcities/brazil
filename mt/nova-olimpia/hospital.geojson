@@ -5,9 +5,9 @@
       "type": "Feature",
       "id": "relation/9459634",
       "properties": {
-        "timestamp": "2024-08-09T14:27:58Z",
-        "version": 2,
-        "changeset": 155026354,
+        "timestamp": "2024-10-31T00:01:38Z",
+        "version": 3,
+        "changeset": 158563280,
         "addr:city": "Nova Olímpia",
         "addr:housename": "Hospital Municipal de Nova Olímpia",
         "addr:postcode": "78.370-000",
@@ -15,7 +15,7 @@
         "amenity": "hospital",
         "emergency": "yes",
         "healthcare": "hospital",
-        "name": "Hospital Municipal de Nova Olímpia",
+        "name": "Unidade Mista de Sáude",
         "type": "multipolygon",
         "id": "relation/9459634"
       },
@@ -24,24 +24,80 @@
         "coordinates": [
           [
             [
-              -57.291431,
-              -14.7824268
+              -57.2915862,
+              -14.7826309
             ],
             [
-              -57.2907422,
-              -14.7829098
+              -57.2915056,
+              -14.7826886
             ],
             [
-              -57.2905721,
-              -14.7826823
+              -57.2915435,
+              -14.7827347
+            ],
+            [
+              -57.2914369,
+              -14.7828117
+            ],
+            [
+              -57.2914614,
+              -14.7828402
+            ],
+            [
+              -57.2913755,
+              -14.7829044
+            ],
+            [
+              -57.2912592,
+              -14.782755
+            ],
+            [
+              -57.2911818,
+              -14.7828112
+            ],
+            [
+              -57.2911668,
+              -14.7827905
+            ],
+            [
+              -57.2911339,
+              -14.7828116
+            ],
+            [
+              -57.2910489,
+              -14.7826923
+            ],
+            [
+              -57.2908169,
+              -14.7828601
+            ],
+            [
+              -57.2906628,
+              -14.7826466
+            ],
+            [
+              -57.2907412,
+              -14.7825883
+            ],
+            [
+              -57.29077,
+              -14.7826279
+            ],
+            [
+              -57.2909593,
+              -14.7824891
+            ],
+            [
+              -57.2909308,
+              -14.7824523
             ],
             [
               -57.2912656,
               -14.7822106
             ],
             [
-              -57.291431,
-              -14.7824268
+              -57.2915862,
+              -14.7826309
             ]
           ]
         ]
@@ -80,12 +136,16 @@
       "type": "Feature",
       "id": "node/12161052310",
       "properties": {
-        "timestamp": "2024-09-06T23:31:29Z",
-        "version": 1,
-        "changeset": 156295484,
+        "timestamp": "2024-10-31T00:01:38Z",
+        "version": 2,
+        "changeset": 158563280,
         "amenity": "hospital",
+        "emergency": "yes",
         "healthcare": "hospital",
-        "name": "Hospital Municipal de Nova Olimpia",
+        "healthcare:speciality": "emergency",
+        "name": "Unidade Mista de Saúde",
+        "operator": "Publico",
+        "operator:type": "public",
         "id": "node/12161052310"
       },
       "geometry": {

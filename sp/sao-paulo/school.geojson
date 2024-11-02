@@ -88384,6 +88384,89 @@
     },
     {
       "type": "Feature",
+      "id": "way/1329515654",
+      "properties": {
+        "timestamp": "2024-10-31T01:46:03Z",
+        "version": 1,
+        "changeset": 158564382,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "149",
+        "addr:postcode": "03726-110",
+        "addr:street": "Rua Antônio Roberto de Almeida",
+        "alt_name": "Escola Estadual  República do Uruguai",
+        "amenity": "school",
+        "barrier": "wall",
+        "name": "E.E. República do Uruguai",
+        "operator": "Secretaria da Educação  DER Leste 1",
+        "operator:type": "government",
+        "id": "way/1329515654"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.52059,
+              -23.4996356
+            ],
+            [
+              -46.5205772,
+              -23.4996673
+            ],
+            [
+              -46.5205332,
+              -23.4997735
+            ],
+            [
+              -46.5205022,
+              -23.499846
+            ],
+            [
+              -46.5203764,
+              -23.5001398
+            ],
+            [
+              -46.5200509,
+              -23.5000243
+            ],
+            [
+              -46.5200201,
+              -23.5000018
+            ],
+            [
+              -46.5200039,
+              -23.4999692
+            ],
+            [
+              -46.5199587,
+              -23.4997615
+            ],
+            [
+              -46.5199323,
+              -23.4996026
+            ],
+            [
+              -46.5199362,
+              -23.4995238
+            ],
+            [
+              -46.5199971,
+              -23.4994498
+            ],
+            [
+              -46.5200725,
+              -23.4994486
+            ],
+            [
+              -46.52059,
+              -23.4996356
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/222842154",
       "properties": {
         "timestamp": "2023-06-07T15:20:09Z",
@@ -112558,6 +112641,51 @@
         "coordinates": [
           -46.6247778,
           -23.4577033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12300544673",
+      "properties": {
+        "timestamp": "2024-10-31T01:46:03Z",
+        "version": 1,
+        "changeset": 158564382,
+        "entrance": "yes",
+        "id": "node/12300544673"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5199323,
+          -23.4996026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12301584970",
+      "properties": {
+        "timestamp": "2024-10-31T13:46:08Z",
+        "version": 1,
+        "changeset": 158582206,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "235",
+        "addr:postcode": "01411-001",
+        "addr:street": "R. Padre João Manuel, 235 - Conjunto 53",
+        "addr:suburb": "Jardim Paulista",
+        "amenity": "school",
+        "grades": "1-11",
+        "level": "5",
+        "name": "Plano A - Educação",
+        "operator": "Juliana Moura",
+        "id": "node/12301584970"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6606968,
+          -23.5606797
         ]
       }
     }

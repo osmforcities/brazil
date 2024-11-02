@@ -101,19 +101,19 @@
       "type": "Feature",
       "id": "way/606501671",
       "properties": {
-        "timestamp": "2023-09-29T15:21:11Z",
-        "version": 3,
-        "changeset": 141918525,
+        "timestamp": "2024-10-31T15:20:02Z",
+        "version": 4,
+        "changeset": 158586160,
         "addr:city": "Itapetininga",
         "addr:street": "Rua Padre Albuquerque",
         "amenity": "pharmacy",
-        "brand": "Droga Raia",
-        "brand:wikidata": "Q10357101",
-        "brand:wikipedia": "pt:RaiaDrogasil",
+        "brand": "Drogasil",
+        "brand:wikidata": "Q5308185",
         "building": "yes",
         "dispensing": "yes",
         "healthcare": "pharmacy",
-        "name": "Droga Raia",
+        "name": "Drogasil",
+        "wheelchair": "yes",
         "id": "way/606501671"
       },
       "geometry": {
@@ -929,6 +929,55 @@
     },
     {
       "type": "Feature",
+      "id": "way/1329650666",
+      "properties": {
+        "timestamp": "2024-10-31T15:20:02Z",
+        "version": 1,
+        "changeset": 158586160,
+        "addr:city": "Itapetininga",
+        "addr:housenumber": "332",
+        "addr:street": "Avenida Padre Antônio Brunetti",
+        "addr:suburb": "Vila Rio Branco",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Drogal",
+        "id": "way/1329650666"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.0610826,
+              -23.5915187
+            ],
+            [
+              -48.0610468,
+              -23.5913354
+            ],
+            [
+              -48.0610687,
+              -23.5913115
+            ],
+            [
+              -48.0611419,
+              -23.5913004
+            ],
+            [
+              -48.0611826,
+              -23.5915112
+            ],
+            [
+              -48.0610826,
+              -23.5915187
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/3760683534",
       "properties": {
         "timestamp": "2019-06-01T18:21:23Z",
@@ -1132,6 +1181,30 @@
         "coordinates": [
           -48.0443572,
           -23.5845893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12301852729",
+      "properties": {
+        "timestamp": "2024-10-31T15:20:02Z",
+        "version": 1,
+        "changeset": 158586160,
+        "addr:city": "Itapetininga",
+        "addr:housenumber": "410",
+        "addr:street": "Avenida Padre Antônio Brunetti",
+        "addr:suburb": "Vila Rio Branco",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Drogaria Saúde e Perfumaria Cravo & Canela",
+        "id": "node/12301852729"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.0619799,
+          -23.5913685
         ]
       }
     }

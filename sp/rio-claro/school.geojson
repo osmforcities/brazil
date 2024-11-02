@@ -1490,10 +1490,11 @@
       "type": "Feature",
       "id": "way/1317404657",
       "properties": {
-        "timestamp": "2024-09-22T15:49:17Z",
-        "version": 1,
-        "changeset": 156958008,
+        "timestamp": "2024-10-31T15:51:02Z",
+        "version": 2,
+        "changeset": 158587497,
         "amenity": "school",
+        "religion": "none",
         "short_name": "Escola José Fernandes",
         "id": "way/1317404657"
       },
@@ -2267,6 +2268,135 @@
     },
     {
       "type": "Feature",
+      "id": "way/1329639566",
+      "properties": {
+        "timestamp": "2024-10-31T14:23:42Z",
+        "version": 1,
+        "changeset": 158583774,
+        "addr:street": "Estrada Vicinal Nicolau Marotti",
+        "amenity": "school",
+        "name": "Núcleo de Difusão de Agricultura Natural Pedro Partezan",
+        "short_name": "Escola Agrícola Horta Municipal",
+        "id": "way/1329639566"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.5446369,
+              -22.2938368
+            ],
+            [
+              -47.5442612,
+              -22.2967431
+            ],
+            [
+              -47.5433077,
+              -22.296836
+            ],
+            [
+              -47.5425211,
+              -22.2968131
+            ],
+            [
+              -47.5410406,
+              -22.2966863
+            ],
+            [
+              -47.5402697,
+              -22.2962506
+            ],
+            [
+              -47.5432411,
+              -22.2936171
+            ],
+            [
+              -47.5446369,
+              -22.2938368
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1329660123",
+      "properties": {
+        "timestamp": "2024-10-31T15:58:18Z",
+        "version": 1,
+        "changeset": 158587797,
+        "amenity": "school",
+        "id": "way/1329660123"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.5421793,
+              -22.2782855
+            ],
+            [
+              -47.5413277,
+              -22.2795094
+            ],
+            [
+              -47.5401183,
+              -22.2787927
+            ],
+            [
+              -47.540997,
+              -22.2775813
+            ],
+            [
+              -47.5421793,
+              -22.2782855
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1329695133",
+      "properties": {
+        "timestamp": "2024-10-31T18:51:53Z",
+        "version": 1,
+        "changeset": 158593959,
+        "amenity": "school",
+        "id": "way/1329695133"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.5881418,
+              -22.2617141
+            ],
+            [
+              -47.5884259,
+              -22.2618305
+            ],
+            [
+              -47.5882629,
+              -22.2621968
+            ],
+            [
+              -47.5879695,
+              -22.2620977
+            ],
+            [
+              -47.5881418,
+              -22.2617141
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/4279260889",
       "properties": {
         "timestamp": "2016-07-03T01:00:34Z",
@@ -2282,25 +2412,6 @@
         "coordinates": [
           -47.5490067,
           -22.3789601
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/6476732685",
-      "properties": {
-        "timestamp": "2019-05-15T22:50:38Z",
-        "version": 1,
-        "changeset": 70296054,
-        "amenity": "school",
-        "name": "Escola Agrícola",
-        "id": "node/6476732685"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -47.5440056,
-          -22.2947552
         ]
       }
     }

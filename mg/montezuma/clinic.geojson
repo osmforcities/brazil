@@ -1,0 +1,79 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1329637765",
+      "properties": {
+        "timestamp": "2024-10-31T14:14:35Z",
+        "version": 1,
+        "changeset": 158583363,
+        "addr:city": "Montezuma",
+        "addr:postcode": "39547-000",
+        "addr:state": "Minas Gerais",
+        "addr:street": "Rua Dona Generosa",
+        "addr:suburb": "Planalto",
+        "amenity": "clinic",
+        "building": "yes",
+        "name": "Unidade Básica de Saúdeda Família Planalto",
+        "operator": "Município de Montezuma",
+        "source": "microsoft/BuildingFootprints",
+        "id": "way/1329637765"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.503616,
+              -15.1764892
+            ],
+            [
+              -42.503287,
+              -15.1763339
+            ],
+            [
+              -42.5033272,
+              -15.1762545
+            ],
+            [
+              -42.5035662,
+              -15.1763673
+            ],
+            [
+              -42.503563,
+              -15.1763736
+            ],
+            [
+              -42.503653,
+              -15.1764161
+            ],
+            [
+              -42.503616,
+              -15.1764892
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12301387538",
+      "properties": {
+        "timestamp": "2024-10-31T11:03:06Z",
+        "version": 1,
+        "changeset": 158576201,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "id": "node/12301387538"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.5013936,
+          -15.1677482
+        ]
+      }
+    }
+  ]
+}

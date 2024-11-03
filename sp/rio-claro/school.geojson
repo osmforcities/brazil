@@ -5,22 +5,24 @@
       "type": "Feature",
       "id": "way/543793093",
       "properties": {
-        "timestamp": "2024-10-19T21:39:27Z",
-        "version": 3,
-        "changeset": 158108023,
+        "timestamp": "2024-11-01T18:44:26Z",
+        "version": 4,
+        "changeset": 158632108,
         "addr:housenumber": "639",
         "addr:postcode": "13505-001",
-        "addr:street": "Avenida M Dezessete A",
+        "addr:street": "Avenida M 17 A",
         "addr:suburb": "Jardim Floridiana",
         "amenity": "school",
         "contact:facebook": "https://www.facebook.com/escolazita.rioclaro/",
         "email": "e917916a@educacao.sp.gov.br",
+        "official_name": "Escola Estadual Professora  Zita de Godoy Camargo",
         "opening_hours": "Mo-Fr 07:00-23:00; PH off",
         "operator": "Secretaria da Educação do Estado de São Paulo",
         "operator:type": "government",
-        "phone": "+55 19 3524 5173",
+        "phone": "+55 19 3523 2519",
         "religion": "none",
-        "short_name": "EE Professora  Zita de Godoy Camargo",
+        "short_name": "E.E. Professora  Zita de Godoy Camargo",
+        "source": "https://transparencia.educacao.sp.gov.br/Home/DetalhesEscola?codesc=917916",
         "id": "way/543793093"
       },
       "geometry": {
@@ -239,12 +241,12 @@
       "type": "Feature",
       "id": "way/547910496",
       "properties": {
-        "timestamp": "2024-10-21T14:05:38Z",
-        "version": 5,
-        "changeset": 158172048,
+        "timestamp": "2024-11-01T18:55:38Z",
+        "version": 6,
+        "changeset": 158632461,
         "addr:housenumber": "2877",
         "addr:postcode": "13504-090",
-        "addr:street": "Rua Dois",
+        "addr:street": "Rua 2",
         "addr:suburb": "Vila Operaria",
         "amenity": "school",
         "email": "e021748A@educacao.sp.gov.br",
@@ -489,6 +491,57 @@
     },
     {
       "type": "Feature",
+      "id": "way/584407448",
+      "properties": {
+        "timestamp": "2024-11-01T20:36:31Z",
+        "version": 3,
+        "changeset": 158636005,
+        "addr:housenumber": "1055",
+        "addr:street": "Rua 7 JP",
+        "addr:suburb": "Jardim das Palmeiras",
+        "amenity": "school",
+        "religion": "none",
+        "short_name": "EMEI Professor José Martins da Silva",
+        "id": "way/584407448"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.5843504,
+              -22.4292136
+            ],
+            [
+              -47.5847651,
+              -22.4294616
+            ],
+            [
+              -47.5841553,
+              -22.4303409
+            ],
+            [
+              -47.5838057,
+              -22.430138
+            ],
+            [
+              -47.5836439,
+              -22.4303797
+            ],
+            [
+              -47.5835342,
+              -22.4303274
+            ],
+            [
+              -47.5843504,
+              -22.4292136
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/584407451",
       "properties": {
         "timestamp": "2024-09-22T01:18:37Z",
@@ -658,6 +711,44 @@
             [
               -47.5512815,
               -22.3976654
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/584445194",
+      "properties": {
+        "timestamp": "2024-11-01T21:23:42Z",
+        "version": 2,
+        "changeset": 158637521,
+        "amenity": "school",
+        "id": "way/584445194"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.5394958,
+              -22.3732941
+            ],
+            [
+              -47.5391706,
+              -22.3734595
+            ],
+            [
+              -47.5385608,
+              -22.3726925
+            ],
+            [
+              -47.5390324,
+              -22.3725346
+            ],
+            [
+              -47.5394958,
+              -22.3732941
             ]
           ]
         ]
@@ -1284,13 +1375,22 @@
       "type": "Feature",
       "id": "way/875635147",
       "properties": {
-        "timestamp": "2024-03-19T05:25:22Z",
-        "version": 2,
-        "changeset": 148843304,
+        "timestamp": "2024-11-01T19:33:52Z",
+        "version": 3,
+        "changeset": 158633805,
+        "addr:postcode": "13500-050",
+        "addr:street": "Rua 6",
+        "addr:suburb": "Cidade Jardim",
         "amenity": "school",
         "building:levels": "2",
         "height": "20",
         "name": "Escola Estadual Joaquim Ribeiro",
+        "official_name": "Escola Estadual Joaquim Ribeiro",
+        "operator": "Secretaria da Educação do  Estado de São Paulo",
+        "operator:type": "government",
+        "phone": "+55 19 3524 2097",
+        "religion": "none",
+        "source": "http://www.educacao.sp.gov.br/cgrh/escolas/joaquim-ribeiro/",
         "id": "way/875635147"
       },
       "geometry": {

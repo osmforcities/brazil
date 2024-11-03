@@ -5,12 +5,19 @@
       "type": "Feature",
       "id": "way/427126513",
       "properties": {
-        "timestamp": "2017-09-25T21:52:17Z",
-        "version": 2,
-        "changeset": 52368649,
+        "timestamp": "2024-11-01T10:47:31Z",
+        "version": 3,
+        "changeset": 158613132,
+        "addr:city": "Vargem Grande do Rio Pardo",
+        "addr:housenumber": "255",
+        "addr:postcode": "39535-000",
+        "addr:street": "Rua dos Esportes",
+        "addr:suburb": "Alta Floresta",
         "amenity": "school",
+        "email": "escola.82384@educacao.mg.gov.br",
         "name": "Escola Estadual João Dias de Amorim",
-        "operator": "Secretaria de Estado de Educação de Minas Gerais",
+        "operator": "Secretaria de Educação do Estado de Minas Gerais",
+        "operator:type": "public",
         "id": "way/427126513"
       },
       "geometry": {
@@ -18,24 +25,79 @@
         "coordinates": [
           [
             [
-              -42.3107016,
+              -42.3107412,
               -15.404247
             ],
             [
-              -42.3100944,
-              -15.4039996
+              -42.3101171,
+              -15.4039723
             ],
             [
               -42.3106374,
               -15.4031477
             ],
             [
-              -42.3112643,
-              -15.403419
+              -42.3112983,
+              -15.4034408
             ],
             [
-              -42.3107016,
+              -42.3107412,
               -15.404247
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1329852191",
+      "properties": {
+        "timestamp": "2024-11-01T10:47:31Z",
+        "version": 1,
+        "changeset": 158613132,
+        "addr:city": "Vargem Grande do Rio Pardo",
+        "addr:housenumber": "121",
+        "addr:postcode": "39535-000",
+        "addr:street": "Rua Antônio José da Cruz",
+        "addr:suburb": "Jardim Planalto",
+        "amenity": "school",
+        "email": "educavargemgrande@yahoo.com.br",
+        "name": "Escola Municipal Joaquim Braz Ribeiro",
+        "operator": "Município de Vargem Grande do Rio Pardo",
+        "operator:type": "public",
+        "id": "way/1329852191"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.3132786,
+              -15.3998314
+            ],
+            [
+              -42.3135401,
+              -15.4004239
+            ],
+            [
+              -42.3133216,
+              -15.4005212
+            ],
+            [
+              -42.313372,
+              -15.4006382
+            ],
+            [
+              -42.3131815,
+              -15.4007193
+            ],
+            [
+              -42.3128452,
+              -15.3999917
+            ],
+            [
+              -42.3132786,
+              -15.3998314
             ]
           ]
         ]

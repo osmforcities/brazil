@@ -221,22 +221,105 @@
     },
     {
       "type": "Feature",
-      "id": "node/5586337962",
+      "id": "way/1329977113",
       "properties": {
-        "timestamp": "2024-09-23T00:55:12Z",
-        "version": 4,
-        "changeset": 156973230,
+        "timestamp": "2024-11-01T19:33:52Z",
+        "version": 1,
+        "changeset": 158633805,
+        "addr:housenumber": "203",
+        "addr:street": "Rua 7",
+        "addr:suburb": "Cidade Jardim",
         "amenity": "doctors",
+        "building": "yes",
         "healthcare": "doctor",
-        "healthcare:speciality": "general",
-        "name": "CEOSBI",
-        "id": "node/5586337962"
+        "healthcare:speciality": "otolaryngology;rinoplastia;blefaroplastia;frontoplastia;lipoaspiração;otoplastia",
+        "name": "Sassi Clínica Hospitalar",
+        "operator": "Doutor Luiz Renato Sassi",
+        "phone": "+55 19 3557 9244",
+        "id": "way/1329977113"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -47.5568379,
-          -22.4121195
+          [
+            [
+              -47.5615149,
+              -22.4158884
+            ],
+            [
+              -47.5614881,
+              -22.4159802
+            ],
+            [
+              -47.5614264,
+              -22.4160099
+            ],
+            [
+              -47.5612386,
+              -22.4159529
+            ],
+            [
+              -47.5613137,
+              -22.4157892
+            ],
+            [
+              -47.5613969,
+              -22.4158091
+            ],
+            [
+              -47.5613754,
+              -22.4158438
+            ],
+            [
+              -47.5615149,
+              -22.4158884
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1329980711",
+      "properties": {
+        "timestamp": "2024-11-01T19:53:05Z",
+        "version": 1,
+        "changeset": 158634568,
+        "addr:housenumber": "557",
+        "addr:postcode": "13500-050",
+        "addr:street": "Rua 6",
+        "amenity": "doctors",
+        "building": "yes",
+        "healthcare": "doctor",
+        "healthcare:speciality": "medicina_hiperbárica",
+        "name": "Hiper O² Clínica Hiperbalica",
+        "id": "way/1329980711"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.5613328,
+              -22.4153418
+            ],
+            [
+              -47.5612737,
+              -22.4155005
+            ],
+            [
+              -47.5610082,
+              -22.4154286
+            ],
+            [
+              -47.5610619,
+              -22.4152624
+            ],
+            [
+              -47.5613328,
+              -22.4153418
+            ]
+          ]
         ]
       }
     }

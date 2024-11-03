@@ -311,6 +311,126 @@
     },
     {
       "type": "Feature",
+      "id": "way/1329772094",
+      "properties": {
+        "timestamp": "2024-11-01T01:47:16Z",
+        "version": 1,
+        "changeset": 158603134,
+        "addr:street": "Avenida Visconde do Rio Claro",
+        "building": "yes",
+        "government": "public_service",
+        "name": "Centro de Qualificação Profissional",
+        "office": "government",
+        "id": "way/1329772094"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.5635635,
+              -22.3969092
+            ],
+            [
+              -47.563527,
+              -22.3970247
+            ],
+            [
+              -47.5634782,
+              -22.3970078
+            ],
+            [
+              -47.5634934,
+              -22.3969712
+            ],
+            [
+              -47.5633837,
+              -22.3969543
+            ],
+            [
+              -47.5634294,
+              -22.3972022
+            ],
+            [
+              -47.5633289,
+              -22.3972247
+            ],
+            [
+              -47.5632801,
+              -22.3968388
+            ],
+            [
+              -47.5635635,
+              -22.3969092
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1329908446",
+      "properties": {
+        "timestamp": "2024-11-01T14:03:23Z",
+        "version": 1,
+        "changeset": 158620652,
+        "addr:housenumber": "10",
+        "addr:street": "Avenida 40 A",
+        "government": "public_service",
+        "name": "Agro Fácil",
+        "office": "government",
+        "id": "way/1329908446"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.5588756,
+              -22.390395
+            ],
+            [
+              -47.5590115,
+              -22.3910148
+            ],
+            [
+              -47.5589616,
+              -22.3910798
+            ],
+            [
+              -47.5585449,
+              -22.3911824
+            ],
+            [
+              -47.5583728,
+              -22.3904808
+            ],
+            [
+              -47.5583909,
+              -22.3904411
+            ],
+            [
+              -47.558477,
+              -22.3903971
+            ],
+            [
+              -47.558742,
+              -22.3903531
+            ],
+            [
+              -47.5588246,
+              -22.390351
+            ],
+            [
+              -47.5588756,
+              -22.390395
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/12197485122",
       "properties": {
         "timestamp": "2024-09-24T17:30:30Z",
@@ -324,6 +444,34 @@
         "coordinates": [
           -47.5599474,
           -22.4191094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12305120177",
+      "properties": {
+        "timestamp": "2024-11-01T19:46:21Z",
+        "version": 1,
+        "changeset": 158634319,
+        "addr:housenumber": "621",
+        "addr:postcode": "13500-050",
+        "addr:street": "Rua 6",
+        "email": "2tabnotas@terra.com.br",
+        "fax": "+55 19 3534 1158",
+        "government": "register_office",
+        "name": "2º Tabelião de Notas e Protesto",
+        "office": "government",
+        "opening_hours": "Mo-Fr 08:00-19:00; PH off",
+        "phone": "+55 19 3526 2441",
+        "short_name": "2º Cartório de Notas",
+        "id": "node/12305120177"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.5612584,
+          -22.4148601
         ]
       }
     }

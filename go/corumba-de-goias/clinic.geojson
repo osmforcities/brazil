@@ -52,18 +52,24 @@
       "type": "Feature",
       "id": "way/956589591",
       "properties": {
-        "timestamp": "2022-12-30T14:38:04Z",
-        "version": 2,
-        "changeset": 130689863,
+        "timestamp": "2024-11-01T18:39:12Z",
+        "version": 3,
+        "changeset": 158631964,
         "addr:city": "Corumbá de Goiás",
         "addr:postcode": "72960-000",
         "addr:street": "Avenida Professor Francisco Bruno",
         "addr:suburb": "Alto da Boa Vista",
         "amenity": "clinic",
         "building": "yes",
+        "contact:mobile": "+55 62 98312 0501",
+        "contact:whatsapp": "https://wa.me/5562983120501",
         "email": "marcelotqueiroz@hotmail.com",
         "healthcare": "clinic",
+        "healthcare:speciality": "blood_check",
+        "mobile": "+55 62 98312 0501",
         "name": "Laboratório Santa Clara",
+        "operator": "Laboratorio Santa Clara LTDA",
+        "operator:type": "private",
         "phone": "+55 62 3338 1187",
         "id": "way/956589591"
       },
@@ -245,16 +251,20 @@
       "type": "Feature",
       "id": "node/12219308002",
       "properties": {
-        "timestamp": "2024-10-03T19:33:34Z",
-        "version": 1,
-        "changeset": 157434060,
+        "timestamp": "2024-11-01T18:35:32Z",
+        "version": 2,
+        "changeset": 158631826,
         "addr:city": "Corumbá de Goiás",
         "addr:postcode": "72960-000",
         "addr:street": "Rua 1",
         "addr:suburb": "Alto da Boa Vista",
         "amenity": "clinic",
         "healthcare": "clinic",
+        "healthcare:speciality": "cardiology;endocrinology;physiotherapy;paediatrics;dermatology;orthopaedics;orthopedics;gynaecology;psychiatry",
         "name": "Centro de Especialidades Valdete de Jesus Alves dos Santos",
+        "opening_hours": "Mo-Fr 07:00-11:00, 13:00-16:00",
+        "operator": "Secretária de Saúde da Prefeitura de Corumbá de Goiás",
+        "operator:type": "government",
         "id": "node/12219308002"
       },
       "geometry": {
@@ -262,6 +272,36 @@
         "coordinates": [
           -48.8193048,
           -15.9288059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12305032368",
+      "properties": {
+        "timestamp": "2024-11-01T18:58:41Z",
+        "version": 1,
+        "changeset": 158632569,
+        "addr:city": "Corumbá de Goiás",
+        "addr:postcode": "72960-000",
+        "addr:street": "Avenida Professor Francisco Bruno",
+        "addr:suburb": "Centro",
+        "amenity": "clinic",
+        "contact:whatsapp": "https://wa.me/+5562982063225",
+        "healthcare": "clinic",
+        "healthcare:speciality": "dermatology;plastic_surgery",
+        "mobile": "+55 62 98206 3225",
+        "mobile_1": "+55 62 99396 4614",
+        "name": "Dra. Ana Flávia de Oliveira Leal",
+        "phone": "+55 62 98206 3225",
+        "phone_1": "+55 62 99396 4614",
+        "id": "node/12305032368"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.8106414,
+          -15.9266875
         ]
       }
     }

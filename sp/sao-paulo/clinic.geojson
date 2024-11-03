@@ -1500,20 +1500,22 @@
       "type": "Feature",
       "id": "way/234572579",
       "properties": {
-        "timestamp": "2023-09-14T20:35:01Z",
-        "version": 5,
-        "changeset": 141275680,
+        "timestamp": "2024-11-01T23:03:57Z",
+        "version": 6,
+        "changeset": 158640305,
         "addr:city": "São Paulo",
         "addr:country": "BR",
         "addr:housenumber": "468",
         "addr:postcode": "02522-100",
         "addr:street": "Rua Vichy",
-        "alt_name": "USB Casa Verde",
+        "addr:suburb": "Casa Verde",
+        "alt_name": "UBS Casa Verde",
         "amenity": "clinic",
         "barrier": "wall",
         "contact:phone": "+55 11 3950-0236;+55 11 3966-0247",
         "healthcare": "clinic",
         "name": "Unidade Básica de Saúde Casa Verde",
+        "website": "https://cnes.datasus.gov.br/pages/estabelecimentos/ficha/identificacao/3550302027682",
         "id": "way/234572579"
       },
       "geometry": {
@@ -19655,6 +19657,64 @@
         "coordinates": [
           -46.6659285,
           -23.572828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12305641672",
+      "properties": {
+        "timestamp": "2024-11-01T22:45:14Z",
+        "version": 1,
+        "changeset": 158639879,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "14",
+        "addr:postcode": "02472-190",
+        "addr:street": "Rua Coronel Walfrido de Carvalho",
+        "addr:suburb": "Vila Roque",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "dentist;general",
+        "name": "UBS Dra. Ilza Weltman Hutzler",
+        "opening_hours": "Mo-Fr 07:00-19:00",
+        "operator": "Prefeitura Municipal de São Paulo",
+        "operator:type": "government_facility-public",
+        "id": "node/12305641672"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6591812,
+          -23.4767473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12305641673",
+      "properties": {
+        "timestamp": "2024-11-01T22:48:58Z",
+        "version": 2,
+        "changeset": 158639968,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "80",
+        "addr:postcode": "02442-140",
+        "addr:street": "Rua Valorbe",
+        "addr:suburb": "Lauzane Paulista",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "AMA-UBS Lauzane Paulista",
+        "opening_hours": "Mo-Fr 07:00-22:00",
+        "operator": "Prefeitura Municipal de São Paulo",
+        "operator:type": "government_facility-public",
+        "website": "https://cnes.datasus.gov.br/pages/estabelecimentos/ficha/identificacao/3550302788047",
+        "id": "node/12305641673"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6417508,
+          -23.4752601
         ]
       }
     }

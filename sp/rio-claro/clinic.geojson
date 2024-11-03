@@ -151,22 +151,24 @@
       "type": "Feature",
       "id": "way/565611730",
       "properties": {
-        "timestamp": "2018-03-02T04:10:09Z",
-        "version": 1,
-        "changeset": 56807224,
+        "timestamp": "2024-11-01T20:36:31Z",
+        "version": 2,
+        "changeset": 158636005,
         "addr:city": "Rio Claro",
         "addr:housenumber": "1102",
-        "addr:street": "Rua Oito Jp",
+        "addr:street": "Rua 8 JP",
         "addr:suburb": "Jardim das Palmeiras",
         "amenity": "clinic",
         "building": "yes",
-        "description": "Unidade de Saúde da Família - Dr.Gilson Giovanni",
         "healthcare": "clinic",
-        "name": "USF Palmeiras I/II",
+        "healthcare:speciality": "general",
+        "name": "Unidade de Saúde da Família Doutor Gilson Giovanni",
         "opening_hours": "Mo-Fr 07:00-16:00",
         "operator": "Fundação Municipal de Saúde de Rio Claro",
-        "phone": "+551935242202",
-        "source": "http://www.saude-rioclaro.org.br/enderecos.htm",
+        "operator:type": "government",
+        "phone": "+55 19 3524 2202",
+        "short_name": "USF Palmeiras I/II",
+        "source": "https://rioclaro.sp.gov.br/unidades-saude-familia/",
         "id": "way/565611730"
       },
       "geometry": {
@@ -174,24 +176,40 @@
         "coordinates": [
           [
             [
-              -47.5841627,
-              -22.430404
+              -47.5840822,
+              -22.4303718
             ],
             [
-              -47.5840133,
-              -22.4306284
+              -47.5839731,
+              -22.4305069
             ],
             [
-              -47.583656,
-              -22.4304061
+              -47.5838984,
+              -22.4304564
             ],
             [
-              -47.5837961,
-              -22.430186
+              -47.5839191,
+              -22.4304392
             ],
             [
-              -47.5841627,
-              -22.430404
+              -47.5837579,
+              -22.4303466
+            ],
+            [
+              -47.5838363,
+              -22.4302405
+            ],
+            [
+              -47.5840183,
+              -22.4303557
+            ],
+            [
+              -47.58405,
+              -22.4303439
+            ],
+            [
+              -47.5840822,
+              -22.4303718
             ]
           ]
         ]
@@ -501,13 +519,22 @@
       "type": "Feature",
       "id": "way/584445195",
       "properties": {
-        "timestamp": "2018-04-29T18:29:05Z",
-        "version": 1,
-        "changeset": 58534500,
+        "timestamp": "2024-11-01T21:23:42Z",
+        "version": 2,
+        "changeset": 158637521,
+        "addr:housenumber": "300",
+        "addr:postcode": "13506-160",
+        "addr:street": "Avenida 1 MP",
+        "addr:suburb": "Parque Mãe Preta",
         "amenity": "clinic",
         "building": "yes",
         "healthcare": "clinic",
-        "name": "USF Mãe Preta I/II",
+        "healthcare:speciality": "general",
+        "name": "Unidade de Saúde da Famíla Mãe Preta I/II",
+        "operator": "Fundação Municipal de Saúde",
+        "operator:type": "government",
+        "phone": "+55 19 3536 3396",
+        "short_name": "USF Mãe Preta I/II",
         "id": "way/584445195"
       },
       "geometry": {
@@ -515,24 +542,36 @@
         "coordinates": [
           [
             [
-              -47.5399882,
-              -22.3709892
+              -47.539968,
+              -22.3709724
             ],
             [
-              -47.5400775,
-              -22.3711445
+              -47.5400654,
+              -22.3711314
             ],
             [
-              -47.5399129,
-              -22.3712255
+              -47.5400306,
+              -22.3711532
             ],
             [
-              -47.5398236,
-              -22.3710702
+              -47.5400415,
+              -22.3711828
             ],
             [
-              -47.5399882,
-              -22.3709892
+              -47.5399554,
+              -22.3712367
+            ],
+            [
+              -47.5398398,
+              -22.3710272
+            ],
+            [
+              -47.5398938,
+              -22.3709942
+            ],
+            [
+              -47.539968,
+              -22.3709724
             ]
           ]
         ]

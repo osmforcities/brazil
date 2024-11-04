@@ -8077,12 +8077,12 @@
       "type": "Feature",
       "id": "node/2509615827",
       "properties": {
-        "timestamp": "2019-08-09T17:29:19Z",
-        "version": 2,
-        "changeset": 73202258,
+        "timestamp": "2024-11-02T19:17:32Z",
+        "version": 3,
+        "changeset": 158673318,
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
-        "capacity": "8",
+        "capacity": "6",
         "covered": "no",
         "fee": "no",
         "source": "survey",
@@ -8193,12 +8193,12 @@
       "type": "Feature",
       "id": "node/2535605927",
       "properties": {
-        "timestamp": "2015-08-01T22:09:37Z",
-        "version": 2,
-        "changeset": 33038637,
+        "timestamp": "2024-11-02T19:20:36Z",
+        "version": 3,
+        "changeset": 158673318,
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
-        "capacity": "18",
+        "capacity": "14",
         "covered": "no",
         "fee": "no",
         "source": "survey",
@@ -19454,12 +19454,13 @@
       "type": "Feature",
       "id": "node/3626206651",
       "properties": {
-        "timestamp": "2015-06-30T05:25:22Z",
-        "version": 1,
-        "changeset": 32299523,
+        "timestamp": "2024-11-02T19:18:45Z",
+        "version": 2,
+        "changeset": 158673318,
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
         "capacity": "8",
+        "check_date:capacity": "2024-11-02",
         "covered": "no",
         "fee": "no",
         "id": "node/3626206651"
@@ -19564,12 +19565,13 @@
       "type": "Feature",
       "id": "node/3626377077",
       "properties": {
-        "timestamp": "2015-06-30T07:00:09Z",
-        "version": 1,
-        "changeset": 32300838,
+        "timestamp": "2024-11-02T19:18:28Z",
+        "version": 2,
+        "changeset": 158673318,
         "amenity": "bicycle_parking",
         "bicycle_parking": "stands",
         "capacity": "8",
+        "check_date:capacity": "2024-11-02",
         "covered": "no",
         "fee": "no",
         "id": "node/3626377077"
@@ -33547,6 +33549,48 @@
         "coordinates": [
           -43.2106777,
           -22.7992012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12307812285",
+      "properties": {
+        "timestamp": "2024-11-02T19:16:54Z",
+        "version": 4,
+        "changeset": 158673318,
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "20",
+        "covered": "no",
+        "id": "node/12307812285"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1837851,
+          -22.9330996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12307821060",
+      "properties": {
+        "timestamp": "2024-11-02T19:19:17Z",
+        "version": 4,
+        "changeset": 158673318,
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "8",
+        "covered": "no",
+        "id": "node/12307821060"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1902263,
+          -22.9380572
         ]
       }
     }

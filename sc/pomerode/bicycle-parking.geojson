@@ -1124,9 +1124,9 @@
       "type": "Feature",
       "id": "node/5777081374",
       "properties": {
-        "timestamp": "2024-09-04T02:23:28Z",
-        "version": 4,
-        "changeset": 156165504,
+        "timestamp": "2024-11-03T13:10:36Z",
+        "version": 5,
+        "changeset": 158698575,
         "access": "yes",
         "amenity": "bicycle_parking",
         "bicycle_parking": "ground_slots",
@@ -1137,7 +1137,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -49.1738747,
+          -49.1738901,
           -26.7488308
         ]
       }
@@ -2482,6 +2482,52 @@
         "coordinates": [
           -49.1677988,
           -26.7164083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12309420825",
+      "properties": {
+        "timestamp": "2024-11-03T13:10:36Z",
+        "version": 1,
+        "changeset": 158698575,
+        "access": "customers",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "ground_slots",
+        "capacity": "5",
+        "fee": "no",
+        "operator": "Dárien Bike Shop",
+        "id": "node/12309420825"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.1739243,
+          -26.7479805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12309420836",
+      "properties": {
+        "timestamp": "2024-11-03T13:10:36Z",
+        "version": 1,
+        "changeset": 158698575,
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "ground_slots",
+        "capacity": "2",
+        "covered": "no",
+        "fee": "no",
+        "id": "node/12309420836"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.1736165,
+          -26.7497906
         ]
       }
     }

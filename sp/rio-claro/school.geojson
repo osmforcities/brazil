@@ -758,9 +758,9 @@
       "type": "Feature",
       "id": "way/584451791",
       "properties": {
-        "timestamp": "2018-04-29T18:52:55Z",
-        "version": 1,
-        "changeset": 58535113,
+        "timestamp": "2024-11-03T00:25:37Z",
+        "version": 2,
+        "changeset": 158681577,
         "amenity": "school",
         "name": "Escola Municipal Antonio Sebastião da Silva",
         "id": "way/584451791"
@@ -770,24 +770,44 @@
         "coordinates": [
           [
             [
-              -47.5723205,
-              -22.3800724
+              -47.5722582,
+              -22.3801172
             ],
             [
-              -47.571296,
-              -22.3811777
+              -47.5713652,
+              -22.3810956
+            ],
+            [
+              -47.5713064,
+              -22.3811158
+            ],
+            [
+              -47.5712718,
+              -22.3811105
             ],
             [
               -47.5709382,
               -22.3808243
             ],
             [
-              -47.5718651,
-              -22.3797191
+              -47.5709371,
+              -22.380754
             ],
             [
-              -47.5723205,
-              -22.3800724
+              -47.5718063,
+              -22.3797735
+            ],
+            [
+              -47.5718864,
+              -22.3797578
+            ],
+            [
+              -47.5722503,
+              -22.3800302
+            ],
+            [
+              -47.5722582,
+              -22.3801172
             ]
           ]
         ]
@@ -1540,9 +1560,10 @@
       "type": "Feature",
       "id": "way/1317297076",
       "properties": {
-        "timestamp": "2024-09-22T00:39:33Z",
-        "version": 1,
-        "changeset": 156932560,
+        "timestamp": "2024-11-03T14:52:43Z",
+        "version": 2,
+        "changeset": 158702963,
+        "addr:suburb": "Novo Jardim Wenzel",
         "amenity": "school",
         "id": "way/1317297076"
       },
@@ -1745,9 +1766,9 @@
       "type": "Feature",
       "id": "way/1317721489",
       "properties": {
-        "timestamp": "2024-09-23T23:03:22Z",
-        "version": 1,
-        "changeset": 157016380,
+        "timestamp": "2024-11-03T16:12:50Z",
+        "version": 2,
+        "changeset": 158706332,
         "amenity": "school",
         "id": "way/1317721489"
       },
@@ -1760,8 +1781,8 @@
               -22.4154416
             ],
             [
-              -47.5858187,
-              -22.4162247
+              -47.5858321,
+              -22.416252
             ],
             [
               -47.5850356,
@@ -1772,8 +1793,12 @@
               -22.4161909
             ],
             [
-              -47.5850051,
-              -22.4154754
+              -47.5850158,
+              -22.4154605
+            ],
+            [
+              -47.5855213,
+              -22.4153965
             ],
             [
               -47.5857425,
@@ -2490,6 +2515,108 @@
             [
               -47.5881418,
               -22.2617141
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1330305789",
+      "properties": {
+        "timestamp": "2024-11-03T00:23:56Z",
+        "version": 1,
+        "changeset": 158681554,
+        "addr:housenumber": "658",
+        "addr:street": "Rua M 14",
+        "amenity": "school",
+        "name": "Programa Educação Integral Professor Victorino Machado",
+        "religion": "none",
+        "id": "way/1330305789"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.5686416,
+              -22.3806694
+            ],
+            [
+              -47.5688171,
+              -22.3806872
+            ],
+            [
+              -47.5688432,
+              -22.3807113
+            ],
+            [
+              -47.5688307,
+              -22.3808338
+            ],
+            [
+              -47.5686778,
+              -22.380816
+            ],
+            [
+              -47.5686778,
+              -22.3807783
+            ],
+            [
+              -47.5686269,
+              -22.3807773
+            ],
+            [
+              -47.5686416,
+              -22.3806694
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1330459129",
+      "properties": {
+        "timestamp": "2024-11-03T18:38:40Z",
+        "version": 1,
+        "changeset": 158711850,
+        "addr:housenumber": "401",
+        "addr:postcode": "13502-290",
+        "addr:street": "Avenida 18 BR",
+        "addr:suburb": "Parque Residencial Brasília",
+        "amenity": "school",
+        "contact:facebook": "https://www.facebook.com/escolaisolinahuppertcassaviarc/",
+        "email": "escolamunicipalisolina@gmail.com.br",
+        "official_name": "Escola Municipal Professora Isolina Huppert Cassavia",
+        "phone": "+55 19 3533 2833",
+        "religion": "none",
+        "short_name": "E.M. Professora solina Huppert Cassavia",
+        "id": "way/1330459129"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.5819376,
+              -22.4336431
+            ],
+            [
+              -47.5817927,
+              -22.4344612
+            ],
+            [
+              -47.5810605,
+              -22.4342753
+            ],
+            [
+              -47.5812375,
+              -22.4334993
+            ],
+            [
+              -47.5819376,
+              -22.4336431
             ]
           ]
         ]

@@ -370,9 +370,9 @@
       "type": "Feature",
       "id": "way/584407450",
       "properties": {
-        "timestamp": "2024-09-18T15:37:10Z",
-        "version": 4,
-        "changeset": 156779926,
+        "timestamp": "2024-11-03T14:52:43Z",
+        "version": 5,
+        "changeset": 158702963,
         "addr:housenumber": "680",
         "addr:postcode": "13503-665",
         "addr:street": "Rua Seis Jw",
@@ -380,6 +380,7 @@
         "amenity": "clinic",
         "building": "yes",
         "healthcare": "clinic",
+        "healthcare:speciality": "general",
         "name": "Unidade da Saúde da Família Célia Aparecida Ceccato da Silva",
         "opening_hours": "Mo-Fr 07:00-19:00; PH off",
         "operator": "Fundação Municipal de Saúde",
@@ -1072,6 +1073,69 @@
             [
               -47.5635964,
               -22.4248184
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1330433399",
+      "properties": {
+        "timestamp": "2024-11-03T21:09:12Z",
+        "version": 2,
+        "changeset": 158717415,
+        "addr:street": "Estrada dos Costas",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Unidade de Saúde da Família Enfermeira Neusa Maria Mortari",
+        "operator": "Fundação Municipal de Saúde",
+        "operator:type": "government",
+        "short_name": "USF Jardim Brasília",
+        "start_date": "2019-05-18",
+        "id": "way/1330433399"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.5816745,
+              -22.4305907
+            ],
+            [
+              -47.5816482,
+              -22.4306748
+            ],
+            [
+              -47.5813875,
+              -22.4305982
+            ],
+            [
+              -47.5814077,
+              -22.4305197
+            ],
+            [
+              -47.5814986,
+              -22.4305458
+            ],
+            [
+              -47.5815128,
+              -22.4305197
+            ],
+            [
+              -47.5815856,
+              -22.4305384
+            ],
+            [
+              -47.5815734,
+              -22.4305608
+            ],
+            [
+              -47.5816745,
+              -22.4305907
             ]
           ]
         ]

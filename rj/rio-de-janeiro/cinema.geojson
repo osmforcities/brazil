@@ -689,25 +689,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/4980328873",
-      "properties": {
-        "timestamp": "2017-07-19T19:17:09Z",
-        "version": 1,
-        "changeset": 50414549,
-        "amenity": "cinema",
-        "name": "Cine 10 Sulacap",
-        "id": "node/4980328873"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.4041792,
-          -22.8857359
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/5225152111",
       "properties": {
         "timestamp": "2017-11-12T18:40:33Z",
@@ -1078,6 +1059,29 @@
         "coordinates": [
           -43.3414262,
           -22.8706859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12310238668",
+      "properties": {
+        "timestamp": "2024-11-03T19:38:52Z",
+        "version": 1,
+        "changeset": 158714190,
+        "addr:street": "Avenida Marechal Fontenelle",
+        "amenity": "cinema",
+        "name": "Cinesystem",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "id": "node/12310238668"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.4027978,
+          -22.8864597
         ]
       }
     }

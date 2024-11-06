@@ -5,26 +5,26 @@
       "type": "Feature",
       "id": "way/565603690",
       "properties": {
-        "timestamp": "2024-09-24T21:14:58Z",
-        "version": 3,
-        "changeset": 157057375,
+        "timestamp": "2024-11-04T14:48:52Z",
+        "version": 4,
+        "changeset": 158744070,
         "addr:city": "Rio Claro",
         "addr:housenumber": "1012",
         "addr:postcode": "13502-748",
-        "addr:street": "Rua Oito Jn",
+        "addr:street": "Rua 8 JN",
         "addr:suburb": "Jardim Novo I",
         "amenity": "clinic",
         "building": "yes",
         "healthcare": "clinic",
         "healthcare:speciality": "general",
         "name": "Unidade Saúde da Família Doutor Dirceu Ferreira Penteado",
-        "opening_hours": "Mo-Fr 07:00-16:00; PH off",
-        "operator": "Fundação Municipal de Saúde de Rio Claro",
+        "opening_hours": "Mo-Fr 07:00-17:00; PH off",
+        "operator": "Fundação Municipal de Saúde",
         "operator:type": "government",
         "phone": "+55 19 3534 4975",
         "ref:CNES": "3347087",
-        "short_name": "USF Jardim Novo I e II",
-        "source": "http://www.saude-rioclaro.org.br/enderecos.htm;CNES",
+        "short_name": "USF Jardim Novo",
+        "source": "https://cnes2.datasus.gov.br/Exibe_Ficha_Estabelecimento.asp?VCo_Unidade=3543903347087;https://www.saude-rioclaro.org.br/enderecos.html",
         "id": "way/565603690"
       },
       "geometry": {
@@ -287,9 +287,9 @@
       "type": "Feature",
       "id": "way/584407449",
       "properties": {
-        "timestamp": "2024-10-29T23:05:10Z",
-        "version": 4,
-        "changeset": 158520131,
+        "timestamp": "2024-11-04T15:14:34Z",
+        "version": 5,
+        "changeset": 158745100,
         "addr:housenumber": "420",
         "addr:postcode": "13503-505",
         "addr:street": "Avenida Oito Jc",
@@ -297,13 +297,15 @@
         "amenity": "clinic",
         "building": "yes",
         "healthcare": "clinic",
+        "healthcare:speciality": "general",
         "name": "Unidade de Saúde da Família Doutor Noberto Antônio Simão Carneiro",
-        "opening_hours": "Mo-Fr 07:00-16:00; PH off",
+        "opening_hours": "Mo-Fr 07:00-17:00; PH off",
         "operator": "Fundação Municipal de Saúde",
         "operator:type": "government",
         "phone": "+55 19 3524 0313",
         "ref:CNES": "3355519",
         "short_name": "USF Jardim Centenário",
+        "source": "https://www.saude-rioclaro.org.br/enderecos.html;https://cnes2.datasus.gov.br/Exibe_Ficha_Estabelecimento.asp?VCo_Unidade=3543903355519",
         "id": "way/584407449"
       },
       "geometry": {
@@ -370,9 +372,9 @@
       "type": "Feature",
       "id": "way/584407450",
       "properties": {
-        "timestamp": "2024-11-03T14:52:43Z",
-        "version": 5,
-        "changeset": 158702963,
+        "timestamp": "2024-11-04T15:17:29Z",
+        "version": 6,
+        "changeset": 158745201,
         "addr:housenumber": "680",
         "addr:postcode": "13503-665",
         "addr:street": "Rua Seis Jw",
@@ -387,8 +389,8 @@
         "operator:type": "government",
         "phone": "+55 19 3534 0509",
         "ref:CNES": "2055902",
-        "short_name": "USF Bonsucesso/Novo Wenzel -",
-        "source": "CNES",
+        "short_name": "USF Bonsucesso",
+        "source": "CNES;https://www.saude-rioclaro.org.br/enderecos.html",
         "id": "way/584407450"
       },
       "geometry": {
@@ -787,19 +789,19 @@
       "type": "Feature",
       "id": "way/584463426",
       "properties": {
-        "timestamp": "2024-10-20T02:09:02Z",
-        "version": 4,
-        "changeset": 158111837,
+        "timestamp": "2024-11-04T14:04:03Z",
+        "version": 6,
+        "changeset": 158742141,
         "addr:housenumber": "4219",
         "addr:postcode": "13504-365",
-        "addr:street": "Rua Vinte e Um",
+        "addr:street": "Rua 21",
         "addr:suburb": "Jardim Wenzel",
         "amenity": "clinic",
         "building": "yes",
         "healthcare": "clinic",
         "healthcare:speciality": "general;vaccination",
         "name": "Unidade Básica de Saúde Doutor Mario Fittipaldi",
-        "opening_hours": "MO-Fr 07:00-16:00; PH off",
+        "opening_hours": "Mo-Fr 07:00-16:00; PH off",
         "operator": "Fundação Municipal de Saúde",
         "operator:type": "government",
         "phone": "+55 19 3533 3343",
@@ -1082,18 +1084,23 @@
       "type": "Feature",
       "id": "way/1330433399",
       "properties": {
-        "timestamp": "2024-11-03T21:09:12Z",
-        "version": 2,
-        "changeset": 158717415,
+        "timestamp": "2024-11-04T13:14:36Z",
+        "version": 3,
+        "changeset": 158740089,
+        "addr:housenumber": "1349",
         "addr:street": "Estrada dos Costas",
+        "addr:suburb": "Jardim Brasília",
         "amenity": "clinic",
         "building": "yes",
         "healthcare": "clinic",
         "healthcare:speciality": "general",
         "name": "Unidade de Saúde da Família Enfermeira Neusa Maria Mortari",
+        "opening_hours": "Mo-Fr 07:00-16:00; PH off",
         "operator": "Fundação Municipal de Saúde",
         "operator:type": "government",
+        "ref:CNES": "9523200",
         "short_name": "USF Jardim Brasília",
+        "source": "CNES",
         "start_date": "2019-05-18",
         "id": "way/1330433399"
       },
@@ -1136,6 +1143,92 @@
             [
               -47.5816745,
               -22.4305907
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1330683412",
+      "properties": {
+        "timestamp": "2024-11-04T14:39:49Z",
+        "version": 1,
+        "changeset": 158743695,
+        "addr:postcode": "13506-150",
+        "addr:street": "Rua 19 RV",
+        "addr:suburb": "Conjunto Residencial Vila Verde",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Unidade de Saúde da Família Doutor Eduardo Reis",
+        "opening_hours": "Mo-Fr 07:00-19:00; PH off",
+        "operator": "Fundação Municipal de Daúde",
+        "operator:type": "government",
+        "phone": "+55 19 3522-1403",
+        "phone_1": "+55 19 3536 3396",
+        "ref:CNES": "2085097",
+        "short_name": "USF Mãe Preta",
+        "source": "https://cnes2.datasus.gov.br/Exibe_Ficha_Estabelecimento.asp?VCo_Unidade=3543902085097;https://www.saude-rioclaro.org.br/enderecos.html",
+        "wheelchair": "yes",
+        "id": "way/1330683412"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.544043,
+              -22.37282
+            ],
+            [
+              -47.5440184,
+              -22.3729239
+            ],
+            [
+              -47.5440764,
+              -22.3729353
+            ],
+            [
+              -47.5440711,
+              -22.3729564
+            ],
+            [
+              -47.544136,
+              -22.3729758
+            ],
+            [
+              -47.5440676,
+              -22.3731949
+            ],
+            [
+              -47.5438728,
+              -22.3731495
+            ],
+            [
+              -47.5439114,
+              -22.3729937
+            ],
+            [
+              -47.5438728,
+              -22.3729856
+            ],
+            [
+              -47.5438886,
+              -22.372919
+            ],
+            [
+              -47.5439325,
+              -22.3729239
+            ],
+            [
+              -47.5439658,
+              -22.3728054
+            ],
+            [
+              -47.544043,
+              -22.37282
             ]
           ]
         ]

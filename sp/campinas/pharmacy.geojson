@@ -614,9 +614,11 @@
       "type": "Feature",
       "id": "way/1235207072",
       "properties": {
-        "timestamp": "2023-12-29T15:33:03Z",
-        "version": 1,
-        "changeset": 145666681,
+        "timestamp": "2024-11-04T10:43:53Z",
+        "version": 2,
+        "changeset": 158734628,
+        "addr:housenumber": "852",
+        "addr:street": "Rua Maria Tereza Dias da Silva",
         "amenity": "pharmacy",
         "brand": "Drogasil",
         "brand:wikidata": "Q5308185",
@@ -2313,30 +2315,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/5436431496",
-      "properties": {
-        "timestamp": "2021-02-20T23:20:44Z",
-        "version": 2,
-        "changeset": 99663646,
-        "amenity": "pharmacy",
-        "brand": "Drogasil",
-        "brand:wikidata": "Q5308185",
-        "brand:wikipedia": "pt:Drogasil",
-        "healthcare": "pharmacy",
-        "name": "Drogasil",
-        "wheelchair": "yes",
-        "id": "node/5436431496"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -47.0777825,
-          -22.8076487
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/5495031721",
       "properties": {
         "timestamp": "2019-05-12T00:43:24Z",
@@ -3267,6 +3245,34 @@
         "coordinates": [
           -47.0613974,
           -22.8886986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12312306941",
+      "properties": {
+        "timestamp": "2024-11-04T16:10:54Z",
+        "version": 1,
+        "changeset": 158747330,
+        "addr:city": "Campinas",
+        "addr:housenumber": "2262",
+        "addr:postcode": "13023-102",
+        "addr:street": "Rua José Paulino",
+        "addr:suburb": "Vila Itapura",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "mobile": "+55 (19) 99546-4875",
+        "name": "Biosíntese",
+        "opening_hours": "Mo-Fr 08:30-18:00; Sa 08:30-12:00",
+        "phone": "+55 (19) 3234-2828",
+        "id": "node/12312306941"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0661785,
+          -22.8953498
         ]
       }
     }

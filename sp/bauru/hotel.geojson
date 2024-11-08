@@ -170,53 +170,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/585464584",
-      "properties": {
-        "timestamp": "2024-10-28T01:06:50Z",
-        "version": 3,
-        "changeset": 158436244,
-        "brand": "Ibis Styles",
-        "brand:wikidata": "Q3147425",
-        "brand:wikipedia": "en:Ibis Styles",
-        "building": "yes",
-        "name": "Ibis Styles",
-        "tourism": "hotel",
-        "id": "way/585464584"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -49.0542703,
-              -22.3359027
-            ],
-            [
-              -49.0543988,
-              -22.3359864
-            ],
-            [
-              -49.054214,
-              -22.3362293
-            ],
-            [
-              -49.0540854,
-              -22.3361456
-            ],
-            [
-              -49.0541779,
-              -22.3360242
-            ],
-            [
-              -49.0542703,
-              -22.3359027
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/587793151",
       "properties": {
         "timestamp": "2018-11-11T21:11:56Z",
@@ -373,9 +326,9 @@
       "type": "Feature",
       "id": "way/682320134",
       "properties": {
-        "timestamp": "2019-04-07T23:21:38Z",
-        "version": 1,
-        "changeset": 68989305,
+        "timestamp": "2024-11-06T01:36:22Z",
+        "version": 2,
+        "changeset": 158800493,
         "brand": "Comfort Inn",
         "brand:wikidata": "Q1075788",
         "brand:wikipedia": "en:Choice Hotels",
@@ -389,40 +342,32 @@
         "coordinates": [
           [
             [
-              -49.0507626,
-              -22.3398401
+              -49.050747,
+              -22.33989
             ],
             [
-              -49.0508488,
-              -22.3398714
+              -49.0508463,
+              -22.3399516
             ],
             [
-              -49.0508488,
-              -22.3399512
+              -49.0507271,
+              -22.3401158
             ],
             [
-              -49.0507595,
-              -22.3400624
+              -49.0505429,
+              -22.3400014
             ],
             [
-              -49.0506301,
-              -22.3399968
+              -49.0505917,
+              -22.339934
             ],
             [
-              -49.0505561,
-              -22.3399512
+              -49.0506767,
+              -22.3399868
             ],
             [
-              -49.0506085,
-              -22.3399028
-            ],
-            [
-              -49.0506825,
-              -22.339937
-            ],
-            [
-              -49.0507626,
-              -22.3398401
+              -49.050747,
+              -22.33989
             ]
           ]
         ]
@@ -467,6 +412,55 @@
             [
               -49.0770951,
               -22.3232385
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1331162161",
+      "properties": {
+        "timestamp": "2024-11-06T01:36:22Z",
+        "version": 1,
+        "changeset": 158800493,
+        "addr:city": "Bauru",
+        "addr:postcode": "17012-901",
+        "addr:street": "Avenida Nações Unidas",
+        "internet_access": "yes",
+        "internet_access:fee": "customers",
+        "name": "Hotel Nacional Inn Bauru",
+        "tourism": "hotel",
+        "website": "https://www.nacionalinn.com.br/hotel/nacional-inn-bauru",
+        "id": "way/1331162161"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.054474,
+              -22.3359646
+            ],
+            [
+              -49.0542642,
+              -22.3362554
+            ],
+            [
+              -49.0539763,
+              -22.3360776
+            ],
+            [
+              -49.0541643,
+              -22.3358171
+            ],
+            [
+              -49.0542351,
+              -22.3358171
+            ],
+            [
+              -49.054474,
+              -22.3359646
             ]
           ]
         ]
@@ -562,24 +556,6 @@
         "coordinates": [
           -49.0695725,
           -22.3167888
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/12292812765",
-      "properties": {
-        "timestamp": "2024-10-28T01:06:50Z",
-        "version": 1,
-        "changeset": 158436244,
-        "entrance": "main",
-        "id": "node/12292812765"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.0541779,
-          -22.3360242
         ]
       }
     }

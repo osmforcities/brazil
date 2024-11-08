@@ -12584,6 +12584,61 @@
     },
     {
       "type": "Feature",
+      "id": "way/846560981",
+      "properties": {
+        "timestamp": "2024-11-06T02:20:00Z",
+        "version": 2,
+        "changeset": 158801089,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "77",
+        "addr:postcode": "05114-110",
+        "addr:street": "Praça General Guimarães",
+        "addr:suburb": "Vila Jaguara",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "cardiology;neuropediatria;paediatrics;gynaecology;psicoterapia",
+        "height": "7.8",
+        "name": "Hospital Saint Patrick Portinari",
+        "operator": "Associação Hospitalar Saint Patrick",
+        "phone": "+55 11 3465-0700",
+        "website": "https://saintpatrick.com.br/unidade-hospitalar/portinari/",
+        "id": "way/846560981"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.7512648,
+              -23.5082698
+            ],
+            [
+              -46.751206,
+              -23.5085975
+            ],
+            [
+              -46.7511865,
+              -23.5085989
+            ],
+            [
+              -46.7510363,
+              -23.5083057
+            ],
+            [
+              -46.7510625,
+              -23.5082384
+            ],
+            [
+              -46.7512648,
+              -23.5082698
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/869777503",
       "properties": {
         "timestamp": "2023-06-01T12:55:58Z",
@@ -20021,6 +20076,34 @@
         "coordinates": [
           -46.671408,
           -23.5686311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12316699492",
+      "properties": {
+        "timestamp": "2024-11-06T02:26:04Z",
+        "version": 1,
+        "changeset": 158801171,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "616",
+        "addr:postcode": "05114-000",
+        "addr:street": "Avenida Cândido Portinari",
+        "addr:suburb": "Vila Jaguara",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hospital Saint Patrick Jaguara",
+        "operator": "Associação Hospitalar Saint Patrick",
+        "phone": "5069-0002",
+        "website": "https://saintpatrick.com.br/unidade-hospitalar/jaguara/",
+        "id": "node/12316699492"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7523764,
+          -23.5082792
         ]
       }
     }

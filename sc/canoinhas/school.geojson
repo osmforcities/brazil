@@ -180,9 +180,9 @@
       "type": "Feature",
       "id": "way/556020967",
       "properties": {
-        "timestamp": "2018-01-26T15:39:37Z",
-        "version": 1,
-        "changeset": 55776011,
+        "timestamp": "2024-11-07T12:23:30Z",
+        "version": 2,
+        "changeset": 158853754,
         "amenity": "school",
         "name": "Cabral",
         "id": "way/556020967"
@@ -192,28 +192,36 @@
         "coordinates": [
           [
             [
-              -50.3988027,
-              -26.1757737
+              -50.3987223,
+              -26.175637
             ],
             [
-              -50.3991031,
-              -26.1757015
+              -50.3990479,
+              -26.1755212
             ],
             [
               -50.3991997,
               -26.1762118
             ],
             [
-              -50.3985774,
-              -26.1765777
+              -50.3985925,
+              -26.1765747
             ],
             [
-              -50.3983306,
-              -26.1760578
+              -50.3984088,
+              -26.1763223
             ],
             [
-              -50.3988027,
-              -26.1757737
+              -50.3980859,
+              -26.1765116
+            ],
+            [
+              -50.3978652,
+              -26.1759917
+            ],
+            [
+              -50.3987223,
+              -26.175637
             ]
           ]
         ]
@@ -315,6 +323,103 @@
               -26.1814008
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1331592861",
+      "properties": {
+        "timestamp": "2024-11-07T12:12:20Z",
+        "version": 1,
+        "changeset": 158853336,
+        "addr:street": "Rua Coronel Januário de Assis Corte",
+        "amenity": "school",
+        "name": "E.B.M Maria lovatel pires",
+        "id": "way/1331592861"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -50.3924092,
+              -26.1597556
+            ],
+            [
+              -50.3931629,
+              -26.1597459
+            ],
+            [
+              -50.3931816,
+              -26.1600481
+            ],
+            [
+              -50.3924333,
+              -26.1600408
+            ],
+            [
+              -50.3924092,
+              -26.1597556
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12320473405",
+      "properties": {
+        "timestamp": "2024-11-07T12:19:06Z",
+        "version": 1,
+        "changeset": 158853617,
+        "amenity": "school",
+        "name": "E.B.M Maria lovatel Pires",
+        "id": "node/12320473405"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.3928249,
+          -26.1598765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12320473406",
+      "properties": {
+        "timestamp": "2024-11-07T12:19:06Z",
+        "version": 1,
+        "changeset": 158853617,
+        "amenity": "school",
+        "name": "C.E.I Cecília Meireles",
+        "id": "node/12320473406"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.3933292,
+          -26.1598621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12320479609",
+      "properties": {
+        "timestamp": "2024-11-07T12:20:23Z",
+        "version": 1,
+        "changeset": 158853654,
+        "amenity": "school",
+        "name": "Escola Estadual Julia Baloli Zaniolo",
+        "id": "node/12320479609"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.3592059,
+          -26.1861923
         ]
       }
     }

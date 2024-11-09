@@ -42,6 +42,55 @@
     },
     {
       "type": "Feature",
+      "id": "way/334703781",
+      "properties": {
+        "timestamp": "2024-11-07T00:38:42Z",
+        "version": 3,
+        "changeset": 158837683,
+        "addr:housenumber": "520",
+        "addr:postcode": "29168010",
+        "addr:street": "Avenida Paulo Miguel Bohomoletz",
+        "alt_name": "Serviço Nacional de Aprendizagem Industrial - Unidade Civit",
+        "amenity": "college",
+        "name": "SENAI Civit",
+        "opening_hours": "Mo-Fr 09:00-19:00",
+        "website": "https://senaies.com.br",
+        "id": "way/334703781"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.2389643,
+              -20.1653353
+            ],
+            [
+              -40.2388546,
+              -20.1643134
+            ],
+            [
+              -40.238916,
+              -20.1643074
+            ],
+            [
+              -40.2406642,
+              -20.1641384
+            ],
+            [
+              -40.2407636,
+              -20.1651587
+            ],
+            [
+              -40.2389643,
+              -20.1653353
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/335804145",
       "properties": {
         "timestamp": "2022-07-29T05:22:41Z",
@@ -145,26 +194,19 @@
     },
     {
       "type": "Feature",
-      "id": "node/12312824001",
+      "id": "node/9200236824",
       "properties": {
-        "timestamp": "2024-11-04T21:15:56Z",
+        "timestamp": "2024-11-07T00:38:42Z",
         "version": 2,
-        "changeset": 158757253,
-        "addr:housenumber": "520",
-        "addr:postcode": "29168010",
-        "addr:street": "Avenida Paulo Miguel Bohomoletz",
-        "alt_name": "Serviço Nacional de Aprendizagem Industrial - Unidade Civit",
-        "amenity": "college",
-        "name": "SENAI Civit",
-        "opening_hours": "Mo-Fr 09:00-19:00",
-        "website": "https://senaies.com.br",
-        "id": "node/12312824001"
+        "changeset": 158837683,
+        "barrier": "gate",
+        "id": "node/9200236824"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -40.2399748,
-          -20.1642861
+          -40.238916,
+          -20.1643074
         ]
       }
     }

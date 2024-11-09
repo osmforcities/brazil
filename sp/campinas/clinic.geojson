@@ -752,6 +752,56 @@
     },
     {
       "type": "Feature",
+      "id": "way/978163346",
+      "properties": {
+        "timestamp": "2024-11-07T21:37:38Z",
+        "version": 2,
+        "changeset": 158873000,
+        "addr:city": "Campinas",
+        "addr:housenumber": "301",
+        "addr:postcode": "13020-210",
+        "addr:street": "Rua Mário Siqueira",
+        "addr:suburb": "Botafogo",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "ophthalmology",
+        "name": "Clínica Raskin",
+        "opening_hours": "Mo-Fr 08:00-18:00",
+        "phone": "+55 (19) 3322-1000",
+        "website": "https://clinicaraskin.com.br/",
+        "id": "way/978163346"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.0698486,
+              -22.8973829
+            ],
+            [
+              -47.0697007,
+              -22.8972802
+            ],
+            [
+              -47.0697987,
+              -22.8971554
+            ],
+            [
+              -47.069956,
+              -22.8972558
+            ],
+            [
+              -47.0698486,
+              -22.8973829
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/982830956",
       "properties": {
         "timestamp": "2024-10-10T10:48:37Z",
@@ -3571,6 +3621,33 @@
         "coordinates": [
           -47.0750812,
           -22.8940918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12321391740",
+      "properties": {
+        "timestamp": "2024-11-07T21:20:37Z",
+        "version": 1,
+        "changeset": 158872458,
+        "addr:city": "Campinas",
+        "addr:housenumber": "2195",
+        "addr:postcode": "13023-102",
+        "addr:street": "Rua José Paulino",
+        "addr:suburb": "Vila Itapura",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "occupational",
+        "name": "Occupmédica",
+        "phone": "+55 (19) 3234-9616",
+        "id": "node/12321391740"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0662358,
+          -22.8961354
         ]
       }
     }

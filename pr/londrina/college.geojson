@@ -406,53 +406,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/618797060",
-      "properties": {
-        "timestamp": "2024-03-17T23:39:43Z",
-        "version": 3,
-        "changeset": 148794080,
-        "addr:housenumber": "1555",
-        "addr:street": "Avenida Saul Elkind",
-        "amenity": "college",
-        "email": "relacionamento.ldanorte@sescpr.com.br",
-        "name": "Sesc Londrina Norte",
-        "opening_hours": "Mo-Fr 07:00-22:00; Sa 08:00-12:00; Su,PH off",
-        "operator": "Serviço Social do Comércio",
-        "operator:type": "private_non_profit",
-        "phone": "+55 43 3572 7900",
-        "website": "https://www.sescpr.com.br/unidade/sesc-londrina-norte/",
-        "id": "way/618797060"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -51.1543691,
-              -23.2578476
-            ],
-            [
-              -51.1543752,
-              -23.2585336
-            ],
-            [
-              -51.1535898,
-              -23.2585272
-            ],
-            [
-              -51.1536002,
-              -23.2579243
-            ],
-            [
-              -51.1543691,
-              -23.2578476
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/633070011",
       "properties": {
         "timestamp": "2024-04-17T01:57:44Z",
@@ -567,6 +520,55 @@
             [
               -51.1587663,
               -23.3308174
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1331665653",
+      "properties": {
+        "timestamp": "2024-11-07T17:02:55Z",
+        "version": 1,
+        "changeset": 158864615,
+        "addr:city": "Londrina",
+        "addr:housenumber": "100",
+        "addr:postcode": "86084-635",
+        "addr:street": "Rua Cegonha",
+        "addr:suburb": "Conj. Hab. Violim",
+        "amenity": "college",
+        "internet_access": "yes",
+        "name": "Senac Londrina Norte",
+        "operator": "Senac",
+        "operator:type": "private_non_profit",
+        "phone": "+55 43 3572 7950",
+        "website": "https://www.senacpr.com/",
+        "id": "way/1331665653"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.1544099,
+              -23.2584889
+            ],
+            [
+              -51.1544123,
+              -23.258921
+            ],
+            [
+              -51.1536245,
+              -23.2588972
+            ],
+            [
+              -51.1536174,
+              -23.2584975
+            ],
+            [
+              -51.1544099,
+              -23.2584889
             ]
           ]
         ]

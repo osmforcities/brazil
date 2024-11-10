@@ -30972,9 +30972,9 @@
       "type": "Feature",
       "id": "way/462698257",
       "properties": {
-        "timestamp": "2021-01-12T12:17:51Z",
-        "version": 5,
-        "changeset": 97372949,
+        "timestamp": "2024-11-08T19:52:23Z",
+        "version": 6,
+        "changeset": 158909580,
         "addr:city": "São Paulo",
         "addr:country": "BR",
         "addr:housenumber": "3422",
@@ -31108,6 +31108,10 @@
             [
               -46.625237,
               -23.4897546
+            ],
+            [
+              -46.6261771,
+              -23.4896026
             ],
             [
               -46.6261981,
@@ -47705,18 +47709,21 @@
       "type": "Feature",
       "id": "way/619637517",
       "properties": {
-        "timestamp": "2021-10-16T15:52:19Z",
-        "version": 2,
-        "changeset": 112584430,
+        "timestamp": "2024-11-08T20:16:20Z",
+        "version": 3,
+        "changeset": 158910297,
         "addr:city": "São Paulo",
         "addr:housenumber": "506",
-        "addr:postcode": "05872080",
+        "addr:postcode": "05872-080",
         "addr:street": "Rua Gagliano Netto",
         "addr:suburb": "Jardim Soraia",
         "amenity": "school",
         "grades": "Fundamental I",
         "height": "10.82",
         "name": "Escola Estadual Dona Maria do Carmo Campos Ferreira",
+        "operator": "Secretaria da Educação do Estado de São Paulo",
+        "operator:type": "government",
+        "religion": "none",
         "source": "pmsp",
         "website": "https://eedmariadocarmocamposferreira.blogspot.com/",
         "id": "way/619637517"
@@ -88472,6 +88479,74 @@
     },
     {
       "type": "Feature",
+      "id": "way/1332054241",
+      "properties": {
+        "timestamp": "2024-11-08T20:16:20Z",
+        "version": 1,
+        "changeset": 158910297,
+        "addr:housenumber": "243",
+        "addr:postcode": "05881-020",
+        "addr:street": "Rua Abílio César",
+        "addr:suburb": "Jardim Soraia",
+        "amenity": "school",
+        "contact:facebook": "https://www.facebook.com/people/Escola-Professor-Jo%C3%A3o-Silva/100063950354429/",
+        "operator": "Secretaria da Educação do Estado de São Paulo",
+        "operator:type": "government",
+        "phone": "+55 11 5872 3030",
+        "religion": "none",
+        "short_name": "Escola Estadual Professor João Silva",
+        "id": "way/1332054241"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.7766848,
+              -23.6802326
+            ],
+            [
+              -46.7768243,
+              -23.6804954
+            ],
+            [
+              -46.7765882,
+              -23.6806133
+            ],
+            [
+              -46.7767036,
+              -23.6808
+            ],
+            [
+              -46.776261,
+              -23.6809793
+            ],
+            [
+              -46.7760867,
+              -23.6807877
+            ],
+            [
+              -46.7759499,
+              -23.680687
+            ],
+            [
+              -46.7759177,
+              -23.6805912
+            ],
+            [
+              -46.7758694,
+              -23.6803335
+            ],
+            [
+              -46.7766848,
+              -23.6802326
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/222842154",
       "properties": {
         "timestamp": "2023-06-07T15:20:09Z",
@@ -105078,58 +105153,6 @@
         "coordinates": [
           -46.6376495,
           -23.5279156
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/9176642451",
-      "properties": {
-        "timestamp": "2021-10-16T16:06:54Z",
-        "version": 2,
-        "changeset": 112585040,
-        "addr:city": "São Paulo",
-        "addr:housenumber": "506",
-        "addr:postcode": "05872080",
-        "addr:street": "Rua Gagliano Netto",
-        "addr:suburb": "Jardim Soraia",
-        "amenity": "school",
-        "grades": "Fundamental I",
-        "name": "Escola Estadual Dona Maria Do Carmo Campos Ferreira",
-        "website": "https://eedmariadocarmocamposferreira.blogspot.com/",
-        "id": "node/9176642451"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -46.7767038,
-          -23.681035
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/9176642452",
-      "properties": {
-        "timestamp": "2021-10-16T16:03:41Z",
-        "version": 1,
-        "changeset": 112584917,
-        "addr:city": "São Paulo",
-        "addr:housenumber": "243",
-        "addr:postcode": "05881020",
-        "addr:street": "Rua Abílio César",
-        "addr:suburb": "Jardim Soraia",
-        "amenity": "school",
-        "grades": "Ensino Fundamental II e ensino Médio",
-        "name": "Escola Estadual Professor João Silva",
-        "website": "https://www.facebook.com/Escola-Professor-Jo%C3%A3o-Silva-107194374273555/",
-        "id": "node/9176642452"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -46.7764075,
-          -23.6804913
         ]
       }
     },

@@ -5,16 +5,18 @@
       "type": "Feature",
       "id": "way/353934957",
       "properties": {
-        "timestamp": "2019-08-10T03:21:27Z",
-        "version": 3,
-        "changeset": 73212039,
+        "timestamp": "2024-11-08T14:09:41Z",
+        "version": 5,
+        "changeset": 158897480,
         "addr:city": "Rio Pardo de Minas",
         "addr:housenumber": "96",
         "addr:postcode": "39530000",
-        "addr:street": "Rua Osorio Batista",
+        "addr:street": "Rua Osório Batista",
         "addr:suburb": "Cidade Alta",
         "amenity": "school",
         "name": "Escola Estadual Professor José Cristiano",
+        "operator": "Secretaria de Educação do Estado de Minas Gerais",
+        "operator:type": "public",
         "id": "way/353934957"
       },
       "geometry": {
@@ -88,10 +90,11 @@
       "type": "Feature",
       "id": "way/712428109",
       "properties": {
-        "timestamp": "2020-07-28T04:28:43Z",
-        "version": 3,
-        "changeset": 88594469,
+        "timestamp": "2024-11-08T13:06:37Z",
+        "version": 4,
+        "changeset": 158895018,
         "addr:city": "Rio Pardo de Minas",
+        "addr:housenumber": "286",
         "addr:postcode": "39530000",
         "addr:street": "Rua Arlindo Dias Silveira",
         "addr:suburb": "Jardim Florestal",
@@ -151,15 +154,18 @@
       "type": "Feature",
       "id": "way/712429325",
       "properties": {
-        "timestamp": "2019-08-10T03:49:51Z",
-        "version": 1,
-        "changeset": 73212221,
+        "timestamp": "2024-11-08T13:06:37Z",
+        "version": 2,
+        "changeset": 158895018,
         "addr:city": "Rio Pardo de Minas",
+        "addr:housenumber": "33",
         "addr:postcode": "39530000",
-        "addr:street": "Rua Osorio Batista",
+        "addr:street": "Avenida Espinosa",
         "addr:suburb": "Jardim Florestal",
         "amenity": "school",
-        "name": "Escola Municipal Monteiro Lobato",
+        "name": "Centro Municipal de Educação Infantil Monteiro Lobato",
+        "operator": "Município Rio Pardo de Minas",
+        "operator:type": "public",
         "id": "way/712429325"
       },
       "geometry": {
@@ -241,10 +247,15 @@
       "type": "Feature",
       "id": "way/746241561",
       "properties": {
-        "timestamp": "2019-11-16T21:00:08Z",
-        "version": 1,
-        "changeset": 77175113,
+        "timestamp": "2024-11-08T13:06:37Z",
+        "version": 2,
+        "changeset": 158895018,
+        "addr:city": "Rio Pardo de Minas",
+        "addr:postcode": "39530-000",
+        "addr:street": "Rua Dario Silveira",
+        "addr:suburb": "Centro",
         "amenity": "school",
+        "email": "serranovarosaherculana@gmail.com",
         "name": "Escola Municipal Professora Rosa Herculana",
         "id": "way/746241561"
       },
@@ -261,12 +272,12 @@
               -15.6397037
             ],
             [
-              -42.7296026,
-              -15.6404669
+              -42.7296266,
+              -15.6404484
             ],
             [
-              -42.7293062,
-              -15.6401312
+              -42.729311,
+              -15.6401173
             ],
             [
               -42.7302986,
@@ -280,10 +291,18 @@
       "type": "Feature",
       "id": "way/831075857",
       "properties": {
-        "timestamp": "2020-07-28T04:28:43Z",
-        "version": 1,
-        "changeset": 88594469,
+        "timestamp": "2024-11-08T13:06:37Z",
+        "version": 2,
+        "changeset": 158895018,
+        "addr:city": "Rio Pardo de Minas",
+        "addr:housenumber": "555",
+        "addr:postcode": "39530-000",
+        "addr:street": "Avenida Doutor Alberto Deodato Maia Barreto",
+        "addr:suburb": "Esplanada",
         "amenity": "school",
+        "name": "Escola Municipal Professora Brithes Mesquita",
+        "operator": "Município de Rio Pardo de Minas",
+        "operator:type": "public",
         "id": "way/831075857"
       },
       "geometry": {
@@ -370,10 +389,18 @@
       "type": "Feature",
       "id": "way/1331695162",
       "properties": {
-        "timestamp": "2024-11-07T19:30:21Z",
-        "version": 1,
-        "changeset": 158869246,
+        "timestamp": "2024-11-08T13:06:37Z",
+        "version": 2,
+        "changeset": 158895018,
+        "addr:city": "Rio Pardo de Minas",
+        "addr:housenumber": "30",
+        "addr:postcode": "39530-000",
+        "addr:street": "Praça Getúlio Vargas",
+        "addr:suburb": "Centro",
         "amenity": "school",
+        "name": "Escola Municipal Professor Gumercindo Costa",
+        "operator": "Município de Rio Pardo de Minas",
+        "operator:type": "public",
         "id": "way/1331695162"
       },
       "geometry": {
@@ -401,6 +428,80 @@
               -15.6110704
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1331945863",
+      "properties": {
+        "timestamp": "2024-11-08T13:06:37Z",
+        "version": 1,
+        "changeset": 158895018,
+        "addr:city": "Rio Pardo de Minas",
+        "addr:housenumber": "208",
+        "addr:postcode": "39530-000",
+        "addr:street": "Rua Tácito de Freitas Costa",
+        "addr:suburb": "Cidade Alta",
+        "amenity": "school",
+        "name": "Centro Municipal de Educação Infantil Casulo Menino Jesus",
+        "operator": "Município",
+        "operator:type": "public",
+        "id": "way/1331945863"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.5412614,
+              -15.6137192
+            ],
+            [
+              -42.5410454,
+              -15.6144035
+            ],
+            [
+              -42.5401331,
+              -15.614103
+            ],
+            [
+              -42.5404836,
+              -15.6134464
+            ],
+            [
+              -42.5412614,
+              -15.6137192
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12323633956",
+      "properties": {
+        "timestamp": "2024-11-08T13:06:37Z",
+        "version": 1,
+        "changeset": 158895018,
+        "addr:city": "Rio Pardo de Minas",
+        "addr:housenumber": "189",
+        "addr:postcode": "39530-000",
+        "addr:street": "Avenida Doutor Rafael Bastos Pereira",
+        "addr:suburb": "Centro",
+        "amenity": "school",
+        "email": "adacpai@gmail.com",
+        "name": "Pré Escola Municipal Pedacinho do Céu",
+        "operator": "Município de Rio Pardo de Minas",
+        "operator:type": "public",
+        "phone": "+55 38 3824 1520",
+        "id": "node/12323633956"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.5398909,
+          -15.6115647
         ]
       }
     }

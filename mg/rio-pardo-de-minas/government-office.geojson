@@ -77,17 +77,20 @@
       "type": "Feature",
       "id": "node/12319675017",
       "properties": {
-        "timestamp": "2024-11-07T19:30:21Z",
-        "version": 2,
-        "changeset": 158869246,
+        "timestamp": "2024-11-08T13:06:37Z",
+        "version": 3,
+        "changeset": 158895018,
         "addr:city": "Rio Pardo de Minas",
         "addr:housenumber": "29",
         "addr:postcode": "39530-000",
         "addr:street": "Praça Benedito Valadares",
         "addr:suburb": "Centro",
+        "email": "riopardo@iter.mg.gov.br",
         "government": "administrative",
-        "name": "Instituto de Terras de Minas Gerais Iter",
+        "name": "Escritório Local do Instituto de Terras de Minas Gerais",
         "office": "government",
+        "operator": "Instituto de Terras de Minas Gerais-Iter",
+        "phone": "+55 38 3824 1130",
         "id": "node/12319675017"
       },
       "geometry": {
@@ -121,6 +124,168 @@
         "coordinates": [
           -42.5386977,
           -15.6144762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12323633957",
+      "properties": {
+        "timestamp": "2024-11-08T13:06:37Z",
+        "version": 1,
+        "changeset": 158895018,
+        "addr:city": "Rio Pardo de Minas",
+        "addr:housenumber": "29",
+        "addr:postcode": "39530-000",
+        "addr:street": "Praça Benedito Valadares",
+        "addr:suburb": "Centro",
+        "email": "pedro.pereira@meioambiente.mg.gov.br",
+        "government": "environment",
+        "name": "Agência de Florestas e Biodiversidade de Rio Pardo de Minas",
+        "office": "government",
+        "operator": "Instituto Estadual de Florestas - IEF",
+        "phone": "+5+55 38 3824 1353",
+        "id": "node/12323633957"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.5383462,
+          -15.6126525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12323633961",
+      "properties": {
+        "timestamp": "2024-11-08T14:09:41Z",
+        "version": 2,
+        "changeset": 158897480,
+        "addr:city": "Rio Pardo de Minas",
+        "addr:housenumber": "196",
+        "addr:postcode": "39530-000",
+        "addr:street": "Praça Marechal Deodoro da Fonseca",
+        "addr:suburb": "Centro",
+        "email": "aps11026130@inss.gov.br",
+        "government": "social_security",
+        "name": "Agência da Previdência Social",
+        "office": "government",
+        "operator": "Instituto Nacional do Seguro Social",
+        "operator:short": "INSS",
+        "operator:wikidata": "Q10302614",
+        "phone": "+55 38 3824 1130",
+        "id": "node/12323633961"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.5388557,
+          -15.6139894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12323633962",
+      "properties": {
+        "timestamp": "2024-11-08T13:06:37Z",
+        "version": 1,
+        "changeset": 158895018,
+        "addr:city": "Rio Pardo de Minas",
+        "addr:housenumber": "202",
+        "addr:postcode": "39530-000",
+        "addr:street": "Avenida Doutor Rafael Bastos Pereira",
+        "addr:suburb": "Centro",
+        "government": "prosecutor",
+        "name": "Ministério Público em Rio Pardo de Minas",
+        "office": "government",
+        "opening_hours": "Mo-Fr 12:00-17:00",
+        "operator": "Ministério Público do Estado de Minas Gerais",
+        "phone": "+55 38 3824 1135;+55 38 98425 5576",
+        "id": "node/12323633962"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.5394529,
+          -15.6120244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12323748476",
+      "properties": {
+        "timestamp": "2024-11-08T14:18:01Z",
+        "version": 2,
+        "changeset": 158897791,
+        "addr:city": "Rio Pardo de Minas",
+        "addr:housenumber": "37 A",
+        "addr:postcode": "39530-000",
+        "addr:street": "Rua Conrado Rocha",
+        "addr:suburb": "Centro",
+        "government": "register_office",
+        "name": "Cartório de Registro de Títulos, Documentos e Civil das Pessoas Jurídicas",
+        "office": "government",
+        "id": "node/12323748476"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.5396714,
+          -15.6111768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12323748482",
+      "properties": {
+        "timestamp": "2024-11-08T14:18:01Z",
+        "version": 2,
+        "changeset": 158897791,
+        "IBGE:COD_UNICO_ENDERECO": "36078267",
+        "addr:city": "Rio Pardo de Minas",
+        "addr:housenumber": "120 A",
+        "addr:postcode": "39530-000",
+        "addr:street": "Praça Getúlio Vargas",
+        "addr:suburb": "Centro",
+        "government": "register_office",
+        "name": "Cartório de Registro Civil e Pessoas Naturais da Comarca de Rio Pardo de Minas",
+        "office": "government",
+        "id": "node/12323748482"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.5384791,
+          -15.6104651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12323748485",
+      "properties": {
+        "timestamp": "2024-11-08T14:18:01Z",
+        "version": 2,
+        "changeset": 158897791,
+        "addr:city": "Rio Pardo de Minas",
+        "addr:housenumber": "146",
+        "addr:postcode": "39530-000",
+        "addr:street": "Avenida Doutor Rafael Bastos Pereira",
+        "addr:suburb": "Centro",
+        "government": "register_office",
+        "name": "Cartório de Registro de Imóveis da Comarca de Rio Pardo de Minas",
+        "office": "government",
+        "id": "node/12323748485"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.5392918,
+          -15.6124213
         ]
       }
     }

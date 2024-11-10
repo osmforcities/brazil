@@ -5259,9 +5259,9 @@
       "type": "Feature",
       "id": "way/705848343",
       "properties": {
-        "timestamp": "2023-08-01T08:54:18Z",
-        "version": 5,
-        "changeset": 139288771,
+        "timestamp": "2024-11-08T14:23:01Z",
+        "version": 6,
+        "changeset": 158898013,
         "addr:housenumber": "1705",
         "addr:postcode": "09110-560",
         "addr:street": "Avenida Pedro Américo",
@@ -5273,6 +5273,7 @@
         "operator:type": "government",
         "phone": "+55 11 4458 2652;+55 11 4458 0652",
         "ref": "INEP-35008345",
+        "religion": "none",
         "id": "way/705848343"
       },
       "geometry": {
@@ -11862,6 +11863,53 @@
             [
               -46.5374808,
               -23.6470877
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1331961626",
+      "properties": {
+        "timestamp": "2024-11-08T14:23:01Z",
+        "version": 1,
+        "changeset": 158898013,
+        "addr:housenumber": "534",
+        "addr:street": "Avenida Guaianazes",
+        "addr:suburb": "Vila Homero Thon",
+        "amenity": "school",
+        "building": "school",
+        "email": "atheneuceciliameirelles@gmail.com",
+        "mobile": "+55 11 96105 0692",
+        "name": "Colégio Atheneu Cecília Meirelles",
+        "phone": "+55 11 4474 1153",
+        "website": "https://www.atheneuceciliameirelles.com.br/index.php",
+        "id": "way/1331961626"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.5019788,
+              -23.667394
+            ],
+            [
+              -46.5021456,
+              -23.667625
+            ],
+            [
+              -46.502072,
+              -23.6676696
+            ],
+            [
+              -46.5019052,
+              -23.6674386
+            ],
+            [
+              -46.5019788,
+              -23.667394
             ]
           ]
         ]

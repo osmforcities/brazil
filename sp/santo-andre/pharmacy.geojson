@@ -719,6 +719,58 @@
     },
     {
       "type": "Feature",
+      "id": "way/1331955908",
+      "properties": {
+        "timestamp": "2024-11-08T13:52:38Z",
+        "version": 1,
+        "changeset": 158896848,
+        "addr:housenumber": "1028",
+        "addr:street": "Avenida Valentim Magalhães",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "delivery": "yes",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "mobile": "+55 11 97771 0198",
+        "name": "Feliz Farma",
+        "phone": "+55 11 4978 1697",
+        "id": "way/1331955908"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.498142,
+              -23.6787099
+            ],
+            [
+              -46.4980823,
+              -23.6787814
+            ],
+            [
+              -46.497925,
+              -23.6786668
+            ],
+            [
+              -46.4979755,
+              -23.6786142
+            ],
+            [
+              -46.4980065,
+              -23.6786111
+            ],
+            [
+              -46.498142,
+              -23.6787099
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/842545672",
       "properties": {
         "timestamp": "2019-11-23T09:01:19Z",
@@ -2011,6 +2063,32 @@
         "coordinates": [
           -46.5353826,
           -23.6532912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12323702163",
+      "properties": {
+        "timestamp": "2024-11-08T13:52:38Z",
+        "version": 1,
+        "changeset": 158896848,
+        "addr:housenumber": "1000",
+        "addr:postcode": "09121-000",
+        "addr:street": "Avenida Valentim Magalhães",
+        "addr:suburb": "Centre Ville",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Drogaria Centre Ville",
+        "id": "node/12323702163"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4984429,
+          -23.6782441
         ]
       }
     }

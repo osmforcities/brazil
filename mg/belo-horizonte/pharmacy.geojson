@@ -2171,6 +2171,106 @@
     },
     {
       "type": "Feature",
+      "id": "way/1332512255",
+      "properties": {
+        "timestamp": "2024-11-09T23:31:42Z",
+        "version": 1,
+        "changeset": 158952044,
+        "amenity": "pharmacy",
+        "brand": "Pacheco",
+        "brand:wikidata": "Q10268813",
+        "name": "Pacheco",
+        "id": "way/1332512255"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.0140897,
+              -19.9758163
+            ],
+            [
+              -44.0140414,
+              -19.9760174
+            ],
+            [
+              -44.0139737,
+              -19.976003
+            ],
+            [
+              -44.0140039,
+              -19.9758774
+            ],
+            [
+              -44.0139868,
+              -19.9758738
+            ],
+            [
+              -44.0139999,
+              -19.9758194
+            ],
+            [
+              -44.0140273,
+              -19.9758031
+            ],
+            [
+              -44.0140585,
+              -19.9758097
+            ],
+            [
+              -44.0140897,
+              -19.9758163
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1332512261",
+      "properties": {
+        "timestamp": "2024-11-09T23:31:42Z",
+        "version": 1,
+        "changeset": 158952044,
+        "amenity": "pharmacy",
+        "brand": "Pague Menos",
+        "brand:wikidata": "Q7124466",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Pague Menos",
+        "id": "way/1332512261"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.0138913,
+              -19.9755018
+            ],
+            [
+              -44.0137785,
+              -19.9754764
+            ],
+            [
+              -44.0138107,
+              -19.9753505
+            ],
+            [
+              -44.0139234,
+              -19.975376
+            ],
+            [
+              -44.0138913,
+              -19.9755018
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/315989092",
       "properties": {
         "timestamp": "2021-07-22T14:27:38Z",
@@ -4735,48 +4835,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/12021071549",
-      "properties": {
-        "timestamp": "2024-07-02T00:20:25Z",
-        "version": 2,
-        "changeset": 153433461,
-        "amenity": "pharmacy",
-        "brand": "Pacheco",
-        "brand:wikidata": "Q10268813",
-        "name": "Pacheco",
-        "id": "node/12021071549"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.0140472,
-          -19.9758611
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/12021071550",
-      "properties": {
-        "timestamp": "2024-10-05T17:09:39Z",
-        "version": 3,
-        "changeset": 157510693,
-        "amenity": "pharmacy",
-        "brand": "Pague Menos",
-        "brand:wikidata": "Q7124466",
-        "name": "Pague Menos",
-        "id": "node/12021071550"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.0138483,
-          -19.9754437
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/12195614552",
       "properties": {
         "timestamp": "2024-09-23T22:10:46Z",
@@ -4792,6 +4850,24 @@
         "coordinates": [
           -44.0176678,
           -19.9766158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12327679774",
+      "properties": {
+        "timestamp": "2024-11-09T23:31:42Z",
+        "version": 1,
+        "changeset": 158952044,
+        "entrance": "yes",
+        "id": "node/12327679774"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.0140585,
+          -19.9758097
         ]
       }
     }

@@ -83,9 +83,14 @@
       "type": "Feature",
       "id": "way/527667206",
       "properties": {
-        "timestamp": "2017-09-25T21:52:17Z",
-        "version": 1,
-        "changeset": 52368649,
+        "timestamp": "2024-11-09T21:21:58Z",
+        "version": 3,
+        "changeset": 158949469,
+        "addr:city": "São João do Paraíso",
+        "addr:housenumber": "438",
+        "addr:postcode": "39540-000",
+        "addr:street": "Avenida Doutor Osório Adrião da Rocha",
+        "addr:suburb": "Centro",
         "amenity": "school",
         "name": "Escola Estadual Professora Dora Barbosa",
         "operator": "Secretaria de Estado de Educação de Minas Gerais",
@@ -123,12 +128,18 @@
       "type": "Feature",
       "id": "way/527667209",
       "properties": {
-        "timestamp": "2017-09-25T21:52:17Z",
-        "version": 1,
-        "changeset": 52368649,
+        "timestamp": "2024-11-09T21:21:58Z",
+        "version": 3,
+        "changeset": 158949469,
+        "addr:city": "São João do Paraíso",
+        "addr:housenumber": "315",
+        "addr:postcode": "39540-000",
+        "addr:street": "Rua Joaquim Pedro de Almeida",
+        "addr:suburb": "Centro",
         "amenity": "school",
         "name": "Escola Estadual Mendes de Oliveira",
         "operator": "Secretaria de Estado de Educação de Minas Gerais",
+        "operator:type": "public",
         "id": "way/527667209"
       },
       "geometry": {
@@ -144,8 +155,8 @@
               -15.3166175
             ],
             [
-              -42.0156166,
-              -15.3167404
+              -42.0155764,
+              -15.316743
             ],
             [
               -42.0153812,
@@ -180,12 +191,12 @@
               -15.3146763
             ],
             [
-              -42.0262736,
-              -15.3154265
+              -42.0262629,
+              -15.3154304
             ],
             [
               -42.0258659,
-              -15.3155455
+              -15.3155533
             ],
             [
               -42.0255976,
@@ -234,6 +245,29 @@
               -15.3389881
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12327515529",
+      "properties": {
+        "timestamp": "2024-11-09T21:21:58Z",
+        "version": 1,
+        "changeset": 158949469,
+        "addr:housenumber": "130",
+        "addr:postcode": "39540-000",
+        "addr:street": "Rua Valdemar Almeida",
+        "addr:suburb": "Centro",
+        "amenity": "school",
+        "name": "Escola Municipal Pingo de Gente",
+        "id": "node/12327515529"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.0199236,
+          -15.3139038
         ]
       }
     }

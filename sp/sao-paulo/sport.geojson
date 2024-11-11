@@ -107759,6 +107759,46 @@
     },
     {
       "type": "Feature",
+      "id": "way/1332496698",
+      "properties": {
+        "timestamp": "2024-11-09T21:44:18Z",
+        "version": 1,
+        "changeset": 158949973,
+        "leisure": "pitch",
+        "sport": "soccer",
+        "surface": "artificial_turf",
+        "id": "way/1332496698"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.7184878,
+              -23.4424116
+            ],
+            [
+              -46.7182648,
+              -23.4424353
+            ],
+            [
+              -46.7182214,
+              -23.4420927
+            ],
+            [
+              -46.7184444,
+              -23.4420689
+            ],
+            [
+              -46.7184878,
+              -23.4424116
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/16258555",
       "properties": {
         "timestamp": "2024-03-12T03:38:27Z",
@@ -123212,6 +123252,51 @@
         "coordinates": [
           -46.6403631,
           -23.4859318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12327536092",
+      "properties": {
+        "timestamp": "2024-11-09T21:44:18Z",
+        "version": 1,
+        "changeset": 158949973,
+        "leisure": "fitness_station",
+        "sport": "fitness",
+        "id": "node/12327536092"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7210236,
+          -23.4441254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12327550315",
+      "properties": {
+        "timestamp": "2024-11-09T21:44:18Z",
+        "version": 1,
+        "changeset": 158949973,
+        "addr:housenumber": "11001",
+        "addr:street": "Avenida Raimundo Pereira de Magalhães",
+        "addr:suburb": "Jardim Pirituba",
+        "brand": "Smart Fit",
+        "brand:wikidata": "Q30930959",
+        "leisure": "fitness_centre",
+        "name": "Smart Fit",
+        "opening_hours": "Mo-Fr 05:30-23:00; Sa 08:00-17:00; Su,PH 08:00-14:00",
+        "sport": "fitness",
+        "id": "node/12327550315"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7228609,
+          -23.4444502
         ]
       }
     }

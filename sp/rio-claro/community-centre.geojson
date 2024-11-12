@@ -43,20 +43,40 @@
     },
     {
       "type": "Feature",
-      "id": "node/4279239694",
+      "id": "way/1332607705",
       "properties": {
-        "timestamp": "2019-05-01T01:20:03Z",
-        "version": 2,
-        "changeset": 69755320,
-        "addr:street": "Rua Três C",
+        "timestamp": "2024-11-10T13:06:11Z",
+        "version": 1,
+        "changeset": 158966763,
         "amenity": "community_centre",
-        "id": "node/4279239694"
+        "building": "yes",
+        "id": "way/1332607705"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -47.5513207,
-          -22.3773177
+          [
+            [
+              -47.5513418,
+              -22.3771805
+            ],
+            [
+              -47.5514069,
+              -22.3773667
+            ],
+            [
+              -47.551228,
+              -22.3774202
+            ],
+            [
+              -47.5511629,
+              -22.3772339
+            ],
+            [
+              -47.5513418,
+              -22.3771805
+            ]
+          ]
         ]
       }
     }

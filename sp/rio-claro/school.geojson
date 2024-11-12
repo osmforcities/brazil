@@ -2666,21 +2666,53 @@
     },
     {
       "type": "Feature",
-      "id": "node/4279260889",
+      "id": "way/1332607703",
       "properties": {
-        "timestamp": "2016-07-03T01:00:34Z",
+        "timestamp": "2024-11-10T13:06:11Z",
         "version": 1,
-        "changeset": 40450138,
-        "addr:street": "Rua Nove C",
+        "changeset": 158966763,
+        "addr:housenumber": "2383",
+        "addr:postcode": "13506-083",
+        "addr:street": "Rua 9 C",
+        "addr:suburb": "Conjunto Habitacional Arco-Íris",
         "amenity": "school",
-        "name": "E.E José Cardoso",
-        "id": "node/4279260889"
+        "official_name": "Escola Estadual Professor José Cardoso",
+        "operator": "Secretaria da Educação do Estado de São Paulo",
+        "operator:type": "government",
+        "religion": "none",
+        "short_name": "E.E Professor José Cardoso",
+        "source": "http://www.educacao.sp.gov.br/cgrh/escolas/jose-cardoso-professor/",
+        "id": "way/1332607703"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -47.5490067,
-          -22.3789601
+          [
+            [
+              -47.5501246,
+              -22.3787664
+            ],
+            [
+              -47.5490548,
+              -22.3791055
+            ],
+            [
+              -47.5488355,
+              -22.3787637
+            ],
+            [
+              -47.5490233,
+              -22.3786956
+            ],
+            [
+              -47.5500165,
+              -22.3784052
+            ],
+            [
+              -47.5501246,
+              -22.3787664
+            ]
+          ]
         ]
       }
     }

@@ -1645,14 +1645,15 @@
       "type": "Feature",
       "id": "node/12011128526",
       "properties": {
-        "timestamp": "2024-07-20T01:56:17Z",
-        "version": 2,
-        "changeset": 154163372,
+        "timestamp": "2024-11-11T00:38:38Z",
+        "version": 3,
+        "changeset": 158989869,
         "amenity": "clinic",
         "contact:phone": "+55 47 99127-6564",
         "healthcare": "clinic",
         "healthcare:speciality": "ophthalmology",
         "name": "Centro Oftalmológico Vale Europeu",
+        "wheelchair": "yes",
         "id": "node/12011128526"
       },
       "geometry": {
@@ -1683,6 +1684,32 @@
         "coordinates": [
           -49.1710164,
           -26.7270661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12329762719",
+      "properties": {
+        "timestamp": "2024-11-11T00:38:38Z",
+        "version": 1,
+        "changeset": 158989869,
+        "addr:door": "Sala 03",
+        "addr:housenumber": "485",
+        "addr:street": "Rua Luiz Abry",
+        "amenity": "clinic",
+        "contact:phone": "+55 47 99943-5260",
+        "description": "Clínica de Optometria",
+        "healthcare": "clinic",
+        "healthcare:speciality": "ophthalmology",
+        "name": "Boa Visão",
+        "id": "node/12329762719"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.1775157,
+          -26.7330972
         ]
       }
     }

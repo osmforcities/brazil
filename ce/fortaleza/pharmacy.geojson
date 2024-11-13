@@ -4598,23 +4598,28 @@
       "type": "Feature",
       "id": "node/4466658178",
       "properties": {
-        "timestamp": "2016-10-30T13:47:52Z",
-        "version": 2,
-        "changeset": 43283994,
+        "timestamp": "2024-11-11T11:00:45Z",
+        "version": 3,
+        "changeset": 159003314,
         "addr:city": "Fortaleza",
         "addr:housenumber": "1054",
+        "addr:postcode": "60750-012",
         "addr:street": "Avenida João de Araujo Lima",
         "addr:suburb": "Prefeito José Walter",
         "amenity": "pharmacy",
-        "name": "Extrafarma (José Walter)",
+        "branch": "(José Walter)",
+        "brand": "Extrafarma",
+        "brand:wikidata": "Q20055480",
+        "healthcare": "pharmacy",
+        "name": "Extrafarma",
         "name:pt": "Extra Farma",
         "id": "node/4466658178"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -38.5604192,
-          -3.8310373
+          -38.5605113,
+          -3.8310329
         ]
       }
     },
@@ -4622,22 +4627,24 @@
       "type": "Feature",
       "id": "node/4466658179",
       "properties": {
-        "timestamp": "2016-10-30T13:47:52Z",
-        "version": 2,
-        "changeset": 43283994,
+        "timestamp": "2024-11-11T11:00:45Z",
+        "version": 3,
+        "changeset": 159003314,
         "addr:city": "Fortaleza",
-        "addr:housenumber": "1054",
-        "addr:street": "Avenida João de Araujo Lima",
+        "addr:housenumber": "1066",
+        "addr:postcode": "60750-012",
+        "addr:street": "Avenida João de Araújo Lima",
         "addr:suburb": "Prefeito José Walter",
         "amenity": "pharmacy",
-        "name": "Droga Félix (José Walter)",
+        "healthcare": "pharmacy",
+        "name": "Ultra Popular",
         "id": "node/4466658179"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -38.5604836,
-          -3.831131
+          -38.5605257,
+          -3.8311648
         ]
       }
     },

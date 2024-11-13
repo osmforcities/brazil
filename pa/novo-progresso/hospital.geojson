@@ -3,20 +3,46 @@
   "features": [
     {
       "type": "Feature",
-      "id": "node/6475583359",
+      "id": "way/1332873760",
       "properties": {
-        "timestamp": "2019-05-15T14:20:47Z",
+        "timestamp": "2024-11-11T14:03:09Z",
         "version": 1,
-        "changeset": 70278343,
+        "changeset": 159010442,
+        "addr:city": "Novo Progresso",
+        "addr:postcode": "68193-000",
+        "addr:street": "Rua Juscelino Kubitschek",
+        "addr:suburb": "RUI PIRES DE LIMA",
         "amenity": "hospital",
         "healthcare": "hospital",
-        "id": "node/6475583359"
+        "healthcare:speciality": "general",
+        "name": "HOSPITAL MUNICIPAL",
+        "id": "way/1332873760"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -55.4184627,
-          -7.0365694
+          [
+            [
+              -55.4181445,
+              -7.036371
+            ],
+            [
+              -55.4189947,
+              -7.0365574
+            ],
+            [
+              -55.418866,
+              -7.0371536
+            ],
+            [
+              -55.4179862,
+              -7.036954
+            ],
+            [
+              -55.4181445,
+              -7.036371
+            ]
+          ]
         ]
       }
     },

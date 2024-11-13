@@ -2939,6 +2939,110 @@
     },
     {
       "type": "Feature",
+      "id": "way/1332853119",
+      "properties": {
+        "timestamp": "2024-11-11T12:44:15Z",
+        "version": 1,
+        "changeset": 159007215,
+        "access": "yes",
+        "leisure": "pitch",
+        "name": "campo do raça",
+        "sport": "soccer",
+        "surface": "grass",
+        "id": "way/1332853119"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -52.1255967,
+              -32.0455595
+            ],
+            [
+              -52.1245934,
+              -32.0451349
+            ],
+            [
+              -52.1250069,
+              -32.0444328
+            ],
+            [
+              -52.1260102,
+              -32.0448574
+            ],
+            [
+              -52.1255967,
+              -32.0455595
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1332884687",
+      "properties": {
+        "timestamp": "2024-11-11T14:50:35Z",
+        "version": 1,
+        "changeset": 159012349,
+        "access": "permissive",
+        "addr:city": "Rio Grande",
+        "addr:street": "Avenida Senador Salgado Filho",
+        "addr:suburb": "Centro",
+        "building": "yes",
+        "leisure": "sports_hall",
+        "name": "Ginásio do Sesi",
+        "operator": "Sesi",
+        "sport": "volleyball;futsal;basketball",
+        "id": "way/1332884687"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -52.0912755,
+              -32.0395914
+            ],
+            [
+              -52.0912656,
+              -32.039618
+            ],
+            [
+              -52.0912868,
+              -32.0396237
+            ],
+            [
+              -52.0911755,
+              -32.0399214
+            ],
+            [
+              -52.0911924,
+              -32.0399318
+            ],
+            [
+              -52.0910322,
+              -32.0403607
+            ],
+            [
+              -52.0906879,
+              -32.0402683
+            ],
+            [
+              -52.0909713,
+              -32.0395098
+            ],
+            [
+              -52.0912755,
+              -32.0395914
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/5262148334",
       "properties": {
         "timestamp": "2019-03-30T23:39:39Z",
@@ -3014,6 +3118,58 @@
         "coordinates": [
           -52.1390985,
           -32.0505522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12331078910",
+      "properties": {
+        "timestamp": "2024-11-11T14:48:26Z",
+        "version": 1,
+        "changeset": 159012262,
+        "addr:city": "Rio Grande",
+        "addr:housenumber": "1407",
+        "addr:postcode": "96212194",
+        "addr:street": "Avenida Uruguai",
+        "addr:suburb": "Frederico Ernesto",
+        "amenity": "dojo",
+        "description": "Desde 1995\nGrão Mestre Bengochea José",
+        "name": "Academia de Taekwondo e Hapkido Gumkang",
+        "sport": "taekwondo;hapkido",
+        "id": "node/12331078910"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.1367457,
+          -32.0514868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12331082790",
+      "properties": {
+        "timestamp": "2024-11-11T14:51:44Z",
+        "version": 1,
+        "changeset": 159012391,
+        "addr:city": "Rio Grande",
+        "addr:housenumber": "26",
+        "addr:street": "Avenida Portugal",
+        "addr:suburb": "Cidade Nova",
+        "leisure": "fitness_centre",
+        "name": "Estação Fitness",
+        "opening_hours": "segunda a sexta das 06:00 as 00:00",
+        "phone": "(53) 99967-5944",
+        "sport": "fitness",
+        "id": "node/12331082790"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.1085747,
+          -32.0328057
         ]
       }
     }

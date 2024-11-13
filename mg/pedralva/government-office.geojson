@@ -116,12 +116,12 @@
               -22.2476062
             ],
             [
-              -45.4673031,
-              -22.2475561
+              -45.467296,
+              -22.2475531
             ],
             [
-              -45.4673751,
-              -22.2474072
+              -45.467368,
+              -22.2474042
             ],
             [
               -45.467496,
@@ -139,11 +139,12 @@
       "type": "Feature",
       "id": "way/1221609688",
       "properties": {
-        "timestamp": "2024-07-01T02:46:25Z",
-        "version": 4,
-        "changeset": 153391630,
+        "timestamp": "2024-11-11T00:24:39Z",
+        "version": 5,
+        "changeset": 158989693,
         "addr:housenumber": "190",
         "addr:street": "Rua Poeta João Carneiro de Rezende",
+        "addr:suburb": "Centro",
         "building": "yes",
         "government": "social_services",
         "name": "Secretaria Municipal de Promoção Social",
@@ -370,6 +371,52 @@
         "coordinates": [
           -45.4650305,
           -22.2460121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12329704794",
+      "properties": {
+        "timestamp": "2024-11-11T00:24:39Z",
+        "version": 1,
+        "changeset": 158989693,
+        "addr:housenumber": "204",
+        "addr:street": "Rua Poeta João Carneiro de Rezende",
+        "addr:suburb": "Centro",
+        "government": "social_services",
+        "name": "Centro de Referencia de Assistência Social",
+        "office": "government",
+        "id": "node/12329704794"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.4674117,
+          -22.2474322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12329704795",
+      "properties": {
+        "timestamp": "2024-11-11T00:24:39Z",
+        "version": 1,
+        "changeset": 158989693,
+        "addr:housenumber": "200",
+        "addr:street": "Rua Poeta João Carneiro de Rezende",
+        "addr:suburb": "Centro",
+        "government": "social_services",
+        "name": "Cras",
+        "office": "government",
+        "id": "node/12329704795"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.4674696,
+          -22.2474571
         ]
       }
     }

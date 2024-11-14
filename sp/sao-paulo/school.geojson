@@ -6741,6 +6741,73 @@
     },
     {
       "type": "Feature",
+      "id": "relation/18278671",
+      "properties": {
+        "timestamp": "2024-11-12T06:13:26Z",
+        "version": 1,
+        "changeset": 159036585,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "37",
+        "addr:street": "Rua Dona Júlia",
+        "amenity": "school",
+        "name": "E.E Marechal Floriano",
+        "type": "multipolygon",
+        "id": "relation/18278671"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.6348344,
+              -23.5877683
+            ],
+            [
+              -46.6353986,
+              -23.5880395
+            ],
+            [
+              -46.6353186,
+              -23.5884728
+            ],
+            [
+              -46.6353024,
+              -23.5884841
+            ],
+            [
+              -46.6352797,
+              -23.5884894
+            ],
+            [
+              -46.6350355,
+              -23.5883664
+            ],
+            [
+              -46.634778,
+              -23.5882368
+            ],
+            [
+              -46.634761,
+              -23.5882079
+            ],
+            [
+              -46.6347527,
+              -23.5881758
+            ],
+            [
+              -46.6347603,
+              -23.5880592
+            ],
+            [
+              -46.6348344,
+              -23.5877683
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/42759435",
       "properties": {
         "timestamp": "2022-01-12T15:24:24Z",
@@ -16056,11 +16123,15 @@
       "type": "Feature",
       "id": "way/274859598",
       "properties": {
-        "timestamp": "2021-11-23T15:23:30Z",
-        "version": 2,
-        "changeset": 114107907,
+        "timestamp": "2024-11-12T15:37:23Z",
+        "version": 3,
+        "changeset": 159055627,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "633",
+        "addr:street": "Rua Humberto I",
         "amenity": "school",
-        "name": "Escola E Maestro Fabiano Lozano",
+        "barrier": "wall",
+        "name": "E.E Maestro Fabiano Lozano",
         "wheelchair": "yes",
         "id": "way/274859598"
       },
@@ -16069,24 +16140,32 @@
         "coordinates": [
           [
             [
-              -46.6416329,
-              -23.5855506
+              -46.6416453,
+              -23.5855584
             ],
             [
-              -46.6414341,
-              -23.5858815
+              -46.6415227,
+              -23.5857576
             ],
             [
-              -46.6407619,
-              -23.5855423
+              -46.6413937,
+              -23.5859673
             ],
             [
-              -46.6409607,
-              -23.5852115
+              -46.6407179,
+              -23.5856068
             ],
             [
-              -46.6416329,
-              -23.5855506
+              -46.6409735,
+              -23.5852032
+            ],
+            [
+              -46.6415893,
+              -23.5855295
+            ],
+            [
+              -46.6416453,
+              -23.5855584
             ]
           ]
         ]
@@ -93033,6 +93112,82 @@
     },
     {
       "type": "Feature",
+      "id": "way/1333150238",
+      "properties": {
+        "timestamp": "2024-11-12T06:13:26Z",
+        "version": 1,
+        "changeset": 159036585,
+        "barrier": "wall",
+        "id": "way/1333150238"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.634761,
+            -23.5882079
+          ],
+          [
+            -46.634778,
+            -23.5882368
+          ],
+          [
+            -46.6350355,
+            -23.5883664
+          ],
+          [
+            -46.6352797,
+            -23.5884894
+          ],
+          [
+            -46.6353024,
+            -23.5884841
+          ],
+          [
+            -46.6353186,
+            -23.5884728
+          ],
+          [
+            -46.6353986,
+            -23.5880395
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1333150239",
+      "properties": {
+        "timestamp": "2024-11-12T06:13:26Z",
+        "version": 1,
+        "changeset": 159036585,
+        "barrier": "wall",
+        "id": "way/1333150239"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.6348344,
+            -23.5877683
+          ],
+          [
+            -46.6347603,
+            -23.5880592
+          ],
+          [
+            -46.6347527,
+            -23.5881758
+          ],
+          [
+            -46.634761,
+            -23.5882079
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/445225739",
       "properties": {
         "timestamp": "2020-10-21T09:53:55Z",
@@ -112695,6 +112850,48 @@
         "coordinates": [
           -46.6606968,
           -23.5606797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12333987732",
+      "properties": {
+        "timestamp": "2024-11-12T06:13:26Z",
+        "version": 1,
+        "changeset": 159036585,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "37",
+        "addr:street": "Rua Dona Júlia",
+        "entrance": "yes",
+        "id": "node/12333987732"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6350355,
+          -23.5883664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12334906514",
+      "properties": {
+        "timestamp": "2024-11-12T16:05:32Z",
+        "version": 2,
+        "changeset": 159056826,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "633",
+        "addr:street": "Rua Humberto I",
+        "entrance": "yes",
+        "id": "node/12334906514"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6415227,
+          -23.5857576
         ]
       }
     }

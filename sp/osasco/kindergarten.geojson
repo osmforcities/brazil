@@ -202,12 +202,17 @@
       "type": "Feature",
       "id": "way/835174577",
       "properties": {
-        "timestamp": "2024-11-08T14:34:29Z",
-        "version": 2,
-        "changeset": 158898415,
+        "timestamp": "2024-11-13T00:01:07Z",
+        "version": 3,
+        "changeset": 159072325,
+        "addr:city": "Osasco",
         "addr:housenumber": "44",
         "addr:street": "Rua Júlio Cortazar",
         "amenity": "kindergarten",
+        "barrier": "wall",
+        "name": "EMEI Adhemar Pereira de Barros",
+        "operator": "Prefeitura",
+        "operator:type": "government",
         "short_name": "EMEI Adhemar Pereira de Barros",
         "id": "way/835174577"
       },
@@ -216,24 +221,28 @@
         "coordinates": [
           [
             [
-              -46.7952454,
-              -23.5692907
+              -46.7952428,
+              -23.5692764
             ],
             [
-              -46.7953382,
-              -23.569619
+              -46.7953356,
+              -23.5696047
             ],
             [
-              -46.7949502,
-              -23.5697133
+              -46.7949476,
+              -23.569699
             ],
             [
               -46.794869,
-              -23.569447
+              -23.5694399
             ],
             [
-              -46.7952454,
-              -23.5692907
+              -46.795071,
+              -23.5693515
+            ],
+            [
+              -46.7952428,
+              -23.5692764
             ]
           ]
         ]
@@ -343,80 +352,56 @@
     },
     {
       "type": "Feature",
-      "id": "way/1147938341",
+      "id": "way/1333510150",
       "properties": {
-        "timestamp": "2023-02-20T14:32:37Z",
-        "version": 2,
-        "changeset": 132794030,
+        "timestamp": "2024-11-13T15:35:45Z",
+        "version": 1,
+        "changeset": 159096747,
         "addr:housenumber": "236",
         "addr:postcode": "06142-100",
         "addr:street": "Rua Doutor Bento Vidal",
         "addr:suburb": "Novo Osasco",
         "amenity": "kindergarten",
+        "barrier": "wall",
         "email": "emeiseverinodearaujofreire@gmail.com",
+        "height": "6",
         "name": "Escola Municipal de Educação Infantil Severeino de Araújo Freire",
         "phone": "+55 11 3694 7072",
         "preschool": "yes",
         "ref": "INEP-35051482",
+        "roof:colour": "#ffc993",
+        "roof:shape": "gabled",
         "short_name": "EMEI Severeino de Araújo Freire",
         "source": "INEP",
-        "id": "way/1147938341"
+        "id": "way/1333510150"
       },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              -46.7953408,
-              -23.5707085
+              -46.795733,
+              -23.5709895
             ],
             [
-              -46.7954678,
-              -23.57075
+              -46.7954564,
+              -23.5709098
             ],
             [
-              -46.7954817,
-              -23.5707293
+              -46.7952599,
+              -23.5708532
             ],
             [
-              -46.795574,
-              -23.5707596
+              -46.7954143,
+              -23.5704309
             ],
             [
-              -46.7955566,
-              -23.5707963
+              -46.7959576,
+              -23.5702934
             ],
             [
-              -46.7957515,
-              -23.5708457
-            ],
-            [
-              -46.7957062,
-              -23.5709829
-            ],
-            [
-              -46.7955061,
-              -23.5709159
-            ],
-            [
-              -46.7954936,
-              -23.5709295
-            ],
-            [
-              -46.7954063,
-              -23.5709058
-            ],
-            [
-              -46.7954101,
-              -23.5708859
-            ],
-            [
-              -46.7952929,
-              -23.5708527
-            ],
-            [
-              -46.7953408,
-              -23.5707085
+              -46.795733,
+              -23.5709895
             ]
           ]
         ]
@@ -490,6 +475,49 @@
         "coordinates": [
           -46.8098831,
           -23.5465144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12335891393",
+      "properties": {
+        "timestamp": "2024-11-13T00:01:07Z",
+        "version": 1,
+        "changeset": 159072325,
+        "addr:city": "Osasco",
+        "addr:housenumber": "44",
+        "addr:street": "Rua Júlio Cortazar",
+        "entrance": "yes",
+        "id": "node/12335891393"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.795071,
+          -23.5693515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12337371807",
+      "properties": {
+        "timestamp": "2024-11-13T15:35:45Z",
+        "version": 1,
+        "changeset": 159096747,
+        "access": "yes",
+        "addr:city": "Osasco",
+        "addr:housenumber": "236",
+        "addr:street": "Rua Doutor Bento Vidal",
+        "entrance": "yes",
+        "id": "node/12337371807"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7954564,
+          -23.5709098
         ]
       }
     }

@@ -4888,6 +4888,53 @@
     },
     {
       "type": "Feature",
+      "id": "way/1333364543",
+      "properties": {
+        "timestamp": "2024-11-13T01:19:59Z",
+        "version": 1,
+        "changeset": 159073352,
+        "addr:housenumber": "1515",
+        "addr:postcode": "13503-360",
+        "addr:street": "Avenida 5",
+        "addr:suburb": "Jardim Claret",
+        "amenity": "dojo",
+        "building": "yes",
+        "mobile": "+55 19 97409 0568",
+        "name": "Team Naef Muay Thai",
+        "sport": "muay_thai;mma",
+        "website": "https://www.teamnaef.com.br/",
+        "id": "way/1333364543"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.5714126,
+              -22.4155905
+            ],
+            [
+              -47.5713348,
+              -22.4157988
+            ],
+            [
+              -47.5712356,
+              -22.4157764
+            ],
+            [
+              -47.5713134,
+              -22.4155682
+            ],
+            [
+              -47.5714126,
+              -22.4155905
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/543740818",
       "properties": {
         "timestamp": "2024-10-21T13:05:25Z",
@@ -5302,34 +5349,6 @@
         "coordinates": [
           -47.5536048,
           -22.3794117
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/10568766722",
-      "properties": {
-        "timestamp": "2023-01-19T21:28:16Z",
-        "version": 1,
-        "changeset": 131483496,
-        "addr:city": "Rio Claro",
-        "addr:housenumber": "1515",
-        "addr:postcode": "13503-360",
-        "addr:street": "Avenida 5",
-        "addr:suburb": "Jardim Claret",
-        "leisure": "fitness_centre",
-        "name": "Team Naef Muay Thai",
-        "opening_hours": "Mo-Fr 07:00-19:30",
-        "phone": "19974090568",
-        "sport": "muay_thai;mma;jiu_jitsu",
-        "website": "https://www.instagram.com/teamnaef/",
-        "id": "node/10568766722"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -47.5714142,
-          -22.4156135
         ]
       }
     },

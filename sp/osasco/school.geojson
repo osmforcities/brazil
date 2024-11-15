@@ -1309,15 +1309,16 @@
       "type": "Feature",
       "id": "way/606140486",
       "properties": {
-        "timestamp": "2023-02-20T14:32:37Z",
-        "version": 4,
-        "changeset": 132794030,
+        "timestamp": "2024-11-13T15:35:45Z",
+        "version": 5,
+        "changeset": 159096747,
         "addr:city": "Osasco",
         "addr:housenumber": "87",
         "addr:postcode": "06142-100",
         "addr:street": "Rua Doutor Bento Vidal",
         "addr:suburb": "Novo Osasco",
         "amenity": "school",
+        "barrier": "wall",
         "contact:phone": "+55 11 3692 7324",
         "email": "emefquintinobocaiuva@gmail.com",
         "name": "Escola Municipal de Educação Fundamental Quintino Bocaiúva",
@@ -1339,24 +1340,32 @@
               -23.5715528
             ],
             [
-              -46.7943247,
-              -23.5716133
+              -46.7943117,
+              -23.5716149
             ],
             [
-              -46.7943341,
-              -23.571212
+              -46.7943259,
+              -23.5713762
             ],
             [
-              -46.7942161,
-              -23.5710203
+              -46.7943029,
+              -23.571239
             ],
             [
-              -46.7938701,
-              -23.5707031
+              -46.7942308,
+              -23.5710964
             ],
             [
-              -46.7939452,
-              -23.5705384
+              -46.7937826,
+              -23.5706831
+            ],
+            [
+              -46.7938609,
+              -23.5705124
+            ],
+            [
+              -46.7946008,
+              -23.5707486
             ],
             [
               -46.7949511,
@@ -3631,14 +3640,16 @@
       "type": "Feature",
       "id": "way/1147935961",
       "properties": {
-        "timestamp": "2023-02-20T13:19:57Z",
-        "version": 1,
-        "changeset": 132790995,
+        "timestamp": "2024-11-13T15:35:45Z",
+        "version": 2,
+        "changeset": 159096747,
+        "addr:city": "Osasco",
         "addr:housenumber": "1000",
         "addr:postcode": "06142-100",
         "addr:street": "Rua Doutor Bento Vidal",
         "addr:suburb": "Novo Osasco",
         "amenity": "school",
+        "barrier": "wall",
         "contact:phone": "+55 11 3694 3513",
         "email": "e010686a@educacao.sp.gov.br",
         "name": "Escola Estadual Professor Ernesto Thenn de Barros",
@@ -3660,23 +3671,35 @@
             ],
             [
               -46.7972447,
-              -23.5708901
+              -23.5708986
             ],
             [
-              -46.7962523,
+              -46.7964388,
+              -23.5710498
+            ],
+            [
+              -46.7962867,
+              -23.5710541
+            ],
+            [
+              -46.7962239,
+              -23.571028
+            ],
+            [
+              -46.7961082,
               -23.5710622
             ],
             [
-              -46.7958714,
-              -23.5710167
+              -46.7959529,
+              -23.5710436
             ],
             [
-              -46.7957353,
-              -23.5709821
+              -46.795733,
+              -23.5709895
             ],
             [
-              -46.7959553,
-              -23.5703123
+              -46.7959576,
+              -23.5702934
             ],
             [
               -46.7970427,
@@ -5025,6 +5048,49 @@
         "coordinates": [
           -46.7775695,
           -23.5690495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12337371801",
+      "properties": {
+        "timestamp": "2024-11-13T15:35:45Z",
+        "version": 1,
+        "changeset": 159096747,
+        "addr:city": "Osasco",
+        "addr:housenumber": "87",
+        "addr:street": "Rua Doutor Bento Vidal",
+        "entrance": "yes",
+        "id": "node/12337371801"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7946008,
+          -23.5707486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12337371809",
+      "properties": {
+        "timestamp": "2024-11-13T15:35:45Z",
+        "version": 1,
+        "changeset": 159096747,
+        "access": "yes",
+        "addr:city": "Osasco",
+        "addr:housenumber": "1000",
+        "addr:street": "Rua Doutor Bento Vidal",
+        "entrance": "yes",
+        "id": "node/12337371809"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7962239,
+          -23.571028
         ]
       }
     }

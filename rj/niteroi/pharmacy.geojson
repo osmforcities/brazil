@@ -600,6 +600,50 @@
     },
     {
       "type": "Feature",
+      "id": "way/264827768",
+      "properties": {
+        "timestamp": "2024-11-13T18:34:53Z",
+        "version": 4,
+        "changeset": 159102785,
+        "addr:housenumber": "195",
+        "addr:street": "Rua Gavião Peixoto",
+        "amenity": "pharmacy",
+        "brand": "Venancio",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Drogaria Venancio",
+        "id": "way/264827768"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.1094165,
+              -22.9041778
+            ],
+            [
+              -43.1093147,
+              -22.9042685
+            ],
+            [
+              -43.1092297,
+              -22.9041876
+            ],
+            [
+              -43.1093315,
+              -22.9040969
+            ],
+            [
+              -43.1094165,
+              -22.9041778
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/291394637",
       "properties": {
         "timestamp": "2023-12-08T21:12:12Z",
@@ -2719,30 +2763,6 @@
         "coordinates": [
           -43.1094174,
           -22.9041559
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/5709774371",
-      "properties": {
-        "timestamp": "2023-11-14T22:32:22Z",
-        "version": 2,
-        "changeset": 144028855,
-        "addr:city": "Niterói",
-        "addr:housenumber": "183",
-        "addr:street": "Rua Gavião Peixoto",
-        "addr:suburb": "Icaraí",
-        "amenity": "pharmacy",
-        "healthcare": "pharmacy",
-        "name": "Drogaria Venancio",
-        "id": "node/5709774371"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.1094947,
-          -22.9040881
         ]
       }
     },

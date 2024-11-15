@@ -118,24 +118,44 @@
     },
     {
       "type": "Feature",
-      "id": "node/4309843616",
+      "id": "way/1333371766",
       "properties": {
-        "timestamp": "2016-07-18T19:49:52Z",
+        "timestamp": "2024-11-13T02:51:26Z",
         "version": 1,
-        "changeset": 40834136,
+        "changeset": 159074334,
         "addr:city": "Votuporanga",
         "addr:state": "SP",
         "addr:street": "Rua São Paulo",
         "amenity": "community_centre",
         "name": "Centro Paroquial de Eventos",
         "operator": "Paróquia Nossa Senhora Aparecida",
-        "id": "node/4309843616"
+        "id": "way/1333371766"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -49.9759189,
-          -20.4208495
+          [
+            [
+              -49.9762449,
+              -20.4209655
+            ],
+            [
+              -49.975868,
+              -20.4209082
+            ],
+            [
+              -49.9758967,
+              -20.4207233
+            ],
+            [
+              -49.9762756,
+              -20.4207829
+            ],
+            [
+              -49.9762449,
+              -20.4209655
+            ]
+          ]
         ]
       }
     }

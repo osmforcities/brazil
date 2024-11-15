@@ -607,6 +607,58 @@
     },
     {
       "type": "Feature",
+      "id": "way/1333565822",
+      "properties": {
+        "timestamp": "2024-11-13T20:27:51Z",
+        "version": 1,
+        "changeset": 159106519,
+        "addr:street": "Alameda Doutor Octávio Pinheiro Brisola",
+        "amenity": "pharmacy",
+        "brand": "Drogasil",
+        "brand:wikidata": "Q5308185",
+        "healthcare": "pharmacy",
+        "name": "Drogasil",
+        "wheelchair": "yes",
+        "id": "way/1333565822"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.0638319,
+              -22.3316622
+            ],
+            [
+              -49.0637766,
+              -22.3318856
+            ],
+            [
+              -49.0634798,
+              -22.3317885
+            ],
+            [
+              -49.0634294,
+              -22.3317269
+            ],
+            [
+              -49.0635278,
+              -22.3316065
+            ],
+            [
+              -49.0635782,
+              -22.331593
+            ],
+            [
+              -49.0638319,
+              -22.3316622
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/4114218889",
       "properties": {
         "timestamp": "2020-02-16T03:26:02Z",
@@ -668,30 +720,6 @@
         "coordinates": [
           -49.0664076,
           -22.3162238
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/10281476309",
-      "properties": {
-        "timestamp": "2024-11-06T03:01:40Z",
-        "version": 3,
-        "changeset": 158801616,
-        "addr:street": "Alameda Doutor Octávio Pinheiro Brisola",
-        "amenity": "pharmacy",
-        "brand": "Drogasil",
-        "brand:wikidata": "Q5308185",
-        "healthcare": "pharmacy",
-        "name": "Drogasil",
-        "wheelchair": "yes",
-        "id": "node/10281476309"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.0636141,
-          -22.3317356
         ]
       }
     }

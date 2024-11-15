@@ -3,62 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": "relation/14905138",
-      "properties": {
-        "timestamp": "2022-11-28T17:35:12Z",
-        "version": 2,
-        "changeset": 129485745,
-        "leisure": "pitch",
-        "sport": "soccer",
-        "type": "multipolygon",
-        "id": "relation/14905138"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -49.6866936,
-              -20.411056
-            ],
-            [
-              -49.6871708,
-              -20.4109225
-            ],
-            [
-              -49.6872061,
-              -20.4109126
-            ],
-            [
-              -49.6872334,
-              -20.4109054
-            ],
-            [
-              -49.6876299,
-              -20.4117041
-            ],
-            [
-              -49.6871383,
-              -20.4118544
-            ],
-            [
-              -49.6870932,
-              -20.4118692
-            ],
-            [
-              -49.6869154,
-              -20.4115218
-            ],
-            [
-              -49.6866936,
-              -20.411056
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/227204237",
       "properties": {
         "timestamp": "2022-07-30T19:15:33Z",
@@ -601,6 +545,53 @@
     },
     {
       "type": "Feature",
+      "id": "way/1115257367",
+      "properties": {
+        "timestamp": "2024-11-13T02:08:39Z",
+        "version": 4,
+        "changeset": 159073794,
+        "leisure": "pitch",
+        "sport": "soccer",
+        "id": "way/1115257367"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.6872334,
+              -20.4109054
+            ],
+            [
+              -49.6876192,
+              -20.4116826
+            ],
+            [
+              -49.6870813,
+              -20.411846
+            ],
+            [
+              -49.6869154,
+              -20.4115218
+            ],
+            [
+              -49.6866936,
+              -20.411056
+            ],
+            [
+              -49.6871708,
+              -20.4109225
+            ],
+            [
+              -49.6872334,
+              -20.4109054
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1115570090",
       "properties": {
         "timestamp": "2024-07-25T20:53:52Z",
@@ -1010,158 +1001,6 @@
               -20.4152898
             ]
           ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1087096154",
-      "properties": {
-        "timestamp": "2022-11-28T17:35:12Z",
-        "version": 2,
-        "changeset": 129485745,
-        "barrier": "fence",
-        "id": "way/1087096154"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -49.6871383,
-            -20.4118544
-          ],
-          [
-            -49.6870932,
-            -20.4118692
-          ],
-          [
-            -49.6869154,
-            -20.4115218
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1115257348",
-      "properties": {
-        "timestamp": "2022-11-18T15:22:16Z",
-        "version": 1,
-        "changeset": 129089410,
-        "barrier": "fence",
-        "id": "way/1115257348"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -49.6866936,
-            -20.411056
-          ],
-          [
-            -49.6869154,
-            -20.4115218
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1115257366",
-      "properties": {
-        "timestamp": "2024-07-31T21:01:46Z",
-        "version": 2,
-        "changeset": 154668327,
-        "barrier": "fence",
-        "id": "way/1115257366"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -49.6872334,
-            -20.4109054
-          ],
-          [
-            -49.6872061,
-            -20.4109126
-          ],
-          [
-            -49.6871708,
-            -20.4109225
-          ],
-          [
-            -49.6866936,
-            -20.411056
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1115257367",
-      "properties": {
-        "timestamp": "2024-07-31T21:05:51Z",
-        "version": 3,
-        "changeset": 154668443,
-        "barrier": "fence",
-        "id": "way/1115257367"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -49.6876299,
-            -20.4117041
-          ],
-          [
-            -49.6872334,
-            -20.4109054
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1117866772",
-      "properties": {
-        "timestamp": "2022-11-28T17:35:12Z",
-        "version": 1,
-        "changeset": 129485745,
-        "highway": "service",
-        "service": "alley",
-        "surface": "dirt",
-        "id": "way/1117866772"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -49.6876299,
-            -20.4117041
-          ],
-          [
-            -49.6871383,
-            -20.4118544
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/9948383350",
-      "properties": {
-        "timestamp": "2024-07-31T21:05:51Z",
-        "version": 3,
-        "changeset": 154668443,
-        "noexit": "yes",
-        "id": "node/9948383350"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.6871383,
-          -20.4118544
         ]
       }
     }

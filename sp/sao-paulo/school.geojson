@@ -6808,6 +6808,62 @@
     },
     {
       "type": "Feature",
+      "id": "relation/18283443",
+      "properties": {
+        "timestamp": "2024-11-13T16:28:33Z",
+        "version": 1,
+        "changeset": 159098504,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "350",
+        "addr:postcode": "05050-090",
+        "addr:street": "Rua Roma",
+        "amenity": "school",
+        "name": "Colegio Heitor Garcia",
+        "type": "multipolygon",
+        "id": "relation/18283443"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.7001646,
+              -23.5222278
+            ],
+            [
+              -46.7001868,
+              -23.5226835
+            ],
+            [
+              -46.7000921,
+              -23.522685
+            ],
+            [
+              -46.699991,
+              -23.5226866
+            ],
+            [
+              -46.699979,
+              -23.5224723
+            ],
+            [
+              -46.6999656,
+              -23.5222318
+            ],
+            [
+              -46.7001261,
+              -23.5222285
+            ],
+            [
+              -46.7001646,
+              -23.5222278
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/42759435",
       "properties": {
         "timestamp": "2022-01-12T15:24:24Z",
@@ -93188,6 +93244,34 @@
     },
     {
       "type": "Feature",
+      "id": "way/1333520066",
+      "properties": {
+        "timestamp": "2024-11-13T16:28:33Z",
+        "version": 1,
+        "changeset": 159098504,
+        "barrier": "fence",
+        "id": "way/1333520066"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.699991,
+            -23.5226866
+          ],
+          [
+            -46.7000921,
+            -23.522685
+          ],
+          [
+            -46.7001868,
+            -23.5226835
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/445225739",
       "properties": {
         "timestamp": "2020-10-21T09:53:55Z",
@@ -112892,6 +112976,27 @@
         "coordinates": [
           -46.6415227,
           -23.5857576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12337469383",
+      "properties": {
+        "timestamp": "2024-11-13T16:28:33Z",
+        "version": 1,
+        "changeset": 159098504,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "350",
+        "addr:postcode": "05050-090",
+        "addr:street": "Rua Roma",
+        "id": "node/12337469383"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7000921,
+          -23.522685
         ]
       }
     }

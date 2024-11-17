@@ -5,12 +5,19 @@
       "type": "Feature",
       "id": "way/420428497",
       "properties": {
-        "timestamp": "2017-09-25T21:52:17Z",
-        "version": 2,
-        "changeset": 52368649,
+        "timestamp": "2024-11-14T16:56:42Z",
+        "version": 3,
+        "changeset": 159138661,
+        "addr:city": "Ninheira",
+        "addr:housenumber": "323",
+        "addr:postcode": "39553-000",
+        "addr:street": "Avenida Domingos José de Matos",
+        "addr:suburb": "Centro",
         "amenity": "school",
+        "email": "escola.82759@educacao.mg.gov.br",
         "name": "Escola Estadual de Ninheira",
         "operator": "Secretaria de Estado de Educação de Minas Gerais",
+        "phone": "+55 38 3832 8132",
         "source": "Bing;IBGE",
         "id": "way/420428497"
       },
@@ -19,32 +26,40 @@
         "coordinates": [
           [
             [
-              -41.7574735,
-              -15.3185512
+              -41.7573984,
+              -15.3186016
             ],
             [
-              -41.7573769,
-              -15.318039
+              -41.7573085,
+              -15.318083
             ],
             [
-              -41.7577015,
-              -15.3179976
+              -41.7576559,
+              -15.3180248
             ],
             [
-              -41.757739,
-              -15.3181632
+              -41.7576063,
+              -15.3179252
             ],
             [
-              -41.7579187,
-              -15.3181399
+              -41.7576787,
+              -15.3178967
             ],
             [
-              -41.7580153,
-              -15.3184762
+              -41.7578181,
+              -15.3181852
             ],
             [
-              -41.7574735,
-              -15.3185512
+              -41.7578879,
+              -15.31818
+            ],
+            [
+              -41.7579764,
+              -15.3185111
+            ],
+            [
+              -41.7573984,
+              -15.3186016
             ]
           ]
         ]
@@ -54,10 +69,17 @@
       "type": "Feature",
       "id": "way/491982239",
       "properties": {
-        "timestamp": "2017-05-07T23:55:55Z",
-        "version": 1,
-        "changeset": 48487486,
+        "timestamp": "2024-11-14T17:19:26Z",
+        "version": 2,
+        "changeset": 159139319,
+        "addr:city": "Ninheira",
+        "addr:hamlet": "Vereda do Paraíso",
+        "addr:housenumber": "181",
+        "addr:postcode": "39553-000",
+        "addr:street": "Rua Carolina Alves",
         "amenity": "school",
+        "name": "Escola Estadual de Vereda do Paraíso",
+        "operator": "Secretaria de Estado de Educação de Minas Gerais",
         "id": "way/491982239"
       },
       "geometry": {
@@ -141,6 +163,52 @@
             [
               -41.7065456,
               -15.3006769
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1333770872",
+      "properties": {
+        "timestamp": "2024-11-14T16:56:42Z",
+        "version": 1,
+        "changeset": 159138661,
+        "addr:city": "Ninheira",
+        "addr:housenumber": "410",
+        "addr:postcode": "39553-000",
+        "addr:state": "Minas Gerais",
+        "addr:street": "Rua Agenor Egito Oliveira",
+        "addr:suburb": "Centro",
+        "amenity": "school",
+        "name": "Escola Municipal Professora Cleide Rocha De Oliveira",
+        "operator": "Secretaria Municipal de Educação de Ninheira",
+        "id": "way/1333770872"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.7479315,
+              -15.3172681
+            ],
+            [
+              -41.7479154,
+              -15.3180093
+            ],
+            [
+              -41.7473549,
+              -15.3179937
+            ],
+            [
+              -41.747371,
+              -15.3172603
+            ],
+            [
+              -41.7479315,
+              -15.3172681
             ]
           ]
         ]

@@ -10416,6 +10416,49 @@
     },
     {
       "type": "Feature",
+      "id": "way/971463242",
+      "properties": {
+        "timestamp": "2024-11-14T19:33:17Z",
+        "version": 4,
+        "changeset": 159143735,
+        "addr:city": "Londrina",
+        "addr:housenumber": "100",
+        "addr:street": "Rua das Açucenas",
+        "addr:suburb": "colina verde",
+        "amenity": "school",
+        "building": "house",
+        "id": "way/971463242"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.1878959,
+              -23.3218328
+            ],
+            [
+              -51.1879521,
+              -23.321607
+            ],
+            [
+              -51.1880857,
+              -23.3216228
+            ],
+            [
+              -51.1880553,
+              -23.3218606
+            ],
+            [
+              -51.1878959,
+              -23.3218328
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1239433453",
       "properties": {
         "timestamp": "2024-01-13T16:20:06Z",
@@ -11151,6 +11194,29 @@
         "coordinates": [
           -51.1535977,
           -23.3288219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12340274642",
+      "properties": {
+        "timestamp": "2024-11-14T19:32:21Z",
+        "version": 1,
+        "changeset": 159143715,
+        "addr:city": "Londrina",
+        "addr:housenumber": "100",
+        "addr:street": "Rua das Açucenas",
+        "addr:suburb": "colina verde",
+        "amenity": "school",
+        "name": "Centro Ocupacional de Londrina",
+        "id": "node/12340274642"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1879525,
+          -23.3217915
         ]
       }
     }

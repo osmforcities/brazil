@@ -20684,9 +20684,9 @@
       "type": "Feature",
       "id": "way/630088869",
       "properties": {
-        "timestamp": "2018-10-03T02:51:23Z",
-        "version": 1,
-        "changeset": 63143773,
+        "timestamp": "2024-11-14T03:48:20Z",
+        "version": 2,
+        "changeset": 159114287,
         "amenity": "school",
         "name": "Escola Municipal Temistócles Dalmácio Pereira",
         "source:name": "data.rio",
@@ -20699,6 +20699,10 @@
             [
               -43.3683052,
               -22.8335463
+            ],
+            [
+              -43.3682947,
+              -22.8335404
             ],
             [
               -43.3677799,
@@ -45731,24 +45735,18 @@
       "type": "Feature",
       "id": "node/823943485",
       "properties": {
-        "timestamp": "2010-07-19T01:19:19Z",
-        "version": 1,
-        "changeset": 5256902,
-        "IPP:BAIRRO": "Realengo",
-        "IPP:CHAVE": "11965",
-        "IPP:CODATIVIDA": "0",
-        "IPP:CODBAIRRO": "139",
-        "IPP:COD_INEP": "33080984",
-        "IPP:COD_SMA": "011965",
-        "IPP:CRE": "08",
-        "IPP:DESIGNACAO": "0833024",
-        "IPP:ENDERECO": "Rua Mal. Falcão da Frota, S/Nº  ",
-        "IPP:ENDNOVO": "http://webapp.sme.rio.rj.gov.br/jcartela/publico/pesquisa.do?idSetor=11965&cmd=load",
-        "IPP:FLG_VALIDA": "S",
-        "IPP:TELEFONES": "33311116",
+        "timestamp": "2024-11-14T15:40:17Z",
+        "version": 2,
+        "changeset": 159135476,
+        "addr:city": "Rio de Janeiro",
+        "addr:housenumber": "S/N",
+        "addr:street": "Rua Marechal Falcão da Frota",
+        "addr:suburb": "Realengo",
         "amenity": "school",
         "name": "Escola Municipal Presidente Roosevelt",
+        "phone": "+55 21 33311116",
         "source": "IPP",
+        "website": "http://webapp.sme.rio.rj.gov.br/jcartela/publico/pesquisa.do?idSetor=11965&cmd=load",
         "id": "node/823943485"
       },
       "geometry": {

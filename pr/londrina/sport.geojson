@@ -976,18 +976,18 @@
       "type": "Feature",
       "id": "way/220191576",
       "properties": {
-        "timestamp": "2024-01-24T02:21:48Z",
-        "version": 8,
-        "changeset": 146614410,
+        "timestamp": "2024-11-14T20:41:50Z",
+        "version": 9,
+        "changeset": 159145751,
         "addr:city": "Londrina",
         "addr:housenumber": "315",
+        "addr:postcode": "86015-240",
         "addr:street": "Rua Gomes Carneiro",
         "addr:suburb": "Centro",
         "alt_name": "Ginásio do Moringão",
-        "building": "yes",
+        "building": "stadium",
         "building:levels": "5",
         "building:part": "yes",
-        "leisure": "sports_hall",
         "name": "Ginágio de Esportes Darci Cortes - Moringão",
         "sport": "multi",
         "wikidata": "Q5563330",
@@ -12639,6 +12639,88 @@
     },
     {
       "type": "Feature",
+      "id": "way/1333870127",
+      "properties": {
+        "timestamp": "2024-11-14T20:41:50Z",
+        "version": 1,
+        "changeset": 159145751,
+        "addr:city": "Londrina",
+        "addr:housenumber": "315",
+        "addr:postcode": "86015-240",
+        "addr:street": "Rua Gomes Carneiro",
+        "addr:suburb": "Centro",
+        "leisure": "stadium",
+        "name": "Ginásio de Esportes do Moringão",
+        "operator": "Município de Londrina",
+        "sport": "basketball;futsal;volleyball",
+        "id": "way/1333870127"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.1629975,
+              -23.3208758
+            ],
+            [
+              -51.164466,
+              -23.320865
+            ],
+            [
+              -51.1644815,
+              -23.3214897
+            ],
+            [
+              -51.1646116,
+              -23.3214575
+            ],
+            [
+              -51.1647816,
+              -23.3218004
+            ],
+            [
+              -51.1645471,
+              -23.3219427
+            ],
+            [
+              -51.1643004,
+              -23.3220216
+            ],
+            [
+              -51.1640915,
+              -23.3220569
+            ],
+            [
+              -51.1636671,
+              -23.3219918
+            ],
+            [
+              -51.1634445,
+              -23.3218247
+            ],
+            [
+              -51.1632437,
+              -23.3213637
+            ],
+            [
+              -51.1630909,
+              -23.3212785
+            ],
+            [
+              -51.1629884,
+              -23.321116
+            ],
+            [
+              -51.1629975,
+              -23.3208758
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/118729437",
       "properties": {
         "timestamp": "2021-01-03T23:34:17Z",
@@ -14906,6 +14988,24 @@
         "coordinates": [
           -51.1419557,
           -23.3535508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5569708219",
+      "properties": {
+        "timestamp": "2024-11-14T20:41:50Z",
+        "version": 2,
+        "changeset": 159145751,
+        "natural": "tree",
+        "id": "node/5569708219"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1647816,
+          -23.3218004
         ]
       }
     },

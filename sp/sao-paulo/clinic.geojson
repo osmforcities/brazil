@@ -12899,6 +12899,61 @@
     },
     {
       "type": "Feature",
+      "id": "way/1333599441",
+      "properties": {
+        "timestamp": "2024-11-14T00:08:06Z",
+        "version": 1,
+        "changeset": 159111407,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "1947",
+        "addr:street": "Rua Domingos de Morais",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "AME Idoso Sudoeste",
+        "id": "way/1333599441"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.635757,
+              -23.5929283
+            ],
+            [
+              -46.6363804,
+              -23.5929777
+            ],
+            [
+              -46.6363908,
+              -23.593171
+            ],
+            [
+              -46.6363466,
+              -23.5931948
+            ],
+            [
+              -46.6363319,
+              -23.5931932
+            ],
+            [
+              -46.6361311,
+              -23.5931797
+            ],
+            [
+              -46.6357305,
+              -23.5931528
+            ],
+            [
+              -46.635757,
+              -23.5929283
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/462898594",
       "properties": {
         "timestamp": "2023-04-13T13:58:06Z",
@@ -19668,6 +19723,25 @@
         "coordinates": [
           -46.6417508,
           -23.4752601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12338199143",
+      "properties": {
+        "timestamp": "2024-11-14T00:08:06Z",
+        "version": 1,
+        "changeset": 159111407,
+        "access": "yes",
+        "entrance": "yes",
+        "id": "node/12338199143"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6361311,
+          -23.5931797
         ]
       }
     }

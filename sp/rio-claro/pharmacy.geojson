@@ -524,6 +524,58 @@
     },
     {
       "type": "Feature",
+      "id": "way/1333765018",
+      "properties": {
+        "timestamp": "2024-11-14T16:32:31Z",
+        "version": 2,
+        "changeset": 159137789,
+        "addr:housenumber": "891",
+        "addr:postcode": "13501-104",
+        "addr:street": "Avenida 29",
+        "addr:suburb": "Cidade Jardim",
+        "amenity": "pharmacy",
+        "branch": "Rio Claro E",
+        "brand": "Droga Raia",
+        "brand:wikidata": "Q10357101",
+        "building": "yes",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Droga Raia",
+        "opening_hours": "Mo-Sa 00:00-24:00; Su 07:00-23:00; PH off",
+        "phone": "+55 19  3532 1723",
+        "id": "way/1333765018"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.5601459,
+              -22.4233837
+            ],
+            [
+              -47.5600549,
+              -22.4235905
+            ],
+            [
+              -47.5599695,
+              -22.4235584
+            ],
+            [
+              -47.5600604,
+              -22.4233515
+            ],
+            [
+              -47.5601459,
+              -22.4233837
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/4279229408",
       "properties": {
         "timestamp": "2024-10-28T19:50:21Z",
@@ -640,6 +692,38 @@
         "coordinates": [
           -47.5875617,
           -22.3814576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12339472241",
+      "properties": {
+        "timestamp": "2024-11-14T14:25:06Z",
+        "version": 1,
+        "changeset": 159132525,
+        "addr:housenumber": "803",
+        "addr:postcode": "13501-104",
+        "addr:street": "Avenida 29",
+        "addr:suburb": "Cidade Jardim",
+        "amenity": "pharmacy",
+        "brand": "Drogaria São Paulo",
+        "brand:wikidata": "Q5308184",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "mobile": "+55 19 99677 1684",
+        "name": "Drogaria São Paulo",
+        "opening_hours": "Mo--Su,PH 07:00-23:00",
+        "phone": "+55 19 3525 1313",
+        "wheelchair": "yes",
+        "id": "node/12339472241"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.5592648,
+          -22.4231244
         ]
       }
     }

@@ -3985,6 +3985,99 @@
     },
     {
       "type": "Feature",
+      "id": "way/1334218018",
+      "properties": {
+        "timestamp": "2024-11-15T12:29:37Z",
+        "version": 1,
+        "changeset": 159168376,
+        "addr:city": "São Paulo",
+        "addr:country": "BR",
+        "addr:housenumber": "1810",
+        "addr:postcode": "05707-000",
+        "addr:state": "SP",
+        "addr:street": "Avenida Hebe Camargo",
+        "addr:suburb": "Jardim Morumbi",
+        "amenity": "social_facility",
+        "building": "yes",
+        "name": "Lar da OASE",
+        "network": "Igreja Evangélica de Confissão Luterana no Brasil",
+        "network:wikidata": "Q3586161",
+        "operator": "Ordem Auxiliadora de Senhoras Evangélicas",
+        "social_facility": "nursing_home",
+        "social_facility:for": "senior",
+        "website": "https://www.laroasesp.com.br/",
+        "id": "way/1334218018"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.7270607,
+              -23.6303885
+            ],
+            [
+              -46.7269901,
+              -23.630462
+            ],
+            [
+              -46.7269122,
+              -23.6303992
+            ],
+            [
+              -46.7270661,
+              -23.6302389
+            ],
+            [
+              -46.7275117,
+              -23.6303899
+            ],
+            [
+              -46.7274851,
+              -23.6304557
+            ],
+            [
+              -46.727517,
+              -23.6304665
+            ],
+            [
+              -46.7275016,
+              -23.6305046
+            ],
+            [
+              -46.7274333,
+              -23.6304815
+            ],
+            [
+              -46.7274286,
+              -23.630493
+            ],
+            [
+              -46.7273648,
+              -23.6304714
+            ],
+            [
+              -46.7273601,
+              -23.6304832
+            ],
+            [
+              -46.727128,
+              -23.6304046
+            ],
+            [
+              -46.7271256,
+              -23.6304105
+            ],
+            [
+              -46.7270607,
+              -23.6303885
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/891306300",
       "properties": {
         "timestamp": "2022-08-25T06:01:38Z",
@@ -4974,38 +5067,6 @@
         "coordinates": [
           -46.4391131,
           -23.4990327
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/11992838997",
-      "properties": {
-        "timestamp": "2024-06-19T21:36:22Z",
-        "version": 1,
-        "changeset": 152916229,
-        "addr:city": "São Paulo",
-        "addr:country": "BR",
-        "addr:housenumber": "1810",
-        "addr:postcode": "05707-000",
-        "addr:state": "SP",
-        "addr:street": "Avenida Hebe Camargo",
-        "addr:suburb": "Jardim Morumbi",
-        "amenity": "social_facility",
-        "name": "Lar da OASE",
-        "network": "Igreja Evangélica de Confissão Luterana no Brasil",
-        "network:wikidata": "Q3586161",
-        "operator": "Ordem Auxiliadora de Senhoras Evangélicas",
-        "social_facility": "nursing_home",
-        "social_facility:for": "senior",
-        "website": "https://www.laroasesp.com.br/",
-        "id": "node/11992838997"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -46.7275169,
-          -23.6304468
         ]
       }
     }

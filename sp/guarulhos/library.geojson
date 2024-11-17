@@ -5,15 +5,17 @@
       "type": "Feature",
       "id": "way/298623922",
       "properties": {
-        "timestamp": "2023-08-16T06:55:27Z",
-        "version": 5,
-        "changeset": 139947283,
+        "timestamp": "2024-11-15T02:19:20Z",
+        "version": 6,
+        "changeset": 159152514,
         "addr:city": "Guarulhos",
         "addr:housenumber": "439",
+        "addr:postcode": "07010-010",
         "addr:street": "Rua João Gonçalves",
         "addr:suburb": "Centro",
         "amenity": "library",
         "building": "yes",
+        "internet_access": "yes",
         "name": "Biblioteca Monteiro Lobato",
         "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-18:00",
         "phone": "+55 11 2087-6900",
@@ -26,32 +28,44 @@
         "coordinates": [
           [
             [
-              -46.5294272,
-              -23.4667289
+              -46.5294682,
+              -23.4666907
             ],
             [
               -46.5290964,
               -23.4670449
             ],
             [
-              -46.5290534,
-              -23.4670073
+              -46.5289975,
+              -23.4669637
             ],
             [
-              -46.5290345,
-              -23.4669402
+              -46.5291223,
+              -23.4668353
             ],
             [
-              -46.5292658,
-              -23.4667008
+              -46.529138,
+              -23.4668191
             ],
             [
-              -46.5293281,
-              -23.4667074
+              -46.5291645,
+              -23.4667919
             ],
             [
-              -46.5294272,
-              -23.4667289
+              -46.5291732,
+              -23.4667829
+            ],
+            [
+              -46.5291921,
+              -23.4667635
+            ],
+            [
+              -46.5293089,
+              -23.4666433
+            ],
+            [
+              -46.5294682,
+              -23.4666907
             ]
           ]
         ]
@@ -346,6 +360,42 @@
         "coordinates": [
           -46.4338319,
           -23.4216564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12342572743",
+      "properties": {
+        "timestamp": "2024-11-15T02:19:20Z",
+        "version": 1,
+        "changeset": 159152514,
+        "entrance": "yes",
+        "id": "node/12342572743"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5291732,
+          -23.4667829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12342572773",
+      "properties": {
+        "timestamp": "2024-11-15T02:19:20Z",
+        "version": 1,
+        "changeset": 159152514,
+        "entrance": "yes",
+        "id": "node/12342572773"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5291223,
+          -23.4668353
         ]
       }
     }

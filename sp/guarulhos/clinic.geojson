@@ -2200,6 +2200,58 @@
     },
     {
       "type": "Feature",
+      "id": "way/1334044594",
+      "properties": {
+        "timestamp": "2024-11-15T02:19:20Z",
+        "version": 1,
+        "changeset": 159152514,
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "Ambulatório da Criança e do Adolescente",
+        "name:en": "Ambulatory of Children and Teenagers",
+        "operator": "Prefeitura Municipal de Guarulhos",
+        "operator:type": "government",
+        "id": "way/1334044594"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.5288696,
+              -23.4669641
+            ],
+            [
+              -46.5290629,
+              -23.4671264
+            ],
+            [
+              -46.528754,
+              -23.467436
+            ],
+            [
+              -46.5286118,
+              -23.4673165
+            ],
+            [
+              -46.5286188,
+              -23.4673095
+            ],
+            [
+              -46.5285677,
+              -23.4672665
+            ],
+            [
+              -46.5288696,
+              -23.4669641
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/1831563480",
       "properties": {
         "timestamp": "2020-07-04T01:31:42Z",
@@ -2234,26 +2286,6 @@
         "coordinates": [
           -46.4031364,
           -23.4082917
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/4338124008",
-      "properties": {
-        "timestamp": "2017-10-19T13:26:08Z",
-        "version": 2,
-        "changeset": 53068906,
-        "addr:street": "Rua Osvaldo Cruz",
-        "amenity": "clinic",
-        "name": "Ambulatório da Criança",
-        "id": "node/4338124008"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -46.5287554,
-          -23.4673111
         ]
       }
     },

@@ -367,12 +367,21 @@
       "type": "Feature",
       "id": "relation/12098277",
       "properties": {
-        "timestamp": "2020-12-27T01:14:46Z",
-        "version": 1,
-        "changeset": 96470373,
-        "leisure": "pitch",
-        "name": "Pista de Biciross",
+        "timestamp": "2024-11-15T14:07:43Z",
+        "version": 2,
+        "changeset": 159172323,
+        "access": "yes",
+        "addr:city": "Teresina",
+        "addr:street": "Avenida General João Campelo R. Lima",
+        "addr:suburb": "Gurupi",
+        "area": "yes",
+        "barrier": "wire_fence",
+        "horse": "no",
+        "leisure": "track",
+        "motor_vehicle": "no",
+        "name": "Pista Olímpica de Bicicross BMX",
         "sport": "Bicicross",
+        "surface": "unpaved",
         "type": "multipolygon",
         "id": "relation/12098277"
       },
@@ -383,6 +392,10 @@
             [
               -42.7349594,
               -5.0914351
+            ],
+            [
+              -42.7350178,
+              -5.0917706
             ],
             [
               -42.7350284,
@@ -401,16 +414,12 @@
               -5.092388
             ],
             [
-              -42.7342281,
-              -5.0924883
+              -42.7342189,
+              -5.0924944
             ],
             [
-              -42.7341323,
-              -5.0924476
-            ],
-            [
-              -42.7334528,
-              -5.0919573
+              -42.7334544,
+              -5.0919623
             ],
             [
               -42.7339644,
@@ -19977,12 +19986,16 @@
       "type": "Feature",
       "id": "way/1333672278",
       "properties": {
-        "timestamp": "2024-11-14T07:56:18Z",
-        "version": 1,
-        "changeset": 159119070,
+        "timestamp": "2024-11-15T14:27:55Z",
+        "version": 2,
+        "changeset": 159173097,
+        "access": "yes",
+        "barrier": "wire_fence",
         "leisure": "pitch",
+        "lit": "yes",
         "name": "Campinho do Frei Damião",
         "sport": "soccer",
+        "surface": "artificial_turf",
         "id": "way/1333672278"
       },
       "geometry": {
@@ -19990,24 +20003,63 @@
         "coordinates": [
           [
             [
-              -42.7337798,
-              -5.0922001
+              -42.7337366,
+              -5.0922448
             ],
             [
-              -42.7338455,
-              -5.0926799
+              -42.7338009,
+              -5.0927141
             ],
             [
-              -42.7335058,
-              -5.0927261
+              -42.7335,
+              -5.0927549
             ],
             [
-              -42.7334401,
-              -5.0922462
+              -42.7334358,
+              -5.0922857
             ],
             [
-              -42.7337798,
-              -5.0922001
+              -42.7337366,
+              -5.0922448
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1334248277",
+      "properties": {
+        "timestamp": "2024-11-15T14:39:03Z",
+        "version": 1,
+        "changeset": 159173583,
+        "leisure": "fitness_station",
+        "sport": "fitness",
+        "id": "way/1334248277"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.7336068,
+              -5.0921094
+            ],
+            [
+              -42.7336185,
+              -5.0922053
+            ],
+            [
+              -42.7335194,
+              -5.0922172
+            ],
+            [
+              -42.7335077,
+              -5.0921213
+            ],
+            [
+              -42.7336068,
+              -5.0921094
             ]
           ]
         ]

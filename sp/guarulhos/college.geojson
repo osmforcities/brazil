@@ -367,6 +367,73 @@
     },
     {
       "type": "Feature",
+      "id": "way/1334044574",
+      "properties": {
+        "timestamp": "2024-11-15T02:19:20Z",
+        "version": 1,
+        "changeset": 159152514,
+        "addr:city": "Guarulhos",
+        "addr:housenumber": "511",
+        "addr:postcode": "07010-010",
+        "addr:street": "Rua João Gonçalves",
+        "addr:suburb": "Centro",
+        "amenity": "college",
+        "building": "yes",
+        "name": "Grau Técnico - Unidade Guarulhos",
+        "operator:type": "private",
+        "website": "https://www.grautecnico.com.br/",
+        "id": "way/1334044574"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.5297628,
+              -23.466303
+            ],
+            [
+              -46.5296916,
+              -23.4664026
+            ],
+            [
+              -46.5294715,
+              -23.4662976
+            ],
+            [
+              -46.5295173,
+              -23.4662507
+            ],
+            [
+              -46.5295525,
+              -23.4662146
+            ],
+            [
+              -46.5295644,
+              -23.4662025
+            ],
+            [
+              -46.5295766,
+              -23.46619
+            ],
+            [
+              -46.5295898,
+              -23.4661967
+            ],
+            [
+              -46.5296209,
+              -23.4662158
+            ],
+            [
+              -46.5297628,
+              -23.466303
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/9776143595",
       "properties": {
         "timestamp": "2022-05-28T01:07:39Z",
@@ -408,6 +475,44 @@
         "coordinates": [
           -46.5269481,
           -23.4705879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12342572672",
+      "properties": {
+        "timestamp": "2024-11-15T02:19:20Z",
+        "version": 1,
+        "changeset": 159152514,
+        "amenity": "parking",
+        "layer": "-1",
+        "parking": "underground",
+        "id": "node/12342572672"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5295644,
+          -23.4662025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12342572673",
+      "properties": {
+        "timestamp": "2024-11-15T02:19:20Z",
+        "version": 1,
+        "changeset": 159152514,
+        "entrance": "yes",
+        "id": "node/12342572673"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5295173,
+          -23.4662507
         ]
       }
     }

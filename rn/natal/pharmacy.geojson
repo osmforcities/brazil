@@ -4327,6 +4327,64 @@
     },
     {
       "type": "Feature",
+      "id": "way/1334230695",
+      "properties": {
+        "timestamp": "2024-11-16T19:12:57Z",
+        "version": 2,
+        "changeset": 159219914,
+        "addr:housenumber": "803",
+        "addr:postcode": "59014-020",
+        "addr:street": "Rua Desembargador Dionísio Filgueira",
+        "amenity": "pharmacy",
+        "brand": "Drogasil",
+        "brand:wikidata": "Q5308185",
+        "healthcare": "pharmacy",
+        "landuse": "commercial",
+        "name": "Drogasil",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+55 84 3025-8264",
+        "website": "https://www.drogasil.com.br/",
+        "wheelchair": "yes",
+        "id": "way/1334230695"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -35.1951096,
+              -5.7841819
+            ],
+            [
+              -35.1951229,
+              -5.7841643
+            ],
+            [
+              -35.19526,
+              -5.783982
+            ],
+            [
+              -35.1953302,
+              -5.7840354
+            ],
+            [
+              -35.1954179,
+              -5.7841023
+            ],
+            [
+              -35.1953013,
+              -5.7842684
+            ],
+            [
+              -35.1951096,
+              -5.7841819
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/583580837",
       "properties": {
         "timestamp": "2018-10-18T15:07:27Z",
@@ -4971,34 +5029,6 @@
         "coordinates": [
           -35.2060066,
           -5.8498023
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/5437916321",
-      "properties": {
-        "timestamp": "2023-05-02T15:46:47Z",
-        "version": 4,
-        "changeset": 135622656,
-        "addr:housenumber": "00",
-        "addr:street": "Rua Desembargador Dionísio Filgueira",
-        "amenity": "pharmacy",
-        "brand": "Drogasil",
-        "brand:wikidata": "Q5308185",
-        "healthcare": "pharmacy",
-        "name": "Drogasil",
-        "opening_hours": "Mo-Su 07:00-23:00",
-        "phone": "+55 84 3025-8264",
-        "website": "https://www.drogasil.com.br/",
-        "wheelchair": "yes",
-        "id": "node/5437916321"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -35.1953325,
-          -5.7843153
         ]
       }
     },

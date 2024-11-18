@@ -24526,6 +24526,61 @@
     },
     {
       "type": "Feature",
+      "id": "way/1334387500",
+      "properties": {
+        "timestamp": "2024-11-16T01:51:19Z",
+        "version": 1,
+        "changeset": 159192468,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "1505",
+        "addr:street": "Avenida Lins de Vasconcelos",
+        "amenity": "pharmacy",
+        "brand": "Drogaria São Paulo",
+        "brand:wikidata": "Q5308184",
+        "brand:wikipedia": "en:Grupo DPSP",
+        "healthcare": "pharmacy",
+        "name": "Drogaria São Paulo",
+        "opening_hours": "24/7",
+        "id": "way/1334387500"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.6235025,
+              -23.5766224
+            ],
+            [
+              -46.6235309,
+              -23.5767596
+            ],
+            [
+              -46.6234451,
+              -23.5767768
+            ],
+            [
+              -46.6232869,
+              -23.5768022
+            ],
+            [
+              -46.6232743,
+              -23.5766564
+            ],
+            [
+              -46.6234167,
+              -23.5766352
+            ],
+            [
+              -46.6235025,
+              -23.5766224
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/408932164",
       "properties": {
         "timestamp": "2024-11-01T01:48:32Z",
@@ -30220,30 +30275,6 @@
         "coordinates": [
           -46.6241587,
           -23.5784848
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/5294046091",
-      "properties": {
-        "timestamp": "2020-07-06T02:47:25Z",
-        "version": 3,
-        "changeset": 87571576,
-        "amenity": "pharmacy",
-        "brand": "Drogaria São Paulo",
-        "brand:wikidata": "Q5308184",
-        "brand:wikipedia": "en:Grupo DPSP",
-        "healthcare": "pharmacy",
-        "name": "Drogaria São Paulo",
-        "opening_hours": "24/7",
-        "id": "node/5294046091"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -46.6234277,
-          -23.5767065
         ]
       }
     },

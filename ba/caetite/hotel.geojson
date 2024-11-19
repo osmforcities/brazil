@@ -251,16 +251,17 @@
       "type": "Feature",
       "id": "node/3775967370",
       "properties": {
-        "timestamp": "2017-09-11T13:17:05Z",
-        "version": 3,
-        "changeset": 51941183,
+        "timestamp": "2024-11-17T18:39:40Z",
+        "version": 4,
+        "changeset": 159254836,
         "addr:city": "Caetité",
         "addr:housenumber": "235",
         "addr:postcode": "46400-000",
         "addr:street": "Rua José Joaquim Oliveira",
-        "addr:suburb": "Chacara",
+        "addr:suburb": "Chácara",
         "email": "hotelportodosol.ba@gmail.com",
         "internet_access": "yes",
+        "internet_access:fee": "customers",
         "name": "Hotel Porto do Sol",
         "phone": "+55 77 3454 3000",
         "rooms": "30",
@@ -435,6 +436,38 @@
         "coordinates": [
           -42.4797969,
           -14.0667108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12348511951",
+      "properties": {
+        "timestamp": "2024-11-17T15:07:32Z",
+        "version": 1,
+        "changeset": 159246808,
+        "addr:city": "Caetité",
+        "addr:housenumber": "56",
+        "addr:postcode": "46400-000",
+        "addr:street": "Rua São Paulo",
+        "addr:suburb": "Chácara",
+        "contact:instagram": "https://www.instagram.com/recantohotel/",
+        "contact:mobile": "+55 77 9 9838 3238;+55 77 9 9999 9951",
+        "email": "recantohotelclube@gmail.com",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "Recanto Hotel Clube",
+        "phone": "+55 77 3454 1291",
+        "rooms": "36",
+        "tourism": "hotel",
+        "website": "https://www.recantohotelclube.com.br/?fbclid=PAZXh0bgNhZW0CMTEAAaYNqugRnJGpLBy1HgBoQIIF0kej9zWfIJ_DFmSUfRHfyVwku57KO3yXz1g_aem_UTgUlUj65EMnIBsXEVO0Nw",
+        "id": "node/12348511951"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.4909578,
+          -14.0640375
         ]
       }
     }

@@ -227,9 +227,9 @@
       "type": "Feature",
       "id": "way/534622723",
       "properties": {
-        "timestamp": "2021-12-31T19:46:26Z",
-        "version": 22,
-        "changeset": 115620857,
+        "timestamp": "2024-11-17T02:15:52Z",
+        "version": 23,
+        "changeset": 159227669,
         "addr:city": "Laranjal Paulista",
         "addr:housenumber": "299",
         "addr:postcode": "18500-000",
@@ -354,6 +354,10 @@
             [
               -47.8393247,
               -23.0495534
+            ],
+            [
+              -47.839203,
+              -23.0495734
             ],
             [
               -47.839133,
@@ -850,10 +854,15 @@
       "type": "Feature",
       "id": "node/5216068903",
       "properties": {
-        "timestamp": "2021-08-02T04:18:04Z",
-        "version": 4,
-        "changeset": 108995146,
+        "timestamp": "2024-11-17T02:15:52Z",
+        "version": 5,
+        "changeset": 159227669,
         "access": "private",
+        "addr:city": "Laranjal Paulista",
+        "addr:housenumber": "299",
+        "addr:postcode": "18500-000",
+        "addr:street": "Rua 10 de Outubro",
+        "addr:suburb": "Centro",
         "entrance": "main",
         "id": "node/5216068903"
       },
@@ -976,6 +985,25 @@
         "coordinates": [
           -47.838395,
           -23.0432827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12347071384",
+      "properties": {
+        "timestamp": "2024-11-17T02:15:52Z",
+        "version": 1,
+        "changeset": 159227669,
+        "access": "private",
+        "barrier": "gate",
+        "id": "node/12347071384"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.839203,
+          -23.0495734
         ]
       }
     }

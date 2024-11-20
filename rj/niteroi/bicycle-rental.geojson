@@ -5,9 +5,9 @@
       "type": "Feature",
       "id": "node/12036236952",
       "properties": {
-        "timestamp": "2024-07-05T16:50:17Z",
-        "version": 1,
-        "changeset": 153596828,
+        "timestamp": "2024-11-18T01:53:04Z",
+        "version": 2,
+        "changeset": 159264993,
         "amenity": "bicycle_rental",
         "capacity": "24",
         "name": "NitBike - Estação 9 - Theatro Municipal",
@@ -17,8 +17,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -43.1236643,
-          -22.8960054
+          -43.1237635,
+          -22.8961018
         ]
       }
     },
@@ -292,13 +292,13 @@
       "type": "Feature",
       "id": "node/12280105707",
       "properties": {
-        "timestamp": "2024-10-22T22:42:33Z",
-        "version": 1,
-        "changeset": 158231448,
+        "timestamp": "2024-11-18T01:56:15Z",
+        "version": 2,
+        "changeset": 159265043,
         "amenity": "bicycle_rental",
-        "capacity": "20",
+        "capacity": "16",
         "fee": "no",
-        "name": "Estação NitBike",
+        "name": "NitBike - Estação 43 - Praça Guadalajara",
         "network": "NitBike",
         "operator": "Prefeitura de Niterói",
         "operator:type": "public",
@@ -330,6 +330,90 @@
         "coordinates": [
           -43.0906122,
           -22.8813463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12349700993",
+      "properties": {
+        "timestamp": "2024-11-18T01:53:04Z",
+        "version": 1,
+        "changeset": 159264993,
+        "amenity": "bicycle_rental",
+        "capacity": "20",
+        "name": "NitBike - Estação 22 - Praça José Vitorino",
+        "network": "NitBike",
+        "id": "node/12349700993"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1246303,
+          -22.8832539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12349700994",
+      "properties": {
+        "timestamp": "2024-11-18T01:53:04Z",
+        "version": 1,
+        "changeset": 159264993,
+        "amenity": "bicycle_rental",
+        "capacity": "14",
+        "name": "NitBike - Estação 21 - Mercado de Peixe",
+        "network": "NitBike",
+        "id": "node/12349700994"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1252217,
+          -22.8856929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12349936160",
+      "properties": {
+        "timestamp": "2024-11-18T01:56:15Z",
+        "version": 1,
+        "changeset": 159265043,
+        "amenity": "bicycle_rental",
+        "capacity": "16",
+        "name": "NitBike - Estação 26 - João Brasil",
+        "network": "NitBike",
+        "id": "node/12349936160"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1011704,
+          -22.8793075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12349936161",
+      "properties": {
+        "timestamp": "2024-11-18T01:56:15Z",
+        "version": 1,
+        "changeset": 159265043,
+        "amenity": "bicycle_rental",
+        "capacity": "16",
+        "name": "NitBike - Estação 3 - Ponto Cem Réis",
+        "network": "NitBike",
+        "id": "node/12349936161"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1090681,
+          -22.8819652
         ]
       }
     }

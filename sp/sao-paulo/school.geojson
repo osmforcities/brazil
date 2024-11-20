@@ -17909,9 +17909,9 @@
       "type": "Feature",
       "id": "way/321568382",
       "properties": {
-        "timestamp": "2019-03-31T22:11:16Z",
-        "version": 3,
-        "changeset": 68736802,
+        "timestamp": "2024-11-18T16:18:30Z",
+        "version": 4,
+        "changeset": 159290190,
         "addr:housenumber": "697",
         "addr:postcode": "05372-111",
         "addr:street": "Rua Inácio Manuel Álvares",
@@ -17923,6 +17923,7 @@
         "operator": "Secretaria da Educação do Estado de São Paulo",
         "phone": "+55 11 3781 8066",
         "ref": "Rua Professora Abigail Alves Píres 191",
+        "religion": "none",
         "id": "way/321568382"
       },
       "geometry": {
@@ -20611,9 +20612,9 @@
       "type": "Feature",
       "id": "way/386028584",
       "properties": {
-        "timestamp": "2019-03-30T02:33:40Z",
-        "version": 4,
-        "changeset": 68684502,
+        "timestamp": "2024-11-18T17:56:03Z",
+        "version": 5,
+        "changeset": 159293807,
         "addr:city": "São Paulo",
         "addr:housenumber": "73",
         "addr:postcode": "04691-040",
@@ -20626,6 +20627,7 @@
         "operator": "Secretaria da Educação do Estado de São Paulo",
         "phone": "+55 11 5632 2233",
         "ref": "35005216",
+        "religion": "none",
         "id": "way/386028584"
       },
       "geometry": {
@@ -45225,9 +45227,9 @@
       "type": "Feature",
       "id": "way/614257553",
       "properties": {
-        "timestamp": "2019-07-01T02:04:03Z",
-        "version": 2,
-        "changeset": 71768664,
+        "timestamp": "2024-11-18T00:18:51Z",
+        "version": 3,
+        "changeset": 159263723,
         "addr:housenumber": "150",
         "addr:postcode": "04336-160",
         "addr:street": "Rua Doutor Alcides de Campos",
@@ -45237,6 +45239,7 @@
         "email": "e004686a@educacao.sp.gov.br",
         "name": "Escola Estadual Perola Byington Dona",
         "operator": "Secretaria da Educação do Estado de São Paulo",
+        "operator:type": "government",
         "phone": "+55 11 5565 5913",
         "ref": "35004686",
         "id": "way/614257553"
@@ -49967,65 +49970,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/627042215",
-      "properties": {
-        "timestamp": "2021-04-17T12:26:35Z",
-        "version": 3,
-        "changeset": 103101326,
-        "addr:city": "São Paulo",
-        "addr:housenumber": "5",
-        "addr:postcode": "04231-004",
-        "addr:street": "Rua Barão do Rio da Prata",
-        "addr:suburb": "Cidade Nova Heliopolis",
-        "alt_name": "EMEI Batista Cepelos",
-        "amenity": "school",
-        "contact:phone": "+55 11 2273 3381",
-        "name": "Escola Municipal de Educação Infantil Batista Cepelos",
-        "operator": "Prefeitura Municipal de São Paulo",
-        "operator:type": "government",
-        "phone": "+55 11 2272 9551",
-        "ref": "INEP-35051834",
-        "source": "CADMEC 2017",
-        "id": "way/627042215"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -46.5956377,
-              -23.6050562
-            ],
-            [
-              -46.595415,
-              -23.6055857
-            ],
-            [
-              -46.5952648,
-              -23.6055122
-            ],
-            [
-              -46.5951146,
-              -23.6053771
-            ],
-            [
-              -46.595567,
-              -23.6050143
-            ],
-            [
-              -46.5956214,
-              -23.6050065
-            ],
-            [
-              -46.5956377,
-              -23.6050562
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/632365917",
       "properties": {
         "timestamp": "2024-06-28T01:10:11Z",
@@ -52707,49 +52651,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/682645833",
-      "properties": {
-        "timestamp": "2019-08-20T17:26:00Z",
-        "version": 2,
-        "changeset": 73550052,
-        "addr:postcode": "03444-090",
-        "amenity": "school",
-        "email": "emeisefelippe@prefeitura.sp.gov.br",
-        "name": "Escola Municipal de Educação Infantil Professora Suzana Evangelina Felippe",
-        "phone": "+55 11 2941-1368",
-        "short_name": "EMEI Professora Suzana Evangelina Felippe",
-        "id": "way/682645833"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -46.5317623,
-              -23.5480888
-            ],
-            [
-              -46.5315378,
-              -23.5481839
-            ],
-            [
-              -46.5313842,
-              -23.5478793
-            ],
-            [
-              -46.5316086,
-              -23.5477841
-            ],
-            [
-              -46.5317623,
-              -23.5480888
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/682805884",
       "properties": {
         "timestamp": "2019-04-10T03:26:43Z",
@@ -54079,73 +53980,6 @@
             [
               -46.6389493,
               -23.6725862
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/700753461",
-      "properties": {
-        "timestamp": "2019-07-01T02:04:03Z",
-        "version": 1,
-        "changeset": 71768664,
-        "addr:housenumber": "200",
-        "addr:street": "Rua Cabo Alfredo Clemente",
-        "amenity": "school",
-        "name": "CEI Ângela Maria Fernandes",
-        "phone": "+55 11 5621 1749",
-        "ref": "35238855",
-        "id": "way/700753461"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -46.6369578,
-              -23.6717237
-            ],
-            [
-              -46.6370129,
-              -23.6717661
-            ],
-            [
-              -46.6370834,
-              -23.671974
-            ],
-            [
-              -46.6369996,
-              -23.6720286
-            ],
-            [
-              -46.6368784,
-              -23.6720245
-            ],
-            [
-              -46.6367615,
-              -23.6719539
-            ],
-            [
-              -46.6362435,
-              -23.671548
-            ],
-            [
-              -46.6363625,
-              -23.671441
-            ],
-            [
-              -46.6365301,
-              -23.6713582
-            ],
-            [
-              -46.6366954,
-              -23.6715117
-            ],
-            [
-              -46.6369578,
-              -23.6717237
             ]
           ]
         ]
@@ -76181,45 +76015,6 @@
             [
               -46.6435903,
               -23.6583037
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1069203532",
-      "properties": {
-        "timestamp": "2022-06-13T10:12:48Z",
-        "version": 2,
-        "changeset": 122317666,
-        "amenity": "school",
-        "name": "EMEI Professora Dorina Nowill",
-        "id": "way/1069203532"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -46.6510411,
-              -23.6737799
-            ],
-            [
-              -46.650519,
-              -23.6739732
-            ],
-            [
-              -46.6504471,
-              -23.6738101
-            ],
-            [
-              -46.6509691,
-              -23.6736169
-            ],
-            [
-              -46.6510411,
-              -23.6737799
             ]
           ]
         ]
@@ -98659,25 +98454,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/5575082513",
-      "properties": {
-        "timestamp": "2018-04-24T04:28:52Z",
-        "version": 1,
-        "changeset": 58360260,
-        "amenity": "school",
-        "name": "Cei Carmem Rodrigues",
-        "id": "node/5575082513"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -46.64051,
-          -23.6700222
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/5575328013",
       "properties": {
         "timestamp": "2018-04-24T07:03:40Z",
@@ -101099,25 +100875,6 @@
         "coordinates": [
           -46.6831215,
           -23.4718742
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/7460796567",
-      "properties": {
-        "timestamp": "2020-04-28T21:51:30Z",
-        "version": 1,
-        "changeset": 84293100,
-        "amenity": "school",
-        "name": "EMEI JARDIM AMERICANÓPOLIS",
-        "id": "node/7460796567"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -46.6592481,
-          -23.6769988
         ]
       }
     },
@@ -111039,25 +110796,6 @@
         "coordinates": [
           -46.6371198,
           -23.6460121
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/11240084141",
-      "properties": {
-        "timestamp": "2023-10-04T23:06:11Z",
-        "version": 1,
-        "changeset": 142165933,
-        "amenity": "school",
-        "name": "CEI DIRET VILA IMPERIO",
-        "id": "node/11240084141"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -46.6556729,
-          -23.6728237
         ]
       }
     },

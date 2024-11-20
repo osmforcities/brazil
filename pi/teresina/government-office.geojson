@@ -5,9 +5,9 @@
       "type": "Feature",
       "id": "relation/11995570",
       "properties": {
-        "timestamp": "2023-02-07T20:32:15Z",
-        "version": 3,
-        "changeset": 132224270,
+        "timestamp": "2024-11-18T23:00:26Z",
+        "version": 4,
+        "changeset": 159303933,
         "addr:city": "Teresina",
         "addr:housenumber": "1450",
         "addr:postcode": "64001-040",
@@ -15,6 +15,7 @@
         "addr:suburb": "Centro",
         "air_conditioning": "yes",
         "area": "yes",
+        "barrier": "wire_fence",
         "check_date": "2023-02-07",
         "description": "Secretária de Governo",
         "government": "government",
@@ -132,6 +133,102 @@
             [
               -42.8142038,
               -5.0743384
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/257572780",
+      "properties": {
+        "timestamp": "2024-11-18T23:00:26Z",
+        "version": 13,
+        "changeset": 159303933,
+        "addr:city": "Teresina",
+        "addr:housenumber": "1450",
+        "addr:postcode": "64001-040",
+        "addr:street": "Avenida Antonino Freire",
+        "addr:suburb": "Centro",
+        "building": "yes",
+        "government": "government",
+        "name": "Palácio de Karnak",
+        "office": "government",
+        "phone": "(86) 3226-8364",
+        "website": "https://antigo.pi.gov.br/karnak/",
+        "id": "way/257572780"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.8117629,
+              -5.0913443
+            ],
+            [
+              -42.8117222,
+              -5.0914282
+            ],
+            [
+              -42.8116965,
+              -5.0914158
+            ],
+            [
+              -42.8116693,
+              -5.0914719
+            ],
+            [
+              -42.8113301,
+              -5.0913085
+            ],
+            [
+              -42.8113604,
+              -5.091246
+            ],
+            [
+              -42.8112983,
+              -5.0912161
+            ],
+            [
+              -42.8113418,
+              -5.0911267
+            ],
+            [
+              -42.8114637,
+              -5.0911854
+            ],
+            [
+              -42.8115119,
+              -5.0910862
+            ],
+            [
+              -42.8115728,
+              -5.0911156
+            ],
+            [
+              -42.8115872,
+              -5.0910859
+            ],
+            [
+              -42.811644,
+              -5.0911133
+            ],
+            [
+              -42.8116296,
+              -5.091143
+            ],
+            [
+              -42.8116906,
+              -5.0911724
+            ],
+            [
+              -42.8116366,
+              -5.0912834
+            ],
+            [
+              -42.8117629,
+              -5.0913443
             ]
           ]
         ]

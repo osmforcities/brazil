@@ -52,9 +52,9 @@
       "type": "Feature",
       "id": "way/956589591",
       "properties": {
-        "timestamp": "2024-11-01T18:39:12Z",
-        "version": 3,
-        "changeset": 158631964,
+        "timestamp": "2024-11-18T19:33:23Z",
+        "version": 4,
+        "changeset": 159297295,
         "addr:city": "Corumbá de Goiás",
         "addr:postcode": "72960-000",
         "addr:street": "Avenida Professor Francisco Bruno",
@@ -68,6 +68,7 @@
         "healthcare:speciality": "blood_check",
         "mobile": "+55 62 98312 0501",
         "name": "Laboratório Santa Clara",
+        "opening_hours": "Mo-Fr 07:00-11:00; Mo-Fr 13:00-17:00",
         "operator": "Laboratorio Santa Clara LTDA",
         "operator:type": "private",
         "phone": "+55 62 3338 1187",
@@ -232,23 +233,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/9923417878",
-      "properties": {
-        "timestamp": "2022-07-31T23:42:10Z",
-        "version": 1,
-        "changeset": 124321183,
-        "id": "node/9923417878"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.812715,
-          -15.9278676
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/12219308002",
       "properties": {
         "timestamp": "2024-11-01T18:35:32Z",
@@ -300,6 +284,38 @@
         "coordinates": [
           -48.8106414,
           -15.9266875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12351975096",
+      "properties": {
+        "timestamp": "2024-11-18T19:42:49Z",
+        "version": 1,
+        "changeset": 159297694,
+        "addr:city": "Corumbá de Goiás",
+        "addr:postcode": "72960-000",
+        "addr:street": "Avenida Professor Francisco Bruno",
+        "addr:suburb": "Alto da Boa Vista",
+        "amenity": "clinic",
+        "building": "yes",
+        "contact:whatsapp": "+55 62 99984 7411",
+        "healthcare": "clinic",
+        "mobile": "+55 99984 7411",
+        "name": "Centro de Análises Clínicas Pasteur",
+        "name_1": "Laboratório Pasteur",
+        "name_2": "Pasteur",
+        "phone": "+55 62 3338 1196",
+        "type": "site",
+        "website": "http://cacpasteur.com.br/posto-coleta",
+        "id": "node/12351975096"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.8127213,
+          -15.9278774
         ]
       }
     }

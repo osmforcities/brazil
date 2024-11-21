@@ -4407,82 +4407,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/544997732",
-      "properties": {
-        "timestamp": "2021-03-20T21:28:33Z",
-        "version": 3,
-        "changeset": 101418662,
-        "addr:city": "Fortaleza",
-        "addr:housenumber": "5677",
-        "addr:postcode": "60410-545",
-        "addr:street": "Avenida dos Expedicionários",
-        "addr:suburb": "Vila União",
-        "government": "transportation",
-        "name": "Empresa de Transporte Urbano de Fortaleza",
-        "office": "government",
-        "opening_hours": "Mo-Fr 08:00-16:30",
-        "phone": "+55 85 3101 3090",
-        "short_name": "ETUFOR",
-        "id": "way/544997732"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -38.542519,
-              -3.7696921
-            ],
-            [
-              -38.5426605,
-              -3.7701682
-            ],
-            [
-              -38.5426935,
-              -3.7702002
-            ],
-            [
-              -38.5427617,
-              -3.770431
-            ],
-            [
-              -38.5427832,
-              -3.7704924
-            ],
-            [
-              -38.5427945,
-              -3.7705294
-            ],
-            [
-              -38.5428219,
-              -3.770611
-            ],
-            [
-              -38.5426374,
-              -3.7707742
-            ],
-            [
-              -38.5423161,
-              -3.7710585
-            ],
-            [
-              -38.5419751,
-              -3.7698939
-            ],
-            [
-              -38.542001,
-              -3.7698514
-            ],
-            [
-              -38.542519,
-              -3.7696921
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/549738391",
       "properties": {
         "timestamp": "2023-05-09T01:45:28Z",
@@ -5195,112 +5119,6 @@
             [
               -38.5403289,
               -3.7227329
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/686356012",
-      "properties": {
-        "timestamp": "2022-11-02T23:34:05Z",
-        "version": 3,
-        "changeset": 128413967,
-        "building": "yes",
-        "building:levels": "1",
-        "government": "transportation",
-        "height": "12.0",
-        "office": "government",
-        "id": "way/686356012"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -38.5426107,
-              -3.7700542
-            ],
-            [
-              -38.5426205,
-              -3.7700863
-            ],
-            [
-              -38.542717,
-              -3.7704041
-            ],
-            [
-              -38.5426978,
-              -3.7704093
-            ],
-            [
-              -38.5425142,
-              -3.7704666
-            ],
-            [
-              -38.542445,
-              -3.770243
-            ],
-            [
-              -38.5423557,
-              -3.7702709
-            ],
-            [
-              -38.542311,
-              -3.7702848
-            ],
-            [
-              -38.5422121,
-              -3.7703157
-            ],
-            [
-              -38.5420859,
-              -3.7699082
-            ],
-            [
-              -38.5421524,
-              -3.7698874
-            ],
-            [
-              -38.5422588,
-              -3.7698542
-            ],
-            [
-              -38.5423119,
-              -3.7698376
-            ],
-            [
-              -38.5423497,
-              -3.7698258
-            ],
-            [
-              -38.5423801,
-              -3.7698168
-            ],
-            [
-              -38.5424687,
-              -3.7697905
-            ],
-            [
-              -38.5424794,
-              -3.7697873
-            ],
-            [
-              -38.5425059,
-              -3.7697795
-            ],
-            [
-              -38.5425382,
-              -3.7698833
-            ],
-            [
-              -38.5425931,
-              -3.7700598
-            ],
-            [
-              -38.5426107,
-              -3.7700542
             ]
           ]
         ]
@@ -11316,6 +11134,35 @@
     },
     {
       "type": "Feature",
+      "id": "node/4468258992",
+      "properties": {
+        "timestamp": "2024-11-19T20:14:09Z",
+        "version": 3,
+        "changeset": 159340671,
+        "addr:city": "Fortaleza",
+        "addr:housenumber": "5451",
+        "addr:postcode": "60861-635",
+        "addr:street": "Avenida Juscelino Kubitschek",
+        "addr:suburb": "Passaré",
+        "government": "transportation",
+        "name": "Empresa de Transporte Urbano de Fortaleza",
+        "office": "government",
+        "opening_hours": "Mo-Fr 08:00-16:30",
+        "phone": "+55 85 3101 3090",
+        "short_name": "ETUFOR",
+        "start_date": "2024-12-02",
+        "id": "node/4468258992"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5367608,
+          -3.8236177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/4470149541",
       "properties": {
         "timestamp": "2024-03-25T04:47:32Z",
@@ -11682,25 +11529,6 @@
         "coordinates": [
           -38.5754457,
           -3.7590984
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/6433259767",
-      "properties": {
-        "timestamp": "2022-12-29T18:17:33Z",
-        "version": 2,
-        "changeset": 130657897,
-        "barrier": "gate",
-        "entrance": "main",
-        "id": "node/6433259767"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -38.5427617,
-          -3.770431
         ]
       }
     },

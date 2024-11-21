@@ -94,16 +94,23 @@
       "type": "Feature",
       "id": "way/633390101",
       "properties": {
-        "timestamp": "2023-12-29T15:33:03Z",
-        "version": 2,
-        "changeset": 145666681,
+        "timestamp": "2024-11-19T11:54:04Z",
+        "version": 3,
+        "changeset": 159321221,
+        "addr:city": "Campinas",
+        "addr:housenumber": "1060",
+        "addr:postcode": "13084-008",
+        "addr:street": "Avenida Albino José Barbosa de Oliveira",
+        "addr:suburb": "Barão Geraldo",
         "amenity": "pharmacy",
         "brand": "Droga Raia",
         "brand:wikidata": "Q10357101",
         "building": "yes",
         "dispensing": "yes",
         "healthcare": "pharmacy",
+        "mobile": "+55 (19) 97165-8706",
         "name": "Droga Raia",
+        "opening_hours": "24/7",
         "id": "way/633390101"
       },
       "geometry": {
@@ -2253,36 +2260,6 @@
         "coordinates": [
           -47.1259939,
           -22.9269543
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/5157283749",
-      "properties": {
-        "timestamp": "2024-11-10T11:53:37Z",
-        "version": 4,
-        "changeset": 158964520,
-        "addr:city": "Campinas",
-        "addr:housenumber": "1060",
-        "addr:postcode": "13084-008",
-        "addr:street": "Avenida Albino José Barbosa de Oliveira",
-        "addr:suburb": "Barão Geraldo",
-        "amenity": "pharmacy",
-        "brand": "Droga Raia",
-        "brand:wikidata": "Q10357101",
-        "brand:wikipedia": "pt:RaiaDrogasil",
-        "healthcare": "pharmacy",
-        "mobile": "+55 (19) 97165-8706",
-        "name": "Droga Raia",
-        "opening_hours": "24/7",
-        "id": "node/5157283749"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -47.0787763,
-          -22.8289944
         ]
       }
     },

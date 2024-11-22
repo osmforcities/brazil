@@ -51,14 +51,15 @@
       "type": "Feature",
       "id": "node/11262822538",
       "properties": {
-        "timestamp": "2023-10-14T15:22:18Z",
-        "version": 1,
-        "changeset": 142581373,
+        "timestamp": "2024-11-20T01:56:16Z",
+        "version": 2,
+        "changeset": 159348543,
         "addr:housenumber": "618",
         "addr:postcode": "88914-000",
         "addr:street": "Avenida Barriga Verde",
         "amenity": "pharmacy",
         "contact:instagram": "medfarmaarroiodosilva",
+        "healthcare": "pharmacy",
         "name": "Med Farma",
         "opening_hours": "Mo-Su 08:00-22:30",
         "phone": "+55 48 99993-4451",
@@ -68,8 +69,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -49.4174826,
-          -28.9850271
+          -49.4174491,
+          -28.9849989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11262826737",
+      "properties": {
+        "timestamp": "2024-11-20T01:56:16Z",
+        "version": 3,
+        "changeset": 159348543,
+        "addr:housenumber": "575",
+        "addr:postcode": "88914000",
+        "addr:street": "Avenida Barriga Verde",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Regional",
+        "opening_hours": "Mo-Sa 07:00-23:00; Su 08:00-23:00",
+        "website": "https://regionalfarmacias.com.br",
+        "id": "node/11262826737"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.4174056,
+          -28.9854276
         ]
       }
     },

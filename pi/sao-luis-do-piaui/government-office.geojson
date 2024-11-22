@@ -5,12 +5,14 @@
       "type": "Feature",
       "id": "way/1334316961",
       "properties": {
-        "timestamp": "2024-11-15T18:30:44Z",
-        "version": 1,
-        "changeset": 159182727,
+        "timestamp": "2024-11-20T16:17:19Z",
+        "version": 2,
+        "changeset": 159373005,
         "addr:city": "São Luis do Piauí",
         "addr:housenumber": "310",
+        "addr:postcode": "64638-000",
         "addr:street": "Rua João de Sousa Leite",
+        "addr:suburb": "Centro",
         "building": "yes",
         "name": "Secretaria Municipal de Educação",
         "office": "government",
@@ -57,6 +59,30 @@
               -6.8267387
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12358572714",
+      "properties": {
+        "timestamp": "2024-11-20T16:17:19Z",
+        "version": 1,
+        "changeset": 159373005,
+        "addr:city": "São Luís do Piauí",
+        "addr:housenumber": "310",
+        "addr:postcode": "64638-000",
+        "addr:street": "Rua João de Sousa Leite",
+        "addr:suburb": "Centro",
+        "name": "Secretaria Municipal de Educação",
+        "office": "government",
+        "id": "node/12358572714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.322713,
+          -6.8268044
         ]
       }
     }

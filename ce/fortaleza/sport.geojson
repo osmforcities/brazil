@@ -60304,9 +60304,9 @@
       "type": "Feature",
       "id": "way/1335230736",
       "properties": {
-        "timestamp": "2024-11-19T00:50:28Z",
-        "version": 1,
-        "changeset": 159305510,
+        "timestamp": "2024-11-20T13:01:37Z",
+        "version": 2,
+        "changeset": 159364993,
         "blind": "no",
         "fitness_station": "yes",
         "leisure": "fitness_station",
@@ -60329,6 +60329,10 @@
             [
               -38.5034026,
               -3.836221
+            ],
+            [
+              -38.5033643,
+              -3.8361653
             ],
             [
               -38.5033254,
@@ -60462,6 +60466,46 @@
             [
               -38.5048235,
               -3.8373963
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1336069074",
+      "properties": {
+        "timestamp": "2024-11-20T17:25:16Z",
+        "version": 1,
+        "changeset": 159376548,
+        "leisure": "pitch",
+        "sport": "beachvolleyball",
+        "surface": "sand",
+        "id": "way/1336069074"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.5198831,
+              -3.7586285
+            ],
+            [
+              -38.5200567,
+              -3.75876
+            ],
+            [
+              -38.5199479,
+              -3.7589031
+            ],
+            [
+              -38.5197743,
+              -3.7587716
+            ],
+            [
+              -38.5198831,
+              -3.7586285
             ]
           ]
         ]
@@ -66630,6 +66674,24 @@
         "coordinates": [
           -38.4774502,
           -3.8256738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12358085076",
+      "properties": {
+        "timestamp": "2024-11-20T13:01:37Z",
+        "version": 1,
+        "changeset": 159364993,
+        "natural": "tree",
+        "id": "node/12358085076"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5033643,
+          -3.8361653
         ]
       }
     }

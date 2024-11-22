@@ -5,15 +5,16 @@
       "type": "Feature",
       "id": "way/1028206187",
       "properties": {
-        "timestamp": "2022-02-04T23:15:23Z",
-        "version": 1,
-        "changeset": 117026665,
+        "timestamp": "2024-11-20T16:17:19Z",
+        "version": 2,
+        "changeset": 159373005,
         "addr:city": "São Luis do Piauí",
         "addr:housenumber": "742",
         "addr:postcode": "64638-000",
         "addr:street": "Avenida Luis Borges de Sousa",
         "addr:suburb": "Centro",
         "amenity": "school",
+        "barrier": "wall",
         "name": "Esc Municipal Pe Marcos De Carvalho",
         "phone": "+55 89 3434 0059",
         "id": "way/1028206187"
@@ -23,24 +24,24 @@
         "coordinates": [
           [
             [
-              -41.3232455,
-              -6.8264759
+              -41.3232428,
+              -6.8264706
             ],
             [
-              -41.3233126,
-              -6.8267137
+              -41.3233157,
+              -6.8267155
             ],
             [
-              -41.3229452,
-              -6.8269176
+              -41.322944,
+              -6.8269164
             ],
             [
-              -41.3228275,
-              -6.826687
+              -41.3228246,
+              -6.8266899
             ],
             [
-              -41.3232455,
-              -6.8264759
+              -41.3232428,
+              -6.8264706
             ]
           ]
         ]
@@ -48,37 +49,60 @@
     },
     {
       "type": "Feature",
-      "id": "way/1327929412",
+      "id": "way/1336019708",
       "properties": {
-        "timestamp": "2024-10-24T18:35:58Z",
+        "timestamp": "2024-11-20T16:48:18Z",
         "version": 1,
-        "changeset": 158309114,
+        "changeset": 159374599,
+        "addr:city": "São Luís do Piauí",
+        "addr:postcode": "64638-000",
+        "addr:street": "Rua Severiano Teodoro de Sousa",
+        "addr:suburb": "Centro",
         "amenity": "school",
-        "id": "way/1327929412"
+        "barrier": "wall",
+        "name": "Unidade Escolar Antônio Pereira de Araújo",
+        "operator": "Secretaria Estadual de Educação - SEDUC-PI",
+        "id": "way/1336019708"
       },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              -41.3206201,
-              -6.8239144
+              -41.3204826,
+              -6.8235472
             ],
             [
-              -41.3206577,
-              -6.8239933
+              -41.320728,
+              -6.8240635
             ],
             [
-              -41.3205249,
-              -6.8240556
+              -41.3206123,
+              -6.8241102
             ],
             [
-              -41.3204873,
-              -6.8239768
+              -41.3205209,
+              -6.824147
             ],
             [
-              -41.3206201,
-              -6.8239144
+              -41.3203811,
+              -6.8237913
+            ],
+            [
+              -41.3203749,
+              -6.8237757
+            ],
+            [
+              -41.3203571,
+              -6.8237283
+            ],
+            [
+              -41.3203019,
+              -6.8235839
+            ],
+            [
+              -41.3204826,
+              -6.8235472
             ]
           ]
         ]
@@ -88,22 +112,22 @@
       "type": "Feature",
       "id": "node/9477247148",
       "properties": {
-        "timestamp": "2022-02-04T23:16:08Z",
-        "version": 1,
-        "changeset": 117026714,
+        "timestamp": "2024-11-20T16:48:18Z",
+        "version": 2,
+        "changeset": 159374599,
         "addr:city": "São Luis do Piauí",
         "addr:postcode": "64638-000",
         "addr:street": "Rua Severiano Teodoro de Sousa",
         "addr:suburb": "Centro",
         "amenity": "school",
-        "name": "Unid Esc Antonio Pereira De Araujo",
+        "name": "Unidade Escolar Antônio Pereira de Araújo",
         "id": "node/9477247148"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -41.3205899,
-          -6.8239669
+          -41.320504,
+          -6.8238341
         ]
       }
     },
@@ -124,6 +148,24 @@
         "coordinates": [
           -41.2545432,
           -6.6874782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12358650826",
+      "properties": {
+        "timestamp": "2024-11-20T16:49:58Z",
+        "version": 2,
+        "changeset": 159374698,
+        "barrier": "gate",
+        "id": "node/12358650826"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.3206123,
+          -6.8241102
         ]
       }
     }

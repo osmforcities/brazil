@@ -178,15 +178,16 @@
       "type": "Feature",
       "id": "way/1130971346",
       "properties": {
-        "timestamp": "2023-11-13T15:46:37Z",
-        "version": 2,
-        "changeset": 143976277,
-        "addr:city": "Pedralva",
+        "timestamp": "2024-11-20T20:39:05Z",
+        "version": 3,
+        "changeset": 159384079,
+        "addr:housenumber": "180",
         "addr:postcode": "37520-000",
         "addr:street": "Rua José dos Santos Marques",
-        "addr:suburb": "Centro",
+        "addr:suburb": "São José",
         "amenity": "school",
-        "name": "Escola Estadual Professsor Arcádio do Nascimento Moura",
+        "barrier": "wall",
+        "name": "Escola Estadual Professor Arcádio do Nascimento Moura",
         "id": "way/1130971346"
       },
       "geometry": {
@@ -216,6 +217,14 @@
             [
               -45.4657386,
               -22.247378
+            ],
+            [
+              -45.4658103,
+              -22.2474071
+            ],
+            [
+              -45.4658792,
+              -22.247435
             ],
             [
               -45.4662059,
@@ -274,14 +283,15 @@
       "type": "Feature",
       "id": "way/1297874206",
       "properties": {
-        "timestamp": "2024-09-12T02:51:00Z",
-        "version": 2,
-        "changeset": 156508707,
+        "timestamp": "2024-11-20T20:39:05Z",
+        "version": 3,
+        "changeset": 159384079,
         "addr:housenumber": "465",
         "addr:street": "Rua Padre Marino",
         "addr:suburb": "São José",
         "amenity": "school",
-        "name": "Escola de Ensino Fundamental e Medio",
+        "name": "Escola RH+",
+        "official_name": "Escola de Ensino Fundamental e Médio RH+",
         "id": "way/1297874206"
       },
       "geometry": {
@@ -289,40 +299,44 @@
         "coordinates": [
           [
             [
-              -45.4668575,
-              -22.2490041
+              -45.4668573,
+              -22.2490064
             ],
             [
-              -45.4667515,
-              -22.2492346
+              -45.4667465,
+              -22.2492349
             ],
             [
-              -45.4665309,
-              -22.2491476
+              -45.4665283,
+              -22.2491442
             ],
             [
-              -45.4665728,
-              -22.2490565
+              -45.4665721,
+              -22.2490538
             ],
             [
-              -45.4667035,
-              -22.2487725
+              -45.4667017,
+              -22.2487866
             ],
             [
-              -45.4668292,
-              -22.248822
+              -45.4667402,
+              -22.2488026
             ],
             [
-              -45.4668232,
-              -22.2488352
+              -45.4667904,
+              -22.2488234
             ],
             [
-              -45.4669181,
-              -22.2488726
+              -45.466826,
+              -22.2488382
             ],
             [
-              -45.4668575,
-              -22.2490041
+              -45.4669199,
+              -22.2488773
+            ],
+            [
+              -45.4668573,
+              -22.2490064
             ]
           ]
         ]
@@ -386,6 +400,28 @@
     },
     {
       "type": "Feature",
+      "id": "node/11613438146",
+      "properties": {
+        "timestamp": "2024-11-20T20:39:05Z",
+        "version": 4,
+        "changeset": 159384079,
+        "addr:housenumber": "224",
+        "addr:street": "Rua José Belmiro Monti",
+        "addr:suburb": "São José",
+        "name": "Loja Para Todos",
+        "shop": "variety_store",
+        "id": "node/11613438146"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.4667402,
+          -22.2488026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/12189302989",
       "properties": {
         "timestamp": "2024-09-21T03:09:58Z",
@@ -421,6 +457,42 @@
         "coordinates": [
           -45.4677919,
           -22.2437379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12359988880",
+      "properties": {
+        "timestamp": "2024-11-20T20:39:05Z",
+        "version": 1,
+        "changeset": 159384079,
+        "entrance": "service",
+        "id": "node/12359988880"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.4658103,
+          -22.2474071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12359988881",
+      "properties": {
+        "timestamp": "2024-11-20T20:39:05Z",
+        "version": 1,
+        "changeset": 159384079,
+        "entrance": "main",
+        "id": "node/12359988881"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.4658792,
+          -22.247435
         ]
       }
     }

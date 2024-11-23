@@ -5,9 +5,9 @@
       "type": "Feature",
       "id": "way/407073357",
       "properties": {
-        "timestamp": "2019-05-27T20:37:38Z",
-        "version": 7,
-        "changeset": 70674227,
+        "timestamp": "2024-11-21T06:12:43Z",
+        "version": 8,
+        "changeset": 159394890,
         "addr:city": "Taboão da Serra",
         "addr:housenumber": "153",
         "addr:postcode": "06755-390",
@@ -17,6 +17,7 @@
         "email": "emi_narizinho@yahoo.com.br",
         "name": "Escola Municipal Infantil Narizinho",
         "operator": "Secretaria Municipal de Educação",
+        "operator:type": "government",
         "phone": "+55 11 4701 4572",
         "ref": "35078232",
         "short_name": "EMI Narizinho",
@@ -82,9 +83,9 @@
       "type": "Feature",
       "id": "way/409117075",
       "properties": {
-        "timestamp": "2016-06-07T20:54:39Z",
-        "version": 2,
-        "changeset": 39871458,
+        "timestamp": "2024-11-21T06:47:30Z",
+        "version": 3,
+        "changeset": 159395623,
         "addr:city": "Taboão da Serra",
         "addr:housenumber": "546",
         "addr:postcode": "06767-220",
@@ -93,6 +94,7 @@
         "amenity": "kindergarten",
         "name": "EMI Pelezinho",
         "operator": "Secretaria Municipal de Educação",
+        "operator:type": "government",
         "phone": "+55 11 4786 2092",
         "id": "way/409117075"
       },
@@ -541,6 +543,31 @@
               -23.6314705
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5695243158",
+      "properties": {
+        "timestamp": "2024-11-21T07:34:43Z",
+        "version": 2,
+        "changeset": 159397006,
+        "addr:postcode": "06790-240",
+        "addr:street": "Rua João Pires de Camargo",
+        "addr:suburb": "Jardim Mirna",
+        "amenity": "kindergarten",
+        "name": "Educação Infantil Jane Suzana",
+        "operator": "Associação Cristã Feminina",
+        "religion": "christian",
+        "website": "http://www.ymca.org.br/",
+        "id": "node/5695243158"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7820996,
+          -23.6105876
         ]
       }
     },

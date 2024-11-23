@@ -644,6 +644,53 @@
     },
     {
       "type": "Feature",
+      "id": "way/1336563847",
+      "properties": {
+        "timestamp": "2024-11-21T18:10:42Z",
+        "version": 1,
+        "changeset": 159428151,
+        "addr:city": "Castanhal",
+        "addr:housenumber": "2235",
+        "addr:postcode": "68743030",
+        "addr:street": "Travessa Floriano Peixoto",
+        "addr:suburb": "Centro",
+        "amenity": "university",
+        "name": "Unip - Aqui Você Pode",
+        "operator": "Grupo Educacional Aqui Você Pode",
+        "operator:type": "private",
+        "website": "https://www.aquivocepode.com.br/unip/?area=CAS",
+        "id": "way/1336563847"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.9289884,
+              -1.2914289
+            ],
+            [
+              -47.9296635,
+              -1.2914674
+            ],
+            [
+              -47.9296398,
+              -1.2918641
+            ],
+            [
+              -47.9289499,
+              -1.2918226
+            ],
+            [
+              -47.9289884,
+              -1.2914289
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/2515769300",
       "properties": {
         "timestamp": "2021-09-16T18:11:13Z",
@@ -658,6 +705,25 @@
         "coordinates": [
           -47.9531441,
           -1.3006202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12362373314",
+      "properties": {
+        "timestamp": "2024-11-21T18:11:58Z",
+        "version": 1,
+        "changeset": 159428196,
+        "amenity": "university",
+        "name": "UNIGRANDE - Centro Universitário",
+        "id": "node/12362373314"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.9291779,
+          -1.2915769
         ]
       }
     }

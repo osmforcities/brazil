@@ -97,10 +97,11 @@
       "type": "Feature",
       "id": "way/234460396",
       "properties": {
-        "timestamp": "2013-08-21T19:40:12Z",
-        "version": 1,
-        "changeset": 17445779,
+        "timestamp": "2024-11-22T23:08:31Z",
+        "version": 2,
+        "changeset": 159478421,
         "amenity": "university",
+        "name": "UNIP Santos",
         "id": "way/234460396"
       },
       "geometry": {
@@ -126,6 +127,91 @@
             [
               -46.3327079,
               -23.9436039
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/305498733",
+      "properties": {
+        "timestamp": "2024-11-22T23:05:45Z",
+        "version": 7,
+        "changeset": 159478368,
+        "addr:city": "Santos",
+        "addr:housenumber": "52",
+        "addr:postcode": "11015-530",
+        "addr:street": "Rua Comendador Martins",
+        "addr:suburb": "Vila Mathias",
+        "amenity": "university",
+        "name": "São Judas Unimonte",
+        "phone": "+55 13 3228-2100",
+        "id": "way/305498733"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.3286413,
+              -23.9436629
+            ],
+            [
+              -46.3284461,
+              -23.9436852
+            ],
+            [
+              -46.3284786,
+              -23.9438747
+            ],
+            [
+              -46.3285925,
+              -23.9438598
+            ],
+            [
+              -46.3286331,
+              -23.9441496
+            ],
+            [
+              -46.327694,
+              -23.9442463
+            ],
+            [
+              -46.3276462,
+              -23.943943
+            ],
+            [
+              -46.3276416,
+              -23.9439139
+            ],
+            [
+              -46.3276323,
+              -23.9438546
+            ],
+            [
+              -46.3276299,
+              -23.9438393
+            ],
+            [
+              -46.3276208,
+              -23.9437818
+            ],
+            [
+              -46.3279501,
+              -23.9437372
+            ],
+            [
+              -46.3279013,
+              -23.9433805
+            ],
+            [
+              -46.3285884,
+              -23.9432951
+            ],
+            [
+              -46.3286413,
+              -23.9436629
             ]
           ]
         ]
@@ -515,6 +601,31 @@
               -23.9395981
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2061384033",
+      "properties": {
+        "timestamp": "2024-11-22T23:53:38Z",
+        "version": 7,
+        "changeset": 159479300,
+        "addr:city": "Santos",
+        "addr:housenumber": "89",
+        "addr:postcode": "11030-401",
+        "addr:street": "Avenida Almirante Saldanha da Gama",
+        "addr:suburb": "Ponta da Praia",
+        "amenity": "university",
+        "name": "Unifesp - Universidade Federal de São Paulo",
+        "phone": "+55 13 3229-0100",
+        "id": "node/2061384033"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.3008931,
+          -23.9903597
         ]
       }
     },

@@ -869,6 +869,96 @@
     },
     {
       "type": "Feature",
+      "id": "way/366557086",
+      "properties": {
+        "timestamp": "2024-11-23T00:32:53Z",
+        "version": 2,
+        "changeset": 159479901,
+        "amenity": "school",
+        "building": "yes",
+        "name": "Colégio Liceu São Paulo",
+        "office": "educational_institution",
+        "id": "way/366557086"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.3308401,
+              -23.9497984
+            ],
+            [
+              -46.3314299,
+              -23.9497274
+            ],
+            [
+              -46.3314784,
+              -23.9500643
+            ],
+            [
+              -46.3312698,
+              -23.9500894
+            ],
+            [
+              -46.3312461,
+              -23.9499252
+            ],
+            [
+              -46.330865,
+              -23.9499711
+            ],
+            [
+              -46.3308401,
+              -23.9497984
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/366557090",
+      "properties": {
+        "timestamp": "2024-11-23T00:33:11Z",
+        "version": 2,
+        "changeset": 159479903,
+        "amenity": "school",
+        "building": "yes",
+        "name": "Colégio Liceu São Paulo - Júnior",
+        "office": "educational_institution",
+        "id": "way/366557090"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.3305139,
+              -23.9496575
+            ],
+            [
+              -46.3305284,
+              -23.9498075
+            ],
+            [
+              -46.3301042,
+              -23.9498417
+            ],
+            [
+              -46.3300897,
+              -23.9496917
+            ],
+            [
+              -46.3305139,
+              -23.9496575
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/400008234",
       "properties": {
         "timestamp": "2022-09-25T02:41:56Z",
@@ -1003,6 +1093,52 @@
             [
               -46.3053211,
               -23.9671772
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/485256152",
+      "properties": {
+        "timestamp": "2024-11-23T00:58:20Z",
+        "version": 2,
+        "changeset": 159480186,
+        "addr:city": "Santos",
+        "addr:street": "Praça Coronel Fernando Prestes",
+        "addr:suburb": "Embaré",
+        "amenity": "school",
+        "building": "school",
+        "name": "Templo do Futebol",
+        "phone": "+55 13 97415-2195",
+        "school": "sport",
+        "sport": "soccer",
+        "id": "way/485256152"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.3118129,
+              -23.9650363
+            ],
+            [
+              -46.3119598,
+              -23.9652119
+            ],
+            [
+              -46.3118742,
+              -23.9652718
+            ],
+            [
+              -46.3117272,
+              -23.9650962
+            ],
+            [
+              -46.3118129,
+              -23.9650363
             ]
           ]
         ]
@@ -1492,26 +1628,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/2061621112",
-      "properties": {
-        "timestamp": "2018-12-24T21:24:34Z",
-        "version": 3,
-        "changeset": 65750347,
-        "amenity": "school",
-        "name": "Unilus",
-        "wikidata": "Q30294092",
-        "id": "node/2061621112"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -46.3252899,
-          -23.9632596
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/2061754105",
       "properties": {
         "timestamp": "2012-12-15T03:29:27Z",
@@ -1590,25 +1706,6 @@
         "coordinates": [
           -46.3115985,
           -23.9645757
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/2069249423",
-      "properties": {
-        "timestamp": "2012-12-16T02:28:23Z",
-        "version": 1,
-        "changeset": 14288202,
-        "amenity": "school",
-        "name": "Unilus",
-        "id": "node/2069249423"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -46.3169588,
-          -23.9583819
         ]
       }
     },
@@ -1811,15 +1908,17 @@
       "type": "Feature",
       "id": "node/4780346131",
       "properties": {
-        "timestamp": "2017-05-15T22:42:53Z",
-        "version": 2,
-        "changeset": 48715050,
+        "timestamp": "2024-11-23T00:58:20Z",
+        "version": 3,
+        "changeset": 159480186,
         "addr:city": "Santos",
         "addr:street": "Praça Coronel Fernando Prestes",
         "addr:suburb": "Embaré",
         "amenity": "school",
         "name": "Escola de Futebol do Boca Juniors",
         "phone": "+55 13 3385-4877",
+        "school": "sport",
+        "sport": "soccer",
         "id": "node/4780346131"
       },
       "geometry": {

@@ -53,11 +53,11 @@
       "type": "Feature",
       "id": "way/562081395",
       "properties": {
-        "timestamp": "2018-02-17T22:07:24Z",
-        "version": 1,
-        "changeset": 56450886,
+        "timestamp": "2024-11-23T14:55:45Z",
+        "version": 2,
+        "changeset": 159503377,
         "amenity": "school",
-        "name": "Escola Estadual Augusto Roennao",
+        "name": "E.M.E.F Professor Augusto Roennao",
         "source": "IBGE",
         "id": "way/562081395"
       },
@@ -262,6 +262,31 @@
         "coordinates": [
           -50.7853896,
           -29.490093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12367839325",
+      "properties": {
+        "timestamp": "2024-11-23T14:55:45Z",
+        "version": 1,
+        "changeset": 159503377,
+        "addr:city": "Três Coroas",
+        "addr:housenumber": "100",
+        "addr:street": "Rua Hermando",
+        "addr:suburb": "Linha Café Baixa",
+        "amenity": "school",
+        "name": "E.M.E.F Rui Barbosa",
+        "operator": "Prefeitura Municipal de Três Coroas",
+        "operator:type": "pública",
+        "id": "node/12367839325"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.7688419,
+          -29.4781039
         ]
       }
     }

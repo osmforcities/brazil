@@ -445,52 +445,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/198706104",
-      "properties": {
-        "timestamp": "2017-05-13T17:43:29Z",
-        "version": 6,
-        "changeset": 48655446,
-        "addr:city": "Santos",
-        "addr:country": "BR",
-        "addr:housenumber": "80",
-        "addr:postcode": "11035100",
-        "addr:street": "Rua Jurubatuba",
-        "addr:suburb": "Aparecida",
-        "leisure": "sports_centre",
-        "name": "Brasil Futebol Clube",
-        "sport": "multi",
-        "id": "way/198706104"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -46.3044983,
-              -23.9760624
-            ],
-            [
-              -46.3055371,
-              -23.9771761
-            ],
-            [
-              -46.3046735,
-              -23.9780968
-            ],
-            [
-              -46.3034783,
-              -23.9771854
-            ],
-            [
-              -46.3044983,
-              -23.9760624
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/234460388",
       "properties": {
         "timestamp": "2024-04-06T11:10:40Z",
@@ -3079,6 +3033,52 @@
     },
     {
       "type": "Feature",
+      "id": "way/485256152",
+      "properties": {
+        "timestamp": "2024-11-23T00:58:20Z",
+        "version": 2,
+        "changeset": 159480186,
+        "addr:city": "Santos",
+        "addr:street": "Praça Coronel Fernando Prestes",
+        "addr:suburb": "Embaré",
+        "amenity": "school",
+        "building": "school",
+        "name": "Templo do Futebol",
+        "phone": "+55 13 97415-2195",
+        "school": "sport",
+        "sport": "soccer",
+        "id": "way/485256152"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.3118129,
+              -23.9650363
+            ],
+            [
+              -46.3119598,
+              -23.9652119
+            ],
+            [
+              -46.3118742,
+              -23.9652718
+            ],
+            [
+              -46.3117272,
+              -23.9650962
+            ],
+            [
+              -46.3118129,
+              -23.9650363
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/486231013",
       "properties": {
         "timestamp": "2017-05-22T00:33:01Z",
@@ -4294,6 +4294,50 @@
     },
     {
       "type": "Feature",
+      "id": "way/198706104",
+      "properties": {
+        "timestamp": "2024-11-23T00:52:47Z",
+        "version": 7,
+        "changeset": 159480128,
+        "addr:city": "Santos",
+        "addr:country": "BR",
+        "addr:housenumber": "80",
+        "addr:postcode": "11035100",
+        "addr:street": "Rua Jurubatuba",
+        "addr:suburb": "Aparecida",
+        "club": "sport",
+        "name": "Brasil Futebol Clube",
+        "sport": "multi",
+        "id": "way/198706104"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.3044983,
+            -23.9760624
+          ],
+          [
+            -46.3034783,
+            -23.9771854
+          ],
+          [
+            -46.3046735,
+            -23.9780968
+          ],
+          [
+            -46.3055371,
+            -23.9771761
+          ],
+          [
+            -46.3044983,
+            -23.9760624
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/199125654",
       "properties": {
         "timestamp": "2024-11-22T23:51:28Z",
@@ -4771,10 +4815,10 @@
       "type": "Feature",
       "id": "node/2061634133",
       "properties": {
-        "timestamp": "2012-12-12T01:27:57Z",
-        "version": 2,
-        "changeset": 14244902,
-        "leisure": "sports_centre",
+        "timestamp": "2024-11-23T01:03:19Z",
+        "version": 3,
+        "changeset": 159480234,
+        "leisure": "fitness_centre",
         "name": "Estilo do Corpo",
         "sport": "gymnastics",
         "id": "node/2061634133"
@@ -4848,10 +4892,10 @@
       "type": "Feature",
       "id": "node/2067255563",
       "properties": {
-        "timestamp": "2012-12-14T22:36:46Z",
-        "version": 1,
-        "changeset": 14276493,
-        "leisure": "sports_centre",
+        "timestamp": "2024-11-23T01:15:10Z",
+        "version": 2,
+        "changeset": 159480359,
+        "leisure": "fitness_centre",
         "sport": "gymnastics",
         "id": "node/2067255563"
       },
@@ -4867,10 +4911,10 @@
       "type": "Feature",
       "id": "node/3329944022",
       "properties": {
-        "timestamp": "2017-06-14T02:18:39Z",
-        "version": 2,
-        "changeset": 49516105,
-        "leisure": "sports_centre",
+        "timestamp": "2024-11-23T01:01:00Z",
+        "version": 3,
+        "changeset": 159480214,
+        "leisure": "fitness_centre",
         "name": "Conceito Fit",
         "sport": "Bodybuilding",
         "id": "node/3329944022"
@@ -4945,14 +4989,14 @@
       "type": "Feature",
       "id": "node/4178824424",
       "properties": {
-        "timestamp": "2017-03-23T23:05:54Z",
-        "version": 3,
-        "changeset": 47110159,
+        "timestamp": "2024-11-23T00:52:01Z",
+        "version": 4,
+        "changeset": 159480119,
         "addr:city": "Santos",
         "addr:housenumber": "109",
         "addr:street": "Rua 1º de Maio",
         "addr:suburb": "Aparecida",
-        "leisure": "sports_centre",
+        "leisure": "fitness_centre",
         "name": "OP 28 - Academia",
         "opening_hours": "07:00-22:00",
         "sport": "exercise",
@@ -4963,6 +5007,31 @@
         "coordinates": [
           -46.3065606,
           -23.9794266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4780346131",
+      "properties": {
+        "timestamp": "2024-11-23T00:58:20Z",
+        "version": 3,
+        "changeset": 159480186,
+        "addr:city": "Santos",
+        "addr:street": "Praça Coronel Fernando Prestes",
+        "addr:suburb": "Embaré",
+        "amenity": "school",
+        "name": "Escola de Futebol do Boca Juniors",
+        "phone": "+55 13 3385-4877",
+        "school": "sport",
+        "sport": "soccer",
+        "id": "node/4780346131"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.3117892,
+          -23.9650923
         ]
       }
     },

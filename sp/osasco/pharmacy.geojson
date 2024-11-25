@@ -201,18 +201,26 @@
       "type": "Feature",
       "id": "way/1057634834",
       "properties": {
-        "timestamp": "2023-02-20T22:23:57Z",
-        "version": 2,
-        "changeset": 132810877,
+        "timestamp": "2024-11-23T17:42:23Z",
+        "version": 3,
+        "changeset": 159509227,
+        "addr:housenumber": "120",
+        "addr:postcode": "06053-000",
         "addr:street": "Avenida Cásper Líbero",
+        "addr:suburb": "Bela Vista",
         "amenity": "pharmacy",
-        "brand": "Droga Raia",
-        "brand:wikidata": "Q10357101",
+        "branch": "Osasco 17",
+        "brand": "Drogasil",
+        "brand:wikidata": "Q5308185",
         "building": "yes",
         "dispensing": "yes",
         "drive_through": "no",
         "healthcare": "pharmacy",
-        "name": "Droga Raia",
+        "name": "Drogasil",
+        "opening_hours": "Mo-Su,PH 07:00-23:00",
+        "phone": "+55 11 3682 5692",
+        "website": "https://www.drogasil.com.br/",
+        "wheelchair": "yes",
         "id": "way/1057634834"
       },
       "geometry": {
@@ -1044,6 +1052,32 @@
         "coordinates": [
           -46.807748,
           -23.5449218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12368624357",
+      "properties": {
+        "timestamp": "2024-11-23T21:53:43Z",
+        "version": 1,
+        "changeset": 159515472,
+        "addr:street": "Avenida Antônio Carlos Costa",
+        "addr:suburb": "Jardim Bela Vista",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "mobile": "+55 11 93294 6072",
+        "name": "Campeão Farma",
+        "phone": "+55 11 4624 7273",
+        "id": "node/12368624357"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7852544,
+          -23.5505108
         ]
       }
     }

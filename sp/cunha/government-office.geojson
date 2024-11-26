@@ -45,10 +45,11 @@
       "type": "Feature",
       "id": "way/545306954",
       "properties": {
-        "timestamp": "2018-12-21T01:52:53Z",
-        "version": 2,
-        "changeset": 65656783,
-        "building": "yes",
+        "timestamp": "2024-11-24T01:42:52Z",
+        "version": 4,
+        "changeset": 159519033,
+        "admin_level": "8",
+        "building": "public",
         "government": "legislative",
         "name": "Câmara Municipal",
         "office": "government",
@@ -125,6 +126,55 @@
     },
     {
       "type": "Feature",
+      "id": "way/547717190",
+      "properties": {
+        "timestamp": "2024-11-24T01:48:20Z",
+        "version": 4,
+        "changeset": 159519086,
+        "building": "public",
+        "government": "healthcare",
+        "name": "Secretaria da Saúde",
+        "office": "government",
+        "id": "way/547717190"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.960265,
+              -23.0745643
+            ],
+            [
+              -44.9602545,
+              -23.0746828
+            ],
+            [
+              -44.9601524,
+              -23.0746752
+            ],
+            [
+              -44.9599703,
+              -23.0746615
+            ],
+            [
+              -44.9599808,
+              -23.074543
+            ],
+            [
+              -44.9601629,
+              -23.0745567
+            ],
+            [
+              -44.960265,
+              -23.0745643
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/840004430",
       "properties": {
         "timestamp": "2020-08-24T03:04:33Z",
@@ -158,47 +208,6 @@
             [
               -44.9597446,
               -23.0757092
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/840004431",
-      "properties": {
-        "timestamp": "2023-10-20T16:52:38Z",
-        "version": 2,
-        "changeset": 142879342,
-        "building": "yes",
-        "government": "register_office",
-        "name": "Tabelião de notas",
-        "office": "government",
-        "id": "way/840004431"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -44.9599538,
-              -23.0749442
-            ],
-            [
-              -44.9600396,
-              -23.0749417
-            ],
-            [
-              -44.9600584,
-              -23.0750528
-            ],
-            [
-              -44.9599994,
-              -23.0750528
-            ],
-            [
-              -44.9599538,
-              -23.0749442
             ]
           ]
         ]

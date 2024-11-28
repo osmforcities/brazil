@@ -95,6 +95,50 @@
     },
     {
       "type": "Feature",
+      "id": "way/1101576989",
+      "properties": {
+        "timestamp": "2024-11-26T23:45:46Z",
+        "version": 3,
+        "changeset": 159638283,
+        "amenity": "toilets",
+        "building": "yes",
+        "check_date": "2024-11-26",
+        "fee": "no",
+        "source": "survey",
+        "toilets:disposal": "flush",
+        "toilets:position": "seated",
+        "id": "way/1101576989"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -36.1604241,
+              -6.4950842
+            ],
+            [
+              -36.1603963,
+              -6.4951161
+            ],
+            [
+              -36.1603215,
+              -6.4950515
+            ],
+            [
+              -36.1603493,
+              -6.4950197
+            ],
+            [
+              -36.1604241,
+              -6.4950842
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1230726751",
       "properties": {
         "timestamp": "2023-12-12T23:20:24Z",
@@ -167,6 +211,32 @@
         "coordinates": [
           -36.1509372,
           -6.4839217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12377370486",
+      "properties": {
+        "timestamp": "2024-11-26T23:37:14Z",
+        "version": 2,
+        "changeset": 159638173,
+        "amenity": "toilets",
+        "check_date": "2024-11-26",
+        "fee": "no",
+        "portable": "no",
+        "source": "survey",
+        "toilets:disposal": "flush",
+        "toilets:handwashing": "yes",
+        "toilets:menstrual_products": "no",
+        "toilets:position": "seated",
+        "id": "node/12377370486"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.160063,
+          -6.4959302
         ]
       }
     }

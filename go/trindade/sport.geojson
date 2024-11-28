@@ -3770,9 +3770,9 @@
       "type": "Feature",
       "id": "way/683023896",
       "properties": {
-        "timestamp": "2019-04-11T01:48:19Z",
-        "version": 1,
-        "changeset": 69101087,
+        "timestamp": "2024-11-26T10:39:29Z",
+        "version": 2,
+        "changeset": 159609498,
         "leisure": "track",
         "sport": "running",
         "id": "way/683023896"
@@ -3795,6 +3795,10 @@
           [
             -49.4896219,
             -16.6656935
+          ],
+          [
+            -49.4896755,
+            -16.6677663
           ],
           [
             -49.4897406,
@@ -4045,6 +4049,30 @@
         "coordinates": [
           -49.515551,
           -16.6546884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12375978862",
+      "properties": {
+        "timestamp": "2024-11-26T13:06:24Z",
+        "version": 2,
+        "changeset": 159615440,
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "8711",
+        "network": "733 - T. Trindade / St. Cristina",
+        "operator": "RMTC",
+        "public_transport": "platform",
+        "ref": "8711",
+        "id": "node/12375978862"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.4896755,
+          -16.6677663
         ]
       }
     }

@@ -36904,6 +36904,112 @@
     },
     {
       "type": "Feature",
+      "id": "way/1337722111",
+      "properties": {
+        "timestamp": "2024-11-25T14:22:01Z",
+        "version": 1,
+        "changeset": 159575795,
+        "addr:city": "Rio de Janeiro",
+        "addr:housenumber": "40",
+        "addr:street": "Rua Serenata",
+        "addr:suburb": "Jardim Guanabara",
+        "amenity": "school",
+        "name": "Escola Municipal Anísio Teixeira",
+        "operator": "Secretaria de Educação do Município do Rio de Janeiro",
+        "operator:type": "public",
+        "religion": "none",
+        "id": "way/1337722111"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.2101787,
+              -22.8119764
+            ],
+            [
+              -43.2101931,
+              -22.8120781
+            ],
+            [
+              -43.2102167,
+              -22.8121998
+            ],
+            [
+              -43.2102417,
+              -22.8123385
+            ],
+            [
+              -43.2102771,
+              -22.8125593
+            ],
+            [
+              -43.210301,
+              -22.8126766
+            ],
+            [
+              -43.2102426,
+              -22.8127074
+            ],
+            [
+              -43.2101207,
+              -22.8127764
+            ],
+            [
+              -43.2100468,
+              -22.8128176
+            ],
+            [
+              -43.2099639,
+              -22.8128635
+            ],
+            [
+              -43.2098017,
+              -22.8127566
+            ],
+            [
+              -43.2097223,
+              -22.8126992
+            ],
+            [
+              -43.20969,
+              -22.8126805
+            ],
+            [
+              -43.209572,
+              -22.8125973
+            ],
+            [
+              -43.2093985,
+              -22.8124735
+            ],
+            [
+              -43.2092872,
+              -22.8124022
+            ],
+            [
+              -43.2096043,
+              -22.8122511
+            ],
+            [
+              -43.2096324,
+              -22.8122389
+            ],
+            [
+              -43.2101725,
+              -22.8119792
+            ],
+            [
+              -43.2101787,
+              -22.8119764
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/68521890",
       "properties": {
         "timestamp": "2017-12-01T21:33:09Z",
@@ -43974,25 +44080,20 @@
       "type": "Feature",
       "id": "node/823942622",
       "properties": {
-        "timestamp": "2014-10-01T16:26:37Z",
-        "version": 3,
-        "changeset": 25793248,
-        "IPP:CHAVE": "11721",
-        "IPP:CODATIVIDA": "0",
-        "IPP:CODBAIRRO": "146",
-        "IPP:COD_INEP": "33081816",
-        "IPP:COD_SMA": "011721",
-        "IPP:CRE": "09",
-        "IPP:DESIGNACAO": "0918201",
-        "IPP:ENDNOVO": "http://webapp.sme.rio.rj.gov.br/jcartela/publico/pesquisa.do?idSetor=11721&cmd=load",
-        "IPP:FLG_VALIDA": "S",
+        "timestamp": "2024-11-25T14:54:08Z",
+        "version": 4,
+        "changeset": 159577134,
+        "addr:city": "Rio de Janeiro",
         "addr:housenumber": "7431",
         "addr:street": "Avenida Cesário de Melo",
         "addr:suburb": "Inhoaíba",
         "amenity": "school",
         "name": "Ciep Engenheiro Wagner Gaspar Emery",
+        "operator": "Prefeitura do Rio",
+        "operator:type": "government",
         "phone": "+55-21-2409-6521",
         "source": "IPP",
+        "website": "http://webapp.sme.rio.rj.gov.br/jcartela/publico/pesquisa.do?idSetor=11721&cmd=load",
         "id": "node/823942622"
       },
       "geometry": {

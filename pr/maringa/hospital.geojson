@@ -496,6 +496,56 @@
     },
     {
       "type": "Feature",
+      "id": "way/459909662",
+      "properties": {
+        "timestamp": "2024-11-25T17:15:15Z",
+        "version": 7,
+        "changeset": 159582870,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Unimed Centro",
+        "operator": "Unimed",
+        "operator:wikidata": "Q7865295",
+        "id": "way/459909662"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.9395964,
+              -23.4158464
+            ],
+            [
+              -51.939606,
+              -23.4167348
+            ],
+            [
+              -51.9396049,
+              -23.4169181
+            ],
+            [
+              -51.9390983,
+              -23.4169253
+            ],
+            [
+              -51.93885,
+              -23.4169257
+            ],
+            [
+              -51.9388434,
+              -23.4158495
+            ],
+            [
+              -51.9395964,
+              -23.4158464
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/546914569",
       "properties": {
         "timestamp": "2017-12-14T21:28:15Z",
@@ -827,6 +877,46 @@
         "coordinates": [
           -51.9187327,
           -23.4260952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3836969850",
+      "properties": {
+        "timestamp": "2021-06-18T11:14:04Z",
+        "version": 6,
+        "changeset": 106584530,
+        "crossing": "uncontrolled",
+        "enforcement": "traffic_signals",
+        "highway": "traffic_signals",
+        "id": "node/3836969850"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.9395964,
+          -23.4158464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7932164498",
+      "properties": {
+        "timestamp": "2021-06-18T11:14:04Z",
+        "version": 2,
+        "changeset": 106584530,
+        "bus": "yes",
+        "name": "Avenida Duque de Caxias",
+        "public_transport": "stop_position",
+        "id": "node/7932164498"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.939606,
+          -23.4167348
         ]
       }
     }

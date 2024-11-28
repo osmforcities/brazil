@@ -3090,6 +3090,47 @@
     },
     {
       "type": "Feature",
+      "id": "way/1337709803",
+      "properties": {
+        "timestamp": "2024-11-25T13:14:29Z",
+        "version": 1,
+        "changeset": 159573153,
+        "building": "yes",
+        "leisure": "fitness_centre",
+        "name": "Heavy Pilates",
+        "sport": "yoga",
+        "id": "way/1337709803"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -52.0947048,
+              -32.0385772
+            ],
+            [
+              -52.0947356,
+              -32.0386994
+            ],
+            [
+              -52.0945412,
+              -32.0387481
+            ],
+            [
+              -52.0945069,
+              -32.0386151
+            ],
+            [
+              -52.0947048,
+              -32.0385772
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/5262148334",
       "properties": {
         "timestamp": "2019-03-30T23:39:39Z",
@@ -3217,6 +3258,31 @@
         "coordinates": [
           -52.1085747,
           -32.0328057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12373789814",
+      "properties": {
+        "timestamp": "2024-11-25T14:38:12Z",
+        "version": 1,
+        "changeset": 159576425,
+        "addr:city": "Rio Grande",
+        "addr:housenumber": "41",
+        "addr:postcode": "96200-300",
+        "addr:street": "R. Dr. Nascimento",
+        "addr:suburb": "Centro",
+        "amenity": "dojo",
+        "name": "Escola de Taekwondo Pohlmann",
+        "sport": "taekwondo",
+        "id": "node/12373789814"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.0900145,
+          -32.0379413
         ]
       }
     }

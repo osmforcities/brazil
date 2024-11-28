@@ -293,9 +293,9 @@
       "type": "Feature",
       "id": "way/443395197",
       "properties": {
-        "timestamp": "2023-10-09T12:12:42Z",
-        "version": 10,
-        "changeset": 142347115,
+        "timestamp": "2024-11-25T12:04:24Z",
+        "version": 11,
+        "changeset": 159570445,
         "addr:city": "Rio Grande",
         "addr:housenumber": "475",
         "addr:postcode": "96201-460",
@@ -363,12 +363,20 @@
               -32.0402804
             ],
             [
+              -52.0887528,
+              -32.0400223
+            ],
+            [
               -52.088757,
               -32.0399794
             ],
             [
               -52.088763,
               -32.039897
+            ],
+            [
+              -52.0888281,
+              -32.0399157
             ],
             [
               -52.0889969,
@@ -546,6 +554,24 @@
         "coordinates": [
           -52.1714203,
           -32.0733009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12373499693",
+      "properties": {
+        "timestamp": "2024-11-25T12:04:24Z",
+        "version": 1,
+        "changeset": 159570445,
+        "traffic_sign": "quebra-molas",
+        "id": "node/12373499693"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.0887528,
+          -32.0400223
         ]
       }
     }

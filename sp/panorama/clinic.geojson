@@ -57,16 +57,16 @@
       "type": "Feature",
       "id": "way/1318984019",
       "properties": {
-        "timestamp": "2024-10-17T23:47:09Z",
-        "version": 4,
-        "changeset": 158029800,
+        "timestamp": "2024-11-25T11:40:42Z",
+        "version": 5,
+        "changeset": 159569565,
         "addr:city": "Panorama",
         "addr:street": "Rua Anália Gonçalves da Costa",
         "addr:suburb": "Nosso Teto",
         "amenity": "clinic",
         "healthcare": "clinic",
         "healthcare:speciality": "general",
-        "name": "UBS III - Nosso Teto",
+        "name": "UBS III - Osvaldo Delmore",
         "operator": "Sistema Único de Saúde",
         "operator:short": "SUS",
         "operator:type": "public",
@@ -109,9 +109,9 @@
       "type": "Feature",
       "id": "way/1320058223",
       "properties": {
-        "timestamp": "2024-10-02T10:27:47Z",
-        "version": 1,
-        "changeset": 157372831,
+        "timestamp": "2024-11-25T11:39:33Z",
+        "version": 2,
+        "changeset": 159569528,
         "addr:city": "Panorama",
         "addr:housenumber": "840",
         "addr:street": "Rua Jonas Dias dos Santos",
@@ -121,7 +121,7 @@
         "building:roof": "tile",
         "healthcare": "clinic",
         "healthcare:speciality": "general",
-        "name": "UBS II - Marrecas",
+        "name": "UBS II - Barbeiro Antônio Henrique Júnior",
         "operator": "Sistema Único de Saúde",
         "operator:short": "SUS",
         "operator:type": "public",
@@ -228,9 +228,9 @@
       "type": "Feature",
       "id": "way/1322732064",
       "properties": {
-        "timestamp": "2024-10-13T18:25:24Z",
-        "version": 2,
-        "changeset": 157847293,
+        "timestamp": "2024-11-25T11:38:30Z",
+        "version": 3,
+        "changeset": 159569486,
         "addr:city": "Panorama",
         "addr:street": "Rua Salgado Filho",
         "addr:suburb": "Potiguara",
@@ -239,7 +239,7 @@
         "building:levels": "2",
         "healthcare": "clinic",
         "healthcare:speciality": "general",
-        "name": "UBS I - Potiguara",
+        "name": "UBS I - Vereador Milton da Silva",
         "operator": "Sistema Único de Saúde",
         "operator:short": "SUS",
         "operator:type": "public",
@@ -342,6 +342,58 @@
             [
               -51.8633845,
               -21.3753473
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1337697160",
+      "properties": {
+        "timestamp": "2024-11-25T11:58:08Z",
+        "version": 1,
+        "changeset": 159570249,
+        "addr:city": "Panorama",
+        "addr:housenumber": "1567",
+        "addr:street": "Avenida Doutor Milton Noronha Gustavo",
+        "addr:suburb": "Bela Vista",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "UBS IV - Comerciante Youssef Hussein Baraki",
+        "operator": "Sistema Único de Saúde",
+        "operator:short": "SUS",
+        "operator:type": "public",
+        "operator:wikidata": "Q7531056",
+        "id": "way/1337697160"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.8551135,
+              -21.3663747
+            ],
+            [
+              -51.8554816,
+              -21.3662217
+            ],
+            [
+              -51.8555479,
+              -21.36636
+            ],
+            [
+              -51.8552001,
+              -21.3665047
+            ],
+            [
+              -51.8551683,
+              -21.366489
+            ],
+            [
+              -51.8551135,
+              -21.3663747
             ]
           ]
         ]

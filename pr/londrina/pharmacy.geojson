@@ -970,6 +970,68 @@
     },
     {
       "type": "Feature",
+      "id": "way/472016647",
+      "properties": {
+        "timestamp": "2024-11-25T16:44:52Z",
+        "version": 2,
+        "changeset": 159581646,
+        "addr:city": "Londrina",
+        "addr:housenumber": "2083",
+        "addr:postcode": "86015-520",
+        "addr:street": "Rua Senador Souza Naves",
+        "addr:suburb": "Jardim Petrópolis",
+        "amenity": "pharmacy",
+        "branch": "Petrópolis",
+        "brand": "Farmácia São João",
+        "brand:wikidata": "Q65164556",
+        "building": "yes",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "mobile": "+55 43991461940",
+        "name": "Farmácia São João",
+        "opening_hours": "Mo-Su 07:30-23:00",
+        "website": "https://www.saojoaofarmacias.com.br/",
+        "id": "way/472016647"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.1575569,
+              -23.3310011
+            ],
+            [
+              -51.1574017,
+              -23.3310052
+            ],
+            [
+              -51.1574005,
+              -23.3309004
+            ],
+            [
+              -51.1576188,
+              -23.3308971
+            ],
+            [
+              -51.1576182,
+              -23.331017
+            ],
+            [
+              -51.1575569,
+              -23.3310168
+            ],
+            [
+              -51.1575569,
+              -23.3310011
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/472172557",
       "properties": {
         "timestamp": "2023-08-02T23:51:28Z",
@@ -2671,39 +2733,6 @@
         "coordinates": [
           -51.1829643,
           -23.2611443
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/12219087866",
-      "properties": {
-        "timestamp": "2024-10-03T17:33:24Z",
-        "version": 1,
-        "changeset": 157430217,
-        "addr:city": "Londrina",
-        "addr:housenumber": "2083",
-        "addr:postcode": "86015-490",
-        "addr:street": "Rua Senador Souza Naves",
-        "addr:suburb": "Jardim Petrópolis",
-        "amenity": "pharmacy",
-        "brand": "Farmácia São João",
-        "brand:wikidata": "Q65164556",
-        "contact:facebook": "https://www.saojoaofarmacias.com.br/",
-        "dispensing": "yes",
-        "drive_through": "no",
-        "healthcare": "pharmacy",
-        "mobile": "+55 43 991461940",
-        "name": "Farmácia São João",
-        "opening_hours": "Mo-Su 07:30-23:00",
-        "operator": "Farmácia São João",
-        "id": "node/12219087866"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -51.1575846,
-          -23.3310365
         ]
       }
     }

@@ -88880,6 +88880,65 @@
     },
     {
       "type": "Feature",
+      "id": "way/1338318800",
+      "properties": {
+        "timestamp": "2024-11-27T15:32:15Z",
+        "version": 1,
+        "changeset": 159665686,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "156",
+        "addr:postcode": "02542-000",
+        "addr:street": "Rua Epaminondas Melo do Amaral",
+        "amenity": "school",
+        "barrier": "wall",
+        "name": "Colégio Piaget",
+        "phone": "+55 11 2238-4600",
+        "source": "web site",
+        "website": "http://www.piaget.g12.br/#",
+        "id": "way/1338318800"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.6556772,
+              -23.4837941
+            ],
+            [
+              -46.6554346,
+              -23.484171
+            ],
+            [
+              -46.655211,
+              -23.4840458
+            ],
+            [
+              -46.6550009,
+              -23.4839282
+            ],
+            [
+              -46.6549878,
+              -23.4839043
+            ],
+            [
+              -46.654988,
+              -23.4838785
+            ],
+            [
+              -46.6552191,
+              -23.4835326
+            ],
+            [
+              -46.6556772,
+              -23.4837941
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/222842154",
       "properties": {
         "timestamp": "2023-06-07T15:20:09Z",
@@ -97613,31 +97672,6 @@
         "coordinates": [
           -46.5843574,
           -23.4895228
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/4784639687",
-      "properties": {
-        "timestamp": "2017-04-09T15:48:53Z",
-        "version": 1,
-        "changeset": 47596390,
-        "addr:city": "São Paulo",
-        "addr:housenumber": "156",
-        "addr:street": "Avenida Epaminondas Melo do Amaral",
-        "amenity": "school",
-        "name": "Colégio Piaget",
-        "phone": "+55 11 2238-4600",
-        "source": "web site",
-        "website": "http://www.piaget.g12.br/#",
-        "id": "node/4784639687"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -46.6550741,
-          -23.4838725
         ]
       }
     },
@@ -112881,6 +112915,27 @@
         "coordinates": [
           -46.7000921,
           -23.522685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12379068007",
+      "properties": {
+        "timestamp": "2024-11-27T15:32:15Z",
+        "version": 1,
+        "changeset": 159665686,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "156",
+        "addr:postcode": "02542-000",
+        "addr:street": "Rua Epaminondas Melo do Amaral",
+        "id": "node/12379068007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.655211,
+          -23.4840458
         ]
       }
     }

@@ -87,11 +87,15 @@
       "type": "Feature",
       "id": "way/1298706346",
       "properties": {
-        "timestamp": "2024-07-03T04:30:34Z",
-        "version": 1,
-        "changeset": 153483665,
+        "timestamp": "2024-11-27T21:27:34Z",
+        "version": 2,
+        "changeset": 159678697,
+        "access": "permissive",
         "leisure": "pitch",
+        "lit": "yes",
+        "name": "Estádio Municipal Veredão (Valdemar Peixota Silva)",
         "sport": "soccer",
+        "surface": "grass",
         "id": "way/1298706346"
       },
       "geometry": {
@@ -685,6 +689,47 @@
             [
               -41.4704487,
               -11.6772007
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1338442960",
+      "properties": {
+        "timestamp": "2024-11-27T21:27:34Z",
+        "version": 1,
+        "changeset": 159678697,
+        "leisure": "pitch",
+        "lit": "no",
+        "sport": "soccer",
+        "surface": "gravel",
+        "id": "way/1338442960"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.4714789,
+              -11.7012999
+            ],
+            [
+              -41.4717521,
+              -11.7012607
+            ],
+            [
+              -41.4718165,
+              -11.7015759
+            ],
+            [
+              -41.4715658,
+              -11.701653
+            ],
+            [
+              -41.4714789,
+              -11.7012999
             ]
           ]
         ]

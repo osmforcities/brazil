@@ -523,6 +523,52 @@
     },
     {
       "type": "Feature",
+      "id": "way/1332512257",
+      "properties": {
+        "timestamp": "2024-11-28T22:41:27Z",
+        "version": 3,
+        "changeset": 159721704,
+        "amenity": "dentist",
+        "building": "yes",
+        "healthcare": "dentist",
+        "name": "Orthopride",
+        "website": "https://orthopride.com.br",
+        "id": "way/1332512257"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.0137007,
+              -19.9754915
+            ],
+            [
+              -44.013613,
+              -19.9754717
+            ],
+            [
+              -44.0136005,
+              -19.9754689
+            ],
+            [
+              -44.0136418,
+              -19.9753075
+            ],
+            [
+              -44.013742,
+              -19.9753301
+            ],
+            [
+              -44.0137007,
+              -19.9754915
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/1268796074",
       "properties": {
         "timestamp": "2011-05-01T12:37:29Z",
@@ -906,6 +952,24 @@
         "coordinates": [
           -43.936669,
           -19.917364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12328674202",
+      "properties": {
+        "timestamp": "2024-11-10T13:55:01Z",
+        "version": 1,
+        "changeset": 158968405,
+        "entrance": "main",
+        "id": "node/12328674202"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.013613,
+          -19.9754717
         ]
       }
     }

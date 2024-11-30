@@ -221,12 +221,13 @@
       "type": "Feature",
       "id": "node/12377370486",
       "properties": {
-        "timestamp": "2024-11-26T23:37:14Z",
-        "version": 2,
-        "changeset": 159638173,
+        "timestamp": "2024-11-28T01:09:42Z",
+        "version": 3,
+        "changeset": 159682542,
         "amenity": "toilets",
         "check_date": "2024-11-26",
         "fee": "no",
+        "level": "0",
         "portable": "no",
         "source": "survey",
         "toilets:disposal": "flush",
@@ -240,6 +241,26 @@
         "coordinates": [
           -36.160063,
           -6.4959302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12381198184",
+      "properties": {
+        "timestamp": "2024-11-28T01:09:42Z",
+        "version": 1,
+        "changeset": 159682542,
+        "amenity": "toilets",
+        "level": "1",
+        "toilets:disposal": "flush",
+        "id": "node/12381198184"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.1590303,
+          -6.4953171
         ]
       }
     }

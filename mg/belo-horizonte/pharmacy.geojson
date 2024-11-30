@@ -2173,12 +2173,13 @@
       "type": "Feature",
       "id": "way/1332512255",
       "properties": {
-        "timestamp": "2024-11-09T23:31:42Z",
-        "version": 1,
-        "changeset": 158952044,
+        "timestamp": "2024-11-28T22:41:27Z",
+        "version": 2,
+        "changeset": 159721704,
         "amenity": "pharmacy",
         "brand": "Pacheco",
         "brand:wikidata": "Q10268813",
+        "healthcare": "pharmacy",
         "name": "Pacheco",
         "id": "way/1332512255"
       },
@@ -2268,6 +2269,50 @@
             [
               -44.0138913,
               -19.9755018
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1338737044",
+      "properties": {
+        "timestamp": "2024-11-28T22:41:27Z",
+        "version": 1,
+        "changeset": 159721704,
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Farmácia Artesanal",
+        "id": "way/1338737044"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.0140642,
+              -19.9755547
+            ],
+            [
+              -44.0141075,
+              -19.9753781
+            ],
+            [
+              -44.0141465,
+              -19.9753865
+            ],
+            [
+              -44.0141031,
+              -19.9755631
+            ],
+            [
+              -44.0140837,
+              -19.9755589
+            ],
+            [
+              -44.0140642,
+              -19.9755547
             ]
           ]
         ]
@@ -4890,6 +4935,24 @@
         "coordinates": [
           -44.0138349,
           -19.9754891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12383386899",
+      "properties": {
+        "timestamp": "2024-11-28T22:41:27Z",
+        "version": 1,
+        "changeset": 159721704,
+        "entrance": "main",
+        "id": "node/12383386899"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.0140837,
+          -19.9755589
         ]
       }
     }

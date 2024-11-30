@@ -5,11 +5,14 @@
       "type": "Feature",
       "id": "way/502142664",
       "properties": {
-        "timestamp": "2017-06-20T16:52:45Z",
-        "version": 1,
-        "changeset": 49698861,
+        "timestamp": "2024-11-28T00:23:43Z",
+        "version": 2,
+        "changeset": 159681930,
+        "access": "yes",
         "leisure": "pitch",
+        "lit": "yes",
         "sport": "soccer",
+        "surface": "ground",
         "id": "way/502142664"
       },
       "geometry": {
@@ -730,6 +733,96 @@
             [
               -41.4714789,
               -11.7012999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1338483268",
+      "properties": {
+        "timestamp": "2024-11-28T15:51:05Z",
+        "version": 2,
+        "changeset": 159708932,
+        "leisure": "pitch",
+        "name": "Campo da Lagoa do Agsotinho",
+        "sport": "soccer",
+        "surface": "compacted",
+        "id": "way/1338483268"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.5222087,
+              -11.7718673
+            ],
+            [
+              -41.5223129,
+              -11.7723347
+            ],
+            [
+              -41.5224104,
+              -11.7727716
+            ],
+            [
+              -41.5218406,
+              -11.7729552
+            ],
+            [
+              -41.5217313,
+              -11.7724916
+            ],
+            [
+              -41.5216177,
+              -11.7720093
+            ],
+            [
+              -41.5222087,
+              -11.7718673
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1338483271",
+      "properties": {
+        "timestamp": "2024-11-28T00:23:43Z",
+        "version": 1,
+        "changeset": 159681930,
+        "leisure": "pitch",
+        "name": "Campo de Mário",
+        "sport": "soccer",
+        "surface": "gravel",
+        "id": "way/1338483271"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.5913671,
+              -11.7216729
+            ],
+            [
+              -41.5903796,
+              -11.7216522
+            ],
+            [
+              -41.5903832,
+              -11.7210596
+            ],
+            [
+              -41.591314,
+              -11.7210284
+            ],
+            [
+              -41.5913671,
+              -11.7216729
             ]
           ]
         ]

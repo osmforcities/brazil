@@ -5,12 +5,18 @@
       "type": "Feature",
       "id": "way/580609871",
       "properties": {
-        "timestamp": "2021-09-10T22:54:20Z",
-        "version": 3,
-        "changeset": 111044493,
+        "timestamp": "2024-11-30T02:38:01Z",
+        "version": 4,
+        "changeset": 159761696,
+        "addr:city": "Corrente",
+        "addr:postcode": "64980-000",
+        "addr:street": "Rua Antônio Nogueira de Carvalho",
+        "addr:suburb": "Centro",
         "amenity": "hospital",
         "healthcare": "hospital",
         "name": "Hospital Regional Dr. João Pacheco Cavalcante",
+        "operator": "Estado do Piauí",
+        "operator:type": "public",
         "id": "way/580609871"
       },
       "geometry": {
@@ -18,26 +24,52 @@
         "coordinates": [
           [
             [
-              -45.1676649,
-              -10.4383211
+              -45.1676436,
+              -10.4383525
             ],
             [
-              -45.1685205,
-              -10.4379558
+              -45.1685035,
+              -10.4379767
             ],
             [
-              -45.1688129,
-              -10.4385282
+              -45.1687725,
+              -10.4385805
             ],
             [
-              -45.1679465,
-              -10.4389304
+              -45.1679231,
+              -10.4389681
             ],
             [
-              -45.1676649,
-              -10.4383211
+              -45.1676436,
+              -10.4383525
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12385592113",
+      "properties": {
+        "timestamp": "2024-11-30T02:38:01Z",
+        "version": 1,
+        "changeset": 159761696,
+        "addr:city": "Corrente",
+        "addr:postcode": "64980-000",
+        "addr:street": "Rua Antônio Nogueira de Carvalho",
+        "addr:suburb": "Centro",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hospital Regional Dr. João Pacheco Cavalcante",
+        "operator": "Estado do Piauí",
+        "operator:type": "public",
+        "id": "node/12385592113"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.1683213,
+          -10.4386547
         ]
       }
     }

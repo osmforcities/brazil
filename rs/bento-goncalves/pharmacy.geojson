@@ -43,6 +43,47 @@
     },
     {
       "type": "Feature",
+      "id": "way/563380371",
+      "properties": {
+        "timestamp": "2024-11-30T21:34:21Z",
+        "version": 2,
+        "changeset": 159788659,
+        "amenity": "pharmacy",
+        "building": "retail",
+        "healthcare": "pharmacy",
+        "name": "Farmácias Associadas",
+        "id": "way/563380371"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.5122457,
+              -29.1599057
+            ],
+            [
+              -51.5124569,
+              -29.1598419
+            ],
+            [
+              -51.5124947,
+              -29.1599373
+            ],
+            [
+              -51.5122835,
+              -29.1600011
+            ],
+            [
+              -51.5122457,
+              -29.1599057
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/563454020",
       "properties": {
         "timestamp": "2018-02-22T19:39:16Z",
@@ -419,6 +460,27 @@
     },
     {
       "type": "Feature",
+      "id": "node/6606100028",
+      "properties": {
+        "timestamp": "2024-11-30T19:02:23Z",
+        "version": 3,
+        "changeset": 159784611,
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Maxxi Econômica",
+        "website": "http://www.shoppingbento.com.br/",
+        "id": "node/6606100028"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.5171804,
+          -29.1653961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/8917842550",
       "properties": {
         "timestamp": "2021-07-14T00:56:30Z",
@@ -500,6 +562,50 @@
         "coordinates": [
           -51.5220699,
           -29.1613973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12386828863",
+      "properties": {
+        "timestamp": "2024-11-30T19:26:28Z",
+        "version": 1,
+        "changeset": 159785228,
+        "amenity": "pharmacy",
+        "brand": "São João",
+        "brand:wikidata": "Q62663306",
+        "healthcare": "pharmacy",
+        "name": "São João",
+        "id": "node/12386828863"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.5174113,
+          -29.1677863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12386862858",
+      "properties": {
+        "timestamp": "2024-11-30T19:42:46Z",
+        "version": 1,
+        "changeset": 159785644,
+        "amenity": "pharmacy",
+        "brand": "Panvel",
+        "brand:wikidata": "Q10344254",
+        "healthcare": "pharmacy",
+        "name": "Panvel",
+        "id": "node/12386862858"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.517395,
+          -29.1672746
         ]
       }
     }

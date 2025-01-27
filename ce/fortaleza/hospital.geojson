@@ -1821,112 +1821,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/324294653",
-      "properties": {
-        "timestamp": "2023-10-13T18:44:39Z",
-        "version": 10,
-        "changeset": 142535860,
-        "addr:city": "Fortaleza",
-        "addr:postcode": "60176-052",
-        "addr:street": "Rua Professor Otávio Lobo",
-        "addr:suburb": "Papicu",
-        "amenity": "hospital",
-        "emergency": "yes",
-        "healthcare": "hospital",
-        "name": "Hospital Geral de Fortaleza",
-        "nohousenumber": "yes",
-        "operator": "Secretaria da Saúde do Estado do Ceará",
-        "operator:type": "public",
-        "phone": "+55 85 3101 3161",
-        "ref:CNES": "2497654",
-        "short_name": "HGF",
-        "source": "Secretaria Municipal da Saúde de Fortaleza",
-        "source:date": "2019",
-        "website": "https://www.hgf.ce.gov.br/",
-        "id": "way/324294653"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -38.4773768,
-              -3.7392144
-            ],
-            [
-              -38.4764477,
-              -3.740498
-            ],
-            [
-              -38.4764044,
-              -3.7405029
-            ],
-            [
-              -38.4761953,
-              -3.7403004
-            ],
-            [
-              -38.4754023,
-              -3.7395331
-            ],
-            [
-              -38.4755184,
-              -3.7394178
-            ],
-            [
-              -38.4754894,
-              -3.7393949
-            ],
-            [
-              -38.4757579,
-              -3.7391081
-            ],
-            [
-              -38.475782,
-              -3.7391307
-            ],
-            [
-              -38.4759863,
-              -3.73891
-            ],
-            [
-              -38.4759019,
-              -3.7388308
-            ],
-            [
-              -38.4759005,
-              -3.7388201
-            ],
-            [
-              -38.4759018,
-              -3.7388111
-            ],
-            [
-              -38.4759054,
-              -3.7387999
-            ],
-            [
-              -38.4760558,
-              -3.7385862
-            ],
-            [
-              -38.4761028,
-              -3.7385733
-            ],
-            [
-              -38.4763519,
-              -3.7386987
-            ],
-            [
-              -38.4773768,
-              -3.7392144
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/329552695",
       "properties": {
         "timestamp": "2022-10-20T20:00:29Z",
@@ -5845,12 +5739,16 @@
       "type": "Feature",
       "id": "way/1167350122",
       "properties": {
-        "timestamp": "2023-04-29T13:01:52Z",
-        "version": 1,
-        "changeset": 135503149,
+        "timestamp": "2024-10-04T21:07:35Z",
+        "version": 2,
+        "changeset": 157478078,
         "amenity": "hospital",
+        "emergency": "yes",
         "healthcare": "hospital",
-        "name": "Unidade de Pronto Atendimento 24h | José Walter",
+        "name": "Unidade de Pronto Atendimento José Walter",
+        "opening_hours": "24/7",
+        "phone": "+55 85 98970 7588",
+        "short_name": "UPA José Walter",
         "id": "way/1167350122"
       },
       "geometry": {

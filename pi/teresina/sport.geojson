@@ -5351,48 +5351,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/693968433",
-      "properties": {
-        "timestamp": "2019-06-01T20:33:12Z",
-        "version": 1,
-        "changeset": 70843530,
-        "addr:housenumber": "S/N",
-        "addr:street": "Rua Riachuelo",
-        "leisure": "fitness_centre",
-        "name": "Quadra Esportiva",
-        "sport": "multi",
-        "id": "way/693968433"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -42.8022088,
-              -5.124689
-            ],
-            [
-              -42.8020497,
-              -5.1248938
-            ],
-            [
-              -42.8017414,
-              -5.1246529
-            ],
-            [
-              -42.8019173,
-              -5.1244422
-            ],
-            [
-              -42.8022088,
-              -5.124689
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/697616744",
       "properties": {
         "timestamp": "2019-06-16T18:20:30Z",
@@ -14727,11 +14685,14 @@
       "type": "Feature",
       "id": "way/1011938423",
       "properties": {
-        "timestamp": "2021-12-14T02:22:40Z",
-        "version": 1,
-        "changeset": 114903237,
+        "timestamp": "2024-10-04T16:22:24Z",
+        "version": 2,
+        "changeset": 157469123,
+        "access": "permit",
         "leisure": "pitch",
+        "lit": "yes",
         "sport": "soccer",
+        "surface": "grass",
         "id": "way/1011938423"
       },
       "geometry": {
@@ -14766,10 +14727,12 @@
       "type": "Feature",
       "id": "way/1011938424",
       "properties": {
-        "timestamp": "2021-12-14T02:22:40Z",
-        "version": 1,
-        "changeset": 114903237,
+        "timestamp": "2024-10-04T16:22:24Z",
+        "version": 2,
+        "changeset": 157469123,
+        "access": "permit",
         "leisure": "pitch",
+        "lit": "yes",
         "sport": "tennis",
         "id": "way/1011938424"
       },
@@ -18177,55 +18140,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/1293309940",
-      "properties": {
-        "timestamp": "2024-06-25T20:24:49Z",
-        "version": 2,
-        "changeset": 153174343,
-        "addr:city": "Teresina",
-        "addr:postcode": "64063740",
-        "addr:street": "Rua Tancredo Neves",
-        "addr:suburb": "Socopo",
-        "building": "yes",
-        "leisure": "fitness_centre",
-        "name": "Academia Popular do Bairro Socopo",
-        "sport": "fitness",
-        "id": "way/1293309940"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -42.7580155,
-              -5.0027452
-            ],
-            [
-              -42.7579597,
-              -5.0027478
-            ],
-            [
-              -42.7579554,
-              -5.0026231
-            ],
-            [
-              -42.7579535,
-              -5.002568
-            ],
-            [
-              -42.7580093,
-              -5.0025654
-            ],
-            [
-              -42.7580155,
-              -5.0027452
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/1293870267",
       "properties": {
         "timestamp": "2024-06-20T12:29:43Z",
@@ -19386,9 +19300,9 @@
       "type": "Feature",
       "id": "way/1316816823",
       "properties": {
-        "timestamp": "2024-09-19T22:44:10Z",
-        "version": 1,
-        "changeset": 156843061,
+        "timestamp": "2024-10-04T16:10:07Z",
+        "version": 2,
+        "changeset": 157468613,
         "blind": "no",
         "fitness_station": "fitness_station",
         "leisure": "fitness_station",
@@ -19401,8 +19315,8 @@
         "coordinates": [
           [
             [
-              -42.7384256,
-              -5.0980456
+              -42.7384189,
+              -5.0980438
             ],
             [
               -42.7385373,
@@ -19413,12 +19327,16 @@
               -5.0982365
             ],
             [
-              -42.7383722,
-              -5.0981951
+              -42.7383698,
+              -5.0981942
             ],
             [
-              -42.7384256,
-              -5.0980456
+              -42.7383746,
+              -5.0981799
+            ],
+            [
+              -42.7384189,
+              -5.0980438
             ]
           ]
         ]
@@ -19727,6 +19645,49 @@
             [
               -42.7406681,
               -5.0508733
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1320484380",
+      "properties": {
+        "timestamp": "2024-10-04T14:15:45Z",
+        "version": 2,
+        "changeset": 157463338,
+        "addr:city": "Teresina",
+        "addr:street": "Rua Caçapava",
+        "addr:suburb": "Vila do Avião",
+        "leisure": "sports_centre",
+        "name": "Arena da Villa Futebol Society",
+        "sport": "soccer",
+        "id": "way/1320484380"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.7862031,
+              -5.0108634
+            ],
+            [
+              -42.7865048,
+              -5.0107469
+            ],
+            [
+              -42.786618,
+              -5.0110621
+            ],
+            [
+              -42.7863053,
+              -5.0111621
+            ],
+            [
+              -42.7862031,
+              -5.0108634
             ]
           ]
         ]

@@ -1067,6 +1067,116 @@
     },
     {
       "type": "Feature",
+      "id": "way/1320744444",
+      "properties": {
+        "timestamp": "2024-10-04T14:08:07Z",
+        "version": 1,
+        "changeset": 157462973,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "192",
+        "addr:postcode": "04144-001",
+        "addr:street": "Rua Carneiro da Cunha",
+        "addr:suburb": "vila da saúde",
+        "name": "Japa Bike",
+        "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-17:00",
+        "operator": "Japa Bike",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:pix": "yes",
+        "phone": "+5511975010209",
+        "service:bicycle:repair": "yes",
+        "shop": "bicycle",
+        "website": "https://www.japabike.com/",
+        "id": "way/1320744444"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.6375168,
+              -23.6150783
+            ],
+            [
+              -46.6374658,
+              -23.6150578
+            ],
+            [
+              -46.6374827,
+              -23.6150223
+            ],
+            [
+              -46.6375333,
+              -23.6150423
+            ],
+            [
+              -46.6375168,
+              -23.6150783
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1320744470",
+      "properties": {
+        "timestamp": "2024-10-04T14:08:07Z",
+        "version": 1,
+        "changeset": 157462973,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "674",
+        "addr:postcode": "04143-010",
+        "addr:street": "Rua Itapiru",
+        "email": "contato@ciclorio.com.br",
+        "name": "Ciclo Rio",
+        "opening_hours": "Mo-Sa 09:00-18:00",
+        "phone": "+55 11 5589-4428;+55 11 2528-4700",
+        "shop": "bicycle",
+        "source": "cartão de visita",
+        "website": "http://www.ciclorio.com.br",
+        "id": "way/1320744470"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.6345713,
+              -23.6179254
+            ],
+            [
+              -46.6345447,
+              -23.6179728
+            ],
+            [
+              -46.6344736,
+              -23.6179429
+            ],
+            [
+              -46.6344855,
+              -23.6179183
+            ],
+            [
+              -46.6344892,
+              -23.6179105
+            ],
+            [
+              -46.6345195,
+              -23.6179013
+            ],
+            [
+              -46.6345713,
+              -23.6179254
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/1373408252",
       "properties": {
         "timestamp": "2017-03-01T04:55:13Z",
@@ -1437,6 +1547,27 @@
     },
     {
       "type": "Feature",
+      "id": "node/4369227092",
+      "properties": {
+        "timestamp": "2019-12-06T15:11:43Z",
+        "version": 2,
+        "changeset": 78060574,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "666",
+        "addr:postcode": "04143-010",
+        "addr:street": "Rua Itapiru",
+        "id": "node/4369227092"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6344892,
+          -23.6179105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/4383908721",
       "properties": {
         "timestamp": "2018-08-25T06:15:47Z",
@@ -1504,34 +1635,6 @@
         "coordinates": [
           -46.6419862,
           -23.5404603
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/4874895882",
-      "properties": {
-        "timestamp": "2019-12-06T15:11:43Z",
-        "version": 2,
-        "changeset": 78060574,
-        "addr:city": "São Paulo",
-        "addr:housenumber": "674",
-        "addr:postcode": "04143-010",
-        "addr:street": "Rua Itapiru",
-        "email": "contato@ciclorio.com.br",
-        "name": "Ciclo Rio",
-        "opening_hours": "Mo-Sa 09:00-18:00",
-        "phone": "+55 11 5589-4428;+55 11 2528-4700",
-        "shop": "bicycle",
-        "source": "cartão de visita",
-        "website": "http://www.ciclorio.com.br",
-        "id": "node/4874895882"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -46.6345027,
-          -23.6179165
         ]
       }
     },
@@ -1819,6 +1922,27 @@
     },
     {
       "type": "Feature",
+      "id": "node/7038741364",
+      "properties": {
+        "timestamp": "2019-12-06T15:11:43Z",
+        "version": 1,
+        "changeset": 78060574,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "674",
+        "addr:postcode": "04143-010",
+        "addr:street": "Rua Itapiru",
+        "id": "node/7038741364"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6344855,
+          -23.6179183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/7606310610",
       "properties": {
         "timestamp": "2020-06-09T16:35:17Z",
@@ -1837,40 +1961,6 @@
         "coordinates": [
           -46.6941731,
           -23.5617093
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/8179728699",
-      "properties": {
-        "timestamp": "2022-04-23T14:27:57Z",
-        "version": 2,
-        "changeset": 120092734,
-        "addr:city": "São Paulo",
-        "addr:housenumber": "192",
-        "addr:postcode": "04144-001",
-        "addr:street": "Rua Carneiro da Cunha",
-        "addr:suburb": "vila da saúde",
-        "name": "Japa Bike",
-        "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-17:00",
-        "operator": "Japa Bike",
-        "payment:cash": "yes",
-        "payment:contactless": "yes",
-        "payment:credit_cards": "yes",
-        "payment:debit_cards": "yes",
-        "payment:pix": "yes",
-        "phone": "+5511975010209",
-        "service:bicycle:repair": "yes",
-        "shop": "bicycle",
-        "website": "https://www.japabike.com/",
-        "id": "node/8179728699"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -46.6374735,
-          -23.61509
         ]
       }
     },

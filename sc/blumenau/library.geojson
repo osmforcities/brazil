@@ -3,53 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": "way/360809337",
-      "properties": {
-        "timestamp": "2023-07-03T12:36:48Z",
-        "version": 18,
-        "changeset": 138062726,
-        "access": "yes",
-        "addr:housenumber": "64",
-        "addr:street": "Alameda Duque de Caxias",
-        "amenity": "library",
-        "building": "yes",
-        "building:levels": "2",
-        "contact:phone": "+55 47 3381 6787",
-        "name": "Biblioteca Municipal Doutor Fritz Müller",
-        "toilets:wheelchair": "no",
-        "wheelchair": "limited",
-        "id": "way/360809337"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -49.0581484,
-              -26.9223473
-            ],
-            [
-              -49.0580252,
-              -26.922439
-            ],
-            [
-              -49.0578098,
-              -26.9222091
-            ],
-            [
-              -49.057933,
-              -26.9221174
-            ],
-            [
-              -49.0581484,
-              -26.9223473
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/538616429",
       "properties": {
         "timestamp": "2024-08-24T19:21:23Z",
@@ -85,6 +38,39 @@
               -49.1539867,
               -26.8562188
             ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/360809337",
+      "properties": {
+        "timestamp": "2023-07-03T12:36:48Z",
+        "version": 18,
+        "changeset": 138062726,
+        "access": "yes",
+        "addr:housenumber": "64",
+        "addr:street": "Alameda Duque de Caxias",
+        "amenity": "library",
+        "building": "yes",
+        "building:levels": "2",
+        "contact:phone": "+55 47 3381 6787",
+        "name": "Biblioteca Municipal Doutor Fritz Müller",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited",
+        "id": "way/360809337"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -49.0580252,
+            -26.922439
+          ],
+          [
+            -49.0578098,
+            -26.9222091
           ]
         ]
       }

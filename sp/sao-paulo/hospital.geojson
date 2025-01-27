@@ -268,10 +268,6 @@
               -23.5222962
             ],
             [
-              -46.5617247,
-              -23.5222325
-            ],
-            [
               -46.5617446,
               -23.522085
             ],
@@ -2403,123 +2399,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/124253228",
-      "properties": {
-        "timestamp": "2023-07-26T23:01:24Z",
-        "version": 12,
-        "changeset": 139061022,
-        "addr:city": "São Paulo",
-        "addr:country": "BR",
-        "addr:housenumber": "3030",
-        "addr:postcode": "04301-002",
-        "addr:street": "Avenida Miguel Estéfano",
-        "amenity": "hospital",
-        "contact:email": "diretoria_caism@saude.sp.gov.br",
-        "contact:fax": "+55 11 5077 7887",
-        "contact:phone": "+55 11 5077 7800;+55 11 5077 7814",
-        "emergency": "no",
-        "healthcare": "hospital",
-        "healthcare:speciality": "psychiatry",
-        "name": "Hospital Psiquátrico da Água Funda",
-        "operator:ref:vatin": "BR46374500000194",
-        "ref:CNES": "2070766",
-        "ref:vatin": "BR46374500012958",
-        "id": "way/124253228"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -46.6287873,
-              -23.6429778
-            ],
-            [
-              -46.6286612,
-              -23.6437219
-            ],
-            [
-              -46.628594,
-              -23.6442044
-            ],
-            [
-              -46.6285359,
-              -23.6452582
-            ],
-            [
-              -46.6282936,
-              -23.6455944
-            ],
-            [
-              -46.6280841,
-              -23.645591
-            ],
-            [
-              -46.6274719,
-              -23.6455812
-            ],
-            [
-              -46.6259448,
-              -23.6455566
-            ],
-            [
-              -46.6260468,
-              -23.6453612
-            ],
-            [
-              -46.6261008,
-              -23.6452671
-            ],
-            [
-              -46.6261253,
-              -23.6451536
-            ],
-            [
-              -46.626135,
-              -23.6450591
-            ],
-            [
-              -46.6261882,
-              -23.644827
-            ],
-            [
-              -46.6263703,
-              -23.6443284
-            ],
-            [
-              -46.6265727,
-              -23.6438542
-            ],
-            [
-              -46.6267078,
-              -23.6434844
-            ],
-            [
-              -46.6267971,
-              -23.643258
-            ],
-            [
-              -46.6268183,
-              -23.6431068
-            ],
-            [
-              -46.6268278,
-              -23.6428285
-            ],
-            [
-              -46.6268436,
-              -23.6426928
-            ],
-            [
-              -46.6287873,
-              -23.6429778
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/124962731",
       "properties": {
         "timestamp": "2023-10-27T17:23:33Z",
@@ -4343,101 +4222,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/256252796",
-      "properties": {
-        "timestamp": "2023-07-26T23:01:24Z",
-        "version": 11,
-        "changeset": 139061022,
-        "addr:city": "São Paulo",
-        "addr:housenumber": "860",
-        "addr:street": "Avenida Francisco de Paula Quintanilha Ribeiro",
-        "addr:suburb": "Jabaquara",
-        "amenity": "hospital",
-        "building": "yes",
-        "emergency": "yes",
-        "healthcare": "hospital",
-        "healthcare:speciality": "general;surgery;paediatrics;psychiatry",
-        "loc_name": "Hospital Jabaquara",
-        "name": "Hospital Municipal Arthur Ribeiro de Saboya",
-        "operator:ref:vatin": "BR46392130000380",
-        "phone": "+55 11 3394-8380",
-        "ref:CNES": "2081970",
-        "id": "way/256252796"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -46.6459604,
-              -23.6529168
-            ],
-            [
-              -46.6462115,
-              -23.6533673
-            ],
-            [
-              -46.646129,
-              -23.6534198
-            ],
-            [
-              -46.6461941,
-              -23.6535073
-            ],
-            [
-              -46.6456093,
-              -23.6538054
-            ],
-            [
-              -46.64556,
-              -23.6537115
-            ],
-            [
-              -46.6454917,
-              -23.6537407
-            ],
-            [
-              -46.6455145,
-              -23.6537732
-            ],
-            [
-              -46.645455,
-              -23.6537992
-            ],
-            [
-              -46.645427,
-              -23.653768
-            ],
-            [
-              -46.6453604,
-              -23.6537995
-            ],
-            [
-              -46.6451313,
-              -23.653425
-            ],
-            [
-              -46.6451938,
-              -23.6533952
-            ],
-            [
-              -46.6451371,
-              -23.6533171
-            ],
-            [
-              -46.645307,
-              -23.6532351
-            ],
-            [
-              -46.6459604,
-              -23.6529168
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/258413859",
       "properties": {
         "timestamp": "2023-08-05T23:23:09Z",
@@ -5104,20 +4888,27 @@
       "type": "Feature",
       "id": "way/301324091",
       "properties": {
-        "timestamp": "2023-04-20T06:12:35Z",
-        "version": 5,
-        "changeset": 135132134,
+        "timestamp": "2024-10-06T23:23:07Z",
+        "version": 11,
+        "changeset": 157560320,
         "addr:city": "São Paulo",
         "addr:housenumber": "1757",
         "addr:postcode": "03173-010",
         "addr:street": "Rua Siqueira Bueno",
         "addr:suburb": "Água Rasa",
         "amenity": "hospital",
+        "emergency": "yes",
         "healthcare": "hospital",
         "healthcare:speciality": "paediatrics",
         "name": "Hospital Infantil Cândido Fontoura",
         "opening_hours": "24/7",
+        "operator": "Governo do Estado de São Paulo",
+        "operator:type": "government",
+        "operator:wikidata": "Q10290787",
         "phone": "+55 11 2603 5300",
+        "start_date": "1958-09-30",
+        "wikidata": "Q10298405",
+        "wikimedia_commons": "File:Hospital Infantil Cândido Fontoura.jpg",
         "wikipedia": "pt:Hospital Infantil Cândido Fontoura",
         "id": "way/301324091"
       },
@@ -9853,55 +9644,6 @@
             [
               -46.6222759,
               -23.4872606
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/622379738",
-      "properties": {
-        "timestamp": "2018-09-03T15:57:33Z",
-        "version": 1,
-        "changeset": 62252000,
-        "addr:city": "São Paulo",
-        "addr:housenumber": "1074",
-        "addr:postcode": "08215-263",
-        "addr:street": "Rua Augusto Carlos Bauman",
-        "amenity": "hospital",
-        "emergency": "yes",
-        "name": "Hospital Municipal Professor Doutor Waldomiro de Paula",
-        "phone": "+55 11 3394-8990",
-        "id": "way/622379738"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -46.4452037,
-              -23.5309769
-            ],
-            [
-              -46.4446539,
-              -23.5317467
-            ],
-            [
-              -46.4438595,
-              -23.5312696
-            ],
-            [
-              -46.4444093,
-              -23.5304999
-            ],
-            [
-              -46.4449803,
-              -23.5308428
-            ],
-            [
-              -46.4452037,
-              -23.5309769
             ]
           ]
         ]
@@ -15426,46 +15168,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/1195618959",
-      "properties": {
-        "timestamp": "2023-08-07T14:34:26Z",
-        "version": 1,
-        "changeset": 139568509,
-        "amenity": "hospital",
-        "healthcare": "hospital",
-        "name": "Hospital Municipal e Maternidade Prof. Mario Degni",
-        "id": "way/1195618959"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -46.7648361,
-              -23.5777824
-            ],
-            [
-              -46.7651323,
-              -23.5782101
-            ],
-            [
-              -46.7646143,
-              -23.5785115
-            ],
-            [
-              -46.7643181,
-              -23.5780838
-            ],
-            [
-              -46.7648361,
-              -23.5777824
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/1213087693",
       "properties": {
         "timestamp": "2023-10-04T16:38:58Z",
@@ -16658,10 +16360,6 @@
             -23.522085
           ],
           [
-            -46.5617247,
-            -23.5222325
-          ],
-          [
             -46.5617161,
             -23.5222962
           ],
@@ -17525,28 +17223,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/2775944189",
-      "properties": {
-        "timestamp": "2018-09-03T17:10:36Z",
-        "version": 4,
-        "changeset": 62253840,
-        "addr:city": "São Paulo",
-        "addr:housenumber": "1074",
-        "addr:postcode": "08215-263",
-        "addr:street": "Rua Augusto Carlos Bauman",
-        "entrance": "service",
-        "id": "node/2775944189"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -46.4449803,
-          -23.5308428
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/2832740668",
       "properties": {
         "timestamp": "2022-07-11T12:04:50Z",
@@ -17876,26 +17552,6 @@
         "coordinates": [
           -46.4774386,
           -23.498781
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/4368636673",
-      "properties": {
-        "timestamp": "2016-08-26T21:40:58Z",
-        "version": 1,
-        "changeset": 41724376,
-        "amenity": "hospital",
-        "emergency": "yes",
-        "name": "Ambulatório",
-        "id": "node/4368636673"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -46.4993302,
-          -23.4830133
         ]
       }
     },
@@ -18332,25 +17988,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/5467328850",
-      "properties": {
-        "timestamp": "2018-03-09T13:46:23Z",
-        "version": 1,
-        "changeset": 57032817,
-        "amenity": "telephone",
-        "operator": "Vivo",
-        "id": "node/5467328850"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -46.5617247,
-          -23.5222325
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/5745394212",
       "properties": {
         "timestamp": "2018-07-07T13:33:45Z",
@@ -18370,34 +18007,6 @@
         "coordinates": [
           -46.6613822,
           -23.5063007
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/5785077132",
-      "properties": {
-        "timestamp": "2023-07-27T23:32:38Z",
-        "version": 2,
-        "changeset": 139110824,
-        "addr:city": "São Paulo",
-        "addr:housenumber": "1177",
-        "addr:postcode": "05513-100",
-        "addr:street": "Avenida Professor Francisco Morato",
-        "amenity": "hospital",
-        "emergency": "yes",
-        "healthcare": "hospital",
-        "healthcare:speciality": "geriatrics",
-        "name": "Prevent Senior",
-        "ref:CNES": "9095195",
-        "ref:vatin": "BR00461479004746",
-        "id": "node/5785077132"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -46.7110603,
-          -23.5807446
         ]
       }
     },

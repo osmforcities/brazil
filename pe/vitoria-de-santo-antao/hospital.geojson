@@ -3,98 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": "way/659908359",
-      "properties": {
-        "timestamp": "2019-05-15T01:14:24Z",
-        "version": 2,
-        "changeset": 70256394,
-        "amenity": "hospital",
-        "healthcare": "hospital",
-        "name": "Centro Hospitalar Santa Maria",
-        "id": "way/659908359"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -35.3019895,
-              -8.1197188
-            ],
-            [
-              -35.3020631,
-              -8.1205742
-            ],
-            [
-              -35.301679,
-              -8.1208423
-            ],
-            [
-              -35.3015973,
-              -8.1208469
-            ],
-            [
-              -35.3014829,
-              -8.1207036
-            ],
-            [
-              -35.3013965,
-              -8.119809
-            ],
-            [
-              -35.3019895,
-              -8.1197188
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/859229903",
-      "properties": {
-        "timestamp": "2020-10-15T10:16:21Z",
-        "version": 1,
-        "changeset": 92516451,
-        "amenity": "hospital",
-        "healthcare": "hospital",
-        "name": "SOMEV - Sociedade Médica da Vitória",
-        "id": "way/859229903"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -35.29494,
-              -8.1164862
-            ],
-            [
-              -35.2948246,
-              -8.1163539
-            ],
-            [
-              -35.2948845,
-              -8.1162959
-            ],
-            [
-              -35.2956055,
-              -8.115598
-            ],
-            [
-              -35.2957924,
-              -8.1157851
-            ],
-            [
-              -35.29494,
-              -8.1164862
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/859229913",
       "properties": {
         "timestamp": "2022-05-16T19:40:28Z",
@@ -307,39 +215,34 @@
     },
     {
       "type": "Feature",
-      "id": "way/1063083891",
+      "id": "way/659908359",
       "properties": {
-        "timestamp": "2022-05-24T00:42:54Z",
-        "version": 1,
-        "changeset": 121394380,
+        "timestamp": "2019-05-15T01:14:24Z",
+        "version": 2,
+        "changeset": 70256394,
         "amenity": "hospital",
         "healthcare": "hospital",
-        "id": "way/1063083891"
+        "name": "Centro Hospitalar Santa Maria",
+        "id": "way/659908359"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "LineString",
         "coordinates": [
           [
-            [
-              -35.2733242,
-              -8.1114312
-            ],
-            [
-              -35.2733315,
-              -8.111573
-            ],
-            [
-              -35.2732265,
-              -8.1115808
-            ],
-            [
-              -35.2732291,
-              -8.1114247
-            ],
-            [
-              -35.2733242,
-              -8.1114312
-            ]
+            -35.3014829,
+            -8.1207036
+          ],
+          [
+            -35.3015973,
+            -8.1208469
+          ],
+          [
+            -35.301679,
+            -8.1208423
+          ],
+          [
+            -35.3020631,
+            -8.1205742
           ]
         ]
       }

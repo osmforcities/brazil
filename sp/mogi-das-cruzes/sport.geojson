@@ -1470,61 +1470,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/456658091",
-      "properties": {
-        "timestamp": "2024-05-21T11:37:08Z",
-        "version": 6,
-        "changeset": 151623925,
-        "addr:city": "Mogi das Cruzes",
-        "addr:housenumber": "118",
-        "addr:postcode": "08780-720",
-        "addr:street": "Rua Rogério Tacola",
-        "addr:suburb": "Socorro",
-        "amenity": "community_centre",
-        "building": "yes",
-        "name": "SESC Mogi das Cruzes",
-        "opening_hours": "09:00-21:30",
-        "operator": "SESC",
-        "operator:type": "private_non_profit",
-        "phone": "+55 11 4728-6200",
-        "sport": "soccer;swimming;basketball;volleyball",
-        "website": "https://www.sescsp.org.br/unidades/mogi-das-cruzes/servicos",
-        "id": "way/456658091"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -46.1745234,
-              -23.5166733
-            ],
-            [
-              -46.1749821,
-              -23.5146646
-            ],
-            [
-              -46.1757967,
-              -23.5148169
-            ],
-            [
-              -46.1761249,
-              -23.5166806
-            ],
-            [
-              -46.1756543,
-              -23.5167604
-            ],
-            [
-              -46.1745234,
-              -23.5166733
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/456658927",
       "properties": {
         "timestamp": "2016-11-29T21:13:10Z",
@@ -3101,64 +3046,6 @@
             [
               -46.2597712,
               -23.588849
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/501469651",
-      "properties": {
-        "timestamp": "2023-03-03T19:01:18Z",
-        "version": 4,
-        "changeset": 133266724,
-        "access": "yes",
-        "addr:city": "Mogi das Cruzes",
-        "addr:housenumber": "920",
-        "addr:postcode": "08750-240",
-        "addr:street": "Rua Vereador Nito Sona",
-        "addr:suburb": "Jundiapeba",
-        "building": "yes",
-        "leisure": "pitch",
-        "lit": "yes",
-        "name": "Quadra Poliesportiva II Nito Sona",
-        "phone": "+55 11 997 542 292",
-        "sport": "multi",
-        "surface": "concrete",
-        "id": "way/501469651"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -46.2495451,
-              -23.5489481
-            ],
-            [
-              -46.249403,
-              -23.5489748
-            ],
-            [
-              -46.2492852,
-              -23.5489903
-            ],
-            [
-              -46.2492286,
-              -23.548664
-            ],
-            [
-              -46.2494348,
-              -23.5486302
-            ],
-            [
-              -46.2494834,
-              -23.5486226
-            ],
-            [
-              -46.2495451,
-              -23.5489481
             ]
           ]
         ]
@@ -6596,49 +6483,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/1079277078",
-      "properties": {
-        "timestamp": "2022-07-17T17:43:42Z",
-        "version": 1,
-        "changeset": 123729736,
-        "addr:street": "Avenida José Rodrigues Pires",
-        "addr:suburb": "Jundiapeba",
-        "building": "yes",
-        "leisure": "sports_hall",
-        "name": "CEMPRE Professor Sérgio Moretti",
-        "sport": "multi",
-        "id": "way/1079277078"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -46.2650887,
-              -23.5503697
-            ],
-            [
-              -46.265145,
-              -23.5506525
-            ],
-            [
-              -46.264909,
-              -23.5507016
-            ],
-            [
-              -46.2648553,
-              -23.5504091
-            ],
-            [
-              -46.2650887,
-              -23.5503697
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/1082425928",
       "properties": {
         "timestamp": "2022-07-29T23:18:05Z",
@@ -7703,43 +7547,6 @@
         "coordinates": [
           -46.1866584,
           -23.5461207
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/6537157757",
-      "properties": {
-        "timestamp": "2019-06-10T13:57:50Z",
-        "version": 2,
-        "changeset": 71104062,
-        "addr:city": "Mogi das Cruzes",
-        "addr:housenumber": "2882",
-        "addr:postcode": "08740-000",
-        "addr:street": "Avenida Francisco Ferreira Lopes",
-        "addr:suburb": "Vila Jundiai",
-        "internet_access": "wlan",
-        "leisure": "fitness_centre",
-        "name": "Panobianco",
-        "opening_hours": "Mo-Th 06:00-23:00; Fr 06:00-22:00; Sa-Su 09:00-14:00",
-        "operator": "Panobianco",
-        "payment:cash": "yes",
-        "payment:credit_cards": "yes",
-        "payment:debit_cards": "yes",
-        "personal_trainer": "yes",
-        "phone": "+55 11 47953248",
-        "sauna": "no",
-        "shower": "yes",
-        "sport": "weightlifting;muay_thai;martial_arts",
-        "swimming_pool": "no",
-        "website": "https://www.panobiancoacademia.com.br",
-        "id": "node/6537157757"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -46.2271271,
-          -23.5383138
         ]
       }
     },

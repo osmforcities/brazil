@@ -57,98 +57,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/1278357811",
-      "properties": {
-        "timestamp": "2024-04-30T01:35:23Z",
-        "version": 1,
-        "changeset": 150685958,
-        "amenity": "school",
-        "name": "EIEB Vanhecu Patte",
-        "not:operator:wikidata": "Q67536979",
-        "operator": "Governo do Estado de Santa Catarina",
-        "operator:type": "public",
-        "phone": "+55 47 36644584",
-        "website": "http://idebescola.inep.gov.br/ideb/escola/dadosEscola/42104866",
-        "id": "way/1278357811"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -49.6450738,
-              -26.7751974
-            ],
-            [
-              -49.6450644,
-              -26.7752933
-            ],
-            [
-              -49.6449687,
-              -26.7752808
-            ],
-            [
-              -49.644964,
-              -26.7753058
-            ],
-            [
-              -49.645006,
-              -26.775312
-            ],
-            [
-              -49.6449967,
-              -26.7754309
-            ],
-            [
-              -49.6449523,
-              -26.7754309
-            ],
-            [
-              -49.644964,
-              -26.7754976
-            ],
-            [
-              -49.6448449,
-              -26.7754913
-            ],
-            [
-              -49.6448566,
-              -26.7754413
-            ],
-            [
-              -49.6447655,
-              -26.7754371
-            ],
-            [
-              -49.6447749,
-              -26.7753913
-            ],
-            [
-              -49.6446838,
-              -26.7753829
-            ],
-            [
-              -49.6447095,
-              -26.7751494
-            ],
-            [
-              -49.6449663,
-              -26.775164
-            ],
-            [
-              -49.6449757,
-              -26.7751953
-            ],
-            [
-              -49.6450738,
-              -26.7751974
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/1311841397",
       "properties": {
         "timestamp": "2024-11-22T14:30:38Z",
@@ -205,6 +113,36 @@
               -49.4568138,
               -26.7557052
             ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1278357811",
+      "properties": {
+        "timestamp": "2024-04-30T01:35:23Z",
+        "version": 1,
+        "changeset": 150685958,
+        "amenity": "school",
+        "name": "EIEB Vanhecu Patte",
+        "not:operator:wikidata": "Q67536979",
+        "operator": "Governo do Estado de Santa Catarina",
+        "operator:type": "public",
+        "phone": "+55 47 36644584",
+        "website": "http://idebescola.inep.gov.br/ideb/escola/dadosEscola/42104866",
+        "id": "way/1278357811"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -49.6449757,
+            -26.7751953
+          ],
+          [
+            -49.6449663,
+            -26.775164
           ]
         ]
       }

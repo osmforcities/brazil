@@ -6989,54 +6989,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/784363113",
-      "properties": {
-        "timestamp": "2020-04-18T21:26:14Z",
-        "version": 3,
-        "changeset": 83756203,
-        "addr:city": "Teresina",
-        "addr:street": "Avenida Frei Serafim",
-        "addr:suburb": "Cabral",
-        "amenity": "school",
-        "name": "Grupo Educacional CEV",
-        "religion": "none",
-        "website": "https://grupocev.com/",
-        "id": "way/784363113"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -42.7998326,
-              -5.0839425
-            ],
-            [
-              -42.7995173,
-              -5.0845903
-            ],
-            [
-              -42.7989782,
-              -5.0843298
-            ],
-            [
-              -42.7991956,
-              -5.0838833
-            ],
-            [
-              -42.7992936,
-              -5.0836821
-            ],
-            [
-              -42.7998326,
-              -5.0839425
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/787576184",
       "properties": {
         "timestamp": "2020-04-03T16:18:48Z",
@@ -7074,49 +7026,6 @@
             [
               -42.7720909,
               -5.0720938
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/802570843",
-      "properties": {
-        "timestamp": "2022-11-17T14:02:29Z",
-        "version": 3,
-        "changeset": 129044117,
-        "amenity": "school",
-        "name": "Ceti Padre Joaquim Nonato Gomes",
-        "id": "way/802570843"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -42.7880514,
-              -5.1247621
-            ],
-            [
-              -42.7878169,
-              -5.124683
-            ],
-            [
-              -42.7876508,
-              -5.124627
-            ],
-            [
-              -42.7878265,
-              -5.1240808
-            ],
-            [
-              -42.7883009,
-              -5.1241176
-            ],
-            [
-              -42.7880514,
-              -5.1247621
             ]
           ]
         ]
@@ -12196,15 +12105,16 @@
       "type": "Feature",
       "id": "way/888266862",
       "properties": {
-        "timestamp": "2022-08-27T13:11:18Z",
-        "version": 3,
-        "changeset": 125442324,
+        "timestamp": "2024-10-04T14:15:45Z",
+        "version": 4,
+        "changeset": 157463338,
         "addr:city": "Teresina",
         "addr:housenumber": "1021",
         "addr:postcode": "64065-130",
         "addr:street": "Rua Nambu",
         "addr:suburb": "Vila Avião",
         "amenity": "school",
+        "grades": "0-6",
         "name": "CMEI Vila Do Aviao",
         "phone": "+55 86 3232 8121",
         "id": "way/888266862"
@@ -12214,24 +12124,32 @@
         "coordinates": [
           [
             [
-              -42.7866633,
-              -5.0111547
+              -42.7866677,
+              -5.0111646
             ],
             [
-              -42.7867162,
-              -5.0113077
+              -42.7866704,
+              -5.0111723
             ],
             [
-              -42.786292,
-              -5.0114536
+              -42.786714,
+              -5.0112993
             ],
             [
-              -42.786239,
-              -5.0113005
+              -42.7867194,
+              -5.011315
             ],
             [
-              -42.7866633,
-              -5.0111547
+              -42.7862938,
+              -5.0114601
+            ],
+            [
+              -42.7862421,
+              -5.0113097
+            ],
+            [
+              -42.7866677,
+              -5.0111646
             ]
           ]
         ]
@@ -14880,51 +14798,6 @@
             [
               -42.7769653,
               -5.0148806
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/888747555",
-      "properties": {
-        "timestamp": "2024-09-02T18:36:32Z",
-        "version": 2,
-        "changeset": 156112286,
-        "addr:city": "Teresina",
-        "addr:housenumber": "S/N",
-        "addr:street": "Rua 5",
-        "addr:suburb": "Pedra Mole",
-        "amenity": "school",
-        "grades": "10-12",
-        "name": "CETI Residencial Pedra Mole",
-        "opening_hours": "Mo-Fr 08:00-21:00, 12:00-13:00, 17:00-18:00",
-        "id": "way/888747555"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -42.7816483,
-              -5.0156222
-            ],
-            [
-              -42.7810411,
-              -5.0160286
-            ],
-            [
-              -42.7806679,
-              -5.0154751
-            ],
-            [
-              -42.7812753,
-              -5.0150689
-            ],
-            [
-              -42.7816483,
-              -5.0156222
             ]
           ]
         ]
@@ -19545,129 +19418,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/1292963001",
-      "properties": {
-        "timestamp": "2024-06-17T01:04:52Z",
-        "version": 1,
-        "changeset": 152781646,
-        "addr:city": "Teresina",
-        "addr:postcode": "64065990",
-        "addr:street": "Rodovia Antonio Medeiros Filho",
-        "addr:suburb": "Socopo",
-        "amenity": "school",
-        "building": "yes",
-        "denomination": "roman_catholic",
-        "grades": "1-12",
-        "name": "Escola Santo Afonso Rodriguez",
-        "operator": "Rede Jesuítas de Ensino",
-        "operator:type": "religious",
-        "religion": "christian",
-        "website": "https://www.esar.org.br/",
-        "wheelchair": "yes",
-        "id": "way/1292963001"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -42.7602897,
-              -5.0052144
-            ],
-            [
-              -42.7604222,
-              -5.0052301
-            ],
-            [
-              -42.760432,
-              -5.0051475
-            ],
-            [
-              -42.7605028,
-              -5.0051547
-            ],
-            [
-              -42.7604938,
-              -5.005238
-            ],
-            [
-              -42.7606149,
-              -5.0052521
-            ],
-            [
-              -42.7606177,
-              -5.0052309
-            ],
-            [
-              -42.7605752,
-              -5.0052256
-            ],
-            [
-              -42.7605805,
-              -5.005178
-            ],
-            [
-              -42.7606247,
-              -5.0051831
-            ],
-            [
-              -42.760627,
-              -5.0051655
-            ],
-            [
-              -42.7604267,
-              -5.0051429
-            ],
-            [
-              -42.7604225,
-              -5.0051797
-            ],
-            [
-              -42.7602337,
-              -5.0051604
-            ],
-            [
-              -42.7602478,
-              -5.0050264
-            ],
-            [
-              -42.7607327,
-              -5.005074
-            ],
-            [
-              -42.7607274,
-              -5.0051199
-            ],
-            [
-              -42.7607718,
-              -5.0051262
-            ],
-            [
-              -42.760761,
-              -5.0052239
-            ],
-            [
-              -42.760715,
-              -5.0052186
-            ],
-            [
-              -42.7607008,
-              -5.0053437
-            ],
-            [
-              -42.7602779,
-              -5.0052926
-            ],
-            [
-              -42.7602897,
-              -5.0052144
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/1303997697",
       "properties": {
         "timestamp": "2024-07-27T00:00:51Z",
@@ -20819,30 +20569,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/6566811030",
-      "properties": {
-        "timestamp": "2020-03-07T20:30:00Z",
-        "version": 3,
-        "changeset": 81908875,
-        "addr:city": "Teresina",
-        "addr:housenumber": "s/n",
-        "addr:postcode": "64018-640",
-        "addr:street": "Avenida Miguel Rosa",
-        "addr:suburb": "Piçarra",
-        "amenity": "school",
-        "name": "Escola Estadual Godofredo Freire",
-        "id": "node/6566811030"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -42.8023707,
-          -5.0957327
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/6568841967",
       "properties": {
         "timestamp": "2019-06-24T23:52:21Z",
@@ -21526,32 +21252,6 @@
         "coordinates": [
           -42.7551833,
           -5.1005705
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/7417946616",
-      "properties": {
-        "timestamp": "2020-04-18T21:26:14Z",
-        "version": 1,
-        "changeset": 83756203,
-        "access": "permissive",
-        "addr:city": "Teresina",
-        "addr:street": "Rua Governador Tibério Nunes",
-        "addr:suburb": "Cabral",
-        "door": "yes",
-        "entrance": "main",
-        "level": "0",
-        "ref": "Portaria 1",
-        "wheelchair": "yes",
-        "id": "node/7417946616"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -42.7991956,
-          -5.0838833
         ]
       }
     },

@@ -187,6 +187,65 @@
     },
     {
       "type": "Feature",
+      "id": "way/1320764857",
+      "properties": {
+        "timestamp": "2024-10-04T15:59:43Z",
+        "version": 1,
+        "changeset": 157468141,
+        "amenity": "pharmacy",
+        "brand": "Droga Raia",
+        "brand:wikidata": "Q10357101",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Droga Raia",
+        "id": "way/1320764857"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.9260902,
+              -22.5071776
+            ],
+            [
+              -41.925891,
+              -22.506923
+            ],
+            [
+              -41.9259733,
+              -22.5068685
+            ],
+            [
+              -41.9260734,
+              -22.5068636
+            ],
+            [
+              -41.9261736,
+              -22.5068718
+            ],
+            [
+              -41.9262109,
+              -22.5069224
+            ],
+            [
+              -41.9261492,
+              -22.5069546
+            ],
+            [
+              -41.9262378,
+              -22.5070873
+            ],
+            [
+              -41.9260902,
+              -22.5071776
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/6179150485",
       "properties": {
         "timestamp": "2019-01-02T18:07:25Z",
@@ -375,28 +434,6 @@
         "coordinates": [
           -41.9223901,
           -22.5089907
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/10747626930",
-      "properties": {
-        "timestamp": "2023-03-20T05:06:27Z",
-        "version": 1,
-        "changeset": 133882203,
-        "amenity": "pharmacy",
-        "brand": "Droga Raia",
-        "brand:wikidata": "Q10357101",
-        "healthcare": "pharmacy",
-        "name": "Droga Raia",
-        "id": "node/10747626930"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -41.9260057,
-          -22.5069109
         ]
       }
     },

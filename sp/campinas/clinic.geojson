@@ -424,12 +424,24 @@
       "type": "Feature",
       "id": "way/505169350",
       "properties": {
-        "timestamp": "2021-02-20T23:20:44Z",
-        "version": 2,
-        "changeset": 99663646,
+        "timestamp": "2024-10-04T17:53:50Z",
+        "version": 3,
+        "changeset": 157472574,
+        "addr:city": "Campinas",
+        "addr:housenumber": "40",
+        "addr:postcode": "13091-020",
+        "addr:street": "Rua Silvino de Godoy",
+        "addr:suburb": "Jardim Conceição",
         "amenity": "clinic",
         "building": "yes",
         "healthcare": "clinic",
+        "mobile": "+55 (19) 3207-2888",
+        "name": "Centro de Saúde \"Antonio da Costa Santos\" - Jardim Conceição",
+        "opening_hours": "Mo-Fr 07:00-19:00",
+        "operator": "Prefeitura de Campinas",
+        "operator:type": "public",
+        "phone": "+55 (19) 3207-2888",
+        "website": "https://portal.campinas.sp.gov.br/secretaria/saude/pagina/centro-de-saude-jardim-conceicao",
         "id": "way/505169350"
       },
       "geometry": {
@@ -858,19 +870,23 @@
       "type": "Feature",
       "id": "way/983593271",
       "properties": {
-        "timestamp": "2021-09-15T11:18:06Z",
-        "version": 1,
-        "changeset": 111239733,
+        "timestamp": "2024-10-06T14:13:46Z",
+        "version": 3,
+        "changeset": 157542480,
         "addr:city": "Campinas",
-        "addr:housenumber": "s/n",
+        "addr:postcode": "13080-470",
         "addr:street": "Rua Joaquim Manoel de Macedo",
         "addr:suburb": "Vila Costa e Silva",
         "amenity": "clinic",
         "building": "yes",
         "healthcare": "clinic",
+        "mobile": "+55 (19) 3208-1805",
         "name": "Centro de Saúde da Vila Costa e Silva (\"Dr. Luiz de Tella\")",
-        "operator": "Prefeitura Municipal de Campinas",
-        "operator:type": "government",
+        "opening_hours": "Mo-Fr 07:00-19:00",
+        "operator": "Prefeitura de Campinas",
+        "operator:type": "public",
+        "phone": "+55 (19) 3208-1805",
+        "website": "https://portal.campinas.sp.gov.br/secretaria/saude/pagina/centro-de-saude-vila-costa-e-silva",
         "id": "way/983593271"
       },
       "geometry": {
@@ -1357,26 +1373,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/1637936868",
-      "properties": {
-        "timestamp": "2019-10-28T07:06:21Z",
-        "version": 2,
-        "changeset": 76284696,
-        "amenity": "clinic",
-        "healthcare": "clinic",
-        "name": "Franco do Amaral",
-        "id": "node/1637936868"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -47.0628133,
-          -22.898481
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/1760464607",
       "properties": {
         "timestamp": "2021-03-13T02:00:24Z",
@@ -1446,15 +1442,23 @@
       "type": "Feature",
       "id": "node/4205522895",
       "properties": {
-        "timestamp": "2024-01-09T13:50:10Z",
-        "version": 4,
-        "changeset": 146067909,
+        "timestamp": "2024-10-04T17:53:50Z",
+        "version": 5,
+        "changeset": 157472574,
         "addr:city": "Campinas",
+        "addr:housenumber": "1145",
+        "addr:postcode": "13015-301",
         "addr:street": "Rua Padre Vieira",
+        "addr:suburb": "Centro",
         "amenity": "clinic",
         "healthcare": "clinic",
-        "name": "UPA Centro",
-        "operator": "Muncípio de Campinas",
+        "mobile": "+55 (19) 3206-1003",
+        "name": "Centro de Saúde \"Mário de Campos Bueno Júnior\" - Centro",
+        "opening_hours": "Mo-Fr 07:00-17:00",
+        "operator": "Prefeitura de Campinas",
+        "operator:type": "public",
+        "phone": "+55 (19) 3231-9016",
+        "website": "https://portal.campinas.sp.gov.br/secretaria/saude/pagina/centro-de-saude-centro",
         "id": "node/4205522895"
       },
       "geometry": {
@@ -2092,26 +2096,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/7108020105",
-      "properties": {
-        "timestamp": "2021-03-13T02:00:24Z",
-        "version": 2,
-        "changeset": 100939363,
-        "amenity": "clinic",
-        "healthcare": "clinic",
-        "name": "Sabin",
-        "id": "node/7108020105"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -47.0774331,
-          -22.8329696
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/7108024579",
       "properties": {
         "timestamp": "2021-03-13T02:00:24Z",
@@ -2399,41 +2383,6 @@
         "coordinates": [
           -47.066453,
           -22.8862899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/11412624341",
-      "properties": {
-        "timestamp": "2023-12-12T14:40:26Z",
-        "version": 1,
-        "changeset": 145040740,
-        "addr:city": "Campinas",
-        "addr:housenumber": "s/n",
-        "addr:postcode": "13083888",
-        "addr:street": "Rua do CECOM",
-        "addr:suburb": "Cidade Universitária Zeferino Vaz",
-        "air_conditioning": "yes",
-        "amenity": "clinic",
-        "email": "saucss@unicamp.br",
-        "healthcare": "clinic",
-        "healthcare:speciality": "general;ophthalmology;cardiology;nutricionista",
-        "level": "1",
-        "name": "CECOM - Entrada da Área Médica",
-        "opening_hours": "Mo-Fr 07:00-17:00",
-        "operator": "UNICAMP",
-        "operator:type": "university",
-        "phone": "+55 19 3521-9001",
-        "website": "https://cecom.unicamp.br",
-        "wheelchair": "limited",
-        "id": "node/11412624341"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -47.0639835,
-          -22.8289655
         ]
       }
     },
@@ -2801,34 +2750,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/12207040941",
-      "properties": {
-        "timestamp": "2024-10-11T12:02:16Z",
-        "version": 2,
-        "changeset": 157753996,
-        "addr:city": "Campinas",
-        "addr:housenumber": "348",
-        "addr:postcode": "13073-240",
-        "addr:street": "Rua Barros Monteiro",
-        "addr:suburb": "Jardim Guanabara",
-        "amenity": "clinic",
-        "healthcare": "clinic",
-        "name": "DIMEN Medicina Nuclear",
-        "opening_hours": "Mo-Fr 07:00-18:00; Sa 07:00-11:00",
-        "phone": "+55 (19) 3345-1700",
-        "website": "https://www.dimen.com.br/",
-        "id": "node/12207040941"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -47.0665726,
-          -22.8887869
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/12209609777",
       "properties": {
         "timestamp": "2024-09-29T20:37:53Z",
@@ -3127,6 +3048,37 @@
         "coordinates": [
           -47.0609981,
           -22.8865613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12222759333",
+      "properties": {
+        "timestamp": "2024-10-04T17:53:50Z",
+        "version": 1,
+        "changeset": 157472574,
+        "addr:city": "Campinas",
+        "addr:housenumber": "380",
+        "addr:postcode": "13076-550",
+        "addr:street": "Rua Henrique Shroeder",
+        "addr:suburb": "Jardim Belo Horizonte",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "mobile": "+55 (19) 3213-4936",
+        "name": "Centro de Saúde \"Cônego Milton Santana\" - Taquaral",
+        "opening_hours": "Mo-Fr 07:00-19:00",
+        "operator": "Prefeitura de Campinas",
+        "operator:type": "public",
+        "phone": "+55 (19) 3251-1202",
+        "website": "https://portal.campinas.sp.gov.br/secretaria/saude/pagina/centro-de-saude-taquaral",
+        "id": "node/12222759333"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0472115,
+          -22.8815475
         ]
       }
     },

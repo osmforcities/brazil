@@ -14412,6 +14412,108 @@
     },
     {
       "type": "Feature",
+      "id": "way/1290772670",
+      "properties": {
+        "timestamp": "2024-10-09T00:10:09Z",
+        "version": 4,
+        "changeset": 157649322,
+        "addr:city": "Belo Horizonte",
+        "addr:housenumber": "122",
+        "addr:postcode": "30642-000",
+        "addr:street": "Rua Costa Belém",
+        "addr:suburb": "Barreiro",
+        "amenity": "school",
+        "grades": "0-18",
+        "name": "Colégio Santa Rita de Cássia",
+        "religion": "christian",
+        "id": "way/1290772670"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.0115736,
+              -19.9783022
+            ],
+            [
+              -44.0117124,
+              -19.9783325
+            ],
+            [
+              -44.0120532,
+              -19.9784068
+            ],
+            [
+              -44.0123342,
+              -19.9784681
+            ],
+            [
+              -44.0129283,
+              -19.9785976
+            ],
+            [
+              -44.0129517,
+              -19.9786027
+            ],
+            [
+              -44.0130262,
+              -19.9783432
+            ],
+            [
+              -44.0131965,
+              -19.9783848
+            ],
+            [
+              -44.0131278,
+              -19.9786411
+            ],
+            [
+              -44.013059,
+              -19.9788974
+            ],
+            [
+              -44.0128595,
+              -19.9788543
+            ],
+            [
+              -44.012808,
+              -19.9788431
+            ],
+            [
+              -44.0126463,
+              -19.9788081
+            ],
+            [
+              -44.0125819,
+              -19.9787942
+            ],
+            [
+              -44.0123347,
+              -19.9787407
+            ],
+            [
+              -44.0122703,
+              -19.9787268
+            ],
+            [
+              -44.0119893,
+              -19.978666
+            ],
+            [
+              -44.0114791,
+              -19.9785556
+            ],
+            [
+              -44.0115736,
+              -19.9783022
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1297782359",
       "properties": {
         "timestamp": "2024-07-01T22:10:04Z",
@@ -15192,46 +15294,6 @@
           [
             -43.9951398,
             -19.9000977
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1290772670",
-      "properties": {
-        "timestamp": "2024-10-09T00:10:09Z",
-        "version": 4,
-        "changeset": 157649322,
-        "addr:city": "Belo Horizonte",
-        "addr:housenumber": "122",
-        "addr:postcode": "30642-000",
-        "addr:street": "Rua Costa Belém",
-        "addr:suburb": "Barreiro",
-        "amenity": "school",
-        "grades": "0-18",
-        "name": "Colégio Santa Rita de Cássia",
-        "religion": "christian",
-        "id": "way/1290772670"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -44.0125819,
-            -19.9787942
-          ],
-          [
-            -44.0126463,
-            -19.9788081
-          ],
-          [
-            -44.012808,
-            -19.9788431
-          ],
-          [
-            -44.0117124,
-            -19.9783325
           ]
         ]
       }
@@ -17201,29 +17263,6 @@
         "coordinates": [
           -44.0092021,
           -19.9345027
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/3623950072",
-      "properties": {
-        "timestamp": "2019-05-13T14:41:43Z",
-        "version": 2,
-        "changeset": 70195882,
-        "addr:city": "Belo Horizonte",
-        "addr:housenumber": "240",
-        "addr:street": "Rua Chicago",
-        "addr:suburb": "Sion",
-        "amenity": "school",
-        "name": "Colégio Santa Dorotéia",
-        "id": "node/3623950072"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.935544,
-          -19.9529122
         ]
       }
     },

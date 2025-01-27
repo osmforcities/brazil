@@ -1847,52 +1847,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/284296045",
-      "properties": {
-        "timestamp": "2023-11-18T17:16:18Z",
-        "version": 6,
-        "changeset": 144183379,
-        "addr:city": "Niterói",
-        "addr:housenumber": "s/n",
-        "addr:postcode": "24370-195",
-        "addr:street": "Avenida Prefeito Sylvio Picanço",
-        "addr:suburb": "Charitas",
-        "amenity": "school",
-        "building": "yes",
-        "building:levels": "2",
-        "name": "Colégio Estadual Matemático Joaquim Gomes de Sousa - Intercultural Brasil-China",
-        "id": "way/284296045"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -43.0997063,
-              -22.9339273
-            ],
-            [
-              -43.0997811,
-              -22.9340196
-            ],
-            [
-              -43.0994299,
-              -22.9342454
-            ],
-            [
-              -43.0993622,
-              -22.9341384
-            ],
-            [
-              -43.0997063,
-              -22.9339273
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/284299277",
       "properties": {
         "timestamp": "2020-05-04T02:57:17Z",
@@ -5031,10 +4985,6 @@
               -22.9308687
             ],
             [
-              -43.0658839,
-              -22.9308998
-            ],
-            [
               -43.0659111,
               -22.9309256
             ]
@@ -5157,6 +5107,48 @@
             [
               -43.1166701,
               -22.8927678
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1320730247",
+      "properties": {
+        "timestamp": "2024-10-04T12:46:23Z",
+        "version": 1,
+        "changeset": 157459500,
+        "addr:street": "Rua Doutor Martins Torres",
+        "amenity": "school",
+        "building": "school",
+        "name": "Escola Estadual São Domingos Savio",
+        "religion": "none",
+        "id": "way/1320730247"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.0933774,
+              -22.8986133
+            ],
+            [
+              -43.0939267,
+              -22.8986094
+            ],
+            [
+              -43.0939181,
+              -22.8987912
+            ],
+            [
+              -43.0933731,
+              -22.8987833
+            ],
+            [
+              -43.0933774,
+              -22.8986133
             ]
           ]
         ]
@@ -7302,24 +7294,6 @@
         "coordinates": [
           -43.1312348,
           -22.9000423
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/8959136603",
-      "properties": {
-        "timestamp": "2023-12-17T00:22:47Z",
-        "version": 3,
-        "changeset": 145201322,
-        "barrier": "gate",
-        "id": "node/8959136603"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.0658839,
-          -22.9308998
         ]
       }
     },

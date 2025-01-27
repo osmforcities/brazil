@@ -117,12 +117,25 @@
       "type": "Feature",
       "id": "relation/13751151",
       "properties": {
-        "timestamp": "2022-02-02T13:30:03Z",
-        "version": 1,
-        "changeset": 116913708,
+        "timestamp": "2024-10-06T00:19:04Z",
+        "version": 3,
+        "changeset": 157520978,
+        "addr:city": "Teresina",
+        "addr:postcode": "64049-550",
+        "addr:street": "Universidade Federal do Piauí - UFPI Campus Universitário Ministro Petrônio Portella",
+        "addr:suburb": "Ininga",
         "amenity": "university",
-        "name": "UFPI",
+        "contact:email": "scs@ufpi.edu.br",
+        "contact:instagram": "https://www.instagram.com/ufpi/",
+        "contact:phone": "+ 55 (86) 3237-2104",
+        "internet_access": "yes",
+        "internet_access:fee": "customers",
+        "name": "Universidade Federal do Piauí - Campus Ministro Petrônio Portella",
+        "operator": "Fundação Universidade Federal do Piauí (FUFPI/MEC)",
+        "operator:type": "public",
+        "short_name": "UFPI",
         "type": "multipolygon",
+        "website": "https://ufpi.br/",
         "id": "relation/13751151"
       },
       "geometry": {
@@ -158,12 +171,24 @@
               -5.0556119
             ],
             [
+              -42.7986175,
+              -5.0547436
+            ],
+            [
               -42.7987708,
               -5.0546406
             ],
             [
+              -42.7988084,
+              -5.0546153
+            ],
+            [
               -42.799347,
               -5.0542074
+            ],
+            [
+              -42.7994018,
+              -5.0541757
             ],
             [
               -42.800224,
@@ -600,20 +625,23 @@
       "type": "Feature",
       "id": "way/596215881",
       "properties": {
-        "timestamp": "2022-05-30T05:57:31Z",
-        "version": 4,
-        "changeset": 121692452,
+        "timestamp": "2024-10-06T00:59:41Z",
+        "version": 6,
+        "changeset": 157521448,
         "addr:city": "Teresina",
         "addr:country": "BR",
         "addr:place": "Campus Universitário Ministro Petrônio Portella",
         "addr:postcode": "64049-550",
-        "addr:suburb": "Ininga",
+        "addr:suburb": "Zoobotânico",
         "amenity": "university",
-        "email": "comunicacao@ufpi.edu.br",
-        "name": "Universidade Federal do Piauí",
-        "operator": "Governo Federal do Brasil",
-        "phone": "+558632155525",
-        "website": "https://ufpi.br/",
+        "email": "cca_diretoria@ufpi.edu.br",
+        "internet_access": "yes",
+        "internet_access:fee": "customers",
+        "name": "Centro de Ciências Agrárias - CCA/UFPI",
+        "operator": "Fundação Universidade Federal do Piauí - FUFPI/MEC",
+        "operator:type": "public",
+        "phone": "+55 (86) 3215-1102",
+        "website": "https://ufpi.br/cca",
         "wheelchair": "limited",
         "id": "way/596215881"
       },
@@ -1730,9 +1758,9 @@
       "type": "Feature",
       "id": "way/1010072719",
       "properties": {
-        "timestamp": "2021-12-07T23:58:27Z",
-        "version": 1,
-        "changeset": 114680564,
+        "timestamp": "2024-10-04T14:45:18Z",
+        "version": 2,
+        "changeset": 157464576,
         "barrier": "wall",
         "id": "way/1010072719"
       },
@@ -1768,12 +1796,24 @@
             -5.0556119
           ],
           [
+            -42.7986175,
+            -5.0547436
+          ],
+          [
             -42.7987708,
             -5.0546406
           ],
           [
+            -42.7988084,
+            -5.0546153
+          ],
+          [
             -42.799347,
             -5.0542074
+          ],
+          [
+            -42.7994018,
+            -5.0541757
           ],
           [
             -42.800224,
@@ -1951,6 +1991,34 @@
         "coordinates": [
           -42.7647303,
           -5.0875806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12228635216",
+      "properties": {
+        "timestamp": "2024-10-06T00:08:24Z",
+        "version": 1,
+        "changeset": 157520871,
+        "addr:city": "Teresina",
+        "addr:postcode": "64049-550",
+        "addr:street": "Universidade Federal do Piauí - UFPI Campus Universitário Ministro Petrônio Portella",
+        "addr:suburb": "Ininga",
+        "amenity": "university",
+        "internet_access": "yes",
+        "internet_access:fee": "customers",
+        "name": "Centro de Tecnologia - CT/UFPI",
+        "operator": "Universidade Federal do Piauí",
+        "operator:type": "public",
+        "website": "https://ufpi.br/ct",
+        "id": "node/12228635216"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.7997481,
+          -5.0565433
         ]
       }
     }

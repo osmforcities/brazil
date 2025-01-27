@@ -3,76 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": "way/298623922",
-      "properties": {
-        "timestamp": "2024-11-15T02:19:20Z",
-        "version": 6,
-        "changeset": 159152514,
-        "addr:city": "Guarulhos",
-        "addr:housenumber": "439",
-        "addr:postcode": "07010-010",
-        "addr:street": "Rua João Gonçalves",
-        "addr:suburb": "Centro",
-        "amenity": "library",
-        "building": "yes",
-        "internet_access": "yes",
-        "name": "Biblioteca Monteiro Lobato",
-        "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-18:00",
-        "phone": "+55 11 2087-6900",
-        "wikidata": "Q63256637",
-        "wikimedia_commons": "Category:Biblioteca Monteiro Lobato (Guarulhos)",
-        "id": "way/298623922"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -46.5294682,
-              -23.4666907
-            ],
-            [
-              -46.5290964,
-              -23.4670449
-            ],
-            [
-              -46.5289975,
-              -23.4669637
-            ],
-            [
-              -46.5291223,
-              -23.4668353
-            ],
-            [
-              -46.529138,
-              -23.4668191
-            ],
-            [
-              -46.5291645,
-              -23.4667919
-            ],
-            [
-              -46.5291732,
-              -23.4667829
-            ],
-            [
-              -46.5291921,
-              -23.4667635
-            ],
-            [
-              -46.5293089,
-              -23.4666433
-            ],
-            [
-              -46.5294682,
-              -23.4666907
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/556139995",
       "properties": {
         "timestamp": "2018-01-26T23:54:41Z",
@@ -333,6 +263,66 @@
               -46.4939687,
               -23.4092193
             ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/298623922",
+      "properties": {
+        "timestamp": "2024-11-15T02:19:20Z",
+        "version": 6,
+        "changeset": 159152514,
+        "addr:city": "Guarulhos",
+        "addr:housenumber": "439",
+        "addr:postcode": "07010-010",
+        "addr:street": "Rua João Gonçalves",
+        "addr:suburb": "Centro",
+        "amenity": "library",
+        "building": "yes",
+        "internet_access": "yes",
+        "name": "Biblioteca Monteiro Lobato",
+        "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-18:00",
+        "phone": "+55 11 2087-6900",
+        "wikidata": "Q63256637",
+        "wikimedia_commons": "Category:Biblioteca Monteiro Lobato (Guarulhos)",
+        "id": "way/298623922"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.5290964,
+            -23.4670449
+          ],
+          [
+            -46.5289975,
+            -23.4669637
+          ],
+          [
+            -46.5291223,
+            -23.4668353
+          ],
+          [
+            -46.529138,
+            -23.4668191
+          ],
+          [
+            -46.5291645,
+            -23.4667919
+          ],
+          [
+            -46.5291732,
+            -23.4667829
+          ],
+          [
+            -46.5291921,
+            -23.4667635
+          ],
+          [
+            -46.5293089,
+            -23.4666433
           ]
         ]
       }

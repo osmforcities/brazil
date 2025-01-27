@@ -1512,46 +1512,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/681451007",
-      "properties": {
-        "timestamp": "2021-04-21T00:44:03Z",
-        "version": 2,
-        "changeset": 103299500,
-        "description": "Quadra Basquete ar Livre",
-        "leisure": "pitch",
-        "sport": "basketball",
-        "id": "way/681451007"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -49.6473034,
-              -27.2097337
-            ],
-            [
-              -49.6474704,
-              -27.2097401
-            ],
-            [
-              -49.6474581,
-              -27.2099932
-            ],
-            [
-              -49.6472911,
-              -27.2099867
-            ],
-            [
-              -49.6473034,
-              -27.2097337
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/681451008",
       "properties": {
         "timestamp": "2021-04-21T00:44:03Z",
@@ -3219,10 +3179,11 @@
       "type": "Feature",
       "id": "way/1144910743",
       "properties": {
-        "timestamp": "2023-02-13T19:02:19Z",
-        "version": 2,
-        "changeset": 132504935,
+        "timestamp": "2024-11-29T15:01:08Z",
+        "version": 3,
+        "changeset": 159745403,
         "leisure": "pitch",
+        "lit": "no",
         "sport": "soccer",
         "surface": "grass",
         "id": "way/1144910743"
@@ -3250,6 +3211,84 @@
             [
               -49.6425197,
               -27.2144258
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1144910745",
+      "properties": {
+        "timestamp": "2024-11-29T15:02:25Z",
+        "version": 2,
+        "changeset": 159745469,
+        "leisure": "pitch",
+        "sport": "soccer;basketball",
+        "id": "way/1144910745"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.6425586,
+              -27.2140934
+            ],
+            [
+              -49.6424486,
+              -27.2143105
+            ],
+            [
+              -49.6423024,
+              -27.2142497
+            ],
+            [
+              -49.6424151,
+              -27.2140314
+            ],
+            [
+              -49.6425586,
+              -27.2140934
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1144910746",
+      "properties": {
+        "timestamp": "2024-11-29T15:02:36Z",
+        "version": 2,
+        "changeset": 159745469,
+        "leisure": "pitch",
+        "sport": "soccer;basketball;handball",
+        "id": "way/1144910746"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.6423614,
+              -27.21401
+            ],
+            [
+              -49.6422407,
+              -27.2142234
+            ],
+            [
+              -49.6421147,
+              -27.2141674
+            ],
+            [
+              -49.6422313,
+              -27.2139563
+            ],
+            [
+              -49.6423614,
+              -27.21401
             ]
           ]
         ]

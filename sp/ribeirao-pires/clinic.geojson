@@ -69,9 +69,9 @@
       "type": "Feature",
       "id": "way/549160721",
       "properties": {
-        "timestamp": "2024-10-03T21:14:21Z",
-        "version": 8,
-        "changeset": 157437134,
+        "timestamp": "2024-10-04T21:30:40Z",
+        "version": 9,
+        "changeset": 157478601,
         "addr:city": "Ribeirão Pires",
         "addr:housenumber": "70",
         "addr:postcode": "09424-250",
@@ -83,7 +83,7 @@
         "healthcare": "clinic",
         "healthcare:speciality": "gynaecology;mastologia;vulvoscopia;colposcopia",
         "name": "CAISM - Centro de Atenção Integral à Saúde da Mulher",
-        "name:pt": "CEM - Centro Especialidades Médicas",
+        "name:pt": "CEM - Centro Especialidades Médicas e CAISM - Centro de Atenção Integral à Saúde da Mulher",
         "opening_hours": "Mo-Fr 08:00-17:00; PH off",
         "operator": "Prefeitura da Estância Turística de Ribeirão Pires",
         "operator:type": "public/government",
@@ -287,6 +287,54 @@
             [
               -46.4200088,
               -23.7316188
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1320818927",
+      "properties": {
+        "timestamp": "2024-10-04T21:30:40Z",
+        "version": 1,
+        "changeset": 157478601,
+        "addr:city": "Ribeirão Pires",
+        "addr:housenumber": "07",
+        "addr:street": "Avenida Santo André",
+        "addr:suburb": "Centro Alto",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Programa Melhor em Casa (EMAD)",
+        "operator": "Prefeitura da Estância Turística de Ribeirão Pires",
+        "operator:type": "public/government",
+        "id": "way/1320818927"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.4170092,
+              -23.712172
+            ],
+            [
+              -46.4170252,
+              -23.7121225
+            ],
+            [
+              -46.4171098,
+              -23.7118604
+            ],
+            [
+              -46.4172502,
+              -23.7119261
+            ],
+            [
+              -46.4170092,
+              -23.712172
             ]
           ]
         ]

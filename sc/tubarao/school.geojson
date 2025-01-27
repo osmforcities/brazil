@@ -3,51 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": "way/165120362",
-      "properties": {
-        "timestamp": "2019-02-21T02:07:00Z",
-        "version": 3,
-        "changeset": 67414188,
-        "addr:city": "Tubarão",
-        "addr:housenumber": "732",
-        "addr:postcode": "88701-620",
-        "addr:street": "Rua José Ferreira",
-        "addr:suburb": "Santo Antônio de Pádua",
-        "amenity": "school",
-        "name": "Escola Governador Aderbal Ramos da Silva",
-        "short_name": "EEB Governador Aderbal Ramos da Silva",
-        "id": "way/165120362"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -49.0138026,
-              -28.4921361
-            ],
-            [
-              -49.0135666,
-              -28.4929199
-            ],
-            [
-              -49.0128063,
-              -28.4927431
-            ],
-            [
-              -49.0130423,
-              -28.4919593
-            ],
-            [
-              -49.0138026,
-              -28.4921361
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/392853572",
       "properties": {
         "timestamp": "2023-01-05T15:51:11Z",
@@ -336,10 +291,6 @@
               -28.4953959
             ],
             [
-              -49.0072659,
-              -28.4958133
-            ],
-            [
               -49.0071056,
               -28.4963281
             ],
@@ -595,47 +546,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/516602936",
-      "properties": {
-        "timestamp": "2022-03-11T14:51:35Z",
-        "version": 3,
-        "changeset": 118367139,
-        "amenity": "school",
-        "name": "Escola Municipal Professora Cristina Ávila Wendhausen",
-        "operator": "Prefeitura de Tubarão",
-        "operator:type": "public",
-        "id": "way/516602936"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -48.9789458,
-              -28.5073767
-            ],
-            [
-              -48.9787095,
-              -28.5074394
-            ],
-            [
-              -48.978638,
-              -28.5072549
-            ],
-            [
-              -48.9788785,
-              -28.5071954
-            ],
-            [
-              -48.9789458,
-              -28.5073767
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/516602941",
       "properties": {
         "timestamp": "2017-08-18T11:18:35Z",
@@ -797,88 +707,6 @@
             [
               -49.025292,
               -28.468884
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/577494634",
-      "properties": {
-        "timestamp": "2018-04-25T22:43:21Z",
-        "version": 2,
-        "changeset": 58425155,
-        "amenity": "school",
-        "name": "EEB Célia Coelho Cruz",
-        "id": "way/577494634"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -49.0353837,
-              -28.4645493
-            ],
-            [
-              -49.0358879,
-              -28.4649336
-            ],
-            [
-              -49.0358638,
-              -28.4651907
-            ],
-            [
-              -49.0358692,
-              -28.4654524
-            ],
-            [
-              -49.035094,
-              -28.464844
-            ],
-            [
-              -49.0353837,
-              -28.4645493
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/589526407",
-      "properties": {
-        "timestamp": "2019-02-28T18:36:13Z",
-        "version": 2,
-        "changeset": 67660622,
-        "amenity": "school",
-        "name": "Escola Professor Júlio Boppré",
-        "id": "way/589526407"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -48.910211,
-              -28.5350683
-            ],
-            [
-              -48.9103438,
-              -28.5352517
-            ],
-            [
-              -48.9097722,
-              -28.5356357
-            ],
-            [
-              -48.9096235,
-              -28.5353404
-            ],
-            [
-              -48.910211,
-              -28.5350683
             ]
           ]
         ]
@@ -1096,6 +924,35 @@
     },
     {
       "type": "Feature",
+      "id": "way/577494634",
+      "properties": {
+        "timestamp": "2018-04-25T22:43:21Z",
+        "version": 2,
+        "changeset": 58425155,
+        "amenity": "school",
+        "name": "EEB Célia Coelho Cruz",
+        "id": "way/577494634"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -49.035094,
+            -28.464844
+          ],
+          [
+            -49.0358692,
+            -28.4654524
+          ],
+          [
+            -49.0358638,
+            -28.4651907
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/1769222668",
       "properties": {
         "timestamp": "2018-04-24T21:30:08Z",
@@ -1137,24 +994,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/2524653744",
-      "properties": {
-        "timestamp": "2019-02-18T15:08:20Z",
-        "version": 3,
-        "changeset": 67319248,
-        "entrance": "yes",
-        "id": "node/2524653744"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.0072659,
-          -28.4958133
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/4724757929",
       "properties": {
         "timestamp": "2017-03-08T20:22:52Z",
@@ -1169,25 +1008,6 @@
         "coordinates": [
           -49.0609163,
           -28.534598
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/4724757930",
-      "properties": {
-        "timestamp": "2017-03-08T20:22:52Z",
-        "version": 1,
-        "changeset": 46691155,
-        "amenity": "school",
-        "name": "Escola Jucelino Kubitschek",
-        "id": "node/4724757930"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.0491288,
-          -28.5340968
         ]
       }
     },

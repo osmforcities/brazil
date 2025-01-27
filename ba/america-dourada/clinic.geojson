@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1338919372",
+      "properties": {
+        "timestamp": "2024-11-29T18:37:02Z",
+        "version": 1,
+        "changeset": 159752711,
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "id": "way/1338919372"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.4806824,
+              -11.3073526
+            ],
+            [
+              -41.4804415,
+              -11.3075031
+            ],
+            [
+              -41.4802779,
+              -11.3072709
+            ],
+            [
+              -41.480531,
+              -11.3071284
+            ],
+            [
+              -41.4806824,
+              -11.3073526
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12385033238",
+      "properties": {
+        "timestamp": "2024-11-29T18:37:02Z",
+        "version": 1,
+        "changeset": 159752711,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "PSF Soares",
+        "id": "node/12385033238"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.480482,
+          -11.307314
+        ]
+      }
+    }
+  ]
+}

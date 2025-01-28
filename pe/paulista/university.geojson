@@ -236,6 +236,83 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1287205696",
+      "properties": {
+        "timestamp": "2024-12-02T20:20:51Z",
+        "version": 2,
+        "changeset": 159857810,
+        "addr:city": "Paulista",
+        "addr:housenumber": "3580",
+        "addr:postcode": "53437-000",
+        "addr:street": "Avenida Doutor Cláudio José Gueiros Leite",
+        "addr:suburb": "Janga",
+        "amenity": "university",
+        "mobile": "+55  81 9 8788-9597",
+        "name": "Faculdade Fasup",
+        "name:pt": "FASUP - Faculdade de Saúde do Paulista",
+        "website": "https://www.fasup.com/",
+        "id": "way/1287205696"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -34.8217208,
+              -7.9261532
+            ],
+            [
+              -34.8217657,
+              -7.9262996
+            ],
+            [
+              -34.821786,
+              -7.9263657
+            ],
+            [
+              -34.8217011,
+              -7.9263921
+            ],
+            [
+              -34.8216919,
+              -7.926359
+            ],
+            [
+              -34.8216677,
+              -7.9262854
+            ],
+            [
+              -34.8216362,
+              -7.9261789
+            ],
+            [
+              -34.8217208,
+              -7.9261532
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12391554881",
+      "properties": {
+        "timestamp": "2024-12-02T20:20:51Z",
+        "version": 1,
+        "changeset": 159857810,
+        "barrier": "gate",
+        "id": "node/12391554881"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.8217657,
+          -7.9262996
+        ]
+      }
     }
   ]
 }

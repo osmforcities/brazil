@@ -3,6 +3,46 @@
   "features": [
     {
       "type": "Feature",
+      "id": "way/1339392903",
+      "properties": {
+        "timestamp": "2024-12-02T06:27:41Z",
+        "version": 1,
+        "changeset": 159829404,
+        "building": "yes",
+        "name": "Almeidas Hotel",
+        "tourism": "hotel",
+        "id": "way/1339392903"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -57.4902275,
+              -14.6256762
+            ],
+            [
+              -57.4901304,
+              -14.6257949
+            ],
+            [
+              -57.4899133,
+              -14.6256292
+            ],
+            [
+              -57.4900027,
+              -14.6255106
+            ],
+            [
+              -57.4902275,
+              -14.6256762
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/6594845410",
       "properties": {
         "timestamp": "2024-11-30T15:20:40Z",
@@ -17,6 +57,82 @@
         "coordinates": [
           -57.492006,
           -14.6234265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6594845588",
+      "properties": {
+        "timestamp": "2024-12-02T06:27:41Z",
+        "version": 2,
+        "changeset": 159829404,
+        "name": "Hotel vitoria",
+        "tourism": "hotel",
+        "id": "node/6594845588"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.4884503,
+          -14.624759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12389509643",
+      "properties": {
+        "timestamp": "2024-12-02T06:27:41Z",
+        "version": 1,
+        "changeset": 159829404,
+        "name": "Hotel Itatiaia",
+        "tourism": "hotel",
+        "id": "node/12389509643"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.4895654,
+          -14.6252335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12389509656",
+      "properties": {
+        "timestamp": "2024-12-02T06:27:41Z",
+        "version": 1,
+        "changeset": 159829404,
+        "name": "Hotel Califórnia",
+        "tourism": "hotel",
+        "id": "node/12389509656"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.4898085,
+          -14.6254389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12389509667",
+      "properties": {
+        "timestamp": "2024-12-02T06:27:41Z",
+        "version": 1,
+        "changeset": 159829404,
+        "name": "Hotel Centro Oeste",
+        "tourism": "hotel",
+        "id": "node/12389509667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.490534,
+          -14.6244624
         ]
       }
     }

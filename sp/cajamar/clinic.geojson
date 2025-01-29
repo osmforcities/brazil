@@ -164,6 +164,57 @@
     },
     {
       "type": "Feature",
+      "id": "way/674694090",
+      "properties": {
+        "timestamp": "2024-12-04T23:11:57Z",
+        "version": 4,
+        "changeset": 159936516,
+        "addr:housenumber": "121",
+        "addr:postcode": "07792-725",
+        "addr:street": "Rua Timburi",
+        "addr:suburb": "Polvilho",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "Clinica de Especialidades de Polvilho",
+        "operator": "Prefeitura Municipal de Caieras",
+        "operator:type": "government",
+        "id": "way/674694090"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.847141,
+              -23.4100624
+            ],
+            [
+              -46.8472457,
+              -23.4101921
+            ],
+            [
+              -46.8470931,
+              -23.4102973
+            ],
+            [
+              -46.8469358,
+              -23.4103903
+            ],
+            [
+              -46.8468499,
+              -23.4102684
+            ],
+            [
+              -46.847141,
+              -23.4100624
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/675049267",
       "properties": {
         "timestamp": "2023-09-04T11:13:14Z",
@@ -509,6 +560,32 @@
         "coordinates": [
           -46.8469443,
           -23.4103741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9587848985",
+      "properties": {
+        "timestamp": "2024-12-04T22:41:33Z",
+        "version": 2,
+        "changeset": 159935941,
+        "addr:housenumber": "5700",
+        "addr:street": "Avenida Tenente Marques",
+        "addr:suburb": "Portais",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Unimed Polvilho",
+        "opening_hours": "Mo-Fr 08:00-18:00; Sa,Su,PH off",
+        "phone": "+55 11 2150 8810",
+        "website": "https://www.unimed.coop.br/site/web/jundiai/clinica-unimed-em-cajamar-unidade-polvilho",
+        "id": "node/9587848985"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.8643692,
+          -23.4060569
         ]
       }
     }

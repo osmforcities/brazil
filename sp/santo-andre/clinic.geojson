@@ -105,6 +105,113 @@
     },
     {
       "type": "Feature",
+      "id": "way/154516379",
+      "properties": {
+        "timestamp": "2024-12-04T01:57:20Z",
+        "version": 9,
+        "changeset": 159901962,
+        "addr:city": "Santo André",
+        "addr:housenumber": "129",
+        "addr:postcode": "09020-220",
+        "addr:street": "Rua Coronel Agenor de Camargo",
+        "addr:suburb": "Vila Assunção",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Unidade de Pronto Atendimento Perimetral",
+        "opening_hours": "24/7",
+        "operator": "Prefeitura Municipal de Santo André",
+        "operator:ref:vatin": "BR46522942000130",
+        "operator:type": "government",
+        "ref:CNES": "7113218",
+        "short_name": "UPA Perimetral",
+        "id": "way/154516379"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.5265609,
+              -23.6633667
+            ],
+            [
+              -46.5265399,
+              -23.6633845
+            ],
+            [
+              -46.5264174,
+              -23.6634881
+            ],
+            [
+              -46.5263559,
+              -23.6634259
+            ],
+            [
+              -46.5263064,
+              -23.6633758
+            ],
+            [
+              -46.5261492,
+              -23.6632168
+            ],
+            [
+              -46.526133,
+              -23.6632005
+            ],
+            [
+              -46.5261103,
+              -23.6631775
+            ],
+            [
+              -46.5259678,
+              -23.6630333
+            ],
+            [
+              -46.5258868,
+              -23.6629515
+            ],
+            [
+              -46.5259768,
+              -23.662873
+            ],
+            [
+              -46.5260252,
+              -23.6628309
+            ],
+            [
+              -46.5261781,
+              -23.6629839
+            ],
+            [
+              -46.5262405,
+              -23.6630464
+            ],
+            [
+              -46.5262692,
+              -23.6630751
+            ],
+            [
+              -46.5262915,
+              -23.6630974
+            ],
+            [
+              -46.5263661,
+              -23.663172
+            ],
+            [
+              -46.5264352,
+              -23.6632412
+            ],
+            [
+              -46.5265609,
+              -23.6633667
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/312323261",
       "properties": {
         "timestamp": "2024-10-04T02:16:05Z",
@@ -2371,6 +2478,24 @@
     },
     {
       "type": "Feature",
+      "id": "node/4363053091",
+      "properties": {
+        "timestamp": "2023-06-05T18:10:23Z",
+        "version": 4,
+        "changeset": 136984224,
+        "barrier": "gate",
+        "id": "node/4363053091"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5265399,
+          -23.6633845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/4504539869",
       "properties": {
         "timestamp": "2019-10-30T07:01:03Z",
@@ -3042,6 +3167,25 @@
         "coordinates": [
           -46.4869493,
           -23.6700874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12040257084",
+      "properties": {
+        "timestamp": "2024-07-07T17:16:48Z",
+        "version": 1,
+        "changeset": 153671393,
+        "access": "customers",
+        "entrance": "yes",
+        "id": "node/12040257084"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5259768,
+          -23.662873
         ]
       }
     },

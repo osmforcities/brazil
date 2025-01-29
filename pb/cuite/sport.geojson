@@ -899,6 +899,58 @@
     },
     {
       "type": "Feature",
+      "id": "way/952508182",
+      "properties": {
+        "timestamp": "2024-12-03T23:16:03Z",
+        "version": 5,
+        "changeset": 159899926,
+        "building": "university",
+        "building:colour": "#cea134",
+        "check_date": "2024-12-03",
+        "leisure": "sports_hall",
+        "name": "Ginásio Manuel Pereira da Silva",
+        "roof:colour": "gray",
+        "sport": "soccer;futsal",
+        "id": "way/952508182"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -36.1596936,
+              -6.4943941
+            ],
+            [
+              -36.1596749,
+              -6.4944417
+            ],
+            [
+              -36.1595521,
+              -6.4947546
+            ],
+            [
+              -36.1594374,
+              -6.4947102
+            ],
+            [
+              -36.1593283,
+              -6.4946679
+            ],
+            [
+              -36.1594697,
+              -6.4943074
+            ],
+            [
+              -36.1596936,
+              -6.4943941
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/952508186",
       "properties": {
         "timestamp": "2022-10-17T02:45:22Z",
@@ -2170,6 +2222,42 @@
         "coordinates": [
           -36.1599281,
           -6.4957993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10080649636",
+      "properties": {
+        "timestamp": "2022-10-06T20:33:41Z",
+        "version": 1,
+        "changeset": 127118378,
+        "entrance": "yes",
+        "id": "node/10080649636"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.1594374,
+          -6.4947102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10080649637",
+      "properties": {
+        "timestamp": "2022-10-06T20:33:41Z",
+        "version": 1,
+        "changeset": 127118378,
+        "entrance": "yes",
+        "id": "node/10080649637"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.1596749,
+          -6.4944417
         ]
       }
     },

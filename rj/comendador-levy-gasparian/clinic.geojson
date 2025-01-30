@@ -5,18 +5,22 @@
       "type": "Feature",
       "id": "way/728546316",
       "properties": {
-        "timestamp": "2019-09-26T11:39:24Z",
-        "version": 1,
-        "changeset": 74954847,
+        "timestamp": "2024-12-06T19:11:31Z",
+        "version": 2,
+        "changeset": 160006283,
         "addr:city": "Comendador Levy Gasparian",
+        "addr:housenumber": "68",
         "addr:postcode": "25875-000",
         "addr:street": "Rua Bernardino Franco",
         "addr:suburb": "Mont Serrat",
         "amenity": "clinic",
         "building": "yes",
         "healthcare": "clinic",
+        "healthcare:speciality": "general",
         "name": "Unidade Básica de Saude",
         "opening_hours": "Mo-Fr 08:00-16:00",
+        "operator": "Município de Comendador Levy Gasparin",
+        "operator:type": "public",
         "id": "way/728546316"
       },
       "geometry": {
@@ -24,42 +28,79 @@
         "coordinates": [
           [
             [
-              -43.3106513,
-              -22.0168795
+              -43.3106425,
+              -22.0168776
             ],
             [
-              -43.3107433,
-              -22.0168976
+              -43.3107653,
+              -22.016896
             ],
             [
-              -43.3107345,
-              -22.0169304
+              -43.3107476,
+              -22.0169972
             ],
             [
-              -43.3107557,
-              -22.0169337
+              -43.3106248,
+              -22.0169788
             ],
             [
-              -43.3107486,
-              -22.0169796
-            ],
-            [
-              -43.3107362,
-              -22.0169747
-            ],
-            [
-              -43.3106902,
-              -22.0169714
-            ],
-            [
-              -43.3106354,
-              -22.0169747
-            ],
-            [
-              -43.3106513,
-              -22.0168795
+              -43.3106425,
+              -22.0168776
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12400298445",
+      "properties": {
+        "timestamp": "2024-12-06T14:11:52Z",
+        "version": 1,
+        "changeset": 159996215,
+        "addr:city": "Comendador Levy Gasparian",
+        "addr:housenumber": "200",
+        "addr:postcode": "25870-000",
+        "addr:street": "Estrada União Indústria",
+        "addr:suburb": "Reta",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "id": "node/12400298445"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2063547,
+          -22.0569823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12400836582",
+      "properties": {
+        "timestamp": "2024-12-06T19:11:31Z",
+        "version": 1,
+        "changeset": 160006283,
+        "addr:city": "Comendador Levy Gasparian",
+        "addr:housenumber": "321",
+        "addr:postcode": "25870-000",
+        "addr:street": "Estrada União Indústria",
+        "addr:suburb": "Grotão",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Unidade Básica de Saúde Grotão",
+        "operator": "Município de Comendador Levy Gasparin",
+        "operator:type": "public",
+        "id": "node/12400836582"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.204579,
+          -22.0377972
         ]
       }
     }

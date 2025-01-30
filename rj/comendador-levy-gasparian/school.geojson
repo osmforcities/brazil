@@ -5,11 +5,18 @@
       "type": "Feature",
       "id": "way/551675010",
       "properties": {
-        "timestamp": "2018-01-08T15:00:54Z",
-        "version": 1,
-        "changeset": 55266903,
+        "timestamp": "2024-12-06T19:11:31Z",
+        "version": 2,
+        "changeset": 160006283,
+        "addr:city": "Comendador Levy Gasparian",
+        "addr:housenumber": "50",
+        "addr:postcode": "25875-000",
+        "addr:street": "Rua Bernardino Franco",
+        "addr:suburb": "Mont Serrat",
         "amenity": "school",
-        "name": "Escola Municipal Mont Serrat",
+        "name": "Escola Municipal Nossa Senhora de Mont Serrat",
+        "operator": "Município de Comendador Levy Gasparin",
+        "operator:type": "public",
         "id": "way/551675010"
       },
       "geometry": {
@@ -17,26 +24,195 @@
         "coordinates": [
           [
             [
-              -43.3106345,
-              -22.0168664
+              -43.3106452,
+              -22.0168401
             ],
             [
-              -43.3106167,
-              -22.0169795
+              -43.3106174,
+              -22.0169804
             ],
             [
-              -43.310446,
-              -22.0169548
+              -43.3104505,
+              -22.0169519
             ],
             [
-              -43.3104792,
-              -22.0168129
+              -43.3104783,
+              -22.0168117
             ],
             [
-              -43.3106345,
-              -22.0168664
+              -43.3106452,
+              -22.0168401
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1340400183",
+      "properties": {
+        "timestamp": "2024-12-06T14:11:52Z",
+        "version": 2,
+        "changeset": 159996215,
+        "addr:city": "Comendador Levy Gasparian",
+        "addr:housenumber": "88",
+        "addr:postcode": "25870-000",
+        "addr:street": "Rua Luiz Almada",
+        "addr:suburb": "Centro",
+        "amenity": "school",
+        "building": "yes",
+        "building:levels": "1",
+        "email": "escolasalathielmachado88@gmail.com",
+        "name": "Escola Municipalizada Salathiel Machado da Fonseca",
+        "operator": "Município de Comendador Levy Gasparian",
+        "operator:type": "public",
+        "source": "microsoft/BuildingFootprints",
+        "id": "way/1340400183"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.3356792,
+              -22.0137321
+            ],
+            [
+              -43.3356466,
+              -22.01351
+            ],
+            [
+              -43.3358389,
+              -22.0134857
+            ],
+            [
+              -43.3358595,
+              -22.0136261
+            ],
+            [
+              -43.3360175,
+              -22.0136062
+            ],
+            [
+              -43.3360295,
+              -22.0136879
+            ],
+            [
+              -43.3356792,
+              -22.0137321
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1340553042",
+      "properties": {
+        "timestamp": "2024-12-06T14:11:52Z",
+        "version": 1,
+        "changeset": 159996215,
+        "addr:city": "Comendador Levy Gasparian",
+        "addr:housenumber": "304",
+        "addr:postcode": "25870-000",
+        "addr:street": "Avenida Reginaldo Maia",
+        "addr:suburb": "Reta",
+        "amenity": "school",
+        "name": "Centro Integrado de Educação Pública Municipalizado Padre Joaquim Chaves de Figueiredo",
+        "operator": "Município de Levy Gasparian",
+        "operator:type": "public",
+        "id": "way/1340553042"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.2063559,
+              -22.0527468
+            ],
+            [
+              -43.206612,
+              -22.0527816
+            ],
+            [
+              -43.2073216,
+              -22.0529086
+            ],
+            [
+              -43.207326,
+              -22.0539651
+            ],
+            [
+              -43.2071051,
+              -22.0543336
+            ],
+            [
+              -43.2069505,
+              -22.054436
+            ],
+            [
+              -43.2063408,
+              -22.0543582
+            ],
+            [
+              -43.2063559,
+              -22.0527468
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12400280077",
+      "properties": {
+        "timestamp": "2024-12-06T14:11:52Z",
+        "version": 1,
+        "changeset": 159996215,
+        "addr:city": "Comendador Levy Gasparian",
+        "addr:housenumber": "197",
+        "addr:postcode": "25870-000",
+        "addr:street": "Praça Prefeito Joaquim José Ferreira",
+        "addr:suburb": "Centro",
+        "amenity": "school",
+        "name": "Colégio Estadual Coronel Antônio Peçanha",
+        "operator": "Secretaria de Educação do Estado do Rio de Janeiro",
+        "operator:type": "government",
+        "operator:wikidata": "Q56351917",
+        "id": "node/12400280077"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2049569,
+          -22.029119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12400280078",
+      "properties": {
+        "timestamp": "2024-12-06T14:11:52Z",
+        "version": 1,
+        "changeset": 159996215,
+        "addr:city": "Comendador Levy Gasparian",
+        "addr:housenumber": "187",
+        "addr:postcode": "25870-000",
+        "addr:street": "Praça Prefeito Joaquim José Ferreira",
+        "addr:suburb": "Centro",
+        "amenity": "school",
+        "name": "Escola Municipal São João Batista",
+        "operator": "Município de Comendador Levy Gasparian",
+        "operator:type": "public",
+        "id": "node/12400280078"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2050982,
+          -22.0293015
         ]
       }
     }

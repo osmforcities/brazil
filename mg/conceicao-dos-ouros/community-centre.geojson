@@ -110,6 +110,53 @@
     },
     {
       "type": "Feature",
+      "id": "way/586100293",
+      "properties": {
+        "timestamp": "2024-12-06T18:39:10Z",
+        "version": 2,
+        "changeset": 160005425,
+        "amenity": "community_centre",
+        "building": "yes",
+        "id": "way/586100293"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -45.7982327,
+              -22.4139292
+            ],
+            [
+              -45.7982229,
+              -22.4139013
+            ],
+            [
+              -45.7982187,
+              -22.4138893
+            ],
+            [
+              -45.7982044,
+              -22.4138484
+            ],
+            [
+              -45.7983736,
+              -22.4137977
+            ],
+            [
+              -45.7984019,
+              -22.4138784
+            ],
+            [
+              -45.7982327,
+              -22.4139292
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/589094209",
       "properties": {
         "timestamp": "2018-05-17T22:15:59Z",
@@ -250,6 +297,24 @@
         "coordinates": [
           -45.7981847,
           -22.4132462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12400798099",
+      "properties": {
+        "timestamp": "2024-12-06T18:39:10Z",
+        "version": 1,
+        "changeset": 160005425,
+        "entrance": "main",
+        "id": "node/12400798099"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.7982187,
+          -22.4138893
         ]
       }
     }

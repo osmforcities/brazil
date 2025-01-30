@@ -696,6 +696,73 @@
     },
     {
       "type": "Feature",
+      "id": "way/225695031",
+      "properties": {
+        "timestamp": "2024-12-06T02:34:09Z",
+        "version": 6,
+        "changeset": 159978540,
+        "addr:city": "Rio de Janeiro",
+        "addr:postcode": "20230-250",
+        "addr:street": "Rua Benedito Hipólito",
+        "alt_name:en": "Samba Land",
+        "amenity": "community_centre",
+        "barrier": "wall",
+        "name": "Terreirão do Samba",
+        "note": "Local sem número",
+        "surface": "concrete",
+        "wikipedia": "pt:Terreirão do Samba",
+        "id": "way/225695031"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.1972669,
+              -22.907562
+            ],
+            [
+              -43.1970457,
+              -22.9081667
+            ],
+            [
+              -43.1970166,
+              -22.9081582
+            ],
+            [
+              -43.1951472,
+              -22.907613
+            ],
+            [
+              -43.1952365,
+              -22.9073478
+            ],
+            [
+              -43.1953609,
+              -22.9069995
+            ],
+            [
+              -43.1956647,
+              -22.9070916
+            ],
+            [
+              -43.1968998,
+              -22.9074572
+            ],
+            [
+              -43.1971415,
+              -22.9075238
+            ],
+            [
+              -43.1972669,
+              -22.907562
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/233806576",
       "properties": {
         "timestamp": "2022-05-10T13:25:15Z",
@@ -6195,6 +6262,24 @@
         "coordinates": [
           -43.3581902,
           -22.9629127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12398956482",
+      "properties": {
+        "timestamp": "2024-12-06T02:34:09Z",
+        "version": 1,
+        "changeset": 159978540,
+        "barrier": "gate",
+        "id": "node/12398956482"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1970166,
+          -22.9081582
         ]
       }
     }

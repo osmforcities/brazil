@@ -9651,6 +9651,60 @@
     },
     {
       "type": "Feature",
+      "id": "way/622379738",
+      "properties": {
+        "timestamp": "2024-12-06T01:14:32Z",
+        "version": 3,
+        "changeset": 159977322,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "1074",
+        "addr:postcode": "08215-263",
+        "addr:street": "Rua Augusto Carlos Bauman",
+        "addr:suburb": "Itaquera",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "neonatology",
+        "name": "Hospital Municipal Professor Doutor Waldomiro de Paula",
+        "operator": "Secretaria da Saude",
+        "operator:type": "government",
+        "phone": "+55 11 3394-8990",
+        "id": "way/622379738"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.4452037,
+              -23.5309769
+            ],
+            [
+              -46.4446539,
+              -23.5317467
+            ],
+            [
+              -46.4438595,
+              -23.5312696
+            ],
+            [
+              -46.4444093,
+              -23.5304999
+            ],
+            [
+              -46.4449803,
+              -23.5308428
+            ],
+            [
+              -46.4452037,
+              -23.5309769
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/623216660",
       "properties": {
         "timestamp": "2024-06-23T21:22:15Z",
@@ -17218,6 +17272,28 @@
         "coordinates": [
           -46.6042885,
           -23.5541379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2775944189",
+      "properties": {
+        "timestamp": "2018-09-03T17:10:36Z",
+        "version": 4,
+        "changeset": 62253840,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "1074",
+        "addr:postcode": "08215-263",
+        "addr:street": "Rua Augusto Carlos Bauman",
+        "entrance": "service",
+        "id": "node/2775944189"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4449803,
+          -23.5308428
         ]
       }
     },

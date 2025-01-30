@@ -3,6 +3,73 @@
   "features": [
     {
       "type": "Feature",
+      "id": "way/639551231",
+      "properties": {
+        "timestamp": "2024-12-06T13:09:03Z",
+        "version": 3,
+        "changeset": 159993782,
+        "amenity": "college",
+        "name": "CEP Albano Franco",
+        "id": "way/639551231"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.6590156,
+              -19.5141563
+            ],
+            [
+              -40.6617113,
+              -19.5153193
+            ],
+            [
+              -40.6613519,
+              -19.5160651
+            ],
+            [
+              -40.6595387,
+              -19.515471
+            ],
+            [
+              -40.658608,
+              -19.5157719
+            ],
+            [
+              -40.6586482,
+              -19.5154811
+            ],
+            [
+              -40.6586321,
+              -19.5152687
+            ],
+            [
+              -40.6585678,
+              -19.5149654
+            ],
+            [
+              -40.6584631,
+              -19.5146114
+            ],
+            [
+              -40.6590961,
+              -19.5144269
+            ],
+            [
+              -40.6589996,
+              -19.5141765
+            ],
+            [
+              -40.6590156,
+              -19.5141563
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/965910780",
       "properties": {
         "timestamp": "2024-10-05T13:35:56Z",
@@ -293,6 +360,34 @@
               -19.5008656
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3919743558",
+      "properties": {
+        "timestamp": "2024-12-06T13:09:03Z",
+        "version": 2,
+        "changeset": 159993782,
+        "IJSN:administra": "Privada",
+        "IJSN:classeCnae": "Profissional",
+        "addr:city": "Colatina",
+        "addr:postcode": "29705-200",
+        "addr:street": "Rodovia Geter Lopes de Farias",
+        "addr:suburb": "Morada do Sol",
+        "alt_name": "Centro de Ensino Profissional",
+        "amenity": "college",
+        "contact:phone": "(27) 3722-2127 / 3721-2948",
+        "short_name": "SENAI",
+        "source": "IJSN",
+        "id": "node/3919743558"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.658939,
+          -19.5148215
         ]
       }
     },

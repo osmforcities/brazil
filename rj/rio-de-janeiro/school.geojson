@@ -6350,6 +6350,51 @@
     },
     {
       "type": "Feature",
+      "id": "way/290091173",
+      "properties": {
+        "timestamp": "2024-12-05T02:31:47Z",
+        "version": 3,
+        "changeset": 159939410,
+        "addr:city": "Rio de Janeiro",
+        "addr:housenumber": "436",
+        "addr:postcode": "22720410",
+        "addr:street": "Avenida dos Mananciais",
+        "addr:suburb": "Taquara",
+        "amenity": "school",
+        "building": "apartments",
+        "name": "Ícone Colégio e Curso",
+        "id": "way/290091173"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.3831055,
+              -22.9163987
+            ],
+            [
+              -43.3830754,
+              -22.9167382
+            ],
+            [
+              -43.3829347,
+              -22.9167276
+            ],
+            [
+              -43.3829648,
+              -22.9163881
+            ],
+            [
+              -43.3831055,
+              -22.9163987
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/290091208",
       "properties": {
         "timestamp": "2021-02-28T16:55:28Z",
@@ -6958,6 +7003,74 @@
             [
               -43.3910889,
               -22.9118038
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/290475314",
+      "properties": {
+        "timestamp": "2024-12-05T02:31:47Z",
+        "version": 3,
+        "changeset": 159939410,
+        "addr:city": "Rio de Janeiro",
+        "addr:country": "BR",
+        "addr:housenumber": "1159",
+        "addr:postcode": "22720-010",
+        "addr:street": "Estrada do Rio Grande",
+        "amenity": "school",
+        "name": "Ícone Kids",
+        "id": "way/290475314"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.3819783,
+              -22.9188249
+            ],
+            [
+              -43.3819929,
+              -22.9191037
+            ],
+            [
+              -43.3816293,
+              -22.9191035
+            ],
+            [
+              -43.3816096,
+              -22.9191007
+            ],
+            [
+              -43.381595,
+              -22.9190888
+            ],
+            [
+              -43.3815897,
+              -22.9190752
+            ],
+            [
+              -43.3816014,
+              -22.9188571
+            ],
+            [
+              -43.3816038,
+              -22.9188467
+            ],
+            [
+              -43.3816134,
+              -22.918839
+            ],
+            [
+              -43.3816244,
+              -22.9188364
+            ],
+            [
+              -43.3819783,
+              -22.9188249
             ]
           ]
         ]
@@ -67465,6 +67578,43 @@
     },
     {
       "type": "Feature",
+      "id": "node/823951828",
+      "properties": {
+        "timestamp": "2024-12-05T02:31:47Z",
+        "version": 2,
+        "changeset": 159939410,
+        "IPP:BAIRRO": "Jacarepaguá",
+        "IPP:CHAVE": "11439",
+        "IPP:CODATIVIDA": "0",
+        "IPP:CODBAIRRO": "115",
+        "IPP:COD_INEP": "33078092",
+        "IPP:COD_SMA": "011439",
+        "IPP:CRE": "07",
+        "IPP:DESIGNACAO": "0716002",
+        "IPP:ENDERECO": "Estr. do Rio Pequeno, 56",
+        "IPP:ENDNOVO": "http://webapp.sme.rio.rj.gov.br/jcartela/publico/pesquisa.do?idSetor=11439&cmd=load",
+        "IPP:FLG_VALIDA": "S",
+        "IPP:TELEFONES": "2446-4114",
+        "addr:city": "Rio de Janeiro",
+        "addr:housenumber": "656",
+        "addr:postcode": "22723195",
+        "addr:street": "Estrada do Rio Pequeno",
+        "addr:suburb": "Jacarepaguá",
+        "amenity": "school",
+        "name": "Escola Municipal Luiz Camillo",
+        "source": "IPP",
+        "id": "node/823951828"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.4215211,
+          -22.9147245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/823951833",
       "properties": {
         "timestamp": "2015-11-16T20:10:21Z",
@@ -75968,6 +76118,54 @@
         "coordinates": [
           -43.2157584,
           -22.9113912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12397025500",
+      "properties": {
+        "timestamp": "2024-12-05T02:31:47Z",
+        "version": 1,
+        "changeset": 159939410,
+        "addr:city": "Rio de Janeiro",
+        "addr:housenumber": "3443",
+        "addr:postcode": "22723006",
+        "addr:street": "Estrada do Rio Grande",
+        "addr:suburb": "Taquara",
+        "amenity": "school",
+        "name": "Escola Bambino",
+        "id": "node/12397025500"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3998122,
+          -22.9197458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12397031701",
+      "properties": {
+        "timestamp": "2024-12-05T02:31:47Z",
+        "version": 1,
+        "changeset": 159939410,
+        "addr:city": "Rio de Janeiro",
+        "addr:housenumber": "4461",
+        "addr:postcode": "22723001",
+        "addr:street": "Estrada do Rio Grande",
+        "addr:suburb": "Taquara",
+        "amenity": "school",
+        "name": "Centro Educacional Marcante Cunha",
+        "id": "node/12397031701"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.4101853,
+          -22.9187095
         ]
       }
     }

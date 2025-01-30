@@ -227,6 +227,10 @@
               -22.4166016
             ],
             [
+              -45.7977235,
+              -22.4166141
+            ],
+            [
               -45.7977046,
               -22.4166602
             ],
@@ -259,6 +263,74 @@
               -22.4164779
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1340345597",
+      "properties": {
+        "timestamp": "2024-12-05T18:18:38Z",
+        "version": 1,
+        "changeset": 159967376,
+        "addr:city": "Conceição dos Ouros",
+        "addr:postcode": "37548-000",
+        "addr:suburb": "Campo do Meio",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "UBS 5",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "operator": "Prefeitura Municipal de Conceição dos Ouros",
+        "operator:type": "public",
+        "id": "way/1340345597"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -45.7828085,
+              -22.4761957
+            ],
+            [
+              -45.7827524,
+              -22.4761461
+            ],
+            [
+              -45.7828691,
+              -22.4760334
+            ],
+            [
+              -45.7829252,
+              -22.476083
+            ],
+            [
+              -45.7828085,
+              -22.4761957
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12391503819",
+      "properties": {
+        "timestamp": "2024-12-05T16:59:38Z",
+        "version": 2,
+        "changeset": 159965059,
+        "entrance": "main",
+        "level": "0",
+        "ref": "CEMAS",
+        "id": "node/12391503819"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.7977235,
+          -22.4166141
         ]
       }
     },

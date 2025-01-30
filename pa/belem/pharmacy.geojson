@@ -668,6 +668,49 @@
     },
     {
       "type": "Feature",
+      "id": "way/1230165479",
+      "properties": {
+        "timestamp": "2024-12-05T19:12:43Z",
+        "version": 2,
+        "changeset": 159969604,
+        "amenity": "pharmacy",
+        "building": "yes",
+        "check_date": "2024-12-05",
+        "healthcare": "pharmacy",
+        "name": "UniPharm",
+        "wheelchair": "yes",
+        "id": "way/1230165479"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.4582435,
+              -1.4249028
+            ],
+            [
+              -48.458278,
+              -1.424879
+            ],
+            [
+              -48.4583069,
+              -1.4249208
+            ],
+            [
+              -48.4582723,
+              -1.4249446
+            ],
+            [
+              -48.4582435,
+              -1.4249028
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1257610927",
       "properties": {
         "timestamp": "2024-03-04T22:07:19Z",
@@ -968,6 +1011,27 @@
     },
     {
       "type": "Feature",
+      "id": "node/2793283276",
+      "properties": {
+        "timestamp": "2024-12-05T10:44:33Z",
+        "version": 2,
+        "changeset": 159951788,
+        "amenity": "pharmacy",
+        "check_date": "2024-12-05",
+        "name": "Pague Menos",
+        "wheelchair": "yes",
+        "id": "node/2793283276"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.4628892,
+          -1.4307756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/3608200643",
       "properties": {
         "timestamp": "2024-03-14T10:27:44Z",
@@ -1196,6 +1260,33 @@
     },
     {
       "type": "Feature",
+      "id": "node/4375121988",
+      "properties": {
+        "timestamp": "2024-12-05T10:44:33Z",
+        "version": 4,
+        "changeset": 159951788,
+        "amenity": "pharmacy",
+        "brand": "Extrafarma",
+        "brand:wikidata": "Q20055480",
+        "check_date": "2024-12-05",
+        "healthcare": "pharmacy",
+        "name": "Extrafarma",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "wheelchair": "yes",
+        "id": "node/4375121988"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.4644345,
+          -1.4333347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/4375122589",
       "properties": {
         "timestamp": "2024-03-14T10:27:44Z",
@@ -1213,6 +1304,33 @@
         "coordinates": [
           -48.485758,
           -1.4545892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4969124123",
+      "properties": {
+        "timestamp": "2024-12-05T10:44:33Z",
+        "version": 4,
+        "changeset": 159951788,
+        "addr:street": "Travessa Angustura",
+        "amenity": "pharmacy",
+        "brand": "Extrafarma",
+        "brand:wikidata": "Q20055480",
+        "check_date": "2024-12-05",
+        "healthcare": "pharmacy",
+        "name": "Extrafarma",
+        "name:en": "Extrafarma",
+        "name:pt": "Extrafarma",
+        "wheelchair": "yes",
+        "id": "node/4969124123"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.4623604,
+          -1.4309165
         ]
       }
     },
@@ -1827,6 +1945,55 @@
         "coordinates": [
           -48.4860082,
           -1.4454695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12394732887",
+      "properties": {
+        "timestamp": "2024-12-05T13:13:22Z",
+        "version": 2,
+        "changeset": 159956921,
+        "amenity": "pharmacy",
+        "check_date": "2024-12-05",
+        "contact:phone": "+55 91 98085-2456",
+        "healthcare": "pharmacy",
+        "level": "0",
+        "name": "Farma Norte",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "id": "node/12394732887"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.4482734,
+          -1.4298964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12397584086",
+      "properties": {
+        "timestamp": "2024-12-05T11:56:46Z",
+        "version": 1,
+        "changeset": 159954205,
+        "amenity": "pharmacy",
+        "check_date": "2024-12-05",
+        "contact:phone": "+55 91 99147-7152",
+        "healthcare": "pharmacy",
+        "level": "0",
+        "name": "Farma Bairro",
+        "id": "node/12397584086"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.4491797,
+          -1.430505
         ]
       }
     }

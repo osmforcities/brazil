@@ -894,6 +894,110 @@
     },
     {
       "type": "Feature",
+      "id": "way/541208892",
+      "properties": {
+        "timestamp": "2024-12-05T01:34:04Z",
+        "version": 3,
+        "changeset": 159938663,
+        "addr:city": "Rio de Janeiro",
+        "addr:country": "BR",
+        "addr:housenumber": "175",
+        "addr:state": "RJ",
+        "addr:street": "Rua Júlio Carmo",
+        "addr:suburb": "Cidade Nova",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Rio Farmes",
+        "official_name": "Farmácia Estadual de Medicamentos Especiais",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "operator": "Secretaria de Estado de Saúde - SES - RJ",
+        "phone": "+55 21 2333-3896",
+        "website": "https://www.rj.gov.br/web/ses/exibeconteudo?article-id=165724",
+        "wheelchair": "yes",
+        "id": "way/541208892"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.199589,
+              -22.9098223
+            ],
+            [
+              -43.199486,
+              -22.9100858
+            ],
+            [
+              -43.1994955,
+              -22.9100962
+            ],
+            [
+              -43.1995454,
+              -22.9101126
+            ],
+            [
+              -43.199448,
+              -22.9103567
+            ],
+            [
+              -43.1993351,
+              -22.9103184
+            ],
+            [
+              -43.1992567,
+              -22.9103097
+            ],
+            [
+              -43.1991759,
+              -22.9103064
+            ],
+            [
+              -43.1991497,
+              -22.9106238
+            ],
+            [
+              -43.1989405,
+              -22.9106107
+            ],
+            [
+              -43.1989738,
+              -22.9102166
+            ],
+            [
+              -43.199013,
+              -22.9102199
+            ],
+            [
+              -43.1990353,
+              -22.9101604
+            ],
+            [
+              -43.1990736,
+              -22.9100585
+            ],
+            [
+              -43.1989282,
+              -22.9100329
+            ],
+            [
+              -43.1989718,
+              -22.9096191
+            ],
+            [
+              -43.1992182,
+              -22.909705
+            ],
+            [
+              -43.199589,
+              -22.9098223
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/546213588",
       "properties": {
         "timestamp": "2017-12-11T23:40:40Z",
@@ -8692,6 +8796,24 @@
     },
     {
       "type": "Feature",
+      "id": "node/5233879847",
+      "properties": {
+        "timestamp": "2017-11-17T01:18:46Z",
+        "version": 1,
+        "changeset": 53861636,
+        "entrance": "main",
+        "id": "node/5233879847"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1992182,
+          -22.909705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/5254311563",
       "properties": {
         "timestamp": "2017-11-29T16:30:29Z",
@@ -11864,6 +11986,31 @@
         "coordinates": [
           -43.1761403,
           -22.9338995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12397025499",
+      "properties": {
+        "timestamp": "2024-12-05T02:31:47Z",
+        "version": 1,
+        "changeset": 159939410,
+        "addr:city": "Rio de Janeiro",
+        "addr:housenumber": "4000",
+        "addr:postcode": "22723002",
+        "addr:street": "Estrada do Rio Grande",
+        "addr:suburb": "Taquara",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Drogarias Conceito",
+        "id": "node/12397025499"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.4055153,
+          -22.9185279
         ]
       }
     }

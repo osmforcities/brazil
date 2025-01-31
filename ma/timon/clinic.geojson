@@ -217,6 +217,69 @@
     },
     {
       "type": "Feature",
+      "id": "way/809482783",
+      "properties": {
+        "timestamp": "2024-12-07T18:54:03Z",
+        "version": 3,
+        "changeset": 160036604,
+        "addr:city": "Timon",
+        "addr:street": "Avenida Francisco Vitorino da Assunção",
+        "addr:suburb": "Parque Piauí",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Policlínica",
+        "nohousenumber": "yes",
+        "operator": "Pefreitura de Timon",
+        "id": "way/809482783"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.8388402,
+              -5.0952034
+            ],
+            [
+              -42.8386679,
+              -5.0951175
+            ],
+            [
+              -42.8386605,
+              -5.0951321
+            ],
+            [
+              -42.8385548,
+              -5.0950794
+            ],
+            [
+              -42.8386348,
+              -5.0949202
+            ],
+            [
+              -42.8389006,
+              -5.0950528
+            ],
+            [
+              -42.8388656,
+              -5.0951225
+            ],
+            [
+              -42.8388629,
+              -5.0951583
+            ],
+            [
+              -42.8388402,
+              -5.0952034
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/889740740",
       "properties": {
         "timestamp": "2021-08-03T23:19:23Z",
@@ -282,6 +345,55 @@
         "coordinates": [
           -42.8391273,
           -5.0959727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7172777579",
+      "properties": {
+        "timestamp": "2024-12-07T22:32:54Z",
+        "version": 3,
+        "changeset": 160041605,
+        "addr:city": "Timon",
+        "addr:street": "Rua Antônio Marques",
+        "addr:suburb": "Parque Piauí",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Clinica Timonense",
+        "nohousenumber": "yes",
+        "id": "node/7172777579"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.8339867,
+          -5.0937354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7177767973",
+      "properties": {
+        "timestamp": "2024-12-07T22:32:54Z",
+        "version": 5,
+        "changeset": 160041605,
+        "addr:city": "Timon",
+        "addr:postcode": "65631-200",
+        "addr:street": "Avenida Teresina",
+        "addr:suburb": "Parque Piauí I",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Clínica VisoMed",
+        "nohousenumber": "yes",
+        "id": "node/7177767973"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.832502,
+          -5.0925533
         ]
       }
     },

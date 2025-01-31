@@ -145,6 +145,54 @@
     },
     {
       "type": "Feature",
+      "id": "way/1339896522",
+      "properties": {
+        "timestamp": "2024-12-07T01:02:32Z",
+        "version": 2,
+        "changeset": 160013020,
+        "amenity": "community_centre",
+        "building": "yes",
+        "name": "Sociedade de Melhoramentos e Associação de Moradores Sede do Ilhéu Alto",
+        "id": "way/1339896522"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.3783506,
+              -23.9358741
+            ],
+            [
+              -46.3784667,
+              -23.9359898
+            ],
+            [
+              -46.3784841,
+              -23.9360634
+            ],
+            [
+              -46.3784153,
+              -23.93613
+            ],
+            [
+              -46.3782329,
+              -23.9360168
+            ],
+            [
+              -46.3783035,
+              -23.9359312
+            ],
+            [
+              -46.3783506,
+              -23.9358741
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/3329984405",
       "properties": {
         "timestamp": "2015-02-04T14:24:47Z",
@@ -159,6 +207,27 @@
         "coordinates": [
           -46.3024436,
           -23.9661622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12401237145",
+      "properties": {
+        "timestamp": "2024-12-07T01:02:32Z",
+        "version": 1,
+        "changeset": 160013020,
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "no",
+        "id": "node/12401237145"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.3783035,
+          -23.9359312
         ]
       }
     }

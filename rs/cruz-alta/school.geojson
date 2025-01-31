@@ -283,6 +283,51 @@
     },
     {
       "type": "Feature",
+      "id": "way/462678296",
+      "properties": {
+        "timestamp": "2024-12-07T17:20:57Z",
+        "version": 2,
+        "changeset": 160034274,
+        "addr:street": "Rua Sao Paulo",
+        "amenity": "school",
+        "name": "E. E. Hildebrando Westphalen",
+        "nohousenumber": "yes",
+        "id": "way/462678296"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -53.5865196,
+              -28.6525222
+            ],
+            [
+              -53.5865036,
+              -28.6529779
+            ],
+            [
+              -53.5859789,
+              -28.6534477
+            ],
+            [
+              -53.5849204,
+              -28.6526912
+            ],
+            [
+              -53.585208,
+              -28.6523906
+            ],
+            [
+              -53.5865196,
+              -28.6525222
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/464830393",
       "properties": {
         "timestamp": "2017-01-09T23:49:45Z",
@@ -856,6 +901,28 @@
         "coordinates": [
           -53.621087,
           -28.6469069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5063233251",
+      "properties": {
+        "timestamp": "2024-12-07T20:43:35Z",
+        "version": 3,
+        "changeset": 160039252,
+        "addr:street": "Rua Coroados",
+        "amenity": "school",
+        "name": "E.M.E.F. Gabriel Annes da Silva",
+        "nohousenumber": "yes",
+        "phone": "+55 55 3324-6003",
+        "id": "node/5063233251"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.6295173,
+          -28.6490784
         ]
       }
     },

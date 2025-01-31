@@ -1125,6 +1125,60 @@
     },
     {
       "type": "Feature",
+      "id": "way/925605500",
+      "properties": {
+        "timestamp": "2024-12-07T22:16:31Z",
+        "version": 3,
+        "changeset": 160041296,
+        "addr:city": "Ourinhos",
+        "addr:postcode": "19904-260",
+        "addr:street": "Rua Rafael Noschese",
+        "addr:suburb": "Jardim Itamaraty",
+        "fee": "no",
+        "leisure": "sports_centre",
+        "name": "Quadrinha do Jardim Itamaraty",
+        "nohousenumber": "yes",
+        "sport": "soccer;basketball",
+        "id": "way/925605500"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.8805603,
+              -23.0120756
+            ],
+            [
+              -49.8805495,
+              -23.0121282
+            ],
+            [
+              -49.8803899,
+              -23.012903
+            ],
+            [
+              -49.8800303,
+              -23.0126086
+            ],
+            [
+              -49.8798692,
+              -23.0124861
+            ],
+            [
+              -49.8801027,
+              -23.0123571
+            ],
+            [
+              -49.8805603,
+              -23.0120756
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/926733694",
       "properties": {
         "timestamp": "2021-04-06T13:21:20Z",
@@ -2292,6 +2346,26 @@
             -49.848649,
             -22.9705484
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5177408739",
+      "properties": {
+        "timestamp": "2023-04-19T17:43:47Z",
+        "version": 2,
+        "changeset": 135114590,
+        "denotation": "urban",
+        "leaf_type": "broadleaved",
+        "natural": "tree",
+        "id": "node/5177408739"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.8805495,
+          -23.0121282
         ]
       }
     }

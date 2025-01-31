@@ -3,6 +3,95 @@
   "features": [
     {
       "type": "Feature",
+      "id": "way/451222070",
+      "properties": {
+        "timestamp": "2024-12-07T16:40:39Z",
+        "version": 6,
+        "changeset": 160033113,
+        "addr:city": "Guarulhos",
+        "addr:housenumber": "115",
+        "addr:postcode": "07032-000",
+        "addr:street": "Rua Cabo João Teruel Fregoni",
+        "amenity": "social_facility",
+        "barrier": "wall",
+        "layer": "-1",
+        "name": "Lar Madre Regina",
+        "phone": "+55 11 2422 0017",
+        "social_facility": "nursing_home",
+        "social_facility:for": "senior",
+        "website": "http://www.acsc.org.br/",
+        "id": "way/451222070"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.5552394,
+              -23.5025174
+            ],
+            [
+              -46.5551643,
+              -23.5028642
+            ],
+            [
+              -46.5549194,
+              -23.5032381
+            ],
+            [
+              -46.5543677,
+              -23.5029023
+            ],
+            [
+              -46.5538822,
+              -23.5024928
+            ],
+            [
+              -46.5536354,
+              -23.5022862
+            ],
+            [
+              -46.5538299,
+              -23.5020402
+            ],
+            [
+              -46.5544079,
+              -23.5016639
+            ],
+            [
+              -46.554708,
+              -23.5014763
+            ],
+            [
+              -46.5545697,
+              -23.5010788
+            ],
+            [
+              -46.5547586,
+              -23.5010452
+            ],
+            [
+              -46.5550959,
+              -23.5017475
+            ],
+            [
+              -46.5553768,
+              -23.5016946
+            ],
+            [
+              -46.5553355,
+              -23.5019419
+            ],
+            [
+              -46.5552394,
+              -23.5025174
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1167112627",
       "properties": {
         "timestamp": "2023-04-28T13:52:18Z",
@@ -117,6 +206,31 @@
         "coordinates": [
           -46.5083028,
           -23.4367194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8699399148",
+      "properties": {
+        "timestamp": "2021-08-25T15:43:25Z",
+        "version": 2,
+        "changeset": 110240434,
+        "addr:city": "Guarulhos",
+        "addr:housenumber": "125",
+        "addr:postcode": "07032-000",
+        "addr:street": "Rua Cabo João Teruel Fregoni",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "no",
+        "id": "node/8699399148"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5553355,
+          -23.5019419
         ]
       }
     }

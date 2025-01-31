@@ -14805,6 +14805,51 @@
     },
     {
       "type": "Feature",
+      "id": "way/888747555",
+      "properties": {
+        "timestamp": "2024-12-07T18:54:03Z",
+        "version": 3,
+        "changeset": 160036604,
+        "addr:city": "Teresina",
+        "addr:street": "Rua 5",
+        "addr:suburb": "Pedra Mole",
+        "amenity": "school",
+        "grades": "10-12",
+        "name": "CETI Residencial Pedra Mole",
+        "nohousenumber": "yes",
+        "opening_hours": "Mo-Fr 08:00-21:00, 12:00-13:00, 17:00-18:00",
+        "id": "way/888747555"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.7816483,
+              -5.0156222
+            ],
+            [
+              -42.7810411,
+              -5.0160286
+            ],
+            [
+              -42.7806679,
+              -5.0154751
+            ],
+            [
+              -42.7812753,
+              -5.0150689
+            ],
+            [
+              -42.7816483,
+              -5.0156222
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/888747563",
       "properties": {
         "timestamp": "2020-12-26T22:26:42Z",
@@ -20564,6 +20609,30 @@
         "coordinates": [
           -42.8139543,
           -5.0987829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6566811030",
+      "properties": {
+        "timestamp": "2024-12-07T22:32:54Z",
+        "version": 4,
+        "changeset": 160041605,
+        "addr:city": "Teresina",
+        "addr:postcode": "64018-640",
+        "addr:street": "Avenida Miguel Rosa",
+        "addr:suburb": "Piçarra",
+        "amenity": "school",
+        "name": "Escola Estadual Godofredo Freire",
+        "nohousenumber": "yes",
+        "id": "node/6566811030"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.8023707,
+          -5.0957327
         ]
       }
     },

@@ -3,6 +3,55 @@
   "features": [
     {
       "type": "Feature",
+      "id": "way/681418444",
+      "properties": {
+        "timestamp": "2024-12-07T17:50:46Z",
+        "version": 2,
+        "changeset": 160035099,
+        "addr:city": "Guarantã do Norte",
+        "addr:postcode": "78520-000",
+        "addr:street": "Avenida Senador Jonas Pinheiro",
+        "addr:suburb": "Centro",
+        "leisure": "stadium",
+        "name": "Ginásio de Esportes Senador Carlos Bezerra",
+        "nohousenumber": "yes",
+        "sport": "soccer;basketball;volleyball",
+        "id": "way/681418444"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -54.9132988,
+              -9.9503761
+            ],
+            [
+              -54.9133669,
+              -9.9505522
+            ],
+            [
+              -54.9133542,
+              -9.9506906
+            ],
+            [
+              -54.9129326,
+              -9.9507409
+            ],
+            [
+              -54.9129071,
+              -9.950439
+            ],
+            [
+              -54.9132988,
+              -9.9503761
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/681418454",
       "properties": {
         "timestamp": "2019-04-03T16:30:06Z",
@@ -98,6 +147,31 @@
               -9.9477399
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6381245726",
+      "properties": {
+        "timestamp": "2024-12-07T22:08:41Z",
+        "version": 2,
+        "changeset": 160041122,
+        "addr:city": "Guarantã do Norte",
+        "addr:postcode": "78520-000",
+        "addr:street": "Avenida Senador Jonas Pinheiro",
+        "addr:suburb": "Centro",
+        "leisure": "stadium",
+        "name": "Ginásio de Esportes Senador Carlos Bezerra",
+        "nohousenumber": "yes",
+        "sport": "soccer;basketball;volleyball",
+        "id": "node/6381245726"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.9131711,
+          -9.9505103
         ]
       }
     },

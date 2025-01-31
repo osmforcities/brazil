@@ -3,6 +3,167 @@
   "features": [
     {
       "type": "Feature",
+      "id": "relation/6503903",
+      "properties": {
+        "timestamp": "2024-12-07T16:42:59Z",
+        "version": 21,
+        "changeset": 160033189,
+        "addr:housenumber": "2700",
+        "addr:street": "Avenida 21 de Janeiro",
+        "addr:suburb": "Centro",
+        "alt_name": "Parque Municipal de Eventos Festa Pomerana",
+        "amenity": "community_centre",
+        "contact:phone": "+55 47 3387-5311",
+        "landuse": "recreation_ground",
+        "name": "Pavilhão de Eventos Prefeito Eugênio Zimmer",
+        "old_name": "Complexo de Esporte e Lazer Francisco Canola Teixeira",
+        "source:name": "Lei nº 3179, de 06 de março de 2023",
+        "type": "multipolygon",
+        "wheelchair": "yes",
+        "id": "relation/6503903"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.1779337,
+              -26.7479398
+            ],
+            [
+              -49.1778948,
+              -26.7479111
+            ],
+            [
+              -49.1778465,
+              -26.7478883
+            ],
+            [
+              -49.1777902,
+              -26.7478775
+            ],
+            [
+              -49.1776373,
+              -26.7478715
+            ],
+            [
+              -49.1759287,
+              -26.7478716
+            ],
+            [
+              -49.1757557,
+              -26.7478716
+            ],
+            [
+              -49.1758123,
+              -26.7476492
+            ],
+            [
+              -49.1758762,
+              -26.7473985
+            ],
+            [
+              -49.1759681,
+              -26.7470378
+            ],
+            [
+              -49.1760122,
+              -26.7468646
+            ],
+            [
+              -49.1761164,
+              -26.7464836
+            ],
+            [
+              -49.1761387,
+              -26.7464837
+            ],
+            [
+              -49.1761473,
+              -26.7464837
+            ],
+            [
+              -49.1765564,
+              -26.7464851
+            ],
+            [
+              -49.1765555,
+              -26.7462383
+            ],
+            [
+              -49.176707,
+              -26.7462391
+            ],
+            [
+              -49.1797332,
+              -26.7462549
+            ],
+            [
+              -49.1797349,
+              -26.7460365
+            ],
+            [
+              -49.1800326,
+              -26.7460365
+            ],
+            [
+              -49.1803636,
+              -26.7460467
+            ],
+            [
+              -49.1804742,
+              -26.746079
+            ],
+            [
+              -49.1805584,
+              -26.7461395
+            ],
+            [
+              -49.1805982,
+              -26.7462203
+            ],
+            [
+              -49.180654,
+              -26.74637
+            ],
+            [
+              -49.1806997,
+              -26.7465089
+            ],
+            [
+              -49.1807343,
+              -26.7471509
+            ],
+            [
+              -49.1803857,
+              -26.7475457
+            ],
+            [
+              -49.1800389,
+              -26.7478429
+            ],
+            [
+              -49.1800367,
+              -26.7490293
+            ],
+            [
+              -49.1795077,
+              -26.749025
+            ],
+            [
+              -49.1795072,
+              -26.7493409
+            ],
+            [
+              -49.1786483,
+              -26.7493356
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "relation/7817864",
       "properties": {
         "timestamp": "2019-09-22T23:49:10Z",
@@ -494,6 +655,144 @@
     },
     {
       "type": "Feature",
+      "id": "way/439638046",
+      "properties": {
+        "timestamp": "2023-06-19T02:40:09Z",
+        "version": 2,
+        "changeset": 137497737,
+        "barrier": "fence",
+        "fence_type": "chain_link",
+        "id": "way/439638046"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -49.1786483,
+            -26.7493356
+          ],
+          [
+            -49.1795072,
+            -26.7493409
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439823603",
+      "properties": {
+        "timestamp": "2016-08-30T01:16:23Z",
+        "version": 1,
+        "changeset": 41791314,
+        "barrier": "fence",
+        "fence_type": "chain_link",
+        "id": "way/439823603"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -49.1779337,
+            -26.7479398
+          ],
+          [
+            -49.1778948,
+            -26.7479111
+          ],
+          [
+            -49.1778465,
+            -26.7478883
+          ],
+          [
+            -49.1777902,
+            -26.7478775
+          ],
+          [
+            -49.1776373,
+            -26.7478715
+          ],
+          [
+            -49.1759287,
+            -26.7478716
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439823610",
+      "properties": {
+        "timestamp": "2024-06-30T01:26:21Z",
+        "version": 3,
+        "changeset": 153352491,
+        "barrier": "wall",
+        "id": "way/439823610"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -49.1795072,
+            -26.7493409
+          ],
+          [
+            -49.1795077,
+            -26.749025
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/445119652",
+      "properties": {
+        "timestamp": "2016-10-04T02:59:16Z",
+        "version": 4,
+        "changeset": 42619095,
+        "barrier": "wall",
+        "id": "way/445119652"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -49.1761387,
+            -26.7464837
+          ],
+          [
+            -49.1761473,
+            -26.7464837
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/445604555",
+      "properties": {
+        "timestamp": "2017-02-12T02:16:35Z",
+        "version": 2,
+        "changeset": 46010692,
+        "barrier": "wall",
+        "id": "way/445604555"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -49.1761473,
+            -26.7464837
+          ],
+          [
+            -49.1765564,
+            -26.7464851
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/562011255",
       "properties": {
         "timestamp": "2018-02-17T14:46:55Z",
@@ -656,6 +955,24 @@
         "coordinates": [
           -49.1520503,
           -26.7736265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10986175063",
+      "properties": {
+        "timestamp": "2023-06-19T02:40:09Z",
+        "version": 1,
+        "changeset": 137497737,
+        "barrier": "gate",
+        "id": "node/10986175063"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.1786483,
+          -26.7493356
         ]
       }
     },

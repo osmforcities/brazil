@@ -3,6 +3,56 @@
   "features": [
     {
       "type": "Feature",
+      "id": "way/339587782",
+      "properties": {
+        "timestamp": "2024-12-10T23:55:07Z",
+        "version": 3,
+        "changeset": 160147954,
+        "amenity": "pharmacy",
+        "building": "yes",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Preço Popular (Desativada)",
+        "id": "way/339587782"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.1829618,
+              -29.1754864
+            ],
+            [
+              -51.1828985,
+              -29.1755526
+            ],
+            [
+              -51.1827967,
+              -29.1754783
+            ],
+            [
+              -51.1828874,
+              -29.1753834
+            ],
+            [
+              -51.1829209,
+              -29.1754078
+            ],
+            [
+              -51.1828934,
+              -29.1754366
+            ],
+            [
+              -51.1829618,
+              -29.1754864
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/714789394",
       "properties": {
         "timestamp": "2019-08-17T16:22:35Z",
@@ -692,6 +742,30 @@
         "coordinates": [
           -51.1624306,
           -29.1686899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5852587445",
+      "properties": {
+        "timestamp": "2024-12-10T23:58:27Z",
+        "version": 3,
+        "changeset": 160147991,
+        "amenity": "pharmacy",
+        "brand": "Panvel",
+        "brand:wikidata": "Q10344254",
+        "brand:wikipedia": "pt:Panvel",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Panvel",
+        "id": "node/5852587445"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1828321,
+          -29.1741856
         ]
       }
     },

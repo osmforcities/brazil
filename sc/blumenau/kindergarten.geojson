@@ -3,6 +3,101 @@
   "features": [
     {
       "type": "Feature",
+      "id": "relation/6159310",
+      "properties": {
+        "timestamp": "2021-12-13T20:45:08Z",
+        "version": 5,
+        "changeset": 114897310,
+        "access": "yes",
+        "addr:housenumber": "151",
+        "addr:street": "Rua Catharina Braun",
+        "alt_name": "Centro de Educação Infantil Erica Braun",
+        "amenity": "kindergarten",
+        "building": "kindergarten",
+        "name": "Creche Erica Braun",
+        "official_name": "Centro de Educação Infantil Erica Braun",
+        "operator": "Prefeitura Municipal de Blumenau",
+        "operator:type": "public",
+        "short_name": "CEI Erica Braun",
+        "type": "multipolygon",
+        "id": "relation/6159310"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.1033971,
+              -26.9105578
+            ],
+            [
+              -49.1033639,
+              -26.9106349
+            ],
+            [
+              -49.1032148,
+              -26.9105838
+            ],
+            [
+              -49.1031523,
+              -26.910729
+            ],
+            [
+              -49.10303,
+              -26.9106871
+            ],
+            [
+              -49.103047,
+              -26.9106477
+            ],
+            [
+              -49.1028371,
+              -26.9105758
+            ],
+            [
+              -49.102874,
+              -26.9104901
+            ],
+            [
+              -49.1028327,
+              -26.9104759
+            ],
+            [
+              -49.1028745,
+              -26.9103788
+            ],
+            [
+              -49.1033971,
+              -26.9105578
+            ]
+          ],
+          [
+            [
+              -49.1030953,
+              -26.9105474
+            ],
+            [
+              -49.1029777,
+              -26.9105096
+            ],
+            [
+              -49.1029619,
+              -26.9105485
+            ],
+            [
+              -49.1030795,
+              -26.9105864
+            ],
+            [
+              -49.1030953,
+              -26.9105474
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/285453210",
       "properties": {
         "timestamp": "2022-07-04T13:52:47Z",
@@ -1764,6 +1859,57 @@
             [
               -49.1043181,
               -26.8535464
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/581736486",
+      "properties": {
+        "timestamp": "2018-10-17T02:58:57Z",
+        "version": 2,
+        "changeset": 63596308,
+        "addr:housenumber": "51",
+        "addr:postcode": "89036-130",
+        "addr:street": "Rua Ewaldo Brueckheimer",
+        "amenity": "kindergarten",
+        "building": "kindergarten",
+        "name": "Anjo Protetor",
+        "id": "way/581736486"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.0852919,
+              -26.9182667
+            ],
+            [
+              -49.085178,
+              -26.9184298
+            ],
+            [
+              -49.0850333,
+              -26.9183496
+            ],
+            [
+              -49.0851078,
+              -26.9182428
+            ],
+            [
+              -49.0851515,
+              -26.9182671
+            ],
+            [
+              -49.0851909,
+              -26.9182107
+            ],
+            [
+              -49.0852919,
+              -26.9182667
             ]
           ]
         ]

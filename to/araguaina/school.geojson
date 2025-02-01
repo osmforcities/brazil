@@ -108,6 +108,121 @@
     },
     {
       "type": "Feature",
+      "id": "relation/13892887",
+      "properties": {
+        "timestamp": "2024-12-10T20:11:05Z",
+        "version": 2,
+        "changeset": 160142909,
+        "addr:city": "Araguaína",
+        "addr:postcode": "77814-360",
+        "addr:street": "Rua 19 quadra 03 lote 23",
+        "addr:suburb": "Loteamento Monte Sinai",
+        "amenity": "school",
+        "fee": "no",
+        "grades": "0-9",
+        "inep": "17055288",
+        "name": "Centro Educacional Infantil Professora Lusineide dos Santos Nascimento",
+        "nohousenumber": "yes",
+        "operator": "Secretaria da Educação do Estado do Tocantins",
+        "operator:type": "public",
+        "phone": "+55 63 3411-5609",
+        "type": "multipolygon",
+        "wheelchair": "yes",
+        "zone": "Urbana",
+        "id": "relation/13892887"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.2555384,
+              -7.2305369
+            ],
+            [
+              -48.256145,
+              -7.2303398
+            ],
+            [
+              -48.2561867,
+              -7.23037
+            ],
+            [
+              -48.2563117,
+              -7.2307932
+            ],
+            [
+              -48.2562652,
+              -7.2308537
+            ],
+            [
+              -48.2557033,
+              -7.2310362
+            ],
+            [
+              -48.2555384,
+              -7.2305369
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/13892888",
+      "properties": {
+        "timestamp": "2024-12-10T20:11:05Z",
+        "version": 2,
+        "changeset": 160142909,
+        "addr:city": "Araguaína",
+        "addr:postcode": "77814-360",
+        "addr:street": "Avenida Brasil Qd 21",
+        "addr:suburb": "Loteamento Monte Sinai",
+        "amenity": "school",
+        "fee": "no",
+        "grades": "1-9",
+        "inep": "17056330",
+        "internet_access": "yes",
+        "name": "Escola Municipal José Gomes Sobrinho",
+        "nohousenumber": "yes",
+        "operator": "Secretaria da Educação do Estado do Tocantins",
+        "operator:type": "public",
+        "phone": "+55 63 3413-2347",
+        "type": "multipolygon",
+        "wheelchair": "yes",
+        "zone": "Urbana",
+        "id": "relation/13892888"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.2555384,
+              -7.2305369
+            ],
+            [
+              -48.2557033,
+              -7.2310362
+            ],
+            [
+              -48.2550904,
+              -7.2312167
+            ],
+            [
+              -48.2549418,
+              -7.2307247
+            ],
+            [
+              -48.2555384,
+              -7.2305369
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "relation/13892890",
       "properties": {
         "timestamp": "2022-03-05T14:53:24Z",
@@ -4276,6 +4391,38 @@
     },
     {
       "type": "Feature",
+      "id": "node/9064856327",
+      "properties": {
+        "timestamp": "2024-12-10T20:11:05Z",
+        "version": 3,
+        "changeset": 160142909,
+        "addr:city": "Araguaína",
+        "addr:postcode": "77838-200",
+        "addr:street": "Rua Juscelino Kubitschek",
+        "addr:suburb": "Setor Ponte",
+        "amenity": "school",
+        "fee": "no",
+        "grades": "0-9",
+        "inep": "17048230",
+        "name": "Centro Educacional Infantil Municipal Otaerson Sousa Lima",
+        "nohousenumber": "yes",
+        "operator": "Secretaria da Educação do Estado do Tocantins",
+        "operator:type": "public",
+        "phone": "+55 63 3411-1457",
+        "wheelchair": "yes",
+        "zone": "Urbana",
+        "id": "node/9064856327"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.2759764,
+          -7.2815072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/9068730053",
       "properties": {
         "timestamp": "2021-09-12T01:40:56Z",
@@ -4304,6 +4451,104 @@
         "coordinates": [
           -48.2082976,
           -7.1973483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9068802152",
+      "properties": {
+        "timestamp": "2024-12-10T20:11:05Z",
+        "version": 4,
+        "changeset": 160142909,
+        "addr:city": "Araguaína",
+        "addr:postcode": "77807-130",
+        "addr:street": "Rua Gonçalves Lêdo",
+        "addr:suburb": "Bairro São Joâo",
+        "amenity": "school",
+        "fee": "no",
+        "grades": "1-12",
+        "inep": "17004977",
+        "internet_access": "yes",
+        "name": "Colégio Estadual Adolfo Bezerra de Menezes",
+        "nohousenumber": "yes",
+        "operator": "Secretaria da Educação do Estado do Tocantins",
+        "operator:type": "public",
+        "phone": "+55 63 3412-3681",
+        "wheelchair": "yes",
+        "zone": "Urbana",
+        "id": "node/9068802152"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.19424,
+          -7.1911888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9068869757",
+      "properties": {
+        "timestamp": "2024-12-10T20:11:05Z",
+        "version": 4,
+        "changeset": 160142909,
+        "addr:city": "Araguaína",
+        "addr:postcode": "77817-290",
+        "addr:street": "Rua Santa Bárbara quadra 44 lote 11",
+        "addr:suburb": "Loteamento São Miguel",
+        "amenity": "school",
+        "fee": "no",
+        "grades": "1-9",
+        "inep": "17040027",
+        "internet_access": "yes",
+        "name": "Colégio Estadual Assistência Pentecostal de Araguaína-ASPA",
+        "nohousenumber": "yes",
+        "operator": "Secretaria da Educação do Estado do Tocantins",
+        "operator:type": "public",
+        "phone": "+55 63 3413-1830",
+        "wheelchair": "yes",
+        "zone": "Urbana",
+        "id": "node/9068869757"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.2275212,
+          -7.1971246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9068960913",
+      "properties": {
+        "timestamp": "2024-12-10T20:11:05Z",
+        "version": 3,
+        "changeset": 160142909,
+        "addr:city": "Araguaína",
+        "addr:postcode": "77838-200",
+        "addr:street": "Rua Pau Brasil",
+        "addr:suburb": "Setor Ponte",
+        "amenity": "school",
+        "fee": "no",
+        "grades": "1-9",
+        "inep": "17005620",
+        "name": "Escola Municipal Cabo Luzimar Machado",
+        "nohousenumber": "yes",
+        "operator": "Secretaria da Educação do Estado do Tocantins",
+        "operator:type": "public",
+        "phone": "+55 63 3414-2109",
+        "wheelchair": "yes",
+        "zone": "Urbana",
+        "id": "node/9068960913"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.2750585,
+          -7.2802421
         ]
       }
     },
@@ -4406,6 +4651,39 @@
     },
     {
       "type": "Feature",
+      "id": "node/9075010563",
+      "properties": {
+        "timestamp": "2024-12-10T20:11:05Z",
+        "version": 3,
+        "changeset": 160142909,
+        "addr:city": "Araguaína",
+        "addr:postcode": "77824-170",
+        "addr:street": "Rua N",
+        "addr:suburb": "Loteamento São Luiz",
+        "amenity": "school",
+        "fee": "no",
+        "grades": "0-9",
+        "inep": "17005140",
+        "internet_access": "yes",
+        "name": "Centro Educacional Infantil Municipal Antônio Raimundo Costa",
+        "nohousenumber": "yes",
+        "operator": "Secretaria da Educação do Estado do Tocantins",
+        "operator:type": "public",
+        "phone": "+55 63 3415-3297",
+        "wheelchair": "yes",
+        "zone": "Urbana",
+        "id": "node/9075010563"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.2052863,
+          -7.1754717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/9078116264",
       "properties": {
         "timestamp": "2021-09-09T23:18:11Z",
@@ -4434,6 +4712,38 @@
         "coordinates": [
           -48.2115054,
           -7.1985121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9087798514",
+      "properties": {
+        "timestamp": "2024-12-10T20:11:05Z",
+        "version": 3,
+        "changeset": 160142909,
+        "addr:city": "Araguaína",
+        "addr:postcode": "77825-530",
+        "addr:street": "Rua Perimetral quadra 29",
+        "addr:suburb": "Loteamento Maracanã",
+        "amenity": "school",
+        "fee": "yes",
+        "grades": "0-9",
+        "inep": "17053692",
+        "name": "Educandário Espirita Francisco Thiesen",
+        "nohousenumber": "yes",
+        "operator": "Secretária da Educação do Estado do Tocantins",
+        "operator:type": "private",
+        "phone": "+55 63 99222-7033",
+        "wheelchair": "yes",
+        "zone": "Urbana",
+        "id": "node/9087798514"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.1922767,
+          -7.1542134
         ]
       }
     },
@@ -4568,6 +4878,69 @@
     },
     {
       "type": "Feature",
+      "id": "node/9092785892",
+      "properties": {
+        "timestamp": "2024-12-10T20:11:05Z",
+        "version": 3,
+        "changeset": 160142909,
+        "addr:city": "Araguaína",
+        "addr:postcode": "77824-572",
+        "addr:street": "Avenida Neblina",
+        "addr:suburb": "Setor Noroeste",
+        "amenity": "school",
+        "fee": "yes",
+        "grades": "0-9",
+        "inep": "17054990",
+        "name": "Colégio Intelectus Kids Teens",
+        "nohousenumber": "yes",
+        "operator": "Secretaria da Educação do Estado do Tocantins",
+        "operator:type": "private",
+        "phone": "+55 63 3421-3342",
+        "wheelchair": "yes",
+        "zone": "Urbana",
+        "id": "node/9092785892"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.2086754,
+          -7.1863916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9092802109",
+      "properties": {
+        "timestamp": "2024-12-10T20:11:05Z",
+        "version": 2,
+        "changeset": 160142909,
+        "addr:city": "Araguaína",
+        "addr:postcode": "77826-598",
+        "addr:street": "Rua 08 quadra 08 lote 25",
+        "addr:suburb": "Conjunto Residencial Patrocínio",
+        "amenity": "school",
+        "fee": "yes",
+        "grades": "1-9",
+        "inep": "17054222",
+        "name": "Escola Comecinho de Vida",
+        "nohousenumber": "yes",
+        "operator": "Secretaria da Educação do Estado do Tocantins",
+        "operator:type": "private",
+        "phone": "+55 63 9204-5361",
+        "zone": "Urbana",
+        "id": "node/9092802109"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.1825064,
+          -7.1971637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/9092810940",
       "properties": {
         "timestamp": "2021-09-15T00:45:47Z",
@@ -4690,6 +5063,37 @@
         "coordinates": [
           -48.2124749,
           -7.1767962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9112672028",
+      "properties": {
+        "timestamp": "2024-12-10T20:11:05Z",
+        "version": 2,
+        "changeset": 160142909,
+        "addr:city": "Araguaína",
+        "addr:postcode": "77804-970",
+        "addr:street": "Povoado Brejão",
+        "amenity": "school",
+        "fee": "no",
+        "grades": "1-9",
+        "inep": "17005817",
+        "name": "Escola Municipal José Ribeiro dos Santos",
+        "nohousenumber": "yes",
+        "operator": "Secretaria da Educação do Estado do Tocantins",
+        "operator:type": "public",
+        "phone": "+55 63 3415-3576",
+        "wheelchair": "yes",
+        "zone": "Urbana",
+        "id": "node/9112672028"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.2288248,
+          -7.1683717
         ]
       }
     },
@@ -4820,6 +5224,38 @@
         "coordinates": [
           -48.2226515,
           -7.1815559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9118668336",
+      "properties": {
+        "timestamp": "2024-12-10T20:11:05Z",
+        "version": 2,
+        "changeset": 160142909,
+        "addr:city": "Araguaína",
+        "addr:postcode": "77827-090",
+        "addr:street": "Rua dos Jatobás",
+        "addr:suburb": "Loteamento Araguaína Sul",
+        "amenity": "school",
+        "fee": "no",
+        "grades": "1-9",
+        "inep": "17005990",
+        "name": "Escola Municipal Professora Josefa Dias da Silva",
+        "nohousenumber": "yes",
+        "operator": "Secretaria da Educação do Estado do Tocantins",
+        "operator:type": "public",
+        "phone": "+55 63 3414-1427",
+        "wheelchair": "yes",
+        "zone": "Urbana",
+        "id": "node/9118668336"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.1891385,
+          -7.1925513
         ]
       }
     },

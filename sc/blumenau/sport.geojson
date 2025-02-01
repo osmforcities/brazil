@@ -11224,6 +11224,47 @@
     },
     {
       "type": "Feature",
+      "id": "way/760661744",
+      "properties": {
+        "timestamp": "2022-06-16T00:55:29Z",
+        "version": 2,
+        "changeset": 122439356,
+        "leisure": "pitch",
+        "lit": "yes",
+        "sport": "soccer",
+        "surface": "artificial_turf",
+        "id": "way/760661744"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.1257625,
+              -26.9084321
+            ],
+            [
+              -49.1256289,
+              -26.9088447
+            ],
+            [
+              -49.1253582,
+              -26.908775
+            ],
+            [
+              -49.1254919,
+              -26.9083624
+            ],
+            [
+              -49.1257625,
+              -26.9084321
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/775592424",
       "properties": {
         "timestamp": "2024-05-17T11:24:49Z",
@@ -15487,6 +15528,48 @@
         "coordinates": [
           -49.06789,
           -26.920684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4610653025",
+      "properties": {
+        "timestamp": "2024-12-10T17:41:52Z",
+        "version": 5,
+        "changeset": 160138697,
+        "amenity": "dojo",
+        "contact:phone": "+55 47 99980-8805",
+        "name": "Kiniro Dojo",
+        "old_name": "Academia de Aikido",
+        "sport": "aikido",
+        "id": "node/4610653025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.1121108,
+          -26.9125125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4610653030",
+      "properties": {
+        "timestamp": "2024-12-10T17:41:52Z",
+        "version": 6,
+        "changeset": 160138697,
+        "leisure": "fitness_centre",
+        "name": "Academia Iron Man",
+        "sport": "fitness",
+        "id": "node/4610653030"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.1122594,
+          -26.9125313
         ]
       }
     },

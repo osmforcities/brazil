@@ -20169,6 +20169,67 @@
     },
     {
       "type": "Feature",
+      "id": "way/1132568849",
+      "properties": {
+        "timestamp": "2024-12-09T20:52:04Z",
+        "version": 4,
+        "changeset": 160106873,
+        "addr:city": "Curitiba",
+        "addr:housenumber": "408",
+        "addr:postcode": "81820-090",
+        "addr:street": "Rua José Osires Baglioli",
+        "addr:suburb": "Pinheirinho",
+        "amenity": "school",
+        "isced:level": "0;1",
+        "name": "Escola Municipal Professor Leonel Moro",
+        "operator": "Secretaria Municipal da Educação de Curitiba",
+        "operator:type": "public",
+        "ref:INEP": "41130502",
+        "website": "https://educacao.curitiba.pr.gov.br/unidade/prof-leonel-moro-escola-municipal/18107",
+        "id": "way/1132568849"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.2771557,
+              -25.5170539
+            ],
+            [
+              -49.2775165,
+              -25.5174956
+            ],
+            [
+              -49.2769043,
+              -25.5179027
+            ],
+            [
+              -49.2768872,
+              -25.517914
+            ],
+            [
+              -49.2767151,
+              -25.5177091
+            ],
+            [
+              -49.2770426,
+              -25.5174911
+            ],
+            [
+              -49.2768509,
+              -25.5172566
+            ],
+            [
+              -49.2771557,
+              -25.5170539
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1132568854",
       "properties": {
         "timestamp": "2024-11-10T17:40:34Z",
@@ -32727,6 +32788,24 @@
         "coordinates": [
           -49.2694294,
           -25.4250487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10560246697",
+      "properties": {
+        "timestamp": "2024-10-08T20:39:04Z",
+        "version": 3,
+        "changeset": 157645518,
+        "entrance": "main;yes",
+        "id": "node/10560246697"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2767151,
+          -25.5177091
         ]
       }
     },

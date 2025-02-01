@@ -151,6 +151,63 @@
     },
     {
       "type": "Feature",
+      "id": "way/639858067",
+      "properties": {
+        "timestamp": "2024-12-09T12:21:09Z",
+        "version": 3,
+        "changeset": 160089861,
+        "addr:city": "Campinas",
+        "addr:housenumber": "1885",
+        "addr:postcode": "13025-320",
+        "addr:street": "Avenida José de Souza Campos",
+        "addr:suburb": "Cambuí",
+        "amenity": "pharmacy",
+        "brand": "Drogasil",
+        "brand:wikidata": "Q5308185",
+        "brand:wikipedia": "pt:Drogasil",
+        "building": "yes",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "height": "7.7",
+        "name": "Drogasil",
+        "opening_hours": "24/7",
+        "wheelchair": "yes",
+        "id": "way/639858067"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.0457909,
+              -22.8891787
+            ],
+            [
+              -47.0459938,
+              -22.8894325
+            ],
+            [
+              -47.0459786,
+              -22.8894515
+            ],
+            [
+              -47.0458022,
+              -22.8894858
+            ],
+            [
+              -47.045639,
+              -22.8892818
+            ],
+            [
+              -47.0457909,
+              -22.8891787
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/840656980",
       "properties": {
         "timestamp": "2020-08-25T20:03:03Z",
@@ -1425,6 +1482,33 @@
     },
     {
       "type": "Feature",
+      "id": "node/2805083502",
+      "properties": {
+        "timestamp": "2024-12-09T12:40:16Z",
+        "version": 3,
+        "changeset": 160090544,
+        "addr:city": "Campinas",
+        "addr:housenumber": "71",
+        "addr:postcode": "13091-133",
+        "addr:street": "Avenida Palmital",
+        "addr:suburb": "Jardim Flamboyant",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Multidrogas",
+        "phone": "+55 (19) 3201-7303",
+        "website": "https://redemultidrogas.com.br/",
+        "id": "node/2805083502"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0363191,
+          -22.8789329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/3305131050",
       "properties": {
         "timestamp": "2019-12-22T04:21:53Z",
@@ -1785,6 +1869,31 @@
         "coordinates": [
           -47.0544988,
           -22.8945747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4589623291",
+      "properties": {
+        "timestamp": "2024-12-09T12:36:25Z",
+        "version": 4,
+        "changeset": 160090398,
+        "addr:city": "Campinas",
+        "addr:housenumber": "89",
+        "addr:postcode": "13024-000",
+        "addr:street": "Avenida Coronel Silva Teles",
+        "addr:suburb": "Cambuí",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Droga Brasil",
+        "id": "node/4589623291"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0562985,
+          -22.895436
         ]
       }
     },

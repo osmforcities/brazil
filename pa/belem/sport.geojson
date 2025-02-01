@@ -9630,6 +9630,49 @@
     },
     {
       "type": "Feature",
+      "id": "way/1341395227",
+      "properties": {
+        "timestamp": "2024-12-09T20:59:13Z",
+        "version": 1,
+        "changeset": 160107108,
+        "access": "permissive",
+        "leisure": "pitch",
+        "lit": "yes",
+        "name": "Campinho de areia",
+        "sport": "soccer",
+        "surface": "sand",
+        "id": "way/1341395227"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.4408475,
+              -1.3869634
+            ],
+            [
+              -48.4406142,
+              -1.387198
+            ],
+            [
+              -48.4405082,
+              -1.3870925
+            ],
+            [
+              -48.4407416,
+              -1.386858
+            ],
+            [
+              -48.4408475,
+              -1.3869634
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/490954984",
       "properties": {
         "timestamp": "2024-09-17T18:11:16Z",
@@ -11114,6 +11157,32 @@
         "coordinates": [
           -48.4649231,
           -1.4326469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12407738525",
+      "properties": {
+        "timestamp": "2024-12-09T18:33:38Z",
+        "version": 1,
+        "changeset": 160102611,
+        "addr:housenumber": "1560",
+        "addr:postcode": "66055-028",
+        "addr:street": "Travessa Dom Romualdo de Seixas",
+        "brand": "Velocity",
+        "brand:wikidata": "Q131278588",
+        "leisure": "fitness_centre",
+        "name": "Velocity",
+        "sport": "cycling",
+        "website": "https://studiovelocity.com.br/unidades/belem/104",
+        "id": "node/12407738525"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.4838528,
+          -1.4460444
         ]
       }
     }

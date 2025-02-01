@@ -4315,6 +4315,98 @@
     },
     {
       "type": "Feature",
+      "id": "way/488271740",
+      "properties": {
+        "timestamp": "2024-12-09T01:14:06Z",
+        "version": 5,
+        "changeset": 160074851,
+        "addr:housenumber": "1200",
+        "addr:postcode": "90160-091",
+        "addr:street": "Avenida Ipiranga",
+        "barrier": "fence",
+        "fence_type": "metal",
+        "landuse": "commercial",
+        "name": "Secretaria Municipal de Segurança",
+        "office": "government",
+        "opening_hours": "Mo-Fr 08:30-12:00;13:30-17:30",
+        "short_name": "SMSEG",
+        "website": "https://prefeitura.poa.br/smseg",
+        "id": "way/488271740"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.2160549,
+              -30.0475382
+            ],
+            [
+              -51.2158437,
+              -30.0475133
+            ],
+            [
+              -51.2158243,
+              -30.0474808
+            ],
+            [
+              -51.2157819,
+              -30.0474756
+            ],
+            [
+              -51.2157391,
+              -30.0474704
+            ],
+            [
+              -51.2157056,
+              -30.0474948
+            ],
+            [
+              -51.2151881,
+              -30.0474332
+            ],
+            [
+              -51.2152571,
+              -30.0470834
+            ],
+            [
+              -51.2152909,
+              -30.0469036
+            ],
+            [
+              -51.2153691,
+              -30.0469123
+            ],
+            [
+              -51.2154186,
+              -30.0469178
+            ],
+            [
+              -51.2154467,
+              -30.0469207
+            ],
+            [
+              -51.215801,
+              -30.0469579
+            ],
+            [
+              -51.2157552,
+              -30.0472173
+            ],
+            [
+              -51.2161012,
+              -30.0472603
+            ],
+            [
+              -51.2160549,
+              -30.0475382
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/488271742",
       "properties": {
         "timestamp": "2024-01-21T18:07:45Z",
@@ -7308,6 +7400,61 @@
     },
     {
       "type": "Feature",
+      "id": "node/11535229530",
+      "properties": {
+        "timestamp": "2024-01-21T18:07:45Z",
+        "version": 2,
+        "changeset": 146523003,
+        "entrance": "main",
+        "id": "node/11535229530"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.2153691,
+          -30.0469123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11537663069",
+      "properties": {
+        "timestamp": "2024-01-21T18:07:45Z",
+        "version": 1,
+        "changeset": 146523003,
+        "access": "no",
+        "entrance": "main",
+        "id": "node/11537663069"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.2157819,
+          -30.0474756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11537663070",
+      "properties": {
+        "timestamp": "2024-01-21T18:07:45Z",
+        "version": 1,
+        "changeset": 146523003,
+        "barrier": "gate",
+        "id": "node/11537663070"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.2154467,
+          -30.0469207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/11537663071",
       "properties": {
         "timestamp": "2024-01-21T18:07:45Z",
@@ -7341,6 +7488,31 @@
         "coordinates": [
           -51.1734601,
           -30.0375332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12405809578",
+      "properties": {
+        "timestamp": "2024-12-09T01:14:06Z",
+        "version": 1,
+        "changeset": 160074851,
+        "addr:housenumber": "91",
+        "addr:postcode": "90050-030",
+        "addr:street": "Rua João Neves da Fontoura",
+        "name": "Companhia de Processamento de Dados do Município de Porto Alegre",
+        "office": "government",
+        "opening_hours": "Mo-Fr 08:30-17:30",
+        "short_name": "Procempa",
+        "website": "https://www.procempa.com.br",
+        "id": "node/12405809578"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.2154682,
+          -30.0473555
         ]
       }
     }

@@ -388,6 +388,122 @@
     },
     {
       "type": "Feature",
+      "id": "way/1007492061",
+      "properties": {
+        "timestamp": "2024-12-12T14:29:49Z",
+        "version": 4,
+        "changeset": 160210241,
+        "addr:city": "Rio das Ostras",
+        "addr:postcode": "28899-419",
+        "addr:street": "Avenida das Flores",
+        "addr:suburb": "Residencial Praia Âncora",
+        "amenity": "school",
+        "email": "e.m.simarmachado@gmail.com",
+        "grades": "1-5",
+        "level": "1",
+        "name": "Escola Municipal Simar Machado Sodré",
+        "nohousenumber": "yes",
+        "operator": "SEMEDE",
+        "operator:type": "private",
+        "phone": "+552227603405",
+        "wheelchair": "limited",
+        "id": "way/1007492061"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.9163759,
+              -22.491817
+            ],
+            [
+              -41.9163616,
+              -22.4917997
+            ],
+            [
+              -41.9161052,
+              -22.4914897
+            ],
+            [
+              -41.9160298,
+              -22.4913986
+            ],
+            [
+              -41.9163634,
+              -22.491163
+            ],
+            [
+              -41.9165754,
+              -22.4914193
+            ],
+            [
+              -41.9165784,
+              -22.4916739
+            ],
+            [
+              -41.9163759,
+              -22.491817
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1007492567",
+      "properties": {
+        "timestamp": "2024-12-12T14:29:49Z",
+        "version": 2,
+        "changeset": 160210241,
+        "addr:city": "Rio das Ostras",
+        "addr:postcode": "28899-455",
+        "addr:street": "Rua dos Ipês",
+        "addr:suburb": "Residencial Praia Âncora",
+        "amenity": "school",
+        "email": "ondinapintomarcondes16@hotmail.com",
+        "name": "Escola Municipal Ondina Pinto Marcondes",
+        "nohousenumber": "yes",
+        "operator": "SEMEDE",
+        "operator:type": "public",
+        "phone": "+552227719723",
+        "wheelchair": "limited",
+        "id": "way/1007492567"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.9160159,
+              -22.4919903
+            ],
+            [
+              -41.9157877,
+              -22.4917123
+            ],
+            [
+              -41.9161052,
+              -22.4914897
+            ],
+            [
+              -41.9163616,
+              -22.4917997
+            ],
+            [
+              -41.9160793,
+              -22.4919977
+            ],
+            [
+              -41.9160159,
+              -22.4919903
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1011859067",
       "properties": {
         "timestamp": "2021-12-13T19:50:56Z",
@@ -1044,6 +1160,33 @@
     },
     {
       "type": "Feature",
+      "id": "node/3777482158",
+      "properties": {
+        "timestamp": "2024-12-12T14:29:49Z",
+        "version": 5,
+        "changeset": 160210241,
+        "addr:city": "Rio das Ostras",
+        "addr:postcode": "28890-084",
+        "addr:street": "Rua Santa Catarina",
+        "addr:suburb": "Cidade Praiana",
+        "amenity": "school",
+        "email": "em.riodasostras@gmail.com",
+        "name": "Escola Municipal Rio das Ostras",
+        "nohousenumber": "yes",
+        "operator": "SEMEDE",
+        "operator:type": "public",
+        "id": "node/3777482158"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.9834412,
+          -22.5424171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/3777482597",
       "properties": {
         "timestamp": "2024-04-28T15:19:32Z",
@@ -1278,6 +1421,33 @@
         "coordinates": [
           -41.9501818,
           -22.5125577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3778103257",
+      "properties": {
+        "timestamp": "2024-12-12T14:29:49Z",
+        "version": 5,
+        "changeset": 160210241,
+        "addr:city": "Rio das Ostras",
+        "addr:postcode": "28890-838",
+        "addr:street": "Avenida Serramar",
+        "addr:suburb": "Extensão Serramar",
+        "amenity": "school",
+        "email": "alzirdavidpereira@gmail.com",
+        "name": "Escola Municipal Alzir David Pereira",
+        "nohousenumber": "yes",
+        "operator": "SEMEDE",
+        "operator:type": "public",
+        "id": "node/3778103257"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.9787422,
+          -22.5336246
         ]
       }
     },

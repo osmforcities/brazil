@@ -493,6 +493,91 @@
     },
     {
       "type": "Feature",
+      "id": "relation/12339349",
+      "properties": {
+        "timestamp": "2024-12-12T18:29:15Z",
+        "version": 2,
+        "changeset": 160219005,
+        "addr:city": "Recife",
+        "addr:postcode": "51150-001",
+        "addr:street": "Rua Alameda das Hortências",
+        "addr:suburb": "Boa Viagem",
+        "amenity": "school",
+        "name": "Colégio Motivo - Unidade Boa Viagem",
+        "nohousenumber": "yes",
+        "type": "multipolygon",
+        "id": "relation/12339349"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -34.9063361,
+              -8.11603
+            ],
+            [
+              -34.9064533,
+              -8.1165221
+            ],
+            [
+              -34.9064996,
+              -8.1167255
+            ],
+            [
+              -34.9055857,
+              -8.1167821
+            ],
+            [
+              -34.9054285,
+              -8.1167966
+            ],
+            [
+              -34.9054181,
+              -8.1167614
+            ],
+            [
+              -34.905406,
+              -8.11672
+            ],
+            [
+              -34.9052726,
+              -8.1161818
+            ],
+            [
+              -34.9052669,
+              -8.1161582
+            ],
+            [
+              -34.9052697,
+              -8.1161415
+            ],
+            [
+              -34.9052894,
+              -8.1161248
+            ],
+            [
+              -34.9053203,
+              -8.1161095
+            ],
+            [
+              -34.9058429,
+              -8.1160706
+            ],
+            [
+              -34.9061618,
+              -8.1160469
+            ],
+            [
+              -34.9063361,
+              -8.11603
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "relation/12452730",
       "properties": {
         "timestamp": "2021-03-16T12:11:13Z",
@@ -16615,6 +16700,80 @@
     },
     {
       "type": "Feature",
+      "id": "way/424470018",
+      "properties": {
+        "timestamp": "2024-12-12T18:29:58Z",
+        "version": 11,
+        "changeset": 160219029,
+        "addr:city": "Recife",
+        "addr:postcode": "51340-590",
+        "addr:street": "Avenida Angra dos Reis",
+        "addr:suburb": "Cohab",
+        "amenity": "school",
+        "description": "Escola Estadual de Ensino Medio e Integral.",
+        "name": "Escola Professor Jordão Emerenciano",
+        "nohousenumber": "yes",
+        "phone": "+55 81 3475-3970",
+        "id": "way/424470018"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -34.9556706,
+              -8.1192676
+            ],
+            [
+              -34.955408,
+              -8.1201957
+            ],
+            [
+              -34.9548955,
+              -8.1200652
+            ],
+            [
+              -34.9546898,
+              -8.1200107
+            ],
+            [
+              -34.9543837,
+              -8.1199157
+            ],
+            [
+              -34.9544094,
+              -8.1198203
+            ],
+            [
+              -34.954452,
+              -8.1196622
+            ],
+            [
+              -34.954478,
+              -8.1195657
+            ],
+            [
+              -34.9544981,
+              -8.1194911
+            ],
+            [
+              -34.9546398,
+              -8.118993
+            ],
+            [
+              -34.9553757,
+              -8.1191904
+            ],
+            [
+              -34.9556706,
+              -8.1192676
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/427486601",
       "properties": {
         "timestamp": "2018-12-04T22:03:22Z",
@@ -16712,6 +16871,71 @@
             [
               -34.9035952,
               -8.0588025
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/428792096",
+      "properties": {
+        "timestamp": "2024-12-12T18:29:58Z",
+        "version": 8,
+        "changeset": 160219029,
+        "addr:city": "Recife",
+        "addr:postcode": "51340-520",
+        "addr:street": "Rua Doutor Moacir Sáles",
+        "addr:suburb": "Vila Lagoa Encantada, Cohab",
+        "amenity": "school",
+        "name": "Escola Lagoa Encantada",
+        "nohousenumber": "yes",
+        "phone": "+55 81 3181-3033",
+        "id": "way/428792096"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -34.9505109,
+              -8.1227713
+            ],
+            [
+              -34.9507332,
+              -8.1227821
+            ],
+            [
+              -34.9510084,
+              -8.1228452
+            ],
+            [
+              -34.9511663,
+              -8.1229278
+            ],
+            [
+              -34.9510787,
+              -8.1230986
+            ],
+            [
+              -34.9510489,
+              -8.123168
+            ],
+            [
+              -34.9509913,
+              -8.1232807
+            ],
+            [
+              -34.9505069,
+              -8.1232238
+            ],
+            [
+              -34.9504832,
+              -8.1232213
+            ],
+            [
+              -34.9505109,
+              -8.1227713
             ]
           ]
         ]
@@ -17826,6 +18050,63 @@
             [
               -34.9378505,
               -8.1312913
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/549377397",
+      "properties": {
+        "timestamp": "2024-12-12T18:29:58Z",
+        "version": 6,
+        "changeset": 160219029,
+        "addr:city": "Recife",
+        "addr:postcode": "51250-370",
+        "addr:street": "Rua Bahia",
+        "addr:suburb": "Jordão Baixo",
+        "amenity": "school",
+        "name": "Escola Jornalista Costa Porto",
+        "nohousenumber": "yes",
+        "phone": "+55 81 31814726",
+        "id": "way/549377397"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -34.9357554,
+              -8.1333109
+            ],
+            [
+              -34.9355629,
+              -8.1339396
+            ],
+            [
+              -34.9350413,
+              -8.1337844
+            ],
+            [
+              -34.9352016,
+              -8.1332627
+            ],
+            [
+              -34.9356161,
+              -8.1333798
+            ],
+            [
+              -34.9356197,
+              -8.1333672
+            ],
+            [
+              -34.9356455,
+              -8.1332777
+            ],
+            [
+              -34.9357554,
+              -8.1333109
             ]
           ]
         ]
@@ -22407,6 +22688,53 @@
             [
               -34.9289071,
               -8.0278481
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/661008399",
+      "properties": {
+        "timestamp": "2024-12-12T18:29:58Z",
+        "version": 3,
+        "changeset": 160219029,
+        "PrefRecife:escola_codigo": "190.0",
+        "PrefRecife:mec_codigo": "2.6124114E7",
+        "addr:place": "Lagoa Encantada",
+        "addr:street": "Rua Doutor Benigno Jordão de Vasconcelos",
+        "addr:suburb": "Vila Lagoa Encantada",
+        "amenity": "school",
+        "name": "Lagoa Encantada",
+        "nohousenumber": "yes",
+        "prog": "Mais Educação",
+        "source": "Prefeitura do Recife",
+        "id": "way/661008399"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -34.9521297,
+              -8.1169122
+            ],
+            [
+              -34.9521037,
+              -8.1170007
+            ],
+            [
+              -34.9520678,
+              -8.1169904
+            ],
+            [
+              -34.9520938,
+              -8.1169019
+            ],
+            [
+              -34.9521297,
+              -8.1169122
             ]
           ]
         ]
@@ -27681,6 +28009,32 @@
     },
     {
       "type": "Feature",
+      "id": "node/6199752976",
+      "properties": {
+        "timestamp": "2024-12-12T18:29:15Z",
+        "version": 3,
+        "changeset": 160219005,
+        "addr:city": "Recife",
+        "addr:postcode": "51030-230",
+        "addr:street": "Rua Almirante Nélson Fernandes",
+        "addr:suburb": "Boa Viagem",
+        "amenity": "school",
+        "check_date": "2024-10-13",
+        "fixme": "Revisar Dados",
+        "name": "Centro de Educação Infantil 14 Bis",
+        "nohousenumber": "yes",
+        "id": "node/6199752976"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.9085686,
+          -8.1315682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/6203091630",
       "properties": {
         "timestamp": "2019-01-12T11:13:26Z",
@@ -27969,6 +28323,24 @@
         "coordinates": [
           -34.8892602,
           -8.0491205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7616884032",
+      "properties": {
+        "timestamp": "2020-06-12T23:32:38Z",
+        "version": 1,
+        "changeset": 86587412,
+        "barrier": "gate",
+        "id": "node/7616884032"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.9054181,
+          -8.1167614
         ]
       }
     },

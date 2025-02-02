@@ -75,6 +75,93 @@
     },
     {
       "type": "Feature",
+      "id": "relation/13517704",
+      "properties": {
+        "timestamp": "2024-12-12T21:13:25Z",
+        "version": 4,
+        "changeset": 160223820,
+        "addr:city": "Osasco",
+        "addr:housenumber": "355",
+        "addr:postcode": "06216-240",
+        "addr:street": "Rua Ari Barroso",
+        "addr:suburb": "Presidente Altino",
+        "alt_name": "Hospital Regional de Osasco",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "cardiology;neurology;hemodinâmica;vascular",
+        "name": "Hospital Doutor Vivaldo Martins Simões",
+        "operator": "Centro de Estudos e Pesquisas Doutor João Amorim",
+        "operator:ref:vatin": "BR46374500000194",
+        "operator:type": "private_non_profit",
+        "phone": "+55 11 3683 3077",
+        "ref:CNES": "0008052",
+        "ref:vatin": "BR46374500012524",
+        "type": "multipolygon",
+        "website": "https://www.cejam.org.br/onde-atuamos/osasco/hospital-regional-dr-vivaldo-martins-simoes-osasco",
+        "id": "relation/13517704"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.7711979,
+              -23.5247892
+            ],
+            [
+              -46.7718046,
+              -23.5242719
+            ],
+            [
+              -46.7720695,
+              -23.5245419
+            ],
+            [
+              -46.7721675,
+              -23.524641
+            ],
+            [
+              -46.7722483,
+              -23.524654
+            ],
+            [
+              -46.7723574,
+              -23.5246501
+            ],
+            [
+              -46.7724836,
+              -23.5246124
+            ],
+            [
+              -46.7726035,
+              -23.5251382
+            ],
+            [
+              -46.7716742,
+              -23.5254482
+            ],
+            [
+              -46.7716076,
+              -23.525326
+            ],
+            [
+              -46.7715211,
+              -23.5251739
+            ],
+            [
+              -46.7714459,
+              -23.5250712
+            ],
+            [
+              -46.7711979,
+              -23.5247892
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/313850657",
       "properties": {
         "timestamp": "2023-09-01T01:01:12Z",
@@ -784,6 +871,114 @@
     },
     {
       "type": "Feature",
+      "id": "way/1009643144",
+      "properties": {
+        "timestamp": "2021-12-06T15:02:47Z",
+        "version": 1,
+        "changeset": 114622567,
+        "barrier": "wall",
+        "id": "way/1009643144"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7721675,
+            -23.524641
+          ],
+          [
+            -46.7722483,
+            -23.524654
+          ],
+          [
+            -46.7723574,
+            -23.5246501
+          ],
+          [
+            -46.7724836,
+            -23.5246124
+          ],
+          [
+            -46.7726035,
+            -23.5251382
+          ],
+          [
+            -46.7716742,
+            -23.5254482
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1009643145",
+      "properties": {
+        "timestamp": "2021-12-06T15:02:47Z",
+        "version": 1,
+        "changeset": 114622567,
+        "barrier": "wall",
+        "id": "way/1009643145"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7711979,
+            -23.5247892
+          ],
+          [
+            -46.7718046,
+            -23.5242719
+          ],
+          [
+            -46.7720695,
+            -23.5245419
+          ],
+          [
+            -46.7721675,
+            -23.524641
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1009643146",
+      "properties": {
+        "timestamp": "2021-12-06T15:02:47Z",
+        "version": 1,
+        "changeset": 114622567,
+        "barrier": "fence",
+        "id": "way/1009643146"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7716742,
+            -23.5254482
+          ],
+          [
+            -46.7716076,
+            -23.525326
+          ],
+          [
+            -46.7715211,
+            -23.5251739
+          ],
+          [
+            -46.7714459,
+            -23.5250712
+          ],
+          [
+            -46.7711979,
+            -23.5247892
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/5270118503",
       "properties": {
         "timestamp": "2023-06-13T21:50:36Z",
@@ -836,6 +1031,46 @@
         "coordinates": [
           -46.7755347,
           -23.5123485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9315689319",
+      "properties": {
+        "timestamp": "2021-12-06T15:02:47Z",
+        "version": 1,
+        "changeset": 114622567,
+        "addr:city": "Osasco",
+        "addr:housenumber": "355",
+        "addr:postcode": "06216-240",
+        "addr:street": "Rua Ari Barroso",
+        "id": "node/9315689319"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7714459,
+          -23.5250712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9315689322",
+      "properties": {
+        "timestamp": "2021-12-06T15:02:47Z",
+        "version": 1,
+        "changeset": 114622567,
+        "access": "yes",
+        "entrance": "main",
+        "id": "node/9315689322"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7720695,
+          -23.5245419
         ]
       }
     },

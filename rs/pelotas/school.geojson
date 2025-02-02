@@ -553,6 +553,61 @@
     },
     {
       "type": "Feature",
+      "id": "way/469216825",
+      "properties": {
+        "timestamp": "2024-12-12T00:39:41Z",
+        "version": 4,
+        "changeset": 160189445,
+        "addr:city": "Pelotas",
+        "addr:housenumber": "400",
+        "addr:postcode": "96010-000",
+        "addr:street": "Rua Felix da Cunha",
+        "addr:suburb": "Centro",
+        "amenity": "school",
+        "contact:phone": "+55 53 3225-8477",
+        "denomination": "roman_catholic",
+        "email": "contato@csj.com.br",
+        "isced:level": "0,1,2,3",
+        "name": "Colégio São José",
+        "ref:INEP": "43100031",
+        "religion": "christian",
+        "website": "https://www.csj.com.br/",
+        "id": "way/469216825"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -52.342004,
+              -31.7749358
+            ],
+            [
+              -52.3423702,
+              -31.7757772
+            ],
+            [
+              -52.3415105,
+              -31.7760325
+            ],
+            [
+              -52.3411685,
+              -31.7751718
+            ],
+            [
+              -52.3414185,
+              -31.7750663
+            ],
+            [
+              -52.342004,
+              -31.7749358
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/485967365",
       "properties": {
         "timestamp": "2017-05-19T22:09:17Z",
@@ -4306,6 +4361,24 @@
             -52.4393599,
             -31.6268432
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4483141938",
+      "properties": {
+        "timestamp": "2024-12-12T00:39:41Z",
+        "version": 2,
+        "changeset": 160189445,
+        "highway": "stop",
+        "id": "node/4483141938"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.3414185,
+          -31.7750663
         ]
       }
     },

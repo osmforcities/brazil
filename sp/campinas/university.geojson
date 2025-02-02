@@ -1950,6 +1950,97 @@
     },
     {
       "type": "Feature",
+      "id": "way/147530808",
+      "properties": {
+        "timestamp": "2024-12-12T15:55:59Z",
+        "version": 9,
+        "changeset": 160213817,
+        "addr:city": "Campinas",
+        "addr:postcode": "13034-685",
+        "addr:street": "Avenida John Boyd Dunlop",
+        "addr:suburb": "Jardim Ipaussurama",
+        "amenity": "university",
+        "name": "Pontifícia Universidade Católica de Campinas - PUC-Campinas (Campus II)",
+        "nohousenumber": "yes",
+        "operator": "Pontifícia Universidade Católica de Campinas",
+        "operator:type": "religious",
+        "website": "https://www.puc-campinas.edu.br/campus-ii/",
+        "id": "way/147530808"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.1214763,
+              -22.9228171
+            ],
+            [
+              -47.1204708,
+              -22.922577
+            ],
+            [
+              -47.1195341,
+              -22.922294
+            ],
+            [
+              -47.1185948,
+              -22.9219839
+            ],
+            [
+              -47.1194021,
+              -22.9182196
+            ],
+            [
+              -47.1194934,
+              -22.917818
+            ],
+            [
+              -47.1196959,
+              -22.9169383
+            ],
+            [
+              -47.1200917,
+              -22.9167328
+            ],
+            [
+              -47.1204093,
+              -22.9168069
+            ],
+            [
+              -47.1207703,
+              -22.9172587
+            ],
+            [
+              -47.1210712,
+              -22.9174633
+            ],
+            [
+              -47.1215947,
+              -22.9175483
+            ],
+            [
+              -47.1228542,
+              -22.9187166
+            ],
+            [
+              -47.1223847,
+              -22.9211681
+            ],
+            [
+              -47.1221747,
+              -22.9229836
+            ],
+            [
+              -47.1214763,
+              -22.9228171
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/147599695",
       "properties": {
         "timestamp": "2016-07-19T18:08:14Z",
@@ -3504,6 +3595,41 @@
         "coordinates": [
           -47.0666328,
           -22.8238403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11412624341",
+      "properties": {
+        "timestamp": "2024-12-12T15:55:59Z",
+        "version": 2,
+        "changeset": 160213817,
+        "addr:city": "Campinas",
+        "addr:postcode": "13083-888",
+        "addr:street": "Rua do CECOM",
+        "addr:suburb": "Cidade Universitária Zeferino Vaz",
+        "air_conditioning": "yes",
+        "amenity": "clinic",
+        "email": "saucss@unicamp.br",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general;ophthalmology;cardiology;nutricionista",
+        "level": "1",
+        "name": "CECOM - Entrada da Área Médica",
+        "nohousenumber": "yes",
+        "opening_hours": "Mo-Fr 07:00-17:00",
+        "operator": "UNICAMP",
+        "operator:type": "university",
+        "phone": "+55 19 3521-9001",
+        "website": "https://cecom.unicamp.br",
+        "wheelchair": "limited",
+        "id": "node/11412624341"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0639835,
+          -22.8289655
         ]
       }
     },

@@ -1114,6 +1114,54 @@
     },
     {
       "type": "Feature",
+      "id": "way/1342278787",
+      "properties": {
+        "timestamp": "2024-12-12T23:57:50Z",
+        "version": 1,
+        "changeset": 160227044,
+        "addr:city": "Belém",
+        "addr:postcode": "66645-001",
+        "addr:street": "Rodovia Augusto Montenegro",
+        "addr:suburb": "Marambaia",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "UMS Marambaia (Centro 4)",
+        "id": "way/1342278787"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.4352562,
+              -1.4014369
+            ],
+            [
+              -48.4347627,
+              -1.4014369
+            ],
+            [
+              -48.4346916,
+              -1.4009878
+            ],
+            [
+              -48.4347117,
+              -1.4005601
+            ],
+            [
+              -48.4352294,
+              -1.4005306
+            ],
+            [
+              -48.4352562,
+              -1.4014369
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/274383622",
       "properties": {
         "timestamp": "2019-06-06T20:05:15Z",
@@ -1574,6 +1622,30 @@
         "coordinates": [
           -48.4928138,
           -1.4569647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12417569920",
+      "properties": {
+        "timestamp": "2024-12-12T23:59:25Z",
+        "version": 1,
+        "changeset": 160227055,
+        "addr:city": "Belém",
+        "addr:postcode": "66645-001",
+        "addr:street": "Rodovia Augusto Montenegro",
+        "addr:suburb": "Marambaia",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "UMS Marambaia (Centro 4)",
+        "id": "node/12417569920"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.43498,
+          -1.4009838
         ]
       }
     }

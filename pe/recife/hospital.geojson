@@ -7724,6 +7724,92 @@
     },
     {
       "type": "Feature",
+      "id": "way/424768374",
+      "properties": {
+        "timestamp": "2024-12-12T18:29:58Z",
+        "version": 5,
+        "changeset": 160219029,
+        "addr:city": "Recife",
+        "addr:street": "Rua Vale do Itajaí",
+        "addr:suburb": "Ibura",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "paediatrics;orthopaedics;Pediatrics",
+        "name": "UPA Ibura – Pediatra Zilda Arns",
+        "nohousenumber": "yes",
+        "phone": "+55 81 3184.4595",
+        "id": "way/424768374"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -34.9498029,
+              -8.1283746
+            ],
+            [
+              -34.9499015,
+              -8.1284083
+            ],
+            [
+              -34.9498754,
+              -8.128462
+            ],
+            [
+              -34.9498333,
+              -8.1285395
+            ],
+            [
+              -34.949792,
+              -8.1286106
+            ],
+            [
+              -34.9496717,
+              -8.1288115
+            ],
+            [
+              -34.9495579,
+              -8.1290349
+            ],
+            [
+              -34.9494595,
+              -8.129036
+            ],
+            [
+              -34.9493934,
+              -8.1290888
+            ],
+            [
+              -34.9493256,
+              -8.1290884
+            ],
+            [
+              -34.9492683,
+              -8.1290664
+            ],
+            [
+              -34.9490153,
+              -8.1289692
+            ],
+            [
+              -34.9489831,
+              -8.1288922
+            ],
+            [
+              -34.9493613,
+              -8.1281992
+            ],
+            [
+              -34.9498029,
+              -8.1283746
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/428121845",
       "properties": {
         "timestamp": "2021-10-30T12:17:23Z",
@@ -10341,6 +10427,10 @@
               -8.043158
             ],
             [
+              -34.8735576,
+              -8.0425901
+            ],
+            [
               -34.8733631,
               -8.0423193
             ],
@@ -12111,6 +12201,25 @@
         "coordinates": [
           -34.8733631,
           -8.0423193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8081528757",
+      "properties": {
+        "timestamp": "2024-12-12T12:23:41Z",
+        "version": 3,
+        "changeset": 160205867,
+        "access": "permissive",
+        "barrier": "gate",
+        "id": "node/8081528757"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.8735576,
+          -8.0425901
         ]
       }
     },

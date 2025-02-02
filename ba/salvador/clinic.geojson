@@ -1424,6 +1424,98 @@
     },
     {
       "type": "Feature",
+      "id": "way/667306976",
+      "properties": {
+        "timestamp": "2024-12-12T16:41:07Z",
+        "version": 3,
+        "changeset": 160215385,
+        "addr:city": "Salvador",
+        "addr:postcode": "41740-090",
+        "addr:street": "Rua Jaime Sapolnik",
+        "addr:suburb": "Boca do Rio",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general;paediatrics;orthopaedics;emergency;radiology;community",
+        "name": "12o. Centro de Saúde Dr. Alfredo Bureau",
+        "nohousenumber": "yes",
+        "opening_hours": "24/7",
+        "operator": "Prefeitura Municipal de Salvador",
+        "id": "way/667306976"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.4322391,
+              -12.9729753
+            ],
+            [
+              -38.4323941,
+              -12.973263
+            ],
+            [
+              -38.4324202,
+              -12.9733092
+            ],
+            [
+              -38.4324104,
+              -12.9733871
+            ],
+            [
+              -38.4323598,
+              -12.9736558
+            ],
+            [
+              -38.4318801,
+              -12.9735461
+            ],
+            [
+              -38.4318377,
+              -12.9735206
+            ],
+            [
+              -38.4318116,
+              -12.9734952
+            ],
+            [
+              -38.4317953,
+              -12.9734475
+            ],
+            [
+              -38.4317871,
+              -12.9734173
+            ],
+            [
+              -38.4317888,
+              -12.9733664
+            ],
+            [
+              -38.4318165,
+              -12.9733123
+            ],
+            [
+              -38.4320514,
+              -12.972945
+            ],
+            [
+              -38.4321053,
+              -12.9728687
+            ],
+            [
+              -38.4322374,
+              -12.9729514
+            ],
+            [
+              -38.4322391,
+              -12.9729753
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/674375285",
       "properties": {
         "timestamp": "2019-03-04T08:58:00Z",
@@ -1761,6 +1853,61 @@
             [
               -38.4590895,
               -12.902491
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/790608133",
+      "properties": {
+        "timestamp": "2024-12-12T16:41:07Z",
+        "version": 3,
+        "changeset": 160215385,
+        "addr:city": "Salvador",
+        "addr:postcode": "40080-002",
+        "addr:street": "Rua Jaime Vieira Lima",
+        "addr:suburb": "Pau da Lima",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general;paediatrics;gynaecology;cardiology;vaccination;community",
+        "name": "Posto de Saúde de Pau da Lima",
+        "nohousenumber": "yes",
+        "id": "way/790608133"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.442918,
+              -12.919787
+            ],
+            [
+              -38.4428856,
+              -12.9200594
+            ],
+            [
+              -38.4426162,
+              -12.9200234
+            ],
+            [
+              -38.4426557,
+              -12.9197988
+            ],
+            [
+              -38.4427689,
+              -12.91981
+            ],
+            [
+              -38.442774,
+              -12.9197827
+            ],
+            [
+              -38.442918,
+              -12.919787
             ]
           ]
         ]
@@ -6398,6 +6545,33 @@
         "coordinates": [
           -38.451026,
           -12.9876088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7460040484",
+      "properties": {
+        "timestamp": "2024-12-12T16:41:07Z",
+        "version": 3,
+        "changeset": 160215385,
+        "addr:city": "Salvador",
+        "addr:postcode": "41301-110",
+        "addr:street": "Avenida Aliomar Baleeiro",
+        "amenity": "clinic",
+        "emergency": "yes",
+        "healthcare": "clinic",
+        "name": "USF João Roma Filho",
+        "nohousenumber": "yes",
+        "operator": "Secretaria Municipal de Saúde de Salvador",
+        "operator:type": "government",
+        "id": "node/7460040484"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4223582,
+          -12.9168726
         ]
       }
     },

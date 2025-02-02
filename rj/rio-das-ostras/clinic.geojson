@@ -97,6 +97,73 @@
     },
     {
       "type": "Feature",
+      "id": "way/1007485888",
+      "properties": {
+        "timestamp": "2024-12-12T14:29:49Z",
+        "version": 3,
+        "changeset": 160210241,
+        "addr:city": "Rio das Ostras",
+        "addr:postcode": "28899-422",
+        "addr:street": "Rua das Acácias",
+        "addr:suburb": "Res. Praia Âncora",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "UPA 24 Horas Valmir Espanhol",
+        "nohousenumber": "yes",
+        "opening_hours": "24/7",
+        "operator": "SEMUSA",
+        "operator:type": "public",
+        "phone": "+552227712175",
+        "id": "way/1007485888"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.913753,
+              -22.487984
+            ],
+            [
+              -41.9137029,
+              -22.4880189
+            ],
+            [
+              -41.9137191,
+              -22.4880388
+            ],
+            [
+              -41.9135008,
+              -22.4881908
+            ],
+            [
+              -41.9134733,
+              -22.4881571
+            ],
+            [
+              -41.9134253,
+              -22.4881904
+            ],
+            [
+              -41.9132107,
+              -22.4879273
+            ],
+            [
+              -41.913527,
+              -22.487707
+            ],
+            [
+              -41.913753,
+              -22.487984
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1007487254",
       "properties": {
         "timestamp": "2023-08-18T16:00:36Z",
@@ -155,6 +222,57 @@
     },
     {
       "type": "Feature",
+      "id": "way/1007756895",
+      "properties": {
+        "timestamp": "2024-12-12T14:29:49Z",
+        "version": 3,
+        "changeset": 160210241,
+        "addr:city": "Rio das Ostras",
+        "addr:postcode": "28899-425",
+        "addr:street": "Rua das Bromélias",
+        "addr:suburb": "Residencial Praia Âncora",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Estratégia Saude da Família Paulo Henrique Gussen",
+        "nohousenumber": "yes",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "operator": "SEMUSA",
+        "operator:type": "public",
+        "wheelchair": "yes",
+        "id": "way/1007756895"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.9113523,
+              -22.4855664
+            ],
+            [
+              -41.9115022,
+              -22.4857492
+            ],
+            [
+              -41.9111887,
+              -22.4859688
+            ],
+            [
+              -41.9110388,
+              -22.4857859
+            ],
+            [
+              -41.9113523,
+              -22.4855664
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/2638968455",
       "properties": {
         "timestamp": "2023-08-18T16:00:00Z",
@@ -180,6 +298,64 @@
         "coordinates": [
           -41.94319,
           -22.518738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3777510668",
+      "properties": {
+        "timestamp": "2024-12-12T14:29:49Z",
+        "version": 5,
+        "changeset": 160210241,
+        "addr:city": "Rio das Ostras",
+        "addr:postcode": "28894-438",
+        "addr:street": "Rua Inajara",
+        "addr:suburb": "Nova Cidade",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Centro de Saude Nova Cidade",
+        "nohousenumber": "yes",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "operator": "SEMUSA",
+        "operator:type": "public",
+        "id": "node/3777510668"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.9459026,
+          -22.5088303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3778290124",
+      "properties": {
+        "timestamp": "2024-12-12T14:29:49Z",
+        "version": 6,
+        "changeset": 160210241,
+        "addr:city": "Rio das Ostras",
+        "addr:postcode": "28893-158",
+        "addr:street": "Rua Guanabara",
+        "addr:suburb": "Extensão do Bosque",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Centro de Saúde Ornandinho Toledo",
+        "nohousenumber": "yes",
+        "opening_hours": "Mo-Fr 07:00-21:00",
+        "operator": "SEMUSA",
+        "operator:type": "public",
+        "id": "node/3778290124"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.9552997,
+          -22.5297597
         ]
       }
     },
@@ -326,6 +502,239 @@
         "coordinates": [
           -41.9352529,
           -22.5320935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3986043962",
+      "properties": {
+        "timestamp": "2024-12-12T14:29:49Z",
+        "version": 7,
+        "changeset": 160210241,
+        "access": "yes",
+        "addr:city": "Rio das Ostras",
+        "addr:postcode": "28890-084",
+        "addr:street": "Rua Santa Catarina",
+        "addr:suburb": "Cidade Praiana",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Estratégia Saúde da Família Mario Ribeiro Filho",
+        "nohousenumber": "yes",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "operator": "SEMUSA",
+        "operator:type": "public",
+        "id": "node/3986043962"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.9830148,
+          -22.5426714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3986046485",
+      "properties": {
+        "timestamp": "2024-12-12T14:29:49Z",
+        "version": 4,
+        "changeset": 160210241,
+        "addr:city": "Rio das Ostras",
+        "addr:postcode": "28890-630",
+        "addr:street": "Rua Abel Santos de Siqueira",
+        "addr:suburb": "Recanto",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Unidade Básica de Saude Recanto",
+        "nohousenumber": "yes",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "operator": "SEMUSA",
+        "operator:type": "public",
+        "id": "node/3986046485"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.9703619,
+          -22.5295265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3986107292",
+      "properties": {
+        "timestamp": "2024-12-12T14:29:49Z",
+        "version": 6,
+        "changeset": 160210241,
+        "addr:city": "Rio das Ostras",
+        "addr:postcode": "28893-476",
+        "addr:street": "Avenida Linda",
+        "addr:suburb": "Novo Rio das Ostras",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Estratégia Saude da Família Dona Ediméia",
+        "nohousenumber": "yes",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "operator": "SEMUSA",
+        "operator:type": "public",
+        "id": "node/3986107292"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.9340219,
+          -22.5263652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3986109666",
+      "properties": {
+        "timestamp": "2024-12-12T14:29:49Z",
+        "version": 6,
+        "changeset": 160210241,
+        "addr:city": "Rio das Ostras",
+        "addr:postcode": "28893-582",
+        "addr:street": "Rua Aroldo Ribeiro Elias",
+        "addr:suburb": "Nova Esperança",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Unidade Básica de Saúde Sidnei Matos",
+        "nohousenumber": "yes",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "operator": "SEMUSA",
+        "operator:type": "public",
+        "id": "node/3986109666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.9315164,
+          -22.5197052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3986153132",
+      "properties": {
+        "timestamp": "2024-12-12T14:29:49Z",
+        "version": 3,
+        "changeset": 160210241,
+        "addr:city": "Rio das Ostras",
+        "addr:postcode": "28898-028",
+        "addr:street": "Rua Albano Branco Guimarães",
+        "addr:suburb": "Mar do Norte",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Estratégia Saude da Família Mar do Norte",
+        "nohousenumber": "yes",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "operator": "SEMUSA",
+        "operator:type": "public",
+        "id": "node/3986153132"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.8676932,
+          -22.4501044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3986192484",
+      "properties": {
+        "timestamp": "2024-12-12T14:31:44Z",
+        "version": 4,
+        "changeset": 160210303,
+        "addr:city": "Rio das Ostras",
+        "addr:postcode": "28899-856",
+        "addr:street": "Estrada Claudio Ribeiro",
+        "addr:suburb": "Cantagalo",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Estratégia Saude da Família Cantagalo",
+        "nohousenumber": "yes",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "operator": "SEMUSA",
+        "operator:type": "public",
+        "id": "node/3986192484"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.9388763,
+          -22.4227242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3986194620",
+      "properties": {
+        "timestamp": "2024-12-12T14:31:44Z",
+        "version": 4,
+        "changeset": 160210303,
+        "addr:city": "Rio das Ostras",
+        "addr:postcode": "28892-260",
+        "addr:street": "Rua Henrique Sarzedas",
+        "addr:suburb": "Rocha Leão",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Estratégia Saúde da Família Ezequiel Ferreira Neto",
+        "nohousenumber": "yes",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "operator": "SEMUSA",
+        "operator:type": "public",
+        "id": "node/3986194620"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.0100032,
+          -22.4272864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4363342250",
+      "properties": {
+        "timestamp": "2024-12-12T14:29:49Z",
+        "version": 5,
+        "changeset": 160210241,
+        "addr:city": "Rio das Ostras",
+        "addr:postcode": "28899-563",
+        "addr:street": "Rua Peperônia",
+        "addr:suburb": "Residencial Praia Âncora",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Estratégia Saude da Família Katia Torres G. Dutra Reis",
+        "nohousenumber": "yes",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "operator": "SEMUSA",
+        "operator:type": "public",
+        "id": "node/4363342250"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.927343,
+          -22.4854819
         ]
       }
     }

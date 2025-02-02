@@ -1303,6 +1303,70 @@
     },
     {
       "type": "Feature",
+      "id": "way/608947756",
+      "properties": {
+        "timestamp": "2024-12-12T18:29:58Z",
+        "version": 6,
+        "changeset": 160219029,
+        "addr:city": "Recife",
+        "addr:postcode": "51220-040",
+        "addr:street": "Avenida Dois Rios",
+        "addr:suburb": "Ibura de Baixo",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "Especializado UPA-E Professor Fernandes Figueira",
+        "nohousenumber": "yes",
+        "official_name": "Especializado UPA-E Professor Fernandes Figueira",
+        "phone": "+55 81 3355-6214",
+        "id": "way/608947756"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -34.9369264,
+              -8.1095207
+            ],
+            [
+              -34.9366697,
+              -8.1100533
+            ],
+            [
+              -34.936332,
+              -8.1098474
+            ],
+            [
+              -34.9364164,
+              -8.1097379
+            ],
+            [
+              -34.9365569,
+              -8.1094972
+            ],
+            [
+              -34.9366156,
+              -8.1093966
+            ],
+            [
+              -34.9368451,
+              -8.1094871
+            ],
+            [
+              -34.9368942,
+              -8.1095074
+            ],
+            [
+              -34.9369264,
+              -8.1095207
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/617239023",
       "properties": {
         "timestamp": "2018-08-15T18:38:41Z",
@@ -4935,6 +4999,53 @@
     },
     {
       "type": "Feature",
+      "id": "way/938766161",
+      "properties": {
+        "timestamp": "2024-12-12T18:29:58Z",
+        "version": 2,
+        "changeset": 160219029,
+        "addr:city": "Recife",
+        "addr:street": "Rua Rio Pajeú",
+        "addr:suburb": "Ibura de Baixo",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "Upinha Rio da Prata",
+        "nohousenumber": "yes",
+        "opening_hours": "Mo-Sa 08:00-16:00",
+        "phone": "+55 81 3338-7768",
+        "id": "way/938766161"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -34.9370924,
+              -8.1149546
+            ],
+            [
+              -34.9371769,
+              -8.1150728
+            ],
+            [
+              -34.9370844,
+              -8.1151445
+            ],
+            [
+              -34.9369999,
+              -8.1150223
+            ],
+            [
+              -34.9370924,
+              -8.1149546
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/941120105",
       "properties": {
         "timestamp": "2021-05-09T21:46:43Z",
@@ -6021,6 +6132,34 @@
     },
     {
       "type": "Feature",
+      "id": "node/5955864804",
+      "properties": {
+        "timestamp": "2024-12-12T18:29:58Z",
+        "version": 4,
+        "changeset": 160219029,
+        "addr:city": "Recife",
+        "addr:postcode": "51340-520",
+        "addr:street": "Rua Doutor Benigno Jordão de Vasconcelos",
+        "addr:suburb": "Vila Lagoa Encantada, Cohab",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general;community;clinic;gynaecology",
+        "name": "USF Lagoa Encantada",
+        "nohousenumber": "yes",
+        "phone": "+55 81 3355-6174",
+        "source": "Dados Aberto da Prefeitura do Recife;https://goo.gl/u88nED",
+        "id": "node/5955864804"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.9502383,
+          -8.1219539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/5955864810",
       "properties": {
         "timestamp": "2019-11-28T23:07:19Z",
@@ -6043,6 +6182,114 @@
         "coordinates": [
           -34.9461135,
           -8.1131637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5955864812",
+      "properties": {
+        "timestamp": "2024-12-12T18:29:58Z",
+        "version": 2,
+        "changeset": 160219029,
+        "addr:city": "Recife",
+        "addr:postcode": "51345-200",
+        "addr:street": "Avenida Coracão de Jesus",
+        "addr:suburb": "Cohab",
+        "amenity": "clinic",
+        "fixme": "Corrigi o local do PSF Josue de Castro / 27 de Novembro.",
+        "healthcare": "clinic",
+        "name": "USF Josue de Castro / 27 de Novembro",
+        "nohousenumber": "yes",
+        "phone": "+55 81 3355-3037",
+        "source": "Dados Aberto da Cidade do Recife;https://goo.gl/u88nED",
+        "id": "node/5955864812"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.9531152,
+          -8.1103593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5955864813",
+      "properties": {
+        "timestamp": "2024-12-12T18:29:58Z",
+        "version": 4,
+        "changeset": 160219029,
+        "addr:city": "Recife",
+        "addr:postcode": "51330-430",
+        "addr:street": "Avenida Campo Verde",
+        "addr:suburb": "Cohab",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "USF Três Carneiros Baixo / Zumbi do Pacheco / Severino dias",
+        "nohousenumber": "yes",
+        "phone": "+55 81 3355-4712",
+        "source": "Dados Aberto da Prefeitura do Recife;https://goo.gl/u88nED",
+        "id": "node/5955864813"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.956332,
+          -8.1282014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5955864816",
+      "properties": {
+        "timestamp": "2024-12-12T18:29:58Z",
+        "version": 3,
+        "changeset": 160219029,
+        "addr:city": "Recife",
+        "addr:street": "Rua Cantora Clara Nunes",
+        "addr:suburb": "Cohab",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "gynaecology;community;general",
+        "name": "USF Parque dos Milagres",
+        "nohousenumber": "yes",
+        "phone": "+55 81 3355-6191",
+        "source": "Dados aberto da Prefeitura do Recife;https://goo.gl/u88nED",
+        "id": "node/5955864816"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.9503976,
+          -8.1063334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5958101211",
+      "properties": {
+        "timestamp": "2024-12-12T18:29:58Z",
+        "version": 4,
+        "changeset": 160219029,
+        "addr:city": "Recife",
+        "addr:street": "Rua Tanabi",
+        "addr:suburb": "Ibura",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "USF Agua Viva",
+        "nohousenumber": "yes",
+        "phone": "+55 81 3355-6825",
+        "source": "Dados aberto da prefeitura do Recife;https://goo.gl/u88nED",
+        "id": "node/5958101211"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.941655,
+          -8.127096
         ]
       }
     },

@@ -1537,6 +1537,55 @@
     },
     {
       "type": "Feature",
+      "id": "way/979341205",
+      "properties": {
+        "timestamp": "2021-09-03T14:19:38Z",
+        "version": 1,
+        "changeset": 110681247,
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "building",
+        "building": "yes",
+        "capacity": "196",
+        "covered": "no",
+        "fee": "no",
+        "name": "Bicicletário Estação Comendador Ermelino",
+        "opening_hours": "Mo-Su 04:00-23:59",
+        "operator": "CPTM",
+        "operator:type": "public",
+        "supervised": "yes",
+        "id": "way/979341205"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.4812066,
+              -23.4851398
+            ],
+            [
+              -46.48099,
+              -23.485108
+            ],
+            [
+              -46.4810054,
+              -23.4850199
+            ],
+            [
+              -46.4812219,
+              -23.4850516
+            ],
+            [
+              -46.4812066,
+              -23.4851398
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/979341206",
       "properties": {
         "timestamp": "2021-09-03T14:19:38Z",
@@ -9358,6 +9407,24 @@
         "coordinates": [
           -46.73257,
           -23.5609228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12416076748",
+      "properties": {
+        "timestamp": "2024-12-12T14:27:36Z",
+        "version": 1,
+        "changeset": 160210173,
+        "amenity": "bicycle_parking",
+        "id": "node/12416076748"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4611177,
+          -23.4839769
         ]
       }
     }

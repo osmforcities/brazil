@@ -721,6 +721,61 @@
     },
     {
       "type": "Feature",
+      "id": "way/1294971987",
+      "properties": {
+        "timestamp": "2024-12-12T18:51:02Z",
+        "version": 2,
+        "changeset": 160219696,
+        "addr:city": "Santa Rita",
+        "addr:postcode": "58302-195",
+        "addr:street": "Avenida Campina Grande",
+        "addr:suburb": "Tibiri II",
+        "amenity": "school",
+        "grades": "7-12",
+        "name": "Escola Estadual de Ensino Fundamental José Mariano",
+        "nohousenumber": "yes",
+        "operator": "Governo do Estado da Paraíba",
+        "operator:type": "government",
+        "operator:wikidata": "Q96476089",
+        "phone": "+55 (83) 3217-0901",
+        "religion": "no",
+        "website": "escolajmariano@hotmail.com",
+        "id": "way/1294971987"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -34.9635342,
+              -7.1530991
+            ],
+            [
+              -34.9627923,
+              -7.1531112
+            ],
+            [
+              -34.9626419,
+              -7.1526029
+            ],
+            [
+              -34.9634184,
+              -7.1524396
+            ],
+            [
+              -34.9635749,
+              -7.1530688
+            ],
+            [
+              -34.9635342,
+              -7.1530991
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1294971988",
       "properties": {
         "timestamp": "2024-06-22T14:06:51Z",
@@ -776,6 +831,31 @@
               -7.1479056
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5169834828",
+      "properties": {
+        "timestamp": "2024-12-12T18:37:10Z",
+        "version": 3,
+        "changeset": 160219241,
+        "addr:city": "Santa Rita",
+        "addr:postcode": "58304-973",
+        "addr:street": "Rua Governador Tarcísio Burity",
+        "addr:suburb": "Cicerolândia",
+        "amenity": "school",
+        "name": "EMEIF Deputado Flaviano Ribeiro Filho",
+        "nohousenumber": "yes",
+        "operator": "Prefeitura Municipal",
+        "id": "node/5169834828"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.984002,
+          -7.2542861
         ]
       }
     },

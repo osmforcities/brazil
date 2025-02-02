@@ -135,6 +135,49 @@
     },
     {
       "type": "Feature",
+      "id": "way/689545111",
+      "properties": {
+        "timestamp": "2024-12-11T17:12:16Z",
+        "version": 3,
+        "changeset": 160177068,
+        "addr:street": "Rua Padre João Sticker",
+        "amenity": "school",
+        "name": "Escola Estadual de Educação Profissional Rita Matos Luna (EEEP Rita Matos Luna)",
+        "operator": "Governo do Estado do Ceará",
+        "operator:type": "government",
+        "operator:wikidata": "Q96475319",
+        "id": "way/689545111"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -39.5478239,
+              -6.5235288
+            ],
+            [
+              -39.5483389,
+              -6.5247973
+            ],
+            [
+              -39.5474805,
+              -6.5251277
+            ],
+            [
+              -39.5469226,
+              -6.5238379
+            ],
+            [
+              -39.5478239,
+              -6.5235288
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/690078953",
       "properties": {
         "timestamp": "2019-05-15T00:14:53Z",
@@ -287,6 +330,41 @@
         "coordinates": [
           -39.5265923,
           -6.5207627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11158780253",
+      "properties": {
+        "timestamp": "2024-12-11T17:12:16Z",
+        "version": 2,
+        "changeset": 160177068,
+        "addr:city": "Jucás",
+        "addr:postcode": "63580-000",
+        "addr:street": "Rua Padre João Sticker",
+        "addr:suburb": "Sagrada Familia",
+        "amenity": "school",
+        "capacity": "540",
+        "email": "eeepritaluna@escola.ce.gov.br",
+        "grades": "10-12",
+        "internet_access": "yes",
+        "level": "1",
+        "mobile": "5585988798820",
+        "name": "Escola Estadual de Educação Profissional Rita Matos Luna",
+        "nohousenumber": "yes",
+        "operator": "Governo do Estado - Seduc",
+        "operator:type": "public",
+        "start_date": "26/09/2014",
+        "website": "https://www.instagram.com/eeepritaluna/",
+        "wheelchair": "yes",
+        "id": "node/11158780253"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.5475967,
+          -6.5242155
         ]
       }
     }

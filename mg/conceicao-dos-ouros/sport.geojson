@@ -153,6 +153,95 @@
     },
     {
       "type": "Feature",
+      "id": "way/355584413",
+      "properties": {
+        "timestamp": "2024-12-11T14:29:13Z",
+        "version": 4,
+        "changeset": 160171300,
+        "access": "yes",
+        "amenity": "community_centre",
+        "building": "apartments",
+        "building:levels": "2",
+        "name": "Ginasio Poliesportivo Cristovam Chiaradia, Secretaria da Educação, EMATER, Secretaria da Cultura, Museu",
+        "note": "Fazem parte dessa construção:\nGinásio poliesportivo;\nMuseu municipal;\nEMATER; \nSecretaria da Educação;\nSecretaria de Esporte e Cultura;\nSecretaria do meio Ambiente.",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "operator": "Prefeitura municipal de Conceição dos Ouros",
+        "operator:type": "public/government",
+        "polling_station": "yes",
+        "sport": "multi;soccer;volleyball",
+        "wheelchair": "yes",
+        "id": "way/355584413"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -45.7992078,
+              -22.4126899
+            ],
+            [
+              -45.7992189,
+              -22.4127135
+            ],
+            [
+              -45.7992861,
+              -22.4128573
+            ],
+            [
+              -45.7993062,
+              -22.4129003
+            ],
+            [
+              -45.7993572,
+              -22.4130092
+            ],
+            [
+              -45.7994112,
+              -22.4131224
+            ],
+            [
+              -45.7990657,
+              -22.4132546
+            ],
+            [
+              -45.7990185,
+              -22.413149
+            ],
+            [
+              -45.7989644,
+              -22.4130334
+            ],
+            [
+              -45.798954,
+              -22.4130094
+            ],
+            [
+              -45.7989422,
+              -22.4129858
+            ],
+            [
+              -45.7988753,
+              -22.4128428
+            ],
+            [
+              -45.7988674,
+              -22.412826
+            ],
+            [
+              -45.7990678,
+              -22.4127448
+            ],
+            [
+              -45.7992078,
+              -22.4126899
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/497303068",
       "properties": {
         "timestamp": "2017-06-01T02:59:33Z",
@@ -804,6 +893,126 @@
               -22.4137312
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1341814132",
+      "properties": {
+        "timestamp": "2024-12-11T14:35:07Z",
+        "version": 2,
+        "changeset": 160171515,
+        "layer": "0",
+        "leisure": "pitch",
+        "lit": "yes",
+        "sport": "futsal",
+        "id": "way/1341814132"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -45.7991459,
+              -22.412806
+            ],
+            [
+              -45.7991887,
+              -22.4128996
+            ],
+            [
+              -45.7992066,
+              -22.4129388
+            ],
+            [
+              -45.7992576,
+              -22.4130502
+            ],
+            [
+              -45.7990966,
+              -22.413115
+            ],
+            [
+              -45.7990458,
+              -22.4130024
+            ],
+            [
+              -45.7990231,
+              -22.4129522
+            ],
+            [
+              -45.7989841,
+              -22.4128658
+            ],
+            [
+              -45.7990982,
+              -22.4128236
+            ],
+            [
+              -45.7991459,
+              -22.412806
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12412690195",
+      "properties": {
+        "timestamp": "2024-12-11T14:35:07Z",
+        "version": 2,
+        "changeset": 160171515,
+        "entrance": "main",
+        "layer": "0",
+        "level": "0",
+        "id": "node/12412690195"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.7990678,
+          -22.4127448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12412690196",
+      "properties": {
+        "timestamp": "2024-12-11T14:35:07Z",
+        "version": 2,
+        "changeset": 160171515,
+        "entrance": "main",
+        "layer": "1",
+        "level": "1",
+        "id": "node/12412690196"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.798954,
+          -22.4130094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12412722039",
+      "properties": {
+        "timestamp": "2024-12-11T14:35:07Z",
+        "version": 1,
+        "changeset": 160171515,
+        "entrance": "main",
+        "level": "0",
+        "id": "node/12412722039"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.7990982,
+          -22.4128236
         ]
       }
     }

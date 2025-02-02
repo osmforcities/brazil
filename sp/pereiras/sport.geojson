@@ -3,6 +3,165 @@
   "features": [
     {
       "type": "Feature",
+      "id": "way/168873493",
+      "properties": {
+        "timestamp": "2024-12-11T14:01:09Z",
+        "version": 8,
+        "changeset": 160170024,
+        "addr:city": "Pereiras",
+        "addr:street": "Rua Alcino de Góes Lima",
+        "leisure": "stadium",
+        "name": "Estádio José Lupércio Prestes",
+        "nohousenumber": "yes",
+        "sport": "soccer",
+        "id": "way/168873493"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.9733435,
+              -23.0768311
+            ],
+            [
+              -47.9733025,
+              -23.0768286
+            ],
+            [
+              -47.9722818,
+              -23.0768123
+            ],
+            [
+              -47.9721616,
+              -23.0768117
+            ],
+            [
+              -47.9721725,
+              -23.0765223
+            ],
+            [
+              -47.9722491,
+              -23.0765241
+            ],
+            [
+              -47.9722551,
+              -23.0761913
+            ],
+            [
+              -47.9732597,
+              -23.0762072
+            ],
+            [
+              -47.9733172,
+              -23.0762081
+            ],
+            [
+              -47.9733552,
+              -23.0762087
+            ],
+            [
+              -47.9733496,
+              -23.0765071
+            ],
+            [
+              -47.9733435,
+              -23.0768311
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/168873495",
+      "properties": {
+        "timestamp": "2024-12-11T14:01:09Z",
+        "version": 10,
+        "changeset": 160170024,
+        "addr:city": "Pereiras",
+        "addr:street": "Rua Coronel José Bonini",
+        "leisure": "stadium",
+        "name": "Estádio Felipe Gazzola",
+        "nohousenumber": "yes",
+        "sport": "soccer",
+        "surface": "grass",
+        "id": "way/168873495"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.9758793,
+              -23.0717855
+            ],
+            [
+              -47.9758798,
+              -23.0718522
+            ],
+            [
+              -47.9758767,
+              -23.0721971
+            ],
+            [
+              -47.9758676,
+              -23.0725989
+            ],
+            [
+              -47.9755212,
+              -23.0725967
+            ],
+            [
+              -47.9755208,
+              -23.0726232
+            ],
+            [
+              -47.9747931,
+              -23.0726266
+            ],
+            [
+              -47.9747872,
+              -23.0718503
+            ],
+            [
+              -47.9752159,
+              -23.071846
+            ],
+            [
+              -47.9752156,
+              -23.07182
+            ],
+            [
+              -47.9752502,
+              -23.0718204
+            ],
+            [
+              -47.9753215,
+              -23.0718206
+            ],
+            [
+              -47.9753222,
+              -23.0718065
+            ],
+            [
+              -47.9755455,
+              -23.0718034
+            ],
+            [
+              -47.9755455,
+              -23.0717861
+            ],
+            [
+              -47.9758793,
+              -23.0717855
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/200493559",
       "properties": {
         "timestamp": "2018-11-01T05:54:53Z",
@@ -200,6 +359,62 @@
             [
               -47.9465561,
               -23.0361339
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/666209455",
+      "properties": {
+        "timestamp": "2024-12-11T14:01:09Z",
+        "version": 7,
+        "changeset": 160170024,
+        "addr:city": "Pereiras",
+        "addr:street": "Rua Coronel José Bonini",
+        "building": "yes",
+        "leisure": "sports_centre",
+        "name": "Ginásio Municipal de Esportes Prefeito Joaquim Silveira Leite",
+        "nohousenumber": "yes",
+        "sport": "multi",
+        "id": "way/666209455"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.9748085,
+              -23.072631
+            ],
+            [
+              -47.9751365,
+              -23.0726321
+            ],
+            [
+              -47.9751351,
+              -23.0729447
+            ],
+            [
+              -47.9751346,
+              -23.0730833
+            ],
+            [
+              -47.9748545,
+              -23.0730823
+            ],
+            [
+              -47.9748544,
+              -23.073117
+            ],
+            [
+              -47.9748065,
+              -23.0731168
+            ],
+            [
+              -47.9748085,
+              -23.072631
             ]
           ]
         ]
@@ -565,6 +780,60 @@
               -23.0729099
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6226164175",
+      "properties": {
+        "timestamp": "2019-01-21T23:33:56Z",
+        "version": 1,
+        "changeset": 66521850,
+        "entrance": "service",
+        "id": "node/6226164175"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.9733025,
+          -23.0768286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6226164176",
+      "properties": {
+        "timestamp": "2019-01-21T23:33:56Z",
+        "version": 1,
+        "changeset": 66521850,
+        "entrance": "main",
+        "id": "node/6226164176"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.9733172,
+          -23.0762081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6237927323",
+      "properties": {
+        "timestamp": "2019-01-26T13:30:22Z",
+        "version": 1,
+        "changeset": 66655245,
+        "entrance": "service",
+        "id": "node/6237927323"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.9722818,
+          -23.0768123
         ]
       }
     },

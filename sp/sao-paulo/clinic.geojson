@@ -2139,6 +2139,79 @@
     },
     {
       "type": "Feature",
+      "id": "way/402991536",
+      "properties": {
+        "timestamp": "2024-12-11T19:12:21Z",
+        "version": 6,
+        "changeset": 160181515,
+        "addr:city": "Sao Paulo",
+        "addr:housenumber": "370",
+        "addr:postcode": "08420-680",
+        "addr:street": "Rua Silvanópolis",
+        "addr:suburb": "Itaquera",
+        "amenity": "clinic",
+        "barrier": "fence",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general;vaccination;paediatrics",
+        "name": "Unidade Básica de Saúde Franciso Antônio Cesaroni",
+        "operator": "Secretaria de Saúde",
+        "operator:ref:vatin": "BR46392130000380",
+        "operator:type": "government",
+        "phone": "+55 11 2552-5355;+55 11 2557-8938",
+        "ref:CNES": "4049942",
+        "short_name": "UBS Jardim São Pedro",
+        "id": "way/402991536"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.4302895,
+              -23.5475576
+            ],
+            [
+              -46.4304393,
+              -23.5476066
+            ],
+            [
+              -46.430508,
+              -23.5475418
+            ],
+            [
+              -46.4306741,
+              -23.5475882
+            ],
+            [
+              -46.430339,
+              -23.5485061
+            ],
+            [
+              -46.4303171,
+              -23.548531
+            ],
+            [
+              -46.4302647,
+              -23.5485394
+            ],
+            [
+              -46.4299803,
+              -23.5484601
+            ],
+            [
+              -46.4295421,
+              -23.548338
+            ],
+            [
+              -46.4302895,
+              -23.5475576
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/411054345",
       "properties": {
         "timestamp": "2023-07-27T23:32:38Z",
@@ -18806,6 +18879,27 @@
         "coordinates": [
           -46.4446522,
           -23.5535442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10905809924",
+      "properties": {
+        "timestamp": "2023-05-17T18:38:43Z",
+        "version": 1,
+        "changeset": 136224749,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "370",
+        "addr:street": "Rua Silvanópolis",
+        "entrance": "yes",
+        "id": "node/10905809924"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4299803,
+          -23.5484601
         ]
       }
     },

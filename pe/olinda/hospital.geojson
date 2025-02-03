@@ -75,6 +75,60 @@
     },
     {
       "type": "Feature",
+      "id": "way/586079782",
+      "properties": {
+        "timestamp": "2024-12-13T15:34:41Z",
+        "version": 2,
+        "changeset": 160251046,
+        "addr:city": "Olinda",
+        "addr:street": "Avenida Joaquim Nabuco",
+        "addr:suburb": "Cidade Tabajara",
+        "amenity": "hospital",
+        "email": "olinda.adminstracao@upa.imip.org.br",
+        "healthcare": "hospital",
+        "name": "UPA Olinda – Gregório Lourenço Bezerra",
+        "nohousenumber": "yes",
+        "phone": "+55 81 3184.4303",
+        "id": "way/586079782"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -34.8661432,
+              -7.9708502
+            ],
+            [
+              -34.8661489,
+              -7.9708579
+            ],
+            [
+              -34.8662656,
+              -7.970924
+            ],
+            [
+              -34.8664611,
+              -7.9710374
+            ],
+            [
+              -34.8662557,
+              -7.9712891
+            ],
+            [
+              -34.8659969,
+              -7.9711278
+            ],
+            [
+              -34.8661432,
+              -7.9708502
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/586079783",
       "properties": {
         "timestamp": "2018-05-06T15:20:47Z",
@@ -198,6 +252,61 @@
     },
     {
       "type": "Feature",
+      "id": "way/813932495",
+      "properties": {
+        "timestamp": "2024-12-13T15:34:41Z",
+        "version": 2,
+        "changeset": 160251046,
+        "addr:city": "Olinda",
+        "addr:street": "Avenida Pan Nordestina",
+        "addr:suburb": "Cidade Tabajara",
+        "amenity": "hospital",
+        "email": "olinda.adminstracao@upa.imip.org.br",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "UPA Olinda – Gregório Lourenço Bezerra",
+        "nohousenumber": "yes",
+        "phone": "+55 81 3184.4303",
+        "id": "way/813932495"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -34.8600135,
+              -7.9793477
+            ],
+            [
+              -34.860151,
+              -7.9797127
+            ],
+            [
+              -34.8596109,
+              -7.9801521
+            ],
+            [
+              -34.8592934,
+              -7.9797731
+            ],
+            [
+              -34.859868,
+              -7.9793299
+            ],
+            [
+              -34.8599163,
+              -7.9794241
+            ],
+            [
+              -34.8600135,
+              -7.9793477
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/993332486",
       "properties": {
         "timestamp": "2021-10-16T20:28:51Z",
@@ -259,6 +368,34 @@
         "coordinates": [
           -34.833327,
           -7.9713675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5508580039",
+      "properties": {
+        "timestamp": "2024-12-13T15:34:41Z",
+        "version": 4,
+        "changeset": 160251046,
+        "addr:city": "Olinda",
+        "addr:postcode": "53350-005",
+        "addr:street": "Avenida Joaquim Nabuco",
+        "addr:suburb": "Tabajara",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "orthopaedics;paediatrics;otolaryngology",
+        "name": "UPA Olinda – Gregório Lourenço Bezerra",
+        "nohousenumber": "yes",
+        "phone": "+55 81 3184-4303",
+        "id": "node/5508580039"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.86617,
+          -7.9710119
         ]
       }
     }

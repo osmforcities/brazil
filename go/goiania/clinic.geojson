@@ -342,6 +342,47 @@
     },
     {
       "type": "Feature",
+      "id": "way/312887347",
+      "properties": {
+        "timestamp": "2024-12-13T18:12:58Z",
+        "version": 2,
+        "changeset": 160257185,
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "CSF Jardim Curitiba III",
+        "id": "way/312887347"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.339126,
+              -16.5865319
+            ],
+            [
+              -49.33868,
+              -16.5867685
+            ],
+            [
+              -49.3385944,
+              -16.5866201
+            ],
+            [
+              -49.3390403,
+              -16.5863835
+            ],
+            [
+              -49.339126,
+              -16.5865319
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/362502709",
       "properties": {
         "timestamp": "2022-10-18T16:50:42Z",
@@ -1183,6 +1224,26 @@
         "coordinates": [
           -49.2778876,
           -16.6675981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2593029296",
+      "properties": {
+        "timestamp": "2024-12-13T20:01:15Z",
+        "version": 2,
+        "changeset": 160260114,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Centro de Saúde Vila Clemente",
+        "id": "node/2593029296"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2899915,
+          -16.6517929
         ]
       }
     },

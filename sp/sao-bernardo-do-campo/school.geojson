@@ -3174,6 +3174,87 @@
     },
     {
       "type": "Feature",
+      "id": "way/304468126",
+      "properties": {
+        "timestamp": "2024-12-13T13:43:03Z",
+        "version": 7,
+        "changeset": 160246922,
+        "addr:city": "São Bernardo do Campo",
+        "addr:country": "BR",
+        "addr:postcode": "09853-005",
+        "addr:street": "Estrada do Poney Club",
+        "addr:suburb": "Alvarenga",
+        "amenity": "school",
+        "barrier": "wall",
+        "contact:phone": "+55 11 4358 2214",
+        "email": "e904958P@educacao.sp.gov.br",
+        "name": "E.E Francisco Cristiano Lima de Freitas",
+        "nohousenumber": "yes",
+        "operator": "Secretaria da Educação do Estado de São Paulo",
+        "operator:type": "government",
+        "phone": "+55 11 4358 2554",
+        "ref": "INEP-35904958",
+        "short_name": "Escola Estadual Francisco Cristiano Lima de Freitas",
+        "id": "way/304468126"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.6007937,
+              -23.7505064
+            ],
+            [
+              -46.6004785,
+              -23.7511694
+            ],
+            [
+              -46.5998991,
+              -23.7509433
+            ],
+            [
+              -46.5999491,
+              -23.7508336
+            ],
+            [
+              -46.5998211,
+              -23.7507806
+            ],
+            [
+              -46.5998154,
+              -23.7507782
+            ],
+            [
+              -46.5999307,
+              -23.7505321
+            ],
+            [
+              -46.6000459,
+              -23.750286
+            ],
+            [
+              -46.6000747,
+              -23.7502516
+            ],
+            [
+              -46.6001026,
+              -23.7502451
+            ],
+            [
+              -46.6001271,
+              -23.7502457
+            ],
+            [
+              -46.6007937,
+              -23.7505064
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/304468370",
       "properties": {
         "timestamp": "2022-07-25T23:01:37Z",
@@ -9828,6 +9909,24 @@
         "coordinates": [
           -46.5787658,
           -23.7346846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10926491196",
+      "properties": {
+        "timestamp": "2023-05-25T15:14:09Z",
+        "version": 1,
+        "changeset": 136548599,
+        "entrance": "main",
+        "id": "node/10926491196"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5999307,
+          -23.7505321
         ]
       }
     },

@@ -13223,6 +13223,61 @@
     },
     {
       "type": "Feature",
+      "id": "way/254532349",
+      "properties": {
+        "timestamp": "2019-11-15T14:49:00Z",
+        "version": 4,
+        "changeset": 77133680,
+        "PrefRecife:escola_codigo": "16",
+        "PrefRecife:escola_tipo": "Esc",
+        "PrefRecife:mec_codigo": "26136269",
+        "addr:housenumber": "85",
+        "addr:place": "Santo Amaro",
+        "addr:street": "Rua Anchieta",
+        "amenity": "school",
+        "name": "Escola Sitio do Céu",
+        "source": "Prefeitura do Recife",
+        "source:date": "2013-07-15",
+        "id": "way/254532349"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -34.8806144,
+              -8.0412692
+            ],
+            [
+              -34.8805512,
+              -8.0414125
+            ],
+            [
+              -34.8804317,
+              -8.0413608
+            ],
+            [
+              -34.880479,
+              -8.0412536
+            ],
+            [
+              -34.8804612,
+              -8.0412459
+            ],
+            [
+              -34.8804771,
+              -8.0412098
+            ],
+            [
+              -34.8806144,
+              -8.0412692
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/254532350",
       "properties": {
         "timestamp": "2019-11-10T18:04:35Z",
@@ -14798,6 +14853,49 @@
             [
               -34.9104623,
               -8.0902356
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/373540420",
+      "properties": {
+        "timestamp": "2024-12-13T15:11:55Z",
+        "version": 3,
+        "changeset": 160250188,
+        "addr:city": "Recife",
+        "addr:street": "Rua Guapirama",
+        "addr:suburb": "Ilha Joana Bezerra",
+        "amenity": "school",
+        "name": "Creche Maezinha do Coque",
+        "nohousenumber": "yes",
+        "id": "way/373540420"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -34.8998001,
+              -8.0716075
+            ],
+            [
+              -34.8997109,
+              -8.0715978
+            ],
+            [
+              -34.8997161,
+              -8.0715461
+            ],
+            [
+              -34.8998045,
+              -8.0715549
+            ],
+            [
+              -34.8998001,
+              -8.0716075
             ]
           ]
         ]
@@ -25521,6 +25619,91 @@
     },
     {
       "type": "Feature",
+      "id": "way/949231496",
+      "properties": {
+        "timestamp": "2024-12-13T18:08:45Z",
+        "version": 5,
+        "changeset": 160257036,
+        "addr:city": "Recife",
+        "addr:street": "Rua José Carvalheira",
+        "addr:suburb": "Tamarineira",
+        "amenity": "school",
+        "id": "way/949231496"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -34.9036684,
+              -8.0288252
+            ],
+            [
+              -34.9037153,
+              -8.0289214
+            ],
+            [
+              -34.9035421,
+              -8.0290064
+            ],
+            [
+              -34.9033891,
+              -8.0290761
+            ],
+            [
+              -34.903338,
+              -8.0290994
+            ],
+            [
+              -34.903168,
+              -8.0291795
+            ],
+            [
+              -34.9031081,
+              -8.0290561
+            ],
+            [
+              -34.9031527,
+              -8.0290375
+            ],
+            [
+              -34.9033211,
+              -8.0289672
+            ],
+            [
+              -34.9033339,
+              -8.0289619
+            ],
+            [
+              -34.9035,
+              -8.0288973
+            ],
+            [
+              -34.903538,
+              -8.0288797
+            ],
+            [
+              -34.903572,
+              -8.0288685
+            ],
+            [
+              -34.9035769,
+              -8.0288604
+            ],
+            [
+              -34.9036127,
+              -8.0288481
+            ],
+            [
+              -34.9036684,
+              -8.0288252
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/967115165",
       "properties": {
         "timestamp": "2021-07-24T23:28:49Z",
@@ -26945,6 +27128,27 @@
     },
     {
       "type": "Feature",
+      "id": "node/5732805335",
+      "properties": {
+        "timestamp": "2024-12-13T18:47:56Z",
+        "version": 2,
+        "changeset": 160258141,
+        "addr:housenumber": "3620",
+        "addr:street": "Avenida Beberibe",
+        "amenity": "school",
+        "source": "Prefeitura do Recife",
+        "id": "node/5732805335"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.8898661,
+          -8.0059816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/5732860211",
       "properties": {
         "timestamp": "2018-07-02T00:03:46Z",
@@ -28004,6 +28208,30 @@
         "coordinates": [
           -34.9497121,
           -8.1312198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6199733739",
+      "properties": {
+        "timestamp": "2024-12-13T15:35:46Z",
+        "version": 2,
+        "changeset": 160251071,
+        "addr:city": "Recife",
+        "addr:postcode": "51010-420",
+        "addr:street": "Rua Carapeba",
+        "addr:suburb": "Brasília Teimosa",
+        "amenity": "school",
+        "name": "Escola Municipal Escritor Josue de Castro",
+        "nohousenumber": "yes",
+        "id": "node/6199733739"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.8816409,
+          -8.08456
         ]
       }
     },

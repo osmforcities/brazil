@@ -2543,6 +2543,59 @@
     },
     {
       "type": "Feature",
+      "id": "way/1265210799",
+      "properties": {
+        "timestamp": "2024-12-13T00:04:16Z",
+        "version": 3,
+        "changeset": 160227123,
+        "addr:city": "Belém",
+        "addr:street": "Passagem Elvira",
+        "addr:suburb": "Curió Utinga",
+        "amenity": "school",
+        "building": "yes",
+        "building:levels": "2",
+        "denomination": "protestant",
+        "grades": "2-12",
+        "name": "Escola Lápis de Cor",
+        "operator": "Educção Infantil e Fundamental - Anos Iniciais",
+        "operator:type": "private",
+        "religion": "christian",
+        "id": "way/1265210799"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.4467457,
+              -1.4327604
+            ],
+            [
+              -48.4467861,
+              -1.43266
+            ],
+            [
+              -48.446965,
+              -1.4327408
+            ],
+            [
+              -48.4469294,
+              -1.432838
+            ],
+            [
+              -48.4468506,
+              -1.4328022
+            ],
+            [
+              -48.4467457,
+              -1.4327604
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1268250393",
       "properties": {
         "timestamp": "2024-04-01T23:10:42Z",
@@ -3704,6 +3757,136 @@
             [
               -48.4344382,
               -1.4018606
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1342279120",
+      "properties": {
+        "timestamp": "2024-12-13T00:02:10Z",
+        "version": 1,
+        "changeset": 160227092,
+        "addr:street": "Alameda Osvaldo Coelho",
+        "amenity": "school",
+        "name": "Bilíngue Surdez",
+        "id": "way/1342279120"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.4508581,
+              -1.4259227
+            ],
+            [
+              -48.4509015,
+              -1.4258183
+            ],
+            [
+              -48.4508386,
+              -1.4257953
+            ],
+            [
+              -48.450905,
+              -1.4256193
+            ],
+            [
+              -48.4511271,
+              -1.4257025
+            ],
+            [
+              -48.4509926,
+              -1.4260059
+            ],
+            [
+              -48.4508581,
+              -1.4259227
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1342280683",
+      "properties": {
+        "timestamp": "2024-12-13T00:15:22Z",
+        "version": 1,
+        "changeset": 160227243,
+        "addr:city": "Belém",
+        "addr:street": "Rua D",
+        "addr:suburb": "Mangueirão",
+        "amenity": "school",
+        "name": "Madre Celeste",
+        "id": "way/1342280683"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.4328522,
+              -1.3963945
+            ],
+            [
+              -48.4317763,
+              -1.3964475
+            ],
+            [
+              -48.4315498,
+              -1.3956833
+            ],
+            [
+              -48.432792,
+              -1.3955878
+            ],
+            [
+              -48.4328522,
+              -1.3963945
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1342281899",
+      "properties": {
+        "timestamp": "2024-12-13T00:27:41Z",
+        "version": 1,
+        "changeset": 160227369,
+        "amenity": "school",
+        "building": "house",
+        "name": "Escola Vida Pará",
+        "id": "way/1342281899"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.4497532,
+              -1.3099514
+            ],
+            [
+              -48.4497448,
+              -1.3101438
+            ],
+            [
+              -48.4496298,
+              -1.3101187
+            ],
+            [
+              -48.4496496,
+              -1.3099462
+            ],
+            [
+              -48.4497532,
+              -1.3099514
             ]
           ]
         ]
@@ -5886,6 +6069,30 @@
         "coordinates": [
           -48.4758799,
           -1.3967053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12417569919",
+      "properties": {
+        "timestamp": "2024-12-13T00:11:09Z",
+        "version": 2,
+        "changeset": 160227197,
+        "addr:city": "Belém",
+        "addr:housenumber": "122",
+        "addr:postcode": "66623-590",
+        "addr:street": "Rodovia Augusto Montenegro",
+        "addr:suburb": "Castanheira",
+        "amenity": "school",
+        "name": "Santa Madre",
+        "id": "node/12417569919"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.43395,
+          -1.4014664
         ]
       }
     }

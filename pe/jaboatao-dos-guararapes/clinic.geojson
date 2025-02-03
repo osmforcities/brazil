@@ -3,6 +3,105 @@
   "features": [
     {
       "type": "Feature",
+      "id": "way/483258261",
+      "properties": {
+        "timestamp": "2024-12-13T15:34:59Z",
+        "version": 6,
+        "changeset": 160251052,
+        "addr:city": "Jaboatão dos Guararapes",
+        "addr:street": "Avenida General Manoel Rabelo",
+        "amenity": "clinic",
+        "name": "UPA Engenho Velho – Carlos Wilson",
+        "nohousenumber": "yes",
+        "phone": "+55 81 3184.4520",
+        "id": "way/483258261"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -35.0070598,
+              -8.1111464
+            ],
+            [
+              -35.0063131,
+              -8.1111476
+            ],
+            [
+              -35.0063154,
+              -8.110757
+            ],
+            [
+              -35.0063479,
+              -8.1107568
+            ],
+            [
+              -35.0066241,
+              -8.1107547
+            ],
+            [
+              -35.0066376,
+              -8.1107546
+            ],
+            [
+              -35.0066796,
+              -8.110754
+            ],
+            [
+              -35.0067233,
+              -8.1107534
+            ],
+            [
+              -35.0068073,
+              -8.1107523
+            ],
+            [
+              -35.0068104,
+              -8.1107523
+            ],
+            [
+              -35.0068956,
+              -8.1107592
+            ],
+            [
+              -35.0069248,
+              -8.1107616
+            ],
+            [
+              -35.0069692,
+              -8.1107731
+            ],
+            [
+              -35.0070042,
+              -8.1108009
+            ],
+            [
+              -35.0070299,
+              -8.1108379
+            ],
+            [
+              -35.0070416,
+              -8.1108749
+            ],
+            [
+              -35.0070454,
+              -8.1110682
+            ],
+            [
+              -35.0070443,
+              -8.1111282
+            ],
+            [
+              -35.0070598,
+              -8.1111464
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/541398146",
       "properties": {
         "timestamp": "2017-11-17T19:02:27Z",
@@ -1054,6 +1153,29 @@
               -8.1735408
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2633215741",
+      "properties": {
+        "timestamp": "2017-03-28T17:22:34Z",
+        "version": 2,
+        "changeset": 47235867,
+        "fixme": "rever localização - veja http://goo.gl/xIisHo",
+        "highway": "bus_stop",
+        "name": "50003",
+        "ref": "BR-2607901-50003",
+        "source": "Dados Abertos Governo de Pernambuco",
+        "source:date": "2013-03-14",
+        "id": "node/2633215741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.0066796,
+          -8.110754
         ]
       }
     },

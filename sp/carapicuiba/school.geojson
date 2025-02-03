@@ -2544,6 +2544,82 @@
     },
     {
       "type": "Feature",
+      "id": "way/1259523792",
+      "properties": {
+        "timestamp": "2024-12-13T13:45:49Z",
+        "version": 2,
+        "changeset": 160247009,
+        "addr:city": "Carapicuíba",
+        "addr:postcode": "06390-370",
+        "addr:street": "Rua Queluz",
+        "addr:suburb": "Cidade Ariston Estela Azevedo",
+        "amenity": "school",
+        "name": "Escola Estadual Cidade Ariston Estela Azevedo IV",
+        "nohousenumber": "yes",
+        "id": "way/1259523792"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.8553625,
+              -23.5402407
+            ],
+            [
+              -46.8557168,
+              -23.5405302
+            ],
+            [
+              -46.8557309,
+              -23.5405561
+            ],
+            [
+              -46.8557309,
+              -23.5405914
+            ],
+            [
+              -46.8557066,
+              -23.5406211
+            ],
+            [
+              -46.8556034,
+              -23.5406805
+            ],
+            [
+              -46.8555382,
+              -23.540722
+            ],
+            [
+              -46.8555016,
+              -23.540703
+            ],
+            [
+              -46.8554455,
+              -23.5407046
+            ],
+            [
+              -46.8554597,
+              -23.540764
+            ],
+            [
+              -46.8553058,
+              -23.5408735
+            ],
+            [
+              -46.8551985,
+              -23.5404244
+            ],
+            [
+              -46.8553625,
+              -23.5402407
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1259523795",
       "properties": {
         "timestamp": "2024-03-09T21:49:37Z",
@@ -2756,6 +2832,60 @@
             [
               -46.8477578,
               -23.5390193
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1259828074",
+      "properties": {
+        "timestamp": "2024-12-13T13:45:49Z",
+        "version": 2,
+        "changeset": 160247009,
+        "addr:city": "Carapicuiba",
+        "addr:postcode": "06360-150",
+        "addr:street": "Rua Santa Helena",
+        "amenity": "school",
+        "barrier": "wall",
+        "name": "E.E Professor José Maria Perez Ferreira",
+        "nohousenumber": "yes",
+        "phone": "+55 11 4187-4724",
+        "website": "http://www.educacao.sp.gov.br/central-de-atendimento/Det_contato.asp?op=918829&detmodx=0&cod_mun=255&Ensino=0&Diretoria=10701&Modalidade=0&rede=1&nome=&distrito=0&Paginar=2&firsttime=Nao&CD_ADM=1",
+        "id": "way/1259828074"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.8400009,
+              -23.5603276
+            ],
+            [
+              -46.840041,
+              -23.5603682
+            ],
+            [
+              -46.8400159,
+              -23.5612376
+            ],
+            [
+              -46.8394921,
+              -23.5613041
+            ],
+            [
+              -46.8393833,
+              -23.5607161
+            ],
+            [
+              -46.8394912,
+              -23.5603406
+            ],
+            [
+              -46.8400009,
+              -23.5603276
             ]
           ]
         ]
@@ -3256,6 +3386,24 @@
         "coordinates": [
           -46.8244979,
           -23.5817458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11712520067",
+      "properties": {
+        "timestamp": "2024-03-10T23:14:43Z",
+        "version": 1,
+        "changeset": 148483333,
+        "entrance": "main",
+        "id": "node/11712520067"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.8400009,
+          -23.5603276
         ]
       }
     }

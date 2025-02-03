@@ -3389,6 +3389,83 @@
     },
     {
       "type": "Feature",
+      "id": "way/369602602",
+      "properties": {
+        "timestamp": "2024-12-13T13:21:17Z",
+        "version": 10,
+        "changeset": 160246058,
+        "addr:city": "Fortaleza",
+        "addr:street": "Rua 751",
+        "addr:suburb": "Conjunto Ceará",
+        "barrier": "wall",
+        "landuse": "commercial",
+        "name": "CAGECE - Unidade Metropolitana Oeste",
+        "nohousenumber": "yes",
+        "note": "Local sem número",
+        "office": "government",
+        "operator": "Companhia de Água e Esgoto do Ceará",
+        "phone": "3101.5660",
+        "short_name": "UNMTO",
+        "id": "way/369602602"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.6028549,
+              -3.7729792
+            ],
+            [
+              -38.6021803,
+              -3.7734744
+            ],
+            [
+              -38.6016327,
+              -3.7727197
+            ],
+            [
+              -38.601801,
+              -3.7725694
+            ],
+            [
+              -38.602033,
+              -3.77242
+            ],
+            [
+              -38.6022487,
+              -3.7719372
+            ],
+            [
+              -38.6023567,
+              -3.7721963
+            ],
+            [
+              -38.6026405,
+              -3.7726025
+            ],
+            [
+              -38.6026712,
+              -3.7726442
+            ],
+            [
+              -38.6027364,
+              -3.7727331
+            ],
+            [
+              -38.6028509,
+              -3.7728893
+            ],
+            [
+              -38.6028549,
+              -3.7729792
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/385938136",
       "properties": {
         "timestamp": "2020-01-11T02:32:05Z",
@@ -11146,6 +11223,24 @@
         "coordinates": [
           -38.5353921,
           -3.7716986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3900837781",
+      "properties": {
+        "timestamp": "2015-12-20T03:46:09Z",
+        "version": 1,
+        "changeset": 36057921,
+        "entrance": "yes",
+        "id": "node/3900837781"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.6026712,
+          -3.7726442
         ]
       }
     },

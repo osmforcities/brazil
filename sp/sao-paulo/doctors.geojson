@@ -3,6 +3,139 @@
   "features": [
     {
       "type": "Feature",
+      "id": "relation/8556169",
+      "properties": {
+        "timestamp": "2024-12-13T13:44:00Z",
+        "version": 7,
+        "changeset": 160246959,
+        "addr:city": "São Paulo",
+        "addr:postcode": "04828-070",
+        "addr:street": "Rua Doutor Carlos Pezzolo",
+        "addr:suburb": "Jardim Esmeralda",
+        "amenity": "doctors",
+        "building": "yes",
+        "currency:XBT": "no",
+        "description": "Ambulatório de Especialidades",
+        "ele": "760",
+        "email": "capeladosocorro@prefeitura.sp.gov.br",
+        "fax": "+55 11 5971-2532",
+        "fixme": "AMB ESPEC JARDIM CLIPER",
+        "healthcare": "doctor",
+        "healthcare:speciality": "general",
+        "height": "9.51",
+        "level": "4",
+        "name": "Ambulatório de Especialidades Jardim Cliper",
+        "nohousenumber": "yes",
+        "note": "Capela do Socorro",
+        "opening_hours": "07:00-19:00",
+        "operator": "AEJC",
+        "payment:account_cards": "yes",
+        "payment:american_express": "yes",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "payment:cheque": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:diners_club": "yes",
+        "payment:discover_card": "yes",
+        "payment:dkv": "yes",
+        "payment:electronic_purses": "yes",
+        "payment:girocard": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:pikepass": "yes",
+        "payment:uta": "yes",
+        "payment:visa": "yes",
+        "payment:visa_debit": "yes",
+        "payment:visa_electron": "yes",
+        "phone": "+55 11 5928-5703",
+        "source": "pmsp;survey;local knowledge;gps;aerial imagery;streetlevel imagery",
+        "start_date": "1995",
+        "tourism": "attraction",
+        "type": "multipolygon",
+        "website": "https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/saude/arquivos/organizacao/Unid_Munic_Saude_Subp.pdf",
+        "wheelchair": "yes",
+        "wikidata": "Q10369223",
+        "wikipedia": "pt:Secretaria Municipal da Saúde de São Paulo",
+        "id": "relation/8556169"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.7060656,
+              -23.7236365
+            ],
+            [
+              -46.7060831,
+              -23.7236215
+            ],
+            [
+              -46.7064073,
+              -23.7239455
+            ],
+            [
+              -46.7063168,
+              -23.7240223
+            ],
+            [
+              -46.7062628,
+              -23.7239684
+            ],
+            [
+              -46.706199,
+              -23.7240224
+            ],
+            [
+              -46.7061088,
+              -23.7239324
+            ],
+            [
+              -46.7061729,
+              -23.7238781
+            ],
+            [
+              -46.7059928,
+              -23.7236981
+            ],
+            [
+              -46.706013,
+              -23.7236809
+            ],
+            [
+              -46.7060656,
+              -23.7236365
+            ]
+          ],
+          [
+            [
+              -46.7061401,
+              -23.7239339
+            ],
+            [
+              -46.7062011,
+              -23.723995
+            ],
+            [
+              -46.7062491,
+              -23.7239546
+            ],
+            [
+              -46.7061882,
+              -23.7238933
+            ],
+            [
+              -46.7061401,
+              -23.7239339
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/124097552",
       "properties": {
         "timestamp": "2023-08-31T18:10:55Z",

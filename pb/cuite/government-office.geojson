@@ -254,6 +254,55 @@
     },
     {
       "type": "Feature",
+      "id": "way/953109829",
+      "properties": {
+        "timestamp": "2024-12-17T23:25:50Z",
+        "version": 3,
+        "changeset": 160326812,
+        "addr:city": "Cuité",
+        "addr:postcode": "58175-000",
+        "addr:street": "Rua Samuel Furtado",
+        "building": "yes",
+        "building:levels": "2",
+        "government": "judicial",
+        "name": "Depósito Judicial Cel. Benedito Lima Júnior",
+        "office": "government",
+        "id": "way/953109829"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -36.1577668,
+              -6.4847672
+            ],
+            [
+              -36.1578235,
+              -6.4848938
+            ],
+            [
+              -36.1578479,
+              -6.4849482
+            ],
+            [
+              -36.1577062,
+              -6.4850109
+            ],
+            [
+              -36.1576251,
+              -6.4848299
+            ],
+            [
+              -36.1577668,
+              -6.4847672
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/953109830",
       "properties": {
         "timestamp": "2024-07-08T11:28:27Z",
@@ -683,6 +732,24 @@
         "coordinates": [
           -36.161706,
           -6.4835857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12427861179",
+      "properties": {
+        "timestamp": "2024-12-17T23:25:50Z",
+        "version": 1,
+        "changeset": 160326812,
+        "entrance": "main",
+        "id": "node/12427861179"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.1578235,
+          -6.4848938
         ]
       }
     }

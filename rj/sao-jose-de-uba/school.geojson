@@ -5,11 +5,19 @@
       "type": "Feature",
       "id": "way/261418730",
       "properties": {
-        "timestamp": "2021-07-20T18:52:04Z",
-        "version": 2,
-        "changeset": 108335196,
+        "timestamp": "2024-12-18T19:35:43Z",
+        "version": 4,
+        "changeset": 160366070,
+        "addr:city": "São José de Ubá",
+        "addr:housenumber": "347",
+        "addr:postcode": "28455-000",
+        "addr:street": "Avenida David Vieira Ney",
+        "addr:suburb": "Centro",
         "amenity": "school",
-        "name": "Escola Estadual Moacyr Gomes de Azevedo",
+        "name": "Colégio Estadual Maria Leny Vieira Ferreira Silva",
+        "operator": "Secretaria de Educação do Estado do Rio de Janeiro",
+        "operator:type": "government",
+        "operator:wikidata": "Q56351917",
         "id": "way/261418730"
       },
       "geometry": {
@@ -17,28 +25,32 @@
         "coordinates": [
           [
             [
-              -41.9433311,
-              -21.3598377
+              -41.9433874,
+              -21.3598214
             ],
             [
-              -41.9431721,
-              -21.3600846
+              -41.9432123,
+              -21.3600608
             ],
             [
-              -41.9428101,
-              -21.3599004
+              -41.9430649,
+              -21.3601101
             ],
             [
-              -41.9423932,
-              -21.3596973
+              -41.9428651,
+              -21.3602364
             ],
             [
-              -41.9425602,
-              -21.3594501
+              -41.9423181,
+              -21.3598859
             ],
             [
-              -41.9433311,
-              -21.3598377
+              -41.9426125,
+              -21.3594176
+            ],
+            [
+              -41.9433874,
+              -21.3598214
             ]
           ]
         ]
@@ -46,113 +58,148 @@
     },
     {
       "type": "Feature",
-      "id": "way/261568137",
+      "id": "way/1343467621",
       "properties": {
-        "timestamp": "2019-12-06T14:01:03Z",
-        "version": 2,
-        "changeset": 78055910,
-        "addr:city": "São José de Ubá",
-        "addr:housenumber": "120",
-        "addr:postcode": "28455000",
-        "addr:street": "Rua Fernando Fernandes Carneiro",
-        "addr:suburb": "Centro",
-        "amenity": "school",
-        "name": "Escola Municipal Professora Maria de Lourdes Antunes Campos",
-        "operator": "Público",
-        "operator:type": "public",
-        "id": "way/261568137"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -41.9379828,
-              -21.3592324
-            ],
-            [
-              -41.9375474,
-              -21.359314
-            ],
-            [
-              -41.9375253,
-              -21.3592403
-            ],
-            [
-              -41.9373149,
-              -21.3592805
-            ],
-            [
-              -41.9372869,
-              -21.359122
-            ],
-            [
-              -41.9377751,
-              -21.3590453
-            ],
-            [
-              -41.9378012,
-              -21.3591355
-            ],
-            [
-              -41.9379517,
-              -21.35912
-            ],
-            [
-              -41.9379828,
-              -21.3592324
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/753309775",
-      "properties": {
-        "timestamp": "2019-12-06T14:01:03Z",
+        "timestamp": "2024-12-18T12:56:40Z",
         "version": 1,
-        "changeset": 78055910,
+        "changeset": 160350080,
+        "addr:city": "São José de Ubá",
+        "addr:postcode": "28455-000",
+        "addr:suburb": "Colosso",
         "amenity": "school",
-        "name": "FAETEC",
-        "operator": "Público",
-        "id": "way/753309775"
+        "name": "Escola Municipal Antônio Gomes da Silva",
+        "operator": "Município de São José de Ubá",
+        "operator:type": "public",
+        "id": "way/1343467621"
       },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              -41.9468606,
-              -21.3611526
+              -42.0098579,
+              -21.3959144
             ],
             [
-              -41.9468565,
-              -21.3617471
+              -42.0096119,
+              -21.3961022
             ],
             [
-              -41.9461817,
-              -21.3618114
+              -42.0094632,
+              -21.395944
             ],
             [
-              -41.9460719,
-              -21.361713
+              -42.0096898,
+              -21.395743
             ],
             [
-              -41.9459296,
-              -21.3616183
+              -42.0098579,
+              -21.3959144
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1343569030",
+      "properties": {
+        "timestamp": "2024-12-18T19:35:41Z",
+        "version": 1,
+        "changeset": 160366070,
+        "addr:city": "São Jose de Ubá",
+        "addr:postcode": "28.455-000",
+        "addr:suburb": "Barro Branco",
+        "amenity": "school",
+        "building": "school",
+        "building:levels": "1",
+        "name": "Escola Municipal Antônio Jose Curty",
+        "operator": "Município de São José de Ubá",
+        "source": "microsoft/BuildingFootprints",
+        "id": "way/1343569030"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.9796329,
+              -21.3681889
             ],
             [
-              -41.9460394,
-              -21.3613609
+              -41.9794417,
+              -21.3684174
             ],
             [
-              -41.9464012,
-              -21.3611602
+              -41.9792164,
+              -21.3682539
             ],
             [
-              -41.9468606,
-              -21.3611526
+              -41.9794323,
+              -21.3679959
+            ],
+            [
+              -41.9795541,
+              -21.3680843
+            ],
+            [
+              -41.9795684,
+              -21.3680672
+            ],
+            [
+              -41.9796319,
+              -21.3681132
+            ],
+            [
+              -41.9795928,
+              -21.3681599
+            ],
+            [
+              -41.9796329,
+              -21.3681889
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1343569044",
+      "properties": {
+        "timestamp": "2024-12-18T19:35:41Z",
+        "version": 1,
+        "changeset": 160366070,
+        "addr:city": "São Jose de Ubá",
+        "addr:postcode": "28.455-000",
+        "addr:suburb": "Campo Grande",
+        "amenity": "school",
+        "name": "Escola Municipal Professora Clarita Maria Cruz Pavan",
+        "operator": "Município de São José de Ubá",
+        "id": "way/1343569044"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.978163,
+              -21.4104555
+            ],
+            [
+              -41.9779779,
+              -21.4105978
+            ],
+            [
+              -41.9777834,
+              -21.4103631
+            ],
+            [
+              -41.9779712,
+              -21.4102232
+            ],
+            [
+              -41.978163,
+              -21.4104555
             ]
           ]
         ]

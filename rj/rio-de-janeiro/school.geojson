@@ -32352,6 +32352,102 @@
     },
     {
       "type": "Feature",
+      "id": "way/1184428895",
+      "properties": {
+        "timestamp": "2024-12-18T08:59:37Z",
+        "version": 2,
+        "changeset": 160340001,
+        "addr:city": "Rio de Janeiro",
+        "addr:street": "Praça Marechal Hermes",
+        "addr:suburb": "Santo Cristo",
+        "amenity": "school",
+        "name": "Escola Municipal Benjamin Constant",
+        "note": "S/N",
+        "operator": "Prefeitura do Rio",
+        "operator:type": "government",
+        "phone": "+55 21 2263-3188",
+        "source": "IPP",
+        "website": "http://webapp.sme.rio.rj.gov.br/jcartela/publico/pesquisa.do?idSetor=11225&cmd=load",
+        "id": "way/1184428895"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.2051855,
+              -22.9001985
+            ],
+            [
+              -43.2052782,
+              -22.9000028
+            ],
+            [
+              -43.2052298,
+              -22.8999829
+            ],
+            [
+              -43.2052477,
+              -22.8999457
+            ],
+            [
+              -43.2051517,
+              -22.899906
+            ],
+            [
+              -43.2052447,
+              -22.8997028
+            ],
+            [
+              -43.2052774,
+              -22.8996673
+            ],
+            [
+              -43.2053194,
+              -22.8996619
+            ],
+            [
+              -43.2064437,
+              -22.900118
+            ],
+            [
+              -43.206474,
+              -22.9001513
+            ],
+            [
+              -43.2064775,
+              -22.9001943
+            ],
+            [
+              -43.2064612,
+              -22.900233
+            ],
+            [
+              -43.2064308,
+              -22.9002545
+            ],
+            [
+              -43.206405,
+              -22.9002635
+            ],
+            [
+              -43.2063783,
+              -22.900261
+            ],
+            [
+              -43.2055776,
+              -22.9002175
+            ],
+            [
+              -43.2051855,
+              -22.9001985
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1189899007",
       "properties": {
         "timestamp": "2023-07-15T21:24:01Z",
@@ -77344,6 +77440,25 @@
         "coordinates": [
           -43.2777186,
           -22.8440586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12430138690",
+      "properties": {
+        "timestamp": "2024-12-18T08:59:37Z",
+        "version": 1,
+        "changeset": 160340001,
+        "barrier": "gate",
+        "entrance": "main",
+        "id": "node/12430138690"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2055776,
+          -22.9002175
         ]
       }
     }

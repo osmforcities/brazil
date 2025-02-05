@@ -3881,6 +3881,86 @@
     },
     {
       "type": "Feature",
+      "id": "way/466023011",
+      "properties": {
+        "timestamp": "2024-12-18T22:11:48Z",
+        "version": 2,
+        "changeset": 160370745,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "3691",
+        "addr:street": "Rua da Mooca",
+        "amenity": "pharmacy",
+        "brand": "Drogaria São Paulo",
+        "brand:wikidata": "Q5308184",
+        "healthcare": "pharmacy",
+        "height": "4.71",
+        "name": "Drogaria São Paulo",
+        "opening_hours": "Mo-Sa 08:00-23:00",
+        "source": "pmsp",
+        "id": "way/466023011"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.5896948,
+              -23.5585358
+            ],
+            [
+              -46.5896567,
+              -23.5584642
+            ],
+            [
+              -46.5896491,
+              -23.55845
+            ],
+            [
+              -46.5898021,
+              -23.5583787
+            ],
+            [
+              -46.5898094,
+              -23.5583926
+            ],
+            [
+              -46.5898821,
+              -23.5585306
+            ],
+            [
+              -46.5899088,
+              -23.5585812
+            ],
+            [
+              -46.5898162,
+              -23.5586222
+            ],
+            [
+              -46.5898041,
+              -23.5586275
+            ],
+            [
+              -46.5897728,
+              -23.5586414
+            ],
+            [
+              -46.5897452,
+              -23.5586304
+            ],
+            [
+              -46.5897283,
+              -23.5585988
+            ],
+            [
+              -46.5896948,
+              -23.5585358
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/466030164",
       "properties": {
         "timestamp": "2022-06-25T11:53:48Z",
@@ -37099,6 +37179,51 @@
         "coordinates": [
           -46.6980525,
           -23.5569384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12431229432",
+      "properties": {
+        "timestamp": "2024-12-18T16:45:45Z",
+        "version": 1,
+        "changeset": 160359588,
+        "amenity": "pharmacy",
+        "brand": "Drogaria São Paulo",
+        "brand:wikidata": "Q5308184",
+        "brand:wikipedia": "en:Grupo DPSP",
+        "contact:website": "http://www.drogariasaopaulo.com.br",
+        "healthcare": "pharmacy",
+        "name": "Drogaria São Paulo",
+        "opening_hours": "24/7",
+        "id": "node/12431229432"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7167707,
+          -23.5836989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12431859322",
+      "properties": {
+        "timestamp": "2024-12-18T22:11:48Z",
+        "version": 1,
+        "changeset": 160370745,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "3691",
+        "addr:street": "Rua da Mooca",
+        "id": "node/12431859322"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5898041,
+          -23.5586275
         ]
       }
     }

@@ -682,6 +682,52 @@
     },
     {
       "type": "Feature",
+      "id": "way/776552197",
+      "properties": {
+        "timestamp": "2024-12-21T01:50:16Z",
+        "version": 4,
+        "changeset": 160455637,
+        "addr:street": "Avenida Primavera",
+        "leisure": "park",
+        "name": "CEU - Centro de Artes e Esportes Unificados",
+        "opening_hours": "24/7",
+        "sport": "skateboard",
+        "id": "way/776552197"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -61.4713952,
+              -11.4280314
+            ],
+            [
+              -61.4714722,
+              -11.4274334
+            ],
+            [
+              -61.471959,
+              -11.4274727
+            ],
+            [
+              -61.4722363,
+              -11.4277414
+            ],
+            [
+              -61.4722332,
+              -11.4280797
+            ],
+            [
+              -61.4713952,
+              -11.4280314
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/776557927",
       "properties": {
         "timestamp": "2020-02-26T16:48:54Z",
@@ -1043,6 +1089,29 @@
               -11.4451443
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6796265991",
+      "properties": {
+        "timestamp": "2024-12-21T19:45:53Z",
+        "version": 2,
+        "changeset": 160481441,
+        "addr:city": "Cacoal",
+        "addr:street": "Rua Antônio Deodato Durce",
+        "addr:suburb": "Centro",
+        "leisure": "fitness_centre",
+        "name": "Muscletec",
+        "sport": "fitness",
+        "id": "node/6796265991"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4446251,
+          -11.4394284
         ]
       }
     }

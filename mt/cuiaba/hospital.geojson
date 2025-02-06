@@ -1805,6 +1805,90 @@
     },
     {
       "type": "Feature",
+      "id": "way/681511628",
+      "properties": {
+        "timestamp": "2024-12-21T00:24:33Z",
+        "version": 4,
+        "changeset": 160454278,
+        "addr:city": "Cuiabá",
+        "addr:postcode": "78080-000",
+        "addr:street": "Rua Nova Iguaçu",
+        "addr:suburb": "Coophema",
+        "amenity": "hospital",
+        "emergency": "no",
+        "fixme": "Rua que já estava na amenity (e inclusive no DATASUS) é Rua Adauto Botelho porém a via próxima é Rua Nova Iguaçu. Geometria do DATASUS também aponta aqui",
+        "healthcare": "hospital",
+        "healthcare:speciality": "psychiatry",
+        "name": "Adalto Botelho",
+        "nohousenumber": "yes",
+        "operator": "Rede Publica",
+        "operator:ref:vatin": "BR03507415000225",
+        "phone": "+55 65 3661 4350",
+        "ref:CNES": "2604396",
+        "id": "way/681511628"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -56.0563945,
+              -15.6345446
+            ],
+            [
+              -56.0552626,
+              -15.634152
+            ],
+            [
+              -56.0554289,
+              -15.6338007
+            ],
+            [
+              -56.0555791,
+              -15.6336664
+            ],
+            [
+              -56.0556328,
+              -15.6335218
+            ],
+            [
+              -56.0558581,
+              -15.6336147
+            ],
+            [
+              -56.0563087,
+              -15.6337336
+            ],
+            [
+              -56.0564374,
+              -15.6338162
+            ],
+            [
+              -56.0564643,
+              -15.6339092
+            ],
+            [
+              -56.0564214,
+              -15.6340487
+            ],
+            [
+              -56.0564106,
+              -15.6341623
+            ],
+            [
+              -56.0565286,
+              -15.6342295
+            ],
+            [
+              -56.0563945,
+              -15.6345446
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/715428427",
       "properties": {
         "timestamp": "2021-12-12T13:24:33Z",

@@ -41,6 +41,48 @@
     },
     {
       "type": "Feature",
+      "id": "way/1337702002",
+      "properties": {
+        "timestamp": "2024-11-25T12:32:03Z",
+        "version": 1,
+        "changeset": 159571308,
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "wall_loops",
+        "covered": "no",
+        "fee": "no",
+        "id": "way/1337702002"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -52.0941618,
+              -32.0397515
+            ],
+            [
+              -52.0941915,
+              -32.039854
+            ],
+            [
+              -52.0941522,
+              -32.0398621
+            ],
+            [
+              -52.0941225,
+              -32.0397597
+            ],
+            [
+              -52.0941618,
+              -32.0397515
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/11251948682",
       "properties": {
         "timestamp": "2023-10-09T22:51:53Z",
@@ -54,6 +96,24 @@
         "coordinates": [
           -52.0877788,
           -32.0403356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12351363251",
+      "properties": {
+        "timestamp": "2024-12-21T16:37:22Z",
+        "version": 2,
+        "changeset": 160476152,
+        "amenity": "bicycle_parking",
+        "id": "node/12351363251"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.0943395,
+          -32.0404588
         ]
       }
     }

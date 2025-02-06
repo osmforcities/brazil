@@ -47,6 +47,53 @@
     },
     {
       "type": "Feature",
+      "id": "way/1279353553",
+      "properties": {
+        "timestamp": "2024-12-21T20:11:36Z",
+        "version": 2,
+        "changeset": 160482072,
+        "addr:city": "Itaperuna",
+        "addr:housenumber": "725",
+        "addr:postcode": "28300-000",
+        "addr:street": "Rua José Bonifácio",
+        "addr:suburb": "Boa Fortuna",
+        "amenity": "social_facility",
+        "name": "Associação Padre Humberto Lindelauf",
+        "operator": "Associação Padre Humberto Lindelauf",
+        "operator:type": "religious",
+        "social_facility": "outreach",
+        "id": "way/1279353553"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.8673377,
+              -21.2067274
+            ],
+            [
+              -41.8671625,
+              -21.2077624
+            ],
+            [
+              -41.8665473,
+              -21.2076256
+            ],
+            [
+              -41.8668093,
+              -21.2066073
+            ],
+            [
+              -41.8673377,
+              -21.2067274
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/5579742898",
       "properties": {
         "timestamp": "2024-05-09T16:41:05Z",
@@ -92,6 +139,33 @@
         "coordinates": [
           -41.8864106,
           -21.2095762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12438459417",
+      "properties": {
+        "timestamp": "2024-12-21T20:11:36Z",
+        "version": 2,
+        "changeset": 160482072,
+        "addr:city": "Itaperuna",
+        "addr:housenumber": "142",
+        "addr:postcode": "28300-000",
+        "addr:street": "Avenida Boa Fortuna",
+        "addr:suburb": "Boa Fortuna",
+        "amenity": "social_facility",
+        "name": "Centro de Referência em Assistência Social Aeroporto",
+        "operator": "Município de Itaperuna",
+        "operator:type": "public",
+        "social_facility": "outreach",
+        "id": "node/12438459417"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.8636607,
+          -21.2102281
         ]
       }
     }

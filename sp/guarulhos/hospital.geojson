@@ -805,6 +805,121 @@
     },
     {
       "type": "Feature",
+      "id": "way/619540617",
+      "properties": {
+        "timestamp": "2024-12-20T00:35:47Z",
+        "version": 2,
+        "changeset": 160415082,
+        "addr:city": "Guarulhos",
+        "addr:housenumber": "191",
+        "addr:postcode": "07090-230",
+        "addr:street": "Rua José Maurício de Oliveira",
+        "addr:suburb": "Centro",
+        "amenity": "hospital",
+        "building": "yes",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "paediatrics;surgery;gynaecology;general;maternity",
+        "name": "Hospital Municipal da Criança e do Adolescente",
+        "name:en": "Municipal Hospital of the Children and Teenager",
+        "name:pt": "Hospital Municipal da Criança e do Adolescente",
+        "operator": "Prefeitura de Guarulhos",
+        "operator:type": "government",
+        "phone": "+55 11 2475 9690",
+        "short_name": "HMCA",
+        "website": "http://www.redededefesadedireitos.com.br/assistencia-a-saude/hospital-municipal-da-crianca-e-do-adolescente/",
+        "id": "way/619540617"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.5327286,
+              -23.4666729
+            ],
+            [
+              -46.5326663,
+              -23.4669887
+            ],
+            [
+              -46.5326624,
+              -23.4670085
+            ],
+            [
+              -46.5326233,
+              -23.4672063
+            ],
+            [
+              -46.5325422,
+              -23.467192
+            ],
+            [
+              -46.5322094,
+              -23.4671331
+            ],
+            [
+              -46.5321816,
+              -23.4671222
+            ],
+            [
+              -46.5321618,
+              -23.4671049
+            ],
+            [
+              -46.5321506,
+              -23.4670869
+            ],
+            [
+              -46.5321486,
+              -23.4670661
+            ],
+            [
+              -46.5321897,
+              -23.4668745
+            ],
+            [
+              -46.5322395,
+              -23.4666426
+            ],
+            [
+              -46.5322469,
+              -23.4666201
+            ],
+            [
+              -46.5322667,
+              -23.466601
+            ],
+            [
+              -46.5322829,
+              -23.4665962
+            ],
+            [
+              -46.5323047,
+              -23.4665965
+            ],
+            [
+              -46.532403,
+              -23.4666142
+            ],
+            [
+              -46.5325084,
+              -23.4666332
+            ],
+            [
+              -46.5325795,
+              -23.466646
+            ],
+            [
+              -46.5327286,
+              -23.4666729
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/778404529",
       "properties": {
         "timestamp": "2020-03-04T22:45:41Z",
@@ -1220,6 +1335,103 @@
         "coordinates": [
           -46.5489745,
           -23.46547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12434665415",
+      "properties": {
+        "timestamp": "2024-12-20T00:35:47Z",
+        "version": 1,
+        "changeset": 160415082,
+        "entrance": "yes",
+        "id": "node/12434665415"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5321897,
+          -23.4668745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12434665417",
+      "properties": {
+        "timestamp": "2024-12-20T00:35:47Z",
+        "version": 1,
+        "changeset": 160415082,
+        "addr:city": "Guarulhos",
+        "addr:housenumber": "39",
+        "addr:postcode": "07090-040",
+        "addr:street": "Rua Antônio Francisco da Silva",
+        "addr:suburb": "Centro",
+        "entrance": "yes",
+        "id": "node/12434665417"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5325795,
+          -23.466646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12434665418",
+      "properties": {
+        "timestamp": "2024-12-20T00:35:47Z",
+        "version": 1,
+        "changeset": 160415082,
+        "entrance": "emergency",
+        "name": "HMCA - EMERGÊNCIA",
+        "id": "node/12434665418"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5325084,
+          -23.4666332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12434665420",
+      "properties": {
+        "timestamp": "2024-12-20T00:35:47Z",
+        "version": 1,
+        "changeset": 160415082,
+        "entrance": "yes",
+        "id": "node/12434665420"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5325422,
+          -23.467192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12434665425",
+      "properties": {
+        "timestamp": "2024-12-20T00:35:47Z",
+        "version": 1,
+        "changeset": 160415082,
+        "access": "employees",
+        "barrier": "gate",
+        "id": "node/12434665425"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.532403,
+          -23.4666142
         ]
       }
     }

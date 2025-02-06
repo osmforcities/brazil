@@ -192,6 +192,141 @@
     },
     {
       "type": "Feature",
+      "id": "way/1343904621",
+      "properties": {
+        "timestamp": "2024-12-20T00:35:47Z",
+        "version": 1,
+        "changeset": 160415082,
+        "addr:city": "Guarulhos",
+        "addr:housenumber": "168",
+        "addr:postcode": "07011-060",
+        "addr:street": "Rua José Maurício de Oliveira",
+        "addr:suburb": "Centro",
+        "amenity": "social_facility",
+        "building": "yes",
+        "name": "Irmandade da Santa Casa de Misericórdia de Guarulhos - Ambulatório do idoso.",
+        "social_facility": "ambulatory_care",
+        "social_facility:for": "senior",
+        "id": "way/1343904621"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.5320178,
+              -23.4670524
+            ],
+            [
+              -46.5319006,
+              -23.4670377
+            ],
+            [
+              -46.5318864,
+              -23.467036
+            ],
+            [
+              -46.5318959,
+              -23.4669342
+            ],
+            [
+              -46.5319023,
+              -23.4669338
+            ],
+            [
+              -46.5319643,
+              -23.4669388
+            ],
+            [
+              -46.5319645,
+              -23.4669435
+            ],
+            [
+              -46.5320358,
+              -23.4669526
+            ],
+            [
+              -46.5320339,
+              -23.4669629
+            ],
+            [
+              -46.5320178,
+              -23.4670524
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1343904638",
+      "properties": {
+        "timestamp": "2024-12-20T00:35:47Z",
+        "version": 1,
+        "changeset": 160415082,
+        "addr:city": "Guarulhos",
+        "addr:housenumber": "132",
+        "addr:street": "Rua José Maurício de Oliveira",
+        "addr:suburb": "Centro",
+        "amenity": "social_facility",
+        "building": "yes",
+        "contact:instagram": "@asrmartello",
+        "name": "Associação Serafina Renzi Martello - CENTRO",
+        "operator": "Associação Serafina Renzi Martello",
+        "operator:type": "association",
+        "website": "http://asrmartello.com.br/",
+        "id": "way/1343904638"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.5317814,
+              -23.4673202
+            ],
+            [
+              -46.5317833,
+              -23.4673066
+            ],
+            [
+              -46.5317923,
+              -23.4672394
+            ],
+            [
+              -46.5320098,
+              -23.4672796
+            ],
+            [
+              -46.5320012,
+              -23.4673249
+            ],
+            [
+              -46.5318615,
+              -23.4673018
+            ],
+            [
+              -46.5318569,
+              -23.4673167
+            ],
+            [
+              -46.5318206,
+              -23.4673102
+            ],
+            [
+              -46.5318172,
+              -23.4673238
+            ],
+            [
+              -46.5317814,
+              -23.4673202
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/6380415087",
       "properties": {
         "timestamp": "2019-04-03T09:27:03Z",
@@ -231,6 +366,45 @@
         "coordinates": [
           -46.5553355,
           -23.5019419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12434665322",
+      "properties": {
+        "timestamp": "2024-12-20T00:35:47Z",
+        "version": 1,
+        "changeset": 160415082,
+        "entrance": "yes",
+        "wheelchair": "yes",
+        "id": "node/12434665322"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5320339,
+          -23.4669629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12434665419",
+      "properties": {
+        "timestamp": "2024-12-20T00:35:47Z",
+        "version": 1,
+        "changeset": 160415082,
+        "amenity": "social_facility",
+        "name": "HMCA - Ambulatório",
+        "social_facility": "ambulatory_care",
+        "id": "node/12434665419"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5325495,
+          -23.4671562
         ]
       }
     }

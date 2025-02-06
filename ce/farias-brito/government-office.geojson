@@ -3,27 +3,91 @@
   "features": [
     {
       "type": "Feature",
-      "id": "node/5522578552",
+      "id": "way/1344368680",
       "properties": {
-        "timestamp": "2019-12-18T03:18:09Z",
-        "version": 3,
-        "changeset": 78554645,
-        "addr:city": "Farias Brito",
-        "addr:postcode": "63185000",
-        "addr:street": "Rua Jose Liberalino Duarte",
-        "addr:suburb": "Centro",
-        "government": "register_office",
-        "name": "Cartório Moreira",
+        "timestamp": "2024-12-20T16:49:29Z",
+        "version": 1,
+        "changeset": 160441498,
+        "building": "yes",
         "office": "government",
-        "opening_hours": "Mo-Fr 08:00-17:00",
-        "operator": "Dagoberto Moreira de Figueirêdo",
-        "id": "node/5522578552"
+        "operator": "Companhia de Água e Esgoto do Ceará",
+        "operator:short": "Cagece",
+        "operator:wikidata": "Q19609168",
+        "id": "way/1344368680"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -39.572667,
-          -6.9272551
+          [
+            [
+              -39.5751456,
+              -6.9252761
+            ],
+            [
+              -39.5748828,
+              -6.9249186
+            ],
+            [
+              -39.5751785,
+              -6.9247175
+            ],
+            [
+              -39.575416,
+              -6.9250515
+            ],
+            [
+              -39.5751456,
+              -6.9252761
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1344368691",
+      "properties": {
+        "timestamp": "2024-12-20T16:49:29Z",
+        "version": 1,
+        "changeset": 160441498,
+        "addr:city": "Farias Brito",
+        "addr:housenumber": "178",
+        "addr:postcode": "63185000",
+        "addr:street": "Avenida José Liberalino Duarte",
+        "addr:suburb": "Centro",
+        "building": "yes",
+        "government": "register_office",
+        "name": "Cartório",
+        "office": "government",
+        "operator": "Dagoberto Moreira de Figueirêdo",
+        "phone": "+55 88 99834 0422",
+        "id": "way/1344368691"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -39.5726759,
+              -6.9272764
+            ],
+            [
+              -39.5725988,
+              -6.9272871
+            ],
+            [
+              -39.5725911,
+              -6.9272228
+            ],
+            [
+              -39.5726683,
+              -6.9272144
+            ],
+            [
+              -39.5726759,
+              -6.9272764
+            ]
+          ]
         ]
       }
     }

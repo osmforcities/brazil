@@ -3469,6 +3469,75 @@
     },
     {
       "type": "Feature",
+      "id": "way/978175753",
+      "properties": {
+        "timestamp": "2024-12-20T01:16:02Z",
+        "version": 2,
+        "changeset": 160415632,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "400",
+        "addr:postcode": "02168-130",
+        "addr:street": "Rua dos Condoreiros",
+        "addr:suburb": "Vila Maria",
+        "amenity": "kindergarten",
+        "barrier": "wall",
+        "name": "CEI Vila Maria",
+        "id": "way/978175753"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.5798166,
+              -23.5223302
+            ],
+            [
+              -46.5793602,
+              -23.5226673
+            ],
+            [
+              -46.5792822,
+              -23.5225812
+            ],
+            [
+              -46.5791711,
+              -23.5226588
+            ],
+            [
+              -46.579056,
+              -23.5225836
+            ],
+            [
+              -46.5792618,
+              -23.5222916
+            ],
+            [
+              -46.5794517,
+              -23.5219342
+            ],
+            [
+              -46.5795308,
+              -23.5220201
+            ],
+            [
+              -46.5795845,
+              -23.5220784
+            ],
+            [
+              -46.5797792,
+              -23.5222896
+            ],
+            [
+              -46.5798166,
+              -23.5223302
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/982029048",
       "properties": {
         "timestamp": "2021-09-11T16:27:24Z",
@@ -4801,6 +4870,61 @@
         "coordinates": [
           -46.6308116,
           -23.5033753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9051262449",
+      "properties": {
+        "timestamp": "2021-08-31T15:31:48Z",
+        "version": 1,
+        "changeset": 110520689,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "400",
+        "addr:postcode": "02168-130",
+        "addr:street": "Rua dos Condoreiros",
+        "entrance": "yes",
+        "id": "node/9051262449"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5795845,
+          -23.5220784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9051262450",
+      "properties": {
+        "timestamp": "2021-08-31T15:31:48Z",
+        "version": 1,
+        "changeset": 110520689,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "402",
+        "addr:postcode": "02168-130",
+        "addr:street": "Rua dos Condoreiros",
+        "bus": "yes",
+        "departures_board": "yes",
+        "description": "Ref.: Rua Dos Figos",
+        "gtfs_id": "9112358",
+        "highway": "bus_stop",
+        "network": "SPTrans",
+        "network:wikidata": "Q7392689",
+        "network:wikipedia": "pt:São Paulo Transporte",
+        "operator": "SPTrans",
+        "public_transport": "platform",
+        "route_ref": "1206-10;271C-10",
+        "shelter": "no",
+        "id": "node/9051262450"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5795308,
+          -23.5220201
         ]
       }
     },

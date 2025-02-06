@@ -2809,6 +2809,51 @@
     },
     {
       "type": "Feature",
+      "id": "way/655238204",
+      "properties": {
+        "timestamp": "2021-11-28T21:10:37Z",
+        "version": 2,
+        "changeset": 114337609,
+        "addr:street": "RUA DA CONCEICAO, 589- MORRO DA CONCECAO",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "USF MORRO DA CONCEICAO - JOSE BONIFACIO DOS SANTOS",
+        "operator": "Sistema Único de Saúde",
+        "operator:short": "SUS",
+        "operator:wikidata": "Q7531056",
+        "operator:wikipedia": "pt:Sistema Único de Saúde",
+        "id": "way/655238204"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -34.9159059,
+              -8.0194747
+            ],
+            [
+              -34.9159539,
+              -8.0196169
+            ],
+            [
+              -34.9157715,
+              -8.0196748
+            ],
+            [
+              -34.9157322,
+              -8.0195326
+            ],
+            [
+              -34.9159059,
+              -8.0194747
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/655238705",
       "properties": {
         "timestamp": "2024-12-18T02:13:02Z",
@@ -6346,37 +6391,6 @@
               -34.9594041,
               -8.0470392
             ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/655238204",
-      "properties": {
-        "timestamp": "2021-11-28T21:10:37Z",
-        "version": 2,
-        "changeset": 114337609,
-        "addr:street": "RUA DA CONCEICAO, 589- MORRO DA CONCECAO",
-        "amenity": "clinic",
-        "healthcare": "clinic",
-        "name": "USF MORRO DA CONCEICAO - JOSE BONIFACIO DOS SANTOS",
-        "operator": "Sistema Único de Saúde",
-        "operator:short": "SUS",
-        "operator:wikidata": "Q7531056",
-        "operator:wikipedia": "pt:Sistema Único de Saúde",
-        "id": "way/655238204"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -34.9157715,
-            -8.0196748
-          ],
-          [
-            -34.9159539,
-            -8.0196169
           ]
         ]
       }

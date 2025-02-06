@@ -3,55 +3,174 @@
   "features": [
     {
       "type": "Feature",
-      "id": "node/8707906639",
+      "id": "way/1343812888",
       "properties": {
-        "timestamp": "2021-05-07T01:23:02Z",
-        "version": 1,
-        "changeset": 104280050,
+        "timestamp": "2024-12-19T16:01:48Z",
+        "version": 2,
+        "changeset": 160400920,
+        "addr:postcode": "13370-033",
+        "addr:street": "Avenida Doutor José Soares de Faria",
+        "addr:suburb": "Centro",
         "amenity": "school",
-        "id": "node/8707906639"
+        "operator": "Secretaria da Educação do Estado de São Paulo",
+        "operator:type": "government",
+        "operator:wikidata": "Q10369245",
+        "religion": "none",
+        "short_name": "E.E. Professora Jeni Apprilante",
+        "id": "way/1343812888"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -47.5313017,
-          -23.0157069
+          [
+            [
+              -47.5310018,
+              -23.0150017
+            ],
+            [
+              -47.5304177,
+              -23.015732
+            ],
+            [
+              -47.5297019,
+              -23.015165
+            ],
+            [
+              -47.530304,
+              -23.0143796
+            ],
+            [
+              -47.5310018,
+              -23.0150017
+            ]
+          ]
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "node/8707906640",
+      "id": "way/1343812892",
       "properties": {
-        "timestamp": "2021-05-07T01:23:02Z",
-        "version": 1,
-        "changeset": 104280050,
+        "timestamp": "2024-12-19T16:01:48Z",
+        "version": 2,
+        "changeset": 160400920,
+        "addr:postcode": "13370-047",
+        "addr:street": "Rua Marechal Deodoro da Fonseca",
+        "addr:suburb": "Centro",
         "amenity": "school",
-        "id": "node/8707906640"
+        "religion": "none",
+        "short_name": "Escola Municipal Professora Josefina Chiari Borghesi",
+        "id": "way/1343812892"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -47.5306735,
-          -23.0152883
+          [
+            [
+              -47.5306569,
+              -23.0159558
+            ],
+            [
+              -47.5304516,
+              -23.0157668
+            ],
+            [
+              -47.5310237,
+              -23.0150237
+            ],
+            [
+              -47.531253,
+              -23.0151907
+            ],
+            [
+              -47.5306569,
+              -23.0159558
+            ]
+          ]
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "node/8707906641",
+      "id": "way/1343816037",
       "properties": {
-        "timestamp": "2021-05-07T01:23:02Z",
+        "timestamp": "2024-12-19T16:01:48Z",
         "version": 1,
-        "changeset": 104280050,
+        "changeset": 160400920,
+        "addr:postcode": "13370-047",
+        "addr:street": "Rua Marechal Deodoro da Fonseca",
+        "addr:suburb": "Centro",
         "amenity": "school",
-        "id": "node/8707906641"
+        "religion": "none",
+        "short_name": "EMEI Enzo Henrique Vieira",
+        "id": "way/1343816037"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -47.5302045,
-          -23.0149642
+          [
+            [
+              -47.5313168,
+              -23.0152604
+            ],
+            [
+              -47.5318332,
+              -23.0156824
+            ],
+            [
+              -47.5311633,
+              -23.0164036
+            ],
+            [
+              -47.5307247,
+              -23.0160237
+            ],
+            [
+              -47.5313168,
+              -23.0152604
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1343860107",
+      "properties": {
+        "timestamp": "2024-12-19T19:36:17Z",
+        "version": 1,
+        "changeset": 160408010,
+        "addr:street": "Rua Eugênio Tezotto",
+        "amenity": "school",
+        "religion": "none",
+        "short_name": "E.M. Professor Aurélio Sotto",
+        "id": "way/1343860107"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.533537,
+              -23.0223913
+            ],
+            [
+              -47.5337193,
+              -23.0228011
+            ],
+            [
+              -47.5321476,
+              -23.0227518
+            ],
+            [
+              -47.5321476,
+              -23.0223642
+            ],
+            [
+              -47.533537,
+              -23.0223913
+            ]
+          ]
         ]
       }
     }

@@ -2809,6 +2809,50 @@
     },
     {
       "type": "Feature",
+      "id": "way/655238705",
+      "properties": {
+        "timestamp": "2024-12-18T02:13:02Z",
+        "version": 3,
+        "changeset": 160330149,
+        "addr:housenumber": "260",
+        "addr:postcode": "52280-612",
+        "addr:street": "Rua Japaratuba",
+        "addr:suburb": "Vasco da Gama",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Policlinica Clementino Fraga",
+        "id": "way/655238705"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -34.9198656,
+              -8.0192192
+            ],
+            [
+              -34.9199659,
+              -8.0194659
+            ],
+            [
+              -34.9197448,
+              -8.019554
+            ],
+            [
+              -34.9196445,
+              -8.0193073
+            ],
+            [
+              -34.9198656,
+              -8.0192192
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/655241339",
       "properties": {
         "timestamp": "2018-12-15T18:40:29Z",
@@ -5062,12 +5106,91 @@
               -8.0208273
             ],
             [
+              -34.9241713,
+              -8.0206921
+            ],
+            [
+              -34.9240727,
+              -8.0216122
+            ],
+            [
+              -34.9234903,
+              -8.0215955
+            ],
+            [
+              -34.9231521,
+              -8.0215788
+            ],
+            [
               -34.9231023,
               -8.0212413
             ],
             [
               -34.9230258,
               -8.0208273
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/678453301",
+      "properties": {
+        "timestamp": "2021-05-09T21:46:43Z",
+        "version": 2,
+        "changeset": 104412380,
+        "addr:city": "Recife",
+        "addr:housenumber": "6465",
+        "addr:street": "Avenida Norte Miguel Arraes de Alencar",
+        "addr:suburb": "Casa Amarela",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Policlínica e Maternidade Professor Barros Lima",
+        "opening_hours": "24/7",
+        "phone": "+55 81 3355-2153",
+        "id": "way/678453301"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -34.9229156,
+              -8.0207846
+            ],
+            [
+              -34.9237002,
+              -8.0206878
+            ],
+            [
+              -34.923729,
+              -8.0209225
+            ],
+            [
+              -34.9237284,
+              -8.0210952
+            ],
+            [
+              -34.923722,
+              -8.0212099
+            ],
+            [
+              -34.9237148,
+              -8.0214566
+            ],
+            [
+              -34.9230323,
+              -8.0215034
+            ],
+            [
+              -34.9229268,
+              -8.0208617
+            ],
+            [
+              -34.9229156,
+              -8.0207846
             ]
           ]
         ]
@@ -6254,47 +6377,6 @@
           [
             -34.9159539,
             -8.0196169
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/678453301",
-      "properties": {
-        "timestamp": "2021-05-09T21:46:43Z",
-        "version": 2,
-        "changeset": 104412380,
-        "addr:city": "Recife",
-        "addr:housenumber": "6465",
-        "addr:street": "Avenida Norte Miguel Arraes de Alencar",
-        "addr:suburb": "Casa Amarela",
-        "amenity": "clinic",
-        "healthcare": "clinic",
-        "healthcare:speciality": "general",
-        "name": "Policlínica e Maternidade Professor Barros Lima",
-        "opening_hours": "24/7",
-        "phone": "+55 81 3355-2153",
-        "id": "way/678453301"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -34.923722,
-            -8.0212099
-          ],
-          [
-            -34.9237284,
-            -8.0210952
-          ],
-          [
-            -34.923729,
-            -8.0209225
-          ],
-          [
-            -34.9237002,
-            -8.0206878
           ]
         ]
       }

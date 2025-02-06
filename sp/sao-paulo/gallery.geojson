@@ -3,6 +3,83 @@
   "features": [
     {
       "type": "Feature",
+      "id": "way/409182227",
+      "properties": {
+        "timestamp": "2024-12-19T06:55:01Z",
+        "version": 8,
+        "changeset": 160379608,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "149",
+        "addr:postcode": "01311-000",
+        "addr:street": "Avenida Paulista",
+        "building": "yes",
+        "check_date": "2023-06-18",
+        "height": "58.9",
+        "name": "Itaú Cultural",
+        "toilets": "yes",
+        "toilets:wheelchair": "yes",
+        "tourism": "gallery",
+        "website": "https://www.itaucultural.org.br/",
+        "wheelchair": "yes",
+        "wikidata": "Q10304263",
+        "wikimedia_commons": "Category:Itaú Cultural",
+        "wikipedia": "en:Itaú Cultural",
+        "id": "way/409182227"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.6459727,
+              -23.5703031
+            ],
+            [
+              -46.6461781,
+              -23.5705273
+            ],
+            [
+              -46.6461477,
+              -23.570551
+            ],
+            [
+              -46.646186,
+              -23.5705927
+            ],
+            [
+              -46.6461834,
+              -23.5706045
+            ],
+            [
+              -46.6461759,
+              -23.5706103
+            ],
+            [
+              -46.6461619,
+              -23.5706101
+            ],
+            [
+              -46.6461249,
+              -23.5705697
+            ],
+            [
+              -46.6460898,
+              -23.5705962
+            ],
+            [
+              -46.6458875,
+              -23.5703693
+            ],
+            [
+              -46.6459727,
+              -23.5703031
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/414736253",
       "properties": {
         "timestamp": "2022-05-30T16:37:46Z",
@@ -233,6 +310,37 @@
               -23.5602003
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4956930531",
+      "properties": {
+        "timestamp": "2024-12-19T07:13:08Z",
+        "version": 4,
+        "changeset": 160380000,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "149",
+        "addr:postcode": "01311-000",
+        "addr:street": "Avenida Paulista",
+        "entrance": "yes",
+        "name": "Itaú Cultural",
+        "toilets": "yes",
+        "toilets:wheelchair": "yes",
+        "tourism": "gallery",
+        "website": "https://www.itaucultural.org.br/",
+        "wheelchair": "yes",
+        "wikidata": "Q10304263",
+        "wikimedia_commons": "Category:Itaú Cultural",
+        "wikipedia": "pt:Itaú Cultural",
+        "id": "node/4956930531"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6458364,
+          -23.5703557
         ]
       }
     },

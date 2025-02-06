@@ -3,6 +3,62 @@
   "features": [
     {
       "type": "Feature",
+      "id": "way/1149910800",
+      "properties": {
+        "timestamp": "2024-12-19T12:46:55Z",
+        "version": 8,
+        "changeset": 160393160,
+        "addr:housenumber": "255",
+        "addr:street": "Rua Encantado",
+        "amenity": "school",
+        "description": "Escola pública estadual de Ensino Fundamental II e Ensino Médio.",
+        "email": "eebmbenvenuta@sed.sc.gov.br",
+        "fee": "no",
+        "grades": "6-12",
+        "isced:level": "2;3",
+        "lit": "yes",
+        "name": "Escola de Educação Básica Madre Benvenuta",
+        "operator": "Secretaria de Estado da Educação",
+        "operator:type": "public",
+        "operator:website": "https://www.sed.sc.gov.br/",
+        "owner": "Estado de Santa Catarina",
+        "ownership": "state",
+        "phone": "+55-49-3636-1091",
+        "school:gender": "mixed",
+        "short_name": "EEB Madre Benvenuta",
+        "wheelchair": "limited",
+        "id": "way/1149910800"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -53.5940977,
+              -27.0975296
+            ],
+            [
+              -53.5945793,
+              -27.0967445
+            ],
+            [
+              -53.5951096,
+              -27.0970024
+            ],
+            [
+              -53.5946281,
+              -27.0977874
+            ],
+            [
+              -53.5940977,
+              -27.0975296
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1155075705",
       "properties": {
         "timestamp": "2024-02-24T23:15:55Z",
@@ -67,6 +123,69 @@
             [
               -53.590571,
               -27.0992813
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1155100048",
+      "properties": {
+        "timestamp": "2024-12-19T21:33:46Z",
+        "version": 7,
+        "changeset": 160411636,
+        "addr:housenumber": "353",
+        "addr:street": "Rua Encantado",
+        "amenity": "school",
+        "description": "Escola pública municipal de Ensino Fundamental I.",
+        "email": "cesjo@saojoao.sc.gov.br",
+        "fee": "no",
+        "grades": "1-5",
+        "isced:level": "1",
+        "lit": "yes",
+        "min_age": "6",
+        "name": "Centro Educacional São João do Oeste",
+        "operator": "Prefeitura Municipal de São João do Oeste",
+        "operator:type": "government",
+        "operator:website": "https://saojoao.sc.gov.br/",
+        "owner": "Município de São João do Oeste",
+        "ownership": "municipal",
+        "phone": "+55-49-3195-2053",
+        "wheelchair": "limited",
+        "id": "way/1155100048"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -53.5954663,
+              -27.0963938
+            ],
+            [
+              -53.5951748,
+              -27.0969042
+            ],
+            [
+              -53.5946563,
+              -27.0966696
+            ],
+            [
+              -53.5947007,
+              -27.0965919
+            ],
+            [
+              -53.5948671,
+              -27.0963005
+            ],
+            [
+              -53.5949478,
+              -27.0961592
+            ],
+            [
+              -53.5954663,
+              -27.0963938
             ]
           ]
         ]

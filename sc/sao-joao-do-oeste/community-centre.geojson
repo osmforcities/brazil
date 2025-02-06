@@ -3,6 +3,168 @@
   "features": [
     {
       "type": "Feature",
+      "id": "relation/15714659",
+      "properties": {
+        "timestamp": "2023-07-25T19:19:38Z",
+        "version": 2,
+        "changeset": 139004656,
+        "amenity": "community_centre",
+        "building": "yes",
+        "community_centre": "parish_hall",
+        "loc_name": "Pavilhão Paroquial",
+        "name": "Salão Paroquial",
+        "operator": "Paróquia São João Berchmans",
+        "operator:type": "religious",
+        "owner": "Mitra Diocesana de Chapecó",
+        "toilets": "yes",
+        "toilets:access": "customers",
+        "toilets:disposal": "flush",
+        "toilets:hands_drying": "paper_towel",
+        "toilets:paper_supplied": "yes",
+        "toilets:position": "seated;urinal",
+        "type": "multipolygon",
+        "id": "relation/15714659"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -53.5936869,
+              -27.0993716
+            ],
+            [
+              -53.5936767,
+              -27.0993886
+            ],
+            [
+              -53.5935847,
+              -27.0995425
+            ],
+            [
+              -53.5933633,
+              -27.0994376
+            ],
+            [
+              -53.5931599,
+              -27.0993412
+            ],
+            [
+              -53.593142,
+              -27.0993327
+            ],
+            [
+              -53.5931923,
+              -27.0992485
+            ],
+            [
+              -53.5931842,
+              -27.0992447
+            ],
+            [
+              -53.593236,
+              -27.099158
+            ],
+            [
+              -53.5932838,
+              -27.0991806
+            ],
+            [
+              -53.5936869,
+              -27.0993716
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1154262429",
+      "properties": {
+        "timestamp": "2024-12-19T17:06:38Z",
+        "version": 6,
+        "changeset": 160403342,
+        "addr:housenumber": "330",
+        "addr:street": "Rua Santa Cruz",
+        "alt_name": "Sociedade Aliança",
+        "amenity": "community_centre",
+        "building": "yes",
+        "community_centre": "events_venue",
+        "lit": "yes",
+        "name": "Sociedade Recreativa Aliança",
+        "operator": "Associação Recreativa Aliança",
+        "operator:type": "ngo",
+        "ownership": "private",
+        "phone": "+55-49-3636-1170",
+        "short_name": "Aliança",
+        "id": "way/1154262429"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -53.5944818,
+              -27.096743
+            ],
+            [
+              -53.5943808,
+              -27.0969119
+            ],
+            [
+              -53.5942911,
+              -27.0970618
+            ],
+            [
+              -53.5942261,
+              -27.097031
+            ],
+            [
+              -53.5941998,
+              -27.097075
+            ],
+            [
+              -53.5941486,
+              -27.0970507
+            ],
+            [
+              -53.5940879,
+              -27.097022
+            ],
+            [
+              -53.5941137,
+              -27.0969787
+            ],
+            [
+              -53.5940809,
+              -27.0969632
+            ],
+            [
+              -53.5942409,
+              -27.0966955
+            ],
+            [
+              -53.5943087,
+              -27.0967276
+            ],
+            [
+              -53.5943516,
+              -27.0967479
+            ],
+            [
+              -53.5943827,
+              -27.096696
+            ],
+            [
+              -53.5944818,
+              -27.096743
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1154287275",
       "properties": {
         "timestamp": "2023-03-14T14:35:30Z",
@@ -112,6 +274,67 @@
     },
     {
       "type": "Feature",
+      "id": "node/10724032109",
+      "properties": {
+        "timestamp": "2024-12-19T12:46:55Z",
+        "version": 6,
+        "changeset": 160393160,
+        "entrance": "yes",
+        "id": "node/10724032109"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.5931599,
+          -27.0993412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10724032110",
+      "properties": {
+        "timestamp": "2024-12-19T12:46:55Z",
+        "version": 6,
+        "changeset": 160393160,
+        "entrance": "yes",
+        "id": "node/10724032110"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.5933633,
+          -27.0994376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10724032123",
+      "properties": {
+        "timestamp": "2024-12-19T12:46:55Z",
+        "version": 9,
+        "changeset": 160393160,
+        "couplings": "1",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:position": "sidewalk",
+        "fire_hydrant:type": "pipe",
+        "operator": "Prefeitura Municipal de São João do Oeste",
+        "operator:type": "government",
+        "source": "survey",
+        "water_source": "main",
+        "id": "node/10724032123"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.5935847,
+          -27.0995425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/10735095972",
       "properties": {
         "timestamp": "2023-04-19T00:02:01Z",
@@ -129,6 +352,91 @@
         "coordinates": [
           -53.6210597,
           -27.0505934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10828163469",
+      "properties": {
+        "timestamp": "2024-12-19T12:46:55Z",
+        "version": 3,
+        "changeset": 160393160,
+        "access": "private",
+        "agricultural": "no",
+        "bdouble": "no",
+        "door": "overhead",
+        "entrance": "service",
+        "goods": "private",
+        "hgv": "no",
+        "locked": "yes",
+        "material": "metal",
+        "motorcar": "private",
+        "wheelchair": "private",
+        "id": "node/10828163469"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.5936767,
+          -27.0993886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12433302985",
+      "properties": {
+        "timestamp": "2024-12-19T12:46:55Z",
+        "version": 1,
+        "changeset": 160393160,
+        "entrance": "yes",
+        "level": "0",
+        "id": "node/12433302985"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.5941486,
+          -27.0970507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12433302986",
+      "properties": {
+        "timestamp": "2024-12-19T12:46:55Z",
+        "version": 1,
+        "changeset": 160393160,
+        "entrance": "yes",
+        "level": "1",
+        "id": "node/12433302986"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.5943087,
+          -27.0967276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12433302987",
+      "properties": {
+        "timestamp": "2024-12-19T12:46:55Z",
+        "version": 1,
+        "changeset": 160393160,
+        "entrance": "main",
+        "level": "1",
+        "id": "node/12433302987"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.5943808,
+          -27.0969119
         ]
       }
     }

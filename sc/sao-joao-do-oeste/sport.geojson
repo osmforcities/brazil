@@ -299,6 +299,117 @@
     },
     {
       "type": "Feature",
+      "id": "way/661406463",
+      "properties": {
+        "timestamp": "2024-12-19T13:02:55Z",
+        "version": 6,
+        "changeset": 160393926,
+        "addr:street": "Rua Aliança",
+        "leisure": "stadium",
+        "lit": "yes",
+        "loc_name": "Estádio do Aliança",
+        "name": "Associação Esportiva Aliança",
+        "old_name": "Sociedade Esportiva Aliança",
+        "operator": "Associação Esportiva Aliança",
+        "operator:type": "private",
+        "sport": "soccer",
+        "surface": "grass",
+        "id": "way/661406463"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -53.5981329,
+              -27.095114
+            ],
+            [
+              -53.5973577,
+              -27.0952225
+            ],
+            [
+              -53.5973062,
+              -27.0942631
+            ],
+            [
+              -53.5980954,
+              -27.0941343
+            ],
+            [
+              -53.5980969,
+              -27.0942118
+            ],
+            [
+              -53.5982213,
+              -27.0942098
+            ],
+            [
+              -53.5982235,
+              -27.0943189
+            ],
+            [
+              -53.5982359,
+              -27.0943187
+            ],
+            [
+              -53.5982389,
+              -27.0944695
+            ],
+            [
+              -53.5981983,
+              -27.0944701
+            ],
+            [
+              -53.5982034,
+              -27.0947235
+            ],
+            [
+              -53.5981298,
+              -27.0947247
+            ],
+            [
+              -53.5981311,
+              -27.0947915
+            ],
+            [
+              -53.5981945,
+              -27.0947905
+            ],
+            [
+              -53.5981951,
+              -27.0948179
+            ],
+            [
+              -53.5982065,
+              -27.0948178
+            ],
+            [
+              -53.5982073,
+              -27.0948557
+            ],
+            [
+              -53.5981958,
+              -27.0948558
+            ],
+            [
+              -53.5981967,
+              -27.0948967
+            ],
+            [
+              -53.5981286,
+              -27.0948978
+            ],
+            [
+              -53.5981329,
+              -27.095114
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/661406464",
       "properties": {
         "timestamp": "2024-06-25T18:03:20Z",
@@ -1169,6 +1280,31 @@
         "coordinates": [
           -53.5900687,
           -27.1000111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12433961254",
+      "properties": {
+        "timestamp": "2024-12-19T17:37:12Z",
+        "version": 2,
+        "changeset": 160404423,
+        "access": "private",
+        "leisure": "pitch",
+        "level": "0",
+        "lit": "yes",
+        "name": "Bolão Aliança",
+        "operator": "Associação Recreativa Aliança",
+        "sport": "9pin",
+        "surface": "wood",
+        "id": "node/12433961254"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.5941346,
+          -27.096952
         ]
       }
     }

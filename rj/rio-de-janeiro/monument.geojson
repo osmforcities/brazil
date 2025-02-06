@@ -155,6 +155,60 @@
     },
     {
       "type": "Feature",
+      "id": "way/432943704",
+      "properties": {
+        "timestamp": "2024-12-19T18:59:16Z",
+        "version": 6,
+        "changeset": 160406988,
+        "alt_name": "Chafariz do Mestre Valentim",
+        "artist_name": "Mestre Valentim",
+        "artwork_type": "sculpture",
+        "building": "yes",
+        "disused:amenity": "fountain",
+        "ele": "7.37",
+        "height": "5.56",
+        "heritage": "2",
+        "heritage:operator": "iphan",
+        "historic": "monument",
+        "inscription": "Chafariz do Mestre Valentim",
+        "iphan:inscription_date": "1938-05-11",
+        "material": "granite;marble",
+        "name": "Chafariz da Pirâmide",
+        "start_date": "1789-04",
+        "tourism": "artwork",
+        "wikidata": "Q56641197",
+        "id": "way/432943704"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.1738218,
+              -22.9027159
+            ],
+            [
+              -43.1738671,
+              -22.9026605
+            ],
+            [
+              -43.1739147,
+              -22.9026939
+            ],
+            [
+              -43.1738693,
+              -22.9027493
+            ],
+            [
+              -43.1738218,
+              -22.9027159
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/559811156",
       "properties": {
         "timestamp": "2018-02-08T17:28:06Z",
@@ -3077,6 +3131,28 @@
     },
     {
       "type": "Feature",
+      "id": "node/6146058219",
+      "properties": {
+        "timestamp": "2024-12-19T18:53:04Z",
+        "version": 3,
+        "changeset": 160406826,
+        "historic": "monument",
+        "material": "granite",
+        "name": "Cápsula do Tempo (1969–2019) da Federação de Bandeirantes",
+        "start_date": "1969-08-10",
+        "wikidata": "Q67203734",
+        "id": "node/6146058219"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1699034,
+          -22.9093835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/6382383307",
       "properties": {
         "timestamp": "2023-08-17T14:41:43Z",
@@ -3647,6 +3723,29 @@
         "coordinates": [
           -43.1645852,
           -22.9620349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12434239967",
+      "properties": {
+        "timestamp": "2024-12-19T19:29:05Z",
+        "version": 1,
+        "changeset": 160407754,
+        "artist_name": "Milton Guran;Jair de Souza;Ado Azevedo",
+        "historic": "monument",
+        "material": "steel;glass",
+        "name": "Monumento à Primeira Foto na América do Sul",
+        "start_date": "2016-09-09",
+        "wikidata": "Q67210205",
+        "id": "node/12434239967"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1732625,
+          -22.9032579
         ]
       }
     }

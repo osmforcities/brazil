@@ -3,6 +3,104 @@
   "features": [
     {
       "type": "Feature",
+      "id": "way/261418735",
+      "properties": {
+        "timestamp": "2024-12-19T13:34:20Z",
+        "version": 6,
+        "changeset": 160395290,
+        "addr:city": "São José de Ubá",
+        "leisure": "sports_centre",
+        "name": "Ubá Campestre Clube",
+        "sport": "multi",
+        "id": "way/261418735"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.9419839,
+              -21.3613112
+            ],
+            [
+              -41.942189,
+              -21.3621868
+            ],
+            [
+              -41.9417215,
+              -21.3624339
+            ],
+            [
+              -41.9410427,
+              -21.3619515
+            ],
+            [
+              -41.9414758,
+              -21.361517
+            ],
+            [
+              -41.941575,
+              -21.3614952
+            ],
+            [
+              -41.9416048,
+              -21.3614855
+            ],
+            [
+              -41.9416138,
+              -21.3614024
+            ],
+            [
+              -41.9419839,
+              -21.3613112
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/261572867",
+      "properties": {
+        "timestamp": "2024-12-19T10:59:33Z",
+        "version": 2,
+        "changeset": 160388452,
+        "building": "yes",
+        "leisure": "sports_centre",
+        "name": "Ginásio José de Campos Filho",
+        "sport": "multi",
+        "id": "way/261572867"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.944861,
+              -21.3627789
+            ],
+            [
+              -41.9445048,
+              -21.3629256
+            ],
+            [
+              -41.9444123,
+              -21.3627307
+            ],
+            [
+              -41.9447684,
+              -21.3625839
+            ],
+            [
+              -41.944861,
+              -21.3627789
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/753320817",
       "properties": {
         "timestamp": "2022-04-16T22:40:21Z",
@@ -117,6 +215,49 @@
     },
     {
       "type": "Feature",
+      "id": "way/753320822",
+      "properties": {
+        "timestamp": "2024-12-19T13:34:20Z",
+        "version": 2,
+        "changeset": 160395290,
+        "access": "yes",
+        "covered": "no",
+        "leisure": "pitch",
+        "lit": "no",
+        "name": "Campo de Futebol da Praça dos Esportes",
+        "sport": "soccer",
+        "id": "way/753320822"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.9388106,
+              -21.3577241
+            ],
+            [
+              -41.9385315,
+              -21.3578813
+            ],
+            [
+              -41.9382851,
+              -21.3575019
+            ],
+            [
+              -41.9385642,
+              -21.3573446
+            ],
+            [
+              -41.9388106,
+              -21.3577241
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/837686246",
       "properties": {
         "timestamp": "2024-12-18T19:35:43Z",
@@ -149,6 +290,45 @@
             [
               -41.9374555,
               -21.3594
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/966000207",
+      "properties": {
+        "timestamp": "2021-07-20T18:52:04Z",
+        "version": 1,
+        "changeset": 108335196,
+        "leisure": "pitch",
+        "sport": "soccer",
+        "id": "way/966000207"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.9417635,
+              -21.3618887
+            ],
+            [
+              -41.9416583,
+              -21.3614483
+            ],
+            [
+              -41.9419632,
+              -21.3613851
+            ],
+            [
+              -41.9420684,
+              -21.3618254
+            ],
+            [
+              -41.9417635,
+              -21.3618887
             ]
           ]
         ]
@@ -270,6 +450,27 @@
               -21.3591061
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12433497365",
+      "properties": {
+        "timestamp": "2024-12-19T13:34:20Z",
+        "version": 1,
+        "changeset": 160395290,
+        "access": "permit",
+        "door": "yes",
+        "entrance": "yes",
+        "wheelchair": "yes",
+        "id": "node/12433497365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.941575,
+          -21.3614952
         ]
       }
     }

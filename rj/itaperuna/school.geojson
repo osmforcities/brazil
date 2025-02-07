@@ -538,6 +538,53 @@
     },
     {
       "type": "Feature",
+      "id": "way/1278340574",
+      "properties": {
+        "timestamp": "2024-12-20T19:04:55Z",
+        "version": 2,
+        "changeset": 160445945,
+        "addr:city": "Itaperuna",
+        "addr:housenumber": "156",
+        "addr:postcode": "28300-000",
+        "addr:street": "Rua Alcides Augusto Magalhães",
+        "addr:suburb": "Sá Tinoco",
+        "amenity": "school",
+        "name": "Colégio Estadual Rotary",
+        "operator": "Secretaria Municipal de Educação de Itaperuna",
+        "operator:type": "government",
+        "operator:wikidata": "Q1675245",
+        "id": "way/1278340574"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.8776687,
+              -21.2164614
+            ],
+            [
+              -41.877564,
+              -21.2170003
+            ],
+            [
+              -41.8767052,
+              -21.2168561
+            ],
+            [
+              -41.8768159,
+              -21.21632
+            ],
+            [
+              -41.8776687,
+              -21.2164614
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1278442455",
       "properties": {
         "timestamp": "2024-04-30T09:49:36Z",
@@ -736,6 +783,55 @@
             [
               -41.891605,
               -21.1872329
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1278648771",
+      "properties": {
+        "timestamp": "2024-12-22T11:28:49Z",
+        "version": 3,
+        "changeset": 160497921,
+        "addr:city": "Itaperuna",
+        "addr:housenumber": "320",
+        "addr:postcode": "28300-000",
+        "addr:street": "Rua Aloísio Dias Moreira",
+        "addr:suburb": "Lions",
+        "amenity": "school",
+        "email": "nsg@itaperuna.rj.gov.br",
+        "name": "Escola Municipal Nossa Senhora das Graças",
+        "operator": "Secretaria Municipal de Educação de Itaperuna",
+        "operator:type": "government",
+        "operator:wikidata": "Q1675245",
+        "phone": "+55 22 98842 1495",
+        "id": "way/1278648771"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.9007712,
+              -21.190949
+            ],
+            [
+              -41.9002359,
+              -21.1911279
+            ],
+            [
+              -41.8997432,
+              -21.1898465
+            ],
+            [
+              -41.9002787,
+              -21.1896676
+            ],
+            [
+              -41.9007712,
+              -21.190949
             ]
           ]
         ]
@@ -1179,6 +1275,51 @@
     },
     {
       "type": "Feature",
+      "id": "way/1344848333",
+      "properties": {
+        "timestamp": "2024-12-22T18:37:10Z",
+        "version": 1,
+        "changeset": 160511802,
+        "addr:city": "Itaperuna",
+        "addr:postcode": "28300-000",
+        "addr:street": "Rua Jornal Brasil Novo",
+        "addr:suburb": "Frigorífico",
+        "amenity": "school",
+        "name": "Escola Municipal José de Paula Nogueira",
+        "operator": "Município de Itaperuna",
+        "operator:type": "public",
+        "id": "way/1344848333"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.8720106,
+              -21.2342195
+            ],
+            [
+              -41.8716458,
+              -21.2343895
+            ],
+            [
+              -41.8715384,
+              -21.2342316
+            ],
+            [
+              -41.871876,
+              -21.2339996
+            ],
+            [
+              -41.8720106,
+              -21.2342195
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/11876543076",
       "properties": {
         "timestamp": "2024-05-03T13:15:14Z",
@@ -1199,6 +1340,33 @@
         "coordinates": [
           -42.0804479,
           -21.3362382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11876543116",
+      "properties": {
+        "timestamp": "2024-12-22T11:28:49Z",
+        "version": 2,
+        "changeset": 160497921,
+        "addr:city": "Itaperuna",
+        "addr:district": "Itajara",
+        "addr:postcode": "28345-000",
+        "addr:street": "Rua Santa Lúcia",
+        "addr:suburb": "Centro",
+        "amenity": "school",
+        "name": "Escola Municipal Hermenegildo Torres Pessoa",
+        "operator": "Secretaria Municipal de Educação de Itaperuna",
+        "operator:type": "government",
+        "operator:wikidata": "Q1675245",
+        "id": "node/11876543116"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.0237309,
+          -21.3141582
         ]
       }
     }

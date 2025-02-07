@@ -3,6 +3,67 @@
   "features": [
     {
       "type": "Feature",
+      "id": "way/1344804500",
+      "properties": {
+        "timestamp": "2024-12-22T14:55:31Z",
+        "version": 1,
+        "changeset": 160504468,
+        "addr:housenumber": "1465",
+        "addr:postcode": "13416-257",
+        "addr:street": "Avenida Saldanha Marinho",
+        "addr:suburb": "Centro",
+        "amenity": "pharmacy",
+        "branch": "PIRACICABA - D",
+        "brand": "Droga Raia",
+        "brand:wikidata": "Q10357101",
+        "building": "yes",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Droga Raia",
+        "opening_hours": "Mo-Su,PH 07:00-23:00",
+        "phone": "+55 19 3434 4322",
+        "wheelchair": "yes",
+        "id": "way/1344804500"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.6388351,
+              -22.7211827
+            ],
+            [
+              -47.6388863,
+              -22.7211913
+            ],
+            [
+              -47.6389235,
+              -22.72126
+            ],
+            [
+              -47.6388863,
+              -22.7213072
+            ],
+            [
+              -47.638693,
+              -22.7213975
+            ],
+            [
+              -47.6386208,
+              -22.7212793
+            ],
+            [
+              -47.6388351,
+              -22.7211827
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/3388095793",
       "properties": {
         "timestamp": "2019-12-17T16:38:00Z",
@@ -21,6 +82,27 @@
         "coordinates": [
           -47.634083,
           -22.7253815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3404158558",
+      "properties": {
+        "timestamp": "2024-12-22T19:24:09Z",
+        "version": 2,
+        "changeset": 160513012,
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Drogal",
+        "id": "node/3404158558"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.6098851,
+          -22.7329441
         ]
       }
     },

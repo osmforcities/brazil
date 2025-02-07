@@ -585,6 +585,63 @@
     },
     {
       "type": "Feature",
+      "id": "way/654068746",
+      "properties": {
+        "timestamp": "2024-12-22T01:05:59Z",
+        "version": 4,
+        "changeset": 160488052,
+        "addr:street": "Avenida Doutor Paulo Ribas",
+        "building": "hotel",
+        "name": "Hotel Monte Carlo",
+        "tourism": "hotel",
+        "id": "way/654068746"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -45.5660601,
+              -22.72023
+            ],
+            [
+              -45.5660106,
+              -22.7202769
+            ],
+            [
+              -45.5659391,
+              -22.7202126
+            ],
+            [
+              -45.565924,
+              -22.7202269
+            ],
+            [
+              -45.5659034,
+              -22.7202083
+            ],
+            [
+              -45.5658548,
+              -22.7202543
+            ],
+            [
+              -45.565788,
+              -22.7201942
+            ],
+            [
+              -45.5659012,
+              -22.7200871
+            ],
+            [
+              -45.5660601,
+              -22.72023
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/829500622",
       "properties": {
         "timestamp": "2020-07-24T03:23:08Z",
@@ -1675,6 +1732,28 @@
         "coordinates": [
           -45.5666593,
           -22.7265825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11817861300",
+      "properties": {
+        "timestamp": "2024-12-22T01:26:25Z",
+        "version": 2,
+        "changeset": 160488259,
+        "leisure": "resort",
+        "name": "Bendito Cacao Resort & Spa",
+        "spa": "yes",
+        "stars": "5",
+        "tourism": "hotel",
+        "id": "node/11817861300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.559827,
+          -22.6978401
         ]
       }
     },

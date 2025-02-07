@@ -99,6 +99,114 @@
     },
     {
       "type": "Feature",
+      "id": "way/1344872274",
+      "properties": {
+        "timestamp": "2024-12-22T21:32:09Z",
+        "version": 2,
+        "changeset": 160516239,
+        "building": "yes",
+        "name": "SRE Linhares - Superintendência Regional de Educação",
+        "office": "government",
+        "id": "way/1344872274"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.0598577,
+              -19.3973186
+            ],
+            [
+              -40.0592898,
+              -19.3970328
+            ],
+            [
+              -40.0594479,
+              -19.3967562
+            ],
+            [
+              -40.0595494,
+              -19.3965741
+            ],
+            [
+              -40.0601168,
+              -19.396858
+            ],
+            [
+              -40.0598577,
+              -19.3973186
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1344881057",
+      "properties": {
+        "timestamp": "2024-12-22T21:32:09Z",
+        "version": 1,
+        "changeset": 160516239,
+        "building": "yes",
+        "name": "Guarda Municipal de Linhares",
+        "office": "government",
+        "id": "way/1344881057"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.0605623,
+              -19.3954531
+            ],
+            [
+              -40.0603417,
+              -19.3958416
+            ],
+            [
+              -40.0590479,
+              -19.395188
+            ],
+            [
+              -40.0592037,
+              -19.3949137
+            ],
+            [
+              -40.0592686,
+              -19.3947994
+            ],
+            [
+              -40.0596427,
+              -19.3949884
+            ],
+            [
+              -40.0598743,
+              -19.3951055
+            ],
+            [
+              -40.0599703,
+              -19.395154
+            ],
+            [
+              -40.0601356,
+              -19.3952374
+            ],
+            [
+              -40.0602985,
+              -19.3953208
+            ],
+            [
+              -40.0605623,
+              -19.3954531
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/9588349630",
       "properties": {
         "timestamp": "2024-10-05T13:35:41Z",
@@ -207,6 +315,45 @@
         "coordinates": [
           -40.0667454,
           -19.403965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12442274208",
+      "properties": {
+        "timestamp": "2024-12-22T20:36:31Z",
+        "version": 1,
+        "changeset": 160514912,
+        "name": "SRE Linhares - Superintendência Regional de Educação",
+        "office": "government",
+        "id": "node/12442274208"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.0597036,
+          -19.3969463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12442364647",
+      "properties": {
+        "timestamp": "2024-12-22T21:32:09Z",
+        "version": 1,
+        "changeset": 160516239,
+        "office": "government",
+        "operator": "Receita Federal do Brasil",
+        "operator:wikidata": "Q10369254",
+        "id": "node/12442364647"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.0615566,
+          -19.3961489
         ]
       }
     }

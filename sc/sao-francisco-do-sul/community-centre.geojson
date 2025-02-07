@@ -339,6 +339,48 @@
     },
     {
       "type": "Feature",
+      "id": "way/1345163231",
+      "properties": {
+        "timestamp": "2024-12-23T16:24:41Z",
+        "version": 1,
+        "changeset": 160545059,
+        "addr:city": "São Francisco do Sul",
+        "addr:street": "Servidão Gomercindo Ayres Müller",
+        "amenity": "community_centre",
+        "building": "yes",
+        "name": "Abrigo dos Pescadores Josias Rocha da Conceição",
+        "id": "way/1345163231"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.6121329,
+              -26.2273649
+            ],
+            [
+              -48.6121881,
+              -26.2274134
+            ],
+            [
+              -48.6120738,
+              -26.2275184
+            ],
+            [
+              -48.6120186,
+              -26.2274699
+            ],
+            [
+              -48.6121329,
+              -26.2273649
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/2075957897",
       "properties": {
         "timestamp": "2017-03-27T21:54:27Z",
@@ -442,6 +484,53 @@
         "coordinates": [
           -48.6356497,
           -26.2776621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12444608250",
+      "properties": {
+        "timestamp": "2024-12-23T16:24:41Z",
+        "version": 1,
+        "changeset": 160545059,
+        "addr:city": "São Francisco do Sul",
+        "addr:street": "Rua Rafael Pardinho",
+        "addr:suburb": "Centro",
+        "amenity": "community_centre",
+        "name": "Colônia de Pescadores Z-02",
+        "phone": "+55 47 3444-2919",
+        "id": "node/12444608250"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.6376156,
+          -26.240684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12444608251",
+      "properties": {
+        "timestamp": "2024-12-23T16:24:41Z",
+        "version": 1,
+        "changeset": 160545059,
+        "addr:city": "São Francisco do Sul",
+        "addr:housenumber": "1",
+        "addr:street": "Rua Comandante Cabo",
+        "amenity": "community_centre",
+        "name": "Centro Espírita Caridade de Jesus",
+        "start_date": "1895-07-21",
+        "website": "https://www.facebook.com/cecaridadejesusfs/?locale=pt_BR",
+        "id": "node/12444608251"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.6417849,
+          -26.2469622
         ]
       }
     }

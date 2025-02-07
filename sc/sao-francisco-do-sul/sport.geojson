@@ -487,6 +487,49 @@
     },
     {
       "type": "Feature",
+      "id": "way/330975802",
+      "properties": {
+        "timestamp": "2024-12-23T16:24:41Z",
+        "version": 5,
+        "changeset": 160545059,
+        "addr:city": "São Francisco do Sul",
+        "addr:street": "Rua Guilherme Winter",
+        "alt_name": "Ás de Ouro",
+        "leisure": "pitch",
+        "name": "Associação Desportiva Ás de Ouro",
+        "sport": "soccer",
+        "id": "way/330975802"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.5777208,
+              -26.2171209
+            ],
+            [
+              -48.5775708,
+              -26.2175626
+            ],
+            [
+              -48.5772783,
+              -26.2174826
+            ],
+            [
+              -48.5774284,
+              -26.2170409
+            ],
+            [
+              -48.5777208,
+              -26.2171209
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/468786435",
       "properties": {
         "timestamp": "2023-04-10T23:34:43Z",
@@ -1378,6 +1421,27 @@
         "coordinates": [
           -48.5171016,
           -26.2238659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12444608243",
+      "properties": {
+        "timestamp": "2024-12-23T16:24:41Z",
+        "version": 1,
+        "changeset": 160545059,
+        "addr:city": "São Francisco do Sul",
+        "club": "sport",
+        "name": "Clube Esportivo 21",
+        "sport": "soccer",
+        "id": "node/12444608243"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.5345655,
+          -26.2143104
         ]
       }
     }

@@ -5,18 +5,22 @@
       "type": "Feature",
       "id": "node/2440343173",
       "properties": {
-        "timestamp": "2023-05-22T22:47:57Z",
-        "version": 2,
-        "changeset": 136432380,
+        "timestamp": "2024-12-24T02:23:20Z",
+        "version": 4,
+        "changeset": 160560369,
+        "addr:city": "Minas Novas",
         "addr:housenumber": "284",
         "addr:postcode": "39650-000",
         "addr:street": "Avenida Israel Pinheiro",
-        "addr:suburb": "Saudade",
+        "addr:suburb": "Padre Emiliano",
         "amenity": "hospital",
         "email": "hospital@fhnhbj.com.br",
         "emergency": "yes",
         "healthcare": "hospital",
-        "name": "Hospital Doutor Badaro Junior",
+        "healthcare:speciality": "general",
+        "name": "Hospital Doutor Badaró Júnior",
+        "operator": "Fundação Minas Novas",
+        "operator:type": "government",
         "phone": "+55 33 3764 1202",
         "ref:CNES": "2134268",
         "ref:vatin": "BR21248752000146",
@@ -25,8 +29,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -42.5829906,
-          -17.2213786
+          -42.5830482,
+          -17.2212318
         ]
       }
     }

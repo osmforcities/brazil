@@ -755,6 +755,51 @@
     },
     {
       "type": "Feature",
+      "id": "way/297470100",
+      "properties": {
+        "timestamp": "2024-12-24T13:53:59Z",
+        "version": 2,
+        "changeset": 160576810,
+        "access": "emergency",
+        "amenity": "social_facility",
+        "building": "yes",
+        "emergency": "designated",
+        "highway": "emergency_access_point",
+        "name": "Enfermaria",
+        "operator": "Zoológico de São Paulo",
+        "social_facility": "ambulatory_care",
+        "id": "way/297470100"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.6202236,
+              -23.6484347
+            ],
+            [
+              -46.6201935,
+              -23.6485859
+            ],
+            [
+              -46.6200835,
+              -23.6485676
+            ],
+            [
+              -46.6201135,
+              -23.6484164
+            ],
+            [
+              -46.6202236,
+              -23.6484347
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/421485757",
       "properties": {
         "timestamp": "2017-07-22T23:37:04Z",
@@ -4899,6 +4944,29 @@
         "coordinates": [
           -46.6454532,
           -23.5630496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11794966932",
+      "properties": {
+        "timestamp": "2024-12-24T13:52:27Z",
+        "version": 4,
+        "changeset": 160576745,
+        "access": "emergency",
+        "amenity": "social_facility",
+        "emergency": "designated",
+        "entrance": "yes",
+        "name": "Ambulatório",
+        "social_facility": "ambulatory_care",
+        "id": "node/11794966932"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6649521,
+          -23.5504221
         ]
       }
     },

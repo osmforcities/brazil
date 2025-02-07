@@ -179,6 +179,61 @@
     },
     {
       "type": "Feature",
+      "id": "way/381238269",
+      "properties": {
+        "timestamp": "2024-12-24T02:51:04Z",
+        "version": 9,
+        "changeset": 160560666,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "gynaecology",
+        "name": "Hospital e Maternidade Nossa Senhora de Nazaré",
+        "operator": "Governo de Roraima",
+        "operator:type": "public",
+        "id": "way/381238269"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -60.6682871,
+              2.8298992
+            ],
+            [
+              -60.6681011,
+              2.8297353
+            ],
+            [
+              -60.6673855,
+              2.8291051
+            ],
+            [
+              -60.6673104,
+              2.829039
+            ],
+            [
+              -60.6672407,
+              2.8291196
+            ],
+            [
+              -60.6661433,
+              2.8303888
+            ],
+            [
+              -60.6671169,
+              2.8312417
+            ],
+            [
+              -60.6682871,
+              2.8298992
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/546834790",
       "properties": {
         "timestamp": "2023-05-03T23:26:27Z",
@@ -620,6 +675,25 @@
     },
     {
       "type": "Feature",
+      "id": "node/5322740787",
+      "properties": {
+        "timestamp": "2019-06-06T18:04:32Z",
+        "version": 3,
+        "changeset": 70999258,
+        "crossing": "marked",
+        "highway": "crossing",
+        "id": "node/5322740787"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6681011,
+          2.8297353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/5349889424",
       "properties": {
         "timestamp": "2018-01-19T21:34:15Z",
@@ -636,6 +710,25 @@
         "coordinates": [
           -60.7203624,
           2.7751128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6529622238",
+      "properties": {
+        "timestamp": "2019-06-06T18:04:32Z",
+        "version": 1,
+        "changeset": 70999258,
+        "crossing": "marked",
+        "highway": "crossing",
+        "id": "node/6529622238"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6673855,
+          2.8291051
         ]
       }
     },

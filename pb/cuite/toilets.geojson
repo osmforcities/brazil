@@ -3,6 +3,74 @@
   "features": [
     {
       "type": "Feature",
+      "id": "way/953162715",
+      "properties": {
+        "timestamp": "2024-12-24T01:12:57Z",
+        "version": 6,
+        "changeset": 160559406,
+        "access": "yes",
+        "amenity": "toilets",
+        "building": "toilets",
+        "changing_table": "no",
+        "check_date": "2024-11-27",
+        "fee": "no",
+        "gender_segregated": "yes",
+        "name": "Banheiro Público",
+        "opening_hours": "Mo-Sa 08:00-19:00",
+        "shower": "yes",
+        "toilets:disposal": "flush",
+        "toilets:handwashing": "yes",
+        "toilets:menstrual_products": "no",
+        "toilets:position": "seated;urinal",
+        "wheelchair": "yes",
+        "id": "way/953162715"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -36.1556382,
+              -6.4858862
+            ],
+            [
+              -36.1555535,
+              -6.4859098
+            ],
+            [
+              -36.1554439,
+              -6.4859137
+            ],
+            [
+              -36.1554435,
+              -6.4858617
+            ],
+            [
+              -36.1555197,
+              -6.4858613
+            ],
+            [
+              -36.1555434,
+              -6.4858612
+            ],
+            [
+              -36.1555569,
+              -6.4858574
+            ],
+            [
+              -36.1556248,
+              -6.4858385
+            ],
+            [
+              -36.1556382,
+              -6.4858862
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1091737239",
       "properties": {
         "timestamp": "2022-09-04T00:49:07Z",
@@ -148,6 +216,32 @@
     },
     {
       "type": "Feature",
+      "id": "node/10024636940",
+      "properties": {
+        "timestamp": "2024-12-24T01:12:57Z",
+        "version": 2,
+        "changeset": 160559406,
+        "amenity": "toilets",
+        "changing_table": "no",
+        "gender_segregated": "yes",
+        "indoor": "room",
+        "level": "0",
+        "shower": "no",
+        "toilets:disposal": "flush",
+        "toilets:handwashing": "yes",
+        "toilets:position": "seated",
+        "id": "node/10024636940"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.1596284,
+          -6.4950356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/11504196140",
       "properties": {
         "timestamp": "2024-01-09T20:03:01Z",
@@ -166,6 +260,56 @@
     },
     {
       "type": "Feature",
+      "id": "node/12377370486",
+      "properties": {
+        "timestamp": "2024-12-24T01:12:57Z",
+        "version": 4,
+        "changeset": 160559406,
+        "amenity": "toilets",
+        "check_date": "2024-11-26",
+        "fee": "no",
+        "gender_segregated": "yes",
+        "level": "0",
+        "portable": "no",
+        "shower": "no",
+        "source": "survey",
+        "toilets:disposal": "flush",
+        "toilets:handwashing": "yes",
+        "toilets:menstrual_products": "no",
+        "toilets:position": "seated",
+        "id": "node/12377370486"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.160063,
+          -6.4959302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12381198184",
+      "properties": {
+        "timestamp": "2024-12-24T01:12:57Z",
+        "version": 2,
+        "changeset": 160559406,
+        "amenity": "toilets",
+        "gender_segregated": "yes",
+        "level": "1",
+        "toilets:disposal": "flush",
+        "id": "node/12381198184"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.1590303,
+          -6.4953171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/12417638607",
       "properties": {
         "timestamp": "2024-12-13T00:19:35Z",
@@ -179,6 +323,100 @@
         "coordinates": [
           -36.1600471,
           -6.4960211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12417638612",
+      "properties": {
+        "timestamp": "2024-12-24T01:12:57Z",
+        "version": 2,
+        "changeset": 160559406,
+        "amenity": "toilets",
+        "fee": "no",
+        "gender_segregated": "yes",
+        "level": "0",
+        "portable": "no",
+        "shower": "no",
+        "source": "survey",
+        "toilets:disposal": "flush",
+        "toilets:handwashing": "yes",
+        "toilets:menstrual_products": "no",
+        "toilets:position": "seated",
+        "id": "node/12417638612"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.1600721,
+          -6.4950042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12417638613",
+      "properties": {
+        "timestamp": "2024-12-24T01:12:57Z",
+        "version": 2,
+        "changeset": 160559406,
+        "amenity": "toilets",
+        "fee": "no",
+        "gender_segregated": "yes",
+        "level": "0",
+        "portable": "no",
+        "shower": "no",
+        "source": "survey",
+        "toilets:disposal": "flush",
+        "toilets:handwashing": "yes",
+        "toilets:menstrual_products": "no",
+        "toilets:position": "seated",
+        "id": "node/12417638613"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.1600516,
+          -6.4956008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12445973153",
+      "properties": {
+        "timestamp": "2024-12-24T01:12:57Z",
+        "version": 1,
+        "changeset": 160559406,
+        "entrance": "main",
+        "name": "Banheiro Masculino",
+        "id": "node/12445973153"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.1555569,
+          -6.4858574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12445973154",
+      "properties": {
+        "timestamp": "2024-12-24T01:12:57Z",
+        "version": 1,
+        "changeset": 160559406,
+        "entrance": "main",
+        "name": "Banheiro Feminino",
+        "id": "node/12445973154"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.1555197,
+          -6.4858613
         ]
       }
     }

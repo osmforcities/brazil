@@ -3,26 +3,58 @@
   "features": [
     {
       "type": "Feature",
-      "id": "node/9853688419",
+      "id": "way/1346058349",
       "properties": {
-        "timestamp": "2023-02-27T11:47:51Z",
-        "version": 2,
-        "changeset": 133084359,
-        "addr:city": "Governador Lindenberg",
-        "addr:district": "Novo Brasil",
-        "addr:postcode": "29720-000",
-        "addr:street": "Travessa São José",
+        "timestamp": "2024-12-24T20:35:20Z",
+        "version": 1,
+        "changeset": 160587229,
         "amenity": "clinic",
-        "healthcare": "clinic",
-        "healthcare:speciality": "general",
-        "name": "Centro de Saúde Arlindo Stocco",
-        "id": "node/9853688419"
+        "building": "yes",
+        "healthcare": "centre",
+        "name": "Centro de Saúde de Governador Lindenberg",
+        "id": "way/1346058349"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -40.5906576,
-          -19.2192264
+          [
+            [
+              -40.4604575,
+              -19.2551889
+            ],
+            [
+              -40.4603933,
+              -19.2553997
+            ],
+            [
+              -40.4600255,
+              -19.2553
+            ],
+            [
+              -40.4600546,
+              -19.2552045
+            ],
+            [
+              -40.4602642,
+              -19.2552614
+            ],
+            [
+              -40.4602797,
+              -19.2552105
+            ],
+            [
+              -40.4601925,
+              -19.2551869
+            ],
+            [
+              -40.4602121,
+              -19.2551223
+            ],
+            [
+              -40.4604575,
+              -19.2551889
+            ]
+          ]
         ]
       }
     }

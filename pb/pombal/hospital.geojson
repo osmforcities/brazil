@@ -5,13 +5,16 @@
       "type": "Feature",
       "id": "way/428349148",
       "properties": {
-        "timestamp": "2023-12-13T12:14:46Z",
-        "version": 3,
-        "changeset": 145072909,
+        "timestamp": "2024-12-25T13:50:39Z",
+        "version": 4,
+        "changeset": 160604462,
         "amenity": "hospital",
+        "emergency": "yes",
         "healthcare": "hospital",
-        "name": "Hospital Regional de Pombal",
+        "name": "Hospital Regional de Pombal - Senador Rui Carneiro",
         "opening_hours": "24/7",
+        "operator": "Governo do Estado da Paraíba",
+        "operator:type": "public",
         "id": "way/428349148"
       },
       "geometry": {
@@ -44,22 +47,44 @@
     },
     {
       "type": "Feature",
-      "id": "node/3969571256",
+      "id": "way/1346164733",
       "properties": {
-        "timestamp": "2021-02-20T21:15:55Z",
-        "version": 2,
-        "changeset": 99660429,
+        "timestamp": "2024-12-25T13:48:32Z",
+        "version": 1,
+        "changeset": 160604408,
         "amenity": "hospital",
+        "emergency": "yes",
         "healthcare": "hospital",
-        "name": "UPA 24h",
-        "opening_hours": "24/7",
-        "id": "node/3969571256"
+        "name": "Unidade de Pronto Atendimento - Deputado Levi Olímpio Ferreira",
+        "operator": "Prefeitura Municipal de Pombal",
+        "operator:type": "public",
+        "id": "way/1346164733"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -37.8030662,
-          -6.7797955
+          [
+            [
+              -37.8033778,
+              -6.7796236
+            ],
+            [
+              -37.803175,
+              -6.7800107
+            ],
+            [
+              -37.8028469,
+              -6.7798412
+            ],
+            [
+              -37.8030497,
+              -6.7794541
+            ],
+            [
+              -37.8033778,
+              -6.7796236
+            ]
+          ]
         ]
       }
     }

@@ -3,21 +3,87 @@
   "features": [
     {
       "type": "Feature",
-      "id": "node/4525026321",
+      "id": "way/1346167305",
       "properties": {
-        "timestamp": "2021-02-20T21:15:55Z",
-        "version": 2,
-        "changeset": 99660429,
+        "timestamp": "2024-12-25T14:15:30Z",
+        "version": 1,
+        "changeset": 160605400,
         "amenity": "hospital",
+        "emergency": "yes",
         "healthcare": "hospital",
-        "name": "Hospital João Agripino",
-        "id": "node/4525026321"
+        "name": "Hospital Regional de Piancó - Wenceslau Lopes",
+        "operator": "Governo do Estado da Paraíba",
+        "operator:type": "public",
+        "id": "way/1346167305"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -37.9235248,
-          -7.198118
+          [
+            [
+              -37.923836,
+              -7.1978676
+            ],
+            [
+              -37.9238973,
+              -7.1985917
+            ],
+            [
+              -37.9233606,
+              -7.1989708
+            ],
+            [
+              -37.9232711,
+              -7.1979147
+            ],
+            [
+              -37.923836,
+              -7.1978676
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1346167915",
+      "properties": {
+        "timestamp": "2024-12-25T14:19:38Z",
+        "version": 1,
+        "changeset": 160605544,
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Unidade de Pronto Atendimento",
+        "operator": "Prefeitura Municipal de Piancó",
+        "operator:type": "public",
+        "id": "way/1346167915"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -37.9203655,
+              -7.1920215
+            ],
+            [
+              -37.9206546,
+              -7.192498
+            ],
+            [
+              -37.92033,
+              -7.1926919
+            ],
+            [
+              -37.9200408,
+              -7.1922154
+            ],
+            [
+              -37.9203655,
+              -7.1920215
+            ]
+          ]
         ]
       }
     }

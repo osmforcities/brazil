@@ -5,13 +5,16 @@
       "type": "Feature",
       "id": "way/174949585",
       "properties": {
-        "timestamp": "2021-02-18T06:46:29Z",
-        "version": 2,
-        "changeset": 99497777,
+        "timestamp": "2024-12-25T13:26:37Z",
+        "version": 3,
+        "changeset": 160603738,
         "amenity": "hospital",
         "emergency": "yes",
         "healthcare": "hospital",
-        "name": "Hospital Regional de Cajazeiras",
+        "name": "Hospital Regional de Cajazeiras - Deputado José de Sousa Maciel",
+        "operator": "Governo do Estado da Paraíba",
+        "operator:type": "government",
+        "operator:wikidata": "Q96476089",
         "id": "way/174949585"
       },
       "geometry": {
@@ -46,12 +49,15 @@
       "type": "Feature",
       "id": "way/555575130",
       "properties": {
-        "timestamp": "2018-01-25T00:08:10Z",
-        "version": 1,
-        "changeset": 55727666,
+        "timestamp": "2024-12-25T13:26:37Z",
+        "version": 2,
+        "changeset": 160603738,
         "amenity": "hospital",
+        "emergency": "yes",
         "healthcare": "hospital",
-        "name": "Unidade de Pronto Atendimento UPA",
+        "name": "Unidade de Pronto Atendimento - Doutora Valéria Macambira Guedes",
+        "operator": "Governo do Estado da Paraíba",
+        "operator:type": "public",
         "id": "way/555575130"
       },
       "geometry": {
@@ -59,24 +65,24 @@
         "coordinates": [
           [
             [
-              -38.5538221,
-              -6.8840676
+              -38.5538196,
+              -6.8840715
             ],
             [
-              -38.5534196,
-              -6.8841241
+              -38.5534104,
+              -6.8841288
             ],
             [
-              -38.5533302,
-              -6.8835994
+              -38.5533347,
+              -6.883597
             ],
             [
-              -38.5537448,
-              -6.8835307
+              -38.553744,
+              -6.8835396
             ],
             [
-              -38.5538221,
-              -6.8840676
+              -38.5538196,
+              -6.8840715
             ]
           ]
         ]
@@ -86,11 +92,15 @@
       "type": "Feature",
       "id": "way/852738274",
       "properties": {
-        "timestamp": "2020-09-29T13:53:41Z",
-        "version": 1,
-        "changeset": 91712322,
+        "timestamp": "2024-12-25T13:26:37Z",
+        "version": 2,
+        "changeset": 160603738,
         "amenity": "hospital",
         "healthcare": "hospital",
+        "healthcare:speciality": "paediatrics",
+        "name": "Hospital Universitário Júlio Bandeira - UFCG",
+        "operator": "Universidade Federal de Campina Grande - EBSERH",
+        "operator:type": "public",
         "id": "way/852738274"
       },
       "geometry": {
@@ -154,8 +164,8 @@
               -6.8843401
             ],
             [
-              -38.5477335,
-              -6.8842095
+              -38.5477104,
+              -6.8842147
             ],
             [
               -38.5477948,

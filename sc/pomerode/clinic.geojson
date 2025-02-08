@@ -413,6 +413,84 @@
     },
     {
       "type": "Feature",
+      "id": "way/552484028",
+      "properties": {
+        "timestamp": "2024-12-25T18:58:09Z",
+        "version": 13,
+        "changeset": 160614057,
+        "access": "yes",
+        "air_conditioning": "yes",
+        "alt_name": "Policlínica da Saúde Pública de Pomerode",
+        "amenity": "clinic",
+        "brand": "Sistema Único de Saúde",
+        "brand:short": "SUS",
+        "brand:wikidata": "Q7531056",
+        "brand:wikipedia": "pt:Sistema Único de Saúde",
+        "check_date:opening_hours": "2024-12-24",
+        "contact:phone": "+55 47 3387-7610",
+        "description": "Policlínica da Saúde Pública de Pomerode (centro de especialidades)",
+        "fee": "no",
+        "healthcare": "centre",
+        "healthcare:speciality": "dentistry;psychiatry;paediatrics;gynaecology;cardiology;dermatology;orthopaedics;ophthalmology",
+        "indoor": "room",
+        "level": "0",
+        "name": "Unidade Sanitária Prefeito Alwin Klotz",
+        "opening_hours": "Mo-Fr 07:00-12:00,13:00-17:00; Sa,Su,PH off",
+        "operator": "Prefeitura Municipal de Pomerode",
+        "operator:type": "government",
+        "ref:CNES": "2513773",
+        "short_name": "USPAK",
+        "source:opening_hours": "survey",
+        "start_date": "2002-03-04",
+        "wheelchair": "yes",
+        "id": "way/552484028"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.1741208,
+              -26.7329702
+            ],
+            [
+              -49.1743241,
+              -26.7329597
+            ],
+            [
+              -49.1743334,
+              -26.7331023
+            ],
+            [
+              -49.174337,
+              -26.7331581
+            ],
+            [
+              -49.1741338,
+              -26.7331686
+            ],
+            [
+              -49.1741301,
+              -26.7331129
+            ],
+            [
+              -49.1741286,
+              -26.7330891
+            ],
+            [
+              -49.174127,
+              -26.7330654
+            ],
+            [
+              -49.1741208,
+              -26.7329702
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/596203121",
       "properties": {
         "timestamp": "2024-12-23T17:08:25Z",
@@ -922,6 +1000,85 @@
     },
     {
       "type": "Feature",
+      "id": "way/1098279700",
+      "properties": {
+        "timestamp": "2024-12-23T17:08:25Z",
+        "version": 4,
+        "changeset": 160546762,
+        "access": "yes",
+        "air_conditioning": "yes",
+        "amenity": "clinic",
+        "brand": "Sistema Único de Saúde",
+        "brand:short": "SUS",
+        "brand:wikidata": "Q7531056",
+        "brand:wikipedia": "pt:Sistema Único de Saúde",
+        "contact:email": "nasf@pomerode.sc.gov.br",
+        "contact:phone": "+55 47 3387-7626",
+        "contact:website": "https://sesapomerode.negocio.site/",
+        "description": "Central de Apoio a Saúde da Família de Pomerode",
+        "fee": "no",
+        "healthcare": "clinic",
+        "healthcare:speciality": "physiatry",
+        "indoor": "room",
+        "level": "1",
+        "loc_name": "NASF",
+        "name": "Central de Apoio a Saúde da Família de Pomerode",
+        "opening_hours": "Mo-Fr 07:00-12:00,13:00-16:00; Sa,Su,PH off",
+        "operator": "Prefeitura Municipal de Pomerode",
+        "operator:type": "government",
+        "operator:wikidata": "Q326651",
+        "ref:CNES": "0984272",
+        "short_name": "NASF",
+        "start_date": "2022-02-03",
+        "wheelchair": "yes",
+        "id": "way/1098279700"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.1741208,
+              -26.7329702
+            ],
+            [
+              -49.1741182,
+              -26.7329301
+            ],
+            [
+              -49.1741153,
+              -26.7328852
+            ],
+            [
+              -49.174112,
+              -26.7328352
+            ],
+            [
+              -49.1743153,
+              -26.7328246
+            ],
+            [
+              -49.1743164,
+              -26.7328408
+            ],
+            [
+              -49.1743186,
+              -26.7328746
+            ],
+            [
+              -49.1743241,
+              -26.7329597
+            ],
+            [
+              -49.1741208,
+              -26.7329702
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/4534663096",
       "properties": {
         "timestamp": "2019-10-17T02:41:07Z",
@@ -1048,6 +1205,24 @@
         "coordinates": [
           -49.1719159,
           -26.7304103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5517571103",
+      "properties": {
+        "timestamp": "2024-12-25T18:58:09Z",
+        "version": 6,
+        "changeset": 160614057,
+        "entrance": "main",
+        "id": "node/5517571103"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.1741286,
+          -26.7330891
         ]
       }
     },

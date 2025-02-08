@@ -213,6 +213,72 @@
     },
     {
       "type": "Feature",
+      "id": "way/1346452369",
+      "properties": {
+        "timestamp": "2024-12-26T21:13:57Z",
+        "version": 1,
+        "changeset": 160653832,
+        "amenity": "pharmacy",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Drogaria Venancio",
+        "id": "way/1346452369"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.0582041,
+              -19.3973578
+            ],
+            [
+              -40.0581606,
+              -19.3974352
+            ],
+            [
+              -40.0580261,
+              -19.3973679
+            ],
+            [
+              -40.0580696,
+              -19.3972905
+            ],
+            [
+              -40.0582041,
+              -19.3973578
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5305311755",
+      "properties": {
+        "timestamp": "2024-12-26T21:13:57Z",
+        "version": 2,
+        "changeset": 160653832,
+        "addr:city": "Linhares",
+        "addr:postcode": "29905-110",
+        "addr:street": "Rua Crescencio Firmino dos Santos",
+        "addr:suburb": "São José",
+        "amenity": "pharmacy",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Drogaria São José",
+        "id": "node/5305311755"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.0518252,
+          -19.3673952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/9654910978",
       "properties": {
         "timestamp": "2022-04-09T23:34:07Z",
@@ -480,6 +546,26 @@
         "coordinates": [
           -40.0643995,
           -19.3940794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12453756789",
+      "properties": {
+        "timestamp": "2024-12-26T21:13:57Z",
+        "version": 1,
+        "changeset": 160653832,
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Drogaria Arafarma",
+        "id": "node/12453756789"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.0583074,
+          -19.3975851
         ]
       }
     }

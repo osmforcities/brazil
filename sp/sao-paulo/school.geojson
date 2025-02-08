@@ -88099,6 +88099,65 @@
     },
     {
       "type": "Feature",
+      "id": "way/1346446182",
+      "properties": {
+        "timestamp": "2024-12-26T20:32:26Z",
+        "version": 1,
+        "changeset": 160652546,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "483",
+        "addr:street": "Rua da Grota",
+        "amenity": "school",
+        "barrier": "wall",
+        "name": "E.E Conego João Ligabue",
+        "id": "way/1346446182"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.5967871,
+              -23.4819133
+            ],
+            [
+              -46.5961119,
+              -23.4818291
+            ],
+            [
+              -46.5961329,
+              -23.481656
+            ],
+            [
+              -46.5961706,
+              -23.4813454
+            ],
+            [
+              -46.5961751,
+              -23.481315
+            ],
+            [
+              -46.5961902,
+              -23.4813067
+            ],
+            [
+              -46.5962128,
+              -23.4813074
+            ],
+            [
+              -46.5968539,
+              -23.4813792
+            ],
+            [
+              -46.5967871,
+              -23.4819133
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/222842154",
       "properties": {
         "timestamp": "2023-06-07T15:20:09Z",
@@ -111921,6 +111980,26 @@
         "coordinates": [
           -46.6459186,
           -23.6523981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12453687940",
+      "properties": {
+        "timestamp": "2024-12-26T20:32:26Z",
+        "version": 1,
+        "changeset": 160652546,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "483",
+        "addr:street": "Rua da Grota",
+        "id": "node/12453687940"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5961329,
+          -23.481656
         ]
       }
     }

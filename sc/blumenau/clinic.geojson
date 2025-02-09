@@ -3683,6 +3683,78 @@
     },
     {
       "type": "Feature",
+      "id": "way/1346514117",
+      "properties": {
+        "timestamp": "2024-12-27T02:08:46Z",
+        "version": 1,
+        "changeset": 160659451,
+        "addr:housenumber": "220",
+        "addr:street": "Rua Prefeito Frederico Busch Júnior",
+        "amenity": "clinic",
+        "building": "yes",
+        "building:levels": "9",
+        "healthcare": "centre",
+        "name": "Centro Clínico Oswaldo Cruz",
+        "id": "way/1346514117"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.0563973,
+              -26.9290996
+            ],
+            [
+              -49.0564139,
+              -26.9290807
+            ],
+            [
+              -49.0565421,
+              -26.9291695
+            ],
+            [
+              -49.0564408,
+              -26.9292915
+            ],
+            [
+              -49.0564614,
+              -26.9293284
+            ],
+            [
+              -49.0564241,
+              -26.9293459
+            ],
+            [
+              -49.0563195,
+              -26.9293937
+            ],
+            [
+              -49.0562831,
+              -26.9293305
+            ],
+            [
+              -49.0562648,
+              -26.9293388
+            ],
+            [
+              -49.0562302,
+              -26.9292786
+            ],
+            [
+              -49.0562485,
+              -26.9292703
+            ],
+            [
+              -49.0563973,
+              -26.9290996
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/3567460266",
       "properties": {
         "timestamp": "2020-03-15T15:00:51Z",
@@ -4355,6 +4427,34 @@
         "coordinates": [
           -49.0700685,
           -26.9186466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5397308287",
+      "properties": {
+        "timestamp": "2024-12-27T02:08:46Z",
+        "version": 6,
+        "changeset": 160659451,
+        "addr:door": "601",
+        "addr:floor": "6",
+        "amenity": "clinic",
+        "contact:phone": "+55 47 3222-0844",
+        "healthcare": "clinic",
+        "healthcare:speciality": "dermatology",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "level": "7",
+        "name": "Proderme Clínica Dermatológica",
+        "wifi": "yes",
+        "id": "node/5397308287"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.0567385,
+          -26.9286411
         ]
       }
     },

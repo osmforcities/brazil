@@ -3,6 +3,122 @@
   "features": [
     {
       "type": "Feature",
+      "id": "relation/15937973",
+      "properties": {
+        "timestamp": "2024-12-27T02:01:59Z",
+        "version": 3,
+        "changeset": 160659373,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "47",
+        "addr:street": "Rua Batuira do Campo",
+        "amenity": "kindergarten",
+        "barrier": "wall",
+        "name": "EMEI Professora Leila Maria Fontielis Farias",
+        "type": "multipolygon",
+        "id": "relation/15937973"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.4978602,
+              -23.4844027
+            ],
+            [
+              -46.4978441,
+              -23.4843923
+            ],
+            [
+              -46.4978342,
+              -23.4843859
+            ],
+            [
+              -46.4977162,
+              -23.48431
+            ],
+            [
+              -46.4980512,
+              -23.4838721
+            ],
+            [
+              -46.4983125,
+              -23.4840402
+            ],
+            [
+              -46.4979775,
+              -23.4844782
+            ],
+            [
+              -46.4978602,
+              -23.4844027
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/15937974",
+      "properties": {
+        "timestamp": "2024-12-27T02:02:21Z",
+        "version": 2,
+        "changeset": 160659379,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "49",
+        "addr:street": "Rua Batuira do Campo",
+        "amenity": "kindergarten",
+        "landuse": "education",
+        "name": "CEI Marta Teresinha Godinho",
+        "type": "multipolygon",
+        "id": "relation/15937974"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.4983061,
+              -23.4846897
+            ],
+            [
+              -46.4981906,
+              -23.4846156
+            ],
+            [
+              -46.4981427,
+              -23.4845847
+            ],
+            [
+              -46.4981154,
+              -23.4845671
+            ],
+            [
+              -46.4979976,
+              -23.4844911
+            ],
+            [
+              -46.4979775,
+              -23.4844782
+            ],
+            [
+              -46.4983125,
+              -23.4840402
+            ],
+            [
+              -46.49864,
+              -23.4842531
+            ],
+            [
+              -46.4983061,
+              -23.4846897
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/153959727",
       "properties": {
         "timestamp": "2016-03-04T05:07:12Z",
@@ -4230,6 +4346,166 @@
     },
     {
       "type": "Feature",
+      "id": "way/275073411",
+      "properties": {
+        "timestamp": "2023-06-03T19:07:41Z",
+        "version": 4,
+        "changeset": 136912981,
+        "barrier": "wall",
+        "id": "way/275073411"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.4983125,
+            -23.4840402
+          ],
+          [
+            -46.4979775,
+            -23.4844782
+          ],
+          [
+            -46.4979976,
+            -23.4844911
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1178619909",
+      "properties": {
+        "timestamp": "2023-06-03T19:07:41Z",
+        "version": 1,
+        "changeset": 136912981,
+        "barrier": "gate",
+        "id": "way/1178619909"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.4978342,
+            -23.4843859
+          ],
+          [
+            -46.4978441,
+            -23.4843923
+          ],
+          [
+            -46.4978602,
+            -23.4844027
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1178619910",
+      "properties": {
+        "timestamp": "2023-06-03T19:07:41Z",
+        "version": 1,
+        "changeset": 136912981,
+        "barrier": "wall",
+        "id": "way/1178619910"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.4983061,
+            -23.4846897
+          ],
+          [
+            -46.49864,
+            -23.4842531
+          ],
+          [
+            -46.4983125,
+            -23.4840402
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1178619911",
+      "properties": {
+        "timestamp": "2023-06-03T19:07:41Z",
+        "version": 1,
+        "changeset": 136912981,
+        "barrier": "wall",
+        "id": "way/1178619911"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.4981906,
+            -23.4846156
+          ],
+          [
+            -46.4983061,
+            -23.4846897
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1178619912",
+      "properties": {
+        "timestamp": "2023-06-03T19:07:41Z",
+        "version": 1,
+        "changeset": 136912981,
+        "barrier": "fence",
+        "id": "way/1178619912"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.4979976,
+            -23.4844911
+          ],
+          [
+            -46.4981154,
+            -23.4845671
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1178619913",
+      "properties": {
+        "timestamp": "2023-06-03T19:07:41Z",
+        "version": 1,
+        "changeset": 136912981,
+        "barrier": "gate",
+        "id": "way/1178619913"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.4981154,
+            -23.4845671
+          ],
+          [
+            -46.4981427,
+            -23.4845847
+          ],
+          [
+            -46.4981906,
+            -23.4846156
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/745720892",
       "properties": {
         "timestamp": "2012-12-29T13:09:19Z",
@@ -5077,6 +5353,48 @@
     },
     {
       "type": "Feature",
+      "id": "node/10949337488",
+      "properties": {
+        "timestamp": "2023-06-03T19:17:07Z",
+        "version": 2,
+        "changeset": 136913234,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "47",
+        "addr:street": "Rua Batuira do Campo",
+        "entrance": "yes",
+        "id": "node/10949337488"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4978441,
+          -23.4843923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10949337492",
+      "properties": {
+        "timestamp": "2023-06-03T19:07:41Z",
+        "version": 1,
+        "changeset": 136912981,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "49",
+        "addr:street": "Rua Batuira do Campo",
+        "entrance": "yes",
+        "id": "node/10949337492"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4981427,
+          -23.4845847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/11125450101",
       "properties": {
         "timestamp": "2023-08-18T14:44:30Z",
@@ -5124,6 +5442,25 @@
     },
     {
       "type": "Feature",
+      "id": "node/11240066211",
+      "properties": {
+        "timestamp": "2024-12-27T06:31:42Z",
+        "version": 2,
+        "changeset": 160663215,
+        "amenity": "kindergarten",
+        "name": "EMEI LEONOR MENDES DE BARROS, DA.",
+        "id": "node/11240066211"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6371198,
+          -23.6460121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/11240084141",
       "properties": {
         "timestamp": "2024-11-18T00:24:29Z",
@@ -5138,6 +5475,27 @@
         "coordinates": [
           -46.6556729,
           -23.6728237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11247156282",
+      "properties": {
+        "timestamp": "2024-12-27T06:32:45Z",
+        "version": 5,
+        "changeset": 160663229,
+        "amenity": "kindergarten",
+        "name": "Escola Nossa Senhora das Graças - Infantil",
+        "short_name": "ENSG - Infantil",
+        "start_date": "1958",
+        "id": "node/11247156282"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6340093,
+          -23.6476353
         ]
       }
     },

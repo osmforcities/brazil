@@ -350,6 +350,149 @@
     },
     {
       "type": "Feature",
+      "id": "way/1346745767",
+      "properties": {
+        "timestamp": "2024-12-27T21:49:24Z",
+        "version": 1,
+        "changeset": 160694081,
+        "addr:city": "Viana",
+        "addr:postcode": "29136-020",
+        "addr:street": "Rua Acezilio Marianelli",
+        "addr:suburb": "Vila Bethânia",
+        "amenity": "school",
+        "name": "EMEF Cívico-Militar João Natalício Alves Pereira",
+        "operator": "Prefeitura Municipal de Viana",
+        "operator:type": "government",
+        "phone": "2732551601",
+        "id": "way/1346745767"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.4090739,
+              -20.3555138
+            ],
+            [
+              -40.409197,
+              -20.3557743
+            ],
+            [
+              -40.4088632,
+              -20.3558999
+            ],
+            [
+              -40.4088245,
+              -20.3558145
+            ],
+            [
+              -40.4087896,
+              -20.3557279
+            ],
+            [
+              -40.4087409,
+              -20.3555711
+            ],
+            [
+              -40.4087072,
+              -20.3554612
+            ],
+            [
+              -40.4086673,
+              -20.3552798
+            ],
+            [
+              -40.4086261,
+              -20.35504
+            ],
+            [
+              -40.4088881,
+              -20.3550143
+            ],
+            [
+              -40.4089181,
+              -20.3551757
+            ],
+            [
+              -40.4090054,
+              -20.3554308
+            ],
+            [
+              -40.4090739,
+              -20.3555138
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1346747476",
+      "properties": {
+        "timestamp": "2024-12-27T22:02:26Z",
+        "version": 1,
+        "changeset": 160694484,
+        "addr:city": "Viana",
+        "addr:postcode": "29135-356",
+        "addr:street": "Rua Bajé",
+        "addr:suburb": "Marcilio de Noronha",
+        "amenity": "school",
+        "name": "CMEI José Chagas",
+        "operator": "Prefeitura Municipal de Viana",
+        "operator:type": "government",
+        "id": "way/1346747476"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.4257042,
+              -20.3533345
+            ],
+            [
+              -40.4253932,
+              -20.3534031
+            ],
+            [
+              -40.4253833,
+              -20.3533622
+            ],
+            [
+              -40.4253556,
+              -20.353247
+            ],
+            [
+              -40.4253363,
+              -20.353167
+            ],
+            [
+              -40.4253081,
+              -20.3530499
+            ],
+            [
+              -40.4252999,
+              -20.3530155
+            ],
+            [
+              -40.4256054,
+              -20.3529452
+            ],
+            [
+              -40.4256548,
+              -20.3531399
+            ],
+            [
+              -40.4257042,
+              -20.3533345
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/2819615191",
       "properties": {
         "timestamp": "2019-07-11T17:33:19Z",
@@ -1181,6 +1324,24 @@
         "coordinates": [
           -40.5714006,
           -20.447906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12457199223",
+      "properties": {
+        "timestamp": "2024-12-27T22:02:26Z",
+        "version": 1,
+        "changeset": 160694484,
+        "barrier": "gate",
+        "id": "node/12457199223"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.4256548,
+          -20.3531399
         ]
       }
     }

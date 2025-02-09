@@ -3,6 +3,53 @@
   "features": [
     {
       "type": "Feature",
+      "id": "way/353934957",
+      "properties": {
+        "timestamp": "2024-12-28T12:47:38Z",
+        "version": 6,
+        "changeset": 160712209,
+        "addr:city": "Rio Pardo de Minas",
+        "addr:housenumber": "96",
+        "addr:postcode": "39530000",
+        "addr:street": "Rua Osório Batista",
+        "addr:suburb": "Cidade Alta",
+        "amenity": "school",
+        "name": "Escola Estadual Professor José Cristiano",
+        "operator": "Secretaria de Estado de Educação de Minas Gerais",
+        "operator:type": "government",
+        "operator:wikidata": "Q61612780",
+        "id": "way/353934957"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.5430565,
+              -15.6158586
+            ],
+            [
+              -42.5427203,
+              -15.6169231
+            ],
+            [
+              -42.541884,
+              -15.6166315
+            ],
+            [
+              -42.5421777,
+              -15.6155537
+            ],
+            [
+              -42.5430565,
+              -15.6158586
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/487082001",
       "properties": {
         "timestamp": "2017-04-16T00:38:11Z",
@@ -479,6 +526,74 @@
         "coordinates": [
           -42.4201763,
           -15.71986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12458852217",
+      "properties": {
+        "timestamp": "2024-12-28T12:47:38Z",
+        "version": 1,
+        "changeset": 160712209,
+        "addr:city": "Rio Pardo de Minas",
+        "addr:postcode": "39530-000",
+        "addr:suburb": "Laranjeiras",
+        "amenity": "school",
+        "name": "Escola Municipal de Santana",
+        "operator": "Município de Rio Pardo de Minas",
+        "operator:type": "public",
+        "id": "node/12458852217"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.3893962,
+          -15.6966835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12458852362",
+      "properties": {
+        "timestamp": "2024-12-28T12:47:38Z",
+        "version": 1,
+        "changeset": 160712209,
+        "addr:city": "Rio Pardo de Minas",
+        "addr:postcode": "39530-000",
+        "addr:suburb": "Boa Vista",
+        "amenity": "school",
+        "name": "Escola Municipal de Boa Vista",
+        "id": "node/12458852362"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.5420018,
+          -15.5176178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12458926659",
+      "properties": {
+        "timestamp": "2024-12-28T13:54:35Z",
+        "version": 1,
+        "changeset": 160714887,
+        "addr:city": "Rio Pardo de Minas",
+        "addr:postcode": "39530-000",
+        "addr:suburb": "Água Boa Dois",
+        "amenity": "school",
+        "name": "Escola Municipal de Ensino Fundamental Água Boa",
+        "id": "node/12458926659"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.4373153,
+          -15.4974258
         ]
       }
     }

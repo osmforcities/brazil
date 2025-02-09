@@ -3,6 +3,62 @@
   "features": [
     {
       "type": "Feature",
+      "id": "way/952365492",
+      "properties": {
+        "timestamp": "2024-12-28T00:58:30Z",
+        "version": 4,
+        "changeset": 160697961,
+        "addr:city": "Cuité",
+        "addr:postcode": "58175-000",
+        "addr:street": "Rua Francisco Teodoro da Fonseca",
+        "addr:suburb": "São Vicente",
+        "amenity": "dentist",
+        "building": "yes",
+        "healthcare": "dentist",
+        "healthcare:speciality": "dentistry",
+        "name": "Centro de Especialidade Odontológica",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "operator": "Sistema Único de Saúde",
+        "operator:wikidata": "Q7531056",
+        "phone": "+55 83 99602 3777",
+        "ref:CNES": "6408206",
+        "short_name": "CEO",
+        "id": "way/952365492"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -36.1498995,
+              -6.4850505
+            ],
+            [
+              -36.1498367,
+              -6.4850974
+            ],
+            [
+              -36.1497388,
+              -6.4851735
+            ],
+            [
+              -36.1496907,
+              -6.4851115
+            ],
+            [
+              -36.1498514,
+              -6.4849885
+            ],
+            [
+              -36.1498995,
+              -6.4850505
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/961064119",
       "properties": {
         "timestamp": "2021-07-06T04:11:03Z",
@@ -251,6 +307,24 @@
               -6.4819056
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10114455453",
+      "properties": {
+        "timestamp": "2024-12-17T23:25:50Z",
+        "version": 2,
+        "changeset": 160326812,
+        "entrance": "yes",
+        "id": "node/10114455453"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.1498367,
+          -6.4850974
         ]
       }
     }

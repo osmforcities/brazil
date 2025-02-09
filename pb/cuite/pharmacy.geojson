@@ -57,6 +57,55 @@
     },
     {
       "type": "Feature",
+      "id": "way/952365491",
+      "properties": {
+        "timestamp": "2024-12-28T00:58:30Z",
+        "version": 3,
+        "changeset": 160697961,
+        "addr:city": "Cuité",
+        "addr:postcode": "58175-000",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "description": "Distribuição de remédios gratuitos à população.",
+        "dispensing": "no",
+        "healthcare": "pharmacy",
+        "name": "Farmácia Básica Municipal",
+        "id": "way/952365491"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -36.1492426,
+              -6.4852618
+            ],
+            [
+              -36.1491852,
+              -6.4853068
+            ],
+            [
+              -36.1491692,
+              -6.4852867
+            ],
+            [
+              -36.1491258,
+              -6.4852321
+            ],
+            [
+              -36.1491832,
+              -6.4851871
+            ],
+            [
+              -36.1492426,
+              -6.4852618
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/952508191",
       "properties": {
         "timestamp": "2024-02-07T17:21:12Z",
@@ -604,6 +653,24 @@
         "coordinates": [
           -36.1520323,
           -6.4856182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12457478162",
+      "properties": {
+        "timestamp": "2024-12-28T00:58:30Z",
+        "version": 1,
+        "changeset": 160697961,
+        "entrance": "main",
+        "id": "node/12457478162"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.1491692,
+          -6.4852867
         ]
       }
     }

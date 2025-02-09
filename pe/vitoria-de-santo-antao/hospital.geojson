@@ -3,6 +3,54 @@
   "features": [
     {
       "type": "Feature",
+      "id": "way/659908359",
+      "properties": {
+        "timestamp": "2019-05-15T01:14:24Z",
+        "version": 2,
+        "changeset": 70256394,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Centro Hospitalar Santa Maria",
+        "id": "way/659908359"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -35.301988,
+              -8.1197335
+            ],
+            [
+              -35.3020631,
+              -8.1205742
+            ],
+            [
+              -35.301679,
+              -8.1208423
+            ],
+            [
+              -35.3015973,
+              -8.1208469
+            ],
+            [
+              -35.3014829,
+              -8.1207036
+            ],
+            [
+              -35.3013995,
+              -8.1198237
+            ],
+            [
+              -35.301988,
+              -8.1197335
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/859229913",
       "properties": {
         "timestamp": "2022-05-16T19:40:28Z",
@@ -209,40 +257,6 @@
               -35.2883361,
               -8.1132037
             ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/659908359",
-      "properties": {
-        "timestamp": "2019-05-15T01:14:24Z",
-        "version": 2,
-        "changeset": 70256394,
-        "amenity": "hospital",
-        "healthcare": "hospital",
-        "name": "Centro Hospitalar Santa Maria",
-        "id": "way/659908359"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -35.3014829,
-            -8.1207036
-          ],
-          [
-            -35.3015973,
-            -8.1208469
-          ],
-          [
-            -35.301679,
-            -8.1208423
-          ],
-          [
-            -35.3020631,
-            -8.1205742
           ]
         ]
       }

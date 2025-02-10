@@ -3,6 +3,51 @@
   "features": [
     {
       "type": "Feature",
+      "id": "way/1242607877",
+      "properties": {
+        "timestamp": "2024-12-30T13:53:25Z",
+        "version": 2,
+        "changeset": 160793312,
+        "addr:city": "São João do Paraíso",
+        "addr:suburb": "Centro",
+        "amenity": "school",
+        "email": "escola.246255@educacao.mg.gov.br",
+        "name": "Escola Estadual Santo Antônio",
+        "operator": "Secretaria de Estado de Educação de Minas Gerais",
+        "operator:type": "government",
+        "operator:wikidata": "Q61612780",
+        "id": "way/1242607877"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.1574271,
+              -15.3389881
+            ],
+            [
+              -42.1570408,
+              -15.3387709
+            ],
+            [
+              -42.1572983,
+              -15.3384036
+            ],
+            [
+              -42.1577248,
+              -15.338582
+            ],
+            [
+              -42.1574271,
+              -15.3389881
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/12327515529",
       "properties": {
         "timestamp": "2024-11-09T21:21:58Z",
@@ -21,6 +66,75 @@
         "coordinates": [
           -42.0199236,
           -15.3139038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12463125428",
+      "properties": {
+        "timestamp": "2024-12-30T13:53:25Z",
+        "version": 1,
+        "changeset": 160793312,
+        "addr:city": "São João do Paraíso",
+        "addr:postcode": "39540-000",
+        "addr:suburb": "São Felipe",
+        "amenity": "school",
+        "name": "Escola Municipal Felisberto Pereira",
+        "operator": "Município de São João do Paraíso",
+        "operator:type": "government",
+        "id": "node/12463125428"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.1648037,
+          -15.271992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12463125891",
+      "properties": {
+        "timestamp": "2024-12-30T13:53:25Z",
+        "version": 1,
+        "changeset": 160793312,
+        "addr:city": "São João do Paraíso",
+        "addr:postcode": "39540-000",
+        "amenity": "school",
+        "name": "Escola Municipal Tiradentes",
+        "id": "node/12463125891"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.0549355,
+          -15.2561727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12463388724",
+      "properties": {
+        "timestamp": "2024-12-30T16:35:47Z",
+        "version": 1,
+        "changeset": 160799925,
+        "addr:city": "São João do Paraíso",
+        "addr:postcode": "39540-000",
+        "addr:suburb": "Muquém",
+        "amenity": "school",
+        "name": "Escola Municipal Joaquim Carlos",
+        "operator": "Município de São João do Paraíso",
+        "operator:type": "public",
+        "id": "node/12463388724"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.8876371,
+          -15.2417889
         ]
       }
     }

@@ -2026,6 +2026,156 @@
     },
     {
       "type": "Feature",
+      "id": "way/1347395418",
+      "properties": {
+        "timestamp": "2024-12-30T19:36:50Z",
+        "version": 1,
+        "changeset": 160806163,
+        "addr:city": "Cariacica",
+        "addr:postcode": "29155-355",
+        "addr:street": "Rua Silvano Ferreira Santos",
+        "addr:suburb": "Porto Novo",
+        "amenity": "school",
+        "name": "CMEI Júlio Coutinho",
+        "operator": "Prefeitura Municipal de Cariacica",
+        "operator:type": "government",
+        "phone": "2733548108",
+        "id": "way/1347395418"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.371448,
+              -20.2981934
+            ],
+            [
+              -40.3714494,
+              -20.2984103
+            ],
+            [
+              -40.3714571,
+              -20.2985201
+            ],
+            [
+              -40.3714367,
+              -20.2986087
+            ],
+            [
+              -40.371198,
+              -20.298544
+            ],
+            [
+              -40.371126,
+              -20.2985019
+            ],
+            [
+              -40.371112,
+              -20.2983912
+            ],
+            [
+              -40.3711598,
+              -20.2983886
+            ],
+            [
+              -40.3711639,
+              -20.298204
+            ],
+            [
+              -40.3712008,
+              -20.298203
+            ],
+            [
+              -40.3714046,
+              -20.2981951
+            ],
+            [
+              -40.371448,
+              -20.2981934
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1347396592",
+      "properties": {
+        "timestamp": "2024-12-30T19:44:38Z",
+        "version": 1,
+        "changeset": 160806861,
+        "addr:city": "Cariacica",
+        "addr:postcode": "29155-566",
+        "addr:street": "Rua São João",
+        "addr:suburb": "Porto Novo",
+        "amenity": "school",
+        "name": "EMEF Padre Gabriel Roger Maire",
+        "operator": "Prefeitura Municipal de Cariacica",
+        "operator:type": "government",
+        "phone": "2733548107",
+        "id": "way/1347396592"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -40.3711748,
+            -20.2985428
+          ],
+          [
+            -40.3708229,
+            -20.2984745
+          ],
+          [
+            -40.3708075,
+            -20.2975293
+          ],
+          [
+            -40.3711537,
+            -20.2975625
+          ],
+          [
+            -40.3713733,
+            -20.2975967
+          ],
+          [
+            -40.3713769,
+            -20.2976624
+          ],
+          [
+            -40.3713925,
+            -20.2979429
+          ],
+          [
+            -40.3714452,
+            -20.2979834
+          ],
+          [
+            -40.371448,
+            -20.2981934
+          ],
+          [
+            -40.3711639,
+            -20.298204
+          ],
+          [
+            -40.3711598,
+            -20.2983886
+          ],
+          [
+            -40.371112,
+            -20.2983912
+          ],
+          [
+            -40.371126,
+            -20.2985019
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/2135506682",
       "properties": {
         "timestamp": "2019-07-11T17:33:19Z",
@@ -4526,6 +4676,24 @@
         "coordinates": [
           -40.3872786,
           -20.3095552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12463644601",
+      "properties": {
+        "timestamp": "2024-12-30T19:36:50Z",
+        "version": 1,
+        "changeset": 160806163,
+        "barrier": "gate",
+        "id": "node/12463644601"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.371198,
+          -20.298544
         ]
       }
     }

@@ -328,6 +328,82 @@
     },
     {
       "type": "Feature",
+      "id": "way/669725459",
+      "properties": {
+        "timestamp": "2024-12-30T18:53:07Z",
+        "version": 5,
+        "changeset": 160804582,
+        "addr:city": "Bombinhas",
+        "addr:housenumber": "171",
+        "addr:postcode": "88215-000",
+        "addr:street": "Rua Cherne",
+        "addr:suburb": "Centro",
+        "building": "yes",
+        "description": "O residencial Jardim dos Beija-Flores possui 9 apartamentos, todos com ar condicionado, cozinha equipada, banheiro com secador de cabelo, Wi-Fi, TV a cabo, sacada com churrasqueira e vista ao mar. Fica a 150 mts da praia de bombinhas.",
+        "email": "gerencia@jardimdosbeijaflores.com.br",
+        "internet_access": "wlan",
+        "level": "2",
+        "name": "Residencial Jardim dos Beija-Flores",
+        "payment:american_express": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "payment:visa_debit": "yes",
+        "payment:visa_electron": "yes",
+        "phone": "+55 47 3393 7556",
+        "rooms": "9",
+        "smoking": "no",
+        "start_date": "2012-11-15",
+        "tourism": "guest_house",
+        "website": "https://www.jardimdosbeijaflores.com.br/",
+        "wheelchair": "no",
+        "id": "way/669725459"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.496973,
+              -27.1467261
+            ],
+            [
+              -48.4968569,
+              -27.1467178
+            ],
+            [
+              -48.4967176,
+              -27.1465485
+            ],
+            [
+              -48.4967138,
+              -27.1464747
+            ],
+            [
+              -48.4967528,
+              -27.146481
+            ],
+            [
+              -48.4967936,
+              -27.1464456
+            ],
+            [
+              -48.4969762,
+              -27.1466869
+            ],
+            [
+              -48.496973,
+              -27.1467261
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/745967366",
       "properties": {
         "timestamp": "2021-07-11T06:23:57Z",
@@ -548,6 +624,27 @@
     },
     {
       "type": "Feature",
+      "id": "node/3214208312",
+      "properties": {
+        "timestamp": "2024-12-30T18:53:07Z",
+        "version": 8,
+        "changeset": 160804582,
+        "addr:housenumber": "765",
+        "addr:street": "Avenida Vereador Manoel José dos Santos",
+        "name": "Bora Bora Pousada",
+        "tourism": "guest_house",
+        "id": "node/3214208312"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.4956629,
+          -27.1474805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/3214208313",
       "properties": {
         "timestamp": "2024-12-27T14:02:10Z",
@@ -585,6 +682,27 @@
         "coordinates": [
           -48.4805921,
           -27.1479321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3214208320",
+      "properties": {
+        "timestamp": "2024-12-30T18:53:07Z",
+        "version": 5,
+        "changeset": 160804582,
+        "addr:housenumber": "101",
+        "addr:street": "Rua Carpa",
+        "name": "Castellamare Pousada",
+        "tourism": "guest_house",
+        "id": "node/3214208320"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.4957732,
+          -27.1465629
         ]
       }
     },

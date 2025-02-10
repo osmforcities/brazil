@@ -2465,6 +2465,76 @@
     },
     {
       "type": "Feature",
+      "id": "way/680915202",
+      "properties": {
+        "timestamp": "2020-10-20T21:20:10Z",
+        "version": 5,
+        "changeset": 92791336,
+        "addr:city": "Jaboatão dos Guararapes",
+        "addr:postcode": "54160-260",
+        "addr:street": "Avenida General Manoel Rabelo",
+        "addr:suburb": "Socorro",
+        "amenity": "school",
+        "name": "Escola Alice Vilar de Aquino",
+        "operator": "Prefeitura de Jaboatão dos Guararapes",
+        "phone": "+55 81 3251-8468;+55 81 3455-5427",
+        "source:postal_code": "cnefe",
+        "id": "way/680915202"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -34.9928938,
+              -8.1079577
+            ],
+            [
+              -34.9928909,
+              -8.1083581
+            ],
+            [
+              -34.9928277,
+              -8.1083566
+            ],
+            [
+              -34.9928267,
+              -8.1083836
+            ],
+            [
+              -34.9928258,
+              -8.1084082
+            ],
+            [
+              -34.9927744,
+              -8.1084072
+            ],
+            [
+              -34.9923426,
+              -8.1084046
+            ],
+            [
+              -34.9923487,
+              -8.1081043
+            ],
+            [
+              -34.9923536,
+              -8.1079476
+            ],
+            [
+              -34.9926074,
+              -8.1079547
+            ],
+            [
+              -34.9928938,
+              -8.1079577
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/682788916",
       "properties": {
         "timestamp": "2020-09-13T23:04:08Z",
@@ -3313,6 +3383,10 @@
             [
               -34.9769999,
               -8.1075838
+            ],
+            [
+              -34.9771388,
+              -8.1070831
             ],
             [
               -34.9775685,
@@ -6365,58 +6439,6 @@
               -34.934865,
               -8.2141967
             ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/680915202",
-      "properties": {
-        "timestamp": "2020-10-20T21:20:10Z",
-        "version": 5,
-        "changeset": 92791336,
-        "addr:city": "Jaboatão dos Guararapes",
-        "addr:postcode": "54160-260",
-        "addr:street": "Avenida General Manoel Rabelo",
-        "addr:suburb": "Socorro",
-        "amenity": "school",
-        "name": "Escola Alice Vilar de Aquino",
-        "operator": "Prefeitura de Jaboatão dos Guararapes",
-        "phone": "+55 81 3251-8468;+55 81 3455-5427",
-        "source:postal_code": "cnefe",
-        "id": "way/680915202"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -34.9923487,
-            -8.1081043
-          ],
-          [
-            -34.9923426,
-            -8.1084046
-          ],
-          [
-            -34.9927744,
-            -8.1084072
-          ],
-          [
-            -34.9928258,
-            -8.1084082
-          ],
-          [
-            -34.9928267,
-            -8.1083836
-          ],
-          [
-            -34.9928277,
-            -8.1083566
-          ],
-          [
-            -34.9928909,
-            -8.1083581
           ]
         ]
       }

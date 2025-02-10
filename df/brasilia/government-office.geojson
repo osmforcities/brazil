@@ -822,6 +822,68 @@
     },
     {
       "type": "Feature",
+      "id": "way/46114588",
+      "properties": {
+        "timestamp": "2024-12-30T15:55:18Z",
+        "version": 13,
+        "changeset": 160797705,
+        "addr:city": "Brasília",
+        "addr:housename": "Bloco F",
+        "addr:street": "Eixo Monumental",
+        "addr:suburb": "Esplanada dos ministérios",
+        "architect": "Oscar Niemeyer",
+        "building": "yes",
+        "building:levels": "10",
+        "government": "ministry",
+        "height": "38",
+        "name": "Ministério da Economia",
+        "office": "government",
+        "opening_hours": "Mo-Fr 08:00-18:00",
+        "website": "https://www.gov.br/economia/pt-br",
+        "id": "way/46114588"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.8692153,
+              -15.7995762
+            ],
+            [
+              -47.8694084,
+              -15.8001579
+            ],
+            [
+              -47.8695079,
+              -15.8004573
+            ],
+            [
+              -47.8694188,
+              -15.8004847
+            ],
+            [
+              -47.8693505,
+              -15.8005057
+            ],
+            [
+              -47.8690941,
+              -15.7997336
+            ],
+            [
+              -47.8690579,
+              -15.7996246
+            ],
+            [
+              -47.8692153,
+              -15.7995762
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/46114589",
       "properties": {
         "timestamp": "2021-04-13T19:10:53Z",
@@ -2322,6 +2384,89 @@
             [
               -47.8657808,
               -15.8025159
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/124198928",
+      "properties": {
+        "timestamp": "2024-12-30T15:44:20Z",
+        "version": 12,
+        "changeset": 160797705,
+        "addr:housenumber": "0",
+        "addr:street": "S2 Leste",
+        "architect": "Oscar Niemeyer",
+        "building": "civic",
+        "building:levels": "5",
+        "government": "ministry",
+        "height": "17.5",
+        "name": "Anexo do Ministério da Economia",
+        "office": "government",
+        "opening_hours": "Mo-Fr 08:00-18:00",
+        "id": "way/124198928"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.8702145,
+              -15.8019936
+            ],
+            [
+              -47.8700401,
+              -15.8020487
+            ],
+            [
+              -47.8698394,
+              -15.801461
+            ],
+            [
+              -47.8696748,
+              -15.801513
+            ],
+            [
+              -47.8698755,
+              -15.8021008
+            ],
+            [
+              -47.8696911,
+              -15.8021591
+            ],
+            [
+              -47.8693878,
+              -15.8012707
+            ],
+            [
+              -47.8695722,
+              -15.8012124
+            ],
+            [
+              -47.8696525,
+              -15.8014476
+            ],
+            [
+              -47.869729,
+              -15.8014234
+            ],
+            [
+              -47.8698171,
+              -15.8013955
+            ],
+            [
+              -47.8697368,
+              -15.8011604
+            ],
+            [
+              -47.8699112,
+              -15.8011052
+            ],
+            [
+              -47.8702145,
+              -15.8019936
             ]
           ]
         ]
@@ -14339,6 +14484,24 @@
         "coordinates": [
           -47.862731,
           -15.7674996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1939190341",
+      "properties": {
+        "timestamp": "2024-12-30T15:42:32Z",
+        "version": 4,
+        "changeset": 160797632,
+        "entrance": "yes",
+        "id": "node/1939190341"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.869729,
+          -15.8014234
         ]
       }
     },

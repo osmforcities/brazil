@@ -3467,6 +3467,84 @@
     },
     {
       "type": "Feature",
+      "id": "way/929835997",
+      "properties": {
+        "timestamp": "2024-12-29T22:23:05Z",
+        "version": 3,
+        "changeset": 160770037,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "22",
+        "addr:postcode": "04202-010",
+        "addr:street": "Rua Leais Paulistanos",
+        "addr:suburb": "Ipiranga",
+        "amenity": "kindergarten",
+        "barrier": "wall",
+        "check_date": "2024-07-10",
+        "name": "Cei Monumento",
+        "id": "way/929835997"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.6090844,
+              -23.5790193
+            ],
+            [
+              -46.6089756,
+              -23.5790107
+            ],
+            [
+              -46.6089783,
+              -23.578981
+            ],
+            [
+              -46.6089893,
+              -23.5788599
+            ],
+            [
+              -46.60899,
+              -23.5788527
+            ],
+            [
+              -46.6089969,
+              -23.5787768
+            ],
+            [
+              -46.6089978,
+              -23.5787671
+            ],
+            [
+              -46.6090002,
+              -23.5787412
+            ],
+            [
+              -46.6090594,
+              -23.5787467
+            ],
+            [
+              -46.6091356,
+              -23.5787538
+            ],
+            [
+              -46.6091059,
+              -23.5789147
+            ],
+            [
+              -46.6090967,
+              -23.5789597
+            ],
+            [
+              -46.6090844,
+              -23.5790193
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/971995736",
       "properties": {
         "timestamp": "2024-12-19T01:51:51Z",
@@ -4593,6 +4671,28 @@
         "coordinates": [
           -46.706369,
           -23.530245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2542364800",
+      "properties": {
+        "timestamp": "2021-04-12T17:50:07Z",
+        "version": 2,
+        "changeset": 102820426,
+        "addr:city": "São Paulo",
+        "addr:country": "BR",
+        "addr:housenumber": "22",
+        "addr:postcode": "04202-010",
+        "addr:street": "Rua Leais Paulistanos",
+        "id": "node/2542364800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6090594,
+          -23.5787467
         ]
       }
     },

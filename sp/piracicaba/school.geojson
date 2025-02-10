@@ -525,6 +525,54 @@
     },
     {
       "type": "Feature",
+      "id": "way/681285922",
+      "properties": {
+        "timestamp": "2020-12-31T22:09:35Z",
+        "version": 2,
+        "changeset": 96752464,
+        "addr:city": "Piracicaba",
+        "addr:housenumber": "600",
+        "addr:postcode": "13412-304",
+        "addr:street": "Avenida Luiz Ralf Benatti",
+        "addr:suburb": "Vila Industrial",
+        "amenity": "school",
+        "building:levels": "2",
+        "email": "supiracicaba@sesisp.org.br",
+        "name": "SESI Piracicaba - Centro de Atividades Mário Mantoni",
+        "phone": "+55 19 3403 5900",
+        "website": "https://piracicaba.sesisp.org.br/home",
+        "id": "way/681285922"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.6629209,
+              -22.6827164
+            ],
+            [
+              -47.6606957,
+              -22.6849075
+            ],
+            [
+              -47.6591563,
+              -22.6839826
+            ],
+            [
+              -47.6611221,
+              -22.6815154
+            ],
+            [
+              -47.6629209,
+              -22.6827164
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/788057592",
       "properties": {
         "timestamp": "2020-04-04T22:39:42Z",
@@ -1798,38 +1846,91 @@
     },
     {
       "type": "Feature",
-      "id": "way/681285922",
+      "id": "way/1347189803",
       "properties": {
-        "timestamp": "2020-12-31T22:09:35Z",
-        "version": 2,
-        "changeset": 96752464,
-        "addr:city": "Piracicaba",
-        "addr:housenumber": "600",
-        "addr:postcode": "13412-304",
-        "addr:street": "Avenida Luiz Ralf Benatti",
-        "addr:suburb": "Vila Industrial",
+        "timestamp": "2024-12-29T23:26:38Z",
+        "version": 1,
+        "changeset": 160771379,
+        "addr:postcode": "13432-010",
+        "addr:street": "Rua Julio Quinelatto",
+        "addr:suburb": "Artemis",
         "amenity": "school",
-        "building:levels": "2",
-        "email": "supiracicaba@sesisp.org.br",
-        "name": "SESI Piracicaba - Centro de Atividades Mário Mantoni",
-        "phone": "+55 19 3403 5900",
-        "website": "https://piracicaba.sesisp.org.br/home",
-        "id": "way/681285922"
+        "official_name": "Escola Estadual Professor José Martins de Toledo",
+        "operator": "Secretaria da Educação do Estado de São Paulo",
+        "operator:type": "government",
+        "operator:wikidata": "Q10369245",
+        "phone": "+55 19 3438 1271",
+        "religion": "none",
+        "short_name": "E.E. Professor José Martins de Toledo",
+        "id": "way/1347189803"
       },
       "geometry": {
-        "type": "LineString",
+        "type": "Polygon",
         "coordinates": [
           [
-            -47.6611221,
-            -22.6815154
-          ],
+            [
+              -47.7733586,
+              -22.6822594
+            ],
+            [
+              -47.7735785,
+              -22.6829029
+            ],
+            [
+              -47.7727041,
+              -22.6831751
+            ],
+            [
+              -47.7724681,
+              -22.6825366
+            ],
+            [
+              -47.7733586,
+              -22.6822594
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1347191181",
+      "properties": {
+        "timestamp": "2024-12-29T23:34:46Z",
+        "version": 1,
+        "changeset": 160771530,
+        "addr:postcode": "13432-038",
+        "addr:street": "Rua Amélia Giusti Berreta",
+        "addr:suburb": "Artemis",
+        "alt_name": "Escola Municipal de Artemis",
+        "amenity": "school",
+        "religion": "none",
+        "id": "way/1347191181"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
           [
-            -47.6591563,
-            -22.6839826
-          ],
-          [
-            -47.6606957,
-            -22.6849075
+            [
+              -47.7728082,
+              -22.6820179
+            ],
+            [
+              -47.7729305,
+              -22.6823469
+            ],
+            [
+              -47.7724687,
+              -22.6825035
+            ],
+            [
+              -47.7723363,
+              -22.682137
+            ],
+            [
+              -47.7728082,
+              -22.6820179
+            ]
           ]
         ]
       }

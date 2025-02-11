@@ -3,6 +3,76 @@
   "features": [
     {
       "type": "Feature",
+      "id": "way/194643770",
+      "properties": {
+        "timestamp": "2024-12-31T14:24:33Z",
+        "version": 10,
+        "changeset": 160835036,
+        "amenity": "school",
+        "name": "ECIT Dr. Trajano Pires da Nóbrega",
+        "operator": "Governo do Estado da Paraíba",
+        "operator:type": "government",
+        "operator:wikidata": "Q96476089",
+        "id": "way/194643770"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -37.5940988,
+              -6.9066719
+            ],
+            [
+              -37.5941102,
+              -6.906622
+            ],
+            [
+              -37.5941452,
+              -6.9064689
+            ],
+            [
+              -37.5941694,
+              -6.906363
+            ],
+            [
+              -37.5941187,
+              -6.9063516
+            ],
+            [
+              -37.5942201,
+              -6.9059081
+            ],
+            [
+              -37.5948378,
+              -6.9064824
+            ],
+            [
+              -37.595234,
+              -6.9068507
+            ],
+            [
+              -37.5951188,
+              -6.907355
+            ],
+            [
+              -37.5939597,
+              -6.9070942
+            ],
+            [
+              -37.5940582,
+              -6.9066628
+            ],
+            [
+              -37.5940988,
+              -6.9066719
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/446016448",
       "properties": {
         "timestamp": "2023-12-13T12:42:54Z",
@@ -232,6 +302,60 @@
               -6.9083248
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2051459904",
+      "properties": {
+        "timestamp": "2024-12-31T14:24:33Z",
+        "version": 2,
+        "changeset": 160835036,
+        "barrier": "gate",
+        "id": "node/2051459904"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.5941102,
+          -6.906622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2051459913",
+      "properties": {
+        "timestamp": "2024-12-31T14:24:33Z",
+        "version": 2,
+        "changeset": 160835036,
+        "barrier": "gate",
+        "id": "node/2051459913"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.5948378,
+          -6.9064824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2051459928",
+      "properties": {
+        "timestamp": "2024-12-31T14:24:33Z",
+        "version": 2,
+        "changeset": 160835036,
+        "barrier": "gate",
+        "id": "node/2051459928"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.5941452,
+          -6.9064689
         ]
       }
     }

@@ -5,9 +5,10 @@
       "type": "Feature",
       "id": "node/12327515530",
       "properties": {
-        "timestamp": "2024-11-15T18:47:58Z",
-        "version": 2,
-        "changeset": 159183246,
+        "timestamp": "2024-12-31T13:47:06Z",
+        "version": 3,
+        "changeset": 160833414,
+        "addr:city": "São João do Paraíso",
         "addr:housenumber": "35",
         "addr:postcode": "39540-000",
         "addr:street": "Rua Mato Grosso",
@@ -17,6 +18,8 @@
         "healthcare": "clinic",
         "healthcare:speciality": "general",
         "name": "Unidade Básica de Saúde",
+        "operator": "Município de São João do Paraíso",
+        "operator:type": "public",
         "id": "node/12327515530"
       },
       "geometry": {
@@ -24,6 +27,34 @@
         "coordinates": [
           -42.0226005,
           -15.3186534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12465109399",
+      "properties": {
+        "timestamp": "2024-12-31T10:41:50Z",
+        "version": 1,
+        "changeset": 160826749,
+        "addr:city": "São João do Paraíso",
+        "addr:housenumber": "59",
+        "addr:postcode": "39540-000",
+        "addr:street": "Praça do Mercado Novo",
+        "addr:suburb": "Barrinha",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Unidade Básica de Saúde da Barrinha",
+        "operator": "Município de São João do Paraíso",
+        "operator:type": "public",
+        "id": "node/12465109399"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.8376736,
+          -15.1831719
         ]
       }
     }

@@ -497,6 +497,74 @@
     },
     {
       "type": "Feature",
+      "id": "way/1328681488",
+      "properties": {
+        "timestamp": "2024-12-31T20:40:35Z",
+        "version": 4,
+        "changeset": 160847528,
+        "addr:city": "Viana",
+        "addr:postcode": "29135-000",
+        "addr:street": "Rua Veronica Foli da Silva",
+        "addr:suburb": "Bom Pastor",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Unidade Básica de Saúde de Bom Pastor",
+        "opening_hours": "Mo-Fr 07:00-16:00",
+        "operator": "Prefeitura Municipal de Viana",
+        "operator:type": "government",
+        "id": "way/1328681488"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.4705775,
+              -20.3907161
+            ],
+            [
+              -40.4704856,
+              -20.3908552
+            ],
+            [
+              -40.4704046,
+              -20.390801
+            ],
+            [
+              -40.4701632,
+              -20.390652
+            ],
+            [
+              -40.47026,
+              -20.390517
+            ],
+            [
+              -40.4702669,
+              -20.3905227
+            ],
+            [
+              -40.4704189,
+              -20.3906191
+            ],
+            [
+              -40.4705001,
+              -20.3906686
+            ],
+            [
+              -40.470539,
+              -20.3906924
+            ],
+            [
+              -40.4705775,
+              -20.3907161
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/2819612595",
       "properties": {
         "timestamp": "2019-07-11T17:33:19Z",
@@ -773,6 +841,24 @@
         "coordinates": [
           -40.4476417,
           -20.3594717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12466088992",
+      "properties": {
+        "timestamp": "2024-12-31T20:40:35Z",
+        "version": 1,
+        "changeset": 160847528,
+        "barrier": "gate",
+        "id": "node/12466088992"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.470539,
+          -20.3906924
         ]
       }
     }

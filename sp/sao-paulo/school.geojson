@@ -26602,6 +26602,75 @@
     },
     {
       "type": "Feature",
+      "id": "way/437892122",
+      "properties": {
+        "timestamp": "2025-01-01T16:00:51Z",
+        "version": 5,
+        "changeset": 160869220,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "1412",
+        "addr:postcode": "04208-001",
+        "addr:street": "Rua Silva Bueno",
+        "addr:suburb": "Ipiranga",
+        "alt_name": "Escola Estadual Visconde de Itaúna",
+        "amenity": "school",
+        "barrier": "wall",
+        "email": "e004327a@educacao.sp.gov.br",
+        "name": "E.E Visconde de Itaúna",
+        "old_name": "Grupo Escolar Visconde de Iatúna",
+        "operator": "Secretaria da Educação do Estado de São Paulo",
+        "operator:type": "government",
+        "operator:wikidata": "Q10369245",
+        "phone": "+55 11 2272-2445",
+        "ref": "35004327",
+        "id": "way/437892122"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.6014998,
+              -23.5903263
+            ],
+            [
+              -46.6022657,
+              -23.5903936
+            ],
+            [
+              -46.602239,
+              -23.5906254
+            ],
+            [
+              -46.6025008,
+              -23.590649
+            ],
+            [
+              -46.6024238,
+              -23.5914809
+            ],
+            [
+              -46.6014366,
+              -23.5913909
+            ],
+            [
+              -46.6014069,
+              -23.591356
+            ],
+            [
+              -46.6014661,
+              -23.5906691
+            ],
+            [
+              -46.6014998,
+              -23.5903263
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/438042951",
       "properties": {
         "timestamp": "2024-05-04T23:15:20Z",
@@ -110898,6 +110967,27 @@
         "coordinates": [
           -46.6733266,
           -23.5833728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11472000545",
+      "properties": {
+        "timestamp": "2023-12-31T05:09:58Z",
+        "version": 1,
+        "changeset": 145720394,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "1412",
+        "addr:street": "Rua Silva Bueno",
+        "entrance": "yes",
+        "id": "node/11472000545"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6014661,
+          -23.5906691
         ]
       }
     },

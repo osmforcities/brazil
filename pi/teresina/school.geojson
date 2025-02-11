@@ -6989,6 +6989,55 @@
     },
     {
       "type": "Feature",
+      "id": "way/784363113",
+      "properties": {
+        "timestamp": "2025-01-01T18:28:30Z",
+        "version": 4,
+        "changeset": 160879950,
+        "addr:city": "Teresina",
+        "addr:housenumber": "3125",
+        "addr:street": "Avenida Frei Serafim",
+        "addr:suburb": "Cabral",
+        "amenity": "school",
+        "name": "CEV Colégio",
+        "religion": "none",
+        "website": "https://grupocev.com/",
+        "id": "way/784363113"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.7998326,
+              -5.0839425
+            ],
+            [
+              -42.7995173,
+              -5.0845903
+            ],
+            [
+              -42.7989782,
+              -5.0843298
+            ],
+            [
+              -42.7991956,
+              -5.0838833
+            ],
+            [
+              -42.7992936,
+              -5.0836821
+            ],
+            [
+              -42.7998326,
+              -5.0839425
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/787576184",
       "properties": {
         "timestamp": "2020-04-03T16:18:48Z",
@@ -7026,6 +7075,52 @@
             [
               -42.7720909,
               -5.0720938
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/802570843",
+      "properties": {
+        "timestamp": "2025-01-01T17:44:12Z",
+        "version": 4,
+        "changeset": 160878461,
+        "addr:city": "Teresina",
+        "addr:street": "Avenida 15 de Novembro",
+        "addr:suburb": "Morada Nova",
+        "amenity": "school",
+        "name": "Unidade Escolar Gov. Alberto Tavares e Silva",
+        "id": "way/802570843"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.7880514,
+              -5.1247621
+            ],
+            [
+              -42.7878169,
+              -5.124683
+            ],
+            [
+              -42.7876508,
+              -5.124627
+            ],
+            [
+              -42.7878265,
+              -5.1240808
+            ],
+            [
+              -42.7883009,
+              -5.1241176
+            ],
+            [
+              -42.7880514,
+              -5.1247621
             ]
           ]
         ]
@@ -21321,6 +21416,32 @@
         "coordinates": [
           -42.7551833,
           -5.1005705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7417946616",
+      "properties": {
+        "timestamp": "2020-04-18T21:26:14Z",
+        "version": 1,
+        "changeset": 83756203,
+        "access": "permissive",
+        "addr:city": "Teresina",
+        "addr:street": "Rua Governador Tibério Nunes",
+        "addr:suburb": "Cabral",
+        "door": "yes",
+        "entrance": "main",
+        "level": "0",
+        "ref": "Portaria 1",
+        "wheelchair": "yes",
+        "id": "node/7417946616"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.7991956,
+          -5.0838833
         ]
       }
     },

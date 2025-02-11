@@ -3,6 +3,62 @@
   "features": [
     {
       "type": "Feature",
+      "id": "way/1347064263",
+      "properties": {
+        "timestamp": "2025-01-01T13:05:31Z",
+        "version": 2,
+        "changeset": 160862272,
+        "addr:city": "Rio de Contas",
+        "addr:housenumber": "1",
+        "addr:postcode": "46170-000",
+        "addr:street": "Largo do Rosário",
+        "addr:suburb": "Centro",
+        "building": "yes",
+        "building:levels": "1",
+        "governance_type": "government_managed",
+        "government": "public_service",
+        "layer": "1",
+        "name": "Procuradoria-Geral Do Município | PGM Rio De Contas | Rio De Contas, BA",
+        "office": "government",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "website": "https://www.riodecontas.ba.gov.br/",
+        "wheelchair": "limited",
+        "id": "way/1347064263"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.8109226,
+              -13.5781813
+            ],
+            [
+              -41.8107795,
+              -13.578189
+            ],
+            [
+              -41.8107714,
+              -13.5780748
+            ],
+            [
+              -41.8109148,
+              -13.5780691
+            ],
+            [
+              -41.8109215,
+              -13.5781651
+            ],
+            [
+              -41.8109226,
+              -13.5781813
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/2600787549",
       "properties": {
         "timestamp": "2022-10-21T19:58:30Z",
@@ -21,6 +77,35 @@
         "coordinates": [
           -41.8106148,
           -13.5786461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12460728632",
+      "properties": {
+        "timestamp": "2025-01-01T13:05:31Z",
+        "version": 2,
+        "changeset": 160862272,
+        "addr:city": "Rio de Contas",
+        "addr:housenumber": "1",
+        "addr:postcode": "46170-000",
+        "addr:street": "Largo do Rosário",
+        "addr:suburb": "Centro",
+        "government": "administrative",
+        "level": "1",
+        "name": "Procuradoria-Geral Do Município | PGM Rio De Contas | Poder Executivo | Município De Rio De Contas, BA",
+        "office": "government",
+        "opening_hours": "Mo-Fr 08:00-19:00",
+        "website": "https://www.riodecontas.ba.gov.br/",
+        "wheelchair": "limited",
+        "id": "node/12460728632"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.8108871,
+          -13.5781146
         ]
       }
     }

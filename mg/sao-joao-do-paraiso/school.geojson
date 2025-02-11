@@ -3,6 +3,52 @@
   "features": [
     {
       "type": "Feature",
+      "id": "way/488322516",
+      "properties": {
+        "timestamp": "2025-01-01T19:55:52Z",
+        "version": 4,
+        "changeset": 160883333,
+        "addr:city": "São João do Paraíso",
+        "addr:postcode": "39540-000",
+        "addr:street": "Rua Pedro Satornino Viana",
+        "addr:suburb": "São Tiago",
+        "amenity": "school",
+        "name": "Escola Estadual São Tiago",
+        "operator": "Secretaria de Estado de Educação de Minas Gerais",
+        "operator:type": "government",
+        "operator:wikidata": "Q61612780",
+        "id": "way/488322516"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.0217544,
+              -15.277248
+            ],
+            [
+              -42.0218661,
+              -15.2774119
+            ],
+            [
+              -42.0216589,
+              -15.2775434
+            ],
+            [
+              -42.0215471,
+              -15.2773796
+            ],
+            [
+              -42.0217544,
+              -15.277248
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/488457585",
       "properties": {
         "timestamp": "2024-12-31T17:43:22Z",
@@ -348,6 +394,149 @@
         "coordinates": [
           -41.839227,
           -15.1842929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12466671716",
+      "properties": {
+        "timestamp": "2025-01-01T10:26:11Z",
+        "version": 1,
+        "changeset": 160857851,
+        "addr:city": "São João do Paraíso",
+        "addr:postcode": "39540-000",
+        "addr:suburb": "Duas Barras",
+        "amenity": "school",
+        "name": "Escola Municipal José Francisco Gomes",
+        "operator": "Município de São João do Paraíso",
+        "operator:type": "public",
+        "id": "node/12466671716"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.9389576,
+          -15.2603504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12466702122",
+      "properties": {
+        "timestamp": "2025-01-01T10:51:39Z",
+        "version": 1,
+        "changeset": 160858513,
+        "addr:city": "São João do Paraíso",
+        "addr:postcode": "39540-000",
+        "addr:suburb": "Roça do Mato",
+        "amenity": "school",
+        "name": "Escola Municipal Alfredo Balena",
+        "operator": "Município de São João do Paraíso",
+        "operator:type": "government",
+        "id": "node/12466702122"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.8977597,
+          -15.3107386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12466760727",
+      "properties": {
+        "timestamp": "2025-01-01T12:13:52Z",
+        "version": 1,
+        "changeset": 160860649,
+        "addr:city": "São João do Paraíso",
+        "addr:postcode": "39540-000",
+        "addr:suburb": "Água Branca",
+        "amenity": "school",
+        "name": "Escola Municipal Artur da Costa e Silva",
+        "operator": "Município de São João do Paraíso",
+        "operator:type": "public",
+        "id": "node/12466760727"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.9593109,
+          -15.4188026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12466802853",
+      "properties": {
+        "timestamp": "2025-01-01T12:13:52Z",
+        "version": 1,
+        "changeset": 160860649,
+        "addr:city": "São João do Paraíso",
+        "addr:postcode": "39540-000",
+        "addr:suburb": "São João Velho",
+        "amenity": "school",
+        "name": "Escola Municipal de Ensino Fundamental Gregório Vilela",
+        "operator": "Município de São João do Paraíso",
+        "operator:type": "public",
+        "id": "node/12466802853"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.0105418,
+          -15.4715152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12466803599",
+      "properties": {
+        "timestamp": "2025-01-01T12:13:52Z",
+        "version": 1,
+        "changeset": 160860649,
+        "addr:city": "São João do Paraíso",
+        "addr:postcode": "39540-000",
+        "amenity": "school",
+        "name": "Escola Municipal Alcídes Batista",
+        "operator": "Município de São João do Paraíso",
+        "operator:type": "public",
+        "id": "node/12466803599"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.9156388,
+          -15.4522784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12467451762",
+      "properties": {
+        "timestamp": "2025-01-01T19:55:52Z",
+        "version": 1,
+        "changeset": 160883333,
+        "addr:city": "São João do Paraíso",
+        "addr:postcode": "39540-000",
+        "addr:suburb": "Junca",
+        "amenity": "school",
+        "name": "Escola Municipal Franklin Delano Roosevelt",
+        "operator": "Município de São João do Paraíso",
+        "operator:type": "public",
+        "id": "node/12467451762"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.7344722,
+          -15.5081725
         ]
       }
     }

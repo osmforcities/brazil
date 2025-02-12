@@ -448,6 +448,75 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1149204156",
+      "properties": {
+        "timestamp": "2025-01-03T23:59:12Z",
+        "version": 3,
+        "changeset": 160971039,
+        "addr:housenumber": "1340",
+        "addr:street": "Rua General Pedro Pinho",
+        "amenity": "social_facility",
+        "building": "yes",
+        "government": "public_service",
+        "name": "Banco de Alimentos da Prefeitura de Osasco",
+        "office": "government",
+        "social_facility": "food_bank",
+        "id": "way/1149204156"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.8008429,
+              -23.5428049
+            ],
+            [
+              -46.8010754,
+              -23.5431056
+            ],
+            [
+              -46.8008712,
+              -23.5432561
+            ],
+            [
+              -46.8007672,
+              -23.5431232
+            ],
+            [
+              -46.8008063,
+              -23.5428305
+            ],
+            [
+              -46.8008429,
+              -23.5428049
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2965017776",
+      "properties": {
+        "timestamp": "2025-01-03T23:51:36Z",
+        "version": 3,
+        "changeset": 160970845,
+        "building": "public",
+        "name": "Secretaria de Habitação e Desenvolvimento Urbano - Prefeitura do Município de Osasco",
+        "office": "government",
+        "id": "node/2965017776"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.787796,
+          -23.5400085
+        ]
+      }
     }
   ]
 }

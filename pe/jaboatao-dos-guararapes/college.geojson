@@ -3,6 +3,68 @@
   "features": [
     {
       "type": "Feature",
+      "id": "way/428080501",
+      "properties": {
+        "timestamp": "2025-01-03T01:11:35Z",
+        "version": 6,
+        "changeset": 160931417,
+        "addr:city": "Recife",
+        "addr:housenumber": "26",
+        "addr:postcode": "51300-440",
+        "addr:street": "Rua Jornalista Malebranche Bernardo",
+        "addr:suburb": "cohab",
+        "amenity": "college",
+        "name": "Escola Técnica Estadual Advogado José David Gil Rodrigues",
+        "phone": "+55 81 3355-0421",
+        "website": "https://portal.educacao.pe.gov.br/wp-content/uploads/2023/08/Gerencia-Regional-de-Educacao-Recife-Sul.pdf",
+        "id": "way/428080501"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -34.9459168,
+              -8.1388697
+            ],
+            [
+              -34.9466255,
+              -8.1390495
+            ],
+            [
+              -34.9466728,
+              -8.1390615
+            ],
+            [
+              -34.9465924,
+              -8.1393537
+            ],
+            [
+              -34.9465268,
+              -8.139592
+            ],
+            [
+              -34.946219,
+              -8.1404838
+            ],
+            [
+              -34.9455006,
+              -8.1402637
+            ],
+            [
+              -34.9457943,
+              -8.1392799
+            ],
+            [
+              -34.9459168,
+              -8.1388697
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/483259089",
       "properties": {
         "timestamp": "2018-10-20T01:03:31Z",
@@ -338,6 +400,24 @@
               -8.2027261
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5706509747",
+      "properties": {
+        "timestamp": "2018-06-20T21:18:18Z",
+        "version": 1,
+        "changeset": 60023401,
+        "barrier": "gate",
+        "id": "node/5706509747"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.9465268,
+          -8.139592
         ]
       }
     }

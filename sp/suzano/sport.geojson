@@ -5436,6 +5436,53 @@
     },
     {
       "type": "Feature",
+      "id": "way/1314894532",
+      "properties": {
+        "timestamp": "2025-01-03T05:52:52Z",
+        "version": 2,
+        "changeset": 160935154,
+        "addr:housenumber": "384",
+        "addr:street": "Avenida Armando de Salles Oliveira",
+        "addr:suburb": "Centro",
+        "amenity": "school",
+        "mobile": "+55 11 95306 7296",
+        "name": "Colégio Cetés",
+        "phone": "+55 11 4747 1500",
+        "school": "sport",
+        "sport": "taekwondo",
+        "website": "https://www.cetes.com.br/",
+        "id": "way/1314894532"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.3140506,
+              -23.5366459
+            ],
+            [
+              -46.3135983,
+              -23.5368118
+            ],
+            [
+              -46.3134447,
+              -23.5364315
+            ],
+            [
+              -46.3138919,
+              -23.5362829
+            ],
+            [
+              -46.3140506,
+              -23.5366459
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1314912689",
       "properties": {
         "timestamp": "2024-09-11T18:29:57Z",
@@ -5873,6 +5920,28 @@
         "coordinates": [
           -46.3172466,
           -23.5421103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12168673527",
+      "properties": {
+        "timestamp": "2025-01-03T05:55:41Z",
+        "version": 2,
+        "changeset": 160935185,
+        "addr:housenumber": "289",
+        "addr:street": "Rua Dona Augusta Aparecida de Carvalho Moraes",
+        "leisure": "fitness_centre",
+        "name": "Inspire Pilates",
+        "sport": "pilates",
+        "id": "node/12168673527"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.3147614,
+          -23.5439689
         ]
       }
     },

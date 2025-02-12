@@ -3,6 +3,50 @@
   "features": [
     {
       "type": "Feature",
+      "id": "way/569716118",
+      "properties": {
+        "timestamp": "2025-01-03T00:10:24Z",
+        "version": 3,
+        "changeset": 160930441,
+        "addr:city": "Campinas do Piauí",
+        "addr:housenumber": "390",
+        "addr:postcode": "64730-000",
+        "addr:street": "Praça Anderson Vicente de Sousa",
+        "addr:suburb": "Centro",
+        "amenity": "school",
+        "name": "Unidade Escolar Dr. José de Moura Fé",
+        "id": "way/569716118"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.8812051,
+              -7.6589869
+            ],
+            [
+              -41.8812092,
+              -7.659706
+            ],
+            [
+              -41.880662,
+              -7.6596953
+            ],
+            [
+              -41.8806539,
+              -7.6589763
+            ],
+            [
+              -41.8812051,
+              -7.6589869
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1025819596",
       "properties": {
         "timestamp": "2022-01-29T13:28:28Z",
@@ -393,6 +437,24 @@
         "coordinates": [
           -42.0071308,
           -7.5905387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12469939731",
+      "properties": {
+        "timestamp": "2025-01-03T00:10:24Z",
+        "version": 1,
+        "changeset": 160930441,
+        "amenity": "school",
+        "id": "node/12469939731"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.8776153,
+          -7.6601928
         ]
       }
     }

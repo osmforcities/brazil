@@ -55,6 +55,58 @@
     },
     {
       "type": "Feature",
+      "id": "way/666751426",
+      "properties": {
+        "timestamp": "2025-01-02T02:10:52Z",
+        "version": 6,
+        "changeset": 160891102,
+        "addr:city": "Naviraí",
+        "addr:housenumber": "420",
+        "addr:postcode": "79950-000",
+        "addr:street": "Avenida Weimar Gonçalves Torres",
+        "addr:suburb": "Centro",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Paulista;Farmácia Paulista",
+        "phone": "+55 67 3461-3167",
+        "id": "way/666751426"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -54.1970622,
+              -23.0635899
+            ],
+            [
+              -54.1972167,
+              -23.0635506
+            ],
+            [
+              -54.197298,
+              -23.0636591
+            ],
+            [
+              -54.1971876,
+              -23.0637303
+            ],
+            [
+              -54.197174,
+              -23.063715
+            ],
+            [
+              -54.1970622,
+              -23.0635899
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/711880470",
       "properties": {
         "timestamp": "2022-07-18T05:53:49Z",
@@ -330,6 +382,83 @@
         "coordinates": [
           -54.2071433,
           -23.0683013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4944776941",
+      "properties": {
+        "timestamp": "2025-01-02T02:10:52Z",
+        "version": 6,
+        "changeset": 160891102,
+        "addr:city": "Naviraí",
+        "addr:housenumber": "395",
+        "addr:postcode": "79950-000",
+        "addr:street": "Avenida Weimar Gonçalves Torres",
+        "addr:suburb": "Centro",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Farmácia Naviraí",
+        "phone": "+55 67 3461 1295",
+        "id": "node/4944776941"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.1973029,
+          -23.0632497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4944776956",
+      "properties": {
+        "timestamp": "2025-01-02T02:10:52Z",
+        "version": 5,
+        "changeset": 160891102,
+        "addr:city": "Naviraí",
+        "addr:housenumber": "475",
+        "addr:postcode": "79950-000",
+        "addr:street": "Avenida Weimar Gonçalves Torres",
+        "addr:suburb": "Centro",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Farmácia Morifarma",
+        "phone": "+55 67 3461-1838",
+        "id": "node/4944776956"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.1965814,
+          -23.0634515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4957069493",
+      "properties": {
+        "timestamp": "2025-01-02T02:10:52Z",
+        "version": 6,
+        "changeset": 160891102,
+        "addr:city": "Naviraí",
+        "addr:housenumber": "348",
+        "addr:postcode": "79950000",
+        "addr:street": "Avenida Weimar Gonçalves Torres",
+        "addr:suburb": "Centro",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Farmácia Preço Popular",
+        "id": "node/4957069493"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.1977834,
+          -23.063396
         ]
       }
     },

@@ -3,6 +3,122 @@
   "features": [
     {
       "type": "Feature",
+      "id": "relation/18493530",
+      "properties": {
+        "timestamp": "2025-01-02T16:00:56Z",
+        "version": 1,
+        "changeset": 160914803,
+        "addr:city": "Livramento de Nossa Senhora",
+        "addr:housenumber": "s/n",
+        "addr:postcode": "46140-000",
+        "addr:street": "Rua Josué da Silva Pereira",
+        "addr:suburb": "Estocada",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general;community",
+        "name": "Unidade Básica De Saúde | UBS Gil Ferreira Pessoa | Sede I | Livramento De Nossa Senhora, BA | SUS",
+        "opening_hours": "Mo-Fr 07:00-11:30, Mo-Fri 14:00-16:30, Sa 07:00-13:00",
+        "type": "multipolygon",
+        "website": "https://www.livramento.ba.gov.br/secretarias/secretaria-de-saude",
+        "wheelchair": "yes",
+        "id": "relation/18493530"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.8488718,
+              -13.6398068
+            ],
+            [
+              -41.848812,
+              -13.6398753
+            ],
+            [
+              -41.8487415,
+              -13.6398171
+            ],
+            [
+              -41.8486745,
+              -13.6397633
+            ],
+            [
+              -41.8487122,
+              -13.6397172
+            ],
+            [
+              -41.8487902,
+              -13.6396319
+            ],
+            [
+              -41.848822,
+              -13.6396594
+            ],
+            [
+              -41.8488526,
+              -13.6396245
+            ],
+            [
+              -41.8489569,
+              -13.6397109
+            ],
+            [
+              -41.8489075,
+              -13.6397672
+            ],
+            [
+              -41.8488718,
+              -13.6398068
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/18493531",
+      "properties": {
+        "timestamp": "2025-01-02T16:00:56Z",
+        "version": 1,
+        "changeset": 160914803,
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "type": "multipolygon",
+        "id": "relation/18493531"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.8488013,
+              -13.6397486
+            ],
+            [
+              -41.8488369,
+              -13.6397103
+            ],
+            [
+              -41.8489075,
+              -13.6397672
+            ],
+            [
+              -41.8488718,
+              -13.6398068
+            ],
+            [
+              -41.8488013,
+              -13.6397486
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1347409634",
       "properties": {
         "timestamp": "2024-12-30T21:06:36Z",
@@ -242,6 +358,50 @@
             [
               -41.8446532,
               -13.6558462
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1348012930",
+      "properties": {
+        "timestamp": "2025-01-02T16:00:56Z",
+        "version": 1,
+        "changeset": 160914803,
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "id": "way/1348012930"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.8488013,
+              -13.6397486
+            ],
+            [
+              -41.8488718,
+              -13.6398068
+            ],
+            [
+              -41.848812,
+              -13.6398753
+            ],
+            [
+              -41.8487415,
+              -13.6398171
+            ],
+            [
+              -41.8487786,
+              -13.6397746
+            ],
+            [
+              -41.8488013,
+              -13.6397486
             ]
           ]
         ]
@@ -609,6 +769,35 @@
         "coordinates": [
           -41.8446276,
           -13.6558491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12469097134",
+      "properties": {
+        "timestamp": "2025-01-02T16:00:56Z",
+        "version": 1,
+        "changeset": 160914803,
+        "addr:city": "Livramento de Nossa Senhora",
+        "addr:housenumber": "s/n",
+        "addr:postcode": "46140-000",
+        "addr:street": "Rua Josué da Silva Pereira",
+        "addr:suburb": "Estocada",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general;community",
+        "name": "Unidade Básica De Saúde | UBS Gil Ferreira Pessoa | Sede I | Livramento De Nossa Senhora, BA | SUS",
+        "opening_hours": "Mo-Fr 07:00-11:30, Mo-Fri 14:00-16:30, Sa 07:00-13:00",
+        "website": "https://www.livramento.ba.gov.br/secretarias/secretaria-de-saude",
+        "wheelchair": "yes",
+        "id": "node/12469097134"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.8487515,
+          -13.6397888
         ]
       }
     }

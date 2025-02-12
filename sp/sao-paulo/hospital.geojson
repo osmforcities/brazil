@@ -16708,6 +16708,160 @@
     },
     {
       "type": "Feature",
+      "id": "way/1348051378",
+      "properties": {
+        "timestamp": "2025-01-02T20:41:25Z",
+        "version": 2,
+        "changeset": 160925448,
+        "amenity": "hospital",
+        "barrier": "fence",
+        "fence_type": "bars",
+        "healthcare": "hospital",
+        "healthcare:speciality": "maternity;general;emergency",
+        "name": "Hospital Municipal e Maternidade Prof. Mario Degni",
+        "operator": "Prefeitura do Município de São Paulo",
+        "operator:type": "government",
+        "id": "way/1348051378"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.7650022,
+              -23.5771631
+            ],
+            [
+              -46.765375,
+              -23.5779927
+            ],
+            [
+              -46.7653213,
+              -23.5781452
+            ],
+            [
+              -46.7652159,
+              -23.5782105
+            ],
+            [
+              -46.7645701,
+              -23.5786108
+            ],
+            [
+              -46.7643933,
+              -23.5787204
+            ],
+            [
+              -46.7640473,
+              -23.5782484
+            ],
+            [
+              -46.7645998,
+              -23.5775048
+            ],
+            [
+              -46.7647018,
+              -23.5773819
+            ],
+            [
+              -46.7648077,
+              -23.5772909
+            ],
+            [
+              -46.7648667,
+              -23.5772393
+            ],
+            [
+              -46.7650022,
+              -23.5771631
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1348051388",
+      "properties": {
+        "timestamp": "2025-01-02T20:41:25Z",
+        "version": 2,
+        "changeset": 160925448,
+        "amenity": "hospital",
+        "barrier": "fence",
+        "fence_type": "bars",
+        "healthcare": "hospital",
+        "healthcare:speciality": "emergency",
+        "name": "Unidade de Pronto Atendimento Rio Pequeno",
+        "operator": "Prefeitura do Município de São Paulo",
+        "operator:type": "government",
+        "id": "way/1348051388"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.7650332,
+              -23.5762288
+            ],
+            [
+              -46.7653233,
+              -23.5761259
+            ],
+            [
+              -46.7653824,
+              -23.5762658
+            ],
+            [
+              -46.7651075,
+              -23.5763633
+            ],
+            [
+              -46.7652178,
+              -23.5766245
+            ],
+            [
+              -46.7652026,
+              -23.5766299
+            ],
+            [
+              -46.7649488,
+              -23.5767199
+            ],
+            [
+              -46.7649395,
+              -23.576698
+            ],
+            [
+              -46.7646568,
+              -23.5760284
+            ],
+            [
+              -46.7647886,
+              -23.5759816
+            ],
+            [
+              -46.7649004,
+              -23.575942
+            ],
+            [
+              -46.76495,
+              -23.5760593
+            ],
+            [
+              -46.7649602,
+              -23.5760557
+            ],
+            [
+              -46.7650332,
+              -23.5762288
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/568254830",
       "properties": {
         "timestamp": "2023-01-17T18:57:30Z",
@@ -19388,6 +19542,25 @@
     },
     {
       "type": "Feature",
+      "id": "node/8940870708",
+      "properties": {
+        "timestamp": "2025-01-02T18:58:20Z",
+        "version": 2,
+        "changeset": 160922254,
+        "barrier": "gate",
+        "entrance": "garage",
+        "id": "node/8940870708"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7652159,
+          -23.5782105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/9052991230",
       "properties": {
         "timestamp": "2024-01-16T13:20:53Z",
@@ -20363,6 +20536,61 @@
         "coordinates": [
           -46.6264213,
           -23.5228681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12469503804",
+      "properties": {
+        "timestamp": "2025-01-02T18:58:20Z",
+        "version": 1,
+        "changeset": 160922254,
+        "entrance": "main",
+        "id": "node/12469503804"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7645701,
+          -23.5786108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12469503906",
+      "properties": {
+        "timestamp": "2025-01-02T18:58:20Z",
+        "version": 1,
+        "changeset": 160922254,
+        "access": "private",
+        "entrance": "garage",
+        "id": "node/12469503906"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7647886,
+          -23.5759816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12469503907",
+      "properties": {
+        "timestamp": "2025-01-02T18:58:20Z",
+        "version": 1,
+        "changeset": 160922254,
+        "entrance": "main",
+        "id": "node/12469503907"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7649395,
+          -23.576698
         ]
       }
     }

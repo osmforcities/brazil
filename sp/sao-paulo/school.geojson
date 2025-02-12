@@ -63854,6 +63854,80 @@
     },
     {
       "type": "Feature",
+      "id": "way/887937582",
+      "properties": {
+        "timestamp": "2025-01-02T19:52:38Z",
+        "version": 2,
+        "changeset": 160923953,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "55",
+        "addr:postcode": "02403-020",
+        "addr:street": "Rua Paulo Gonçalves",
+        "addr:suburb": "Santana",
+        "alt_name": "E.E Frontino Guimarães",
+        "amenity": "school",
+        "barrier": "wall",
+        "name": "Escola Estadual Frontino Guimarães",
+        "id": "way/887937582"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.6281743,
+              -23.4959829
+            ],
+            [
+              -46.6282071,
+              -23.4962917
+            ],
+            [
+              -46.6282221,
+              -23.4964327
+            ],
+            [
+              -46.6280452,
+              -23.4964496
+            ],
+            [
+              -46.6278349,
+              -23.4964698
+            ],
+            [
+              -46.6278269,
+              -23.4963968
+            ],
+            [
+              -46.6278012,
+              -23.4961643
+            ],
+            [
+              -46.6277852,
+              -23.496019
+            ],
+            [
+              -46.627995,
+              -23.4959995
+            ],
+            [
+              -46.6280338,
+              -23.4959959
+            ],
+            [
+              -46.6280999,
+              -23.4959898
+            ],
+            [
+              -46.6281743,
+              -23.4959829
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/888096240",
       "properties": {
         "timestamp": "2020-12-24T10:03:54Z",
@@ -102120,6 +102194,64 @@
         "coordinates": [
           -46.622626,
           -23.4900061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8255594392",
+      "properties": {
+        "timestamp": "2025-01-02T19:52:38Z",
+        "version": 2,
+        "changeset": 160923953,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "55",
+        "addr:postcode": "02403-020",
+        "addr:street": "Rua Paulo Gonçalves",
+        "entrance": "yes",
+        "id": "node/8255594392"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6278269,
+          -23.4963968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8255594401",
+      "properties": {
+        "timestamp": "2025-01-02T19:52:38Z",
+        "version": 4,
+        "changeset": 160923953,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "81",
+        "addr:postcode": "02403-020",
+        "addr:street": "Rua Paulo Gonçalves",
+        "bench": "yes",
+        "bus": "yes",
+        "departures_board": "yes",
+        "gtfs_id": "710002157",
+        "gtfs_stop_desc": "Ref.: R Francisco Baruel/ R Estefania Mendes Pereira",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Rua Paulo Gonçalves, 89",
+        "network": "SPTRANS",
+        "operator": "SPTrans",
+        "public_transport": "platform",
+        "route_ref": "971M-10;N206-11;N235-11;N236-11;118C-10",
+        "shelter": "yes",
+        "website": "https://www.sptrans.com.br/",
+        "wheelchair": "yes",
+        "id": "node/8255594401"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6278012,
+          -23.4961643
         ]
       }
     },

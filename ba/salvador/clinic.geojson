@@ -4785,6 +4785,92 @@
     },
     {
       "type": "Feature",
+      "id": "way/1348009202",
+      "properties": {
+        "timestamp": "2025-01-02T15:37:12Z",
+        "version": 1,
+        "changeset": 160913780,
+        "addr:city": "Salvador",
+        "addr:housenumber": "2",
+        "addr:street": "Rua Itabuna",
+        "addr:suburb": "Rio Vermelho",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "psychiatry;child_psychiatry;neuropsychiatry;neurology;depth;humanistic",
+        "name": "Centro De Saúde Mental Dr. Oswaldo Camargo | CAPS Tipo II CSM Dr. Oswaldo Camargo | Salvador, BA | SUS",
+        "opening_hours": "Mo-Fr 08:00-16:00",
+        "phone": "+55 (71) 3611-5600",
+        "website": "http://www.saude.salvador.ba.gov.br/",
+        "wheelchair": "yes",
+        "id": "way/1348009202"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.491879,
+              -13.0076246
+            ],
+            [
+              -38.4919688,
+              -13.0076565
+            ],
+            [
+              -38.4920351,
+              -13.0077151
+            ],
+            [
+              -38.4920542,
+              -13.0077625
+            ],
+            [
+              -38.4920612,
+              -13.0078388
+            ],
+            [
+              -38.4920692,
+              -13.0079099
+            ],
+            [
+              -38.4919997,
+              -13.0080354
+            ],
+            [
+              -38.4919197,
+              -13.0081246
+            ],
+            [
+              -38.4918866,
+              -13.0080954
+            ],
+            [
+              -38.4918521,
+              -13.0080655
+            ],
+            [
+              -38.491696,
+              -13.0079285
+            ],
+            [
+              -38.4917051,
+              -13.0079059
+            ],
+            [
+              -38.4917399,
+              -13.0079019
+            ],
+            [
+              -38.491879,
+              -13.0076246
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/613000331",
       "properties": {
         "timestamp": "2024-03-19T02:09:04Z",
@@ -5544,6 +5630,35 @@
         "coordinates": [
           -38.5273629,
           -13.0085479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5064240731",
+      "properties": {
+        "timestamp": "2025-01-02T15:37:12Z",
+        "version": 5,
+        "changeset": 160913780,
+        "addr:city": "Salvador",
+        "addr:housenumber": "2",
+        "addr:street": "Rua Itabuna",
+        "addr:suburb": "Rio Vermelho",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "psychiatry;neurology;child_psychiatry;neuropsychiatry;depth;humanistic",
+        "name": "Centro De Saúde Mental Dr. Oswaldo Camargo | CAPS Tipo II CSM Dr. Oswaldo Camargo | Salvador, BA | SUS",
+        "opening_hours": "Mo-Fr 08:00-16:00",
+        "phone": "+55 \t(71) 3611-5600",
+        "website": "http://www.saude.salvador.ba.gov.br/",
+        "wheelchair": "yes",
+        "id": "node/5064240731"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4919114,
+          -13.0078621
         ]
       }
     },
@@ -8137,6 +8252,38 @@
         "coordinates": [
           -38.5039538,
           -12.9721729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12469016300",
+      "properties": {
+        "timestamp": "2025-01-02T14:50:45Z",
+        "version": 1,
+        "changeset": 160910661,
+        "addr:city": "Salvador",
+        "addr:housenumber": "69",
+        "addr:postcode": "41940-270",
+        "addr:street": "Rua Frederico Edelweiss",
+        "addr:suburb": "Rio Vermelho",
+        "air_conditioning": "yes",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general;internal",
+        "mobile": "+55 (71) 9 8188-3380",
+        "name": "Centro Médico Integrativo De Cuidados Contínuos | CMICC | Hospital Santa Izabel | HSI",
+        "opening_hours": "Mo-Fr 07:00-18:00",
+        "phone": "+55 (71) 3411-4142",
+        "website": "https://www.hospitalsantaizabel.org.br/",
+        "wheelchair": "yes",
+        "id": "node/12469016300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.482928,
+          -13.0117498
         ]
       }
     }

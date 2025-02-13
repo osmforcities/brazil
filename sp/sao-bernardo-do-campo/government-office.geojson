@@ -3,6 +3,123 @@
   "features": [
     {
       "type": "Feature",
+      "id": "way/251754435",
+      "properties": {
+        "timestamp": "2025-01-05T06:35:41Z",
+        "version": 11,
+        "changeset": 161010488,
+        "addr:city": "São Bernardo do Campo",
+        "addr:country": "BR",
+        "addr:housenumber": "271",
+        "addr:street": "Avenida Redenção",
+        "addr:suburb": "Centro",
+        "building": "public",
+        "building:levels": "1",
+        "name": "Secretaria de Assistência Social",
+        "office": "government",
+        "smoking": "outside",
+        "id": "way/251754435"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.5547144,
+              -23.6967786
+            ],
+            [
+              -46.5557858,
+              -23.6976043
+            ],
+            [
+              -46.5556962,
+              -23.6976931
+            ],
+            [
+              -46.5555959,
+              -23.6978017
+            ],
+            [
+              -46.5553846,
+              -23.6979918
+            ],
+            [
+              -46.5543343,
+              -23.6971881
+            ],
+            [
+              -46.5543991,
+              -23.6970679
+            ],
+            [
+              -46.5545283,
+              -23.6969821
+            ],
+            [
+              -46.5545919,
+              -23.6968632
+            ],
+            [
+              -46.5547144,
+              -23.6967786
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/251755382",
+      "properties": {
+        "timestamp": "2025-01-05T06:36:14Z",
+        "version": 13,
+        "changeset": 161010493,
+        "addr:city": "São Bernardo do Campo",
+        "addr:country": "BR",
+        "addr:housenumber": "100",
+        "addr:street": "Rua Nicolau Filizola",
+        "addr:suburb": "Centro",
+        "building": "public",
+        "government": "public_service",
+        "name": "Poupatempo São Bernardo",
+        "office": "government",
+        "phone:BR": "0800 772 36 33",
+        "smoking": "outside",
+        "website": "https://www.poupatempo.sp.gov.br/posto_sbc/index.asp",
+        "wheelchair": "yes",
+        "id": "way/251755382"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.5541178,
+              -23.6973661
+            ],
+            [
+              -46.5552977,
+              -23.6982302
+            ],
+            [
+              -46.5550969,
+              -23.6984601
+            ],
+            [
+              -46.5539168,
+              -23.6975963
+            ],
+            [
+              -46.5541178,
+              -23.6973661
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/251780681",
       "properties": {
         "timestamp": "2022-07-30T02:20:40Z",
@@ -1638,6 +1755,54 @@
         "coordinates": [
           -46.5542922,
           -23.6976133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9932840307",
+      "properties": {
+        "timestamp": "2025-01-05T06:34:50Z",
+        "version": 2,
+        "changeset": 161010474,
+        "government": "administrative",
+        "landuse": "military",
+        "military": "office",
+        "military_service": "army",
+        "name": "18ª Delegacia do Serviço Militar",
+        "office": "government",
+        "id": "node/9932840307"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5546813,
+          -23.698047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9932840308",
+      "properties": {
+        "timestamp": "2025-01-05T06:34:12Z",
+        "version": 2,
+        "changeset": 161010461,
+        "addr:housenumber": "100",
+        "addr:street": "Rua Nicolau Filizola",
+        "government": "administrative",
+        "landuse": "military",
+        "military": "office",
+        "military_service": "army",
+        "name": "Junta de Serviço Militar - 029 e 107",
+        "office": "government",
+        "id": "node/9932840308"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5547215,
+          -23.6979856
         ]
       }
     },

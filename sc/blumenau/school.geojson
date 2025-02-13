@@ -1776,6 +1776,10 @@
               -26.9237674
             ],
             [
+              -49.0632661,
+              -26.9239115
+            ],
+            [
               -49.0628833,
               -26.924072
             ],
@@ -1794,6 +1798,61 @@
             [
               -49.0624379,
               -26.9245947
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/358955363",
+      "properties": {
+        "timestamp": "2025-01-05T15:53:57Z",
+        "version": 7,
+        "changeset": 161026089,
+        "access": "yes",
+        "alt_name": "Escola Pedro II",
+        "amenity": "school",
+        "contact:phone": "+55 47 3378-8704",
+        "name": "Escola de Educação Básica Pedro II",
+        "operator": "Secretaria de Estado da Educação/SC",
+        "id": "way/358955363"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.0633419,
+              -26.9270655
+            ],
+            [
+              -49.0636183,
+              -26.9276677
+            ],
+            [
+              -49.0621657,
+              -26.9280336
+            ],
+            [
+              -49.062094,
+              -26.9278073
+            ],
+            [
+              -49.0620087,
+              -26.9275382
+            ],
+            [
+              -49.0622464,
+              -26.9274784
+            ],
+            [
+              -49.062197,
+              -26.9273209
+            ],
+            [
+              -49.0633419,
+              -26.9270655
             ]
           ]
         ]
@@ -3830,6 +3889,58 @@
     },
     {
       "type": "Feature",
+      "id": "way/503240372",
+      "properties": {
+        "timestamp": "2021-12-13T20:45:08Z",
+        "version": 3,
+        "changeset": 114897310,
+        "access": "yes",
+        "addr:housenumber": "477",
+        "addr:street": "Rua Henrique Reif",
+        "amenity": "school",
+        "contact:phone": "+55 47 3323-4480",
+        "emergency_shelter": "yes",
+        "emergency_shelter:ref": "E5",
+        "name": "Escola Básica Municipal Gustavo Richard",
+        "operator": "Prefeitura Municipal de Blumenau",
+        "operator:type": "public",
+        "short_name": "EBM Gustavo Richard",
+        "id": "way/503240372"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.056416,
+              -26.8910297
+            ],
+            [
+              -49.0564361,
+              -26.8914507
+            ],
+            [
+              -49.0561143,
+              -26.8914029
+            ],
+            [
+              -49.056066,
+              -26.8913802
+            ],
+            [
+              -49.0560848,
+              -26.8910105
+            ],
+            [
+              -49.056416,
+              -26.8910297
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/503240374",
       "properties": {
         "timestamp": "2021-12-13T20:45:08Z",
@@ -4877,44 +4988,6 @@
               -49.0901742,
               -26.907223
             ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/503240372",
-      "properties": {
-        "timestamp": "2021-12-13T20:45:08Z",
-        "version": 3,
-        "changeset": 114897310,
-        "access": "yes",
-        "addr:housenumber": "477",
-        "addr:street": "Rua Henrique Reif",
-        "amenity": "school",
-        "contact:phone": "+55 47 3323-4480",
-        "emergency_shelter": "yes",
-        "emergency_shelter:ref": "E5",
-        "name": "Escola Básica Municipal Gustavo Richard",
-        "operator": "Prefeitura Municipal de Blumenau",
-        "operator:type": "public",
-        "short_name": "EBM Gustavo Richard",
-        "id": "way/503240372"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -49.0564361,
-            -26.8914507
-          ],
-          [
-            -49.0561143,
-            -26.8914029
-          ],
-          [
-            -49.056066,
-            -26.8913802
           ]
         ]
       }

@@ -203,6 +203,78 @@
     },
     {
       "type": "Feature",
+      "id": "way/359245356",
+      "properties": {
+        "timestamp": "2025-01-05T14:58:52Z",
+        "version": 10,
+        "changeset": 161023902,
+        "addr:housenumber": "55",
+        "addr:postcode": "89010-001",
+        "addr:street": "Rua XV de Novembro",
+        "alt_name": "Câmara Municipal de Blumenau",
+        "building": "civic",
+        "building:levels": "4",
+        "check_date:opening_hours": "2025-01-05",
+        "contact:email": "blumenau@camarablu.sc.gov.br",
+        "contact:phone": "+55 47 3231-1500",
+        "contact:website": "https://camarablu.sc.gov.br",
+        "government": "legislative",
+        "name": "Câmara de Vereadores de Blumenau",
+        "office": "government",
+        "opening_hours": "Mo-Fr 07:00-19:00; Sa-Su off",
+        "source:opening_hours": "website",
+        "id": "way/359245356"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.0580182,
+              -26.9214884
+            ],
+            [
+              -49.0580794,
+              -26.9215858
+            ],
+            [
+              -49.058075,
+              -26.9216251
+            ],
+            [
+              -49.0577261,
+              -26.9218823
+            ],
+            [
+              -49.0574415,
+              -26.9215605
+            ],
+            [
+              -49.057425,
+              -26.9215401
+            ],
+            [
+              -49.0576246,
+              -26.921401
+            ],
+            [
+              -49.0578015,
+              -26.9216232
+            ],
+            [
+              -49.0579208,
+              -26.9215452
+            ],
+            [
+              -49.0580182,
+              -26.9214884
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/360809339",
       "properties": {
         "timestamp": "2021-11-28T20:13:17Z",
@@ -1814,6 +1886,31 @@
         "coordinates": [
           -49.0685692,
           -26.8860984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12475845546",
+      "properties": {
+        "timestamp": "2025-01-05T15:53:57Z",
+        "version": 1,
+        "changeset": 161026089,
+        "check_date:opening_hours": "2024-11-03",
+        "government": "healthcare",
+        "name": "Vigilância Sanitária de Blumenau",
+        "office": "government",
+        "opening_hours": "Mo-Fr 08:00-12:00,13:00-17:00; Sa,Su off",
+        "operator": "Prefeitura Municipal de Pomerode",
+        "operator:type": "government",
+        "source:opening_hours": "survey",
+        "id": "node/12475845546"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.0628484,
+          -26.926621
         ]
       }
     }

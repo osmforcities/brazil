@@ -2006,6 +2006,70 @@
     },
     {
       "type": "Feature",
+      "id": "way/461488743",
+      "properties": {
+        "timestamp": "2025-01-05T21:46:02Z",
+        "version": 8,
+        "changeset": 161037461,
+        "addr:housenumber": "418",
+        "addr:street": "Rua Doutor Luiz de Freitas Melro",
+        "alt_name": "Clinipam",
+        "amenity": "clinic",
+        "building": "yes",
+        "building:levels": "2",
+        "healthcare": "clinic",
+        "name": "Notre Dame Intermédica",
+        "roof:levels": "1",
+        "roof:material": "roof_tiles",
+        "roof:shape": "hipped",
+        "id": "way/461488743"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.0638383,
+              -26.9238075
+            ],
+            [
+              -49.0638701,
+              -26.9238703
+            ],
+            [
+              -49.0638991,
+              -26.9238587
+            ],
+            [
+              -49.0639251,
+              -26.9239101
+            ],
+            [
+              -49.0637944,
+              -26.9239627
+            ],
+            [
+              -49.0637456,
+              -26.9238663
+            ],
+            [
+              -49.0638036,
+              -26.923843
+            ],
+            [
+              -49.0637946,
+              -26.9238251
+            ],
+            [
+              -49.0638383,
+              -26.9238075
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/464913857",
       "properties": {
         "timestamp": "2024-01-08T14:38:32Z",
@@ -4975,6 +5039,35 @@
     },
     {
       "type": "Feature",
+      "id": "node/6652384705",
+      "properties": {
+        "timestamp": "2025-01-05T21:46:02Z",
+        "version": 4,
+        "changeset": 161037461,
+        "amenity": "clinic",
+        "contact:email": "laboratorio@santaisabel.com.br",
+        "contact:facebook": "santaisabellaboratorio",
+        "contact:instagram": "santaisabellaboratorio",
+        "contact:phone": "+55 47 3323-4612",
+        "contact:website": "https://labsantaisabel.com.br",
+        "healthcare": "laboratory",
+        "healthcare:speciality": "biochemistry",
+        "laboratory": "blood_check",
+        "level": "0",
+        "name": "Laboratório Santa Isabel",
+        "opening_hours": "Mo-Fr 06:15-15:45",
+        "id": "node/6652384705"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.0948031,
+          -26.9042864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/6682462771",
       "properties": {
         "timestamp": "2019-08-05T03:27:27Z",
@@ -5445,6 +5538,90 @@
         "coordinates": [
           -49.0915073,
           -26.9040292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12476453799",
+      "properties": {
+        "timestamp": "2025-01-05T21:46:02Z",
+        "version": 1,
+        "changeset": 161037461,
+        "addr:door": "Sala 04",
+        "alt_name": "Laboratório Santa Isabel Stein Office",
+        "amenity": "clinic",
+        "check_date:opening_hours": "2024-12-11",
+        "contact:email": "laboratorio@santaisabel.com.br",
+        "contact:facebook": "santaisabellaboratorio",
+        "contact:instagram": "santaisabellaboratorio",
+        "contact:phone": "+55 47 3326-4381",
+        "contact:website": "https://labsantaisabel.com.br",
+        "healthcare": "laboratory",
+        "healthcare:speciality": "biochemistry",
+        "laboratory": "blood_check",
+        "level": "0",
+        "name": "Laboratório Santa Isabel",
+        "opening_hours": "Mo-Fr 06:00-19:00; Sa 07:00-11:30; Su off",
+        "source:opening_hours": "survey",
+        "id": "node/12476453799"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.0645764,
+          -26.9228973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12476515017",
+      "properties": {
+        "timestamp": "2025-01-05T21:46:02Z",
+        "version": 1,
+        "changeset": 161037461,
+        "amenity": "clinic",
+        "contact:email": "vendasblumenau@nossasaude.com.br",
+        "contact:facebook": "nossasaudeoficial",
+        "contact:instagram": "nossasaudeoficial",
+        "contact:phone": "+55 47 3513-4747",
+        "contact:website": "https://nossasaude.com.br",
+        "healthcare": "clinic",
+        "level": "0",
+        "name": "Nossa Saúde",
+        "id": "node/12476515017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.0640152,
+          -26.9241648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12476515024",
+      "properties": {
+        "timestamp": "2025-01-05T21:46:02Z",
+        "version": 1,
+        "changeset": 161037461,
+        "addr:door": "Sala 104",
+        "amenity": "clinic",
+        "contact:email": "medprimeblumenau@gmail.com",
+        "contact:phone": "+55 47 3209-7896",
+        "contact:whatsapp": "+55 47 98841-0117",
+        "healthcare": "clinic",
+        "level": "1",
+        "name": "Med Prime",
+        "id": "node/12476515024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.0633559,
+          -26.9244157
         ]
       }
     }

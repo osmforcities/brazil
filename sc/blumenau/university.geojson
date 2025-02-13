@@ -864,6 +864,51 @@
     },
     {
       "type": "Feature",
+      "id": "way/358955364",
+      "properties": {
+        "timestamp": "2025-01-05T15:53:57Z",
+        "version": 6,
+        "changeset": 161026089,
+        "addr:housenumber": "574",
+        "addr:street": "Alameda Rio Branco",
+        "amenity": "university",
+        "building": "university",
+        "contact:phone": "+55 47 3222-0400",
+        "contact:website": "http://uab.capes.gov.br/",
+        "description": "Poso de apoio presencial",
+        "name": "Universidade Aberta do Brasil",
+        "id": "way/358955364"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.062197,
+              -26.9273209
+            ],
+            [
+              -49.0622464,
+              -26.9274784
+            ],
+            [
+              -49.0620087,
+              -26.9275382
+            ],
+            [
+              -49.0619586,
+              -26.9273802
+            ],
+            [
+              -49.062197,
+              -26.9273209
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/360215528",
       "properties": {
         "timestamp": "2017-12-14T15:40:32Z",
@@ -1248,6 +1293,28 @@
         "coordinates": [
           -49.0679431,
           -26.9162887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4529279911",
+      "properties": {
+        "timestamp": "2025-01-05T14:58:52Z",
+        "version": 7,
+        "changeset": 161023902,
+        "amenity": "university",
+        "contact:phone": "+55 47 99732-8432",
+        "contact:website": "https://unisul.br",
+        "name": "Universidade Unisul",
+        "old_name": "FMU Centro Universitário",
+        "id": "node/4529279911"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.05841,
+          -26.9219885
         ]
       }
     },

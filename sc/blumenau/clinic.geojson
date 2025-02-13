@@ -1520,6 +1520,66 @@
     },
     {
       "type": "Feature",
+      "id": "way/391938285",
+      "properties": {
+        "timestamp": "2022-03-13T02:10:13Z",
+        "version": 5,
+        "changeset": 118416887,
+        "addr:housenumber": "420",
+        "addr:street": "Rua 7 de Setembro",
+        "amenity": "clinic",
+        "building": "yes",
+        "contact:phone": "+55 47 3322-4164",
+        "contact:website": "http://institutoclave.com.br/",
+        "contact:whatsapp": "+55 47 99139-2246;+55 47 99129-4164",
+        "healthcare": "clinic",
+        "healthcare:speciality": "psychiatry",
+        "name": "Instituto Clave",
+        "opening_hours": "Mo-Th 07:30-19:00; Fr 07:30-18:00",
+        "id": "way/391938285"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.0614077,
+              -26.9234795
+            ],
+            [
+              -49.0613599,
+              -26.9234878
+            ],
+            [
+              -49.0613053,
+              -26.9234979
+            ],
+            [
+              -49.0612959,
+              -26.9234584
+            ],
+            [
+              -49.0612644,
+              -26.9233338
+            ],
+            [
+              -49.061362,
+              -26.9233125
+            ],
+            [
+              -49.061389,
+              -26.9234123
+            ],
+            [
+              -49.0614077,
+              -26.9234795
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/412538224",
       "properties": {
         "timestamp": "2023-04-08T01:36:39Z",
@@ -4495,6 +4555,24 @@
     },
     {
       "type": "Feature",
+      "id": "node/5330337671",
+      "properties": {
+        "timestamp": "2025-01-04T01:19:06Z",
+        "version": 5,
+        "changeset": 160971991,
+        "entrance": "yes",
+        "id": "node/5330337671"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.0613599,
+          -26.9234878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/5347361797",
       "properties": {
         "timestamp": "2023-09-23T13:03:58Z",
@@ -4606,6 +4684,28 @@
         "coordinates": [
           -49.0850915,
           -26.9054297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5623295997",
+      "properties": {
+        "timestamp": "2025-01-04T01:40:11Z",
+        "version": 3,
+        "changeset": 160972183,
+        "amenity": "clinic",
+        "contact:website": "https://amorsaude.com.br",
+        "healthcare": "clinic",
+        "name": "Amor Saúde",
+        "shop": "vacant",
+        "id": "node/5623295997"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.0615457,
+          -26.9257588
         ]
       }
     },
@@ -4748,6 +4848,30 @@
         "coordinates": [
           -49.0841876,
           -26.8734147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5877302620",
+      "properties": {
+        "timestamp": "2025-01-04T01:19:06Z",
+        "version": 5,
+        "changeset": 160971991,
+        "amenity": "clinic",
+        "contact:website": "https://www.unimed.coop.br/site/web/blumenau/laboratorio",
+        "healthcare": "laboratory",
+        "healthcare:speciality": "biochemistry",
+        "laboratory": "blood_check",
+        "name": "Laboratório Unimed",
+        "opening_hours": "Mo-Fr 06:00-18:00; Sa 07:00-12:00; Su off",
+        "id": "node/5877302620"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.0619032,
+          -26.9232944
         ]
       }
     },

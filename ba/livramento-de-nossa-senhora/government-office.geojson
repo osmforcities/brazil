@@ -3,46 +3,53 @@
   "features": [
     {
       "type": "Feature",
-      "id": "way/1194838379",
+      "id": "way/1348514404",
       "properties": {
-        "timestamp": "2023-08-04T18:27:39Z",
+        "timestamp": "2025-01-04T16:45:10Z",
         "version": 1,
-        "changeset": 139453212,
+        "changeset": 160993559,
+        "addr:city": "Livramento De Nossa Senhora",
+        "addr:housenumber": "s/n",
+        "addr:postcode": "46140-000",
+        "addr:street": "Avenida Antigo Campo De Pouso",
+        "addr:suburb": "Jurema",
         "building": "yes",
+        "government": "administrative",
+        "name": "Secretaria De Educação | SEDUC | Poder Executivo | Município De Livramento De Nossa Senhora, BA",
         "office": "government",
-        "id": "way/1194838379"
+        "opening_hours": "Mo-Th 08:00-17:00. Fr 08:00-12:00",
+        "phone": "+55 (77) 3444-1799",
+        "website": "https://www.livramento.ba.gov.br/",
+        "wheelchair": "yes",
+        "id": "way/1348514404"
       },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              -41.8587985,
-              -13.6622765
+              -41.8586115,
+              -13.6627127
             ],
             [
-              -41.8590507,
-              -13.6624955
+              -41.8585332,
+              -13.6627871
             ],
             [
-              -41.8585947,
-              -13.6629698
+              -41.8584765,
+              -13.6627308
             ],
             [
-              -41.8582675,
-              -13.6626623
+              -41.8585548,
+              -13.6626564
             ],
             [
-              -41.8586537,
-              -13.6623756
+              -41.8585711,
+              -13.6626726
             ],
             [
-              -41.8587073,
-              -13.662313
-            ],
-            [
-              -41.8587985,
-              -13.6622765
+              -41.8586115,
+              -13.6627127
             ]
           ]
         ]
@@ -50,47 +57,201 @@
     },
     {
       "type": "Feature",
-      "id": "node/3475346182",
+      "id": "way/1348546649",
       "properties": {
-        "timestamp": "2018-06-19T22:42:15Z",
-        "version": 3,
-        "changeset": 59992644,
-        "addr:city": "Livramento de Nossa Senhora",
-        "addr:postcode": "46140-000",
-        "addr:street": "Praça Dom Hélio Pascoal",
-        "addr:suburb": "Centro",
-        "government": "legislative",
-        "name": "Câmara Municipal de Livramento de Nossa Senhora",
+        "timestamp": "2025-01-04T19:15:21Z",
+        "version": 1,
+        "changeset": 160998469,
+        "building": "yes",
         "office": "government",
-        "operator": "Municipal",
-        "id": "node/3475346182"
+        "id": "way/1348546649"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -41.8406781,
-          -13.650592
+          [
+            [
+              -41.8465752,
+              -13.66227
+            ],
+            [
+              -41.8465573,
+              -13.6623575
+            ],
+            [
+              -41.8465004,
+              -13.6623459
+            ],
+            [
+              -41.8463587,
+              -13.6623168
+            ],
+            [
+              -41.8463682,
+              -13.6622729
+            ],
+            [
+              -41.8463774,
+              -13.6622303
+            ],
+            [
+              -41.8465191,
+              -13.6622593
+            ],
+            [
+              -41.846526,
+              -13.6622607
+            ],
+            [
+              -41.8465348,
+              -13.6622625
+            ],
+            [
+              -41.8465752,
+              -13.66227
+            ]
+          ]
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "node/4594730752",
+      "id": "way/1348546650",
       "properties": {
-        "timestamp": "2023-08-04T18:27:39Z",
-        "version": 2,
-        "changeset": 139453212,
-        "addr:postcode": "46140000",
-        "addr:suburb": "Bairro Jurema",
-        "name": "Secretaria de Educação",
+        "timestamp": "2025-01-04T19:15:21Z",
+        "version": 1,
+        "changeset": 160998469,
+        "building": "yes",
         "office": "government",
-        "id": "node/4594730752"
+        "id": "way/1348546650"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.8465191,
+              -13.6622593
+            ],
+            [
+              -41.846526,
+              -13.6622607
+            ],
+            [
+              -41.8465348,
+              -13.6622625
+            ],
+            [
+              -41.8465752,
+              -13.66227
+            ],
+            [
+              -41.8465573,
+              -13.6623575
+            ],
+            [
+              -41.8465004,
+              -13.6623459
+            ],
+            [
+              -41.8465104,
+              -13.6623026
+            ],
+            [
+              -41.8465191,
+              -13.6622593
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1348546651",
+      "properties": {
+        "timestamp": "2025-01-04T19:15:21Z",
+        "version": 1,
+        "changeset": 160998469,
+        "building": "yes",
+        "office": "government",
+        "id": "way/1348546651"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.8465461,
+              -13.6622154
+            ],
+            [
+              -41.8465845,
+              -13.6622225
+            ],
+            [
+              -41.8465752,
+              -13.66227
+            ],
+            [
+              -41.8465348,
+              -13.6622625
+            ],
+            [
+              -41.8465363,
+              -13.6622548
+            ],
+            [
+              -41.8465375,
+              -13.6622483
+            ],
+            [
+              -41.8465565,
+              -13.6622518
+            ],
+            [
+              -41.8465596,
+              -13.6622357
+            ],
+            [
+              -41.8465427,
+              -13.6622326
+            ],
+            [
+              -41.8465461,
+              -13.6622154
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12473853942",
+      "properties": {
+        "timestamp": "2025-01-04T16:45:10Z",
+        "version": 1,
+        "changeset": 160993559,
+        "addr:city": "Livramento De Nossa Senhora",
+        "addr:housenumber": "s/n",
+        "addr:postcode": "46140-000",
+        "addr:street": "Avenida Antigo Campo De Pouso",
+        "addr:suburb": "Jurema",
+        "email": "educacao@livramentodenossasenhora.ba.gov.br",
+        "government": "education",
+        "name": "Secretaria De Educação | SEDUC | Poder Executivo | Município De Livramento De Nossa Senhora, BA",
+        "office": "government",
+        "opening_hours": "Mo-Th 08:00-17:00. Fr 08:00-12:00",
+        "phone": "+55 (77) 3444-1799",
+        "smoking": "no",
+        "website": "https://www.livramento.ba.gov.br/",
+        "wheelchair": "yes",
+        "id": "node/12473853942"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -41.8587207,
-          -13.6626153
+          -41.8585451,
+          -13.6627232
         ]
       }
     }

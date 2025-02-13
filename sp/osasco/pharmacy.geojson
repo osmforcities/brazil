@@ -3,6 +3,55 @@
   "features": [
     {
       "type": "Feature",
+      "id": "way/428753287",
+      "properties": {
+        "timestamp": "2025-01-04T00:40:55Z",
+        "version": 3,
+        "changeset": 160971596,
+        "addr:city": "Osasco",
+        "addr:housenumber": "970",
+        "addr:postcode": "06093-008",
+        "addr:street": "Rua Antônio Agú",
+        "addr:suburb": "Centro",
+        "amenity": "pharmacy",
+        "brand": "Droga Raia",
+        "brand:wikidata": "Q10357101",
+        "building": "yes",
+        "name": "Droga Raia",
+        "opening_hours": "24/7",
+        "phone": "+55 11 3699 0808",
+        "id": "way/428753287"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.7804794,
+              -23.5354214
+            ],
+            [
+              -46.7807006,
+              -23.5354976
+            ],
+            [
+              -46.7804475,
+              -23.5355998
+            ],
+            [
+              -46.7804281,
+              -23.5355576
+            ],
+            [
+              -46.7804794,
+              -23.5354214
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/647807625",
       "properties": {
         "timestamp": "2018-11-26T22:04:15Z",
@@ -44,6 +93,60 @@
             [
               -46.7784095,
               -23.5417305
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/654314444",
+      "properties": {
+        "timestamp": "2025-01-04T00:05:04Z",
+        "version": 2,
+        "changeset": 160971136,
+        "addr:housenumber": "431",
+        "addr:postcode": "06114-000",
+        "addr:street": "Avenida Hildebrando de Lima",
+        "amenity": "pharmacy",
+        "brand": "Drogasil",
+        "brand:wikidata": "Q5308185",
+        "building": "yes",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Drogasil",
+        "opening_hours": "24/7",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:notes": "yes",
+        "id": "way/654314444"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.7938997,
+              -23.5307783
+            ],
+            [
+              -46.7938868,
+              -23.5308816
+            ],
+            [
+              -46.7937636,
+              -23.5308688
+            ],
+            [
+              -46.7937764,
+              -23.5307655
+            ],
+            [
+              -46.7938997,
+              -23.5307783
             ]
           ]
         ]
@@ -451,6 +554,36 @@
         "coordinates": [
           -46.7886185,
           -23.5185206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4253305633",
+      "properties": {
+        "timestamp": "2025-01-04T06:42:40Z",
+        "version": 5,
+        "changeset": 160974996,
+        "addr:city": "Osasco",
+        "addr:housenumber": "29;35;37",
+        "addr:postcode": "06097-100",
+        "addr:street": "Avenida João Batista",
+        "addr:suburb": "Centro",
+        "amenity": "pharmacy",
+        "brand": "Drogaria São Paulo",
+        "brand:wikidata": "Q5308184",
+        "contact:phone": "+55 11 3682-1694;+55 11 3683-7671;0800 779 8767",
+        "contact:website": "http://www.drogariasaopaulo.com.br",
+        "drive_through": "no",
+        "name": "Drogaria São Paulo",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "id": "node/4253305633"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7769377,
+          -23.5281898
         ]
       }
     },

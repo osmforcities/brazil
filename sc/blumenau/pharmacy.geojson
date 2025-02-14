@@ -868,6 +868,60 @@
     },
     {
       "type": "Feature",
+      "id": "way/996897608",
+      "properties": {
+        "timestamp": "2025-01-06T23:45:39Z",
+        "version": 3,
+        "changeset": 161078393,
+        "addr:housenumber": "841",
+        "addr:postcode": "89046-001",
+        "addr:street": "Rua José Reuter",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "contact:facebook": "farmaciassaojoao",
+        "contact:instagram": "farmaciassaojoao",
+        "contact:phone": "+55 47 3513-0533",
+        "contact:website": "https://saojoaofarmacias.com.br",
+        "contact:whatsapp": "+55 54 99953-7683",
+        "delivery": "yes",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Farmácia São João",
+        "opening_hours": "Mo-Sa 07:30-22:00; Su,PH 08:00-22:00",
+        "id": "way/996897608"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.1364531,
+              -26.9327187
+            ],
+            [
+              -49.1364606,
+              -26.932944
+            ],
+            [
+              -49.1363638,
+              -26.9329466
+            ],
+            [
+              -49.1363562,
+              -26.9327213
+            ],
+            [
+              -49.1364531,
+              -26.9327187
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1056109376",
       "properties": {
         "timestamp": "2022-04-29T22:13:07Z",
@@ -2761,6 +2815,37 @@
         "coordinates": [
           -49.0893438,
           -26.9030016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8922541168",
+      "properties": {
+        "timestamp": "2025-01-06T23:45:39Z",
+        "version": 5,
+        "changeset": 161078393,
+        "amenity": "pharmacy",
+        "contact:facebook": "farmaciassaojoao",
+        "contact:instagram": "farmaciassaojoao",
+        "contact:phone": "+55 47 3234-4170",
+        "contact:website": "https://saojoaofarmacias.com.br",
+        "contact:whatsapp": "+55 54 99684-9221",
+        "delivery": "yes",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Farmácia São João",
+        "opening_hours": "Mo-Sa 07:30-22:00; Su,PH 08:00-22:00",
+        "wifi": "yes",
+        "id": "node/8922541168"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.1203672,
+          -26.853708
         ]
       }
     },

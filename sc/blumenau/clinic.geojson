@@ -1288,6 +1288,92 @@
     },
     {
       "type": "Feature",
+      "id": "way/369306789",
+      "properties": {
+        "timestamp": "2025-01-06T23:45:39Z",
+        "version": 14,
+        "changeset": 161078393,
+        "access": "private",
+        "addr:housenumber": "1535",
+        "addr:street": "Rua 7 de Setembro",
+        "alt_name": "Clínica Médica Patch Adams",
+        "amenity": "clinic",
+        "building": "yes",
+        "building:levels": "2",
+        "check_date:opening_hours": "2025-01-06",
+        "contact:facebook": "interblucentroclinico",
+        "contact:instagram": "interblu.blumenau",
+        "contact:phone": "+55 47 3231-2700",
+        "contact:website": "https://interblu.com.br",
+        "description": "Possui atendimento pediátrico",
+        "healthcare": "clinic",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:ssid": "Interblu Pacientes",
+        "name": "InterBlu Centro Clínico",
+        "opening_hours": "Mo-Fr 07:00-21:30; Sa 07:00-11:30; Su off",
+        "source:opening_hours": "website",
+        "wifi": "yes",
+        "id": "way/369306789"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.0711729,
+              -26.9184755
+            ],
+            [
+              -49.0710265,
+              -26.9186288
+            ],
+            [
+              -49.0709991,
+              -26.9186297
+            ],
+            [
+              -49.0709674,
+              -26.9186308
+            ],
+            [
+              -49.070829,
+              -26.9185257
+            ],
+            [
+              -49.0708756,
+              -26.9184747
+            ],
+            [
+              -49.0708947,
+              -26.9184569
+            ],
+            [
+              -49.0708057,
+              -26.9183893
+            ],
+            [
+              -49.0707857,
+              -26.9184102
+            ],
+            [
+              -49.0706824,
+              -26.9183317
+            ],
+            [
+              -49.0708091,
+              -26.9181991
+            ],
+            [
+              -49.0711729,
+              -26.9184755
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/380463292",
       "properties": {
         "timestamp": "2024-04-21T20:17:16Z",
@@ -4614,6 +4700,42 @@
         "coordinates": [
           -49.0551232,
           -26.9273981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5266363134",
+      "properties": {
+        "timestamp": "2025-01-06T23:45:39Z",
+        "version": 3,
+        "changeset": 161078393,
+        "entrance": "yes",
+        "id": "node/5266363134"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.0708756,
+          -26.9184747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5266686575",
+      "properties": {
+        "timestamp": "2017-12-05T20:42:10Z",
+        "version": 1,
+        "changeset": 54381136,
+        "entrance": "main",
+        "id": "node/5266686575"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.0709991,
+          -26.9186297
         ]
       }
     },

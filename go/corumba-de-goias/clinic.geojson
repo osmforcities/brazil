@@ -57,6 +57,58 @@
     },
     {
       "type": "Feature",
+      "id": "way/956593856",
+      "properties": {
+        "timestamp": "2025-01-07T14:12:17Z",
+        "version": 4,
+        "changeset": 161097213,
+        "abbr_name": "UBS Mário Curado",
+        "addr:city": "Corumbá de Goiás",
+        "addr:postcode": "72960-000",
+        "addr:street": "Rua 3",
+        "addr:suburb": "9 de Julho",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Unidade Básica de Saúde Mário Curado",
+        "opening_hours": "Mo-Fr 07:00-11:00, 13:00-16:00",
+        "operator": "Secretária de Saúde da Prefeitura de Corumbá de Goiás",
+        "operator:type": "public",
+        "phone": "+55 62 3338 1439",
+        "website": "https://corumbadegoias.go.gov.br/estrutura-organizacional/?id=5",
+        "id": "way/956593856"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.8068481,
+              -15.9184121
+            ],
+            [
+              -48.8070354,
+              -15.9184606
+            ],
+            [
+              -48.8069864,
+              -15.9186354
+            ],
+            [
+              -48.8067991,
+              -15.9185869
+            ],
+            [
+              -48.8068481,
+              -15.9184121
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1013620655",
       "properties": {
         "timestamp": "2021-12-20T02:53:10Z",
@@ -143,6 +195,76 @@
               -15.9193234
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8853016039",
+      "properties": {
+        "timestamp": "2025-01-07T14:12:17Z",
+        "version": 7,
+        "changeset": 161097213,
+        "abbr_name": "UBS Antônio Marmo Ferreira Santana",
+        "addr:city": "Corumbá de Goiás",
+        "addr:housenumber": "9",
+        "addr:postcode": "72960-000",
+        "addr:street": "Avenida Professor Francisco Bruno",
+        "addr:suburb": "Alto da Boa Vista",
+        "alt_name": "UBS Alto da Boa Vista",
+        "amenity": "clinic",
+        "contact:mobile": "+55 62 99841 2962",
+        "contact:whatsapp": "https://wa.me/556298412962",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "internet_access": "wlan",
+        "internet_access:password": "Saude@321",
+        "internet_access:ssid": "UBS Antônio Marmo",
+        "name": "Unidade Básica de Saúde Antônio Marmo Ferreira Santana",
+        "opening_hours": "Mo-Fr 07:00-11:00, 13:00-16:00",
+        "operator": "Secretária de Saúde da Prefeitura de Corumbá de Goiás",
+        "operator:type": "government",
+        "phone": "+55 62 3338 1939",
+        "phone:mobile": "+55 62 99841 2962",
+        "website": "https://corumbadegoias.go.gov.br/estrutura-organizacional/?id=49",
+        "id": "node/8853016039"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.8193788,
+          -15.9290761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12219308002",
+      "properties": {
+        "timestamp": "2025-01-07T14:11:05Z",
+        "version": 3,
+        "changeset": 161097155,
+        "addr:city": "Corumbá de Goiás",
+        "addr:postcode": "72960-000",
+        "addr:street": "Rua 1",
+        "addr:suburb": "Alto da Boa Vista",
+        "amenity": "clinic",
+        "contact:whatsapp": "https://wa.me/556296140975",
+        "healthcare": "clinic",
+        "healthcare:speciality": "cardiology;endocrinology;physiotherapy;paediatrics;dermatology;orthopaedics;orthopedics;gynaecology;psychiatry",
+        "mobile": "+55 62 99614 0975",
+        "name": "Centro de Especialidades Valdete de Jesus Alves dos Santos",
+        "opening_hours": "Mo-Fr 07:00-11:00, 13:00-16:00",
+        "operator": "Secretária de Saúde da Prefeitura de Corumbá de Goiás",
+        "operator:type": "government",
+        "phone": "+55 62 99614 0975",
+        "id": "node/12219308002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.8193048,
+          -15.9288059
         ]
       }
     },

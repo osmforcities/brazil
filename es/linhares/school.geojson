@@ -236,6 +236,56 @@
     },
     {
       "type": "Feature",
+      "id": "way/228459372",
+      "properties": {
+        "timestamp": "2022-07-05T18:41:56Z",
+        "version": 3,
+        "changeset": 123246894,
+        "addr:postcode": "29901-250",
+        "addr:street": "Rua Maranhão",
+        "addr:suburb": "Aviso",
+        "amenity": "school",
+        "name": "EMEF Prefeito Roberto Calmon",
+        "phone": "+55 27 3373 3456",
+        "ref": "INEP-32022107",
+        "religion": "none",
+        "source": "INEP",
+        "id": "way/228459372"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.0536392,
+              -19.4035329
+            ],
+            [
+              -40.0531702,
+              -19.4032944
+            ],
+            [
+              -40.0531273,
+              -19.403135
+            ],
+            [
+              -40.053448,
+              -19.4025744
+            ],
+            [
+              -40.0540204,
+              -19.4028658
+            ],
+            [
+              -40.0536392,
+              -19.4035329
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/234923119",
       "properties": {
         "timestamp": "2024-12-22T21:32:09Z",
@@ -570,6 +620,67 @@
             [
               -40.0600904,
               -19.3812754
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/459873360",
+      "properties": {
+        "timestamp": "2025-01-07T21:22:52Z",
+        "version": 6,
+        "changeset": 161111863,
+        "addr:city": "Linhares",
+        "addr:housenumber": "396",
+        "addr:postcode": "29901-627",
+        "addr:street": "Avenida Filogônio Peixoto",
+        "addr:suburb": "Aviso",
+        "amenity": "school",
+        "name": "SESI - Serviço Social da Indústria",
+        "operator": "Serviço Social da Indústria",
+        "operator:type": "ngo",
+        "operator:wikidata": "Q6027748",
+        "religion": "none",
+        "website": "https://www.sesies.com.br/",
+        "id": "way/459873360"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.0617505,
+              -19.4073465
+            ],
+            [
+              -40.0617998,
+              -19.4084651
+            ],
+            [
+              -40.0599802,
+              -19.4081393
+            ],
+            [
+              -40.0586331,
+              -19.4077801
+            ],
+            [
+              -40.0589917,
+              -19.4068641
+            ],
+            [
+              -40.0592264,
+              -19.4069373
+            ],
+            [
+              -40.0594231,
+              -19.4066226
+            ],
+            [
+              -40.0617505,
+              -19.4073465
             ]
           ]
         ]
@@ -1337,38 +1448,6 @@
               -40.0587381,
               -19.3723456
             ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/228459372",
-      "properties": {
-        "timestamp": "2022-07-05T18:41:56Z",
-        "version": 3,
-        "changeset": 123246894,
-        "addr:postcode": "29901-250",
-        "addr:street": "Rua Maranhão",
-        "addr:suburb": "Aviso",
-        "amenity": "school",
-        "name": "EMEF Prefeito Roberto Calmon",
-        "phone": "+55 27 3373 3456",
-        "ref": "INEP-32022107",
-        "religion": "none",
-        "source": "INEP",
-        "id": "way/228459372"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -40.0531702,
-            -19.4032944
-          ],
-          [
-            -40.0531273,
-            -19.403135
           ]
         ]
       }

@@ -3,6 +3,33 @@
   "features": [
     {
       "type": "Feature",
+      "id": "node/5254201828",
+      "properties": {
+        "timestamp": "2025-01-07T21:14:33Z",
+        "version": 3,
+        "changeset": 161111571,
+        "addr:city": "Taiobeiras",
+        "addr:housenumber": "66",
+        "addr:postcode": "39550-000",
+        "addr:street": "Rua Grão Mogol",
+        "addr:suburb": "Centro",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "internet_access": "wlan",
+        "name": "Instituto de Atendimento Multidisciplinar à Saúde",
+        "id": "node/5254201828"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.2316569,
+          -15.8103854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/11018779718",
       "properties": {
         "timestamp": "2023-07-01T21:42:20Z",
@@ -24,6 +51,62 @@
         "coordinates": [
           -42.2254956,
           -15.815645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12481636384",
+      "properties": {
+        "timestamp": "2025-01-07T21:14:33Z",
+        "version": 1,
+        "changeset": 161111571,
+        "addr:city": "Taiobeiras",
+        "addr:housenumber": "483",
+        "addr:postcode": "39550-000",
+        "addr:street": "Rua dos Pereiras",
+        "addr:suburb": "Centro",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "psychiatry;child_psychiatry",
+        "name": "Centro de Atenção Psicossocial de Taiobeiras - Caps",
+        "operator": "Município de Taiobeiras",
+        "operator:type": "public",
+        "id": "node/12481636384"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.2315175,
+          -15.8109344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12481636385",
+      "properties": {
+        "timestamp": "2025-01-07T21:14:33Z",
+        "version": 1,
+        "changeset": 161111571,
+        "addr:city": "Taiobeiras",
+        "addr:housenumber": "20",
+        "addr:postcode": "39550-000",
+        "addr:street": "Rua Grão Mogol",
+        "addr:suburb": "Centro",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Policlínica Municipal",
+        "operator": "Município de Taiobeiras",
+        "operator:type": "public",
+        "id": "node/12481636385"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.2317842,
+          -15.810741
         ]
       }
     }

@@ -16336,6 +16336,55 @@
     },
     {
       "type": "Feature",
+      "id": "way/53752198",
+      "properties": {
+        "timestamp": "2019-03-19T05:51:32Z",
+        "version": 4,
+        "changeset": 68281806,
+        "addr:city": "Rio de Janeiro",
+        "addr:housenumber": "86",
+        "addr:postcode": "20021-180",
+        "addr:street": "Rua da Lapa",
+        "addr:suburb": "Lapa",
+        "building": "yes",
+        "leisure": "sports_centre",
+        "name": "ACM",
+        "phone": "+55 21 2509 5727",
+        "short_name": "Associação Cristã de Moços",
+        "sport": "multi",
+        "website": "https://acmrio.org.br/sede/",
+        "id": "way/53752198"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.1780115,
+              -22.9155979
+            ],
+            [
+              -43.1781478,
+              -22.9151859
+            ],
+            [
+              -43.1783976,
+              -22.9152561
+            ],
+            [
+              -43.1782613,
+              -22.915668
+            ],
+            [
+              -43.1780115,
+              -22.9155979
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/54856733",
       "properties": {
         "timestamp": "2024-04-08T22:20:33Z",
@@ -121603,6 +121652,42 @@
         "coordinates": [
           -43.4729116,
           -23.0304514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12286088183",
+      "properties": {
+        "timestamp": "2025-01-07T21:04:04Z",
+        "version": 5,
+        "changeset": 161111282,
+        "addr:city": "Rio de Janeiro",
+        "addr:housenumber": "70",
+        "addr:postcode": "21040290",
+        "addr:street": "Rua Vieira Ferreira",
+        "addr:suburb": "Bonsucesso",
+        "currency:XBT": "yes",
+        "description": "CENTRO DE TREINAMENTO E ESTANDE DE TIRO  MONTE CASTELO, COM LOJA TÁTICA E VENDA DE EQUIPAMENTOS TÁTICOS, AULA DE ARCO E FLECHA, AULAS DE BOXE E DE TIRO DE AR COMPRIMIDO",
+        "leisure": "sports_centre",
+        "name": "CENTRO DE TREINAMENTO MONTE CASTELO",
+        "opening_hours": "Mo-Su 10:00-20:00",
+        "operator": "LOJA TÁTICA CTMC",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:cryptocurrencies": "yes",
+        "payment:debit_cards": "yes",
+        "payment:lightning": "yes",
+        "payment:onchain": "yes",
+        "phone": "+5521970786668",
+        "sport": "shooting",
+        "id": "node/12286088183"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2515495,
+          -22.8625173
         ]
       }
     },

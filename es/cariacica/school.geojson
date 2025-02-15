@@ -1276,6 +1276,77 @@
     },
     {
       "type": "Feature",
+      "id": "way/1332618837",
+      "properties": {
+        "timestamp": "2025-01-09T00:25:10Z",
+        "version": 3,
+        "changeset": 161152213,
+        "addr:city": "Cariacica",
+        "addr:housenumber": "39",
+        "addr:postcode": "29144-742",
+        "addr:street": "Rua Tiradentes",
+        "addr:suburb": "Vila Rica",
+        "amenity": "school",
+        "building:levels": "1",
+        "name": "EMEF Valdeci Cezário",
+        "operator": "Prefeitura Municipal de Cariacica",
+        "operator:type": "government",
+        "id": "way/1332618837"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.4033531,
+              -20.3566828
+            ],
+            [
+              -40.4036207,
+              -20.3563116
+            ],
+            [
+              -40.4037532,
+              -20.3563216
+            ],
+            [
+              -40.4037796,
+              -20.3564483
+            ],
+            [
+              -40.4037444,
+              -20.3564635
+            ],
+            [
+              -40.4036286,
+              -20.3566954
+            ],
+            [
+              -40.4036215,
+              -20.3567451
+            ],
+            [
+              -40.4035076,
+              -20.3567798
+            ],
+            [
+              -40.4034688,
+              -20.3567904
+            ],
+            [
+              -40.4034052,
+              -20.3568078
+            ],
+            [
+              -40.4033531,
+              -20.3566828
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1332620726",
       "properties": {
         "timestamp": "2024-12-23T22:36:07Z",
@@ -4998,6 +5069,24 @@
         "coordinates": [
           -40.3735191,
           -20.3064534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12485407386",
+      "properties": {
+        "timestamp": "2025-01-09T00:25:10Z",
+        "version": 1,
+        "changeset": 161152213,
+        "barrier": "gate",
+        "id": "node/12485407386"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.4034688,
+          -20.3567904
         ]
       }
     }

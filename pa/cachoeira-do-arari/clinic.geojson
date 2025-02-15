@@ -73,6 +73,73 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1349139238",
+      "properties": {
+        "timestamp": "2025-01-09T17:36:04Z",
+        "version": 4,
+        "changeset": 161178909,
+        "addr:street": "Avenida Deputado José Rodrigues Viana",
+        "amenity": "clinic",
+        "building": "yes",
+        "building:levels": "1",
+        "healthcare": "clinic",
+        "name": "Unidade Básica de Saúde do Choque",
+        "roof:colour": "#fa8a6e",
+        "roof:shape": "gabled",
+        "id": "way/1349139238"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.9595392,
+              -1.008155
+            ],
+            [
+              -48.9596324,
+              -1.0080399
+            ],
+            [
+              -48.9597438,
+              -1.0081315
+            ],
+            [
+              -48.959648,
+              -1.00825
+            ],
+            [
+              -48.9595936,
+              -1.0082025
+            ],
+            [
+              -48.9595392,
+              -1.008155
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12486900119",
+      "properties": {
+        "timestamp": "2025-01-09T17:28:30Z",
+        "version": 1,
+        "changeset": 161178667,
+        "entrance": "main",
+        "id": "node/12486900119"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.9595936,
+          -1.0082025
+        ]
+      }
     }
   ]
 }

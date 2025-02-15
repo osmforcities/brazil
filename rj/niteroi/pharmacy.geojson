@@ -600,6 +600,51 @@
     },
     {
       "type": "Feature",
+      "id": "way/264827768",
+      "properties": {
+        "timestamp": "2025-01-08T21:53:08Z",
+        "version": 5,
+        "changeset": 161149648,
+        "addr:housenumber": "195",
+        "addr:street": "Rua Gavião Peixoto",
+        "amenity": "pharmacy",
+        "brand": "Venancio",
+        "building": "yes",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Drogaria Venancio",
+        "id": "way/264827768"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.1093433,
+              -22.9041896
+            ],
+            [
+              -43.1093027,
+              -22.9042258
+            ],
+            [
+              -43.1092476,
+              -22.9041733
+            ],
+            [
+              -43.1092882,
+              -22.9041371
+            ],
+            [
+              -43.1093433,
+              -22.9041896
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/291394637",
       "properties": {
         "timestamp": "2023-12-08T21:12:12Z",
@@ -2747,6 +2792,29 @@
         "coordinates": [
           -43.1220207,
           -22.9034784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5709761937",
+      "properties": {
+        "timestamp": "2025-01-08T21:53:08Z",
+        "version": 2,
+        "changeset": 161149648,
+        "addr:housenumber": "191",
+        "addr:street": "Rua Gavião Peixoto",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Drogaria Pacheco",
+        "id": "node/5709761937"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1093531,
+          -22.9041698
         ]
       }
     },

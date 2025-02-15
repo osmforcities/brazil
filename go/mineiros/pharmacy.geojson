@@ -123,6 +123,51 @@
     },
     {
       "type": "Feature",
+      "id": "way/718118434",
+      "properties": {
+        "timestamp": "2025-01-08T14:00:26Z",
+        "version": 2,
+        "changeset": 161134858,
+        "amenity": "pharmacy",
+        "building": "yes",
+        "check_date": "2025-01-08",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Drogão Popular",
+        "opening_hours": "24/7",
+        "phone": "+55 64 3661 1387",
+        "id": "way/718118434"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -52.5505779,
+              -17.5630513
+            ],
+            [
+              -52.5503886,
+              -17.5629905
+            ],
+            [
+              -52.5504103,
+              -17.5629292
+            ],
+            [
+              -52.5505996,
+              -17.5629901
+            ],
+            [
+              -52.5505779,
+              -17.5630513
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/721156505",
       "properties": {
         "timestamp": "2019-09-02T12:22:53Z",
@@ -370,6 +415,27 @@
         "coordinates": [
           -52.5487619,
           -17.56259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12484484030",
+      "properties": {
+        "timestamp": "2025-01-08T14:00:26Z",
+        "version": 1,
+        "changeset": 161134858,
+        "amenity": "pharmacy",
+        "check_date": "2025-01-07",
+        "healthcare": "pharmacy",
+        "name": "Drogashop",
+        "id": "node/12484484030"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.5642525,
+          -17.5662539
         ]
       }
     }

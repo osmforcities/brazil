@@ -489,6 +489,66 @@
     },
     {
       "type": "Feature",
+      "id": "way/1346759372",
+      "properties": {
+        "timestamp": "2025-01-08T21:57:22Z",
+        "version": 2,
+        "changeset": 161149744,
+        "addr:city": "Cariacica",
+        "addr:postcode": "29140-490",
+        "addr:street": "Avenida Amazonas",
+        "addr:suburb": "Jardim América",
+        "government": "archive",
+        "name": "Arquivo da Secretaria Municipal de Educação de Cariacica",
+        "office": "government",
+        "id": "way/1346759372"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.359036,
+              -20.3360365
+            ],
+            [
+              -40.3590385,
+              -20.3361044
+            ],
+            [
+              -40.3589001,
+              -20.3361186
+            ],
+            [
+              -40.3587315,
+              -20.336136
+            ],
+            [
+              -40.3586155,
+              -20.3360749
+            ],
+            [
+              -40.3586834,
+              -20.3360009
+            ],
+            [
+              -40.3587016,
+              -20.3359811
+            ],
+            [
+              -40.3588076,
+              -20.3358657
+            ],
+            [
+              -40.359036,
+              -20.3360365
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/5711557312",
       "properties": {
         "timestamp": "2020-06-15T16:16:03Z",
@@ -530,6 +590,24 @@
         "coordinates": [
           -40.3578797,
           -20.3299454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12485259697",
+      "properties": {
+        "timestamp": "2025-01-08T21:57:22Z",
+        "version": 1,
+        "changeset": 161149744,
+        "barrier": "gate",
+        "id": "node/12485259697"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.3586834,
+          -20.3360009
         ]
       }
     }

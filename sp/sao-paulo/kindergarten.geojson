@@ -3899,6 +3899,79 @@
     },
     {
       "type": "Feature",
+      "id": "way/986293856",
+      "properties": {
+        "timestamp": "2025-01-08T06:33:48Z",
+        "version": 2,
+        "changeset": 161121146,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "160",
+        "addr:postcode": "03065-040",
+        "addr:street": "Rua Cristais",
+        "addr:suburb": "Tatuapé",
+        "amenity": "kindergarten",
+        "barrier": "wall",
+        "name": "Cei Tatuapé",
+        "id": "way/986293856"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.5775847,
+              -23.5393949
+            ],
+            [
+              -46.5778612,
+              -23.5393737
+            ],
+            [
+              -46.5781157,
+              -23.5393542
+            ],
+            [
+              -46.5781706,
+              -23.5394126
+            ],
+            [
+              -46.578199,
+              -23.5398505
+            ],
+            [
+              -46.5781915,
+              -23.5398733
+            ],
+            [
+              -46.5781785,
+              -23.5399008
+            ],
+            [
+              -46.5781563,
+              -23.5399235
+            ],
+            [
+              -46.5781341,
+              -23.539939
+            ],
+            [
+              -46.5781146,
+              -23.5399426
+            ],
+            [
+              -46.5775002,
+              -23.5398159
+            ],
+            [
+              -46.5775847,
+              -23.5393949
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1033460499",
       "properties": {
         "timestamp": "2024-11-21T02:29:59Z",
@@ -5451,6 +5524,28 @@
         "coordinates": [
           -46.6171359,
           -23.5487015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9117328961",
+      "properties": {
+        "timestamp": "2021-09-23T14:38:31Z",
+        "version": 1,
+        "changeset": 111597721,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "160",
+        "addr:postcode": "03065-040",
+        "addr:street": "Rua Cristais",
+        "entrance": "yes",
+        "id": "node/9117328961"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5778612,
+          -23.5393737
         ]
       }
     },

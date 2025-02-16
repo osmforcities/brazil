@@ -3,6 +3,52 @@
   "features": [
     {
       "type": "Feature",
+      "id": "way/616816725",
+      "properties": {
+        "timestamp": "2025-01-10T08:41:58Z",
+        "version": 5,
+        "changeset": 161196259,
+        "admin_level": "8",
+        "building": "public",
+        "government": "legislative",
+        "name": "Câmara Municipal",
+        "office": "government",
+        "id": "way/616816725"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -45.7047532,
+              -23.1002289
+            ],
+            [
+              -45.7047263,
+              -23.1002252
+            ],
+            [
+              -45.7043865,
+              -23.1001778
+            ],
+            [
+              -45.7044202,
+              -23.1000015
+            ],
+            [
+              -45.7047768,
+              -23.1000607
+            ],
+            [
+              -45.7047532,
+              -23.1002289
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/829835133",
       "properties": {
         "timestamp": "2020-07-24T19:32:08Z",
@@ -166,6 +212,27 @@
               -23.1016076
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4597394389",
+      "properties": {
+        "timestamp": "2025-01-10T08:40:06Z",
+        "version": 2,
+        "changeset": 161196220,
+        "amenity": "townhall",
+        "name": "Prefeitura de caçapava",
+        "name:pt": "Prefeitura de caçapava",
+        "office": "government",
+        "id": "node/4597394389"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.7074118,
+          -23.0982975
         ]
       }
     }

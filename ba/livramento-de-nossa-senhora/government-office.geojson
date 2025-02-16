@@ -3,6 +3,86 @@
   "features": [
     {
       "type": "Feature",
+      "id": "relation/18501942",
+      "properties": {
+        "timestamp": "2025-01-11T14:32:36Z",
+        "version": 2,
+        "changeset": 161241396,
+        "addr:city": "Livramento De Nossa Senhora",
+        "addr:housenumber": "s/n",
+        "addr:postcode": "46140-000",
+        "addr:street": "Avenida Antigo Campo De Pouso",
+        "addr:suburb": "Jurema",
+        "building": "yes",
+        "government": "administrative",
+        "name": "Secretaria De Educação | SEDUC | Poder Executivo | Município De Livramento De Nossa Senhora, BA",
+        "office": "government",
+        "opening_hours": "Mo-Th 08:00-17:00. Fr 08:00-12:00",
+        "phone": "+55 (77) 3444-1799",
+        "smoking": "no",
+        "type": "multipolygon",
+        "website": "https://www.livramento.ba.gov.br/",
+        "wheelchair": "yes",
+        "id": "relation/18501942"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.8585711,
+              -13.6626726
+            ],
+            [
+              -41.8585946,
+              -13.6626503
+            ],
+            [
+              -41.8586383,
+              -13.66269
+            ],
+            [
+              -41.8586115,
+              -13.6627127
+            ],
+            [
+              -41.8587248,
+              -13.662825
+            ],
+            [
+              -41.8586454,
+              -13.6628995
+            ],
+            [
+              -41.8585332,
+              -13.6627871
+            ],
+            [
+              -41.8584765,
+              -13.6627308
+            ],
+            [
+              -41.8583825,
+              -13.662635
+            ],
+            [
+              -41.8584609,
+              -13.6625615
+            ],
+            [
+              -41.8585548,
+              -13.6626564
+            ],
+            [
+              -41.8585711,
+              -13.6626726
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1347409629",
       "properties": {
         "timestamp": "2025-01-07T00:46:04Z",
@@ -395,6 +475,37 @@
     },
     {
       "type": "Feature",
+      "id": "node/12463765152",
+      "properties": {
+        "timestamp": "2025-01-11T14:07:08Z",
+        "version": 3,
+        "changeset": 161240507,
+        "addr:city": "Livramento de Nossa Senhora",
+        "addr:housenumber": "94",
+        "addr:postcode": "46140-000",
+        "addr:street": "Praça Dom Hélio Paschoal",
+        "addr:suburb": "Centro",
+        "government": "government",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "Ouvidoria-Geral Do Município | OGM | CGM | Poder Executivo | Livramento De Nossa Senhora, BA",
+        "office": "government",
+        "opening_hours": "Mo-Th 08:00-17:00",
+        "phone": "+55 (77) 3444-1954",
+        "website": "https://www.livramento.ba.gov.br/",
+        "wheelchair": "limited",
+        "id": "node/12463765152"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.8417714,
+          -13.6509528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/12473853942",
       "properties": {
         "timestamp": "2025-01-04T16:45:10Z",
@@ -421,6 +532,128 @@
         "coordinates": [
           -41.8585451,
           -13.6627232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12474069784",
+      "properties": {
+        "timestamp": "2025-01-11T14:07:08Z",
+        "version": 2,
+        "changeset": 161240507,
+        "addr:city": "Livramento de Nossa Senhora",
+        "addr:housenumber": "495",
+        "addr:postcode": "46140-000",
+        "addr:street": "Avenida Lindemberg Cardoso",
+        "addr:suburb": "Taquari",
+        "government": "social_services",
+        "mobile": "+55 (77) 98814-9428",
+        "name": "Secretaria De Desenvolvimento Social | SEDES | Poder Executivo | Livramento De Nossa Senhora, BA",
+        "office": "government",
+        "opening_hours": "Mo-Th 08:00-17:00, Fr 08:00-12:00",
+        "phone": "+55 (77) 98814-9428",
+        "website": "https://www.livramento.ba.gov.br/",
+        "wheelchair": "limited",
+        "id": "node/12474069784"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.8464466,
+          -13.6622262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12474137456",
+      "properties": {
+        "timestamp": "2025-01-11T14:07:08Z",
+        "version": 2,
+        "changeset": 161240507,
+        "addr:city": "Livramento de Nossa Senhora",
+        "addr:housenumber": "495",
+        "addr:postcode": "46140-000",
+        "addr:street": "Avenida Lindemberg Cardoso",
+        "addr:suburb": "Taquari",
+        "government": "administrative",
+        "name": "Secretaria De Agricultura, Recursos Hídricos e Meio Ambiente | SEAGRI | Poder Executivo | Livramento De Nossa Senhora, BA",
+        "office": "government",
+        "opening_hours": "Mo-Th 08:00-17:00, Fr 08:00-12:00",
+        "phone": "+55 (77) 3444-1814",
+        "smoking": "no",
+        "website": "https://www.livramento.ba.gov.br/",
+        "wheelchair": "limited",
+        "id": "node/12474137456"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.8465091,
+          -13.6622382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12479642950",
+      "properties": {
+        "timestamp": "2025-01-11T14:07:08Z",
+        "version": 2,
+        "changeset": 161240507,
+        "addr:city": "Livramento de Nossa Senhora",
+        "addr:housenumber": "94",
+        "addr:postcode": "46140-000",
+        "addr:street": "Praça Dom Hélio Paschoal",
+        "addr:suburb": "Centro",
+        "government": "administrative",
+        "name": "Secretaria De Administração, Planejamento e Desenvolvimento | SEAD | Poder Executivo | Livramento De Nossa Senhora, BA",
+        "office": "government",
+        "opening_hours": "Mo-Fr 08:00-17:00, Fr 08:00-12-00",
+        "phone": "+55 (77) 3444-2900",
+        "smoking": "no",
+        "website": "https://www.livramento.ba.gov.br/",
+        "id": "node/12479642950"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.8416817,
+          -13.65094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12492423112",
+      "properties": {
+        "timestamp": "2025-01-11T14:40:25Z",
+        "version": 1,
+        "changeset": 161241715,
+        "addr:city": "Livramento de Nossa Senhora",
+        "addr:housenumber": "27",
+        "addr:postcode": "46140-000",
+        "addr:street": "Praça Senador Tanajura",
+        "addr:suburb": "Centro",
+        "government": "healthcare",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "Secretaria De Saúde | SESAU | Poder Executivo | Livramento De Nossa Senhora, BA",
+        "office": "government",
+        "official_name": "Secretaria De Saúde | SESAU | Poder Executivo | Livramento De Nossa Senhora, BA",
+        "opening_hours": "Mo-Fr 08:00-12:00, Mo-Th 13:30-17:00",
+        "phone": "+55 (77) 3444-1925",
+        "smoking": "no",
+        "website": "https://www.livramento.ba.gov.br/",
+        "wheelchair": "yes",
+        "id": "node/12492423112"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.8406666,
+          -13.6489562
         ]
       }
     }

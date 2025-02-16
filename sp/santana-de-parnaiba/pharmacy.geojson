@@ -3,6 +3,53 @@
   "features": [
     {
       "type": "Feature",
+      "id": "way/257237459",
+      "properties": {
+        "timestamp": "2025-01-11T20:36:30Z",
+        "version": 3,
+        "changeset": 161253291,
+        "addr:street": "Avenida Doutor Yojiro Takaoka",
+        "amenity": "pharmacy",
+        "brand": "Droga Raia",
+        "brand:wikidata": "Q10357101",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Droga Raia",
+        "opening_hours": "24/7",
+        "source": "Bing",
+        "wheelchair": "yes",
+        "id": "way/257237459"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.871366,
+              -23.4641821
+            ],
+            [
+              -46.8712321,
+              -23.4638692
+            ],
+            [
+              -46.8714826,
+              -23.463779
+            ],
+            [
+              -46.8716165,
+              -23.4640919
+            ],
+            [
+              -46.871366,
+              -23.4641821
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1174573772",
       "properties": {
         "timestamp": "2023-05-20T15:50:23Z",
@@ -99,6 +146,33 @@
     },
     {
       "type": "Feature",
+      "id": "node/4923406873",
+      "properties": {
+        "timestamp": "2025-01-11T20:18:52Z",
+        "version": 4,
+        "changeset": 161252785,
+        "addr:street": "Avenida Alphaville",
+        "amenity": "pharmacy",
+        "brand": "Drogaria São Paulo",
+        "brand:wikidata": "Q5308184",
+        "brand:wikipedia": "en:Grupo DPSP",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Drogaria São Paulo",
+        "wheelchair": "yes",
+        "id": "node/4923406873"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.8713339,
+          -23.4699853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/9088905709",
       "properties": {
         "timestamp": "2021-09-13T18:20:50Z",
@@ -144,6 +218,33 @@
         "coordinates": [
           -46.8974303,
           -23.4051917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10914594658",
+      "properties": {
+        "timestamp": "2025-01-11T20:40:09Z",
+        "version": 2,
+        "changeset": 161253392,
+        "addr:street": "Avenida Doutor Yojiro Takaoka",
+        "amenity": "pharmacy",
+        "brand": "Drogaria São Paulo",
+        "brand:wikidata": "Q5308184",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Drogaria São Paulo",
+        "opening_hours": "Mo-Su,PH 07:00-23:00",
+        "wheelchair": "yes",
+        "id": "node/10914594658"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.8725723,
+          -23.4637137
         ]
       }
     },

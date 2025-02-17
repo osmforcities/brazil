@@ -222,6 +222,72 @@
     },
     {
       "type": "Feature",
+      "id": "way/332339142",
+      "properties": {
+        "timestamp": "2025-01-13T02:45:14Z",
+        "version": 6,
+        "changeset": 161293703,
+        "addr:housenumber": "2553",
+        "addr:postcode": "95020-520",
+        "addr:street": "Rua Sinimbu",
+        "amenity": "school",
+        "email": "csc@colegiosaocarlos.com.br",
+        "fee": "yes",
+        "name": "Colégio São Carlos",
+        "phone": "+55 54 3220-3700",
+        "website": "https://www.colegiosaocarlos.com.br/",
+        "id": "way/332339142"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.1883039,
+              -29.1689076
+            ],
+            [
+              -51.1877489,
+              -29.1689062
+            ],
+            [
+              -51.18717,
+              -29.1689047
+            ],
+            [
+              -51.1871803,
+              -29.1684458
+            ],
+            [
+              -51.1874751,
+              -29.1684432
+            ],
+            [
+              -51.1874776,
+              -29.1685111
+            ],
+            [
+              -51.1878855,
+              -29.1685145
+            ],
+            [
+              -51.1878898,
+              -29.1685839
+            ],
+            [
+              -51.1883157,
+              -29.1686153
+            ],
+            [
+              -51.1883039,
+              -29.1689076
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/335989906",
       "properties": {
         "timestamp": "2019-05-06T17:14:16Z",
@@ -2382,6 +2448,24 @@
               -29.231865
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1598752559",
+      "properties": {
+        "timestamp": "2025-01-13T02:45:14Z",
+        "version": 5,
+        "changeset": 161293703,
+        "highway": "traffic_signals",
+        "id": "node/1598752559"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1877489,
+          -29.1689062
         ]
       }
     },

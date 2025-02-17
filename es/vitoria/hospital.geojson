@@ -3439,6 +3439,103 @@
     },
     {
       "type": "Feature",
+      "id": "way/1344568426",
+      "properties": {
+        "timestamp": "2025-01-13T21:24:22Z",
+        "version": 2,
+        "changeset": 161325467,
+        "addr:city": "Vitória",
+        "addr:postcode": "29060-770",
+        "addr:street": "Avenida Saturnino Rangel Mauro",
+        "addr:suburb": "Pontal de Camburi",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general;ophthalmology;anaesthetics;otolaryngology;neurology;urology;paediatrics",
+        "internet_access": "wlan",
+        "level": "2",
+        "name": "CEUV - Centro de Especialidades Unimed Vitória",
+        "operator": "Unimed",
+        "operator:type": "private",
+        "operator:wikidata": "Q7865295",
+        "phone": "2732003553",
+        "website": "http://www.unimed.coop.br/vitoria/",
+        "wheelchair": "yes",
+        "id": "way/1344568426"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.2917665,
+              -20.2921395
+            ],
+            [
+              -40.291776,
+              -20.2921551
+            ],
+            [
+              -40.2917475,
+              -20.2921722
+            ],
+            [
+              -40.291786,
+              -20.2922209
+            ],
+            [
+              -40.2916755,
+              -20.2922977
+            ],
+            [
+              -40.2916826,
+              -20.2923096
+            ],
+            [
+              -40.2915769,
+              -20.2923773
+            ],
+            [
+              -40.2914733,
+              -20.2922479
+            ],
+            [
+              -40.291373,
+              -20.292115
+            ],
+            [
+              -40.2913835,
+              -20.2921077
+            ],
+            [
+              -40.2913958,
+              -20.2920991
+            ],
+            [
+              -40.2914299,
+              -20.2920795
+            ],
+            [
+              -40.2916248,
+              -20.2919672
+            ],
+            [
+              -40.2916557,
+              -20.2919976
+            ],
+            [
+              -40.2917273,
+              -20.292087
+            ],
+            [
+              -40.2917665,
+              -20.2921395
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/51400138",
       "properties": {
         "timestamp": "2017-11-18T21:23:42Z",
@@ -3534,6 +3631,42 @@
         "coordinates": [
           -40.3174012,
           -20.2999576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12499061534",
+      "properties": {
+        "timestamp": "2025-01-13T21:24:22Z",
+        "version": 1,
+        "changeset": 161325467,
+        "barrier": "gate",
+        "id": "node/12499061534"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.2914299,
+          -20.2920795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12499061535",
+      "properties": {
+        "timestamp": "2025-01-13T21:24:22Z",
+        "version": 1,
+        "changeset": 161325467,
+        "barrier": "gate",
+        "id": "node/12499061535"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.2913835,
+          -20.2921077
         ]
       }
     }

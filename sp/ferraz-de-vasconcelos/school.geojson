@@ -3,6 +3,114 @@
   "features": [
     {
       "type": "Feature",
+      "id": "relation/15798961",
+      "properties": {
+        "timestamp": "2025-01-13T15:58:30Z",
+        "version": 2,
+        "changeset": 161315480,
+        "addr:city": "Ferraz de Vasconcelos",
+        "addr:housenumber": "100",
+        "addr:street": "Rua Kango Takeuti",
+        "addr:suburb": "Vila Americano",
+        "amenity": "school",
+        "barrier": "wall",
+        "email": "e007274a@educacao.sp.gov.br",
+        "phone": "+55 11 4674 0105",
+        "religion": "none",
+        "short_name": "E.E Iljima",
+        "type": "multipolygon",
+        "id": "relation/15798961"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.3824229,
+              -23.5466365
+            ],
+            [
+              -46.3818334,
+              -23.5464848
+            ],
+            [
+              -46.3823915,
+              -23.54605
+            ],
+            [
+              -46.3824592,
+              -23.5460248
+            ],
+            [
+              -46.3825304,
+              -23.5460205
+            ],
+            [
+              -46.3832756,
+              -23.5461963
+            ],
+            [
+              -46.3833009,
+              -23.5462111
+            ],
+            [
+              -46.3833227,
+              -23.5462437
+            ],
+            [
+              -46.3833388,
+              -23.5462627
+            ],
+            [
+              -46.3833422,
+              -23.5463027
+            ],
+            [
+              -46.3833307,
+              -23.5463427
+            ],
+            [
+              -46.3832768,
+              -23.5464027
+            ],
+            [
+              -46.3831045,
+              -23.5466005
+            ],
+            [
+              -46.3830241,
+              -23.5467574
+            ],
+            [
+              -46.3829989,
+              -23.54677
+            ],
+            [
+              -46.3829644,
+              -23.5467742
+            ],
+            [
+              -46.3829334,
+              -23.5467679
+            ],
+            [
+              -46.3824922,
+              -23.5466543
+            ],
+            [
+              -46.3824575,
+              -23.5466454
+            ],
+            [
+              -46.3824229,
+              -23.5466365
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/444841925",
       "properties": {
         "timestamp": "2023-11-18T23:44:53Z",
@@ -1177,6 +1285,34 @@
     },
     {
       "type": "Feature",
+      "id": "way/1167999004",
+      "properties": {
+        "timestamp": "2023-05-02T16:04:53Z",
+        "version": 1,
+        "changeset": 135623434,
+        "barrier": "gate",
+        "id": "way/1167999004"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.3824229,
+            -23.5466365
+          ],
+          [
+            -46.3824575,
+            -23.5466454
+          ],
+          [
+            -46.3824922,
+            -23.5466543
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/5864116163",
       "properties": {
         "timestamp": "2018-08-28T19:02:31Z",
@@ -1238,6 +1374,28 @@
         "coordinates": [
           -46.3680138,
           -23.5700968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10862684680",
+      "properties": {
+        "timestamp": "2023-05-02T16:04:53Z",
+        "version": 1,
+        "changeset": 135623434,
+        "addr:city": "Ferraz de Vasconcelos",
+        "addr:housenumber": "100",
+        "addr:postcode": "08533-210",
+        "addr:street": "Rua Kango Takeuti",
+        "entrance": "yes",
+        "id": "node/10862684680"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.3824575,
+          -23.5466454
         ]
       }
     },

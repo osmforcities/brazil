@@ -3,6 +3,52 @@
   "features": [
     {
       "type": "Feature",
+      "id": "way/682773483",
+      "properties": {
+        "timestamp": "2025-01-12T23:36:25Z",
+        "version": 3,
+        "changeset": 161291165,
+        "addr:city": "Amparo",
+        "addr:housenumber": "SEM NUMERO",
+        "addr:street": "Rua Alemanha",
+        "addr:suburb": "Jardim Camandocaia",
+        "amenity": "college",
+        "name": "Escola SESI-SP de Amparo (CE 356)",
+        "operator": "SESI SP",
+        "phone": "(19) 3807-2048",
+        "website": "https://www.sesisp.org.br/educacao/amparo",
+        "id": "way/682773483"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.7840584,
+              -22.7110631
+            ],
+            [
+              -46.7843504,
+              -22.7113227
+            ],
+            [
+              -46.7840991,
+              -22.7115725
+            ],
+            [
+              -46.7837965,
+              -22.7113211
+            ],
+            [
+              -46.7840584,
+              -22.7110631
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1159798346",
       "properties": {
         "timestamp": "2023-04-05T02:00:44Z",
@@ -52,6 +98,34 @@
               -22.706936
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3915648312",
+      "properties": {
+        "timestamp": "2025-01-12T23:54:03Z",
+        "version": 8,
+        "changeset": 161291465,
+        "addr:city": "Amparo",
+        "addr:housenumber": "295",
+        "addr:postcode": "13903-010",
+        "addr:street": "Rua 7 de Setembro",
+        "addr:suburb": "Jardim Silvana",
+        "amenity": "college",
+        "name": "Centro Paula Souza - ETEC João Belarmino (Liceu de Artes e Ofícios)",
+        "operator": "Centro Paula Souza",
+        "operator:type": "public",
+        "operator:wikidata": "Q52637715",
+        "website": "https://www.etecjoaobelarmino.com.br/",
+        "id": "node/3915648312"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7649219,
+          -22.7060693
         ]
       }
     }

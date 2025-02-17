@@ -922,6 +922,187 @@
     },
     {
       "type": "Feature",
+      "id": "way/146183619",
+      "properties": {
+        "timestamp": "2025-01-12T20:38:37Z",
+        "version": 8,
+        "changeset": 161286990,
+        "addr:city": "Caxias do Sul",
+        "addr:housenumber": "1547",
+        "addr:postcode": "95020-330",
+        "addr:street": "Rua Hércules Galló",
+        "addr:suburb": "Centro",
+        "capacity": "18413",
+        "leisure": "stadium",
+        "mobile": "+55 54 98111 0250",
+        "name": "Estádio Alfredo Jaconi",
+        "operator": "Esporte Clube Juventude",
+        "phone": "+55 54 3027 8700",
+        "source": "Bing",
+        "sport": "soccer",
+        "wheelchair": "limited",
+        "wikidata": "Q3311998",
+        "wikipedia": "en:Estádio Alfredo Jaconi",
+        "id": "way/146183619"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.1769997,
+              -29.1621482
+            ],
+            [
+              -51.1773119,
+              -29.1621492
+            ],
+            [
+              -51.1773114,
+              -29.1621824
+            ],
+            [
+              -51.1773092,
+              -29.1623456
+            ],
+            [
+              -51.1773086,
+              -29.1623847
+            ],
+            [
+              -51.1773082,
+              -29.1624136
+            ],
+            [
+              -51.1771369,
+              -29.1624126
+            ],
+            [
+              -51.1771243,
+              -29.1630385
+            ],
+            [
+              -51.1768557,
+              -29.1630339
+            ],
+            [
+              -51.1767449,
+              -29.163032
+            ],
+            [
+              -51.1767057,
+              -29.1630313
+            ],
+            [
+              -51.1765557,
+              -29.1630291
+            ],
+            [
+              -51.1763882,
+              -29.1630462
+            ],
+            [
+              -51.1762866,
+              -29.1630518
+            ],
+            [
+              -51.1761716,
+              -29.163053
+            ],
+            [
+              -51.176084,
+              -29.1630519
+            ],
+            [
+              -51.1759965,
+              -29.1630455
+            ],
+            [
+              -51.175911,
+              -29.1630373
+            ],
+            [
+              -51.175824,
+              -29.1630261
+            ],
+            [
+              -51.175703,
+              -29.163025
+            ],
+            [
+              -51.1755999,
+              -29.1630237
+            ],
+            [
+              -51.1755806,
+              -29.1614804
+            ],
+            [
+              -51.1755577,
+              -29.1614806
+            ],
+            [
+              -51.1755582,
+              -29.1614454
+            ],
+            [
+              -51.1755586,
+              -29.1614101
+            ],
+            [
+              -51.1759255,
+              -29.1614094
+            ],
+            [
+              -51.1762989,
+              -29.1614143
+            ],
+            [
+              -51.1766515,
+              -29.1614189
+            ],
+            [
+              -51.176648,
+              -29.1616287
+            ],
+            [
+              -51.1767035,
+              -29.1616306
+            ],
+            [
+              -51.1767044,
+              -29.1616521
+            ],
+            [
+              -51.1767053,
+              -29.1616736
+            ],
+            [
+              -51.1767748,
+              -29.1616964
+            ],
+            [
+              -51.176776,
+              -29.1618082
+            ],
+            [
+              -51.1767768,
+              -29.1618797
+            ],
+            [
+              -51.1770023,
+              -29.1618819
+            ],
+            [
+              -51.1769997,
+              -29.1621482
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/146183620",
       "properties": {
         "timestamp": "2022-11-22T23:54:11Z",
@@ -9260,6 +9441,47 @@
     },
     {
       "type": "Feature",
+      "id": "way/1350753186",
+      "properties": {
+        "timestamp": "2025-01-12T20:24:18Z",
+        "version": 1,
+        "changeset": 161286595,
+        "leisure": "pitch",
+        "lit": "yes",
+        "sport": "soccer",
+        "wheelchair": "limited",
+        "id": "way/1350753186"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.1765176,
+              -29.1618782
+            ],
+            [
+              -51.1765214,
+              -29.1628013
+            ],
+            [
+              -51.1758262,
+              -29.1628034
+            ],
+            [
+              -51.1758225,
+              -29.1618804
+            ],
+            [
+              -51.1765176,
+              -29.1618782
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/586678346",
       "properties": {
         "timestamp": "2022-04-26T14:48:01Z",
@@ -9515,6 +9737,26 @@
     },
     {
       "type": "Feature",
+      "id": "node/1594557951",
+      "properties": {
+        "timestamp": "2025-01-12T20:24:18Z",
+        "version": 3,
+        "changeset": 161286595,
+        "entrance": "yes",
+        "name": "Portão 1",
+        "ref": "1",
+        "id": "node/1594557951"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.175703,
+          -29.163025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/5712283869",
       "properties": {
         "timestamp": "2018-06-22T20:55:18Z",
@@ -9730,6 +9972,24 @@
     },
     {
       "type": "Feature",
+      "id": "node/8932927044",
+      "properties": {
+        "timestamp": "2025-01-12T20:24:18Z",
+        "version": 2,
+        "changeset": 161286595,
+        "barrier": "gate",
+        "id": "node/8932927044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1773092,
+          -29.1623456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/11134830332",
       "properties": {
         "timestamp": "2023-08-23T20:11:37Z",
@@ -9789,6 +10049,104 @@
         "coordinates": [
           -51.2039459,
           -29.1599691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12496775488",
+      "properties": {
+        "timestamp": "2025-01-12T20:24:18Z",
+        "version": 1,
+        "changeset": 161286595,
+        "entrance": "yes",
+        "name": "Portão 5 - Visitantes",
+        "ref": "5",
+        "id": "node/12496775488"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1767044,
+          -29.1616521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12496775637",
+      "properties": {
+        "timestamp": "2025-01-12T20:24:18Z",
+        "version": 1,
+        "changeset": 161286595,
+        "entrance": "emergency",
+        "id": "node/12496775637"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1755582,
+          -29.1614454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12496775652",
+      "properties": {
+        "timestamp": "2025-01-12T20:24:18Z",
+        "version": 1,
+        "changeset": 161286595,
+        "entrance": "yes",
+        "name": "Portão 4",
+        "ref": "4",
+        "id": "node/12496775652"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1773114,
+          -29.1621824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12496775653",
+      "properties": {
+        "timestamp": "2025-01-12T20:24:18Z",
+        "version": 1,
+        "changeset": 161286595,
+        "entrance": "yes",
+        "name": "Portão 3",
+        "ref": "3",
+        "id": "node/12496775653"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1773086,
+          -29.1623847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12496775654",
+      "properties": {
+        "timestamp": "2025-01-12T20:24:18Z",
+        "version": 1,
+        "changeset": 161286595,
+        "entrance": "yes",
+        "name": "Portão 2",
+        "ref": "2",
+        "id": "node/12496775654"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1767057,
+          -29.1630313
         ]
       }
     }

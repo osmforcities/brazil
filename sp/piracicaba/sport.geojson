@@ -7844,6 +7844,47 @@
     },
     {
       "type": "Feature",
+      "id": "way/1350713793",
+      "properties": {
+        "timestamp": "2025-01-12T17:52:40Z",
+        "version": 1,
+        "changeset": 161282196,
+        "access": "yes",
+        "leisure": "pitch",
+        "sport": "skateboard",
+        "surface": "concrete",
+        "id": "way/1350713793"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.6789573,
+              -22.6799012
+            ],
+            [
+              -47.6790431,
+              -22.6800471
+            ],
+            [
+              -47.6789198,
+              -22.6801089
+            ],
+            [
+              -47.678834,
+              -22.679963
+            ],
+            [
+              -47.6789573,
+              -22.6799012
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/423654779",
       "properties": {
         "timestamp": "2021-01-04T00:54:02Z",
@@ -9332,6 +9373,44 @@
         "coordinates": [
           -47.679013,
           -22.695419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12495839746",
+      "properties": {
+        "timestamp": "2025-01-12T13:39:26Z",
+        "version": 1,
+        "changeset": 161273162,
+        "leisure": "fitness_station",
+        "sport": "fitness",
+        "id": "node/12495839746"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.9253102,
+          -22.8365054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12496337718",
+      "properties": {
+        "timestamp": "2025-01-12T17:52:40Z",
+        "version": 1,
+        "changeset": 161282196,
+        "leisure": "fitness_station",
+        "sport": "fitness",
+        "id": "node/12496337718"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.6786928,
+          -22.6796985
         ]
       }
     }

@@ -3,6 +3,27 @@
   "features": [
     {
       "type": "Feature",
+      "id": "node/2805041589",
+      "properties": {
+        "timestamp": "2025-01-12T23:55:52Z",
+        "version": 3,
+        "changeset": 161291493,
+        "admin_level": "8",
+        "government": "legislative",
+        "name": "Câmara Municipal de Amparo",
+        "office": "government",
+        "id": "node/2805041589"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7651343,
+          -22.7032561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/6394757912",
       "properties": {
         "timestamp": "2022-04-20T16:42:04Z",
@@ -32,6 +53,33 @@
     },
     {
       "type": "Feature",
+      "id": "node/10678901705",
+      "properties": {
+        "timestamp": "2025-01-12T23:22:05Z",
+        "version": 3,
+        "changeset": 161290921,
+        "addr:housenumber": "200",
+        "addr:postcode": "13900-480",
+        "addr:street": "Rua José Fontana",
+        "government": "social_security",
+        "name": "Agência INSS Amparo",
+        "office": "government",
+        "opening_hours": "Mo-Fr 07:00-17:00",
+        "operator": "INSS",
+        "operator:wikidata": "Q10302614",
+        "phone": "3807-2977",
+        "id": "node/10678901705"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7700577,
+          -22.701416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/10687272408",
       "properties": {
         "timestamp": "2023-02-23T01:26:24Z",
@@ -49,6 +97,83 @@
         "coordinates": [
           -46.7552965,
           -22.6988394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10687276906",
+      "properties": {
+        "timestamp": "2025-01-12T23:57:01Z",
+        "version": 2,
+        "changeset": 161291510,
+        "addr:housenumber": "130",
+        "addr:postcode": "13900-029",
+        "addr:street": "Praça Tenente José Ferraz de Oliveira",
+        "government": "prosecutor",
+        "name": "Ministério Público do Estado de São Paulo",
+        "office": "government",
+        "opening_hours": "Mo-Fr 09:00-17:00",
+        "phone": "3807-6888",
+        "id": "node/10687276906"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7659323,
+          -22.7035788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10695804206",
+      "properties": {
+        "timestamp": "2025-01-12T23:14:30Z",
+        "version": 2,
+        "changeset": 161290802,
+        "addr:housenumber": "57",
+        "addr:postcode": "13900-030",
+        "addr:street": "Rua Capitão Miranda",
+        "government": "register_office",
+        "name": "Cartório Eleitoral Oitava Zona",
+        "name:pt": "Cartório Eleitoral Oitava Zona - Amparo",
+        "office": "government",
+        "phone": "3807-8324",
+        "id": "node/10695804206"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7671662,
+          -22.7016138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10729820606",
+      "properties": {
+        "timestamp": "2025-01-12T23:54:42Z",
+        "version": 4,
+        "changeset": 161291478,
+        "addr:housenumber": "104",
+        "addr:postcode": "13900-373",
+        "addr:street": "Rua Albino Alves",
+        "email": "contato@registrocivilamparo.com",
+        "government": "register_office",
+        "name": "Cartório Registro Civil Amparo",
+        "office": "government",
+        "opening_hours": "Mo-Fr 08:30-17:00",
+        "phone": "3817-1943",
+        "website": "https://www.registrocivilamparo.com/",
+        "id": "node/10729820606"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7673776,
+          -22.7053752
         ]
       }
     }

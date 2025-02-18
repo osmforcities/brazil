@@ -28315,6 +28315,85 @@
     },
     {
       "type": "Feature",
+      "id": "way/447002335",
+      "properties": {
+        "timestamp": "2025-01-15T18:49:52Z",
+        "version": 4,
+        "changeset": 161392028,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "50",
+        "addr:postcode": "08050-710",
+        "addr:street": "Avenida Laranja da China",
+        "addr:suburb": "Jardim das Camélias",
+        "amenity": "school",
+        "barrier": "wall",
+        "email": "e036778a@educacao.sp.gov.br",
+        "name": "Escola Estadual Luigi Pirandello",
+        "operator": "Secretaria da Educação",
+        "phone": "+55 11 2053-3644;+55 11 2053-4763",
+        "ref": "35036778",
+        "short_name": "EE Luigi Pirandello",
+        "wheelchair": "yes",
+        "id": "way/447002335"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.4628479,
+              -23.5125848
+            ],
+            [
+              -46.4627786,
+              -23.5129923
+            ],
+            [
+              -46.4627353,
+              -23.513006
+            ],
+            [
+              -46.4616218,
+              -23.512821
+            ],
+            [
+              -46.4617323,
+              -23.5122916
+            ],
+            [
+              -46.4623237,
+              -23.5119248
+            ],
+            [
+              -46.4623717,
+              -23.5119178
+            ],
+            [
+              -46.4624018,
+              -23.5119349
+            ],
+            [
+              -46.4624284,
+              -23.5119599
+            ],
+            [
+              -46.4628225,
+              -23.5125067
+            ],
+            [
+              -46.462841,
+              -23.5125525
+            ],
+            [
+              -46.4628479,
+              -23.5125848
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/449257224",
       "properties": {
         "timestamp": "2023-03-11T14:24:17Z",
@@ -84755,6 +84834,62 @@
     },
     {
       "type": "Feature",
+      "id": "way/1247068242",
+      "properties": {
+        "timestamp": "2025-01-15T23:47:20Z",
+        "version": 2,
+        "changeset": 161399427,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "304",
+        "addr:postcode": "02710-000",
+        "addr:street": "Avenida Professor Celestino Bourroul",
+        "amenity": "school",
+        "barrier": "wall",
+        "operator": "Secretaria da Educação do Estado de São Paulo",
+        "operator:type": "government",
+        "operator:wikidata": "Q10369245",
+        "religion": "none",
+        "short_name": "E.E Visconde de Taunay",
+        "id": "way/1247068242"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.6730664,
+              -23.5107049
+            ],
+            [
+              -46.6730344,
+              -23.5109031
+            ],
+            [
+              -46.6729865,
+              -23.5111995
+            ],
+            [
+              -46.6721306,
+              -23.5111947
+            ],
+            [
+              -46.6721333,
+              -23.5110545
+            ],
+            [
+              -46.672073,
+              -23.5106304
+            ],
+            [
+              -46.6730664,
+              -23.5107049
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1247068243",
       "properties": {
         "timestamp": "2024-02-07T03:58:05Z",
@@ -88829,6 +88964,45 @@
             [
               -46.5848089,
               -23.5395384
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1351546934",
+      "properties": {
+        "timestamp": "2025-01-15T11:46:48Z",
+        "version": 1,
+        "changeset": 161377686,
+        "amenity": "school",
+        "name": "CEI INDIR Maria Teresa de Macedo Costa",
+        "id": "way/1351546934"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.730604,
+              -23.5729874
+            ],
+            [
+              -46.7304579,
+              -23.5729644
+            ],
+            [
+              -46.7305567,
+              -23.5723621
+            ],
+            [
+              -46.7307129,
+              -23.5723858
+            ],
+            [
+              -46.730604,
+              -23.5729874
             ]
           ]
         ]
@@ -111654,6 +111828,27 @@
         "coordinates": [
           -46.6993457,
           -23.6456692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11593571555",
+      "properties": {
+        "timestamp": "2024-02-07T03:58:05Z",
+        "version": 1,
+        "changeset": 147159347,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "304",
+        "addr:postcode": "02710-000",
+        "addr:street": "Avenida Professor Celestino Bourroul",
+        "id": "node/11593571555"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6730344,
+          -23.5109031
         ]
       }
     },

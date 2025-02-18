@@ -1848,6 +1848,32 @@
     },
     {
       "type": "Feature",
+      "id": "node/1448719949",
+      "properties": {
+        "timestamp": "2025-01-15T20:01:36Z",
+        "version": 6,
+        "changeset": 161394048,
+        "addr:city": "Florianópolis",
+        "addr:housenumber": "952",
+        "addr:postcode": "88040-600",
+        "addr:street": "Rua Capitão Romualdo de Barros",
+        "addr:suburb": "Carvoeira",
+        "amenity": "pharmacy",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Farmácia do Nabil",
+        "id": "node/1448719949"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.5269699,
+          -27.6030597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/1453290642",
       "properties": {
         "timestamp": "2021-04-03T04:45:10Z",
@@ -2855,6 +2881,37 @@
         "coordinates": [
           -48.5508964,
           -27.5970547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6864205034",
+      "properties": {
+        "timestamp": "2025-01-15T20:01:36Z",
+        "version": 5,
+        "changeset": 161394048,
+        "addr:city": "Florianópolis",
+        "addr:postcode": "88040-600",
+        "addr:street": "Rua Capitão Romualdo de Barros",
+        "addr:suburb": "Carvoeira",
+        "amenity": "pharmacy",
+        "brand": "Droga Raia",
+        "brand:wikidata": "Q10357101",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Droga Raia",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "phone": "+55 48 99149 2113",
+        "website": "https://drogaraia.com.br/",
+        "id": "node/6864205034"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.528124,
+          -27.6036941
         ]
       }
     },

@@ -468,6 +468,74 @@
     },
     {
       "type": "Feature",
+      "id": "way/1347430197",
+      "properties": {
+        "timestamp": "2025-01-14T00:11:42Z",
+        "version": 3,
+        "changeset": 161328869,
+        "addr:city": "Livramento de Nossa Senhora",
+        "addr:housenumber": "87",
+        "addr:postcode": "46140-000",
+        "addr:street": "Rua Josias de Sousa Lessa",
+        "addr:suburb": "Estocada",
+        "air_conditioning": "no",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "psychiatry;psicologia;humanistic;neuropsychiatry;community",
+        "mobile": "+55 (77) 9 8884-1331",
+        "name": "Centro De Atenção Psicossocial | CAPS Tipo II Maria Da Conceição Silva Marques Souza | Livramento De Nossa Senhora, BA | SUS",
+        "opening_hours": "Mo-Th 08:00-15:00, Fr 08:00-12:00",
+        "website": "https://www.instagram.com/capslivramentobahia",
+        "wheelchair": "yes",
+        "id": "way/1347430197"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.8489503,
+              -13.6384996
+            ],
+            [
+              -41.8488672,
+              -13.6385845
+            ],
+            [
+              -41.8488278,
+              -13.6386251
+            ],
+            [
+              -41.8487841,
+              -13.6386695
+            ],
+            [
+              -41.8486899,
+              -13.6385799
+            ],
+            [
+              -41.8485931,
+              -13.6384878
+            ],
+            [
+              -41.8487483,
+              -13.6383347
+            ],
+            [
+              -41.8488908,
+              -13.638451
+            ],
+            [
+              -41.8489503,
+              -13.6384996
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1348012930",
       "properties": {
         "timestamp": "2025-01-02T16:00:56Z",
@@ -1069,6 +1137,36 @@
         "coordinates": [
           -41.8446276,
           -13.6558491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12463898298",
+      "properties": {
+        "timestamp": "2025-01-14T00:11:42Z",
+        "version": 3,
+        "changeset": 161328869,
+        "addr:city": "Livramento de Nossa Senhora",
+        "addr:housenumber": "87",
+        "addr:postcode": "46140-000",
+        "addr:street": "Rua Josias de Sousa Lessa",
+        "addr:suburb": "Estocada",
+        "air_conditioning": "no",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "psychiatry;psicologia;neuropsychiatry;humanistic;community",
+        "name": "Centro De Atenção Psicossocial | CAPS Tipo II Maria Da Conceição Silva Marques Souza | Livramento De Nossa Senhora, BA | SUS",
+        "opening_hours": "Mo-Th 08:00-15:00, Fr 08:00-12:00",
+        "website": "https://www.instagram.com/capslivramentobahia",
+        "wheelchair": "yes",
+        "id": "node/12463898298"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.8487918,
+          -13.6384895
         ]
       }
     },

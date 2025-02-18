@@ -1307,6 +1307,107 @@
     },
     {
       "type": "Feature",
+      "id": "way/775129780",
+      "properties": {
+        "timestamp": "2025-01-14T01:01:45Z",
+        "version": 2,
+        "changeset": 161329471,
+        "IJSN:administra": "Estadual",
+        "IJSN:classeCnae": "Fundamental e Médio",
+        "addr:city": "Cariacica",
+        "addr:country": "BR",
+        "addr:postcode": "29141-010",
+        "addr:state": "ES",
+        "addr:street": "Avenida Perimetral",
+        "addr:suburb": "Vale Esperança",
+        "amenity": "school",
+        "name": "CEEFMTI Professor José Leão Nunes",
+        "operator": "Governo do Estado do Espírito Santo",
+        "operator:type": "government",
+        "id": "way/775129780"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.3655597,
+              -20.3440156
+            ],
+            [
+              -40.3658295,
+              -20.3443755
+            ],
+            [
+              -40.3658668,
+              -20.344443
+            ],
+            [
+              -40.3658925,
+              -20.344515
+            ],
+            [
+              -40.3659327,
+              -20.3448633
+            ],
+            [
+              -40.3657383,
+              -20.3451953
+            ],
+            [
+              -40.3655049,
+              -20.3452481
+            ],
+            [
+              -40.3654132,
+              -20.3452788
+            ],
+            [
+              -40.3653365,
+              -20.3453351
+            ],
+            [
+              -40.3652541,
+              -20.345399
+            ],
+            [
+              -40.3646833,
+              -20.3459037
+            ],
+            [
+              -40.3646616,
+              -20.3458825
+            ],
+            [
+              -40.3646449,
+              -20.3458648
+            ],
+            [
+              -40.3645982,
+              -20.34582
+            ],
+            [
+              -40.3640445,
+              -20.3453097
+            ],
+            [
+              -40.3645269,
+              -20.344864
+            ],
+            [
+              -40.3648758,
+              -20.3444959
+            ],
+            [
+              -40.3655597,
+              -20.3440156
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1328508312",
       "properties": {
         "timestamp": "2024-12-09T18:21:00Z",
@@ -2961,6 +3062,88 @@
             [
               -40.3914538,
               -20.311597
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1351426091",
+      "properties": {
+        "timestamp": "2025-01-14T23:09:01Z",
+        "version": 1,
+        "changeset": 161362151,
+        "addr:city": "Cariacica",
+        "addr:postcode": "29145-414",
+        "addr:street": "Rua Joaquim Lovatti",
+        "addr:suburb": "São Francisco",
+        "amenity": "school",
+        "name": "CMEI Manoel Pedro Rocha",
+        "operator": "Prefeitura Municipal de Cariacica",
+        "operator:type": "government",
+        "phone": "2733548164",
+        "id": "way/1351426091"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.4047971,
+              -20.3482718
+            ],
+            [
+              -40.4051726,
+              -20.3485294
+            ],
+            [
+              -40.4051442,
+              -20.3485823
+            ],
+            [
+              -40.405064,
+              -20.3487317
+            ],
+            [
+              -40.4049499,
+              -20.3487163
+            ],
+            [
+              -40.4049188,
+              -20.3487121
+            ],
+            [
+              -40.4049149,
+              -20.3487415
+            ],
+            [
+              -40.4047291,
+              -20.3487158
+            ],
+            [
+              -40.4047464,
+              -20.3486032
+            ],
+            [
+              -40.4047615,
+              -20.3485043
+            ],
+            [
+              -40.4047659,
+              -20.3484759
+            ],
+            [
+              -40.404771,
+              -20.3484426
+            ],
+            [
+              -40.4047772,
+              -20.3484021
+            ],
+            [
+              -40.4047971,
+              -20.3482718
             ]
           ]
         ]
@@ -5471,6 +5654,25 @@
     },
     {
       "type": "Feature",
+      "id": "node/7231540814",
+      "properties": {
+        "timestamp": "2025-01-14T01:01:45Z",
+        "version": 3,
+        "changeset": 161329471,
+        "access": "permissive",
+        "barrier": "gate",
+        "id": "node/7231540814"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.3646616,
+          -20.3458825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/11842219821",
       "properties": {
         "timestamp": "2024-05-01T14:49:17Z",
@@ -5612,6 +5814,24 @@
         "coordinates": [
           -40.3915225,
           -20.3115119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12503147201",
+      "properties": {
+        "timestamp": "2025-01-14T23:09:01Z",
+        "version": 1,
+        "changeset": 161362151,
+        "barrier": "gate",
+        "id": "node/12503147201"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.4049499,
+          -20.3487163
         ]
       }
     }

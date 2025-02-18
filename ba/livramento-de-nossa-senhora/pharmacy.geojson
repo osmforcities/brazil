@@ -3,6 +3,58 @@
   "features": [
     {
       "type": "Feature",
+      "id": "way/1347430198",
+      "properties": {
+        "timestamp": "2025-01-14T00:09:06Z",
+        "version": 3,
+        "changeset": 161328832,
+        "addr:city": "Livramento de Nossa Senhora",
+        "addr:housenumber": "221",
+        "addr:postcode": "46140-000",
+        "addr:street": "Rua Josias de Sousa Lessa",
+        "addr:suburb": "Estocada",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "dispensing": "no",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "mobile": "+55 (77) 9 8884-1331",
+        "name": "Farmácia Especializada | CAPS Tipo II Maria Da Conceição Silva Marques Souza | Livramento De Nossa Senhora, BA | SUS",
+        "opening_hours": "Mo-Th 08:00-15:00, Fr 08:00-12:00",
+        "website": "https://www.instagram.com/capslivramentobahia",
+        "wheelchair": "yes",
+        "id": "way/1347430198"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.8489503,
+              -13.6384996
+            ],
+            [
+              -41.8488672,
+              -13.6385845
+            ],
+            [
+              -41.8488091,
+              -13.6385356
+            ],
+            [
+              -41.8488908,
+              -13.638451
+            ],
+            [
+              -41.8489503,
+              -13.6384996
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/2375185659",
       "properties": {
         "timestamp": "2015-02-01T15:10:34Z",
@@ -335,6 +387,37 @@
         "coordinates": [
           -41.8414735,
           -13.6505669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12463898291",
+      "properties": {
+        "timestamp": "2025-01-14T00:11:42Z",
+        "version": 2,
+        "changeset": 161328869,
+        "addr:city": "Livramento de Nossa Senhora",
+        "addr:housenumber": "87",
+        "addr:postcode": "46140-000",
+        "addr:street": "Rua Josias de Sousa Lessa",
+        "addr:suburb": "Estocada",
+        "amenity": "pharmacy",
+        "dispensing": "no",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "mobile": "+55 (77) 9 8884-1331",
+        "name": "Farmácia Especializada | CAPS Tipo II Maria Da Conceição Silva Marques Souza | Livramento De Nossa Senhora, BA | SUS",
+        "opening_hours": "Mo-Th 08:00-15:00, Fr 08:00-12:00",
+        "website": "https://www.instagram.com/capslivramentobahia",
+        "wheelchair": "yes",
+        "id": "node/12463898291"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.8488754,
+          -13.6385213
         ]
       }
     }

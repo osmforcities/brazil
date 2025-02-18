@@ -3,6 +3,48 @@
   "features": [
     {
       "type": "Feature",
+      "id": "way/291880038",
+      "properties": {
+        "timestamp": "2025-01-14T12:46:53Z",
+        "version": 3,
+        "changeset": 161343977,
+        "access": "private",
+        "leisure": "pitch",
+        "lit": "yes",
+        "sport": "soccer",
+        "surface": "grass",
+        "id": "way/291880038"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.2797661,
+              -16.0028666
+            ],
+            [
+              -41.279275,
+              -16.0036722
+            ],
+            [
+              -41.2787014,
+              -16.0033491
+            ],
+            [
+              -41.2791927,
+              -16.0025435
+            ],
+            [
+              -41.2797661,
+              -16.0028666
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/476316438",
       "properties": {
         "timestamp": "2017-02-22T14:11:14Z",
@@ -37,6 +79,97 @@
               -15.8490337
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1351200899",
+      "properties": {
+        "timestamp": "2025-01-14T12:46:53Z",
+        "version": 1,
+        "changeset": 161343977,
+        "addr:city": "Pedra Azul",
+        "addr:housenumber": "127",
+        "addr:postcode": "39970-000",
+        "addr:street": "Avenida João de Almeida",
+        "addr:suburb": "Cruzeiro",
+        "leisure": "stadium",
+        "name": "Estádio Raul Ostiano",
+        "sport": "soccer",
+        "id": "way/1351200899"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.279977,
+              -16.0033751
+            ],
+            [
+              -41.2798672,
+              -16.0035643
+            ],
+            [
+              -41.279837,
+              -16.0036162
+            ],
+            [
+              -41.2798109,
+              -16.0036068
+            ],
+            [
+              -41.2795927,
+              -16.0039887
+            ],
+            [
+              -41.279272,
+              -16.0038165
+            ],
+            [
+              -41.279228,
+              -16.0038822
+            ],
+            [
+              -41.278365,
+              -16.0033845
+            ],
+            [
+              -41.2791661,
+              -16.0023984
+            ],
+            [
+              -41.2798875,
+              -16.0028523
+            ],
+            [
+              -41.2796791,
+              -16.0032014
+            ],
+            [
+              -41.279977,
+              -16.0033751
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12500753770",
+      "properties": {
+        "timestamp": "2025-01-14T12:46:53Z",
+        "version": 1,
+        "changeset": 161343977,
+        "entrance": "yes",
+        "id": "node/12500753770"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.2798672,
+          -16.0035643
         ]
       }
     }

@@ -483,6 +483,101 @@
     },
     {
       "type": "Feature",
+      "id": "way/1345252874",
+      "properties": {
+        "timestamp": "2025-01-14T02:19:13Z",
+        "version": 2,
+        "changeset": 161330300,
+        "addr:city": "Cariacica",
+        "addr:housenumber": "109",
+        "addr:postcode": "29.146-785",
+        "addr:street": "Avenida Alice Coutinho Santos",
+        "addr:suburb": "Vera Cruz",
+        "government": "administrative",
+        "layer": "1",
+        "name": "Centro Administrativo da Prefeitura de Cariacica",
+        "office": "government",
+        "phone": "2733545130",
+        "id": "way/1345252874"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.3793295,
+              -20.3375032
+            ],
+            [
+              -40.3795833,
+              -20.3377125
+            ],
+            [
+              -40.3793713,
+              -20.3379169
+            ],
+            [
+              -40.3792465,
+              -20.3380361
+            ],
+            [
+              -40.37916,
+              -20.3381202
+            ],
+            [
+              -40.3788424,
+              -20.3383577
+            ],
+            [
+              -40.3787441,
+              -20.3384312
+            ],
+            [
+              -40.3784438,
+              -20.3382215
+            ],
+            [
+              -40.3784917,
+              -20.3381662
+            ],
+            [
+              -40.378718,
+              -20.3379099
+            ],
+            [
+              -40.3787542,
+              -20.3378632
+            ],
+            [
+              -40.3787881,
+              -20.337824
+            ],
+            [
+              -40.3790033,
+              -20.3375756
+            ],
+            [
+              -40.379019,
+              -20.3375894
+            ],
+            [
+              -40.3790835,
+              -20.3376399
+            ],
+            [
+              -40.3791535,
+              -20.3376864
+            ],
+            [
+              -40.3793295,
+              -20.3375032
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1345252878",
       "properties": {
         "timestamp": "2024-12-23T20:56:58Z",
@@ -640,6 +735,90 @@
     },
     {
       "type": "Feature",
+      "id": "way/1351342337",
+      "properties": {
+        "timestamp": "2025-01-14T20:35:03Z",
+        "version": 1,
+        "changeset": 161358700,
+        "addr:city": "Cariacica",
+        "addr:housenumber": "220",
+        "addr:postcode": "29146-200",
+        "addr:street": "Avenida Expedito Garcia",
+        "addr:suburb": "Campo Grande",
+        "government": "administrative",
+        "name": "SEMCULT - Secretaria Municipal de Cultura e Turismo de Cariacica",
+        "office": "government",
+        "opening_hours": "Mo-Fr 11:00-18:00",
+        "phone": "2733547133",
+        "website": "https://www.cariacica.es.gov.br/",
+        "id": "way/1351342337"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.3815825,
+              -20.3388972
+            ],
+            [
+              -40.3816638,
+              -20.3389549
+            ],
+            [
+              -40.3816347,
+              -20.3389832
+            ],
+            [
+              -40.3816684,
+              -20.339006
+            ],
+            [
+              -40.381685,
+              -20.3390128
+            ],
+            [
+              -40.3817052,
+              -20.339021
+            ],
+            [
+              -40.3815308,
+              -20.3392411
+            ],
+            [
+              -40.3814814,
+              -20.3392028
+            ],
+            [
+              -40.3813439,
+              -20.3390948
+            ],
+            [
+              -40.3813468,
+              -20.3390724
+            ],
+            [
+              -40.3813607,
+              -20.3390594
+            ],
+            [
+              -40.38155,
+              -20.3389091
+            ],
+            [
+              -40.3815581,
+              -20.3389157
+            ],
+            [
+              -40.3815825,
+              -20.3388972
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/5711557312",
       "properties": {
         "timestamp": "2020-06-15T16:16:03Z",
@@ -699,6 +878,24 @@
         "coordinates": [
           -40.3586834,
           -20.3360009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12502209903",
+      "properties": {
+        "timestamp": "2025-01-14T20:35:03Z",
+        "version": 1,
+        "changeset": 161358700,
+        "barrier": "gate",
+        "id": "node/12502209903"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.381685,
+          -20.3390128
         ]
       }
     }

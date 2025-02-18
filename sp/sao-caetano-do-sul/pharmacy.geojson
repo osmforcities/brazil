@@ -426,6 +426,61 @@
     },
     {
       "type": "Feature",
+      "id": "way/1178165458",
+      "properties": {
+        "timestamp": "2025-01-14T13:31:54Z",
+        "version": 4,
+        "changeset": 161345422,
+        "addr:street": "Avenida Visconde de Inhaúma",
+        "amenity": "pharmacy",
+        "brand": "Drogaria São Paulo",
+        "brand:wikidata": "Q5308184",
+        "building": "yes",
+        "check_date": "2025-01-14",
+        "check_date:opening_hours": "2025-01-14",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Drogaria São Paulo",
+        "opening_hours": "07:00-23:00",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "source": "local knowledge",
+        "wheelchair": "yes",
+        "id": "way/1178165458"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.5648601,
+              -23.6339045
+            ],
+            [
+              -46.5646118,
+              -23.6339025
+            ],
+            [
+              -46.5646382,
+              -23.6338433
+            ],
+            [
+              -46.5648611,
+              -23.6338453
+            ],
+            [
+              -46.5648601,
+              -23.6339045
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1219114374",
       "properties": {
         "timestamp": "2023-11-12T19:48:30Z",
@@ -616,6 +671,45 @@
         "coordinates": [
           -46.564525,
           -23.6221226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10831838732",
+      "properties": {
+        "timestamp": "2025-01-14T13:31:57Z",
+        "version": 4,
+        "changeset": 161345422,
+        "addr:housenumber": "824",
+        "addr:postcode": "09571-380",
+        "addr:street": "Avenida Visconde de Inhaúma",
+        "addr:suburb": "Oswaldo Cruz",
+        "amenity": "pharmacy",
+        "brand": "Drogaria São Paulo",
+        "brand:wikidata": "Q5308184",
+        "check_date": "2025-01-14",
+        "check_date:opening_hours": "2025-01-14",
+        "contact:phone": "+55 11 4232 0976",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Drogaria São Paulo",
+        "opening_hours": "07:00-23:00",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+ 55 11 5685 0083",
+        "source": "local knowledge",
+        "website": "https://www.drogariasaopaulo.com.br/:",
+        "id": "node/10831838732"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5644281,
+          -23.6357539
         ]
       }
     },

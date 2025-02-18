@@ -942,6 +942,91 @@
     },
     {
       "type": "Feature",
+      "id": "way/1351269407",
+      "properties": {
+        "timestamp": "2025-01-14T18:51:38Z",
+        "version": 1,
+        "changeset": 161355786,
+        "amenity": "pharmacy",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Attent Farm",
+        "id": "way/1351269407"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.968862,
+              -15.8702237
+            ],
+            [
+              -47.9689065,
+              -15.8702447
+            ],
+            [
+              -47.9688641,
+              -15.8703253
+            ],
+            [
+              -47.9688191,
+              -15.8703026
+            ],
+            [
+              -47.9688232,
+              -15.8702945
+            ],
+            [
+              -47.968862,
+              -15.8702237
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1351269419",
+      "properties": {
+        "timestamp": "2025-01-14T18:51:38Z",
+        "version": 1,
+        "changeset": 161355786,
+        "amenity": "pharmacy",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "id": "way/1351269419"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.9679773,
+              -15.8697622
+            ],
+            [
+              -47.9679273,
+              -15.8698489
+            ],
+            [
+              -47.96785,
+              -15.8698081
+            ],
+            [
+              -47.9679028,
+              -15.8697232
+            ],
+            [
+              -47.9679773,
+              -15.8697622
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/599810322",
       "properties": {
         "timestamp": "2011-06-24T02:21:43Z",
@@ -1180,6 +1265,27 @@
         "coordinates": [
           -48.0122426,
           -15.8375476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1602433137",
+      "properties": {
+        "timestamp": "2025-01-14T18:51:38Z",
+        "version": 5,
+        "changeset": 161355786,
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Attent Farma",
+        "id": "node/1602433137"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.9688511,
+          -15.8703084
         ]
       }
     },
@@ -9680,6 +9786,71 @@
         "coordinates": [
           -47.9880487,
           -15.8237462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12501362982",
+      "properties": {
+        "timestamp": "2025-01-14T18:44:28Z",
+        "version": 1,
+        "changeset": 161355590,
+        "addr:city": "Guará",
+        "addr:housenumber": "QI 7",
+        "addr:postcode": "71020-026",
+        "addr:street": "R1-S5",
+        "addr:suburb": "Guará I",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Droga Senna",
+        "id": "node/12501362982"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.9780501,
+          -15.8160737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12501375010",
+      "properties": {
+        "timestamp": "2025-01-14T18:51:38Z",
+        "version": 1,
+        "changeset": 161355786,
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Drogaria Saúde Master",
+        "id": "node/12501375010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.9678931,
+          -15.8698242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12502233753",
+      "properties": {
+        "timestamp": "2025-01-14T20:44:38Z",
+        "version": 1,
+        "changeset": 161358932,
+        "amenity": "pharmacy",
+        "healthcare": "hospital",
+        "name": "Drogaria meno preço Samambaia Sul",
+        "id": "node/12502233753"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.0648569,
+          -15.8795304
         ]
       }
     }

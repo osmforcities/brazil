@@ -1718,6 +1718,87 @@
     },
     {
       "type": "Feature",
+      "id": "way/1133161975",
+      "properties": {
+        "timestamp": "2025-01-16T10:43:30Z",
+        "version": 4,
+        "changeset": 161412837,
+        "addr:city": "Fortaleza",
+        "addr:housenumber": "2222",
+        "addr:postcode": "60861-212",
+        "addr:street": "Avenida Alberto Craveiro",
+        "addr:suburb": "Boa Vista/Castelão",
+        "amenity": "social_facility",
+        "name": "Casa de Cuidados do Ceará",
+        "operator": "Instituto de Saúde e Gestão Hospitalar",
+        "operator:type": "public",
+        "phone": "+55 85 3477 3901",
+        "pmfsefin:idedif": "252492",
+        "short_name": "CCC",
+        "social_facility": "nursing_home",
+        "social_facility:for": "diseased",
+        "start_date": "2021-06-24",
+        "website": "https://www.isgh.org.br/onde-estamos/casa-de-cuidados-do-ceara",
+        "id": "way/1133161975"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.5199799,
+              -3.7962342
+            ],
+            [
+              -38.5197079,
+              -3.7949801
+            ],
+            [
+              -38.5196098,
+              -3.7950036
+            ],
+            [
+              -38.519609,
+              -3.7949985
+            ],
+            [
+              -38.5195998,
+              -3.7949413
+            ],
+            [
+              -38.5195904,
+              -3.7948929
+            ],
+            [
+              -38.5195901,
+              -3.7948901
+            ],
+            [
+              -38.5203449,
+              -3.7947296
+            ],
+            [
+              -38.5206206,
+              -3.7946704
+            ],
+            [
+              -38.5208956,
+              -3.7946068
+            ],
+            [
+              -38.5212018,
+              -3.7960166
+            ],
+            [
+              -38.5199799,
+              -3.7962342
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1144858390",
       "properties": {
         "timestamp": "2023-02-13T16:26:11Z",
@@ -2199,6 +2280,24 @@
         "coordinates": [
           -38.5424302,
           -3.7231566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10565259731",
+      "properties": {
+        "timestamp": "2025-01-16T10:43:30Z",
+        "version": 2,
+        "changeset": 161412837,
+        "barrier": "gate",
+        "id": "node/10565259731"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5195998,
+          -3.7949413
         ]
       }
     },

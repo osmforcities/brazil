@@ -3,6 +3,53 @@
   "features": [
     {
       "type": "Feature",
+      "id": "way/1275448555",
+      "properties": {
+        "timestamp": "2025-01-15T12:58:39Z",
+        "version": 2,
+        "changeset": 161380078,
+        "addr:city": "Divisa Alegre",
+        "addr:housenumber": "289",
+        "addr:postcode": "39995-000",
+        "addr:street": "Avenida Dona Teca",
+        "addr:suburb": "Centro",
+        "amenity": "school",
+        "name": "Escola Estadua Divisa Alegre",
+        "operator": "Secretaria de Estado de Educação de Minas Gerais",
+        "operator:type": "government",
+        "operator:wikidata": "Q61612780",
+        "id": "way/1275448555"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.3440493,
+              -15.7215511
+            ],
+            [
+              -41.3434428,
+              -15.7217773
+            ],
+            [
+              -41.3433016,
+              -15.7214265
+            ],
+            [
+              -41.3439081,
+              -15.7212002
+            ],
+            [
+              -41.3440493,
+              -15.7215511
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1275448558",
       "properties": {
         "timestamp": "2024-04-24T01:41:13Z",
@@ -42,6 +89,72 @@
               -15.7177467
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1275448563",
+      "properties": {
+        "timestamp": "2025-01-16T21:42:41Z",
+        "version": 2,
+        "changeset": 161434946,
+        "amenity": "school",
+        "id": "way/1275448563"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.3467804,
+              -15.7260962
+            ],
+            [
+              -41.3463823,
+              -15.7262673
+            ],
+            [
+              -41.3463011,
+              -15.726111
+            ],
+            [
+              -41.3466686,
+              -15.7259533
+            ],
+            [
+              -41.3467222,
+              -15.725961
+            ],
+            [
+              -41.3467804,
+              -15.7260962
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12507857324",
+      "properties": {
+        "timestamp": "2025-01-16T21:42:41Z",
+        "version": 1,
+        "changeset": 161434946,
+        "addr:city": "Divisa Alegre",
+        "addr:housenumber": "335",
+        "addr:postcode": "39995-000",
+        "addr:street": "Rua Nossa Senhora do Carmo",
+        "addr:suburb": "Centro",
+        "amenity": "school",
+        "name": "Escola Municipal Beija-Flor",
+        "id": "node/12507857324"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.3448662,
+          -15.7199682
         ]
       }
     }

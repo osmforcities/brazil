@@ -3,11 +3,11 @@
   "features": [
     {
       "type": "Feature",
-      "id": "node/9510558125",
+      "id": "way/1352059292",
       "properties": {
-        "timestamp": "2022-02-16T13:23:01Z",
-        "version": 1,
-        "changeset": 117476798,
+        "timestamp": "2025-01-17T12:48:06Z",
+        "version": 2,
+        "changeset": 161454055,
         "addr:city": "Tangará da Serra",
         "addr:housenumber": "6967 E",
         "addr:postcode": "78301-532",
@@ -15,17 +15,170 @@
         "addr:suburb": "Jardim Aeroporto",
         "amenity": "university",
         "description": "Universidade pública e gratuita",
-        "name": "Universidade do Estado de Mato Grosso - UNEMAT",
+        "name": "Universidade do Estado de Mato Grosso",
         "phone": "+55 65 3311 4900",
+        "short_name": "UNEMAT",
         "website": "http://tangara.unemat.br/",
         "wheelchair": "yes",
-        "id": "node/9510558125"
+        "id": "way/1352059292"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -57.4243566,
+              -14.6455932
+            ],
+            [
+              -57.428337,
+              -14.6410363
+            ],
+            [
+              -57.4331757,
+              -14.64223
+            ],
+            [
+              -57.4348816,
+              -14.6456867
+            ],
+            [
+              -57.4355897,
+              -14.6478457
+            ],
+            [
+              -57.4367401,
+              -14.6475277
+            ],
+            [
+              -57.4367913,
+              -14.6475136
+            ],
+            [
+              -57.4377033,
+              -14.6508767
+            ],
+            [
+              -57.4374641,
+              -14.6510174
+            ],
+            [
+              -57.4369456,
+              -14.6513225
+            ],
+            [
+              -57.4344984,
+              -14.6527621
+            ],
+            [
+              -57.4339804,
+              -14.6530669
+            ],
+            [
+              -57.4335941,
+              -14.6524856
+            ],
+            [
+              -57.4333152,
+              -14.6523091
+            ],
+            [
+              -57.4296888,
+              -14.6524233
+            ],
+            [
+              -57.4294635,
+              -14.6522676
+            ],
+            [
+              -57.4243459,
+              -14.6459358
+            ],
+            [
+              -57.4243351,
+              -14.6457697
+            ],
+            [
+              -57.4243566,
+              -14.6455932
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1352068270",
+      "properties": {
+        "timestamp": "2025-01-17T12:48:06Z",
+        "version": 1,
+        "changeset": 161454055,
+        "addr:city": "Tangará da Serra",
+        "alt_name": "UNIC Tangará",
+        "amenity": "university",
+        "name": "Anhanguera",
+        "id": "way/1352068270"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -57.4964376,
+              -14.6410635
+            ],
+            [
+              -57.4945386,
+              -14.6396361
+            ],
+            [
+              -57.4944957,
+              -14.6394493
+            ],
+            [
+              -57.4943991,
+              -14.6393559
+            ],
+            [
+              -57.4947089,
+              -14.6374643
+            ],
+            [
+              -57.4956215,
+              -14.6381785
+            ],
+            [
+              -57.4962517,
+              -14.6374068
+            ],
+            [
+              -57.4981703,
+              -14.6389614
+            ],
+            [
+              -57.4964376,
+              -14.6410635
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12509221410",
+      "properties": {
+        "timestamp": "2025-01-17T12:00:38Z",
+        "version": 1,
+        "changeset": 161452541,
+        "barrier": "kerb",
+        "kerb": "lowered",
+        "id": "node/12509221410"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -57.4339715,
-          -14.6520604
+          -57.4344984,
+          -14.6527621
         ]
       }
     }

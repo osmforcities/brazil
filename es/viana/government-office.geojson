@@ -3,6 +3,80 @@
   "features": [
     {
       "type": "Feature",
+      "id": "way/1328506633",
+      "properties": {
+        "timestamp": "2025-01-17T23:03:38Z",
+        "version": 5,
+        "changeset": 161473958,
+        "addr:city": "Viana",
+        "addr:postcode": "29130-013",
+        "addr:street": "Rua Aspazia Varejão Dias",
+        "addr:suburb": "Centro",
+        "government": "social_security",
+        "name": "INSS - Instituto Nacional do Seguro Social",
+        "office": "government",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "operator": "Instituto Nacional do Seguro Social",
+        "operator:short": "INSS",
+        "operator:wikidata": "Q10302614",
+        "phone": "2732220040",
+        "website": "https://meu.inss.gov.br/",
+        "id": "way/1328506633"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.4896197,
+              -20.3911981
+            ],
+            [
+              -40.4896375,
+              -20.3912369
+            ],
+            [
+              -40.4896437,
+              -20.3912504
+            ],
+            [
+              -40.4897561,
+              -20.3914947
+            ],
+            [
+              -40.4898323,
+              -20.3916605
+            ],
+            [
+              -40.4895978,
+              -20.391766
+            ],
+            [
+              -40.4895945,
+              -20.3917596
+            ],
+            [
+              -40.4893885,
+              -20.3913632
+            ],
+            [
+              -40.4893766,
+              -20.3913403
+            ],
+            [
+              -40.4893638,
+              -20.3913155
+            ],
+            [
+              -40.4896197,
+              -20.3911981
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1328506698",
       "properties": {
         "timestamp": "2025-01-08T03:55:54Z",
@@ -191,6 +265,65 @@
     },
     {
       "type": "Feature",
+      "id": "way/1349458007",
+      "properties": {
+        "timestamp": "2025-01-17T23:03:38Z",
+        "version": 2,
+        "changeset": 161473958,
+        "addr:city": "Viana",
+        "addr:street": "Rua Aspazia Varejão Dias",
+        "addr:suburb": "Centro",
+        "government": "administrative",
+        "name": "Almoxarifado Central da Prefeitura de Viana",
+        "office": "government",
+        "id": "way/1349458007"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.4901356,
+              -20.3909661
+            ],
+            [
+              -40.4903688,
+              -20.3914288
+            ],
+            [
+              -40.4898323,
+              -20.3916605
+            ],
+            [
+              -40.4897561,
+              -20.3914947
+            ],
+            [
+              -40.4896437,
+              -20.3912504
+            ],
+            [
+              -40.4896375,
+              -20.3912369
+            ],
+            [
+              -40.4896197,
+              -20.3911981
+            ],
+            [
+              -40.4899238,
+              -20.3910613
+            ],
+            [
+              -40.4901356,
+              -20.3909661
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/4098060580",
       "properties": {
         "timestamp": "2022-03-18T17:47:09Z",
@@ -261,6 +394,24 @@
         "coordinates": [
           -40.4754314,
           -20.4247114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12483471306",
+      "properties": {
+        "timestamp": "2025-01-08T03:55:54Z",
+        "version": 1,
+        "changeset": 161118457,
+        "barrier": "gate",
+        "id": "node/12483471306"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.4899238,
+          -20.3910613
         ]
       }
     }

@@ -2972,6 +2972,65 @@
     },
     {
       "type": "Feature",
+      "id": "way/453516420",
+      "properties": {
+        "timestamp": "2025-01-18T23:12:10Z",
+        "version": 3,
+        "changeset": 161508753,
+        "addr:city": "São Paulo",
+        "addr:district": "Lajeado",
+        "addr:housenumber": "5593",
+        "addr:postcode": "08431-410",
+        "addr:street": "Avenida Nordestina",
+        "addr:suburb": "Guainazes",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "UBS Jardim Robru I",
+        "opening_hours": "Mo-Fr 07:00-19:00; PH off",
+        "operator:type": "government",
+        "phone": "+55 11 2035 1860",
+        "ref:CNES": "2787717",
+        "id": "way/453516420"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.4182059,
+              -23.5244938
+            ],
+            [
+              -46.4182032,
+              -23.5249316
+            ],
+            [
+              -46.4177285,
+              -23.5249463
+            ],
+            [
+              -46.4177473,
+              -23.5246955
+            ],
+            [
+              -46.4178528,
+              -23.5246429
+            ],
+            [
+              -46.4182059,
+              -23.5244667
+            ],
+            [
+              -46.4182059,
+              -23.5244938
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/453516421",
       "properties": {
         "timestamp": "2016-11-15T12:54:38Z",
@@ -16459,6 +16518,33 @@
         "coordinates": [
           -46.4818417,
           -23.6035789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6388938256",
+      "properties": {
+        "timestamp": "2025-01-18T22:51:09Z",
+        "version": 3,
+        "changeset": 161508275,
+        "addr:housenumber": "288",
+        "addr:postcode": "08150-350",
+        "addr:street": "Rua José Maria Alves de Deus",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "UBS Jardim Robru",
+        "opening_hours": "Mo-Fr 07:00-19:00; PH off",
+        "phone": "+55 11 2035 2406",
+        "ref:CNES": "2787725",
+        "id": "node/6388938256"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4124441,
+          -23.5213333
         ]
       }
     },

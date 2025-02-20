@@ -3,6 +3,48 @@
   "features": [
     {
       "type": "Feature",
+      "id": "way/544217563",
+      "properties": {
+        "timestamp": "2022-11-25T22:59:18Z",
+        "version": 3,
+        "changeset": 129385043,
+        "brand": "Ibis",
+        "brand:wikidata": "Q920166",
+        "building": "yes",
+        "name": "Íbis",
+        "tourism": "hotel",
+        "id": "way/544217563"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.4943823,
+              -9.3957442
+            ],
+            [
+              -40.4941694,
+              -9.3958646
+            ],
+            [
+              -40.4941072,
+              -9.3957577
+            ],
+            [
+              -40.4943201,
+              -9.3956373
+            ],
+            [
+              -40.4943823,
+              -9.3957442
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/565034643",
       "properties": {
         "timestamp": "2020-03-16T12:38:31Z",
@@ -634,6 +676,27 @@
         "coordinates": [
           -40.5026916,
           -9.3997799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12512232710",
+      "properties": {
+        "timestamp": "2025-01-18T13:40:12Z",
+        "version": 1,
+        "changeset": 161491905,
+        "brand": "Ibis",
+        "brand:wikidata": "Q920166",
+        "name": "Ibis",
+        "tourism": "hotel",
+        "id": "node/12512232710"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.4942479,
+          -9.3957498
         ]
       }
     }

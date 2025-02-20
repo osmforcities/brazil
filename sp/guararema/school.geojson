@@ -5,9 +5,9 @@
       "type": "Feature",
       "id": "way/465763546",
       "properties": {
-        "timestamp": "2025-01-18T18:23:45Z",
-        "version": 5,
-        "changeset": 161501683,
+        "timestamp": "2025-01-19T22:38:06Z",
+        "version": 7,
+        "changeset": 161542645,
         "addr:city": "Guararema",
         "addr:country": "BR",
         "addr:housenumber": "553",
@@ -20,7 +20,7 @@
         "operator": "Secretaria da Educação do Estado de São Paulo",
         "operator:type": "government",
         "operator:wikidata": "Q10369245",
-        "phone": "+55 11 46931 318",
+        "phone": "+55 11 4693 1318",
         "religion": "none",
         "id": "way/465763546"
       },
@@ -29,16 +29,12 @@
         "coordinates": [
           [
             [
-              -46.0384388,
-              -23.4132475
+              -46.0384767,
+              -23.4133034
             ],
             [
-              -46.0392956,
-              -23.4130026
-            ],
-            [
-              -46.0393341,
-              -23.412991
+              -46.039372,
+              -23.4130514
             ],
             [
               -46.0396161,
@@ -53,20 +49,12 @@
               -23.4136037
             ],
             [
-              -46.038499,
-              -23.413608
-            ],
-            [
-              -46.0384571,
-              -23.4134317
-            ],
-            [
               -46.0385011,
               -23.4133933
             ],
             [
-              -46.0384388,
-              -23.4132475
+              -46.0384767,
+              -23.4133034
             ]
           ]
         ]
@@ -195,6 +183,143 @@
     },
     {
       "type": "Feature",
+      "id": "way/1156120417",
+      "properties": {
+        "timestamp": "2025-01-19T14:20:47Z",
+        "version": 3,
+        "changeset": 161526431,
+        "addr:housenumber": "742",
+        "addr:postcode": "08900-000",
+        "addr:street": "Rua China",
+        "addr:suburb": "Chácara Nova Guanabara",
+        "amenity": "school",
+        "name": "Escola Municipal José Donizete de Paiva",
+        "operator": "Secretaria Municipal de Educação",
+        "operator:type": "government",
+        "phone": "+55 11 4695 2336",
+        "ref:INEP": "35478866",
+        "religion": "none",
+        "source": "INEP-35478866",
+        "id": "way/1156120417"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.1491654,
+              -23.3526223
+            ],
+            [
+              -46.149779,
+              -23.3529141
+            ],
+            [
+              -46.1497651,
+              -23.3529614
+            ],
+            [
+              -46.1495791,
+              -23.3530664
+            ],
+            [
+              -46.1493461,
+              -23.3532109
+            ],
+            [
+              -46.1491506,
+              -23.3531694
+            ],
+            [
+              -46.1489417,
+              -23.3532822
+            ],
+            [
+              -46.1489057,
+              -23.3533638
+            ],
+            [
+              -46.1488674,
+              -23.3533778
+            ],
+            [
+              -46.1484632,
+              -23.353228
+            ],
+            [
+              -46.1483226,
+              -23.3531283
+            ],
+            [
+              -46.1485179,
+              -23.3529429
+            ],
+            [
+              -46.1491654,
+              -23.3526223
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1304727220",
+      "properties": {
+        "timestamp": "2025-01-19T21:07:49Z",
+        "version": 2,
+        "changeset": 161540484,
+        "addr:housenumber": "200",
+        "addr:postcode": "08900-000",
+        "addr:street": "Rua D'Ajuda",
+        "addr:suburb": "Centro",
+        "amenity": "school",
+        "official_name": "Escola Estadual Ivan Brasil",
+        "operator": "Secretaria da Educação do Estado de São Paulo",
+        "operator:type": "government",
+        "operator:wikidata": "Q10369245",
+        "phone": "+55 11 4693 1404",
+        "religion": "none",
+        "id": "way/1304727220"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.0243989,
+              -23.4174133
+            ],
+            [
+              -46.0249155,
+              -23.4178467
+            ],
+            [
+              -46.0246055,
+              -23.4181598
+            ],
+            [
+              -46.0242495,
+              -23.4178551
+            ],
+            [
+              -46.0242274,
+              -23.4178619
+            ],
+            [
+              -46.0240632,
+              -23.4177265
+            ],
+            [
+              -46.0243989,
+              -23.4174133
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1304733900",
       "properties": {
         "timestamp": "2024-07-30T23:11:32Z",
@@ -259,6 +384,59 @@
             [
               -46.107707,
               -23.3147351
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1352619911",
+      "properties": {
+        "timestamp": "2025-01-19T15:54:17Z",
+        "version": 1,
+        "changeset": 161529968,
+        "addr:street": "Avenida América",
+        "addr:suburb": "Chácaras Guanabara",
+        "amenity": "school",
+        "religion": "none",
+        "id": "way/1352619911"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.1546362,
+              -23.3454285
+            ],
+            [
+              -46.154921,
+              -23.3461642
+            ],
+            [
+              -46.1542156,
+              -23.346222
+            ],
+            [
+              -46.1539938,
+              -23.3454224
+            ],
+            [
+              -46.1539632,
+              -23.3453175
+            ],
+            [
+              -46.1539524,
+              -23.3451579
+            ],
+            [
+              -46.154156,
+              -23.34524
+            ],
+            [
+              -46.1546362,
+              -23.3454285
             ]
           ]
         ]

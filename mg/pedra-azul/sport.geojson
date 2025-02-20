@@ -157,6 +157,72 @@
     },
     {
       "type": "Feature",
+      "id": "way/1351254469",
+      "properties": {
+        "timestamp": "2025-01-19T15:17:19Z",
+        "version": 2,
+        "changeset": 161528583,
+        "addr:city": "Pedra Azul",
+        "addr:housenumber": "10",
+        "addr:postcode": "39970-000",
+        "addr:street": "Praça Adelaide Almeida",
+        "addr:suburb": "Novo Progresso",
+        "brand": "AABB",
+        "brand:wikidata": "Q9633503",
+        "leisure": "sports_centre",
+        "name": "Associação Atlética Banco do Brasil",
+        "name:en": "Banco do Brasil Athletic Association",
+        "name:pt": "Associação Atlética Banco do Brasil",
+        "short_name": "AABB",
+        "sport": "multi",
+        "id": "way/1351254469"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.2793643,
+              -16.0112645
+            ],
+            [
+              -41.2794126,
+              -16.0117621
+            ],
+            [
+              -41.2799973,
+              -16.0124453
+            ],
+            [
+              -41.2789003,
+              -16.0132394
+            ],
+            [
+              -41.2778569,
+              -16.0131698
+            ],
+            [
+              -41.2783182,
+              -16.0120895
+            ],
+            [
+              -41.2783021,
+              -16.0109938
+            ],
+            [
+              -41.2786994,
+              -16.0110951
+            ],
+            [
+              -41.2793643,
+              -16.0112645
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1351799999",
       "properties": {
         "timestamp": "2025-01-16T11:46:37Z",
@@ -259,6 +325,24 @@
         "coordinates": [
           -41.2798672,
           -16.0035643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12501223503",
+      "properties": {
+        "timestamp": "2025-01-14T17:20:16Z",
+        "version": 1,
+        "changeset": 161353103,
+        "entrance": "yes",
+        "id": "node/12501223503"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.2786994,
+          -16.0110951
         ]
       }
     }

@@ -5,13 +5,21 @@
       "type": "Feature",
       "id": "way/837414761",
       "properties": {
-        "timestamp": "2020-08-15T17:13:43Z",
-        "version": 1,
-        "changeset": 89452000,
+        "timestamp": "2025-01-19T12:35:39Z",
+        "version": 2,
+        "changeset": 161522551,
+        "addr:housenumber": "955",
+        "addr:postcode": "08900-000",
+        "addr:street": "Avenida Francisca Lerário",
+        "addr:suburb": "Lambari",
         "amenity": "clinic",
         "building": "yes",
         "healthcare": "clinic",
+        "healthcare:speciality": "general;paediatrics;gynaecology;exames_laboratoriais;vaccination",
         "name": "Unidade Básica de Saúde Benedito Antônio Mariano",
+        "opening_hours": "Mo-Fr 07:00-17:00; PH off",
+        "phone": "+55 11 4693 3448",
+        "ref:CNES": "2718626",
         "id": "way/837414761"
       },
       "geometry": {
@@ -19,44 +27,87 @@
         "coordinates": [
           [
             [
-              -46.1314152,
-              -23.3387357
+              -46.1314259,
+              -23.3386569
             ],
             [
-              -46.1313966,
-              -23.3387755
+              -46.131402,
+              -23.338709
             ],
             [
-              -46.1314338,
-              -23.3387812
-            ],
-            [
-              -46.1314059,
-              -23.3388608
-            ],
-            [
-              -46.1313718,
-              -23.3388608
+              -46.1313772,
+              -23.3387943
             ],
             [
               -46.1313656,
-              -23.3389092
+              -23.3388427
             ],
             [
-              -46.1310126,
-              -23.3388352
+              -46.131018,
+              -23.3387687
             ],
             [
-              -46.1310436,
-              -23.338767
+              -46.131049,
+              -23.3387005
             ],
             [
-              -46.1310622,
-              -23.3386533
+              -46.1310676,
+              -23.3385868
             ],
             [
-              -46.1314152,
-              -23.3387357
+              -46.1314259,
+              -23.3386569
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1352518588",
+      "properties": {
+        "timestamp": "2025-01-19T12:48:29Z",
+        "version": 1,
+        "changeset": 161523025,
+        "addr:housenumber": "23",
+        "addr:postcode": "08900-000",
+        "addr:street": "Rua Padre Manoel de Nobrega",
+        "addr:suburb": "Jardim Dulce",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general;paediatrics;gynaecology;vaccination;exames_laboratoriais",
+        "name": "Unidade Básica de Saúde Guiomar Franco da Cunha",
+        "opening_hours": "Mo-Fr 07:00-17:00:PH off",
+        "operator": "Secretaria Municipal de Saúde",
+        "operator:type": "government",
+        "phone": "+55 11 4693 4693",
+        "ref:CNES": "6555284",
+        "id": "way/1352518588"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.1086974,
+              -23.3149231
+            ],
+            [
+              -46.108539,
+              -23.3151429
+            ],
+            [
+              -46.1083648,
+              -23.3150265
+            ],
+            [
+              -46.1085302,
+              -23.3148084
+            ],
+            [
+              -46.1086974,
+              -23.3149231
             ]
           ]
         ]

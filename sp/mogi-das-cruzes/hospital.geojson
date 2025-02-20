@@ -88,6 +88,80 @@
     },
     {
       "type": "Feature",
+      "id": "way/460241940",
+      "properties": {
+        "timestamp": "2025-01-19T09:23:42Z",
+        "version": 7,
+        "changeset": 161516791,
+        "addr:city": "Mogi das Cruzes",
+        "addr:housenumber": "241",
+        "addr:street": "Avenida Pedro Romero (Perimetral)",
+        "addr:suburb": "Jardim Rodeio",
+        "amenity": "hospital",
+        "check_date": "2025-01-19",
+        "healthcare": "hospital",
+        "healthcare:speciality": "orthopaedics",
+        "name": "AACD",
+        "id": "way/460241940"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.1776561,
+              -23.5010711
+            ],
+            [
+              -46.1776285,
+              -23.499994
+            ],
+            [
+              -46.1778979,
+              -23.4998768
+            ],
+            [
+              -46.1778842,
+              -23.5000819
+            ],
+            [
+              -46.177902,
+              -23.5002405
+            ],
+            [
+              -46.1779414,
+              -23.5003413
+            ],
+            [
+              -46.1780241,
+              -23.500523
+            ],
+            [
+              -46.1781068,
+              -23.5006531
+            ],
+            [
+              -46.1781608,
+              -23.5006768
+            ],
+            [
+              -46.1782119,
+              -23.5010508
+            ],
+            [
+              -46.1780898,
+              -23.5010634
+            ],
+            [
+              -46.1776561,
+              -23.5010711
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/495778264",
       "properties": {
         "timestamp": "2023-11-15T13:23:12Z",
@@ -140,6 +214,60 @@
             [
               -46.2057156,
               -23.5338104
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/496553682",
+      "properties": {
+        "timestamp": "2025-01-19T09:23:42Z",
+        "version": 5,
+        "changeset": 161516791,
+        "addr:city": "Mogi das Cruzes",
+        "addr:postcode": "08780-200",
+        "addr:street": "Avenida Pedro Romero",
+        "addr:suburb": "Cezar de Souza",
+        "amenity": "hospital",
+        "check_date": "2025-01-19",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general;emergency",
+        "name": "Unidade de Pronto Atendimento - 24 horas- Cezar de Souza",
+        "note": "Sem numeração.",
+        "operator": "Secretaria da Saúde de Mogi das Cruzes",
+        "phone": "160",
+        "id": "way/496553682"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.1771545,
+              -23.5004525
+            ],
+            [
+              -46.1771652,
+              -23.5009912
+            ],
+            [
+              -46.1771402,
+              -23.5009856
+            ],
+            [
+              -46.1764786,
+              -23.5008363
+            ],
+            [
+              -46.1764692,
+              -23.5004538
+            ],
+            [
+              -46.1771545,
+              -23.5004525
             ]
           ]
         ]
@@ -755,6 +883,24 @@
         "coordinates": [
           -46.2058896,
           -23.5329285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8922152432",
+      "properties": {
+        "timestamp": "2022-08-26T12:28:27Z",
+        "version": 2,
+        "changeset": 125405513,
+        "barrier": "gate",
+        "id": "node/8922152432"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.1771402,
+          -23.5009856
         ]
       }
     }

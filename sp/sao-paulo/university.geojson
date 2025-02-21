@@ -3774,13 +3774,14 @@
       "type": "Feature",
       "id": "way/176499520",
       "properties": {
-        "timestamp": "2023-10-24T19:38:40Z",
-        "version": 11,
-        "changeset": 143080873,
+        "timestamp": "2025-01-21T06:07:32Z",
+        "version": 12,
+        "changeset": 161587360,
         "amenity": "university",
         "name": "Faculdade de Medicina",
         "operator": "Universidade de São Paulo",
         "source": "Bing",
+        "wikidata": "Q8960737",
         "id": "way/176499520"
       },
       "geometry": {
@@ -4577,9 +4578,9 @@
       "type": "Feature",
       "id": "way/234775145",
       "properties": {
-        "timestamp": "2024-12-27T02:12:22Z",
-        "version": 17,
-        "changeset": 160659494,
+        "timestamp": "2025-01-21T06:07:38Z",
+        "version": 18,
+        "changeset": 161587360,
         "addr:housenumber": "1100",
         "addr:postcode": "03828-000",
         "addr:street": "Rua Arlindo Bettio",
@@ -4596,6 +4597,7 @@
         "source": "Bing",
         "website": "http://www5.each.usp.br",
         "wheelchair": "limited",
+        "wikidata": "Q10274574",
         "id": "way/234775145"
       },
       "geometry": {
@@ -6569,9 +6571,9 @@
       "type": "Feature",
       "id": "way/365535068",
       "properties": {
-        "timestamp": "2023-08-01T13:28:53Z",
-        "version": 9,
-        "changeset": 139300858,
+        "timestamp": "2025-01-21T06:07:40Z",
+        "version": 10,
+        "changeset": 161587360,
         "addr:city": "São Paulo",
         "addr:housenumber": "271",
         "addr:postcode": "01140-070",
@@ -6582,6 +6584,7 @@
         "note": "IA - Instituto de Artes IFT - Instituto de Física Teórica ICTP Saifr - International Centre for Theoretical Physics / South American Institute for Fundamental Research",
         "short_name": "Unesp",
         "website": "http://www.ia.unesp.br/#!/",
+        "wikidata": "Q10302752",
         "id": "way/365535068"
       },
       "geometry": {
@@ -11616,6 +11619,53 @@
     },
     {
       "type": "Feature",
+      "id": "way/1353229325",
+      "properties": {
+        "timestamp": "2025-01-21T20:37:33Z",
+        "version": 1,
+        "changeset": 161614687,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "777",
+        "addr:postcode": "03059-005",
+        "addr:street": "Rua Júlio de Castilhos",
+        "amenity": "university",
+        "name": "UNICESP",
+        "id": "way/1353229325"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.5935847,
+              -23.5410365
+            ],
+            [
+              -46.5935687,
+              -23.541084
+            ],
+            [
+              -46.5935539,
+              -23.5411279
+            ],
+            [
+              -46.5934953,
+              -23.5411076
+            ],
+            [
+              -46.593528,
+              -23.5410173
+            ],
+            [
+              -46.5935847,
+              -23.5410365
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/498611602",
       "properties": {
         "timestamp": "2023-06-03T15:34:47Z",
@@ -13080,11 +13130,12 @@
       "type": "Feature",
       "id": "node/5261433007",
       "properties": {
-        "timestamp": "2017-12-03T05:25:13Z",
-        "version": 1,
-        "changeset": 54288958,
+        "timestamp": "2025-01-21T06:08:04Z",
+        "version": 2,
+        "changeset": 161587360,
         "amenity": "university",
         "name": "Faculdade Zumbi dos Palmares",
+        "wikidata": "Q51774546",
         "id": "node/5261433007"
       },
       "geometry": {

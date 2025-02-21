@@ -20370,12 +20370,13 @@
       "type": "Feature",
       "id": "way/159420824",
       "properties": {
-        "timestamp": "2023-09-04T20:29:12Z",
-        "version": 5,
-        "changeset": 140822525,
+        "timestamp": "2025-01-21T06:07:26Z",
+        "version": 6,
+        "changeset": 161587360,
         "leisure": "stadium",
         "name": "Estádio Armando de Salles Oliveira",
         "sport": "soccer",
+        "wikidata": "Q5402171",
         "id": "way/159420824"
       },
       "geometry": {
@@ -124093,9 +124094,9 @@
       "type": "Feature",
       "id": "node/9572961309",
       "properties": {
-        "timestamp": "2024-12-13T13:47:28Z",
-        "version": 2,
-        "changeset": 160247072,
+        "timestamp": "2025-01-21T06:07:57Z",
+        "version": 3,
+        "changeset": 161587360,
         "addr:city": "São Paulo",
         "addr:street": "Rua Hans Nobiling",
         "addr:suburb": "Jardim Europa",
@@ -124103,6 +124104,7 @@
         "name": "Ginásio Poliesportivo Henrique Villaboim",
         "nohousenumber": "yes",
         "sport": "volleyball",
+        "wikidata": "Q25429831",
         "id": "node/9572961309"
       },
       "geometry": {
@@ -124404,6 +124406,32 @@
         "coordinates": [
           -46.6227415,
           -23.6197904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10902321355",
+      "properties": {
+        "timestamp": "2025-01-21T14:26:56Z",
+        "version": 2,
+        "changeset": 161602735,
+        "addr:housenumber": "28",
+        "addr:street": "Rua Imbituba",
+        "amenity": "dojo",
+        "check_date": "2023-05-15",
+        "mobile": "+55 11 97453 7254",
+        "name": "Dojang",
+        "sport": "tiro_defensivo;faca_tatica_-_karambit;bastão_expansível;hapkido_bumoosool",
+        "website": "https://www.dojang.com.br/",
+        "wheelchair": "no",
+        "id": "node/10902321355"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5840584,
+          -23.5833179
         ]
       }
     },

@@ -250,6 +250,52 @@
     },
     {
       "type": "Feature",
+      "id": "way/1353805452",
+      "properties": {
+        "timestamp": "2025-01-23T23:50:43Z",
+        "version": 1,
+        "changeset": 161693407,
+        "addr:city": "São Francisco do Sul",
+        "addr:housenumber": "1042",
+        "addr:postcode": "89240-000",
+        "addr:street": "Rua Almirante Barroso",
+        "addr:suburb": "Rocio Pequeno",
+        "amenity": "school",
+        "name": "Escola de Educação Básica Victor Konder",
+        "operator": "Prefeitura Municipal de São Francisco do Sul",
+        "operator:type": "public",
+        "id": "way/1353805452"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.6224179,
+              -26.2437463
+            ],
+            [
+              -48.6221801,
+              -26.2444929
+            ],
+            [
+              -48.6213477,
+              -26.2441297
+            ],
+            [
+              -48.621645,
+              -26.2434745
+            ],
+            [
+              -48.6224179,
+              -26.2437463
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/3495733490",
       "properties": {
         "timestamp": "2022-09-05T12:48:09Z",
@@ -548,26 +594,6 @@
         "coordinates": [
           -48.6912316,
           -26.2394426
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/9697739767",
-      "properties": {
-        "timestamp": "2022-04-27T13:20:54Z",
-        "version": 1,
-        "changeset": 120259903,
-        "addr:street": "Rua Almirante Barroso",
-        "amenity": "school",
-        "name": "Grupo Escolar Victor Konder",
-        "id": "node/9697739767"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.6221348,
-          -26.2440353
         ]
       }
     },

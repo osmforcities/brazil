@@ -22888,9 +22888,9 @@
       "type": "Feature",
       "id": "way/421359478",
       "properties": {
-        "timestamp": "2022-08-24T13:39:32Z",
-        "version": 3,
-        "changeset": 125317407,
+        "timestamp": "2025-01-23T02:19:04Z",
+        "version": 4,
+        "changeset": 161658236,
         "addr:city": "São Paulo",
         "addr:housenumber": "321",
         "addr:postcode": "01218-000",
@@ -22901,6 +22901,9 @@
         "fence_type": "metal",
         "height": "3.013",
         "name": "Escola Estadual João Kopke",
+        "operator": "Governo do Estado de São Paulo",
+        "operator:type": "government",
+        "operator:wikidata": "Q10290787",
         "short_name": "E.E. João Kopke",
         "id": "way/421359478"
       },
@@ -81837,49 +81840,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/1164874988",
-      "properties": {
-        "timestamp": "2023-04-23T15:50:54Z",
-        "version": 1,
-        "changeset": 135267673,
-        "addr:city": "São Paulo",
-        "addr:housenumber": "539",
-        "addr:postcode": "01202-001",
-        "addr:street": "Alameda Barão de Limeira",
-        "amenity": "school",
-        "name": "Senai",
-        "id": "way/1164874988"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -46.6462672,
-              -23.5364458
-            ],
-            [
-              -46.6461642,
-              -23.5365708
-            ],
-            [
-              -46.6461098,
-              -23.5365335
-            ],
-            [
-              -46.6462116,
-              -23.5364108
-            ],
-            [
-              -46.6462672,
-              -23.5364458
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/1167236968",
       "properties": {
         "timestamp": "2023-04-29T00:53:02Z",
@@ -89342,6 +89302,61 @@
             [
               -46.7236794,
               -23.5716919
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1353660246",
+      "properties": {
+        "timestamp": "2025-01-23T12:42:35Z",
+        "version": 1,
+        "changeset": 161672915,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "185",
+        "addr:street": "Largo São Rafael",
+        "amenity": "school",
+        "barrier": "wall",
+        "name": "EMEI Almirante Tamandaré",
+        "id": "way/1353660246"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.60358,
+              -23.5582848
+            ],
+            [
+              -46.6036213,
+              -23.5587416
+            ],
+            [
+              -46.6035777,
+              -23.5587658
+            ],
+            [
+              -46.6031105,
+              -23.5587505
+            ],
+            [
+              -46.6028715,
+              -23.5587427
+            ],
+            [
+              -46.6028336,
+              -23.5587216
+            ],
+            [
+              -46.6028646,
+              -23.558309
+            ],
+            [
+              -46.60358,
+              -23.5582848
             ]
           ]
         ]
@@ -113546,6 +113561,47 @@
         "coordinates": [
           -46.5988105,
           -23.5511539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12526302459",
+      "properties": {
+        "timestamp": "2025-01-23T12:42:35Z",
+        "version": 1,
+        "changeset": 161672915,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "185",
+        "addr:street": "Largo São Rafael",
+        "entrance": "yes",
+        "id": "node/12526302459"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6031105,
+          -23.5587505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12526317862",
+      "properties": {
+        "timestamp": "2025-01-23T13:10:57Z",
+        "version": 1,
+        "changeset": 161674006,
+        "amenity": "school",
+        "check_date": "2025-01-23",
+        "name": "Colégio Lua Ensino Fundamental",
+        "id": "node/12526317862"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7273571,
+          -23.571719
         ]
       }
     }

@@ -599,9 +599,9 @@
       "type": "Feature",
       "id": "node/12479642950",
       "properties": {
-        "timestamp": "2025-01-11T14:07:08Z",
-        "version": 2,
-        "changeset": 161240507,
+        "timestamp": "2025-01-23T17:55:53Z",
+        "version": 4,
+        "changeset": 161684099,
         "addr:city": "Livramento de Nossa Senhora",
         "addr:housenumber": "94",
         "addr:postcode": "46140-000",
@@ -610,7 +610,7 @@
         "government": "administrative",
         "name": "Secretaria De Administração, Planejamento e Desenvolvimento | SEAD | Poder Executivo | Livramento De Nossa Senhora, BA",
         "office": "government",
-        "opening_hours": "Mo-Fr 08:00-17:00, Fr 08:00-12-00",
+        "opening_hours": "Mo-Th 08:00-17:00, Fr 08:00-12-00",
         "phone": "+55 (77) 3444-2900",
         "smoking": "no",
         "website": "https://www.livramento.ba.gov.br/",
@@ -619,8 +619,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -41.8416817,
-          -13.65094
+          -41.8416025,
+          -13.6509758
         ]
       }
     },
@@ -661,9 +661,9 @@
       "type": "Feature",
       "id": "node/12494253017",
       "properties": {
-        "timestamp": "2025-01-12T02:07:34Z",
-        "version": 1,
-        "changeset": 161259476,
+        "timestamp": "2025-01-23T17:55:53Z",
+        "version": 3,
+        "changeset": 161684099,
         "addr:city": "Livramento de Nossa Senhora",
         "addr:housenumber": "94",
         "addr:postcode": "46140-000",
@@ -682,8 +682,92 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -41.8415791,
-          -13.6509426
+          -41.8415489,
+          -13.6509696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12526849804",
+      "properties": {
+        "timestamp": "2025-01-23T17:55:53Z",
+        "version": 2,
+        "changeset": 161684099,
+        "addr:city": "Livramento de Nossa Senhora",
+        "addr:housenumber": "94",
+        "addr:postcode": "46140-000",
+        "addr:street": "Praça Dom Hélio Paschoal",
+        "addr:suburb": "Centro",
+        "name": "Secretaria Da Fazenda | SEFAZ | Poder Executivo | Livramento De Nossa Senhora, BA",
+        "office": "government",
+        "opening_hours": "Mo-Th 08:00-17:00, Fr 08:00-12-00",
+        "phone": "+55 (77) 3444-2900",
+        "website": "https://www.livramento.ba.gov.br/",
+        "wheelchair": "limited",
+        "id": "node/12526849804"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.8416092,
+          -13.6509434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12526849805",
+      "properties": {
+        "timestamp": "2025-01-23T17:55:53Z",
+        "version": 2,
+        "changeset": 161684099,
+        "addr:city": "Livramento de Nossa Senhora",
+        "addr:housenumber": "94",
+        "addr:postcode": "46140-000",
+        "addr:street": "Praça Dom Hélio Paschoal",
+        "addr:suburb": "Centro",
+        "government": "administrative",
+        "name": "Secretaria De Infraestrutura, Serviços Públicos e Desenvolvimento Urbano | SEINFRA | Poder Executivo | Livramento De Nossa Senhora, BA",
+        "office": "government",
+        "opening_hours": "Mo-Th 09:00-17:00, Fr 09:00-12:00",
+        "phone": "+55 (77) 3444-2900",
+        "website": "https://www.livramento.ba.gov.br/",
+        "id": "node/12526849805"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.8415906,
+          -13.6510434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12526864664",
+      "properties": {
+        "timestamp": "2025-01-23T17:55:53Z",
+        "version": 1,
+        "changeset": 161684099,
+        "addr:city": "Livramento de Nossa Senhora",
+        "addr:housenumber": "94",
+        "addr:postcode": "46140-000",
+        "addr:street": "Praça Dom Hélio Paschoal",
+        "addr:suburb": "Centro",
+        "government": "police",
+        "name": "Controladoria-Geral Do Município | CGM | Poder Executivo | Livramento De Nossa Senhora, BA",
+        "office": "government",
+        "opening_hours": "Mo-Th 08:00-12:00, Mo-Th 13:00-17:00, Fr 08:00-12:00",
+        "phone": "+55 (77) 3444-2900",
+        "website": "https://www.livramento.ba.gov.br/",
+        "id": "node/12526864664"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.8415359,
+          -13.6510361
         ]
       }
     }

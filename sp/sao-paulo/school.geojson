@@ -13723,12 +13723,12 @@
         "coordinates": [
           [
             [
-              -46.6058866,
-              -23.5806111
+              -46.6058626,
+              -23.5806093
             ],
             [
-              -46.6058523,
-              -23.5809428
+              -46.6058314,
+              -23.5809411
             ],
             [
               -46.6051934,
@@ -13743,8 +13743,8 @@
               -23.5805302
             ],
             [
-              -46.6058866,
-              -23.5806111
+              -46.6058626,
+              -23.5806093
             ]
           ]
         ]
@@ -17907,9 +17907,9 @@
       "type": "Feature",
       "id": "way/304692788",
       "properties": {
-        "timestamp": "2024-07-22T14:05:48Z",
-        "version": 6,
-        "changeset": 154265245,
+        "timestamp": "2025-01-24T00:40:35Z",
+        "version": 7,
+        "changeset": 161694151,
         "addr:city": "São Paulo",
         "addr:housenumber": "1560",
         "addr:postcode": "04203-002",
@@ -17921,6 +17921,8 @@
         "email": "e004424a@educacao.sp.gov.br",
         "name": "E.E Francisco de Assis Reys",
         "operator": "Secretaria da Educação do Estado de São Paulo",
+        "operator:type": "government",
+        "operator:wikidata": "Q10369245",
         "phone": "+55 11 2274-3458;+55 11 2274-6611",
         "ref": "35004424",
         "id": "way/304692788"
@@ -17944,6 +17946,10 @@
             [
               -46.6071551,
               -23.5904957
+            ],
+            [
+              -46.6071812,
+              -23.5902279
             ],
             [
               -46.6072071,
@@ -89364,6 +89370,52 @@
     },
     {
       "type": "Feature",
+      "id": "way/1354005978",
+      "properties": {
+        "timestamp": "2025-01-24T18:33:19Z",
+        "version": 1,
+        "changeset": 161724042,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "543",
+        "addr:street": "Rua Leais Paulistanos",
+        "amenity": "school",
+        "name": "Escola de Educação Chinesa no Exterior Tiantian",
+        "id": "way/1354005978"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.6041015,
+              -23.5779633
+            ],
+            [
+              -46.6040781,
+              -23.57817
+            ],
+            [
+              -46.6040199,
+              -23.5781658
+            ],
+            [
+              -46.6038538,
+              -23.5781537
+            ],
+            [
+              -46.6038714,
+              -23.5779454
+            ],
+            [
+              -46.6041015,
+              -23.5779633
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/222842154",
       "properties": {
         "timestamp": "2023-06-07T15:20:09Z",
@@ -95009,6 +95061,25 @@
         "coordinates": [
           -46.5808168,
           -23.592753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2542365015",
+      "properties": {
+        "timestamp": "2025-01-24T18:33:19Z",
+        "version": 4,
+        "changeset": 161724042,
+        "addr:housenumber": "543",
+        "addr:street": "Rua Leais Paulistanos",
+        "id": "node/2542365015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6040199,
+          -23.5781658
         ]
       }
     },
@@ -113602,6 +113673,28 @@
         "coordinates": [
           -46.7273571,
           -23.571719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12528089552",
+      "properties": {
+        "timestamp": "2025-01-24T00:40:35Z",
+        "version": 1,
+        "changeset": 161694151,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "1560",
+        "addr:postcode": "04203-050",
+        "addr:street": "Rua Bom Pastor",
+        "entrance": "yes",
+        "id": "node/12528089552"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6071812,
+          -23.5902279
         ]
       }
     }

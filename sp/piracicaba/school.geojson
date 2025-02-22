@@ -1120,10 +1120,21 @@
       "type": "Feature",
       "id": "way/890181465",
       "properties": {
-        "timestamp": "2020-12-30T15:32:48Z",
-        "version": 1,
-        "changeset": 96677968,
+        "timestamp": "2025-01-24T00:25:47Z",
+        "version": 2,
+        "changeset": 161693968,
+        "addr:housenumber": "203",
+        "addr:postcode": "13408-029",
+        "addr:street": "Rua Altino Arantes",
+        "addr:suburb": "Vila Sonia",
         "amenity": "school",
+        "official_name": "Escola Estadual Professora Maria de Lourdes Silveira Cosentino",
+        "operator": "Secretaria da Educação do Estado de São Paulo",
+        "operator:type": "government",
+        "operator:wikidata": "Q10369245",
+        "phone": "+55 19 34251477",
+        "religion": "none",
+        "short_name": "E.E.Professora Maria de Lourdes Silveira Cosentino",
         "id": "way/890181465"
       },
       "geometry": {
@@ -1137,6 +1148,14 @@
             [
               -47.6955615,
               -22.6698572
+            ],
+            [
+              -47.6954842,
+              -22.6698592
+            ],
+            [
+              -47.6951763,
+              -22.6691088
             ],
             [
               -47.6952041,
@@ -3226,9 +3245,9 @@
       "type": "Feature",
       "id": "way/1352238299",
       "properties": {
-        "timestamp": "2025-01-18T02:15:24Z",
-        "version": 1,
-        "changeset": 161476386,
+        "timestamp": "2025-01-24T18:05:30Z",
+        "version": 2,
+        "changeset": 161723189,
         "addr:street": "Avenida Monsenhor Martinho Salgot",
         "amenity": "school",
         "email": "cotip@fumep.edu.br",
@@ -3261,8 +3280,12 @@
               -22.7014749
             ],
             [
-              -47.6511652,
-              -22.7019546
+              -47.6511804,
+              -22.7019406
+            ],
+            [
+              -47.6508737,
+              -22.7017302
             ],
             [
               -47.650704,
@@ -3414,6 +3437,138 @@
     },
     {
       "type": "Feature",
+      "id": "way/1353931683",
+      "properties": {
+        "timestamp": "2025-01-24T12:10:44Z",
+        "version": 1,
+        "changeset": 161709714,
+        "amenity": "school",
+        "id": "way/1353931683"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.7121245,
+              -22.6643783
+            ],
+            [
+              -47.7122108,
+              -22.6647325
+            ],
+            [
+              -47.7116418,
+              -22.6648425
+            ],
+            [
+              -47.7110684,
+              -22.6649945
+            ],
+            [
+              -47.7109707,
+              -22.6649945
+            ],
+            [
+              -47.7109934,
+              -22.6649253
+            ],
+            [
+              -47.7110366,
+              -22.6648268
+            ],
+            [
+              -47.7110548,
+              -22.664722
+            ],
+            [
+              -47.7110389,
+              -22.664634
+            ],
+            [
+              -47.7110502,
+              -22.6646068
+            ],
+            [
+              -47.7110775,
+              -22.6645753
+            ],
+            [
+              -47.7121245,
+              -22.6643783
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1353936314",
+      "properties": {
+        "timestamp": "2025-01-24T12:34:27Z",
+        "version": 1,
+        "changeset": 161710521,
+        "amenity": "school",
+        "id": "way/1353936314"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.7079209,
+              -22.6658707
+            ],
+            [
+              -47.7079352,
+              -22.6659026
+            ],
+            [
+              -47.7079209,
+              -22.6659251
+            ],
+            [
+              -47.7078843,
+              -22.6659551
+            ],
+            [
+              -47.7078498,
+              -22.6659795
+            ],
+            [
+              -47.7077949,
+              -22.6660114
+            ],
+            [
+              -47.7069412,
+              -22.6667035
+            ],
+            [
+              -47.7067623,
+              -22.666621
+            ],
+            [
+              -47.7072176,
+              -22.6658876
+            ],
+            [
+              -47.7073762,
+              -22.6659532
+            ],
+            [
+              -47.7075428,
+              -22.6656737
+            ],
+            [
+              -47.7079209,
+              -22.6658707
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/3388071635",
       "properties": {
         "timestamp": "2015-03-07T19:14:10Z",
@@ -3450,27 +3605,6 @@
         "coordinates": [
           -47.7371318,
           -22.7966388
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/6384871537",
-      "properties": {
-        "timestamp": "2019-04-05T05:52:19Z",
-        "version": 1,
-        "changeset": 68908359,
-        "addr:street": "Rua Angelo Florindo",
-        "addr:suburb": "Vila Sonia",
-        "amenity": "school",
-        "name": "Maria de Lourdes",
-        "id": "node/6384871537"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -47.6957733,
-          -22.6688794
         ]
       }
     },

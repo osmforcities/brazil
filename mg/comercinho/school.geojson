@@ -44,11 +44,17 @@
       "type": "Feature",
       "id": "way/548765353",
       "properties": {
-        "timestamp": "2018-12-06T17:29:52Z",
-        "version": 2,
-        "changeset": 65246156,
+        "timestamp": "2025-01-25T22:37:29Z",
+        "version": 3,
+        "changeset": 161763591,
+        "addr:city": "Comercinho",
+        "addr:housenumber": "242",
+        "addr:postcode": "39628-000",
+        "addr:street": "Rua Tiradentes",
+        "addr:suburb": "Centro",
         "amenity": "school",
         "name": "Escola Estadual Alphonsus de Guimarães",
+        "operator": "Secretaria de Educação do Estado de Minas Gerais",
         "id": "way/548765353"
       },
       "geometry": {
@@ -127,6 +133,29 @@
         "coordinates": [
           -41.7964554,
           -16.2951919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12532811652",
+      "properties": {
+        "timestamp": "2025-01-25T22:37:29Z",
+        "version": 1,
+        "changeset": 161763591,
+        "addr:city": "Comercinho",
+        "addr:postcode": "39628-000",
+        "addr:street": "Rua Marcelino Benedito Duarte",
+        "amenity": "school",
+        "name": "Escola Municipal Geralda Gomes Pinto",
+        "operator": "Município de Comercinho",
+        "id": "node/12532811652"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.7965527,
+          -16.2949783
         ]
       }
     }

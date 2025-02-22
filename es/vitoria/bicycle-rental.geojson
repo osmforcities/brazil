@@ -3,63 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": "node/4823094087",
-      "properties": {
-        "timestamp": "2017-04-28T14:07:36Z",
-        "version": 1,
-        "changeset": 48229546,
-        "amenity": "bicycle_rental",
-        "operator": "PMV",
-        "id": "node/4823094087"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -40.2630995,
-          -20.2648278
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/4823094088",
-      "properties": {
-        "timestamp": "2017-04-28T14:07:36Z",
-        "version": 1,
-        "changeset": 48229546,
-        "amenity": "bicycle_rental",
-        "operator": "PMV",
-        "id": "node/4823094088"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -40.2690131,
-          -20.266726
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/4823094089",
-      "properties": {
-        "timestamp": "2017-04-28T14:07:36Z",
-        "version": 1,
-        "changeset": 48229546,
-        "amenity": "bicycle_rental",
-        "operator": "PMV",
-        "id": "node/4823094089"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -40.2790895,
-          -20.2727407
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/4823094090",
       "properties": {
         "timestamp": "2017-04-28T14:07:36Z",
@@ -79,39 +22,34 @@
     },
     {
       "type": "Feature",
-      "id": "node/4823094091",
-      "properties": {
-        "timestamp": "2017-04-28T14:07:36Z",
-        "version": 1,
-        "changeset": 48229546,
-        "amenity": "bicycle_rental",
-        "operator": "PMV",
-        "id": "node/4823094091"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -40.2907732,
-          -20.2870816
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/4823094092",
       "properties": {
-        "timestamp": "2017-04-28T14:07:36Z",
-        "version": 1,
-        "changeset": 48229546,
+        "timestamp": "2025-01-25T16:19:14Z",
+        "version": 3,
+        "changeset": 161752652,
+        "addr:city": "Vitória",
+        "addr:postcode": "29060-230",
+        "addr:street": "Avenida Dante Michelini",
+        "addr:suburb": "Jardim da Penha",
         "amenity": "bicycle_rental",
-        "operator": "PMV",
+        "capacity": "28",
+        "email": "bikevitoria@serttel.com.br",
+        "fee": "yes",
+        "name": "Bike Vitória - Estação 14",
+        "network": "Sistema de Bicicletas Públicas Bike Vitória",
+        "opening_hours": "Su-Su 05:00-23:59",
+        "operator": "Serttel",
+        "operator:type": "private",
+        "payment:app": "yes",
+        "phone": "40034704",
+        "website": "https://www.bikevitoria.com",
         "id": "node/4823094092"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -40.2890968,
-          -20.2930697
+          -40.2892054,
+          -20.2926507
         ]
       }
     },
@@ -379,6 +317,237 @@
         "coordinates": [
           -40.2981734,
           -20.3165108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12531997835",
+      "properties": {
+        "timestamp": "2025-01-25T16:31:14Z",
+        "version": 1,
+        "changeset": 161753058,
+        "addr:city": "Vitória",
+        "addr:postcode": "29060-230",
+        "addr:street": "Avenida Dante Michelini",
+        "addr:suburb": "Jardim da Penha",
+        "amenity": "bicycle_rental",
+        "capacity": "28",
+        "email": "bikevitoria@serttel.com.br",
+        "fee": "yes",
+        "name": "Bike Vitória - Estação 16",
+        "network": "Sistema de Bicicletas Públicas Bike Vitória",
+        "opening_hours": "Su-Su 05:00-23:59",
+        "operator": "Serttel",
+        "operator:type": "private",
+        "payment:app": "yes",
+        "phone": "40034704",
+        "website": "https://www.bikevitoria.com",
+        "id": "node/12531997835"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.2907893,
+          -20.2872676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12531997836",
+      "properties": {
+        "timestamp": "2025-01-25T16:31:14Z",
+        "version": 1,
+        "changeset": 161753058,
+        "addr:city": "Vitória",
+        "addr:postcode": "29060-230",
+        "addr:street": "Avenida Dante Michelini",
+        "addr:suburb": "Jardim da Penha",
+        "amenity": "bicycle_rental",
+        "capacity": "20",
+        "email": "bikevitoria@serttel.com.br",
+        "fee": "yes",
+        "name": "Bike Vitória - Estação 17",
+        "network": "Sistema de Bicicletas Públicas Bike Vitória",
+        "opening_hours": "Su-Su 05:00-23:59",
+        "operator": "Serttel",
+        "operator:type": "private",
+        "payment:app": "yes",
+        "phone": "40034704",
+        "website": "https://www.bikevitoria.com",
+        "id": "node/12531997836"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.2893472,
+          -20.2830128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12531997837",
+      "properties": {
+        "timestamp": "2025-01-25T16:31:14Z",
+        "version": 1,
+        "changeset": 161753058,
+        "addr:city": "Vitória",
+        "addr:postcode": "29060-230",
+        "addr:street": "Avenida Dante Michelini",
+        "addr:suburb": "Jardim da Penha",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "email": "bikevitoria@serttel.com.br",
+        "fee": "yes",
+        "name": "Bike Vitória Kids - Estação 102",
+        "network": "Sistema de Bicicletas Públicas Bike Vitória",
+        "opening_hours": "Su-Su 05:00-23:59",
+        "operator": "Serttel",
+        "operator:type": "private",
+        "payment:app": "yes",
+        "phone": "40034704",
+        "website": "https://www.bikevitoria.com",
+        "id": "node/12531997837"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.2894802,
+          -20.2832728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12531997838",
+      "properties": {
+        "timestamp": "2025-01-25T16:31:14Z",
+        "version": 1,
+        "changeset": 161753058,
+        "addr:city": "Vitória",
+        "addr:postcode": "29060-230",
+        "addr:street": "Avenida Dante Michelini",
+        "addr:suburb": "Jardim da Penha",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "email": "bikevitoria@serttel.com.br",
+        "fee": "yes",
+        "name": "Bike Vitória - Estação 18",
+        "network": "Sistema de Bicicletas Públicas Bike Vitória",
+        "opening_hours": "Su-Su 05:00-23:59",
+        "operator": "Serttel",
+        "operator:type": "private",
+        "payment:app": "yes",
+        "phone": "40034704",
+        "website": "https://www.bikevitoria.com",
+        "id": "node/12531997838"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.2789798,
+          -20.272826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12531997839",
+      "properties": {
+        "timestamp": "2025-01-25T16:31:14Z",
+        "version": 1,
+        "changeset": 161753058,
+        "addr:city": "Vitória",
+        "addr:postcode": "29060-230",
+        "addr:street": "Avenida Dante Michelini",
+        "addr:suburb": "Jardim da Penha",
+        "amenity": "bicycle_rental",
+        "capacity": "28",
+        "email": "bikevitoria@serttel.com.br",
+        "fee": "yes",
+        "name": "Bike Vitória - Estação 19",
+        "network": "Sistema de Bicicletas Públicas Bike Vitória",
+        "opening_hours": "Su-Su 05:00-23:59",
+        "operator": "Serttel",
+        "operator:type": "private",
+        "payment:app": "yes",
+        "phone": "40034704",
+        "website": "https://www.bikevitoria.com",
+        "id": "node/12531997839"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.269203,
+          -20.266898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12531997840",
+      "properties": {
+        "timestamp": "2025-01-25T16:31:14Z",
+        "version": 1,
+        "changeset": 161753058,
+        "addr:city": "Vitória",
+        "addr:postcode": "29060-230",
+        "addr:street": "Avenida Dante Michelini",
+        "addr:suburb": "Jardim da Penha",
+        "amenity": "bicycle_rental",
+        "capacity": "12",
+        "email": "bikevitoria@serttel.com.br",
+        "fee": "yes",
+        "name": "Bike Vitória Kids - Estação 101",
+        "network": "Sistema de Bicicletas Públicas Bike Vitória",
+        "opening_hours": "Su-Su 05:00-23:59",
+        "operator": "Serttel",
+        "operator:type": "private",
+        "payment:app": "yes",
+        "phone": "40034704",
+        "website": "https://www.bikevitoria.com",
+        "id": "node/12531997840"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.2693704,
+          -20.2669664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12531997841",
+      "properties": {
+        "timestamp": "2025-01-25T16:31:14Z",
+        "version": 1,
+        "changeset": 161753058,
+        "addr:city": "Vitória",
+        "addr:postcode": "29060-230",
+        "addr:street": "Avenida Dante Michelini",
+        "addr:suburb": "Jardim da Penha",
+        "amenity": "bicycle_rental",
+        "capacity": "20",
+        "email": "bikevitoria@serttel.com.br",
+        "fee": "yes",
+        "name": "Bike Vitória - Estação 20",
+        "network": "Sistema de Bicicletas Públicas Bike Vitória",
+        "opening_hours": "Su-Su 05:00-23:59",
+        "operator": "Serttel",
+        "operator:type": "private",
+        "payment:app": "yes",
+        "phone": "40034704",
+        "website": "https://www.bikevitoria.com",
+        "id": "node/12531997841"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.2630853,
+          -20.2648918
         ]
       }
     }

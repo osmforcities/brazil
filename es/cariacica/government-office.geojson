@@ -214,9 +214,9 @@
       "type": "Feature",
       "id": "way/1330539216",
       "properties": {
-        "timestamp": "2025-01-02T04:19:37Z",
-        "version": 3,
-        "changeset": 160892549,
+        "timestamp": "2025-01-25T23:06:18Z",
+        "version": 4,
+        "changeset": 161764271,
         "addr:city": "Cariacica",
         "addr:postcode": "29140-841",
         "addr:street": "Rua Manoel Laurentino",
@@ -251,6 +251,10 @@
             [
               -40.3667357,
               -20.3221663
+            ],
+            [
+              -40.3667278,
+              -20.3221319
             ],
             [
               -40.3666938,
@@ -814,6 +818,35 @@
               -20.3388972
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5691151562",
+      "properties": {
+        "timestamp": "2025-01-25T23:06:18Z",
+        "version": 2,
+        "changeset": 161764271,
+        "addr:city": "Cariacica",
+        "addr:street": "Rua Lucílio Chagas",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "EEEFM Itagiba Escobar",
+        "network": "Transcol",
+        "network:wikidata": "Q10372119",
+        "operator": "CETURB",
+        "public_transport": "platform",
+        "ref": "330967",
+        "source": "CETURB",
+        "source:date": "2018-06-12",
+        "id": "node/5691151562"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.3667278,
+          -20.3221319
         ]
       }
     },

@@ -455,6 +455,111 @@
     },
     {
       "type": "Feature",
+      "id": "relation/6260740",
+      "properties": {
+        "timestamp": "2025-01-22T02:43:19Z",
+        "version": 7,
+        "changeset": 161621180,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "140",
+        "addr:postcode": "01208-000",
+        "addr:street": "Rua dos Andradas",
+        "addr:suburb": "Santa Ifigênia",
+        "amenity": "college",
+        "building": "college",
+        "internet_access": "no",
+        "isced:level": "3",
+        "landuse": "education",
+        "name": "Centro Paula Souza",
+        "office": "educational_institution",
+        "operator": "Centro Paula Souza",
+        "operator:type": "public",
+        "operator:wikidata": "Q52637715",
+        "type": "multipolygon",
+        "id": "relation/6260740"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.6377648,
+              -23.5384532
+            ],
+            [
+              -46.6375889,
+              -23.5386882
+            ],
+            [
+              -46.6373369,
+              -23.5390249
+            ],
+            [
+              -46.6367468,
+              -23.5386352
+            ],
+            [
+              -46.6369774,
+              -23.5381735
+            ],
+            [
+              -46.6370594,
+              -23.5380094
+            ],
+            [
+              -46.6377648,
+              -23.5384532
+            ]
+          ],
+          [
+            [
+              -46.6371412,
+              -23.5384274
+            ],
+            [
+              -46.6370286,
+              -23.5383594
+            ],
+            [
+              -46.6369481,
+              -23.5385036
+            ],
+            [
+              -46.6370406,
+              -23.5385618
+            ],
+            [
+              -46.6371412,
+              -23.5384274
+            ]
+          ],
+          [
+            [
+              -46.6375315,
+              -23.5385061
+            ],
+            [
+              -46.6373384,
+              -23.5383846
+            ],
+            [
+              -46.637157,
+              -23.538627
+            ],
+            [
+              -46.63735,
+              -23.5387485
+            ],
+            [
+              -46.6375315,
+              -23.5385061
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "relation/6289130",
       "properties": {
         "timestamp": "2023-10-28T00:18:41Z",
@@ -10156,9 +10261,9 @@
       "type": "Feature",
       "id": "node/5221741617",
       "properties": {
-        "timestamp": "2021-09-15T18:44:36Z",
-        "version": 3,
-        "changeset": 111258407,
+        "timestamp": "2025-01-22T02:38:00Z",
+        "version": 4,
+        "changeset": 161621094,
         "addr:city": "São Paulo",
         "addr:housenumber": "145",
         "addr:postcode": "01208-030",
@@ -10167,7 +10272,9 @@
         "amenity": "college",
         "internet_access": "no",
         "name": "ETEC Santa Ifigênia",
-        "operator": "Governo",
+        "operator": "Centro Paula Souza",
+        "operator:type": "public",
+        "operator:wikidata": "Q52637715",
         "id": "node/5221741617"
       },
       "geometry": {
@@ -11191,6 +11298,48 @@
         "coordinates": [
           -46.6220959,
           -23.5382757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9095117195",
+      "properties": {
+        "timestamp": "2021-09-15T18:44:36Z",
+        "version": 1,
+        "changeset": 111258407,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "140",
+        "addr:postcode": "01208-000",
+        "addr:street": "Rua dos Andradas",
+        "id": "node/9095117195"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6375889,
+          -23.5386882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9095117196",
+      "properties": {
+        "timestamp": "2021-09-15T18:44:36Z",
+        "version": 1,
+        "changeset": 111258407,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "145",
+        "addr:postcode": "01208-030",
+        "addr:street": "Rua General Couto de Magalhães",
+        "id": "node/9095117196"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6369774,
+          -23.5381735
         ]
       }
     },

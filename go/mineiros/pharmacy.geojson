@@ -170,14 +170,15 @@
       "type": "Feature",
       "id": "way/721156505",
       "properties": {
-        "timestamp": "2019-09-02T12:22:53Z",
-        "version": 1,
-        "changeset": 73998655,
+        "timestamp": "2025-01-22T10:58:59Z",
+        "version": 2,
+        "changeset": 161633060,
         "amenity": "pharmacy",
         "building": "yes",
+        "check_date": "2025-01-22",
         "dispensing": "yes",
         "healthcare": "pharmacy",
-        "name": "Farmácio Santa Laura",
+        "name": "Farmácia Santa Laura",
         "id": "way/721156505"
       },
       "geometry": {
@@ -359,13 +360,16 @@
       "type": "Feature",
       "id": "node/12461489453",
       "properties": {
-        "timestamp": "2024-12-29T19:52:48Z",
-        "version": 1,
-        "changeset": 160765918,
+        "timestamp": "2025-01-22T00:45:36Z",
+        "version": 2,
+        "changeset": 161619739,
+        "addr:housenumber": "Quadra 31 Lote 14B",
+        "addr:street": "Avenida Ino Rezende esquina com Rua Piratini",
         "amenity": "pharmacy",
-        "check_date": "2024-12-29",
+        "check_date": "2025-01-21",
         "healthcare": "pharmacy",
         "name": "Drogaria Confiança",
+        "phone": "+55 64 3661-3931; +55 64 98421-1198; +55 64 99642-8565",
         "id": "node/12461489453"
       },
       "geometry": {
@@ -478,6 +482,27 @@
         "coordinates": [
           -52.5651783,
           -17.566492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12521765679",
+      "properties": {
+        "timestamp": "2025-01-22T00:45:36Z",
+        "version": 1,
+        "changeset": 161619739,
+        "amenity": "pharmacy",
+        "check_date": "2025-01-21",
+        "healthcare": "pharmacy",
+        "name": "Drogaria Brasil",
+        "id": "node/12521765679"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.5603061,
+          -17.5661795
         ]
       }
     }

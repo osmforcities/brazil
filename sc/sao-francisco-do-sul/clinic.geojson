@@ -239,6 +239,47 @@
     },
     {
       "type": "Feature",
+      "id": "way/1112991274",
+      "properties": {
+        "timestamp": "2025-01-26T02:36:01Z",
+        "version": 2,
+        "changeset": 161767164,
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "ESF Iperoba",
+        "id": "way/1112991274"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.5716799,
+              -26.2187255
+            ],
+            [
+              -48.5717552,
+              -26.2187613
+            ],
+            [
+              -48.5717135,
+              -26.2188318
+            ],
+            [
+              -48.5716383,
+              -26.218796
+            ],
+            [
+              -48.5716799,
+              -26.2187255
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/1578616892",
       "properties": {
         "timestamp": "2021-03-31T04:43:24Z",
@@ -368,26 +409,6 @@
         "coordinates": [
           -48.6157822,
           -26.2304859
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/8254696960",
-      "properties": {
-        "timestamp": "2022-11-14T12:19:34Z",
-        "version": 2,
-        "changeset": 128888610,
-        "amenity": "clinic",
-        "healthcare": "clinic",
-        "name": "ESF Iperoba",
-        "id": "node/8254696960"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.571699,
-          -26.2187851
         ]
       }
     },

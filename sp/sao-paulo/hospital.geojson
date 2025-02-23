@@ -12875,10 +12875,11 @@
       "type": "Feature",
       "id": "way/960013795",
       "properties": {
-        "timestamp": "2021-07-01T07:26:18Z",
-        "version": 1,
-        "changeset": 107244477,
+        "timestamp": "2025-01-26T20:49:46Z",
+        "version": 2,
+        "changeset": 161795174,
         "amenity": "hospital",
+        "check_date": "2025-01-26",
         "name": "Albert Einstein Medicina Diagnóstica",
         "id": "way/960013795"
       },
@@ -20719,6 +20720,46 @@
         "coordinates": [
           -46.6821988,
           -23.5793692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12534869865",
+      "properties": {
+        "timestamp": "2025-01-26T20:46:21Z",
+        "version": 1,
+        "changeset": 161795033,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Amato",
+        "id": "node/12534869865"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6780331,
+          -23.5649269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12534877571",
+      "properties": {
+        "timestamp": "2025-01-26T20:50:42Z",
+        "version": 1,
+        "changeset": 161795033,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Sírio Libanês",
+        "id": "node/12534877571"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.668149,
+          -23.5733788
         ]
       }
     }

@@ -217,10 +217,11 @@
       "type": "Feature",
       "id": "way/988374100",
       "properties": {
-        "timestamp": "2021-09-30T16:41:19Z",
-        "version": 1,
-        "changeset": 111926162,
+        "timestamp": "2025-01-26T01:59:32Z",
+        "version": 2,
+        "changeset": 161766671,
         "amenity": "school",
+        "barrier": "wall",
         "name": "Unidade Integrada Manoel Da Silva Costa",
         "id": "way/988374100"
       },
@@ -229,24 +230,32 @@
         "coordinates": [
           [
             [
-              -45.4972064,
-              -7.0247546
+              -45.4972198,
+              -7.024714
             ],
             [
-              -45.4970091,
-              -7.0252865
+              -45.4970266,
+              -7.0252362
             ],
             [
-              -45.4964828,
-              -7.0250942
+              -45.496492,
+              -7.0250587
             ],
             [
-              -45.4966801,
-              -7.0245623
+              -45.4966219,
+              -7.0246907
             ],
             [
-              -45.4972064,
-              -7.0247546
+              -45.496739,
+              -7.0247314
+            ],
+            [
+              -45.4967971,
+              -7.0245668
+            ],
+            [
+              -45.4972198,
+              -7.024714
             ]
           ]
         ]
@@ -328,6 +337,47 @@
             [
               -45.4907549,
               -7.0309753
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1354309170",
+      "properties": {
+        "timestamp": "2025-01-26T01:59:32Z",
+        "version": 1,
+        "changeset": 161766671,
+        "addr:street": "Travessa Ouro Preto",
+        "amenity": "school",
+        "barrier": "wall",
+        "name": "Unidade Escolar Santos Dumont",
+        "id": "way/1354309170"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -45.4999893,
+              -7.0191512
+            ],
+            [
+              -45.4997859,
+              -7.0192411
+            ],
+            [
+              -45.4996787,
+              -7.0190024
+            ],
+            [
+              -45.4998822,
+              -7.0189124
+            ],
+            [
+              -45.4999893,
+              -7.0191512
             ]
           ]
         ]
@@ -608,25 +658,6 @@
         "coordinates": [
           -45.4827897,
           -7.0261425
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/9152177162",
-      "properties": {
-        "timestamp": "2021-10-06T12:49:09Z",
-        "version": 1,
-        "changeset": 112168814,
-        "amenity": "school",
-        "name": "Unidade Escolar Santos Dumont",
-        "id": "node/9152177162"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -45.4997981,
-          -7.0190907
         ]
       }
     },

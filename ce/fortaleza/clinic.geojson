@@ -3457,89 +3457,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/714605546",
-      "properties": {
-        "timestamp": "2023-05-05T17:15:35Z",
-        "version": 2,
-        "changeset": 135749713,
-        "amenity": "clinic",
-        "building": "yes",
-        "building:levels": "3",
-        "healthcare": "clinic",
-        "height": "8.3",
-        "name": "Clínica Popular do Ceará",
-        "id": "way/714605546"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -38.5868176,
-              -3.788639
-            ],
-            [
-              -38.5868521,
-              -3.788616
-            ],
-            [
-              -38.5869308,
-              -3.7885632
-            ],
-            [
-              -38.5869279,
-              -3.7885586
-            ],
-            [
-              -38.5869338,
-              -3.7885546
-            ],
-            [
-              -38.5869837,
-              -3.7886063
-            ],
-            [
-              -38.5869671,
-              -3.7886176
-            ],
-            [
-              -38.5869447,
-              -3.7886328
-            ],
-            [
-              -38.5868852,
-              -3.7886732
-            ],
-            [
-              -38.5868796,
-              -3.788677
-            ],
-            [
-              -38.5868268,
-              -3.7887129
-            ],
-            [
-              -38.5867689,
-              -3.7887522
-            ],
-            [
-              -38.5867308,
-              -3.7886944
-            ],
-            [
-              -38.5868156,
-              -3.788636
-            ],
-            [
-              -38.5868176,
-              -3.788639
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/717580388",
       "properties": {
         "timestamp": "2021-06-26T20:30:45Z",
@@ -15578,6 +15495,32 @@
         "coordinates": [
           -38.5089833,
           -3.7468179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10726641538",
+      "properties": {
+        "timestamp": "2025-01-27T14:38:29Z",
+        "version": 2,
+        "changeset": 161821106,
+        "addr:city": "Fortaleza",
+        "addr:housenumber": "2962",
+        "addr:postcode": "60542-122",
+        "addr:street": "Avenida General Osório de Paiva",
+        "addr:suburb": "Bonsucesso",
+        "amenity": "clinic",
+        "check_date": "2024-09-01",
+        "healthcare": "clinic",
+        "name": "Clínica Popular do Ceará",
+        "id": "node/10726641538"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.586769,
+          -3.7887135
         ]
       }
     },

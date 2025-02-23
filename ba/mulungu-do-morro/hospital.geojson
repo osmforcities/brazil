@@ -5,12 +5,15 @@
       "type": "Feature",
       "id": "way/1338022788",
       "properties": {
-        "timestamp": "2024-11-26T15:55:31Z",
-        "version": 1,
-        "changeset": 159623235,
+        "timestamp": "2025-01-27T20:45:33Z",
+        "version": 2,
+        "changeset": 161834367,
+        "addr:city": "Mulungu do Morro",
+        "addr:street": "Primeira Travessa ACM",
+        "addr:suburb": "Centro",
         "amenity": "hospital",
+        "emergency": "yes",
         "healthcare": "hospital",
-        "name": "Hospital Municipal do Povo - Abdias Verde",
         "id": "way/1338022788"
       },
       "geometry": {
@@ -54,6 +57,29 @@
               -11.96494
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12537198986",
+      "properties": {
+        "timestamp": "2025-01-27T20:45:33Z",
+        "version": 1,
+        "changeset": 161834367,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "Hospital Municipal do Povo - Abdias Verde",
+        "operator": "Prefeitura Municipal de Mulungu do Morro",
+        "operator:type": "public",
+        "id": "node/12537198986"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.6418408,
+          -11.9649641
         ]
       }
     }

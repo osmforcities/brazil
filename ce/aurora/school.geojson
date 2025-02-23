@@ -479,9 +479,9 @@
       "type": "Feature",
       "id": "way/1354431999",
       "properties": {
-        "timestamp": "2025-01-26T18:58:20Z",
-        "version": 2,
-        "changeset": 161791785,
+        "timestamp": "2025-01-27T21:02:49Z",
+        "version": 3,
+        "changeset": 161834894,
         "addr:city": "Aurora",
         "addr:postcode": "63360-000",
         "addr:street": "Avenida Vicente Tavares Simões",
@@ -501,6 +501,14 @@
             [
               -38.9588484,
               -6.9438106
+            ],
+            [
+              -38.9581184,
+              -6.9435835
+            ],
+            [
+              -38.9580138,
+              -6.943551
             ],
             [
               -38.9579853,
@@ -540,6 +548,55 @@
         "coordinates": [
           -38.8488032,
           -6.8900538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12537227217",
+      "properties": {
+        "timestamp": "2025-01-27T21:02:49Z",
+        "version": 1,
+        "changeset": 161834894,
+        "access": "private",
+        "barrier": "wicket_gate",
+        "bicycle": "no",
+        "foot": "no",
+        "horse": "no",
+        "locked": "yes",
+        "motor_vehicle": "no",
+        "id": "node/12537227217"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.9580138,
+          -6.943551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12537227218",
+      "properties": {
+        "timestamp": "2025-01-27T21:02:49Z",
+        "version": 1,
+        "changeset": 161834894,
+        "access": "destination",
+        "barrier": "gate",
+        "bicycle": "customers",
+        "foot": "designated",
+        "horse": "no",
+        "material": "metal",
+        "motor_vehicle": "customers",
+        "wheelchair": "yes",
+        "id": "node/12537227218"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.9581184,
+          -6.9435835
         ]
       }
     }

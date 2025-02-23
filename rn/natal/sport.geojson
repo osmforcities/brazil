@@ -15393,20 +15393,19 @@
       "type": "Feature",
       "id": "way/1342971081",
       "properties": {
-        "timestamp": "2024-12-17T15:57:34Z",
-        "version": 1,
-        "changeset": 160307076,
+        "timestamp": "2025-01-27T15:15:11Z",
+        "version": 2,
+        "changeset": 161822601,
         "access": "permissive",
         "addr:city": "Natal",
         "addr:housenumber": "7",
         "addr:postcode": "59110-220",
-        "addr:street": "R. Vital Ramos",
+        "addr:street": "Rua Vital Ramos",
         "addr:suburb": "Potengi",
         "description": "It is the field where the President of the Republic (Lula) landed by helicopter",
         "leisure": "pitch",
         "lit": "yes",
         "name": "Campo de Futebol Arena Piabão",
-        "ref": "ao lado da praca do santa Catarina",
         "sport": "soccer",
         "surface": "grass",
         "id": "way/1342971081"
@@ -15416,24 +15415,24 @@
         "coordinates": [
           [
             [
-              -35.2573389,
-              -5.7538131
+              -35.2575172,
+              -5.7537389
             ],
             [
-              -35.2582451,
-              -5.7530596
+              -35.2582589,
+              -5.753086
             ],
             [
-              -35.2588727,
-              -5.7537565
+              -35.2586792,
+              -5.7535585
             ],
             [
-              -35.2580063,
-              -5.7544943
+              -35.2579376,
+              -5.7542116
             ],
             [
-              -35.2573389,
-              -5.7538131
+              -35.2575172,
+              -5.7537389
             ]
           ]
         ]
@@ -15443,13 +15442,11 @@
       "type": "Feature",
       "id": "way/1342975793",
       "properties": {
-        "timestamp": "2024-12-17T16:10:53Z",
-        "version": 1,
-        "changeset": 160308002,
+        "timestamp": "2025-01-27T15:15:11Z",
+        "version": 2,
+        "changeset": 161822601,
         "access": "yes",
-        "description": "a gravel football field",
         "leisure": "pitch",
-        "name": "campo de terra do santa Catarina",
         "sport": "soccer",
         "surface": "gravel",
         "id": "way/1342975793"
@@ -15486,12 +15483,12 @@
       "type": "Feature",
       "id": "way/1342981391",
       "properties": {
-        "timestamp": "2024-12-17T16:20:07Z",
-        "version": 1,
-        "changeset": 160308680,
+        "timestamp": "2025-01-27T15:15:11Z",
+        "version": 2,
+        "changeset": 161822601,
         "access": "yes",
         "leisure": "pitch",
-        "name": "arena da praça do santa Catarina",
+        "name": "Arena da Praça do santa Catarina",
         "sport": "basketball;futsal",
         "surface": "concrete",
         "id": "way/1342981391"
@@ -15528,15 +15525,11 @@
       "type": "Feature",
       "id": "way/1342985708",
       "properties": {
-        "timestamp": "2024-12-17T16:29:19Z",
-        "version": 1,
-        "changeset": 160309171,
-        "area": "yes",
-        "highway": "raceway",
-        "name": "pista de motrocross",
-        "oneway": "yes",
+        "timestamp": "2025-01-27T15:15:11Z",
+        "version": 2,
+        "changeset": 161822601,
+        "leisure": "sports_centre",
         "sport": "motocross",
-        "surface": "sand",
         "id": "way/1342985708"
       },
       "geometry": {
@@ -15544,24 +15537,32 @@
         "coordinates": [
           [
             [
-              -35.2568894,
-              -5.7521163
+              -35.2569216,
+              -5.7521591
             ],
             [
-              -35.257243,
-              -5.7517107
+              -35.2572658,
+              -5.7517576
             ],
             [
-              -35.2577503,
-              -5.7520743
+              -35.2575708,
+              -5.7520062
             ],
             [
-              -35.2573417,
-              -5.7525584
+              -35.2577098,
+              -5.7521172
             ],
             [
-              -35.2568894,
-              -5.7521163
+              -35.2573188,
+              -5.7525181
+            ],
+            [
+              -35.2571458,
+              -5.7523651
+            ],
+            [
+              -35.2569216,
+              -5.7521591
             ]
           ]
         ]
@@ -16365,6 +16366,76 @@
           [
             -35.2542039,
             -5.8632027
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1354664310",
+      "properties": {
+        "timestamp": "2025-01-27T15:15:11Z",
+        "version": 1,
+        "changeset": 161822601,
+        "highway": "raceway",
+        "sport": "motocross",
+        "surface": "sand",
+        "id": "way/1354664310"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -35.257497,
+            -5.7521039
+          ],
+          [
+            -35.2574498,
+            -5.7521831
+          ],
+          [
+            -35.2573999,
+            -5.7522395
+          ],
+          [
+            -35.2573231,
+            -5.7522905
+          ],
+          [
+            -35.2572287,
+            -5.7523455
+          ],
+          [
+            -35.2572138,
+            -5.7523965
+          ],
+          [
+            -35.2572597,
+            -5.752426
+          ],
+          [
+            -35.2573689,
+            -5.7523817
+          ],
+          [
+            -35.2574552,
+            -5.7523079
+          ],
+          [
+            -35.2575361,
+            -5.7522247
+          ],
+          [
+            -35.2575645,
+            -5.7521563
+          ],
+          [
+            -35.2575483,
+            -5.7521174
+          ],
+          [
+            -35.257497,
+            -5.7521039
           ]
         ]
       }

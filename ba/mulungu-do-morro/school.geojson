@@ -3,48 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": "way/232664295",
-      "properties": {
-        "timestamp": "2024-11-26T15:55:31Z",
-        "version": 3,
-        "changeset": 159623235,
-        "amenity": "school",
-        "id": "way/232664295"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -41.6462845,
-              -11.9672237
-            ],
-            [
-              -41.646074,
-              -11.9677969
-            ],
-            [
-              -41.6452779,
-              -11.9674611
-            ],
-            [
-              -41.6455166,
-              -11.9669127
-            ],
-            [
-              -41.6459576,
-              -11.9670913
-            ],
-            [
-              -41.6462845,
-              -11.9672237
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/1338022791",
       "properties": {
         "timestamp": "2024-11-26T15:55:31Z",
@@ -78,6 +36,73 @@
               -11.9676909
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1354742563",
+      "properties": {
+        "timestamp": "2025-01-27T20:45:33Z",
+        "version": 1,
+        "changeset": 161834367,
+        "amenity": "school",
+        "id": "way/1354742563"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.6195061,
+              -11.9505889
+            ],
+            [
+              -41.6194898,
+              -11.951016
+            ],
+            [
+              -41.61938,
+              -11.951064
+            ],
+            [
+              -41.6192773,
+              -11.9509269
+            ],
+            [
+              -41.6192399,
+              -11.950598
+            ],
+            [
+              -41.6195061,
+              -11.9505889
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12537198985",
+      "properties": {
+        "timestamp": "2025-01-27T20:45:33Z",
+        "version": 1,
+        "changeset": 161834367,
+        "addr:city": "Mulungu do Morro",
+        "addr:street": "Rodovia BR-122",
+        "addr:suburb": "Centro",
+        "amenity": "school",
+        "name": "Colégio Estadual de Mulungu do Morro",
+        "operator": "Governo do Estado da Bahia",
+        "operator:type": "government",
+        "operator:wikidata": "Q61641530",
+        "id": "node/12537198985"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.64572,
+          -11.9673668
         ]
       }
     }

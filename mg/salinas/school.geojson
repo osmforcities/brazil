@@ -97,11 +97,18 @@
       "type": "Feature",
       "id": "way/1067778198",
       "properties": {
-        "timestamp": "2022-06-08T04:45:18Z",
-        "version": 1,
-        "changeset": 122097361,
+        "timestamp": "2025-01-29T19:32:56Z",
+        "version": 3,
+        "changeset": 161911135,
+        "addr:city": "Salinas",
+        "addr:postcode": "39560-000",
+        "addr:street": "Praça Doutor João Cardoso de Araújo",
+        "addr:suburb": "Centro",
         "amenity": "school",
-        "name": "Escola Doutor João Porfírio",
+        "name": "Escola Estadual Doutor João Porfírio",
+        "operator": "Secretaria de Estado de Educação de Minas Gerais",
+        "operator:type": "government",
+        "operator:wikidata": "Q61612780",
         "id": "way/1067778198"
       },
       "geometry": {
@@ -133,6 +140,213 @@
               -16.1695606
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1355183425",
+      "properties": {
+        "timestamp": "2025-01-29T14:29:51Z",
+        "version": 1,
+        "changeset": 161899874,
+        "addr:city": "Salinas",
+        "addr:housenumber": "711",
+        "addr:postcode": "39560-000",
+        "addr:street": "Avenida Floripes Crispim",
+        "addr:suburb": "Boa Vista",
+        "amenity": "school",
+        "name": "Escola Estadual Professor Elídio Duque",
+        "operator": "Secretaria de Estado de Educação de Minas Gerais",
+        "operator:type": "government",
+        "operator:wikidata": "Q61612780",
+        "id": "way/1355183425"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.300827,
+              -16.1672357
+            ],
+            [
+              -42.3009558,
+              -16.1681811
+            ],
+            [
+              -42.2997783,
+              -16.1683177
+            ],
+            [
+              -42.2996388,
+              -16.1673568
+            ],
+            [
+              -42.300827,
+              -16.1672357
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12542491806",
+      "properties": {
+        "timestamp": "2025-01-29T19:32:56Z",
+        "version": 1,
+        "changeset": 161911135,
+        "addr:city": "Salinas",
+        "addr:housenumber": "150",
+        "addr:postcode": "39560-000",
+        "addr:street": "Rua Teodomiro Sarmento",
+        "addr:suburb": "São Pedro",
+        "amenity": "school",
+        "name": "Escola Estadual Professor José Miranda",
+        "operator": "Secretaria de Estado de Educação de Minas Gerais",
+        "operator:type": "government",
+        "operator:wikidata": "Q61612780",
+        "id": "node/12542491806"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.2967495,
+          -16.1731081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12542491808",
+      "properties": {
+        "timestamp": "2025-01-29T19:32:56Z",
+        "version": 1,
+        "changeset": 161911135,
+        "addr:city": "Salinas",
+        "addr:housenumber": "333",
+        "addr:postcode": "39560-000",
+        "addr:street": "Rua Padre Salustiano",
+        "addr:suburb": "Centro",
+        "amenity": "school",
+        "name": "Escola Estadual Coronel Idalino Ribeiro",
+        "operator": "Secretaria de Estado de Educação de Minas Gerais",
+        "operator:type": "government",
+        "operator:wikidata": "Q61612780",
+        "id": "node/12542491808"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.2934479,
+          -16.1711591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12542653933",
+      "properties": {
+        "timestamp": "2025-01-29T21:05:40Z",
+        "version": 1,
+        "changeset": 161914034,
+        "addr:city": "Salinas",
+        "addr:housenumber": "1170",
+        "addr:postcode": "39560-000",
+        "addr:street": "Avenida Antônio Carlos",
+        "addr:suburb": "Casablanca",
+        "amenity": "school",
+        "name": "Escola Municipal Professora Áurea Paula de Souza",
+        "operator": "Município de Salinas",
+        "operator:type": "public",
+        "id": "node/12542653933"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.2884029,
+          -16.157367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12542653938",
+      "properties": {
+        "timestamp": "2025-01-29T21:05:40Z",
+        "version": 1,
+        "changeset": 161914034,
+        "addr:city": "Salinas",
+        "addr:housenumber": "370",
+        "addr:postcode": "39560-000",
+        "addr:street": "Alameda dos Oitis",
+        "addr:suburb": "Silvio Santiago",
+        "amenity": "school",
+        "name": "Escola Estadual Doutor Oswaldo Predilian",
+        "operator": "Secretaria de Estado de Educação de Minas Gerais",
+        "operator:type": "government",
+        "operator:wikidata": "Q61612780",
+        "id": "node/12542653938"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.2826449,
+          -16.1628167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12542653948",
+      "properties": {
+        "timestamp": "2025-01-29T21:05:40Z",
+        "version": 1,
+        "changeset": 161914034,
+        "addr:city": "Salinas",
+        "addr:housenumber": "41",
+        "addr:postcode": "39560-000",
+        "addr:street": "Rua Joaíma",
+        "addr:suburb": "Casa Blanca",
+        "amenity": "school",
+        "name": "Centro Municipal de Educação Infantil Professor Darcy Freire",
+        "operator": "Município de Salinas",
+        "operator:type": "public",
+        "id": "node/12542653948"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.2878972,
+          -16.1512461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12542653961",
+      "properties": {
+        "timestamp": "2025-01-29T21:05:40Z",
+        "version": 1,
+        "changeset": 161914034,
+        "addr:city": "Salinas",
+        "addr:housenumber": "282",
+        "addr:postcode": "39560-000",
+        "addr:street": "Rua Ametista",
+        "addr:suburb": "São Geraldo",
+        "amenity": "school",
+        "name": "Escola Estadual Professor Levindo Lamber",
+        "operator": "Secretaria de Estado de Educação de Minas Gerais",
+        "operator:type": "government",
+        "operator:wikidata": "Q61612780",
+        "id": "node/12542653961"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.2910661,
+          -16.1599271
         ]
       }
     }

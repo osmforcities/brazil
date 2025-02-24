@@ -1098,6 +1098,61 @@
     },
     {
       "type": "Feature",
+      "id": "way/1355086843",
+      "properties": {
+        "timestamp": "2025-01-29T03:26:20Z",
+        "version": 1,
+        "changeset": 161880739,
+        "addr:city": "São Gonçalo",
+        "addr:housenumber": "391",
+        "addr:postcode": "24445-300",
+        "addr:street": "Rua Doutor Nilo Peçanha",
+        "addr:suburb": "estrela do norte",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general;endoscopia;colonoscopia",
+        "name": "Samcordis",
+        "id": "way/1355086843"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.0367074,
+              -22.8206423
+            ],
+            [
+              -43.0366063,
+              -22.8206116
+            ],
+            [
+              -43.0364995,
+              -22.8205792
+            ],
+            [
+              -43.0367168,
+              -22.8201849
+            ],
+            [
+              -43.0367996,
+              -22.8202081
+            ],
+            [
+              -43.0368844,
+              -22.8202319
+            ],
+            [
+              -43.0367074,
+              -22.8206423
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/899637205",
       "properties": {
         "timestamp": "2010-09-06T21:23:17Z",
@@ -1212,6 +1267,43 @@
         "coordinates": [
           -42.9773445,
           -22.8232214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12540825011",
+      "properties": {
+        "timestamp": "2025-01-29T03:26:20Z",
+        "version": 1,
+        "changeset": 161880739,
+        "emergency": "emergency_ward_entrance",
+        "entrance": "yes",
+        "id": "node/12540825011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.0366063,
+          -22.8206116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12540825012",
+      "properties": {
+        "timestamp": "2025-01-29T03:26:20Z",
+        "version": 1,
+        "changeset": 161880739,
+        "amenity": "parking_entrance",
+        "id": "node/12540825012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.0367996,
+          -22.8202081
         ]
       }
     }

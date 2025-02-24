@@ -5343,9 +5343,9 @@
       "type": "Feature",
       "id": "way/406888713",
       "properties": {
-        "timestamp": "2024-12-19T06:09:53Z",
-        "version": 7,
-        "changeset": 160378522,
+        "timestamp": "2025-01-28T07:06:40Z",
+        "version": 10,
+        "changeset": 161845601,
         "addr:city": "São Paulo",
         "addr:housenumber": "2181",
         "addr:postcode": "01311-300",
@@ -5354,9 +5354,17 @@
         "brand": "Meliá",
         "brand:wikidata": "Q1815030",
         "building": "hotel",
+        "events_venue": "yes",
+        "fitness_centre": "yes",
         "height": "79.886",
-        "name": "Meliã",
+        "name": "Meliã Paulista",
+        "pets": "no",
+        "restaurant": "yes",
+        "sauna": "yes",
+        "smoking": "no",
+        "spa": "yes",
         "stars": "5",
+        "swimming_pool": "yes",
         "tourism": "hotel",
         "id": "way/406888713"
       },
@@ -28354,6 +28362,36 @@
         "coordinates": [
           -46.6536982,
           -23.5026195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12537633583",
+      "properties": {
+        "timestamp": "2025-01-28T03:15:28Z",
+        "version": 1,
+        "changeset": 161841712,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "271",
+        "addr:postcode": "04551-090",
+        "addr:street": "Alameda Raja Gabaglia",
+        "addr:suburb": "Vila Olímpia",
+        "check_date": "2025-01-28",
+        "currency:XBT": "yes",
+        "name": "Viva Benx Vila Olímpia",
+        "opening_hours": "24/7",
+        "payment:lightning": "yes",
+        "payment:lightning_contactless": "yes",
+        "payment:onchain": "yes",
+        "tourism": "hotel",
+        "id": "node/12537633583"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6896707,
+          -23.5968413
         ]
       }
     }

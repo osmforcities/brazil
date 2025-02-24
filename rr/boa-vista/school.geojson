@@ -105,6 +105,76 @@
     },
     {
       "type": "Feature",
+      "id": "relation/18623411",
+      "properties": {
+        "timestamp": "2025-01-28T22:31:32Z",
+        "version": 1,
+        "changeset": 161876024,
+        "addr:housenumber": "481",
+        "addr:street": "Rua Uruguai",
+        "amenity": "school",
+        "building": "yes",
+        "name": "Centro Educacional Infantil Jael da Silva Barradas",
+        "name:pt": "Centro Educacional Infantil Jael da Silva Barradas",
+        "type": "multipolygon",
+        "id": "relation/18623411"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -60.7114524,
+                2.8498943
+              ],
+              [
+                -60.7115892,
+                2.8497014
+              ],
+              [
+                -60.7113067,
+                2.8495016
+              ],
+              [
+                -60.7111699,
+                2.8496944
+              ],
+              [
+                -60.7114524,
+                2.8498943
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -60.7111707,
+                2.8503524
+              ],
+              [
+                -60.7114497,
+                2.8499506
+              ],
+              [
+                -60.7111586,
+                2.849749
+              ],
+              [
+                -60.7108797,
+                2.8501508
+              ],
+              [
+                -60.7111707,
+                2.8503524
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/353243840",
       "properties": {
         "timestamp": "2018-01-05T04:42:50Z",
@@ -3771,28 +3841,6 @@
         "coordinates": [
           -60.6666024,
           2.8170638
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/4445981590",
-      "properties": {
-        "timestamp": "2016-10-13T14:11:47Z",
-        "version": 1,
-        "changeset": 42867979,
-        "addr:housenumber": "481",
-        "addr:street": "Rua Uruguai",
-        "amenity": "school",
-        "name": "Centro Educacional Infantil Jael da Silva Barradas",
-        "name:pt": "Centro Educacional Infantil Jael da Silva Barradas",
-        "id": "node/4445981590"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -60.7110618,
-          2.8502908
         ]
       }
     },

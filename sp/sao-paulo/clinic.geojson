@@ -12909,6 +12909,62 @@
     },
     {
       "type": "Feature",
+      "id": "way/1354996681",
+      "properties": {
+        "timestamp": "2025-01-28T19:13:06Z",
+        "version": 1,
+        "changeset": 161870530,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "150",
+        "addr:street": "Rua José da Costa Gavião",
+        "amenity": "clinic",
+        "barrier": "wall",
+        "healthcare": "clinic",
+        "name": "AMA + USB Jardim Ladeira Rosa",
+        "id": "way/1354996681"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.6733591,
+              -23.4604204
+            ],
+            [
+              -46.6737326,
+              -23.4605541
+            ],
+            [
+              -46.6734851,
+              -23.4611407
+            ],
+            [
+              -46.6734624,
+              -23.4611945
+            ],
+            [
+              -46.673075,
+              -23.4610622
+            ],
+            [
+              -46.6733215,
+              -23.4604657
+            ],
+            [
+              -46.6733495,
+              -23.4604347
+            ],
+            [
+              -46.6733591,
+              -23.4604204
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/462898594",
       "properties": {
         "timestamp": "2023-04-13T13:58:06Z",
@@ -19646,6 +19702,27 @@
         "coordinates": [
           -46.6361311,
           -23.5931797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12539752885",
+      "properties": {
+        "timestamp": "2025-01-28T19:13:06Z",
+        "version": 1,
+        "changeset": 161870530,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "150",
+        "addr:street": "Rua José da Costa Gavião",
+        "entrance": "yes",
+        "id": "node/12539752885"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6734851,
+          -23.4611407
         ]
       }
     }

@@ -3356,6 +3356,144 @@
     },
     {
       "type": "Feature",
+      "id": "way/1354780289",
+      "properties": {
+        "timestamp": "2025-01-28T01:03:41Z",
+        "version": 1,
+        "changeset": 161839687,
+        "addr:city": "Cariacica",
+        "addr:housenumber": "354",
+        "addr:postcode": "29140-230",
+        "addr:street": "Rua Bolívia",
+        "addr:suburb": "Jardim América",
+        "amenity": "school",
+        "name": "CMEITI Celita Nascimento da Rós",
+        "operator": "Prefeitura Municipal de Cariacica",
+        "operator:type": "government",
+        "phone": "2733548214",
+        "id": "way/1354780289"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.3638268,
+              -20.3351082
+            ],
+            [
+              -40.3638987,
+              -20.3351508
+            ],
+            [
+              -40.3642746,
+              -20.3353734
+            ],
+            [
+              -40.3642074,
+              -20.3354957
+            ],
+            [
+              -40.3641162,
+              -20.3356349
+            ],
+            [
+              -40.3640732,
+              -20.335609
+            ],
+            [
+              -40.3637462,
+              -20.335422
+            ],
+            [
+              -40.3637521,
+              -20.3354115
+            ],
+            [
+              -40.363758,
+              -20.335401
+            ],
+            [
+              -40.3637309,
+              -20.3353671
+            ],
+            [
+              -40.3637117,
+              -20.3353347
+            ],
+            [
+              -40.3636799,
+              -20.3352685
+            ],
+            [
+              -40.3636709,
+              -20.3352497
+            ],
+            [
+              -40.3638268,
+              -20.3351082
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1354781350",
+      "properties": {
+        "timestamp": "2025-01-28T01:21:32Z",
+        "version": 1,
+        "changeset": 161839950,
+        "addr:city": "Cariacica",
+        "addr:housenumber": "102",
+        "addr:postcode": "29155-852",
+        "addr:street": "Rua Jade",
+        "addr:suburb": "Campo Verde",
+        "amenity": "school",
+        "name": "CMEITI Valdeci da Cruz Corrêa",
+        "operator": "Prefeitura Municipal de Cariacica",
+        "operator:type": "government",
+        "phone": "2733548227",
+        "id": "way/1354781350"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.4048629,
+              -20.2965742
+            ],
+            [
+              -40.4047329,
+              -20.2969596
+            ],
+            [
+              -40.4042661,
+              -20.2967966
+            ],
+            [
+              -40.4044096,
+              -20.2963701
+            ],
+            [
+              -40.4044825,
+              -20.2964029
+            ],
+            [
+              -40.4046586,
+              -20.2964822
+            ],
+            [
+              -40.4048629,
+              -20.2965742
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/2135506682",
       "properties": {
         "timestamp": "2019-07-11T17:33:19Z",
@@ -4317,9 +4455,9 @@
       "type": "Feature",
       "id": "node/3460745651",
       "properties": {
-        "timestamp": "2019-07-11T17:33:19Z",
-        "version": 4,
-        "changeset": 72146221,
+        "timestamp": "2025-01-28T01:29:42Z",
+        "version": 5,
+        "changeset": 161840081,
         "IJSN:administra": "Estadual",
         "IJSN:classeCnae": "Fundamental e Médio",
         "addr:city": "Cariacica",
@@ -4331,6 +4469,7 @@
         "addr:street": "Rua Claricio Alves Rideiro",
         "alt_name": "Escola Estadual de Ensino Fundamental e Médio",
         "amenity": "school",
+        "check_date": "2025-01-27",
         "contact:phone": "+55 27 3216-3165;+55 27 3336-6403",
         "name": "EEEFM Professor Joaquim Barbosa Quitiba",
         "id": "node/3460745651"
@@ -6055,6 +6194,42 @@
         "coordinates": [
           -40.3689527,
           -20.3805551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12537570150",
+      "properties": {
+        "timestamp": "2025-01-28T01:03:41Z",
+        "version": 1,
+        "changeset": 161839687,
+        "barrier": "gate",
+        "id": "node/12537570150"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.3637521,
+          -20.3354115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12537570158",
+      "properties": {
+        "timestamp": "2025-01-28T01:03:41Z",
+        "version": 1,
+        "changeset": 161839687,
+        "barrier": "gate",
+        "id": "node/12537570158"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.3636799,
+          -20.3352685
         ]
       }
     }

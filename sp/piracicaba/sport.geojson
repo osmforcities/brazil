@@ -9277,6 +9277,49 @@
     },
     {
       "type": "Feature",
+      "id": "way/1355376493",
+      "properties": {
+        "timestamp": "2025-01-30T13:36:36Z",
+        "version": 1,
+        "changeset": 161937927,
+        "access": "private",
+        "leisure": "pitch",
+        "lit": "yes",
+        "name": "C.A.Toca da Raposa",
+        "sport": "soccer",
+        "surface": "artificial_turf",
+        "id": "way/1355376493"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.6666109,
+              -22.7426213
+            ],
+            [
+              -47.6664782,
+              -22.7426954
+            ],
+            [
+              -47.6663223,
+              -22.7424579
+            ],
+            [
+              -47.666455,
+              -22.7423838
+            ],
+            [
+              -47.6666109,
+              -22.7426213
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/423654779",
       "properties": {
         "timestamp": "2021-01-04T00:54:02Z",
@@ -10818,6 +10861,44 @@
         "coordinates": [
           -47.6786928,
           -22.6796985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12543712329",
+      "properties": {
+        "timestamp": "2025-01-30T13:28:02Z",
+        "version": 1,
+        "changeset": 161937578,
+        "leisure": "fitness_station",
+        "sport": "fitness",
+        "id": "node/12543712329"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.6626233,
+          -22.7452754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12545004934",
+      "properties": {
+        "timestamp": "2025-01-30T23:08:00Z",
+        "version": 1,
+        "changeset": 161958428,
+        "leisure": "fitness_station",
+        "sport": "fitness",
+        "id": "node/12545004934"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.708406,
+          -22.6757697
         ]
       }
     }

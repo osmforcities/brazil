@@ -268,57 +268,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/544379271",
-      "properties": {
-        "timestamp": "2020-06-11T09:25:07Z",
-        "version": 4,
-        "changeset": 86508355,
-        "amenity": "school",
-        "name": "Escola Adventista de Campo Grande",
-        "id": "way/544379271"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -40.3770673,
-              -20.3401541
-            ],
-            [
-              -40.3772332,
-              -20.3401982
-            ],
-            [
-              -40.3772357,
-              -20.3401901
-            ],
-            [
-              -40.3775974,
-              -20.3402862
-            ],
-            [
-              -40.3774383,
-              -20.3408127
-            ],
-            [
-              -40.3769107,
-              -20.3406725
-            ],
-            [
-              -40.3769675,
-              -20.3404844
-            ],
-            [
-              -40.3770673,
-              -20.3401541
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/548502715",
       "properties": {
         "timestamp": "2017-12-22T07:26:49Z",
@@ -3494,6 +3443,126 @@
     },
     {
       "type": "Feature",
+      "id": "way/1355432883",
+      "properties": {
+        "timestamp": "2025-01-30T18:30:18Z",
+        "version": 1,
+        "changeset": 161948813,
+        "addr:city": "Cariacica",
+        "addr:postcode": "29146-040",
+        "addr:street": "Rua Mário Passos Costa",
+        "addr:suburb": "Campo Grande",
+        "amenity": "school",
+        "building": "school",
+        "mobile": "27995799342",
+        "name": "Colégio Lusiadas",
+        "phone": "2733362293",
+        "website": "https://www.lusiadas.com.br/",
+        "id": "way/1355432883"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.3938995,
+              -20.3400173
+            ],
+            [
+              -40.3935898,
+              -20.3403758
+            ],
+            [
+              -40.3934881,
+              -20.3404935
+            ],
+            [
+              -40.3933125,
+              -20.3403528
+            ],
+            [
+              -40.3934127,
+              -20.3402437
+            ],
+            [
+              -40.3937367,
+              -20.3398906
+            ],
+            [
+              -40.3938844,
+              -20.3400056
+            ],
+            [
+              -40.3938995,
+              -20.3400173
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1355475947",
+      "properties": {
+        "timestamp": "2025-01-30T20:27:34Z",
+        "version": 1,
+        "changeset": 161953583,
+        "addr:city": "Cariacica",
+        "addr:housenumber": "459",
+        "addr:postcode": "29146-520",
+        "addr:street": "Avenida Alice Coutinho Santos",
+        "addr:suburb": "Campo Grande",
+        "amenity": "school",
+        "building": "school",
+        "denomination": "protestant",
+        "name": "Colégio Adventista",
+        "operator": "Rede Adventista de Educação",
+        "operator:type": "religious",
+        "phone": "2730893400",
+        "religion": "christian",
+        "website": "https://cariacica.educacaoadventista.org.br/",
+        "wikidata": "Q3509263",
+        "wikipedia": "pt:Rede Adventista de Educação",
+        "id": "way/1355475947"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.3775845,
+              -20.3402478
+            ],
+            [
+              -40.377429,
+              -20.3407818
+            ],
+            [
+              -40.3769588,
+              -20.3406597
+            ],
+            [
+              -40.3771214,
+              -20.3401408
+            ],
+            [
+              -40.3771428,
+              -20.3401458
+            ],
+            [
+              -40.3775786,
+              -20.3402464
+            ],
+            [
+              -40.3775845,
+              -20.3402478
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/2135506682",
       "properties": {
         "timestamp": "2019-07-11T17:33:19Z",
@@ -3841,32 +3910,6 @@
         "coordinates": [
           -40.3813331,
           -20.3453501
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/3460745606",
-      "properties": {
-        "timestamp": "2019-07-11T17:33:19Z",
-        "version": 2,
-        "changeset": 72146221,
-        "IJSN:administra": "Privada",
-        "IJSN:classeCnae": "Fundamental e Médio",
-        "addr:city": "Cariacica",
-        "addr:place": "Campo Grande",
-        "addr:postcode": "29146-040",
-        "addr:street": "Rua Mario Passos Costa",
-        "amenity": "school",
-        "contact:phone": "+55 27 3336-2293",
-        "name": "Colégio Lusíadas",
-        "id": "node/3460745606"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -40.3934677,
-          -20.3403513
         ]
       }
     },

@@ -3,6 +3,53 @@
   "features": [
     {
       "type": "Feature",
+      "id": "way/682262790",
+      "properties": {
+        "timestamp": "2025-01-30T01:40:35Z",
+        "version": 3,
+        "changeset": 161920082,
+        "addr:city": "Salinas",
+        "addr:housenumber": "7",
+        "addr:postcode": "39560-000",
+        "addr:street": "Praça Doutor João Cardoso de Araújo",
+        "addr:suburb": "Centro",
+        "building": "yes",
+        "building:levels": "2",
+        "government": "administrative",
+        "name": "Centro Admistrativo Municipal",
+        "office": "government",
+        "id": "way/682262790"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.2902233,
+              -16.1692495
+            ],
+            [
+              -42.2900858,
+              -16.1690412
+            ],
+            [
+              -42.2901979,
+              -16.1689729
+            ],
+            [
+              -42.2903354,
+              -16.1691812
+            ],
+            [
+              -42.2902233,
+              -16.1692495
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1355240099",
       "properties": {
         "timestamp": "2025-01-29T19:32:56Z",
@@ -46,6 +93,110 @@
               -16.1705291
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12543556739",
+      "properties": {
+        "timestamp": "2025-01-30T12:47:39Z",
+        "version": 1,
+        "changeset": 161936127,
+        "addr:city": "Salinas",
+        "addr:housenumber": "48",
+        "addr:postcode": "39560-000",
+        "addr:street": "Avenida Frederico Leão Bitencourt",
+        "addr:suburb": "Centro",
+        "government": "tax",
+        "name": "Superintêndecia Regional da Fazenda",
+        "office": "government",
+        "operator": "Secretaria da Fazenda do Estado de Minas Gerais",
+        "id": "node/12543556739"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.2883375,
+          -16.1714444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12543556753",
+      "properties": {
+        "timestamp": "2025-01-30T12:47:39Z",
+        "version": 1,
+        "changeset": 161936127,
+        "addr:city": "Salinas",
+        "addr:housenumber": "53",
+        "addr:postcode": "39560-000",
+        "addr:street": "Rua Paulo Teixeira",
+        "addr:suburb": "Centro",
+        "government": "forestry",
+        "name": "Instituto Estadual de Florestas - Ief",
+        "office": "government",
+        "id": "node/12543556753"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.2919884,
+          -16.1714574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12543556761",
+      "properties": {
+        "timestamp": "2025-01-30T12:47:39Z",
+        "version": 1,
+        "changeset": 161936127,
+        "addr:city": "Salinas",
+        "addr:housenumber": "44",
+        "addr:postcode": "39560-000",
+        "addr:street": "Rua Belo Horizonte",
+        "addr:suburb": "Alvorada",
+        "government": "social_security",
+        "name": "Agência da Previdência Social em Salinas",
+        "office": "government",
+        "operator": "Instituto Nacional do Seguro Social",
+        "operator:short": "INSS",
+        "operator:wikidata": "Q10302614",
+        "id": "node/12543556761"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.2983229,
+          -16.1685085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12544160961",
+      "properties": {
+        "timestamp": "2025-01-30T17:37:33Z",
+        "version": 1,
+        "changeset": 161947073,
+        "addr:city": "Salinas",
+        "addr:housenumber": "286",
+        "addr:postcode": "39560-000",
+        "addr:street": "Rua Eleotério Barbosa",
+        "addr:suburb": "Raquel",
+        "government": "agriculture",
+        "name": "Emater Minas",
+        "office": "government",
+        "id": "node/12544160961"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.2963702,
+          -16.1643938
         ]
       }
     }

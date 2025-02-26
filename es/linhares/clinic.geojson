@@ -480,25 +480,42 @@
     },
     {
       "type": "Feature",
-      "id": "node/3206822887",
+      "id": "way/1356164583",
       "properties": {
-        "timestamp": "2019-07-07T03:34:18Z",
-        "version": 3,
-        "changeset": 71972740,
+        "timestamp": "2025-02-02T14:28:40Z",
+        "version": 1,
+        "changeset": 162048756,
         "amenity": "clinic",
-        "donation": "blood",
-        "donation:facility": "dedicated",
-        "email": "hemoes.linhares@saude.es.gov.br",
-        "healthcare": "blood_donation",
-        "name": "Unidade de Coleta e Transfusão de Sangue",
-        "phone": "+55 27 3171-4361",
-        "id": "node/3206822887"
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "SESI Saúde Linhares",
+        "id": "way/1356164583"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -40.0708085,
-          -19.3975752
+          [
+            [
+              -40.0673749,
+              -19.3984006
+            ],
+            [
+              -40.0673272,
+              -19.3984885
+            ],
+            [
+              -40.0671268,
+              -19.3983917
+            ],
+            [
+              -40.0671746,
+              -19.3983038
+            ],
+            [
+              -40.0673749,
+              -19.3984006
+            ]
+          ]
         ]
       }
     },

@@ -3563,6 +3563,76 @@
     },
     {
       "type": "Feature",
+      "id": "way/1356273649",
+      "properties": {
+        "timestamp": "2025-02-02T23:10:09Z",
+        "version": 1,
+        "changeset": 162066065,
+        "addr:city": "Cariacica",
+        "addr:postcode": "29146-675",
+        "addr:street": "Rua Esmeralda",
+        "addr:suburb": "São Geraldo",
+        "amenity": "school",
+        "name": "EMEF Maria Paiva",
+        "operator": "Prefeitura Municipal de Cariacica",
+        "operator:type": "government",
+        "phone": "2733548160",
+        "id": "way/1356273649"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.3784538,
+              -20.3476451
+            ],
+            [
+              -40.3786212,
+              -20.3476932
+            ],
+            [
+              -40.3788416,
+              -20.3477549
+            ],
+            [
+              -40.3788236,
+              -20.34781
+            ],
+            [
+              -40.378776,
+              -20.3479595
+            ],
+            [
+              -40.3786132,
+              -20.3479136
+            ],
+            [
+              -40.3786167,
+              -20.3479023
+            ],
+            [
+              -40.3785249,
+              -20.3478773
+            ],
+            [
+              -40.3783984,
+              -20.3478414
+            ],
+            [
+              -40.3784223,
+              -20.3477566
+            ],
+            [
+              -40.3784538,
+              -20.3476451
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/2135506682",
       "properties": {
         "timestamp": "2019-07-11T17:33:19Z",
@@ -5466,35 +5536,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/3460746397",
-      "properties": {
-        "timestamp": "2019-07-11T17:33:19Z",
-        "version": 3,
-        "changeset": 72146221,
-        "IJSN:administra": "Municipal",
-        "IJSN:classeCnae": "Fundamental",
-        "addr:city": "Cariacica",
-        "addr:country": "BR",
-        "addr:place": "São Geraldo",
-        "addr:postcode": "29146-721",
-        "addr:state": "ES",
-        "addr:street": "Rua Esmeralda",
-        "alt_name": "Escola Municipal de Ensino Fundamental",
-        "amenity": "school",
-        "contact:phone": "+55 27 3386-4736;+55 27 3336-0643",
-        "name": "EMEF Maria Paiva",
-        "id": "node/3460746397"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -40.3784751,
-          -20.3478318
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/3460746398",
       "properties": {
         "timestamp": "2019-07-11T17:33:19Z",
@@ -6273,6 +6314,24 @@
         "coordinates": [
           -40.3636799,
           -20.3352685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12552452592",
+      "properties": {
+        "timestamp": "2025-02-02T23:10:09Z",
+        "version": 1,
+        "changeset": 162066065,
+        "barrier": "gate",
+        "id": "node/12552452592"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.3784223,
+          -20.3477566
         ]
       }
     }

@@ -336,6 +336,50 @@
     },
     {
       "type": "Feature",
+      "id": "way/1356164596",
+      "properties": {
+        "timestamp": "2025-02-02T14:28:40Z",
+        "version": 1,
+        "changeset": 162048756,
+        "amenity": "pharmacy",
+        "brand": "Drogasil",
+        "brand:wikidata": "Q5308185",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Drogasil",
+        "wheelchair": "yes",
+        "id": "way/1356164596"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.0666591,
+              -19.3995037
+            ],
+            [
+              -40.0666021,
+              -19.3996008
+            ],
+            [
+              -40.0664175,
+              -19.3995044
+            ],
+            [
+              -40.0664744,
+              -19.3994073
+            ],
+            [
+              -40.0666591,
+              -19.3995037
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/5305311755",
       "properties": {
         "timestamp": "2024-12-26T21:13:57Z",
@@ -566,30 +610,6 @@
         "coordinates": [
           -40.0675023,
           -19.4011829
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/12056003742",
-      "properties": {
-        "timestamp": "2024-07-15T19:07:54Z",
-        "version": 1,
-        "changeset": 153986216,
-        "amenity": "pharmacy",
-        "brand": "Drogasil",
-        "brand:wikidata": "Q5308185",
-        "brand:wikipedia": "pt:Drogasil",
-        "healthcare": "pharmacy",
-        "name": "Drogasil",
-        "wheelchair": "yes",
-        "id": "node/12056003742"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -40.0665688,
-          -19.3995154
         ]
       }
     },

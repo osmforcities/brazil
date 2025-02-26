@@ -44,10 +44,9 @@
       "type": "Feature",
       "id": "way/1025809981",
       "properties": {
-        "timestamp": "2022-02-21T13:27:26Z",
-        "version": 2,
-        "changeset": 117681760,
-        "addr:city": "São Francisco de Assis do Piauí",
+        "timestamp": "2025-02-02T00:49:22Z",
+        "version": 3,
+        "changeset": 162030878,
         "addr:housenumber": "214",
         "addr:postcode": "64745-000",
         "addr:suburb": "Centro",
@@ -111,7 +110,7 @@
               -8.2343425
             ],
             [
-              -41.6845868,
+              -41.6845922,
               -8.2344175
             ],
             [
@@ -167,6 +166,141 @@
     },
     {
       "type": "Feature",
+      "id": "way/1356059231",
+      "properties": {
+        "timestamp": "2025-02-02T00:54:14Z",
+        "version": 3,
+        "changeset": 162030948,
+        "addr:city": "São Francisco de Assis do Piauí",
+        "addr:postcode": "64745000",
+        "addr:street": "Rua Sebastião Raimundo Irineu",
+        "amenity": "school",
+        "name": "Unidade Escolar Cirila Maria de Jesus",
+        "operator": "Pública",
+        "id": "way/1356059231"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.6826761,
+              -8.2337388
+            ],
+            [
+              -41.6827244,
+              -8.2341556
+            ],
+            [
+              -41.6821102,
+              -8.2342253
+            ],
+            [
+              -41.6820619,
+              -8.2338085
+            ],
+            [
+              -41.6826761,
+              -8.2337388
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1356272910",
+      "properties": {
+        "timestamp": "2025-02-02T23:07:36Z",
+        "version": 2,
+        "changeset": 162066022,
+        "addr:city": "São Francisco de Assis do Piauí",
+        "addr:postcode": "64745-000",
+        "addr:street": "Mulungu",
+        "addr:suburb": "Zona rural",
+        "amenity": "school",
+        "internet_access": "wlan",
+        "isced:level": "3",
+        "name": "Unidade Escolar Epaminondas Rodrigues de Sousa",
+        "opening_hours": "13h as 17h",
+        "operator": "Município",
+        "operator:type": "public",
+        "polling_station": "yes",
+        "school:gender": "mixed",
+        "source": "local knowledge",
+        "wheelchair": "yes",
+        "id": "way/1356272910"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.5320895,
+              -8.1130117
+            ],
+            [
+              -41.5322994,
+              -8.1130704
+            ],
+            [
+              -41.5322418,
+              -8.113272
+            ],
+            [
+              -41.5319585,
+              -8.1131965
+            ],
+            [
+              -41.5319789,
+              -8.1131216
+            ],
+            [
+              -41.5320626,
+              -8.1131457
+            ],
+            [
+              -41.5321874,
+              -8.1131841
+            ],
+            [
+              -41.5322092,
+              -8.1131089
+            ],
+            [
+              -41.5322131,
+              -8.1130975
+            ],
+            [
+              -41.5321998,
+              -8.1130933
+            ],
+            [
+              -41.5321956,
+              -8.1131054
+            ],
+            [
+              -41.5320843,
+              -8.1130767
+            ],
+            [
+              -41.5320859,
+              -8.1130701
+            ],
+            [
+              -41.5320735,
+              -8.1130677
+            ],
+            [
+              -41.5320895,
+              -8.1130117
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/5330011002",
       "properties": {
         "timestamp": "2021-11-07T08:58:54Z",
@@ -181,44 +315,6 @@
         "coordinates": [
           -41.5103449,
           -8.1355464
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/9181375862",
-      "properties": {
-        "timestamp": "2022-02-21T13:21:51Z",
-        "version": 4,
-        "changeset": 117681531,
-        "amenity": "school",
-        "name": "Unidade Escolar  Cirila Maria de Jesus",
-        "id": "node/9181375862"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -41.6822587,
-          -8.2337762
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/9197306528",
-      "properties": {
-        "timestamp": "2022-02-21T13:30:07Z",
-        "version": 3,
-        "changeset": 117681873,
-        "amenity": "school",
-        "name": "Colégio do Mulungu ( Epaminondas Rodrigues de Sousa)",
-        "id": "node/9197306528"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -41.5322609,
-          -8.1131496
         ]
       }
     },
@@ -257,6 +353,30 @@
         "coordinates": [
           -41.7441101,
           -8.2511568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12552465487",
+      "properties": {
+        "timestamp": "2025-02-02T22:58:18Z",
+        "version": 1,
+        "changeset": 162065871,
+        "amenity": "school",
+        "isced:level": "3",
+        "name": "Unidade Escolar Epaminondas Rodrigues de Sousa",
+        "opening_hours": "13h as 17h",
+        "operator": "Municipio",
+        "school:gender": "mixed",
+        "wheelchair": "yes",
+        "id": "node/12552465487"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.5320895,
+          -8.1130117
         ]
       }
     }

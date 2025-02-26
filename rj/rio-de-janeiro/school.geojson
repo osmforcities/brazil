@@ -744,13 +744,15 @@
       "type": "Feature",
       "id": "relation/10177028",
       "properties": {
-        "timestamp": "2019-10-19T13:18:30Z",
-        "version": 1,
-        "changeset": 75930039,
+        "timestamp": "2025-02-01T23:18:25Z",
+        "version": 2,
+        "changeset": 162029277,
         "addr:housenumber": "79",
         "addr:street": "Rua Divisória",
         "addr:suburb": "Bento Ribeiro",
         "amenity": "school",
+        "building": "school",
+        "grades": "0-12",
         "name": "Santa Mônica Centro Educacional",
         "type": "multipolygon",
         "id": "relation/10177028"
@@ -801,12 +803,16 @@
                 -22.8663331
               ],
               [
-                -43.3630308,
-                -22.8664781
+                -43.3630942,
+                -22.8665006
               ],
               [
-                -43.3628213,
-                -22.8664525
+                -43.3632311,
+                -22.8667342
+              ],
+              [
+                -43.3631906,
+                -22.8667704
               ],
               [
                 -43.3628141,
@@ -37053,6 +37059,114 @@
             [
               -43.2101787,
               -22.8119764
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1356049856",
+      "properties": {
+        "timestamp": "2025-02-01T23:18:25Z",
+        "version": 1,
+        "changeset": 162029277,
+        "addr:city": "Rio de Janeiro",
+        "addr:housenumber": "100",
+        "addr:street": "Rua Abílio dos Santos",
+        "addr:suburb": "Bento Ribeiro",
+        "amenity": "school",
+        "building": "school",
+        "name": "Escola Municipal Francisco Palheta",
+        "operator": "Município do Rio de Janeiro",
+        "operator:type": "public",
+        "id": "way/1356049856"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.3665999,
+              -22.8641682
+            ],
+            [
+              -43.3666746,
+              -22.8642612
+            ],
+            [
+              -43.3665252,
+              -22.8647672
+            ],
+            [
+              -43.3662301,
+              -22.8643335
+            ],
+            [
+              -43.3665999,
+              -22.8641682
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1356049857",
+      "properties": {
+        "timestamp": "2025-02-01T23:18:25Z",
+        "version": 1,
+        "changeset": 162029277,
+        "addr:city": "Rio de Janeiro",
+        "addr:housenumber": "170",
+        "addr:street": "Rua Abílio dos Santos",
+        "addr:suburb": "Bento Ribeiro",
+        "amenity": "school",
+        "building": "school",
+        "name": "Escola Municipal Cervantes",
+        "operator": "Município do Rio de Janeiro",
+        "operator:type": "public",
+        "id": "way/1356049857"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.3661964,
+              -22.8643472
+            ],
+            [
+              -43.3663932,
+              -22.8646364
+            ],
+            [
+              -43.3664916,
+              -22.864781
+            ],
+            [
+              -43.3663907,
+              -22.8649944
+            ],
+            [
+              -43.3660513,
+              -22.864765
+            ],
+            [
+              -43.3658154,
+              -22.8646054
+            ],
+            [
+              -43.3658228,
+              -22.8645366
+            ],
+            [
+              -43.3660615,
+              -22.8644156
+            ],
+            [
+              -43.3661964,
+              -22.8643472
             ]
           ]
         ]
@@ -77971,6 +78085,60 @@
         "coordinates": [
           -43.1872903,
           -22.9559918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12550063008",
+      "properties": {
+        "timestamp": "2025-02-01T23:18:25Z",
+        "version": 1,
+        "changeset": 162029277,
+        "natural": "tree",
+        "id": "node/12550063008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3660615,
+          -22.8644156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12550063016",
+      "properties": {
+        "timestamp": "2025-02-01T23:18:25Z",
+        "version": 1,
+        "changeset": 162029277,
+        "natural": "tree",
+        "id": "node/12550063016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3663932,
+          -22.8646364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12550063024",
+      "properties": {
+        "timestamp": "2025-02-01T23:18:25Z",
+        "version": 1,
+        "changeset": 162029277,
+        "natural": "tree",
+        "id": "node/12550063024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3660513,
+          -22.864765
         ]
       }
     }

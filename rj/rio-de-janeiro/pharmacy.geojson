@@ -2769,6 +2769,95 @@
     },
     {
       "type": "Feature",
+      "id": "way/1356049864",
+      "properties": {
+        "timestamp": "2025-02-01T23:18:25Z",
+        "version": 1,
+        "changeset": 162029277,
+        "addr:city": "Rio de Janeiro",
+        "addr:street": "Rua Divisória",
+        "addr:suburb": "Bento Ribeiro",
+        "amenity": "pharmacy",
+        "building": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Multidrogarias Popular",
+        "id": "way/1356049864"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.3632779,
+              -22.8665457
+            ],
+            [
+              -43.363427,
+              -22.8665298
+            ],
+            [
+              -43.3634258,
+              -22.8666274
+            ],
+            [
+              -43.3632829,
+              -22.8666308
+            ],
+            [
+              -43.3632779,
+              -22.8665457
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1356049868",
+      "properties": {
+        "timestamp": "2025-02-01T23:18:25Z",
+        "version": 1,
+        "changeset": 162029277,
+        "addr:city": "Rio de Janeiro",
+        "addr:housenumber": "51",
+        "addr:street": "Rua Divisória",
+        "addr:suburb": "Bento Ribeiro",
+        "amenity": "pharmacy",
+        "building": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Drogaria Atração de Bento Ribeiro",
+        "id": "way/1356049868"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.3629079,
+              -22.8659771
+            ],
+            [
+              -43.3629387,
+              -22.8660713
+            ],
+            [
+              -43.3627378,
+              -22.8660418
+            ],
+            [
+              -43.3627428,
+              -22.8659635
+            ],
+            [
+              -43.3629079,
+              -22.8659771
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/332153100",
       "properties": {
         "timestamp": "2020-11-17T17:48:03Z",
@@ -7711,10 +7800,11 @@
       "type": "Feature",
       "id": "node/4207494732",
       "properties": {
-        "timestamp": "2021-10-26T23:09:13Z",
-        "version": 2,
-        "changeset": 113013349,
+        "timestamp": "2025-02-01T16:49:38Z",
+        "version": 3,
+        "changeset": 162018226,
         "amenity": "pharmacy",
+        "check_date": "2025-02-01",
         "dispensing": "yes",
         "healthcare": "pharmacy",
         "name": "Drogaria Riofarma",
@@ -12440,6 +12530,25 @@
         "coordinates": [
           -43.5539892,
           -22.9280568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12549290070",
+      "properties": {
+        "timestamp": "2025-02-01T17:10:03Z",
+        "version": 1,
+        "changeset": 162018895,
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "id": "node/12549290070"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.185708,
+          -22.9214739
         ]
       }
     }

@@ -1247,40 +1247,40 @@
         "coordinates": [
           [
             [
-              -49.0764778,
-              -26.9140791
+              -49.0764831,
+              -26.9140802
             ],
             [
-              -49.0762267,
-              -26.914192
+              -49.0762275,
+              -26.91419
             ],
             [
-              -49.0761991,
-              -26.9142027
+              -49.0762018,
+              -26.9141991
             ],
             [
-              -49.0761561,
-              -26.9141161
+              -49.0761481,
+              -26.9140898
             ],
             [
-              -49.0761592,
-              -26.9140983
+              -49.0761512,
+              -26.914072
             ],
             [
-              -49.0761626,
-              -26.9140842
+              -49.0761546,
+              -26.9140579
             ],
             [
-              -49.0761728,
-              -26.9140695
+              -49.0761648,
+              -26.9140432
             ],
             [
-              -49.0764347,
-              -26.9140028
+              -49.0764268,
+              -26.913976
             ],
             [
-              -49.0764778,
-              -26.9140791
+              -49.0764831,
+              -26.9140802
             ]
           ]
         ]
@@ -4886,14 +4886,17 @@
       "type": "Feature",
       "id": "node/5623295997",
       "properties": {
-        "timestamp": "2025-01-04T01:40:11Z",
-        "version": 3,
-        "changeset": 160972183,
+        "timestamp": "2025-02-01T13:09:01Z",
+        "version": 4,
+        "changeset": 162010196,
         "amenity": "clinic",
+        "check_date:opening_hours": "2025-01-29",
+        "contact:phone": "+55 47 3288-8121",
         "contact:website": "https://amorsaude.com.br",
         "healthcare": "clinic",
         "name": "Amor Saúde",
-        "shop": "vacant",
+        "opening_hours": "Mo-Fr 07:00-18:00; Sa 07:00-12:00; Su off",
+        "source:opening_hours": "website",
         "id": "node/5623295997"
       },
       "geometry": {
@@ -5642,9 +5645,9 @@
       "type": "Feature",
       "id": "node/12435793708",
       "properties": {
-        "timestamp": "2024-12-21T16:46:28Z",
-        "version": 2,
-        "changeset": 160476436,
+        "timestamp": "2025-02-01T13:09:01Z",
+        "version": 3,
+        "changeset": 162010196,
         "addr:housenumber": "1399",
         "addr:street": "Rua Almirante Barroso",
         "amenity": "clinic",
@@ -5660,6 +5663,7 @@
         "healthcare": "clinic",
         "healthcare:speciality": "biology",
         "level": "0",
+        "name": "Genolab",
         "opening_hours": "Mo-Fr 06:30-15:00; Sa 06:30-10:00; Su off",
         "source:opening_hours": "website",
         "id": "node/12435793708"
@@ -5753,6 +5757,28 @@
         "coordinates": [
           -49.0633559,
           -26.9244157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12548958369",
+      "properties": {
+        "timestamp": "2025-02-01T13:09:01Z",
+        "version": 1,
+        "changeset": 162010196,
+        "amenity": "clinic",
+        "contact:phone": "+55 47 3234-5796",
+        "healthcare": "clinic",
+        "healthcare:speciality": "occupational",
+        "name": "Starblu",
+        "id": "node/12548958369"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.0636126,
+          -26.9245526
         ]
       }
     }

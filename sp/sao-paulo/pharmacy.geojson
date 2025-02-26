@@ -25011,6 +25011,59 @@
     },
     {
       "type": "Feature",
+      "id": "way/1355842932",
+      "properties": {
+        "timestamp": "2025-02-01T02:20:31Z",
+        "version": 1,
+        "changeset": 161998496,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "373",
+        "addr:postcode": "05435-000",
+        "addr:street": "Rua Harmonia",
+        "amenity": "pharmacy",
+        "brand": "Drogasil",
+        "brand:wikidata": "Q5308185",
+        "brand:wikipedia": "pt:Drogasil",
+        "email": "atendimento@drogasil.com.br",
+        "healthcare": "pharmacy",
+        "name": "Drogasil",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "operator": "Drogasil",
+        "phone": "+55 11 3032-9919",
+        "website": "https://www.drogasil.com.br/",
+        "wheelchair": "yes",
+        "id": "way/1355842932"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.688512,
+              -23.554941
+            ],
+            [
+              -46.6884365,
+              -23.5550489
+            ],
+            [
+              -46.6883503,
+              -23.5550008
+            ],
+            [
+              -46.688427,
+              -23.5548911
+            ],
+            [
+              -46.688512,
+              -23.554941
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/408932164",
       "properties": {
         "timestamp": "2024-11-01T01:48:32Z",
@@ -25280,39 +25333,6 @@
         "coordinates": [
           -46.6942795,
           -23.5435637
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/931043620",
-      "properties": {
-        "timestamp": "2020-05-27T16:57:24Z",
-        "version": 8,
-        "changeset": 85844737,
-        "addr:city": "São Paulo",
-        "addr:housenumber": "373",
-        "addr:postcode": "05435-000",
-        "addr:street": "Rua Harmonia",
-        "amenity": "pharmacy",
-        "brand": "Drogasil",
-        "brand:wikidata": "Q5308185",
-        "brand:wikipedia": "pt:Drogasil",
-        "email": "atendimento@drogasil.com.br",
-        "healthcare": "pharmacy",
-        "name": "Drogasil",
-        "opening_hours": "Mo-Su 07:00-23:00",
-        "operator": "Drogasil",
-        "phone": "+55 11 3032-9919",
-        "website": "https://www.drogasil.com.br/",
-        "wheelchair": "yes",
-        "id": "node/931043620"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -46.6883581,
-          -23.5549484
         ]
       }
     },

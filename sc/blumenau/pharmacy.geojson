@@ -3,66 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": "way/358933780",
-      "properties": {
-        "timestamp": "2023-10-01T04:22:26Z",
-        "version": 17,
-        "changeset": 141973074,
-        "addr:housenumber": "225",
-        "addr:postcode": "89010-500",
-        "addr:street": "Rua Floriano Peixoto",
-        "amenity": "pharmacy",
-        "building": "yes",
-        "building:levels": "2",
-        "contact:phone": "+55 47 3322-0035",
-        "dispensing": "yes",
-        "healthcare": "pharmacy",
-        "name": "Super Popular",
-        "old_name": "Master Farma",
-        "id": "way/358933780"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -49.0641026,
-              -26.9233516
-            ],
-            [
-              -49.0641275,
-              -26.9233978
-            ],
-            [
-              -49.064006,
-              -26.92345
-            ],
-            [
-              -49.0640012,
-              -26.9234412
-            ],
-            [
-              -49.0639531,
-              -26.9234618
-            ],
-            [
-              -49.0639329,
-              -26.9234244
-            ],
-            [
-              -49.0640291,
-              -26.9233831
-            ],
-            [
-              -49.0641026,
-              -26.9233516
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/362098123",
       "properties": {
         "timestamp": "2024-08-25T01:13:46Z",
@@ -3581,6 +3521,28 @@
         "coordinates": [
           -49.0915994,
           -26.9114373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12548958367",
+      "properties": {
+        "timestamp": "2025-02-01T13:09:01Z",
+        "version": 1,
+        "changeset": 162010196,
+        "amenity": "pharmacy",
+        "contact:phone": "+55 47 3322-0035",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Super Popular",
+        "id": "node/12548958367"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.0640995,
+          -26.9233794
         ]
       }
     }

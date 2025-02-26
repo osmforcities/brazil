@@ -5,10 +5,14 @@
       "type": "Feature",
       "id": "way/488356563",
       "properties": {
-        "timestamp": "2017-04-21T00:19:16Z",
-        "version": 1,
-        "changeset": 47987488,
+        "timestamp": "2025-02-01T20:59:34Z",
+        "version": 2,
+        "changeset": 162025956,
+        "addr:city": "Salinas",
+        "addr:postcode": "39560-000",
+        "addr:suburb": "Currelinho",
         "amenity": "school",
+        "name": "Escola Municipal Paulo Teixeira Costa",
         "id": "way/488356563"
       },
       "geometry": {
@@ -43,10 +47,15 @@
       "type": "Feature",
       "id": "way/488439287",
       "properties": {
-        "timestamp": "2017-04-21T11:08:57Z",
-        "version": 1,
-        "changeset": 47999468,
+        "timestamp": "2025-02-01T20:59:34Z",
+        "version": 2,
+        "changeset": 162025956,
+        "addr:city": "Salinas",
+        "addr:postcode": "39560-000",
+        "addr:street": "Praça Nossa Senhora Aparecida",
+        "addr:suburb": "Nossa Senhora de Fátima",
         "amenity": "school",
+        "name": "Escola Municipal de Nova Fátima",
         "id": "way/488439287"
       },
       "geometry": {
@@ -423,6 +432,53 @@
         "coordinates": [
           -42.2960542,
           -16.1638323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12549815532",
+      "properties": {
+        "timestamp": "2025-02-01T20:59:34Z",
+        "version": 1,
+        "changeset": 162025956,
+        "addr:city": "Salinas",
+        "addr:postcode": "39560-000",
+        "addr:suburb": "Fazenda Sucesso",
+        "amenity": "school",
+        "name": "Escola Municipal do Sucesso",
+        "id": "node/12549815532"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.1714293,
+          -16.2517024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12549815535",
+      "properties": {
+        "timestamp": "2025-02-01T20:59:34Z",
+        "version": 1,
+        "changeset": 162025956,
+        "addr:city": "Salinas",
+        "addr:postcode": "39560-000",
+        "addr:street": "Rua Francisco Sá",
+        "addr:suburb": "Vereda",
+        "amenity": "school",
+        "name": "Escola Municipal Francisco Pereira da Silva",
+        "operator": "Município de Salinas",
+        "operator:type": "public",
+        "id": "node/12549815535"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.0648071,
+          -16.2339475
         ]
       }
     }

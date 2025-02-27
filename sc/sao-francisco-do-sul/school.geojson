@@ -120,9 +120,9 @@
       "type": "Feature",
       "id": "way/328824583",
       "properties": {
-        "timestamp": "2025-01-26T12:13:06Z",
-        "version": 2,
-        "changeset": 161777660,
+        "timestamp": "2025-02-04T18:18:21Z",
+        "version": 3,
+        "changeset": 162137086,
         "addr:city": "São Francisco do Sul",
         "addr:housenumber": "4155",
         "addr:postcode": "89240-000",
@@ -130,6 +130,7 @@
         "addr:suburb": "Ubatuba",
         "amenity": "school",
         "name": "Escola Municipal João Dias",
+        "religion": "none",
         "source": "Bing e survey",
         "id": "way/328824583"
       },
@@ -171,17 +172,75 @@
     },
     {
       "type": "Feature",
+      "id": "way/331045447",
+      "properties": {
+        "timestamp": "2025-02-04T13:54:28Z",
+        "version": 9,
+        "changeset": 162126544,
+        "addr:city": "São Francisco do Sul",
+        "addr:housenumber": "6365",
+        "addr:postcode": "89240-000",
+        "addr:street": "Rodovia Duque de Caxias",
+        "addr:suburb": "Iperoba",
+        "amenity": "school",
+        "email": "univille.sfs@univille.br",
+        "mobile": "+55 47 98466 5324",
+        "name": "Colégio Univille",
+        "phone": "+55 47 3471 3802",
+        "source": "Bing e survey",
+        "website": "https://www.univille.edu.br/",
+        "id": "way/331045447"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.5737046,
+              -26.2194149
+            ],
+            [
+              -48.5730207,
+              -26.2189124
+            ],
+            [
+              -48.5738186,
+              -26.2163647
+            ],
+            [
+              -48.5737013,
+              -26.21609
+            ],
+            [
+              -48.5738414,
+              -26.2157248
+            ],
+            [
+              -48.5745579,
+              -26.2158709
+            ],
+            [
+              -48.5737046,
+              -26.2194149
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/331569671",
       "properties": {
-        "timestamp": "2024-07-18T01:13:36Z",
-        "version": 4,
-        "changeset": 154079926,
+        "timestamp": "2025-02-04T18:18:21Z",
+        "version": 5,
+        "changeset": 162137086,
         "addr:city": "São Francisco do Sul",
         "addr:postcode": "89240-000",
         "addr:street": "Rodovia Duque de Caxias",
         "addr:suburb": "Ubatuba",
         "amenity": "school",
         "name": "Escola Municipal Doutor Rogério Zattar",
+        "religion": "none",
         "id": "way/331569671"
       },
       "geometry": {
@@ -299,33 +358,96 @@
     },
     {
       "type": "Feature",
-      "id": "node/3495733490",
+      "id": "way/1356673681",
       "properties": {
-        "timestamp": "2022-09-05T12:48:09Z",
-        "version": 3,
-        "changeset": 125814141,
-        "access": "yes",
-        "addr:city": "São Francisco do Sul",
+        "timestamp": "2025-02-04T13:54:28Z",
+        "version": 1,
+        "changeset": 162126544,
+        "addr:housenumber": "542",
+        "addr:postcode": "89334-132",
+        "addr:street": "Rua Professora Maria Stella Martins",
+        "addr:suburb": "Iperoba",
+        "amenity": "school",
+        "email": "em.jgmachado@saofranciscodosul.sc.gov.br",
+        "official_name": "Escola Basica Municipal João Germano Machado",
+        "ref:INEP": "42021782",
+        "religion": "none",
+        "id": "way/1356673681"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.5688829,
+              -26.2213427
+            ],
+            [
+              -48.5682612,
+              -26.2225509
+            ],
+            [
+              -48.5674812,
+              -26.2222502
+            ],
+            [
+              -48.5680906,
+              -26.2210202
+            ],
+            [
+              -48.5688829,
+              -26.2213427
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1356788191",
+      "properties": {
+        "timestamp": "2025-02-04T22:11:37Z",
+        "version": 1,
+        "changeset": 162144362,
         "addr:housenumber": "7783",
         "addr:street": "Rua Lindolfo de Freitas Ledoux",
         "addr:suburb": "Vila da Glória",
-        "alt_name": "E.E.B. João Alfredo Moreira;Escola Estadual João Alfredo Moreira",
         "amenity": "school",
         "name": "Escola João Alfredo Moreira",
         "official_name": "Escola de Educação Básica João Alfredo Moreira",
         "operator": "Governo do Estado de Santa Catarina",
-        "operator:type": "public",
+        "operator:type": "government",
         "operator:wikidata": "Q67536979",
         "ref:INEP": "42021723",
+        "religion": "none",
         "short_name": "EEB João Alfredo Moreira",
-        "source": "Bing;survey",
-        "id": "node/3495733490"
+        "id": "way/1356788191"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -48.6637618,
-          -26.2165684
+          [
+            [
+              -48.6645048,
+              -26.2163243
+            ],
+            [
+              -48.6638932,
+              -26.2169379
+            ],
+            [
+              -48.6634668,
+              -26.2165673
+            ],
+            [
+              -48.6640998,
+              -26.2159778
+            ],
+            [
+              -48.6645048,
+              -26.2163243
+            ]
+          ]
         ]
       }
     },

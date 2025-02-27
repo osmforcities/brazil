@@ -241,13 +241,20 @@
       "type": "Feature",
       "id": "way/1112991274",
       "properties": {
-        "timestamp": "2025-01-26T02:36:01Z",
-        "version": 2,
-        "changeset": 161767164,
+        "timestamp": "2025-02-04T13:54:28Z",
+        "version": 3,
+        "changeset": 162126544,
+        "addr:street": "Rodovia Duque de Caxias",
+        "addr:suburb": "Iperoba",
         "amenity": "clinic",
         "building": "yes",
         "healthcare": "clinic",
+        "healthcare:speciality": "general",
         "name": "ESF Iperoba",
+        "official_name": "Unidade Básica de Saúde ESF Iperoba",
+        "opening_hours": "Mo-Fr 08:00-17:00; PH off",
+        "phone": "+55 47 3449 1938",
+        "ref:CNES": "7167032",
         "id": "way/1112991274"
       },
       "geometry": {
@@ -300,35 +307,6 @@
         "coordinates": [
           -48.5018552,
           -26.2271856
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/2631242287",
-      "properties": {
-        "timestamp": "2021-08-08T05:08:47Z",
-        "version": 10,
-        "changeset": 109331263,
-        "access": "yes",
-        "addr:city": "São Francisco do Sul",
-        "addr:housenumber": "9780",
-        "addr:postcode": "89240-000",
-        "addr:street": "Rodovia Duque de Caxias",
-        "addr:suburb": "Ubatuba",
-        "alt_name": "Unidade de Pronto Atendimento Sandra Regina",
-        "amenity": "clinic",
-        "emergency": "yes",
-        "healthcare": "clinic",
-        "name": "UPA Sandra Regina",
-        "source": "Bing e survey",
-        "id": "node/2631242287"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.539425,
-          -26.2051193
         ]
       }
     },
@@ -524,14 +502,15 @@
       "type": "Feature",
       "id": "node/11187776472",
       "properties": {
-        "timestamp": "2023-09-13T11:32:10Z",
-        "version": 1,
-        "changeset": 141206279,
+        "timestamp": "2025-02-04T18:18:21Z",
+        "version": 2,
+        "changeset": 162137086,
         "addr:city": "São Francisco do Sul",
         "addr:street": "Estrada do Forte",
         "alt_name": "Estratégia de Saúde da Família do Forte",
         "amenity": "clinic",
         "healthcare": "clinic",
+        "healthcare:speciality": "general",
         "name": "Posto de Saúde do Forte",
         "id": "node/11187776472"
       },

@@ -944,9 +944,9 @@
       "type": "Feature",
       "id": "way/1353492055",
       "properties": {
-        "timestamp": "2025-01-22T20:28:00Z",
-        "version": 1,
-        "changeset": 161652047,
+        "timestamp": "2025-02-04T15:27:54Z",
+        "version": 2,
+        "changeset": 162130782,
         "addr:city": "Bragança Paulista",
         "addr:housenumber": "999",
         "addr:street": "Avenida Europa",
@@ -1024,6 +1024,10 @@
               -22.9739711
             ],
             [
+              -46.5455572,
+              -22.9740304
+            ],
+            [
               -46.5462634,
               -22.974632
             ],
@@ -1034,6 +1038,14 @@
             [
               -46.5458822,
               -22.9750292
+            ],
+            [
+              -46.5458346,
+              -22.9750699
+            ],
+            [
+              -46.5457741,
+              -22.9751217
             ],
             [
               -46.5456277,
@@ -1131,6 +1143,29 @@
         "coordinates": [
           -46.5397063,
           -22.9644354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12556758948",
+      "properties": {
+        "timestamp": "2025-02-04T15:27:54Z",
+        "version": 1,
+        "changeset": 162130782,
+        "barrier": "gate",
+        "bicycle": "dismount",
+        "foot": "yes",
+        "horse": "no",
+        "material": "metal",
+        "motor_vehicle": "no",
+        "id": "node/12556758948"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5455572,
+          -22.9740304
         ]
       }
     }

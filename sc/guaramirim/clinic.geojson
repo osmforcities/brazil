@@ -3,6 +3,51 @@
   "features": [
     {
       "type": "Feature",
+      "id": "way/588175019",
+      "properties": {
+        "timestamp": "2025-02-04T11:09:21Z",
+        "version": 4,
+        "changeset": 162120737,
+        "addr:city": "Guaramirim",
+        "addr:postcode": "89270-000",
+        "addr:street": "Rua 28 de Agosto",
+        "addr:suburb": "Centro",
+        "amenity": "clinic",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "Estratégia da Saúde Familiar do Município de Guaramirim",
+        "id": "way/588175019"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.009845,
+              -26.4742901
+            ],
+            [
+              -49.0098611,
+              -26.4741749
+            ],
+            [
+              -49.010124,
+              -26.4742109
+            ],
+            [
+              -49.0101079,
+              -26.4743189
+            ],
+            [
+              -49.009845,
+              -26.4742901
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/4059036200",
       "properties": {
         "timestamp": "2021-02-17T17:32:45Z",
@@ -60,6 +105,26 @@
         "coordinates": [
           -49.0056712,
           -26.4786065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11242038355",
+      "properties": {
+        "timestamp": "2025-02-04T11:13:43Z",
+        "version": 2,
+        "changeset": 162120871,
+        "amenity": "clinic",
+        "healthcare": "hospital",
+        "name": "ESF Avaí",
+        "id": "node/11242038355"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.976864,
+          -26.467108
         ]
       }
     }

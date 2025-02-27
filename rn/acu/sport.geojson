@@ -200,24 +200,24 @@
         "coordinates": [
           [
             [
-              -36.9233363,
-              -5.5757912
+              -36.9233088,
+              -5.5758929
             ],
             [
-              -36.9233129,
-              -5.576077
+              -36.9232931,
+              -5.5761495
             ],
             [
-              -36.9231261,
-              -5.5760561
+              -36.9231063,
+              -5.5761393
             ],
             [
-              -36.9231635,
-              -5.5757842
+              -36.9231232,
+              -5.5758783
             ],
             [
-              -36.9233363,
-              -5.5757912
+              -36.9233088,
+              -5.5758929
             ]
           ]
         ]
@@ -227,11 +227,21 @@
       "type": "Feature",
       "id": "way/544340562",
       "properties": {
-        "timestamp": "2017-12-03T15:00:33Z",
-        "version": 1,
-        "changeset": 54299981,
+        "timestamp": "2025-02-04T18:12:31Z",
+        "version": 2,
+        "changeset": 162136901,
+        "access": "yes",
+        "addr:city": "Assu",
+        "addr:street": "Rua Francisco Pinheiro de Fonseca",
+        "addr:suburb": "Janduís",
+        "covered": "no",
         "leisure": "pitch",
-        "sport": "multi",
+        "lit": "yes",
+        "loc_name": "RGV Vôlei",
+        "name": "Quadra Poliesportiva Rabo da Gata",
+        "sport": "volleyball;soccer;basketball",
+        "surface": "paved",
+        "website": "https://www.instagram.com/rdgvoleibol/",
         "id": "way/544340562"
       },
       "geometry": {
@@ -281,23 +291,23 @@
           [
             [
               -36.9270317,
-              -5.5771698
+              -5.5772569
             ],
             [
               -36.9270076,
-              -5.5774741
+              -5.5775612
             ],
             [
               -36.9265087,
-              -5.5774208
+              -5.5775079
             ],
             [
               -36.9265248,
-              -5.5771351
+              -5.5772222
             ],
             [
               -36.9270317,
-              -5.5771698
+              -5.5772569
             ]
           ]
         ]
@@ -1028,28 +1038,166 @@
         "coordinates": [
           [
             [
-              -36.9128375,
-              -5.5750443
+              -36.9128455,
+              -5.5750469
             ],
             [
-              -36.9128093,
-              -5.5753668
+              -36.9128044,
+              -5.5753562
             ],
             [
-              -36.9127516,
-              -5.5753624
+              -36.9127406,
+              -5.575353
             ],
             [
-              -36.9127633,
-              -5.5751653
+              -36.9127642,
+              -5.5751667
             ],
             [
-              -36.9127709,
-              -5.5750369
+              -36.9127794,
+              -5.5750362
             ],
             [
-              -36.9128375,
-              -5.5750443
+              -36.9128455,
+              -5.5750469
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1356738999",
+      "properties": {
+        "timestamp": "2025-02-04T18:12:31Z",
+        "version": 1,
+        "changeset": 162136901,
+        "access": "customers",
+        "addr:city": "Assu",
+        "addr:street": "Rua Carolina Wanderley",
+        "leisure": "pitch",
+        "lit": "yes",
+        "name": "Arena Beach Garden",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "sport": "beachvolleyball",
+        "surface": "sand",
+        "id": "way/1356738999"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -36.9245885,
+              -5.5785926
+            ],
+            [
+              -36.9245336,
+              -5.5791654
+            ],
+            [
+              -36.9240844,
+              -5.5791327
+            ],
+            [
+              -36.9241499,
+              -5.5785526
+            ],
+            [
+              -36.9245885,
+              -5.5785926
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1356739015",
+      "properties": {
+        "timestamp": "2025-02-04T18:12:31Z",
+        "version": 1,
+        "changeset": 162136901,
+        "addr:housenumber": "102",
+        "addr:street": "Rua João Cobe",
+        "addr:suburb": "Janduís",
+        "building": "yes",
+        "leisure": "fitness_centre",
+        "name": "Star Fitness Academia  Assu",
+        "opening_hours": "Mo-Fr 05:00-22:00, Sa 08:00-18:00, Su 14:00-18:00",
+        "phone": "+55 84 98819-0705",
+        "sport": "fitness",
+        "website": "https://www.instagram.com/starfitness.assu/",
+        "id": "way/1356739015"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -36.9256925,
+              -5.577762
+            ],
+            [
+              -36.9256693,
+              -5.577991
+            ],
+            [
+              -36.9252663,
+              -5.5779558
+            ],
+            [
+              -36.9252867,
+              -5.5777321
+            ],
+            [
+              -36.9256925,
+              -5.577762
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1356739017",
+      "properties": {
+        "timestamp": "2025-02-04T18:12:31Z",
+        "version": 1,
+        "changeset": 162136901,
+        "addr:city": "Assu",
+        "addr:postcode": "59650-000",
+        "addr:street": "Rua Coronel Wanderley",
+        "amenity": "dojo",
+        "building": "yes",
+        "name": "Gaditas Assu  BJJ",
+        "sport": "multi;bjj",
+        "website": "https://www.instagram.com/gaditas.assu.rn/",
+        "id": "way/1356739017"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -36.9107774,
+              -5.5771216
+            ],
+            [
+              -36.9106868,
+              -5.5771062
+            ],
+            [
+              -36.9107039,
+              -5.5770027
+            ],
+            [
+              -36.910798,
+              -5.5770187
+            ],
+            [
+              -36.9107774,
+              -5.5771216
             ]
           ]
         ]

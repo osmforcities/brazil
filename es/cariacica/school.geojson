@@ -2619,9 +2619,9 @@
       "type": "Feature",
       "id": "way/1346942281",
       "properties": {
-        "timestamp": "2024-12-28T20:12:32Z",
-        "version": 1,
-        "changeset": 160728565,
+        "timestamp": "2025-02-03T19:02:13Z",
+        "version": 2,
+        "changeset": 162098829,
         "addr:city": "Cariacica",
         "addr:postcode": "29140-844",
         "addr:street": "Rua Joana Maria da Silva",
@@ -2638,40 +2638,56 @@
         "coordinates": [
           [
             [
-              -40.3793438,
-              -20.3721107
+              -40.3793423,
+              -20.3721098
             ],
             [
               -40.3793211,
               -20.372156
             ],
             [
-              -40.3792607,
-              -20.3721675
+              -40.3792576,
+              -20.3721686
             ],
             [
-              -40.3790537,
-              -20.372207
+              -40.3790775,
+              -20.3722044
             ],
             [
-              -40.37898,
-              -20.371854
+              -40.3790522,
+              -20.3720926
             ],
             [
-              -40.37896,
-              -20.371758
+              -40.3790416,
+              -20.3720457
             ],
             [
-              -40.3792486,
-              -20.3716999
+              -40.3789986,
+              -20.3718557
             ],
             [
-              -40.3792719,
-              -20.3718007
+              -40.3789772,
+              -20.3717612
             ],
             [
-              -40.3793438,
-              -20.3721107
+              -40.3792509,
+              -20.3717067
+            ],
+            [
+              -40.3792718,
+              -20.3717985
+            ],
+            [
+              -40.3793131,
+              -20.3719809
+            ],
+            [
+              -40.3793308,
+              -20.3720594
+            ],
+            [
+              -40.3793423,
+              -20.3721098
             ]
           ]
         ]
@@ -2767,14 +2783,17 @@
       "type": "Feature",
       "id": "way/1347168059",
       "properties": {
-        "timestamp": "2024-12-29T21:14:10Z",
-        "version": 1,
-        "changeset": 160768183,
+        "timestamp": "2025-02-03T16:16:47Z",
+        "version": 2,
+        "changeset": 162093296,
         "addr:city": "Cariacica",
         "addr:postcode": "29142-678",
         "addr:street": "Rua Almirante Tamandaré",
         "addr:suburb": "Jardim Botânico",
         "amenity": "school",
+        "name": "EMEFTI Gladiston Regis Barbosa",
+        "operator": "Prefeitura Municipal de Cariacica",
+        "operator:type": "government",
         "phone": "2733548185",
         "id": "way/1347168059"
       },
@@ -2795,8 +2814,8 @@
               -20.3952454
             ],
             [
-              -40.3658587,
-              -20.3956819
+              -40.3658533,
+              -20.3956849
             ],
             [
               -40.3654089,
@@ -3633,6 +3652,142 @@
     },
     {
       "type": "Feature",
+      "id": "way/1356453193",
+      "properties": {
+        "timestamp": "2025-02-03T16:43:57Z",
+        "version": 1,
+        "changeset": 162094215,
+        "addr:city": "Cariacica",
+        "addr:postcode": "29142-296",
+        "addr:street": "Rua Blumenau",
+        "addr:suburb": "Bela Vista",
+        "amenity": "school",
+        "name": "EMEF Celestino de Almeida",
+        "operator": "Prefeitura Municipal de Cariacica",
+        "operator:type": "government",
+        "phone": "2733548213",
+        "id": "way/1356453193"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.3718323,
+              -20.3695279
+            ],
+            [
+              -40.3718372,
+              -20.3695677
+            ],
+            [
+              -40.3716603,
+              -20.3697133
+            ],
+            [
+              -40.371644,
+              -20.3697336
+            ],
+            [
+              -40.3716285,
+              -20.3697479
+            ],
+            [
+              -40.3715024,
+              -20.3698639
+            ],
+            [
+              -40.3714841,
+              -20.3698685
+            ],
+            [
+              -40.3713998,
+              -20.3697328
+            ],
+            [
+              -40.3713451,
+              -20.3697328
+            ],
+            [
+              -40.3713492,
+              -20.369531
+            ],
+            [
+              -40.3713496,
+              -20.369517
+            ],
+            [
+              -40.3716611,
+              -20.3695256
+            ],
+            [
+              -40.3717824,
+              -20.3695275
+            ],
+            [
+              -40.3718323,
+              -20.3695279
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1356482844",
+      "properties": {
+        "timestamp": "2025-02-03T19:16:50Z",
+        "version": 1,
+        "changeset": 162099226,
+        "addr:city": "Cariacica",
+        "addr:postcode": "29144-666",
+        "addr:street": "Rua dos Lírios",
+        "addr:suburb": "Santo André",
+        "amenity": "school",
+        "name": "CMEI João Bubach",
+        "operator": "Prefeitura Municipal de Cariacica",
+        "operator:type": "government",
+        "phone": "2733548165",
+        "id": "way/1356482844"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.4032468,
+              -20.3536267
+            ],
+            [
+              -40.4032868,
+              -20.3536772
+            ],
+            [
+              -40.4032995,
+              -20.3536933
+            ],
+            [
+              -40.4035689,
+              -20.3540332
+            ],
+            [
+              -40.4029937,
+              -20.3544337
+            ],
+            [
+              -40.4026716,
+              -20.3540273
+            ],
+            [
+              -40.4032468,
+              -20.3536267
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/2135506682",
       "properties": {
         "timestamp": "2019-07-11T17:33:19Z",
@@ -4092,65 +4247,6 @@
         "coordinates": [
           -40.4369961,
           -20.3156437
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/3460745618",
-      "properties": {
-        "timestamp": "2019-07-11T17:33:19Z",
-        "version": 4,
-        "changeset": 72146221,
-        "IJSN:administra": "Estadual",
-        "IJSN:classeCnae": "Fundamental",
-        "addr:city": "Cariacica",
-        "addr:country": "BR",
-        "addr:place": "Santa Catarina",
-        "addr:postcode": "29142-296",
-        "addr:state": "ES",
-        "addr:street": "Rua Blumenau",
-        "alt_name": "Escola Estadual de Ensino Fundamental",
-        "amenity": "school",
-        "contact:phone": "+55 27 3316-5797;+55 27 3326-4899",
-        "name": "EEEF Celestino de Almeida",
-        "id": "node/3460745618"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -40.3714515,
-          -20.3696675
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/3460745622",
-      "properties": {
-        "timestamp": "2019-07-11T17:33:19Z",
-        "version": 4,
-        "changeset": 72146221,
-        "IJSN:administra": "Estadual",
-        "IJSN:classeCnae": "Fundamental",
-        "addr:city": "Cariacica",
-        "addr:country": "BR",
-        "addr:housenumber": "38",
-        "addr:place": "Jardim Botânico",
-        "addr:postcode": "29142-670",
-        "addr:state": "ES",
-        "addr:street": "Rua A",
-        "alt_name": "Escola Estadual de Ensino Fundamental",
-        "amenity": "school",
-        "contact:phone": "+55 27 3326-3211",
-        "name": "EEEF Gladiston Regis Barbosa",
-        "id": "node/3460745622"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -40.3699935,
-          -20.3906542
         ]
       }
     },
@@ -5829,36 +5925,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/3460746413",
-      "properties": {
-        "timestamp": "2019-07-11T17:33:19Z",
-        "version": 4,
-        "changeset": 72146221,
-        "IJSN:administra": "Municipal",
-        "IJSN:classeCnae": "Fundamental",
-        "addr:city": "Cariacica",
-        "addr:country": "BR",
-        "addr:housenumber": "38",
-        "addr:place": "Jardim Botânico",
-        "addr:postcode": "29142-670",
-        "addr:state": "ES",
-        "addr:street": "Rua A",
-        "alt_name": "Escola Municipal de Ensino Fundamental",
-        "amenity": "school",
-        "contact:phone": "+55 27 3316-3993",
-        "name": "EMEF São João Chrisóstomo (Anexo)",
-        "id": "node/3460746413"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -40.3699519,
-          -20.3905572
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/3460746414",
       "properties": {
         "timestamp": "2019-07-11T17:33:19Z",
@@ -6332,6 +6398,96 @@
         "coordinates": [
           -40.3784223,
           -20.3477566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12554240783",
+      "properties": {
+        "timestamp": "2025-02-03T16:43:57Z",
+        "version": 1,
+        "changeset": 162094215,
+        "barrier": "gate",
+        "id": "node/12554240783"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.3717824,
+          -20.3695275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12554516924",
+      "properties": {
+        "timestamp": "2025-02-03T19:02:13Z",
+        "version": 1,
+        "changeset": 162098829,
+        "barrier": "gate",
+        "id": "node/12554516924"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.3793131,
+          -20.3719809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12554516925",
+      "properties": {
+        "timestamp": "2025-02-03T19:02:13Z",
+        "version": 1,
+        "changeset": 162098829,
+        "barrier": "gate",
+        "id": "node/12554516925"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.3793308,
+          -20.3720594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12554544979",
+      "properties": {
+        "timestamp": "2025-02-03T19:16:50Z",
+        "version": 1,
+        "changeset": 162099226,
+        "barrier": "gate",
+        "id": "node/12554544979"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.4032868,
+          -20.3536772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12554544980",
+      "properties": {
+        "timestamp": "2025-02-03T19:16:50Z",
+        "version": 1,
+        "changeset": 162099226,
+        "barrier": "gate",
+        "id": "node/12554544980"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.4032995,
+          -20.3536933
         ]
       }
     }

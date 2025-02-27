@@ -4837,6 +4837,108 @@
     },
     {
       "type": "Feature",
+      "id": "way/1356313421",
+      "properties": {
+        "timestamp": "2025-02-03T05:00:24Z",
+        "version": 2,
+        "changeset": 162070664,
+        "addr:city": "Osasco",
+        "addr:housenumber": "250",
+        "addr:postcode": "06016-020",
+        "addr:street": "Rua Presidente Castelo Branco",
+        "amenity": "school",
+        "barrier": "wall",
+        "name": "E.E Professor José Liberatti",
+        "operator": "Secretaria da Educação",
+        "operator:type": "government",
+        "id": "way/1356313421"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.7787813,
+              -23.5353026
+            ],
+            [
+              -46.778554,
+              -23.5353742
+            ],
+            [
+              -46.778532,
+              -23.5353812
+            ],
+            [
+              -46.7785164,
+              -23.5353861
+            ],
+            [
+              -46.7783663,
+              -23.5354327
+            ],
+            [
+              -46.7782854,
+              -23.5354588
+            ],
+            [
+              -46.777973,
+              -23.5355574
+            ],
+            [
+              -46.7779331,
+              -23.5355443
+            ],
+            [
+              -46.777853,
+              -23.535327
+            ],
+            [
+              -46.7777929,
+              -23.5351637
+            ],
+            [
+              -46.7777263,
+              -23.5349832
+            ],
+            [
+              -46.7777383,
+              -23.534968
+            ],
+            [
+              -46.7779993,
+              -23.5348851
+            ],
+            [
+              -46.7780721,
+              -23.5350789
+            ],
+            [
+              -46.7780841,
+              -23.5351111
+            ],
+            [
+              -46.7783043,
+              -23.5350436
+            ],
+            [
+              -46.778314,
+              -23.5350684
+            ],
+            [
+              -46.7786491,
+              -23.534965
+            ],
+            [
+              -46.7787813,
+              -23.5353026
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1244589351",
       "properties": {
         "timestamp": "2024-01-30T14:22:16Z",
@@ -5392,6 +5494,28 @@
         "coordinates": [
           -46.7962239,
           -23.571028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12553070241",
+      "properties": {
+        "timestamp": "2025-02-03T05:00:24Z",
+        "version": 1,
+        "changeset": 162070664,
+        "addr:city": "Osasco",
+        "addr:housenumber": "250",
+        "addr:postcode": "06016-020",
+        "addr:street": "Rua Presidente Castelo Branco",
+        "entrance": "yes",
+        "id": "node/12553070241"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.778532,
+          -23.5353812
         ]
       }
     }

@@ -5,18 +5,20 @@
       "type": "Feature",
       "id": "way/133407702",
       "properties": {
-        "timestamp": "2022-06-06T22:15:16Z",
-        "version": 7,
-        "changeset": 122045083,
+        "timestamp": "2025-02-03T17:52:12Z",
+        "version": 8,
+        "changeset": 162096560,
         "addr:housenumber": "720",
         "addr:street": "Rua Barão do Rio Branco",
         "alt_name": "Palácio Rio Branco",
+        "amenity": "townhall",
         "building": "public",
         "building:colour": "lightyellow",
         "heritage": "3",
         "mapillary": "472550747154172",
         "name": "Câmara Municipal de Curitiba",
         "survey:date": "2019-07-29",
+        "townhall:type": "city",
         "wikipedia": "pt:Palácio Rio Branco (Curitiba)",
         "id": "way/133407702"
       },
@@ -39,6 +41,10 @@
             [
               -49.2666317,
               -25.4363811
+            ],
+            [
+              -49.2666502,
+              -25.4363421
             ],
             [
               -49.2666687,
@@ -611,6 +617,24 @@
         "coordinates": [
           -49.2681751,
           -25.410393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12554404088",
+      "properties": {
+        "timestamp": "2025-02-03T17:52:12Z",
+        "version": 1,
+        "changeset": 162096560,
+        "entrance": "yes",
+        "id": "node/12554404088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2666502,
+          -25.4363421
         ]
       }
     }

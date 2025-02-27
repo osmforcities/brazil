@@ -593,9 +593,9 @@
       "type": "Feature",
       "id": "way/1287456811",
       "properties": {
-        "timestamp": "2024-05-28T17:39:28Z",
-        "version": 2,
-        "changeset": 151956466,
+        "timestamp": "2025-02-03T22:42:03Z",
+        "version": 3,
+        "changeset": 162104855,
         "addr:city": "Aurora",
         "addr:postcode": "63370-000",
         "addr:street": "Rodovia Olegário Macêdo Leite",
@@ -603,6 +603,7 @@
         "leisure": "pitch",
         "name": "Parque de Vaquejada Menino Deus",
         "sport": "equestrian",
+        "surface": "sand",
         "id": "way/1287456811"
       },
       "geometry": {
@@ -691,6 +692,113 @@
             [
               -39.1002826,
               -7.0118942
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1356513896",
+      "properties": {
+        "timestamp": "2025-02-03T21:50:15Z",
+        "version": 1,
+        "changeset": 162103541,
+        "access": "permissive",
+        "addr:city": "Santa Vitória",
+        "addr:postcode": "63360000",
+        "addr:street": "Rua Padre Luna",
+        "covered": "yes",
+        "leisure": "pitch",
+        "lit": "yes",
+        "name": "Quadra José Moreira Rangel",
+        "sport": "futsal",
+        "surface": "paved",
+        "id": "way/1356513896"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.8501844,
+              -6.8894881
+            ],
+            [
+              -38.8498391,
+              -6.8895787
+            ],
+            [
+              -38.8497683,
+              -6.8893128
+            ],
+            [
+              -38.8501137,
+              -6.8892222
+            ],
+            [
+              -38.8501844,
+              -6.8894881
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1356513897",
+      "properties": {
+        "timestamp": "2025-02-03T21:50:15Z",
+        "version": 1,
+        "changeset": 162103541,
+        "access": "yes",
+        "addr:city": "Santa Vitória",
+        "addr:postcode": "63360000",
+        "covered": "no",
+        "leisure": "pitch",
+        "sport": "soccer",
+        "surface": "ground",
+        "id": "way/1356513897"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.8501506,
+              -6.8891617
+            ],
+            [
+              -38.8498355,
+              -6.8892443
+            ],
+            [
+              -38.8495204,
+              -6.8893269
+            ],
+            [
+              -38.8494681,
+              -6.8891303
+            ],
+            [
+              -38.8494158,
+              -6.8889337
+            ],
+            [
+              -38.8497309,
+              -6.888851
+            ],
+            [
+              -38.8500459,
+              -6.8887684
+            ],
+            [
+              -38.8500983,
+              -6.8889651
+            ],
+            [
+              -38.8501506,
+              -6.8891617
             ]
           ]
         ]

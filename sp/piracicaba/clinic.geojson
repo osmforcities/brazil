@@ -1212,6 +1212,56 @@
     },
     {
       "type": "Feature",
+      "id": "way/1356292665",
+      "properties": {
+        "timestamp": "2025-02-03T01:48:44Z",
+        "version": 2,
+        "changeset": 162068219,
+        "addr:housenumber": "495",
+        "addr:street": "Rua Garça",
+        "addr:suburb": "Jardim Itapuã",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general;gynaecology;cardiology;paediatrics",
+        "name": "Unidade de Saúde da Família Itapuã I",
+        "opening_hours": "Mo-Fr 07:00-16:00; PH off",
+        "operator": "Secretaria Municipal de Saúde",
+        "operator:type": "government",
+        "phone": "+55 19 3432 5785",
+        "short_name": "USF Itapuã",
+        "id": "way/1356292665"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.6648073,
+              -22.7547437
+            ],
+            [
+              -47.6649447,
+              -22.7548825
+            ],
+            [
+              -47.6648673,
+              -22.7549475
+            ],
+            [
+              -47.6647301,
+              -22.7548087
+            ],
+            [
+              -47.6648073,
+              -22.7547437
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/6384849980",
       "properties": {
         "timestamp": "2019-04-05T05:31:50Z",
@@ -1236,15 +1286,15 @@
       "type": "Feature",
       "id": "node/8279885452",
       "properties": {
-        "timestamp": "2020-12-31T21:36:35Z",
-        "version": 1,
-        "changeset": 96751848,
+        "timestamp": "2025-02-03T17:06:14Z",
+        "version": 2,
+        "changeset": 162094943,
         "addr:housenumber": "144",
         "addr:street": "Rua Pedro Chiarine",
         "alt_name": "UBS Independência",
         "amenity": "clinic",
         "healthcare": "clinic",
-        "healthcare:speciality": "general;gynaecology;paediatrics",
+        "healthcare:speciality": "general;gynaecology;paediatrics;cardiology",
         "name": "Unidade Básica de Saúde Independência",
         "opening_hours": "Mo-Fr 07:00-16:00; Sa,Su,PH off",
         "phone": "+55 19 3433 0148",

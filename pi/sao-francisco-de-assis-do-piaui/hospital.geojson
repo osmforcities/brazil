@@ -5,11 +5,20 @@
       "type": "Feature",
       "id": "way/1350774115",
       "properties": {
-        "timestamp": "2025-01-12T22:24:27Z",
-        "version": 1,
-        "changeset": 161289740,
+        "timestamp": "2025-02-06T22:32:18Z",
+        "version": 3,
+        "changeset": 162225437,
+        "addr:city": "São Francisco de Assis do Piauí",
+        "addr:postcode": "64745-000",
+        "addr:street": "Rua Vinte e Cinco de Outubro",
+        "addr:suburb": "Centro",
         "amenity": "hospital",
-        "building": "yes",
+        "building": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "UBS ( Hospital municipal Procópio Gomes Ferreira",
+        "operator": "Secretaria Municipal de Saúde",
+        "operator:type": "public",
         "id": "way/1350774115"
       },
       "geometry": {
@@ -45,26 +54,6 @@
               -8.233618
             ]
           ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/6687787814",
-      "properties": {
-        "timestamp": "2024-11-25T14:32:26Z",
-        "version": 3,
-        "changeset": 159576210,
-        "amenity": "hospital",
-        "healthcare": "hospital",
-        "name": "UBS ( Hospital municipal Procópio Gomes Ferreira",
-        "id": "node/6687787814"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -41.6848849,
-          -8.2337246
         ]
       }
     }

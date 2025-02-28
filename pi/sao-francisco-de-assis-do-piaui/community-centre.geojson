@@ -3,6 +3,61 @@
   "features": [
     {
       "type": "Feature",
+      "id": "way/1357564992",
+      "properties": {
+        "timestamp": "2025-02-06T19:27:41Z",
+        "version": 2,
+        "changeset": 162220268,
+        "addr:city": "São Francisco de Assis do Piauí",
+        "addr:postcode": "64745-000",
+        "addr:street": "Vista Alegre",
+        "addr:suburb": "Zona rural",
+        "amenity": "community_centre",
+        "building": "yes",
+        "community_centre": "community_hall",
+        "name": "Casa da Associação",
+        "operator": "Sócios",
+        "operator:type": "community",
+        "id": "way/1357564992"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.5453108,
+              -8.1124228
+            ],
+            [
+              -41.5452645,
+              -8.1124497
+            ],
+            [
+              -41.5452084,
+              -8.1123595
+            ],
+            [
+              -41.5452729,
+              -8.1123131
+            ],
+            [
+              -41.5452915,
+              -8.1123406
+            ],
+            [
+              -41.5452703,
+              -8.1123545
+            ],
+            [
+              -41.5453108,
+              -8.1124228
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/9183462137",
       "properties": {
         "timestamp": "2021-10-19T16:29:04Z",
@@ -17,25 +72,6 @@
         "coordinates": [
           -41.5244278,
           -8.1388239
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/9184159565",
-      "properties": {
-        "timestamp": "2021-10-19T22:18:10Z",
-        "version": 1,
-        "changeset": 112719321,
-        "amenity": "community_centre",
-        "name": "Casa da Associação",
-        "id": "node/9184159565"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -41.5452698,
-          -8.1123909
         ]
       }
     }

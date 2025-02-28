@@ -107,30 +107,51 @@
     },
     {
       "type": "Feature",
-      "id": "node/2838425196",
+      "id": "way/1357571533",
       "properties": {
-        "timestamp": "2024-10-05T13:35:13Z",
-        "version": 11,
-        "changeset": 157501518,
-        "addr:city": "Araquari",
-        "addr:housenumber": "km 27",
+        "timestamp": "2025-02-06T19:42:13Z",
+        "version": 1,
+        "changeset": 162220734,
+        "addr:housenumber": "Km 27",
         "addr:postcode": "89245-000",
-        "addr:street": "BR-280",
-        "addr:suburb": "Colégio Agrícola",
+        "addr:street": "Rodovia Senador Luiz Henrique da Silveira",
+        "addr:suburb": "Centro",
         "amenity": "university",
-        "internet_access": "yes",
+        "email": "gabinete.araquari@ifc.edu.br",
         "name": "Instituto Federal Catarinense - Campus Araquari",
-        "phone": "+55 47 3803-7200",
+        "phone": "+55 47 3803 7200",
         "short_name": "IFC Araquari",
-        "website": "https://araquari.ifc.edu.br/",
-        "wheelchair": "yes",
-        "id": "node/2838425196"
+        "id": "way/1357571533"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -48.7380804,
-          -26.3947911
+          [
+            [
+              -48.7387024,
+              -26.3951188
+            ],
+            [
+              -48.7324314,
+              -26.3974973
+            ],
+            [
+              -48.731549,
+              -26.3963705
+            ],
+            [
+              -48.7348079,
+              -26.3945037
+            ],
+            [
+              -48.7370341,
+              -26.3928075
+            ],
+            [
+              -48.7387024,
+              -26.3951188
+            ]
+          ]
         ]
       }
     },

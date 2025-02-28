@@ -90059,6 +90059,79 @@
     },
     {
       "type": "Feature",
+      "id": "way/1357112914",
+      "properties": {
+        "timestamp": "2025-02-06T03:55:28Z",
+        "version": 1,
+        "changeset": 162190858,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "249",
+        "addr:street": "Rua Parioto",
+        "amenity": "school",
+        "barrier": "wall",
+        "name": "E.E Maximo de Moura Santos",
+        "operator": "Secretaria da Educação",
+        "operator:type": "government",
+        "id": "way/1357112914"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.4544459,
+              -23.4991924
+            ],
+            [
+              -46.45445,
+              -23.4991878
+            ],
+            [
+              -46.4545914,
+              -23.4992842
+            ],
+            [
+              -46.4546684,
+              -23.4993367
+            ],
+            [
+              -46.4552799,
+              -23.4997486
+            ],
+            [
+              -46.4550648,
+              -23.5000164
+            ],
+            [
+              -46.4550198,
+              -23.5000255
+            ],
+            [
+              -46.4550177,
+              -23.5000241
+            ],
+            [
+              -46.4548578,
+              -23.4999167
+            ],
+            [
+              -46.4541939,
+              -23.4994709
+            ],
+            [
+              -46.4543475,
+              -23.4993003
+            ],
+            [
+              -46.4544459,
+              -23.4991924
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/222842154",
       "properties": {
         "timestamp": "2023-06-07T15:20:09Z",
@@ -114399,6 +114472,27 @@
         "coordinates": [
           -46.673738,
           -23.4601732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12560529838",
+      "properties": {
+        "timestamp": "2025-02-06T03:55:28Z",
+        "version": 1,
+        "changeset": 162190858,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "249",
+        "addr:street": "Rua Parioto",
+        "entrance": "yes",
+        "id": "node/12560529838"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4548578,
+          -23.4999167
         ]
       }
     }

@@ -689,6 +689,174 @@
     },
     {
       "type": "Feature",
+      "id": "way/1357534256",
+      "properties": {
+        "timestamp": "2025-02-06T15:48:42Z",
+        "version": 1,
+        "changeset": 162213645,
+        "addr:city": "Cariacica",
+        "addr:housenumber": "991",
+        "addr:postcode": "29143-742",
+        "addr:street": "Rua Dom Pedro II",
+        "addr:suburb": "Morada de Santa Fé",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general;psychiatry;paediatrics;gynaecology;dermatology;cardiology;depth",
+        "layer": "1",
+        "name": "Amor Saúde",
+        "phone": "2730386003",
+        "id": "way/1357534256"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.3913626,
+              -20.3447637
+            ],
+            [
+              -40.3915081,
+              -20.344984
+            ],
+            [
+              -40.3913983,
+              -20.3450268
+            ],
+            [
+              -40.3912719,
+              -20.3450761
+            ],
+            [
+              -40.3912043,
+              -20.3448379
+            ],
+            [
+              -40.39129,
+              -20.3447977
+            ],
+            [
+              -40.3913626,
+              -20.3447637
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1357541332",
+      "properties": {
+        "timestamp": "2025-02-06T16:33:32Z",
+        "version": 1,
+        "changeset": 162215217,
+        "addr:city": "Cariacica",
+        "addr:postcode": "29146-090",
+        "addr:street": "Rua Presidente Dutra",
+        "addr:suburb": "Campo Grande",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "psychiatry;physiatry;child_psychiatry;neurology;fonoaudiologia",
+        "name": "Clinica Barbosa & Multiclin",
+        "phone": "2732162227",
+        "id": "way/1357541332"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.3891528,
+              -20.3401495
+            ],
+            [
+              -40.3890888,
+              -20.3402208
+            ],
+            [
+              -40.388962,
+              -20.3401208
+            ],
+            [
+              -40.3890259,
+              -20.3400494
+            ],
+            [
+              -40.3891528,
+              -20.3401495
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1357541333",
+      "properties": {
+        "timestamp": "2025-02-06T16:33:32Z",
+        "version": 1,
+        "changeset": 162215217,
+        "addr:city": "Cariacica",
+        "addr:housenumber": "42",
+        "addr:postcode": "29146-090",
+        "addr:street": "Rua Presidente Dutra",
+        "addr:suburb": "Campo Grande",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "dialysis",
+        "healthcare:speciality": "nephrology",
+        "name": "MedRim",
+        "phone": "2732002142",
+        "id": "way/1357541333"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.3895119,
+              -20.3401868
+            ],
+            [
+              -40.3894579,
+              -20.3403027
+            ],
+            [
+              -40.389437,
+              -20.3403476
+            ],
+            [
+              -40.3894221,
+              -20.3403705
+            ],
+            [
+              -40.3894056,
+              -20.3403958
+            ],
+            [
+              -40.3892062,
+              -20.3402472
+            ],
+            [
+              -40.3892019,
+              -20.3402064
+            ],
+            [
+              -40.3893081,
+              -20.3400872
+            ],
+            [
+              -40.3895119,
+              -20.3401868
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/2409038638",
       "properties": {
         "timestamp": "2019-07-07T03:56:52Z",
@@ -878,9 +1046,9 @@
       "type": "Feature",
       "id": "node/3705966922",
       "properties": {
-        "timestamp": "2019-07-07T03:34:18Z",
-        "version": 3,
-        "changeset": 71972740,
+        "timestamp": "2025-02-06T18:24:59Z",
+        "version": 4,
+        "changeset": 162218578,
         "IJSN:tipoAgrup": "Unidade Básica de Saúde",
         "addr:city": "Cariacica",
         "addr:place": "Campo Grande",
@@ -897,7 +1065,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -40.3903902,
+          -40.3908265,
           -20.3454783
         ]
       }

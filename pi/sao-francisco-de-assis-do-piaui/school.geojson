@@ -44,14 +44,15 @@
       "type": "Feature",
       "id": "way/1025809981",
       "properties": {
-        "timestamp": "2025-02-02T00:49:22Z",
-        "version": 3,
-        "changeset": 162030878,
+        "timestamp": "2025-02-06T22:18:10Z",
+        "version": 4,
+        "changeset": 162225154,
         "addr:housenumber": "214",
         "addr:postcode": "64745-000",
+        "addr:street": "Travessa Florentina Dias de Andrade",
         "addr:suburb": "Centro",
         "amenity": "school",
-        "name": "Unidade Escolar Capitão Vitalino dos Santos",
+        "operator": "Secretaria Municípal de Educação",
         "id": "way/1025809981"
       },
       "geometry": {
@@ -209,15 +210,66 @@
     },
     {
       "type": "Feature",
+      "id": "way/1356060498",
+      "properties": {
+        "timestamp": "2025-02-06T22:18:10Z",
+        "version": 2,
+        "changeset": 162225154,
+        "addr:city": "São Francisco de Assis do Piauí",
+        "addr:postcode": "64745-000",
+        "addr:street": "Rua Procópio Moreira dos Santos",
+        "amenity": "school",
+        "building:levels": "1",
+        "isced:level": "0",
+        "name": "Creche vó Raimunda",
+        "type": "public",
+        "id": "way/1356060498"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.6887164,
+              -8.2373782
+            ],
+            [
+              -41.6886738,
+              -8.2377875
+            ],
+            [
+              -41.6884915,
+              -8.2377689
+            ],
+            [
+              -41.688534,
+              -8.2373596
+            ],
+            [
+              -41.6887164,
+              -8.2373782
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1356379976",
       "properties": {
-        "timestamp": "2025-02-03T12:03:05Z",
-        "version": 2,
-        "changeset": 162082748,
+        "timestamp": "2025-02-06T16:35:43Z",
+        "version": 3,
+        "changeset": 162215285,
+        "addr:city": "São Francisco de Assis do Piauí",
+        "addr:postcode": "64745-000",
+        "addr:suburb": "Zona rural",
         "amenity": "school",
+        "building": "school",
         "name": "Unidade Escolar Epaminondas Rodrigues de Sousa",
         "opening_hours": "Mo-Fr 13:00-17:00",
         "operator": "Município",
+        "operator:type": "public",
+        "reg_name": "Mulungu",
         "school:gender": "mixed",
         "wheelchair": "yes",
         "id": "way/1356379976"
@@ -300,20 +352,48 @@
     },
     {
       "type": "Feature",
-      "id": "node/5330011002",
+      "id": "way/1357532552",
       "properties": {
-        "timestamp": "2021-11-07T08:58:54Z",
-        "version": 2,
-        "changeset": 113471183,
+        "timestamp": "2025-02-06T22:18:10Z",
+        "version": 4,
+        "changeset": 162225154,
+        "addr:city": "São Francisco de Assis do Piauí",
+        "addr:postcode": "64745-000",
+        "addr:street": "Lagoa do juá",
+        "addr:suburb": "zona rural",
         "amenity": "school",
-        "name": "Colégio da Lagoa do Juá ( Petronila Rodrigues )",
-        "id": "node/5330011002"
+        "building": "school",
+        "internet_access": "wlan",
+        "operator": "Secretaria Municipal de Educação",
+        "source": "local knowledge",
+        "wheelchair": "yes",
+        "id": "way/1357532552"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -41.5103449,
-          -8.1355464
+          [
+            [
+              -41.5103563,
+              -8.1353177
+            ],
+            [
+              -41.5102862,
+              -8.1356351
+            ],
+            [
+              -41.5102098,
+              -8.1356172
+            ],
+            [
+              -41.5102771,
+              -8.1352972
+            ],
+            [
+              -41.5103563,
+              -8.1353177
+            ]
+          ]
         ]
       }
     },

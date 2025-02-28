@@ -281,6 +281,64 @@
     },
     {
       "type": "Feature",
+      "id": "relation/18657708",
+      "properties": {
+        "timestamp": "2025-02-05T22:51:59Z",
+        "version": 1,
+        "changeset": 162186251,
+        "addr:city": "Brasília",
+        "addr:housenumber": "23",
+        "addr:postcode": "70200-640",
+        "addr:street": "SGAS - Quadra 604",
+        "addr:suburb": "Asa Sul",
+        "building": "yes",
+        "government": "prosecutor",
+        "layer": "1",
+        "name": "Procuradoria da República no Distrito Federal",
+        "office": "government",
+        "phone": "+55 61 33135115",
+        "type": "multipolygon",
+        "website": "mpf.mp.br/df",
+        "id": "relation/18657708"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.8855436,
+              -15.8145266
+            ],
+            [
+              -47.8847738,
+              -15.8138221
+            ],
+            [
+              -47.8858976,
+              -15.8128694
+            ],
+            [
+              -47.8862939,
+              -15.8133061
+            ],
+            [
+              -47.8865503,
+              -15.8135886
+            ],
+            [
+              -47.8865758,
+              -15.8136167
+            ],
+            [
+              -47.8855436,
+              -15.8145266
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/41574510",
       "properties": {
         "timestamp": "2023-01-08T22:46:09Z",
@@ -14397,55 +14455,6 @@
             [
               -47.9882842,
               -15.7785222
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1356543575",
-      "properties": {
-        "timestamp": "2025-02-04T02:16:12Z",
-        "version": 1,
-        "changeset": 162107981,
-        "addr:city": "Brasília",
-        "addr:housenumber": "23",
-        "addr:postcode": "70200-640",
-        "addr:street": "SGAS - Quadra 604",
-        "addr:suburb": "Asa Sul",
-        "building": "yes",
-        "government": "prosecutor",
-        "layer": "1",
-        "name": "Procuradoria da República no Distrito Federal",
-        "office": "government",
-        "phone": "+55 61 33135115",
-        "website": "mpf.mp.br/df",
-        "id": "way/1356543575"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -47.8847738,
-              -15.8138221
-            ],
-            [
-              -47.8858557,
-              -15.8129017
-            ],
-            [
-              -47.8865758,
-              -15.8136167
-            ],
-            [
-              -47.8855436,
-              -15.8145266
-            ],
-            [
-              -47.8847738,
-              -15.8138221
             ]
           ]
         ]

@@ -3,11 +3,52 @@
   "features": [
     {
       "type": "Feature",
+      "id": "way/581462012",
+      "properties": {
+        "timestamp": "2025-02-05T13:08:51Z",
+        "version": 2,
+        "changeset": 162164875,
+        "amenity": "pharmacy",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Permanente",
+        "id": "way/581462012"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -35.0369739,
+              -7.9965094
+            ],
+            [
+              -35.0370248,
+              -7.996739
+            ],
+            [
+              -35.0369274,
+              -7.9968075
+            ],
+            [
+              -35.0368686,
+              -7.9965335
+            ],
+            [
+              -35.0369739,
+              -7.9965094
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/581462013",
       "properties": {
-        "timestamp": "2020-08-05T13:48:48Z",
-        "version": 3,
-        "changeset": 88986068,
+        "timestamp": "2025-02-05T13:08:51Z",
+        "version": 4,
+        "changeset": 162164875,
         "amenity": "pharmacy",
         "brand": "Extrafarma",
         "brand:wikidata": "Q20055480",
@@ -23,12 +64,12 @@
         "coordinates": [
           [
             [
-              -35.036864,
-              -7.996532
+              -35.0367731,
+              -7.9965579
             ],
             [
-              -35.0369274,
-              -7.9968151
+              -35.0368453,
+              -7.9968781
             ],
             [
               -35.0367569,
@@ -47,8 +88,8 @@
               -7.9965776
             ],
             [
-              -35.036864,
-              -7.996532
+              -35.0367731,
+              -7.9965579
             ]
           ]
         ]
@@ -79,12 +120,12 @@
         "coordinates": [
           [
             [
-              -35.0369695,
-              -7.9965015
+              -35.0369739,
+              -7.9965094
             ],
             [
-              -35.0370716,
-              -7.9964756
+              -35.0370743,
+              -7.9964861
             ],
             [
               -35.0371279,
@@ -95,8 +136,8 @@
               -7.996739
             ],
             [
-              -35.0369695,
-              -7.9965015
+              -35.0369739,
+              -7.9965094
             ]
           ]
         ]
@@ -288,6 +329,108 @@
     },
     {
       "type": "Feature",
+      "id": "way/1356915254",
+      "properties": {
+        "timestamp": "2025-02-05T13:08:51Z",
+        "version": 1,
+        "changeset": 162164875,
+        "addr:city": "São Lourenço da Mata",
+        "addr:street": "Avenida Doutor Francisco Correia",
+        "addr:suburb": "Centro",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "São Miguel",
+        "id": "way/1356915254"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -35.0371067,
+              -7.9965753
+            ],
+            [
+              -35.037177,
+              -7.9965551
+            ],
+            [
+              -35.0371908,
+              -7.9965915
+            ],
+            [
+              -35.0372277,
+              -7.9965838
+            ],
+            [
+              -35.0372274,
+              -7.9965953
+            ],
+            [
+              -35.0372269,
+              -7.9966181
+            ],
+            [
+              -35.0372076,
+              -7.9966432
+            ],
+            [
+              -35.037136,
+              -7.9966669
+            ],
+            [
+              -35.0371067,
+              -7.9965753
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1356920320",
+      "properties": {
+        "timestamp": "2025-02-05T13:34:59Z",
+        "version": 1,
+        "changeset": 162165810,
+        "amenity": "pharmacy",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Mituca",
+        "id": "way/1356920320"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -35.0445909,
+              -7.9923508
+            ],
+            [
+              -35.0446316,
+              -7.9923228
+            ],
+            [
+              -35.0446661,
+              -7.9923701
+            ],
+            [
+              -35.0446298,
+              -7.9923964
+            ],
+            [
+              -35.0445909,
+              -7.9923508
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/5615796322",
       "properties": {
         "timestamp": "2021-11-30T23:28:22Z",
@@ -321,25 +464,6 @@
         "coordinates": [
           -35.042698,
           -7.9944318
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/5615796623",
-      "properties": {
-        "timestamp": "2021-11-30T23:28:22Z",
-        "version": 2,
-        "changeset": 114422148,
-        "amenity": "pharmacy",
-        "healthcare": "pharmacy",
-        "id": "node/5615796623"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -35.0440734,
-          -7.9928941
         ]
       }
     },

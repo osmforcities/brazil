@@ -812,6 +812,155 @@
     },
     {
       "type": "Feature",
+      "id": "way/1356971101",
+      "properties": {
+        "timestamp": "2025-02-05T17:28:10Z",
+        "version": 1,
+        "changeset": 162174878,
+        "addr:city": "Osasco",
+        "addr:housenumber": "2502",
+        "addr:postcode": "06090-010",
+        "addr:street": "Avenida dos Autonomistas",
+        "addr:suburb": "Centro",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hospital Cruzeiro do Sul",
+        "operator": "Norte Dame Intermedica",
+        "operator:type": "private",
+        "ref:CNES": "2079887",
+        "ref:vatin": "BR44649812026013",
+        "id": "way/1356971101"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.7766484,
+              -23.5369776
+            ],
+            [
+              -46.7767566,
+              -23.5369435
+            ],
+            [
+              -46.7769224,
+              -23.5368911
+            ],
+            [
+              -46.7769312,
+              -23.5369199
+            ],
+            [
+              -46.7770447,
+              -23.5372255
+            ],
+            [
+              -46.7769558,
+              -23.5372533
+            ],
+            [
+              -46.7769711,
+              -23.5372949
+            ],
+            [
+              -46.7770665,
+              -23.5375535
+            ],
+            [
+              -46.777081,
+              -23.537593
+            ],
+            [
+              -46.776954,
+              -23.5376325
+            ],
+            [
+              -46.7769053,
+              -23.5376477
+            ],
+            [
+              -46.7767219,
+              -23.5377048
+            ],
+            [
+              -46.7765773,
+              -23.5373351
+            ],
+            [
+              -46.7767536,
+              -23.5372778
+            ],
+            [
+              -46.7767228,
+              -23.5371937
+            ],
+            [
+              -46.7766789,
+              -23.5370717
+            ],
+            [
+              -46.7766484,
+              -23.5369776
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1356971104",
+      "properties": {
+        "timestamp": "2025-02-05T17:28:10Z",
+        "version": 1,
+        "changeset": 162174878,
+        "addr:city": "Osasco",
+        "addr:housenumber": "100",
+        "addr:postcode": "06016-010",
+        "addr:street": "Rua Padre Damaso",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hospital São Francisco",
+        "id": "way/1356971104"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.776477,
+              -23.5365306
+            ],
+            [
+              -46.7770395,
+              -23.5363521
+            ],
+            [
+              -46.7771649,
+              -23.5366917
+            ],
+            [
+              -46.7768833,
+              -23.5367845
+            ],
+            [
+              -46.7768779,
+              -23.5367863
+            ],
+            [
+              -46.7766016,
+              -23.5368773
+            ],
+            [
+              -46.776477,
+              -23.5365306
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/907189708",
       "properties": {
         "timestamp": "2021-02-18T13:56:30Z",
@@ -1056,33 +1205,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/5270118503",
-      "properties": {
-        "timestamp": "2023-06-13T21:50:36Z",
-        "version": 3,
-        "changeset": 137304099,
-        "addr:city": "Osasco",
-        "addr:housenumber": "2502",
-        "addr:postcode": "06090-010",
-        "addr:street": "Avenida dos Autonomistas",
-        "addr:suburb": "Centro",
-        "amenity": "hospital",
-        "healthcare": "hospital",
-        "name": "Hospital Cruzeiro do Sul",
-        "ref:CNES": "2079887",
-        "ref:vatin": "BR44649812026013",
-        "id": "node/5270118503"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -46.7769294,
-          -23.5375286
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/8623845966",
       "properties": {
         "timestamp": "2023-09-04T11:13:14Z",
@@ -1176,6 +1298,68 @@
         "coordinates": [
           -46.7751693,
           -23.5359491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12559374436",
+      "properties": {
+        "timestamp": "2025-02-05T17:28:10Z",
+        "version": 1,
+        "changeset": 162174878,
+        "addr:city": "Osasco",
+        "addr:housenumber": "2502",
+        "addr:street": "Avenida dos Autonomistas",
+        "id": "node/12559374436"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7769053,
+          -23.5376477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12559374442",
+      "properties": {
+        "timestamp": "2025-02-05T17:28:10Z",
+        "version": 1,
+        "changeset": 162174878,
+        "addr:city": "Osasco",
+        "addr:housenumber": "97",
+        "addr:postcode": "06016-010",
+        "addr:street": "Rua Padre Damaso",
+        "id": "node/12559374442"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7767566,
+          -23.5369435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12559374448",
+      "properties": {
+        "timestamp": "2025-02-05T17:28:10Z",
+        "version": 1,
+        "changeset": 162174878,
+        "addr:city": "Osasco",
+        "addr:housenumber": "100",
+        "addr:postcode": "06016-010",
+        "addr:street": "Rua Padre Damaso",
+        "id": "node/12559374448"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7768779,
+          -23.5367863
         ]
       }
     }

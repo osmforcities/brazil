@@ -5,16 +5,18 @@
       "type": "Feature",
       "id": "way/1356657708",
       "properties": {
-        "timestamp": "2025-02-04T17:24:00Z",
-        "version": 2,
-        "changeset": 162135228,
+        "timestamp": "2025-02-05T00:30:21Z",
+        "version": 3,
+        "changeset": 162146799,
         "addr:city": "Salinas",
         "addr:housenumber": "104",
         "addr:postcode": "39560-000",
         "addr:street": "Rua Cônego Benício",
         "addr:suburb": "Centro",
         "amenity": "hospital",
-        "building:levels": "2",
+        "building": "hospital",
+        "building:levels": "1",
+        "building:levels:underground": "1",
         "emergency": "yes",
         "healthcare": "hospital",
         "healthcare:speciality": "general",
@@ -132,6 +134,34 @@
         "coordinates": [
           -42.2889977,
           -16.1588419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12560282530",
+      "properties": {
+        "timestamp": "2025-02-05T23:33:37Z",
+        "version": 1,
+        "changeset": 162186941,
+        "addr:city": "Salinas",
+        "addr:housenumber": "100",
+        "addr:postcode": "39560-000",
+        "addr:street": "Rua Frei Cornélio Van Velzen",
+        "addr:suburb": "São Geraldo",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "Unidade de Pronto Atendimento Arquiteclino Guimarães",
+        "operator": "Município de Salinas",
+        "operator:type": "public",
+        "id": "node/12560282530"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.2899936,
+          -16.1592336
         ]
       }
     }

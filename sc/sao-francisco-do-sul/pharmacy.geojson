@@ -275,9 +275,10 @@
       "type": "Feature",
       "id": "node/4698287791",
       "properties": {
-        "timestamp": "2021-03-31T04:43:24Z",
-        "version": 2,
-        "changeset": 102021897,
+        "timestamp": "2025-02-07T18:01:23Z",
+        "version": 3,
+        "changeset": 162255648,
+        "addr:street": "Rodovia Duque de Caxias",
         "amenity": "pharmacy",
         "healthcare": "pharmacy",
         "name": "Farmácia Fortefarma",
@@ -287,8 +288,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -48.5272748,
-          -26.2086052
+          -48.5274062,
+          -26.2085859
         ]
       }
     },
@@ -378,10 +379,13 @@
       "type": "Feature",
       "id": "node/4698288289",
       "properties": {
-        "timestamp": "2025-01-26T15:41:21Z",
-        "version": 3,
-        "changeset": 161785027,
+        "timestamp": "2025-02-07T17:45:42Z",
+        "version": 4,
+        "changeset": 162255087,
+        "addr:street": "Rodovia Duque de Caxias",
         "amenity": "pharmacy",
+        "dispensing": "yes",
+        "drive_through": "no",
         "healthcare": "pharmacy",
         "name": "Farmácia São Chico",
         "id": "node/4698288289"
@@ -389,8 +393,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -48.5238952,
-          -26.217816
+          -48.5238096,
+          -26.2177945
         ]
       }
     },

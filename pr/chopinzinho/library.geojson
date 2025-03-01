@@ -3,20 +3,107 @@
   "features": [
     {
       "type": "Feature",
-      "id": "node/3846580708",
+      "id": "way/1357650313",
       "properties": {
-        "timestamp": "2015-11-20T12:27:02Z",
+        "timestamp": "2025-02-07T00:32:05Z",
         "version": 1,
-        "changeset": 35460264,
+        "changeset": 162227540,
+        "addr:city": "Chopinzinho",
+        "addr:housenumber": "4872",
+        "addr:street": "Avenida XV de Novembro",
+        "addr:suburb": "Cristo Rei",
         "amenity": "library",
-        "name": "Biblioteca Municipal",
-        "id": "node/3846580708"
+        "building": "yes",
+        "name": "Casa da Cultura Professor Bráulio Sauer",
+        "id": "way/1357650313"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -52.5365952,
+              -25.8559817
+            ],
+            [
+              -52.536582,
+              -25.856127
+            ],
+            [
+              -52.5365452,
+              -25.8561243
+            ],
+            [
+              -52.5365413,
+              -25.8561676
+            ],
+            [
+              -52.5364753,
+              -25.8561628
+            ],
+            [
+              -52.5364091,
+              -25.856158
+            ],
+            [
+              -52.5364111,
+              -25.8561363
+            ],
+            [
+              -52.5364131,
+              -25.8561145
+            ],
+            [
+              -52.5363807,
+              -25.8561122
+            ],
+            [
+              -52.5363938,
+              -25.855967
+            ],
+            [
+              -52.5365952,
+              -25.8559817
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12564207430",
+      "properties": {
+        "timestamp": "2025-02-07T00:32:05Z",
+        "version": 1,
+        "changeset": 162227540,
+        "entrance": "yes",
+        "level": "1",
+        "id": "node/12564207430"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -52.5364935,
-          -25.8560566
+          -52.5364753,
+          -25.8561628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12564207431",
+      "properties": {
+        "timestamp": "2025-02-07T00:32:05Z",
+        "version": 1,
+        "changeset": 162227540,
+        "entrance": "yes",
+        "level": "0",
+        "id": "node/12564207431"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.5364111,
+          -25.8561363
         ]
       }
     }

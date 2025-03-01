@@ -174,9 +174,9 @@
       "type": "Feature",
       "id": "way/331045447",
       "properties": {
-        "timestamp": "2025-02-04T13:54:28Z",
-        "version": 9,
-        "changeset": 162126544,
+        "timestamp": "2025-02-07T19:25:04Z",
+        "version": 10,
+        "changeset": 162258245,
         "addr:city": "São Francisco do Sul",
         "addr:housenumber": "6365",
         "addr:postcode": "89240-000",
@@ -196,20 +196,24 @@
         "coordinates": [
           [
             [
-              -48.5737046,
-              -26.2194149
+              -48.5736456,
+              -26.2193764
             ],
             [
               -48.5730207,
               -26.2189124
             ],
             [
-              -48.5738186,
-              -26.2163647
+              -48.5733623,
+              -26.2171534
             ],
             [
-              -48.5737013,
-              -26.21609
+              -48.5735692,
+              -26.2163527
+            ],
+            [
+              -48.5736611,
+              -26.2160034
             ],
             [
               -48.5738414,
@@ -220,8 +224,8 @@
               -26.2158709
             ],
             [
-              -48.5737046,
-              -26.2194149
+              -48.5736456,
+              -26.2193764
             ]
           ]
         ]
@@ -314,9 +318,9 @@
       "type": "Feature",
       "id": "way/1353805452",
       "properties": {
-        "timestamp": "2025-01-23T23:50:43Z",
-        "version": 1,
-        "changeset": 161693407,
+        "timestamp": "2025-02-07T22:53:54Z",
+        "version": 2,
+        "changeset": 162263655,
         "addr:city": "São Francisco do Sul",
         "addr:housenumber": "1042",
         "addr:postcode": "89240-000",
@@ -326,6 +330,7 @@
         "name": "Escola de Educação Básica Victor Konder",
         "operator": "Prefeitura Municipal de São Francisco do Sul",
         "operator:type": "public",
+        "religion": "none",
         "id": "way/1353805452"
       },
       "geometry": {
@@ -446,6 +451,49 @@
             [
               -48.6645048,
               -26.2163243
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1357869361",
+      "properties": {
+        "timestamp": "2025-02-07T20:51:11Z",
+        "version": 1,
+        "changeset": 162260571,
+        "amenity": "school",
+        "name": "Escola Municipal Doutor Franklin de Oliveira",
+        "id": "way/1357869361"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.6012915,
+              -26.2442976
+            ],
+            [
+              -48.600944,
+              -26.2440403
+            ],
+            [
+              -48.6009371,
+              -26.2439884
+            ],
+            [
+              -48.6014376,
+              -26.2434517
+            ],
+            [
+              -48.6018319,
+              -26.2437237
+            ],
+            [
+              -48.6012915,
+              -26.2442976
             ]
           ]
         ]
@@ -631,11 +679,13 @@
       "type": "Feature",
       "id": "node/8254696951",
       "properties": {
-        "timestamp": "2022-04-27T14:59:17Z",
-        "version": 2,
-        "changeset": 120264087,
+        "timestamp": "2025-02-07T23:23:07Z",
+        "version": 3,
+        "changeset": 162264175,
         "amenity": "school",
+        "denomination": "seventh_day_adventist",
         "name": "Colégio Adventista",
+        "religion": "christian",
         "id": "node/8254696951"
       },
       "geometry": {
@@ -662,25 +712,6 @@
         "coordinates": [
           -48.6151895,
           -26.2305028
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/8254696956",
-      "properties": {
-        "timestamp": "2021-01-18T04:02:06Z",
-        "version": 2,
-        "changeset": 97662172,
-        "amenity": "school",
-        "name": "Escola Municipal Doutor Franklin de Oliveira",
-        "id": "node/8254696956"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.6011941,
-          -26.244139
         ]
       }
     },

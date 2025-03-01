@@ -5,15 +5,16 @@
       "type": "Feature",
       "id": "way/194778545",
       "properties": {
-        "timestamp": "2020-11-10T12:00:40Z",
-        "version": 4,
-        "changeset": 93860421,
+        "timestamp": "2025-02-07T08:12:44Z",
+        "version": 5,
+        "changeset": 162234931,
         "addr:city": "Paulínia",
         "addr:housename": "Prédio Ulysses Guimarães",
         "addr:housenumber": "290",
         "addr:postcode": "13140-174",
         "addr:street": "Rua Carlos Pazetti",
         "addr:suburb": "Jardim Vista Alegre",
+        "admin_level": "8",
         "government": "legislative",
         "name": "Câmara Municipal de Paulínia \"Prédio Ulysses Guimarães",
         "office": "government",
@@ -58,15 +59,16 @@
       "type": "Feature",
       "id": "way/867768390",
       "properties": {
-        "timestamp": "2020-11-06T15:17:57Z",
-        "version": 1,
-        "changeset": 93672346,
+        "timestamp": "2025-02-07T08:12:25Z",
+        "version": 2,
+        "changeset": 162234925,
         "addr:city": "Paulínia",
         "addr:housenumber": "290",
         "addr:postcode": "13140-174",
         "addr:street": "Rua Carlos Pazetti",
         "addr:suburb": "Jardim Vista Alegre",
-        "building": "yes",
+        "admin_level": "8",
+        "building": "public",
         "government": "legislative",
         "name": "Anexo ao Prédio da Câmara Vereador Angelo Corassa Filho",
         "office": "government",
@@ -95,6 +97,69 @@
             [
               -47.147814,
               -22.7603855
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/934326867",
+      "properties": {
+        "timestamp": "2025-02-07T08:09:57Z",
+        "version": 2,
+        "changeset": 162234856,
+        "addr:city": "Paulínia",
+        "addr:housenumber": "170",
+        "addr:postcode": "13140-088",
+        "addr:street": "Rua Malavazzi",
+        "addr:suburb": "Jardim dos Calegaris",
+        "building": "public",
+        "building:levels": "1",
+        "name": "Prédio Público da Defesa Civil HELIO LEGENDRE MARTINI",
+        "office": "government",
+        "smoking": "no",
+        "id": "way/934326867"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.15537,
+              -22.7604899
+            ],
+            [
+              -47.1554074,
+              -22.7605376
+            ],
+            [
+              -47.1554423,
+              -22.7605166
+            ],
+            [
+              -47.1554872,
+              -22.7605784
+            ],
+            [
+              -47.1553719,
+              -22.7606576
+            ],
+            [
+              -47.1553337,
+              -22.7606081
+            ],
+            [
+              -47.1553572,
+              -22.7605871
+            ],
+            [
+              -47.1553129,
+              -22.7605277
+            ],
+            [
+              -47.15537,
+              -22.7604899
             ]
           ]
         ]

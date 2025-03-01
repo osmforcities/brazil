@@ -3,6 +3,80 @@
   "features": [
     {
       "type": "Feature",
+      "id": "way/607727342",
+      "properties": {
+        "timestamp": "2025-02-07T01:05:50Z",
+        "version": 3,
+        "changeset": 162227993,
+        "addr:city": "Salinas",
+        "addr:housenumber": "260",
+        "addr:postcode": "39560-000",
+        "addr:street": "Rua José Martins dos Anjos",
+        "addr:suburb": "Centro",
+        "amenity": "clinic",
+        "building": "yes",
+        "building:levels": "1",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Unidade Básica de Saúde do Centro",
+        "operator": "Município de Salinas",
+        "operator:type": "public",
+        "id": "way/607727342"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.2964834,
+              -16.170957
+            ],
+            [
+              -42.2965092,
+              -16.1710652
+            ],
+            [
+              -42.2962807,
+              -16.1711154
+            ],
+            [
+              -42.2962524,
+              -16.1709967
+            ],
+            [
+              -42.2962832,
+              -16.1709899
+            ],
+            [
+              -42.2962667,
+              -16.1709204
+            ],
+            [
+              -42.2962022,
+              -16.1709346
+            ],
+            [
+              -42.2961811,
+              -16.1708461
+            ],
+            [
+              -42.296343,
+              -16.1708105
+            ],
+            [
+              -42.2963831,
+              -16.170979
+            ],
+            [
+              -42.2964834,
+              -16.170957
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/682258726",
       "properties": {
         "timestamp": "2025-01-29T21:05:40Z",
@@ -27,28 +101,28 @@
         "coordinates": [
           [
             [
-              -42.2881583,
-              -16.1630888
+              -42.2881274,
+              -16.1630935
             ],
             [
-              -42.2880968,
-              -16.1630691
+              -42.2880659,
+              -16.1630738
             ],
             [
-              -42.2880354,
-              -16.1630494
+              -42.2880045,
+              -16.1630541
             ],
             [
-              -42.2881609,
-              -16.1626731
+              -42.28813,
+              -16.1626778
             ],
             [
-              -42.2882812,
-              -16.1627026
+              -42.2882503,
+              -16.1627073
             ],
             [
-              -42.2881583,
-              -16.1630888
+              -42.2881274,
+              -16.1630935
             ]
           ]
         ]
@@ -134,6 +208,34 @@
         "coordinates": [
           -42.2872803,
           -16.1706081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12565471333",
+      "properties": {
+        "timestamp": "2025-02-07T12:25:01Z",
+        "version": 1,
+        "changeset": 162243472,
+        "addr:city": "Salinas",
+        "addr:housenumber": "1980",
+        "addr:postcode": "39560-000",
+        "addr:street": "Rua Pedra Azul",
+        "addr:suburb": "Vila Canaã",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Unidade Básica de Saúde Vila Canaã",
+        "operator": "Município de Salinas",
+        "operator:type": "public",
+        "id": "node/12565471333"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.2873237,
+          -16.1506634
         ]
       }
     }

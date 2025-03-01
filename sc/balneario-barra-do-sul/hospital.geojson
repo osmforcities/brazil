@@ -1,0 +1,90 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/203429072",
+      "properties": {
+        "timestamp": "2025-02-07T02:14:51Z",
+        "version": 4,
+        "changeset": 162228927,
+        "access": "yes",
+        "addr:housenumber": "392",
+        "addr:street": "Rua Francisco José Peixer",
+        "addr:suburb": "Centro",
+        "alt_name": "Posto de Saúde da Barra do Sul",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "loc_name": "Posto de Saúde Jetel Mendes",
+        "name": "Pronto Atendimento Jetel Mendes",
+        "opening_hours": "24/7",
+        "operator": "Organização Social Instituto Comunidade Políticas Públicas (ICPP)",
+        "operator:type": "private_non_profit",
+        "phone": "-55 47 3448 1433",
+        "short_name": "PA Jetel Mendes",
+        "wheelchair": "yes",
+        "id": "way/203429072"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.6189414,
+              -26.4614006
+            ],
+            [
+              -48.6189029,
+              -26.4613419
+            ],
+            [
+              -48.6188582,
+              -26.4612735
+            ],
+            [
+              -48.6190044,
+              -26.4611968
+            ],
+            [
+              -48.6191923,
+              -26.4614839
+            ],
+            [
+              -48.6190914,
+              -26.4615368
+            ],
+            [
+              -48.6189867,
+              -26.4613768
+            ],
+            [
+              -48.6189414,
+              -26.4614006
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10003154995",
+      "properties": {
+        "timestamp": "2022-09-05T22:42:08Z",
+        "version": 1,
+        "changeset": 125833376,
+        "entrance": "main",
+        "wheelchair": "yes",
+        "id": "node/10003154995"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.6189029,
+          -26.4613419
+        ]
+      }
+    }
+  ]
+}

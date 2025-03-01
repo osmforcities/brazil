@@ -308,46 +308,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/161248759",
-      "properties": {
-        "timestamp": "2012-07-14T20:17:40Z",
-        "version": 2,
-        "changeset": 12221318,
-        "leisure": "sports_centre",
-        "name": "Genoma Colorado - SC Internacional",
-        "sport": "soccer",
-        "id": "way/161248759"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -47.1440721,
-              -22.7752119
-            ],
-            [
-              -47.1430841,
-              -22.7748378
-            ],
-            [
-              -47.1434155,
-              -22.7740717
-            ],
-            [
-              -47.1444047,
-              -22.7744007
-            ],
-            [
-              -47.1440721,
-              -22.7752119
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/187844074",
       "properties": {
         "timestamp": "2012-10-26T20:18:37Z",
@@ -429,11 +389,12 @@
       "type": "Feature",
       "id": "way/190593219",
       "properties": {
-        "timestamp": "2017-08-12T04:22:24Z",
-        "version": 3,
-        "changeset": 51049119,
+        "timestamp": "2025-02-07T07:58:51Z",
+        "version": 4,
+        "changeset": 162234583,
         "leisure": "pitch",
         "sport": "soccer",
+        "surface": "grass",
         "id": "way/190593219"
       },
       "geometry": {
@@ -1638,9 +1599,9 @@
       "type": "Feature",
       "id": "way/514930825",
       "properties": {
-        "timestamp": "2020-11-10T12:14:13Z",
-        "version": 3,
-        "changeset": 93861237,
+        "timestamp": "2025-02-07T07:59:57Z",
+        "version": 5,
+        "changeset": 162234599,
         "addr:city": "Paulínia",
         "addr:country": "BR",
         "addr:housenumber": "281",
@@ -1651,9 +1612,11 @@
         "leisure": "stadium",
         "name": "Estádio Municipal Luís Perissinoto",
         "operator": "Prefeitura Municipal de Paulínia",
+        "operator:type": "government",
         "sport": "soccer",
         "start_date": "2000",
         "wikidata": "Q5402108",
+        "wikimedia_commons": "File:Estádio paulinia.jpg",
         "wikipedia": "en:Estádio Municipal Luís Perissinotto",
         "id": "way/514930825"
       },
@@ -1713,22 +1676,22 @@
       "type": "Feature",
       "id": "way/514930826",
       "properties": {
-        "timestamp": "2020-10-13T17:25:10Z",
-        "version": 2,
-        "changeset": 92431321,
+        "timestamp": "2025-02-07T08:00:55Z",
+        "version": 4,
+        "changeset": 162234647,
         "addr:city": "Paulínia",
         "addr:country": "BR",
         "addr:housenumber": "281",
         "addr:street": "Rua Prudente Pigatto",
         "addr:suburb": "Centro",
-        "building": "yes",
+        "building": "sports_hall",
         "contact:phone": "+55 19 3833 4030",
         "email": "ginasiocentro@hotmail.com",
-        "leisure": "sports_centre",
+        "leisure": "sports_hall",
         "name": "Ginásio de Esportes Vicente Amatte",
         "opening_hours": "Mo-Fr 08:00-17:00,Sa-Su,PH off",
         "phone": "+55 19 3844 5573",
-        "sport": "volleyball;basketball;soccer",
+        "sport": "volleyball;basketball;soccer;futsal",
         "id": "way/514930826"
       },
       "geometry": {
@@ -1758,6 +1721,47 @@
             [
               -47.1559304,
               -22.7627859
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/514930828",
+      "properties": {
+        "timestamp": "2025-02-07T13:12:12Z",
+        "version": 2,
+        "changeset": 162245045,
+        "covered": "no",
+        "leisure": "pitch",
+        "sport": "basketball;futsal",
+        "surface": "concrete",
+        "id": "way/514930828"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.1564209,
+              -22.7631819
+            ],
+            [
+              -47.1562585,
+              -22.7631828
+            ],
+            [
+              -47.1562568,
+              -22.7629096
+            ],
+            [
+              -47.1564192,
+              -22.7629087
+            ],
+            [
+              -47.1564209,
+              -22.7631819
             ]
           ]
         ]
@@ -1875,82 +1879,6 @@
             [
               -47.146746,
               -22.7696392
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/515034564",
-      "properties": {
-        "timestamp": "2022-05-02T02:37:43Z",
-        "version": 4,
-        "changeset": 120440747,
-        "addr:city": "Paulínia",
-        "addr:country": "BR",
-        "addr:housenumber": "1945",
-        "addr:street": "Avenida José Paulino",
-        "leisure": "sports_centre",
-        "name": "Associação Esportiva Paulinense",
-        "opening_hours": "08:00-22:00",
-        "phone": "+55 19 3874 1836",
-        "sport": "soccer;tennis;swimming",
-        "start_date": "1918",
-        "website": "https://paulinense.com.br/",
-        "id": "way/515034564"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -47.1479113,
-              -22.7689096
-            ],
-            [
-              -47.1474205,
-              -22.7700497
-            ],
-            [
-              -47.1472649,
-              -22.7701585
-            ],
-            [
-              -47.1470859,
-              -22.7702179
-            ],
-            [
-              -47.1469068,
-              -22.7702228
-            ],
-            [
-              -47.146304,
-              -22.7699805
-            ],
-            [
-              -47.1462601,
-              -22.7699162
-            ],
-            [
-              -47.1462323,
-              -22.7698568
-            ],
-            [
-              -47.1464012,
-              -22.7694562
-            ],
-            [
-              -47.1468089,
-              -22.7685213
-            ],
-            [
-              -47.1468384,
-              -22.7685015
-            ],
-            [
-              -47.1479113,
-              -22.7689096
             ]
           ]
         ]
@@ -2541,20 +2469,21 @@
       "type": "Feature",
       "id": "way/864244023",
       "properties": {
-        "timestamp": "2024-12-12T15:55:59Z",
-        "version": 2,
-        "changeset": 160213817,
+        "timestamp": "2025-02-07T08:59:08Z",
+        "version": 5,
+        "changeset": 162236204,
         "access": "permissive",
         "addr:city": "Paulínia",
         "addr:postcode": "13140-000",
         "addr:street": "Rua Almirante Tamandaré",
         "addr:suburb": "Jardim dos Calegaris",
-        "building": "yes",
+        "building": "sports_hall",
         "leisure": "sports_hall",
         "name": "Ginásio de Esportes Itália Botasso Calegari",
         "nohousenumber": "yes",
         "operator": "Prefeitura Municipal de Paulínia",
-        "sport": "soccer;volleyball",
+        "operator:type": "government",
+        "sport": "soccer;futsal;volleyball",
         "id": "way/864244023"
       },
       "geometry": {
@@ -3097,6 +3026,44 @@
     },
     {
       "type": "Feature",
+      "id": "way/161248759",
+      "properties": {
+        "timestamp": "2025-02-07T08:45:32Z",
+        "version": 3,
+        "changeset": 162235767,
+        "club": "sport",
+        "name": "Genoma Colorado - SC Internacional",
+        "sport": "soccer",
+        "id": "way/161248759"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -47.1440721,
+            -22.7752119
+          ],
+          [
+            -47.1430841,
+            -22.7748378
+          ],
+          [
+            -47.1434155,
+            -22.7740717
+          ],
+          [
+            -47.1444047,
+            -22.7744007
+          ],
+          [
+            -47.1440721,
+            -22.7752119
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/314257205",
       "properties": {
         "timestamp": "2023-07-28T01:56:14Z",
@@ -3580,6 +3547,80 @@
           [
             -47.1193694,
             -22.7763913
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/515034564",
+      "properties": {
+        "timestamp": "2025-02-07T08:41:41Z",
+        "version": 5,
+        "changeset": 162235642,
+        "addr:city": "Paulínia",
+        "addr:country": "BR",
+        "addr:housenumber": "1945",
+        "addr:street": "Avenida José Paulino",
+        "club": "sport",
+        "name": "Associação Esportiva Paulinense",
+        "opening_hours": "08:00-22:00",
+        "phone": "+55 19 3874 1836",
+        "sport": "soccer;tennis;swimming",
+        "start_date": "1918",
+        "website": "https://paulinense.com.br/",
+        "id": "way/515034564"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -47.1479113,
+            -22.7689096
+          ],
+          [
+            -47.1468384,
+            -22.7685015
+          ],
+          [
+            -47.1468089,
+            -22.7685213
+          ],
+          [
+            -47.1464012,
+            -22.7694562
+          ],
+          [
+            -47.1462323,
+            -22.7698568
+          ],
+          [
+            -47.1462601,
+            -22.7699162
+          ],
+          [
+            -47.146304,
+            -22.7699805
+          ],
+          [
+            -47.1469068,
+            -22.7702228
+          ],
+          [
+            -47.1470859,
+            -22.7702179
+          ],
+          [
+            -47.1472649,
+            -22.7701585
+          ],
+          [
+            -47.1474205,
+            -22.7700497
+          ],
+          [
+            -47.1479113,
+            -22.7689096
           ]
         ]
       }

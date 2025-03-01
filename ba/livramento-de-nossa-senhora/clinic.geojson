@@ -3,11 +3,118 @@
   "features": [
     {
       "type": "Feature",
-      "id": "relation/18493530",
+      "id": "relation/18665388",
       "properties": {
-        "timestamp": "2025-01-02T16:00:56Z",
+        "timestamp": "2025-02-07T15:29:22Z",
         "version": 1,
-        "changeset": 160914803,
+        "changeset": 162249842,
+        "addr:city": "Livramento de Nossa Senhora",
+        "addr:housenumber": "87",
+        "addr:postcode": "46140-000",
+        "addr:street": "Rua Josias de Sousa Lessa",
+        "addr:suburb": "Estocada",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "psychiatry;child_psychiatry;depth;humanistic;neuropsychiatry",
+        "name": "Centro De Atenção Psicossocial | CAPS Tipo II Maria C. S. Marques Souza | Livramento De Nossa Senhora, BA | SUS",
+        "opening_hours": "Mo-Th 08:00-15:00, Fr 08:00-12:00",
+        "type": "multipolygon",
+        "id": "relation/18665388"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.8487371,
+              -13.6383362
+            ],
+            [
+              -41.8488815,
+              -13.6384585
+            ],
+            [
+              -41.8489404,
+              -13.6385083
+            ],
+            [
+              -41.8488735,
+              -13.6385829
+            ],
+            [
+              -41.8488424,
+              -13.6385565
+            ],
+            [
+              -41.8488145,
+              -13.6385328
+            ],
+            [
+              -41.8487931,
+              -13.6385566
+            ],
+            [
+              -41.8487718,
+              -13.6385802
+            ],
+            [
+              -41.8488309,
+              -13.6386305
+            ],
+            [
+              -41.848799,
+              -13.638666
+            ],
+            [
+              -41.8487395,
+              -13.6386157
+            ],
+            [
+              -41.8485948,
+              -13.6384932
+            ],
+            [
+              -41.8487371,
+              -13.6383362
+            ]
+          ],
+          [
+            [
+              -41.8488145,
+              -13.6385328
+            ],
+            [
+              -41.8488424,
+              -13.6385565
+            ],
+            [
+              -41.8488735,
+              -13.6385829
+            ],
+            [
+              -41.8489404,
+              -13.6385083
+            ],
+            [
+              -41.8488815,
+              -13.6384585
+            ],
+            [
+              -41.8488145,
+              -13.6385328
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/18665668",
+      "properties": {
+        "timestamp": "2025-02-07T16:56:06Z",
+        "version": 1,
+        "changeset": 162253239,
         "addr:city": "Livramento de Nossa Senhora",
         "addr:housenumber": "s/n",
         "addr:postcode": "46140-000",
@@ -16,102 +123,47 @@
         "amenity": "clinic",
         "building": "yes",
         "healthcare": "clinic",
-        "healthcare:speciality": "general;community",
         "name": "Unidade Básica De Saúde | UBS Gil Ferreira Pessoa | Sede I | Livramento De Nossa Senhora, BA | SUS",
         "opening_hours": "Mo-Fr 07:00-11:30, Mo-Fri 14:00-16:30, Sa 07:00-13:00",
         "type": "multipolygon",
-        "website": "https://www.livramento.ba.gov.br/secretarias/secretaria-de-saude",
         "wheelchair": "yes",
-        "id": "relation/18493530"
+        "id": "relation/18665668"
       },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              -41.8488718,
-              -13.6398068
+              -41.8487381,
+              -13.6398279
             ],
             [
-              -41.848812,
-              -13.6398753
+              -41.8487724,
+              -13.6397913
             ],
             [
-              -41.8487415,
-              -13.6398171
+              -41.848859,
+              -13.6396987
             ],
             [
-              -41.8486745,
-              -13.6397633
+              -41.8487859,
+              -13.6396387
             ],
             [
-              -41.8487122,
-              -13.6397172
+              -41.8488286,
+              -13.639593
             ],
             [
-              -41.8487902,
-              -13.6396319
+              -41.8489655,
+              -13.6397042
             ],
             [
-              -41.848822,
-              -13.6396594
+              -41.848809,
+              -13.6398898
             ],
             [
-              -41.8488526,
-              -13.6396245
-            ],
-            [
-              -41.8489569,
-              -13.6397109
-            ],
-            [
-              -41.8489075,
-              -13.6397672
-            ],
-            [
-              -41.8488718,
-              -13.6398068
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "relation/18493531",
-      "properties": {
-        "timestamp": "2025-01-02T16:00:56Z",
-        "version": 1,
-        "changeset": 160914803,
-        "amenity": "clinic",
-        "building": "yes",
-        "healthcare": "clinic",
-        "type": "multipolygon",
-        "id": "relation/18493531"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -41.8488013,
-              -13.6397486
-            ],
-            [
-              -41.8488369,
-              -13.6397103
-            ],
-            [
-              -41.8489075,
-              -13.6397672
-            ],
-            [
-              -41.8488718,
-              -13.6398068
-            ],
-            [
-              -41.8488013,
-              -13.6397486
+              -41.8487381,
+              -13.6398279
             ]
           ]
         ]
@@ -468,118 +520,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/1347430197",
-      "properties": {
-        "timestamp": "2025-01-14T00:11:42Z",
-        "version": 3,
-        "changeset": 161328869,
-        "addr:city": "Livramento de Nossa Senhora",
-        "addr:housenumber": "87",
-        "addr:postcode": "46140-000",
-        "addr:street": "Rua Josias de Sousa Lessa",
-        "addr:suburb": "Estocada",
-        "air_conditioning": "no",
-        "amenity": "clinic",
-        "building": "yes",
-        "healthcare": "clinic",
-        "healthcare:speciality": "psychiatry;psicologia;humanistic;neuropsychiatry;community",
-        "mobile": "+55 (77) 9 8884-1331",
-        "name": "Centro De Atenção Psicossocial | CAPS Tipo II Maria Da Conceição Silva Marques Souza | Livramento De Nossa Senhora, BA | SUS",
-        "opening_hours": "Mo-Th 08:00-15:00, Fr 08:00-12:00",
-        "website": "https://www.instagram.com/capslivramentobahia",
-        "wheelchair": "yes",
-        "id": "way/1347430197"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -41.8489503,
-              -13.6384996
-            ],
-            [
-              -41.8488672,
-              -13.6385845
-            ],
-            [
-              -41.8488278,
-              -13.6386251
-            ],
-            [
-              -41.8487841,
-              -13.6386695
-            ],
-            [
-              -41.8486899,
-              -13.6385799
-            ],
-            [
-              -41.8485931,
-              -13.6384878
-            ],
-            [
-              -41.8487483,
-              -13.6383347
-            ],
-            [
-              -41.8488908,
-              -13.638451
-            ],
-            [
-              -41.8489503,
-              -13.6384996
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1348012930",
-      "properties": {
-        "timestamp": "2025-01-02T16:00:56Z",
-        "version": 1,
-        "changeset": 160914803,
-        "amenity": "clinic",
-        "building": "yes",
-        "healthcare": "clinic",
-        "id": "way/1348012930"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -41.8488013,
-              -13.6397486
-            ],
-            [
-              -41.8488718,
-              -13.6398068
-            ],
-            [
-              -41.848812,
-              -13.6398753
-            ],
-            [
-              -41.8487415,
-              -13.6398171
-            ],
-            [
-              -41.8487786,
-              -13.6397746
-            ],
-            [
-              -41.8488013,
-              -13.6397486
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/1350736510",
       "properties": {
         "timestamp": "2025-01-30T15:08:36Z",
@@ -740,6 +680,226 @@
             [
               -41.8598587,
               -13.6637983
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1357812658",
+      "properties": {
+        "timestamp": "2025-02-07T15:29:22Z",
+        "version": 1,
+        "changeset": 162249842,
+        "addr:city": "Livramento de Nossa Senhora",
+        "addr:housenumber": "87",
+        "addr:postcode": "46140-000",
+        "addr:street": "Rua Josias de Sousa Lessa",
+        "addr:suburb": "Estocada",
+        "alt_name": "Centro De Atenção Psicossocial | CAPS Tipo II Maria Da Conceição Silva Marques Souza | Livramento De Nossa Senhora, BA | SUS",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "psychiatry;child_psychiatry;depth;neuropsychiatry;humanistic",
+        "loc_name": "Centro De Atenção Psicossocial | CAPS Tipo II Maria Da Conceição Silva Marques Souza | Livramento De Nossa Senhora, BA | SUS",
+        "mobile": "+55 (77) 9 8884-1331",
+        "name": "Centro De Atenção Psicossocial | CAPS Tipo II Maria Da Conceição Silva Marques Souza | Livramento De Nossa Senhora, BA | SUS",
+        "nat_name": "Centro De Atenção Psicossocial | CAPS Tipo II Maria Da Conceição Silva Marques Souza | Livramento De Nossa Senhora, BA | SUS",
+        "official_name": "Centro De Atenção Psicossocial | CAPS Tipo II Maria Da Conceição Silva Marques Souza | Livramento De Nossa Senhora, BA | SUS",
+        "opening_hours": "Mo-Th 08:00-15:00, Fr 08:00-12:00",
+        "phone": "+55 (77) 9 8884-1331",
+        "reg_name": "Centro De Atenção Psicossocial | CAPS Tipo II Maria Da Conceição Silva Marques Souza | Livramento De Nossa Senhora, BA | SUS",
+        "short_name": "Centro De Atenção Psicossocial | CAPS Tipo II Maria Da Conceição Silva Marques Souza | Livramento De Nossa Senhora, BA | SUS",
+        "website": "https://www.instagram.com/capslivramentobahia",
+        "wheelchair": "yes",
+        "id": "way/1357812658"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.8487371,
+              -13.6383362
+            ],
+            [
+              -41.8488815,
+              -13.6384585
+            ],
+            [
+              -41.8489404,
+              -13.6385083
+            ],
+            [
+              -41.8488735,
+              -13.6385829
+            ],
+            [
+              -41.8488424,
+              -13.6385565
+            ],
+            [
+              -41.8488145,
+              -13.6385328
+            ],
+            [
+              -41.8487931,
+              -13.6385566
+            ],
+            [
+              -41.8487718,
+              -13.6385802
+            ],
+            [
+              -41.8488309,
+              -13.6386305
+            ],
+            [
+              -41.848799,
+              -13.638666
+            ],
+            [
+              -41.8487395,
+              -13.6386157
+            ],
+            [
+              -41.8485948,
+              -13.6384932
+            ],
+            [
+              -41.8487371,
+              -13.6383362
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1357812659",
+      "properties": {
+        "timestamp": "2025-02-07T15:29:22Z",
+        "version": 1,
+        "changeset": 162249842,
+        "addr:city": "Livramento de Nossa Senhora",
+        "addr:housenumber": "87",
+        "addr:postcode": "46140-000",
+        "addr:street": "Rua Josias de Sousa Lessa",
+        "addr:suburb": "Estocada",
+        "alt_name": "Farmácia Especializada | CAPS Tipo II Maria C. S. Marques Souza | Livramento De N. Senhora, BA | SUS",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "loc_name": "Farmácia Especializada | CAPS Tipo II Maria C. S. Marques Souza | Livramento De N. Senhora, BA | SUS",
+        "mobile": "+55 (77) 9 8884-1331",
+        "name": "Farmácia Especializada | CAPS Tipo II Maria C. S. Marques Souza | Livramento De N. Senhora, BA | SUS",
+        "nat_name": "Farmácia Especializada | CAPS Tipo II Maria C. S. Marques Souza | Livramento De N. Senhora, BA | SUS",
+        "official_name": "Farmácia Especializada | CAPS Tipo II Maria C. S. Marques Souza | Livramento De N. Senhora, BA | SUS",
+        "opening_hours": "Mo-Th 08:00-15:00, Fr 08:00-12:00",
+        "phone": "+55 (77) 9 8884-1331",
+        "reg_name": "Farmácia Especializada | CAPS Tipo II Maria C. S. Marques Souza | Livramento De N. Senhora, BA | SUS",
+        "short_name": "Farmácia Especializada | CAPS Tipo II Maria C. S. Marques Souza | Livramento De N. Senhora, BA | SUS",
+        "website": "https://www.instagram.com/capslivramentobahia",
+        "wheelchair": "yes",
+        "id": "way/1357812659"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.8488145,
+              -13.6385328
+            ],
+            [
+              -41.8488815,
+              -13.6384585
+            ],
+            [
+              -41.8489404,
+              -13.6385083
+            ],
+            [
+              -41.8488735,
+              -13.6385829
+            ],
+            [
+              -41.8488424,
+              -13.6385565
+            ],
+            [
+              -41.8488145,
+              -13.6385328
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1357828781",
+      "properties": {
+        "timestamp": "2025-02-07T16:56:06Z",
+        "version": 1,
+        "changeset": 162253239,
+        "addr:city": "Livramento de Nossa Senhora",
+        "addr:housenumber": "s/n",
+        "addr:postcode": "46140-000",
+        "addr:street": "Rua Josué da Silva Pereira",
+        "addr:suburb": "Estocada",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general;community",
+        "loc_name": "Unidade Básica De Saúde | UBS Gil Ferreira Pessoa | Sede I | Livramento De Nossa Senhora, BA | SUS",
+        "name": "Unidade Básica De Saúde | UBS Gil Ferreira Pessoa | Sede I | Livramento De Nossa Senhora, BA | SUS",
+        "nat_name": "Unidade Básica De Saúde | UBS Gil Ferreira Pessoa | Sede I | Livramento De Nossa Senhora, BA | SUS",
+        "official_name": "Unidade Básica De Saúde | UBS Gil Ferreira Pessoa | Sede I | Livramento De Nossa Senhora, BA | SUS",
+        "opening_hours": "Mo-Fr 07:00-11:30, Mo-Fri 14:00-16:30, Sa 07:00-13:00",
+        "reg_name": "Unidade Básica De Saúde | UBS Gil Ferreira Pessoa | Sede I | Livramento De Nossa Senhora, BA | SUS",
+        "short_name": "Unidade Básica De Saúde | UBS Gil Ferreira Pessoa | Sede I | Livramento De Nossa Senhora, BA | SUS",
+        "website": "http://www.livramento.ba.gov.br/",
+        "wheelchair": "yes",
+        "id": "way/1357828781"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.8487381,
+              -13.6398279
+            ],
+            [
+              -41.8487724,
+              -13.6397913
+            ],
+            [
+              -41.848859,
+              -13.6396987
+            ],
+            [
+              -41.8487859,
+              -13.6396387
+            ],
+            [
+              -41.8488286,
+              -13.639593
+            ],
+            [
+              -41.8489655,
+              -13.6397042
+            ],
+            [
+              -41.848809,
+              -13.6398898
+            ],
+            [
+              -41.8487381,
+              -13.6398279
             ]
           ]
         ]
@@ -1142,22 +1302,65 @@
     },
     {
       "type": "Feature",
+      "id": "node/12463898291",
+      "properties": {
+        "timestamp": "2025-02-07T15:29:22Z",
+        "version": 3,
+        "changeset": 162249842,
+        "addr:city": "Livramento de Nossa Senhora",
+        "addr:housenumber": "87",
+        "addr:postcode": "46140-000",
+        "addr:street": "Rua Josias de Sousa Lessa",
+        "addr:suburb": "Estocada",
+        "alt_name": "Farmácia Especializada | CAPS Tipo II Maria C. S. Marques Souza | Livramento De N. Senhora, BA | SUS",
+        "amenity": "pharmacy",
+        "dispensing": "no",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "loc_name": "Farmácia Especializada | CAPS Tipo II Maria C. S. Marques Souza | Livramento De N. Senhora, BA | SUS",
+        "mobile": "+55 (77) 9 8884-1331",
+        "name": "Farmácia Especializada | CAPS Tipo II Maria C. S. Marques Souza | Livramento De N. Senhora, BA | SUS",
+        "nat_name": "Farmácia Especializada | CAPS Tipo II Maria C. S. Marques Souza | Livramento De N. Senhora, BA | SUS",
+        "official_name": "Farmácia Especializada | CAPS Tipo II Maria C. S. Marques Souza | Livramento De N. Senhora, BA | SUS",
+        "opening_hours": "Mo-Th 08:00-15:00, Fr 08:00-12:00",
+        "reg_name": "Farmácia Especializada | CAPS Tipo II Maria C. S. Marques Souza | Livramento De N. Senhora, BA | SUS",
+        "short_name": "Farmácia Especializada | CAPS Tipo II Maria C. S. Marques Souza | Livramento De N. Senhora, BA | SUS",
+        "website": "https://www.instagram.com/capslivramentobahia",
+        "wheelchair": "yes",
+        "id": "node/12463898291"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.8488776,
+          -13.6385232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/12463898298",
       "properties": {
-        "timestamp": "2025-01-14T00:11:42Z",
-        "version": 3,
-        "changeset": 161328869,
+        "timestamp": "2025-02-07T15:29:22Z",
+        "version": 4,
+        "changeset": 162249842,
         "addr:city": "Livramento de Nossa Senhora",
         "addr:housenumber": "87",
         "addr:postcode": "46140-000",
         "addr:street": "Rua Josias de Sousa Lessa",
         "addr:suburb": "Estocada",
         "air_conditioning": "no",
+        "alt_name": "Centro De Atenção Psicossocial | CAPS Tipo II Maria C. S. Marques Souza | Livramento De Nossa Senhora, BA | SUS",
         "amenity": "clinic",
         "healthcare": "clinic",
         "healthcare:speciality": "psychiatry;psicologia;neuropsychiatry;humanistic;community",
-        "name": "Centro De Atenção Psicossocial | CAPS Tipo II Maria Da Conceição Silva Marques Souza | Livramento De Nossa Senhora, BA | SUS",
+        "loc_name": "Centro De Atenção Psicossocial | CAPS Tipo II Maria C. S. Marques Souza | Livramento De Nossa Senhora, BA | SUS",
+        "name": "Centro De Atenção Psicossocial | CAPS Tipo II Maria C. S. Marques Souza | Livramento De Nossa Senhora, BA | SUS",
+        "nat_name": "Centro De Atenção Psicossocial | CAPS Tipo II Maria C. S. Marques Souza | Livramento De Nossa Senhora, BA | SUS",
+        "official_name": "Centro De Atenção Psicossocial | CAPS Tipo II Maria C. S. Marques Souza | Livramento De Nossa Senhora, BA | SUS",
         "opening_hours": "Mo-Th 08:00-15:00, Fr 08:00-12:00",
+        "reg_name": "Centro De Atenção Psicossocial | CAPS Tipo II Maria C. S. Marques Souza | Livramento De Nossa Senhora, BA | SUS",
+        "short_name": "Centro De Atenção Psicossocial | CAPS Tipo II Maria C. S. Marques Souza | Livramento De Nossa Senhora, BA | SUS",
         "website": "https://www.instagram.com/capslivramentobahia",
         "wheelchair": "yes",
         "id": "node/12463898298"
@@ -1165,8 +1368,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -41.8487918,
-          -13.6384895
+          -41.848739,
+          -13.638489
         ]
       }
     },
@@ -1174,9 +1377,9 @@
       "type": "Feature",
       "id": "node/12469097134",
       "properties": {
-        "timestamp": "2025-01-02T16:00:56Z",
-        "version": 1,
-        "changeset": 160914803,
+        "timestamp": "2025-02-07T16:56:06Z",
+        "version": 2,
+        "changeset": 162253239,
         "addr:city": "Livramento de Nossa Senhora",
         "addr:housenumber": "s/n",
         "addr:postcode": "46140-000",
@@ -1194,8 +1397,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -41.8487515,
-          -13.6397888
+          -41.8488633,
+          -13.6397606
         ]
       }
     },
@@ -1230,6 +1433,147 @@
         "coordinates": [
           -41.8597389,
           -13.6637644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12565780623",
+      "properties": {
+        "timestamp": "2025-02-07T16:57:12Z",
+        "version": 2,
+        "changeset": 162253294,
+        "addr:city": "Livramento de Nossa Senhora",
+        "addr:housenumber": "87",
+        "addr:postcode": "46140-000",
+        "addr:street": "Rua Josias de Sousa Lessa",
+        "addr:suburb": "Estocada",
+        "id": "node/12565780623"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.8489404,
+          -13.6385083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12565780628",
+      "properties": {
+        "timestamp": "2025-02-07T16:57:12Z",
+        "version": 2,
+        "changeset": 162253294,
+        "addr:city": "Livramento de Nossa Senhora",
+        "addr:housenumber": "87",
+        "addr:postcode": "46140-000",
+        "addr:street": "Rua Josias de Sousa Lessa",
+        "addr:suburb": "Estocada",
+        "id": "node/12565780628"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.848799,
+          -13.638666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12565780636",
+      "properties": {
+        "timestamp": "2025-02-07T15:29:22Z",
+        "version": 1,
+        "changeset": 162249842,
+        "access": "yes",
+        "addr:city": "Livramento de Nossa Senhora",
+        "addr:housenumber": "87",
+        "addr:postcode": "46140-000",
+        "addr:street": "Rua Josias de Sousa Lessa",
+        "addr:suburb": "Estocada",
+        "door": "yes/manual/main_entrance",
+        "entrance": "main",
+        "level": "0",
+        "wheelchair": "yes",
+        "id": "node/12565780636"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.8488424,
+          -13.6385565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12565780640",
+      "properties": {
+        "timestamp": "2025-02-07T15:29:22Z",
+        "version": 1,
+        "changeset": 162249842,
+        "access": "yes",
+        "addr:city": "Livramento de Nossa Senhora",
+        "addr:housenumber": "87",
+        "addr:postcode": "46140-000",
+        "addr:street": "Rua Josias de Sousa Lessa",
+        "addr:suburb": "Estocada",
+        "alt_name": "Centro De Atenção Psicossocial | CAPS Tipo II Maria C. S. Marques Souza | Livramento De Nossa Senhora, BA | SUS",
+        "door": "yes/manual/main_entrance",
+        "entrance": "main",
+        "level": "0",
+        "loc_name": "Centro De Atenção Psicossocial | CAPS Tipo II Maria C. S. Marques Souza | Livramento De Nossa Senhora, BA | SUS",
+        "name": "Centro De Atenção Psicossocial | CAPS Tipo II Maria C. S. Marques Souza | Livramento De Nossa Senhora, BA | SUS",
+        "nat_name": "Centro De Atenção Psicossocial | CAPS Tipo II Maria C. S. Marques Souza | Livramento De Nossa Senhora, BA | SUS",
+        "official_name": "Centro De Atenção Psicossocial | CAPS Tipo II Maria C. S. Marques Souza | Livramento De Nossa Senhora, BA | SUS",
+        "reg_name": "Centro De Atenção Psicossocial | CAPS Tipo II Maria C. S. Marques Souza | Livramento De Nossa Senhora, BA | SUS",
+        "short_name": "Centro De Atenção Psicossocial | CAPS Tipo II Maria C. S. Marques Souza | Livramento De Nossa Senhora, BA | SUS",
+        "website": "https://www.instagram.com/capslivramentobahia",
+        "wheelchair": "yes",
+        "id": "node/12565780640"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.8487931,
+          -13.6385566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12565949809",
+      "properties": {
+        "timestamp": "2025-02-07T16:56:06Z",
+        "version": 1,
+        "changeset": 162253239,
+        "access": "yes",
+        "addr:city": "Livramento de Nossa Senhora",
+        "addr:housenumber": "s/n",
+        "addr:postcode": "46140-000",
+        "addr:street": "Rua Josué da Silva Pereira",
+        "addr:suburb": "Estocada",
+        "alt_name": "Unidade Básica De Saúde | UBS Gil Ferreira Pessoa | Sede I | Livramento De Nossa Senhora, BA | SUS",
+        "door": "yes/manual/main_entrance",
+        "entrance": "main",
+        "level": "0",
+        "loc_name": "Unidade Básica De Saúde | UBS Gil Ferreira Pessoa | Sede I | Livramento De Nossa Senhora, BA | SUS",
+        "name": "Unidade Básica De Saúde | UBS Gil Ferreira Pessoa | Sede I | Livramento De Nossa Senhora, BA | SUS",
+        "nat_name": "Unidade Básica De Saúde | UBS Gil Ferreira Pessoa | Sede I | Livramento De Nossa Senhora, BA | SUS",
+        "official_name": "Unidade Básica De Saúde | UBS Gil Ferreira Pessoa | Sede I | Livramento De Nossa Senhora, BA | SUS",
+        "reg_name": "Unidade Básica De Saúde | UBS Gil Ferreira Pessoa | Sede I | Livramento De Nossa Senhora, BA | SUS",
+        "short_name": "Unidade Básica De Saúde | UBS Gil Ferreira Pessoa | Sede I | Livramento De Nossa Senhora, BA | SUS",
+        "website": "http://www.livramento.ba.gov.br/",
+        "wheelchair": "yes",
+        "id": "node/12565949809"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.8487724,
+          -13.6397913
         ]
       }
     }

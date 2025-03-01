@@ -92,28 +92,32 @@
       "type": "Feature",
       "id": "node/3833597217",
       "properties": {
-        "timestamp": "2022-07-09T15:47:24Z",
-        "version": 11,
-        "changeset": 123404885,
+        "timestamp": "2025-02-07T22:55:14Z",
+        "version": 12,
+        "changeset": 162263676,
         "addr:city": "Fortaleza",
         "addr:housenumber": "916",
         "addr:postcode": "60060-610",
         "addr:street": "Avenida Beira Mar",
         "addr:suburb": "Praia de Iracema",
         "amenity": "bicycle_rental",
+        "brand": "Bicicletar",
+        "brand:wikidata": "Q20052795",
         "capacity": "16",
         "description": "Avenida Beira Mar 916 / Esquina Rua João Cordeiro",
         "name": "Aterrinho da Praia de Iracema",
         "network": "Bicicletar",
         "operator": "Prefeitura Municipal de Fortaleza",
+        "operator:type": "government",
+        "operator:wikidata": "Q53930902",
         "ref": "13",
         "id": "node/3833597217"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -38.5115157,
-          -3.7204231
+          -38.5107797,
+          -3.7202542
         ]
       }
     },
@@ -3427,23 +3431,27 @@
       "type": "Feature",
       "id": "node/7826081557",
       "properties": {
-        "timestamp": "2021-03-10T23:44:04Z",
-        "version": 2,
-        "changeset": 100805620,
+        "timestamp": "2025-02-07T22:55:14Z",
+        "version": 3,
+        "changeset": 162263676,
         "amenity": "bicycle_rental",
+        "brand": "Bicicletar",
+        "brand:wikidata": "Q20052795",
         "capacity": "12",
         "description": "Avenida Beira Mar 916, em frente ao número 916 / Esquina com a Rua João Cordeiro",
         "name": "Aterrinho da Praia de Iracema",
         "network": "Minibicicletar",
         "operator": "Prefeitura Municipal de Fortaleza",
+        "operator:type": "government",
+        "operator:wikidata": "Q53930902",
         "ref": "502",
         "id": "node/7826081557"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -38.5115983,
-          -3.7201677
+          -38.5108037,
+          -3.7202438
         ]
       }
     },
@@ -5148,6 +5156,24 @@
         "coordinates": [
           -38.5837745,
           -3.7076731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12566553201",
+      "properties": {
+        "timestamp": "2025-02-07T23:20:00Z",
+        "version": 1,
+        "changeset": 162264111,
+        "amenity": "bicycle_rental",
+        "id": "node/12566553201"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5107861,
+          -3.7202686
         ]
       }
     }

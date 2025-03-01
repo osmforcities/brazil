@@ -3,77 +3,11 @@
   "features": [
     {
       "type": "Feature",
-      "id": "way/203429072",
-      "properties": {
-        "timestamp": "2022-09-05T22:42:08Z",
-        "version": 3,
-        "changeset": 125833376,
-        "access": "yes",
-        "alt_name": "Posto de Saúde da Barra do Sul",
-        "amenity": "clinic",
-        "brand": "Sistema Único de Saúde",
-        "brand:short": "SUS",
-        "brand:wikidata": "Q7531056",
-        "brand:wikipedia": "pt:Sistema Único de Saúde",
-        "building": "yes",
-        "emergency": "yes",
-        "healthcare": "clinic",
-        "loc_name": "Posto de Saúde Jetel Mendes",
-        "name": "Unidade de Saúde Jetel Mendes",
-        "opening_hours": "24/7",
-        "operator": "Prefeitura Municipal de Balneário Barra do Sul",
-        "operator:type": "public",
-        "short_name": "US Jetel Mendes",
-        "wheelchair": "yes",
-        "id": "way/203429072"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -48.6189414,
-              -26.4614006
-            ],
-            [
-              -48.6189029,
-              -26.4613419
-            ],
-            [
-              -48.6188582,
-              -26.4612735
-            ],
-            [
-              -48.6190044,
-              -26.4611968
-            ],
-            [
-              -48.6191923,
-              -26.4614839
-            ],
-            [
-              -48.6190914,
-              -26.4615368
-            ],
-            [
-              -48.6189867,
-              -26.4613768
-            ],
-            [
-              -48.6189414,
-              -26.4614006
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/1092226183",
       "properties": {
-        "timestamp": "2022-09-05T22:42:08Z",
-        "version": 1,
-        "changeset": 125833376,
+        "timestamp": "2025-02-07T02:14:51Z",
+        "version": 2,
+        "changeset": 162228927,
         "access": "yes",
         "amenity": "clinic",
         "brand": "Sistema Único de Saúde",
@@ -82,11 +16,12 @@
         "brand:wikipedia": "pt:Sistema Único de Saúde",
         "building": "yes",
         "healthcare": "clinic",
+        "healthcare:speciality": "general",
         "loc_name": "Posto de Saúde",
         "name": "Unidade Básica de Saúde",
         "opening_hours": "Mo-Fr 07:00-12:00,13:00-16:00; Sa,Su,PH off",
-        "operator": "Prefeitura Municipal de Balneário Barra do Sul",
-        "operator:type": "public",
+        "operator": "Secretaria Municipal de Saúde e Saneamento",
+        "operator:type": "government",
         "short_name": "UBS",
         "wheelchair": "yes",
         "id": "way/1092226183"
@@ -148,25 +83,6 @@
               -26.4609963
             ]
           ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/10003154995",
-      "properties": {
-        "timestamp": "2022-09-05T22:42:08Z",
-        "version": 1,
-        "changeset": 125833376,
-        "entrance": "main",
-        "wheelchair": "yes",
-        "id": "node/10003154995"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.6189029,
-          -26.4613419
         ]
       }
     }

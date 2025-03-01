@@ -111,57 +111,367 @@
     },
     {
       "type": "Feature",
-      "id": "node/12542491811",
+      "id": "way/1357792697",
       "properties": {
-        "timestamp": "2025-01-29T21:05:40Z",
-        "version": 2,
-        "changeset": 161914034,
+        "timestamp": "2025-02-07T13:56:40Z",
+        "version": 1,
+        "changeset": 162246594,
         "addr:city": "Salinas",
-        "addr:housenumber": "1009",
+        "addr:housenumber": "340",
         "addr:postcode": "39560-000",
-        "addr:street": "Avenida Antônio Carlos",
-        "addr:suburb": "São Geraldo",
+        "addr:street": "Rua Avelino Almeida",
+        "addr:suburb": "São pedro",
         "amenity": "hospital",
+        "building": "yes",
+        "building:levels": "1",
         "healthcare": "hospital",
         "healthcare:speciality": "general",
-        "name": "Hospital Municipal Doutor Oswaldo Prediliano Santanna",
-        "operator": "Município de Salinas",
-        "operator:type": "public",
-        "id": "node/12542491811"
+        "name": "Hospital São Lucas de Salinas",
+        "operator": "Hospital São Lucas de Salinas",
+        "operator:type": "private",
+        "id": "way/1357792697"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -42.2889977,
-          -16.1588419
+          [
+            [
+              -42.2942294,
+              -16.1716691
+            ],
+            [
+              -42.2941793,
+              -16.1717692
+            ],
+            [
+              -42.2944343,
+              -16.1718869
+            ],
+            [
+              -42.2943253,
+              -16.1721047
+            ],
+            [
+              -42.2942138,
+              -16.1720532
+            ],
+            [
+              -42.2942592,
+              -16.1719625
+            ],
+            [
+              -42.2941223,
+              -16.1718993
+            ],
+            [
+              -42.2940772,
+              -16.1719896
+            ],
+            [
+              -42.2939304,
+              -16.1719218
+            ],
+            [
+              -42.2939704,
+              -16.171842
+            ],
+            [
+              -42.2939482,
+              -16.1718318
+            ],
+            [
+              -42.2939705,
+              -16.1717874
+            ],
+            [
+              -42.2939359,
+              -16.1717714
+            ],
+            [
+              -42.2939664,
+              -16.1717104
+            ],
+            [
+              -42.2940027,
+              -16.1717271
+            ],
+            [
+              -42.2940689,
+              -16.171595
+            ],
+            [
+              -42.2942294,
+              -16.1716691
+            ]
+          ]
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "node/12560282530",
+      "id": "way/1357792698",
       "properties": {
-        "timestamp": "2025-02-05T23:33:37Z",
+        "timestamp": "2025-02-07T13:56:40Z",
         "version": 1,
-        "changeset": 162186941,
+        "changeset": 162246594,
         "addr:city": "Salinas",
         "addr:housenumber": "100",
         "addr:postcode": "39560-000",
         "addr:street": "Rua Frei Cornélio Van Velzen",
         "addr:suburb": "São Geraldo",
         "amenity": "hospital",
+        "building": "yes",
+        "building:levels": "1",
         "healthcare": "hospital",
         "healthcare:speciality": "general",
-        "name": "Unidade de Pronto Atendimento Arquiteclino Guimarães",
+        "name": "Unidade de Pronto Atendimento Arquiteclíno Guimarães Sarmento",
         "operator": "Município de Salinas",
         "operator:type": "public",
-        "id": "node/12560282530"
+        "id": "way/1357792698"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -42.2899936,
-          -16.1592336
+          [
+            [
+              -42.2901329,
+              -16.1590498
+            ],
+            [
+              -42.2901724,
+              -16.1591636
+            ],
+            [
+              -42.2900287,
+              -16.1592097
+            ],
+            [
+              -42.2900355,
+              -16.1592292
+            ],
+            [
+              -42.2899615,
+              -16.1592529
+            ],
+            [
+              -42.2899615,
+              -16.1592383
+            ],
+            [
+              -42.289733,
+              -16.159312
+            ],
+            [
+              -42.2896849,
+              -16.1591744
+            ],
+            [
+              -42.2897303,
+              -16.1591598
+            ],
+            [
+              -42.2896888,
+              -16.1590412
+            ],
+            [
+              -42.2899318,
+              -16.1589629
+            ],
+            [
+              -42.2899224,
+              -16.1589359
+            ],
+            [
+              -42.2900417,
+              -16.1588976
+            ],
+            [
+              -42.2900985,
+              -16.1590608
+            ],
+            [
+              -42.2901329,
+              -16.1590498
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1357792699",
+      "properties": {
+        "timestamp": "2025-02-07T13:56:40Z",
+        "version": 1,
+        "changeset": 162246594,
+        "addr:city": "Salinas",
+        "addr:housenumber": "1009",
+        "addr:postcode": "39560-000",
+        "addr:street": "Avenida Antônio Carlos",
+        "addr:suburb": "São Geraldo",
+        "amenity": "hospital",
+        "building": "yes",
+        "building:levels": "1",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "Hospital Municipal Doutor Oswaldo Prediliano Santanna",
+        "operator": "Município de Salinas",
+        "operator:type": "public",
+        "id": "way/1357792699"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.2896433,
+              -16.1589805
+            ],
+            [
+              -42.2895723,
+              -16.1590026
+            ],
+            [
+              -42.2896324,
+              -16.1591809
+            ],
+            [
+              -42.2895235,
+              -16.1592147
+            ],
+            [
+              -42.2894401,
+              -16.1589676
+            ],
+            [
+              -42.2894022,
+              -16.1589794
+            ],
+            [
+              -42.2894355,
+              -16.1590778
+            ],
+            [
+              -42.2892975,
+              -16.1591209
+            ],
+            [
+              -42.2892359,
+              -16.1589391
+            ],
+            [
+              -42.2891705,
+              -16.1589596
+            ],
+            [
+              -42.2891607,
+              -16.1589308
+            ],
+            [
+              -42.2890627,
+              -16.1589617
+            ],
+            [
+              -42.2890366,
+              -16.1588854
+            ],
+            [
+              -42.2889963,
+              -16.1588982
+            ],
+            [
+              -42.288961,
+              -16.1587959
+            ],
+            [
+              -42.2890056,
+              -16.1587817
+            ],
+            [
+              -42.2889923,
+              -16.1587434
+            ],
+            [
+              -42.2889417,
+              -16.1587596
+            ],
+            [
+              -42.2889072,
+              -16.1586607
+            ],
+            [
+              -42.2889439,
+              -16.1586489
+            ],
+            [
+              -42.2889024,
+              -16.1585308
+            ],
+            [
+              -42.2890329,
+              -16.1584885
+            ],
+            [
+              -42.2890462,
+              -16.1585261
+            ],
+            [
+              -42.2890835,
+              -16.158514
+            ],
+            [
+              -42.2890738,
+              -16.1584867
+            ],
+            [
+              -42.2894178,
+              -16.1583734
+            ],
+            [
+              -42.2894371,
+              -16.1584274
+            ],
+            [
+              -42.2897634,
+              -16.1583198
+            ],
+            [
+              -42.2898152,
+              -16.1584645
+            ],
+            [
+              -42.2897621,
+              -16.158482
+            ],
+            [
+              -42.2897452,
+              -16.1584625
+            ],
+            [
+              -42.2897206,
+              -16.1584702
+            ],
+            [
+              -42.2897698,
+              -16.1586163
+            ],
+            [
+              -42.2895922,
+              -16.1586714
+            ],
+            [
+              -42.2896004,
+              -16.1586956
+            ],
+            [
+              -42.2895524,
+              -16.1587105
+            ],
+            [
+              -42.2896433,
+              -16.1589805
+            ]
+          ]
         ]
       }
     }

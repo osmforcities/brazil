@@ -1411,54 +1411,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/409590713",
-      "properties": {
-        "timestamp": "2022-10-18T13:52:50Z",
-        "version": 3,
-        "changeset": 127729108,
-        "addr:city": "Guarulhos",
-        "addr:postcode": "07081-060",
-        "addr:street": "Rua José Roberto Liotta",
-        "addr:suburb": "Jardim Rosa de França",
-        "amenity": "school",
-        "phone": "+55 11 2304 0957",
-        "short_name": "E.M. Margarida Maria da Conceição",
-        "id": "way/409590713"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -46.5538414,
-              -23.4444301
-            ],
-            [
-              -46.5539785,
-              -23.4445741
-            ],
-            [
-              -46.553458,
-              -23.4449911
-            ],
-            [
-              -46.5533209,
-              -23.4448471
-            ],
-            [
-              -46.5536476,
-              -23.4445854
-            ],
-            [
-              -46.5538414,
-              -23.4444301
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/420138392",
       "properties": {
         "timestamp": "2019-01-04T19:21:00Z",
@@ -3664,13 +3616,14 @@
       "type": "Feature",
       "id": "way/493519547",
       "properties": {
-        "timestamp": "2022-10-18T13:52:50Z",
-        "version": 2,
-        "changeset": 127729108,
+        "timestamp": "2025-02-07T01:11:03Z",
+        "version": 3,
+        "changeset": 162228070,
         "addr:city": "Guarulhos",
         "addr:street": "Rua Sergipe",
         "addr:suburb": "Jardim Rosa de França",
         "amenity": "school",
+        "barrier": "wall",
         "name": "Centro Educacional Unificado Rosa de França",
         "short_name": "CEU Rosa de França",
         "start_date": "2012-03-17",
@@ -3682,16 +3635,24 @@
         "coordinates": [
           [
             [
-              -46.5538714,
-              -23.4443673
+              -46.55385,
+              -23.4443723
             ],
             [
-              -46.5542926,
+              -46.5542667,
               -23.4449333
             ],
             [
-              -46.5536511,
-              -23.4453257
+              -46.5536752,
+              -23.445308
+            ],
+            [
+              -46.5536541,
+              -23.445311
+            ],
+            [
+              -46.553638,
+              -23.4453058
             ],
             [
               -46.553228,
@@ -3706,16 +3667,16 @@
               -23.4448841
             ],
             [
-              -46.5536476,
-              -23.4445854
+              -46.5535909,
+              -23.4445872
             ],
             [
-              -46.5535657,
-              -23.4445051
+              -46.5535213,
+              -23.4444978
             ],
             [
-              -46.5538714,
-              -23.4443673
+              -46.55385,
+              -23.4443723
             ]
           ]
         ]
@@ -10254,6 +10215,85 @@
     },
     {
       "type": "Feature",
+      "id": "way/1357654415",
+      "properties": {
+        "timestamp": "2025-02-07T01:11:03Z",
+        "version": 1,
+        "changeset": 162228070,
+        "addr:city": "Guarulhos",
+        "addr:housenumber": "392",
+        "addr:street": "Rua Bahia",
+        "amenity": "school",
+        "barrier": "wall",
+        "name": "E.E Professor José Roberto Friebolin",
+        "id": "way/1357654415"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.5564092,
+              -23.4445637
+            ],
+            [
+              -46.5563161,
+              -23.4446117
+            ],
+            [
+              -46.556265,
+              -23.444638
+            ],
+            [
+              -46.5559441,
+              -23.4448718
+            ],
+            [
+              -46.5559248,
+              -23.4448834
+            ],
+            [
+              -46.5559047,
+              -23.4448825
+            ],
+            [
+              -46.5558747,
+              -23.4448517
+            ],
+            [
+              -46.5556863,
+              -23.444621
+            ],
+            [
+              -46.555449,
+              -23.4443304
+            ],
+            [
+              -46.5556338,
+              -23.4441846
+            ],
+            [
+              -46.5557211,
+              -23.4441404
+            ],
+            [
+              -46.5559109,
+              -23.4441515
+            ],
+            [
+              -46.5562338,
+              -23.4442825
+            ],
+            [
+              -46.5564092,
+              -23.4445637
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1105616450",
       "properties": {
         "timestamp": "2023-06-03T05:03:28Z",
@@ -11302,6 +11342,47 @@
         "coordinates": [
           -46.5313769,
           -23.466624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12564240216",
+      "properties": {
+        "timestamp": "2025-02-07T01:11:03Z",
+        "version": 1,
+        "changeset": 162228070,
+        "addr:city": "Guarulhos",
+        "addr:housenumber": "14",
+        "addr:street": "Rua Campinas",
+        "id": "node/12564240216"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5556863,
+          -23.444621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12564240217",
+      "properties": {
+        "timestamp": "2025-02-07T01:11:03Z",
+        "version": 1,
+        "changeset": 162228070,
+        "addr:city": "Guarulhos",
+        "addr:housenumber": "392",
+        "addr:street": "Rua Bahia",
+        "entrance": "yes",
+        "id": "node/12564240217"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5563161,
+          -23.4446117
         ]
       }
     }

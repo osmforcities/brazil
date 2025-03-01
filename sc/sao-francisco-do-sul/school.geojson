@@ -501,6 +501,175 @@
     },
     {
       "type": "Feature",
+      "id": "way/1357901411",
+      "properties": {
+        "timestamp": "2025-02-08T01:06:51Z",
+        "version": 1,
+        "changeset": 162265572,
+        "addr:housenumber": "794",
+        "addr:street": "Rua Barão do Rio Branco",
+        "addr:suburb": "Centro",
+        "amenity": "school",
+        "email": "seriedh23catarina@sed.sc.gov.br",
+        "name": "EEB Santa Catarina",
+        "old_name": "Escola de Educação Básica  Santa Catarina",
+        "operator": "Secretaria de Estado da Educação",
+        "operator:type": "government",
+        "phone": "+55 47 3461 1209",
+        "religion": "none",
+        "website": "https://eebsantacatarinasfs.blogspot.com/",
+        "id": "way/1357901411"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.6328545,
+              -26.2455294
+            ],
+            [
+              -48.6309697,
+              -26.2464329
+            ],
+            [
+              -48.6307275,
+              -26.2461339
+            ],
+            [
+              -48.6317243,
+              -26.2456522
+            ],
+            [
+              -48.6316787,
+              -26.2455515
+            ],
+            [
+              -48.6321736,
+              -26.245265
+            ],
+            [
+              -48.6322157,
+              -26.2453217
+            ],
+            [
+              -48.6325632,
+              -26.2451233
+            ],
+            [
+              -48.6328545,
+              -26.2455294
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1358228262",
+      "properties": {
+        "timestamp": "2025-02-08T23:05:22Z",
+        "version": 1,
+        "changeset": 162297456,
+        "addr:street": "Rua Binot Paulmier de Gonneville",
+        "amenity": "school",
+        "name": "Escola Municipal Álvaro Tancredo Dippold",
+        "id": "way/1358228262"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.621061,
+              -26.2588546
+            ],
+            [
+              -48.621289,
+              -26.2591456
+            ],
+            [
+              -48.6209779,
+              -26.2593573
+            ],
+            [
+              -48.6207311,
+              -26.2590542
+            ],
+            [
+              -48.621061,
+              -26.2588546
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1358228263",
+      "properties": {
+        "timestamp": "2025-02-08T23:05:22Z",
+        "version": 1,
+        "changeset": 162297456,
+        "addr:street": "Rua Willy Lehm",
+        "amenity": "school",
+        "name": "Escola Municipal Waldemar da Costa",
+        "id": "way/1358228263"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.6325596,
+              -26.2591913
+            ],
+            [
+              -48.6334716,
+              -26.2604686
+            ],
+            [
+              -48.6329244,
+              -26.2607404
+            ],
+            [
+              -48.6325972,
+              -26.2602425
+            ],
+            [
+              -48.6325033,
+              -26.2602665
+            ],
+            [
+              -48.6323907,
+              -26.2601246
+            ],
+            [
+              -48.6322006,
+              -26.2599388
+            ],
+            [
+              -48.6321177,
+              -26.2599791
+            ],
+            [
+              -48.631936,
+              -26.2596315
+            ],
+            [
+              -48.6324785,
+              -26.2591757
+            ],
+            [
+              -48.6325596,
+              -26.2591913
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/4117897090",
       "properties": {
         "timestamp": "2021-01-18T02:54:27Z",
@@ -620,32 +789,12 @@
     },
     {
       "type": "Feature",
-      "id": "node/8254695904",
-      "properties": {
-        "timestamp": "2020-12-23T12:40:27Z",
-        "version": 1,
-        "changeset": 96326404,
-        "amenity": "school",
-        "name": "Escola Municipal Waldemar da Costa",
-        "id": "node/8254695904"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.6331562,
-          -26.2601064
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/8254695906",
       "properties": {
-        "timestamp": "2020-12-23T12:40:27Z",
-        "version": 1,
-        "changeset": 96326404,
+        "timestamp": "2025-02-08T23:05:22Z",
+        "version": 2,
+        "changeset": 162297456,
         "amenity": "school",
-        "name": "Escola Municipal Álvaro Tancredo Dippold",
         "id": "node/8254695906"
       },
       "geometry": {
@@ -731,26 +880,6 @@
         "coordinates": [
           -48.6814014,
           -26.2936518
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/9698009359",
-      "properties": {
-        "timestamp": "2022-04-27T14:48:11Z",
-        "version": 1,
-        "changeset": 120263563,
-        "addr:street": "Rua Barão do Rio Branco",
-        "amenity": "school",
-        "name": "Escola de Educação Básica de Santa Catarina",
-        "id": "node/9698009359"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.632538,
-          -26.2454371
         ]
       }
     },

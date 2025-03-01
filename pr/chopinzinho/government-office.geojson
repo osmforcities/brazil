@@ -5,12 +5,17 @@
       "type": "Feature",
       "id": "node/9024768185",
       "properties": {
-        "timestamp": "2021-08-21T12:01:43Z",
-        "version": 1,
-        "changeset": 110025779,
-        "government": "public_service",
-        "name": "CIRETRAN",
+        "timestamp": "2025-02-08T21:46:05Z",
+        "version": 2,
+        "changeset": 162295617,
+        "addr:city": "Chopinzinho",
+        "addr:housenumber": "4829",
+        "addr:street": "Rua Monteiro Lobato",
+        "addr:suburb": "São Sebastião",
+        "alt_name": "DETRAN",
+        "name": "84ª Circunscrição Regional de Trânsito",
         "office": "government",
+        "short_name": "84ª CIRETRAN",
         "id": "node/9024768185"
       },
       "geometry": {
@@ -18,6 +23,93 @@
         "coordinates": [
           -52.5217354,
           -25.8517272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12569539710",
+      "properties": {
+        "timestamp": "2025-02-08T21:46:05Z",
+        "version": 1,
+        "changeset": 162295617,
+        "addr:housenumber": "5148",
+        "addr:street": "Rua Coronel Santiago Dantas",
+        "addr:suburb": "Cristo Rei",
+        "government": "register_office",
+        "office": "government",
+        "id": "node/12569539710"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.5399329,
+          -25.8536922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12569539711",
+      "properties": {
+        "timestamp": "2025-02-08T21:46:05Z",
+        "version": 1,
+        "changeset": 162295617,
+        "addr:city": "Chopinzinho",
+        "addr:housenumber": "4074",
+        "addr:street": "Rua Diogo Antônio Feijó",
+        "addr:suburb": "Centro",
+        "government": "register_office",
+        "office": "government",
+        "id": "node/12569539711"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.5286331,
+          -25.8555018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12569539712",
+      "properties": {
+        "timestamp": "2025-02-08T21:46:05Z",
+        "version": 1,
+        "changeset": 162295617,
+        "addr:city": "Chopinzinho",
+        "addr:housenumber": "4212",
+        "addr:street": "Rua Padre Anchieta",
+        "addr:suburb": "Centro",
+        "name": "Agência do Trabalhador",
+        "office": "government",
+        "id": "node/12569539712"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.5259,
+          -25.8541838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12569539715",
+      "properties": {
+        "timestamp": "2025-02-08T21:46:05Z",
+        "version": 1,
+        "changeset": 162295617,
+        "name": "Conselho Tutelar",
+        "office": "government",
+        "id": "node/12569539715"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.5272064,
+          -25.8592031
         ]
       }
     }

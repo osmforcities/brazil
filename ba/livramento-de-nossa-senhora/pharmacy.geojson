@@ -55,6 +55,58 @@
     },
     {
       "type": "Feature",
+      "id": "relation/18668517",
+      "properties": {
+        "timestamp": "2025-02-08T12:52:51Z",
+        "version": 1,
+        "changeset": 162278435,
+        "addr:city": "Livramento de Nossa Senhora",
+        "addr:housenumber": "46",
+        "addr:postcode": "46140-000",
+        "addr:street": "Praça Dom Hélio Paschoal",
+        "addr:suburb": "Centro",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmácia Básica Municipal | FBM | SESAU | Livramento De Nossa Senhora, BA | SUS",
+        "opening_hours": "Mo-Th 07:00-12:00, Mo-Th 14:00-16:00, Fr 07:00-12:00",
+        "type": "multipolygon",
+        "id": "relation/18668517"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.8414583,
+              -13.6506191
+            ],
+            [
+              -41.8414391,
+              -13.650556
+            ],
+            [
+              -41.8414299,
+              -13.6505255
+            ],
+            [
+              -41.8416274,
+              -13.650467
+            ],
+            [
+              -41.8416543,
+              -13.6505614
+            ],
+            [
+              -41.8414583,
+              -13.6506191
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1357812659",
       "properties": {
         "timestamp": "2025-02-07T15:29:22Z",
@@ -111,6 +163,50 @@
             [
               -41.8488145,
               -13.6385328
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1358103684",
+      "properties": {
+        "timestamp": "2025-02-08T12:52:51Z",
+        "version": 1,
+        "changeset": 162278435,
+        "barrier": "wall",
+        "material": "brick",
+        "wall": "brick",
+        "id": "way/1358103684"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.8414583,
+              -13.6506191
+            ],
+            [
+              -41.8414391,
+              -13.650556
+            ],
+            [
+              -41.8414299,
+              -13.6505255
+            ],
+            [
+              -41.8416274,
+              -13.650467
+            ],
+            [
+              -41.8416543,
+              -13.6505614
+            ],
+            [
+              -41.8414583,
+              -13.6506191
             ]
           ]
         ]
@@ -426,9 +522,9 @@
       "type": "Feature",
       "id": "node/12463765138",
       "properties": {
-        "timestamp": "2025-01-11T14:07:08Z",
-        "version": 3,
-        "changeset": 161240507,
+        "timestamp": "2025-02-08T12:52:51Z",
+        "version": 4,
+        "changeset": 162278435,
         "addr:city": "Livramento de Nossa Senhora",
         "addr:housenumber": "46",
         "addr:postcode": "46140-000",
@@ -448,8 +544,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -41.8414735,
-          -13.6505669
+          -41.8414769,
+          -13.6505603
         ]
       }
     },
@@ -536,6 +632,33 @@
         "coordinates": [
           -41.8488424,
           -13.6385565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12568235538",
+      "properties": {
+        "timestamp": "2025-02-08T12:52:51Z",
+        "version": 1,
+        "changeset": 162278435,
+        "access": "yes",
+        "addr:city": "Livramento de Nossa Senhora",
+        "addr:housenumber": "46",
+        "addr:postcode": "46140-000",
+        "addr:street": "Praça Dom Hélio Paschoal",
+        "addr:suburb": "Centro",
+        "door": "yes/manual/main_entrance",
+        "entrance": "main",
+        "level": "0",
+        "wheelchair": "yes",
+        "id": "node/12568235538"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.8414391,
+          -13.650556
         ]
       }
     }

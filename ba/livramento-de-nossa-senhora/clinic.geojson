@@ -171,109 +171,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/1347046399",
-      "properties": {
-        "timestamp": "2025-01-07T00:25:04Z",
-        "version": 3,
-        "changeset": 161078986,
-        "addr:city": "Livramento de Nossa Senhora",
-        "addr:housenumber": "S/N",
-        "addr:postcode": "46140-000",
-        "addr:street": "Rua Lafaiete Coutinho",
-        "addr:suburb": "Centro",
-        "amenity": "clinic",
-        "building": "yes",
-        "emergency": "no",
-        "healthcare": "clinic",
-        "healthcare:speciality": "general;community",
-        "name": "Unidade Básica De Saúde | UBS Edival Borges Da Silva | Sede I | Livramento De Nossa Senhora, BA | SUS",
-        "opening_hours": "Mo-Fr 08:00-17:00",
-        "website": "https://www.livramentodenossasenhora.ba.gov.br/",
-        "id": "way/1347046399"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -41.8401085,
-              -13.6400426
-            ],
-            [
-              -41.8397909,
-              -13.6400976
-            ],
-            [
-              -41.8397599,
-              -13.6399652
-            ],
-            [
-              -41.8400864,
-              -13.6399205
-            ],
-            [
-              -41.8401085,
-              -13.6400426
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1347372575",
-      "properties": {
-        "timestamp": "2025-01-12T19:43:08Z",
-        "version": 4,
-        "changeset": 161285433,
-        "addr:city": "Livramento de Nossa Senhora",
-        "addr:housenumber": "46",
-        "addr:postcode": "46140-000",
-        "addr:street": "Praça Dom Hélio Paschoal",
-        "addr:suburb": "Centro",
-        "amenity": "clinic",
-        "building": "yes",
-        "healthcare": "clinic",
-        "healthcare:speciality": "community;far",
-        "name": "Farmácia Básica Municipal | FBM | SESAU | Livramento De Nossa Senhora, BA | SUS",
-        "opening_hours": "Mo-Th 07:00-12:00, Mo-Th 14:00-16:00, Fr 07:00-12:00",
-        "operator": "Sistema Único de Saúde",
-        "operator:short": "SUS",
-        "operator:type": "public",
-        "operator:wikidata": "Q7531056",
-        "wheelchair": "yes",
-        "id": "way/1347372575"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -41.8414346,
-              -13.6505298
-            ],
-            [
-              -41.8416703,
-              -13.650467
-            ],
-            [
-              -41.8417042,
-              -13.6505575
-            ],
-            [
-              -41.841465,
-              -13.6506249
-            ],
-            [
-              -41.8414346,
-              -13.6505298
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/1347409634",
       "properties": {
         "timestamp": "2024-12-30T21:06:36Z",
@@ -1215,28 +1112,37 @@
       "type": "Feature",
       "id": "node/12460670790",
       "properties": {
-        "timestamp": "2024-12-29T11:42:14Z",
-        "version": 1,
-        "changeset": 160746176,
+        "timestamp": "2025-02-08T12:52:51Z",
+        "version": 2,
+        "changeset": 162278435,
         "addr:city": "Livramento de Nossa Senhora",
-        "addr:housenumber": "S/N",
+        "addr:housenumber": "s/n",
         "addr:postcode": "46140-000",
         "addr:street": "Rua Lafaiete Coutinho",
         "addr:suburb": "Centro",
+        "alt_name": "Unidade Básica De Saúde | UBS Edival Borges Da Silva | Sede I | Livramento De Nossa Senhora, BA | SUS",
         "amenity": "clinic",
         "emergency": "no",
         "healthcare": "clinic",
         "healthcare:speciality": "ambulatório;community;general",
+        "level": "0",
+        "loc_name": "Unidade Básica De Saúde | UBS Edival Borges Da Silva | Sede I | Livramento De Nossa Senhora, BA | SUS",
         "name": "Unidade Básica De Saúde | UBS Edival Borges Da Silva | Sede I | Livramento De Nossa Senhora, BA | SUS",
-        "opening_hours": "Mo-Fr 09:00-17:00",
-        "website": "https://www.livramentodenossasenhora.ba.gov.br/",
+        "nat_name": "Unidade Básica De Saúde | UBS Edival Borges Da Silva | Sede I | Livramento De Nossa Senhora, BA | SUS",
+        "official_name": "Unidade Básica De Saúde | UBS Edival Borges Da Silva | Sede I | Livramento De Nossa Senhora, BA | SUS",
+        "opening_hours": "Mo-Fr 07:00-12:00, Mo-Th 14:00-16:00",
+        "phone": "+55 77 3444-2900",
+        "reg_name": "Unidade Básica De Saúde | UBS Edival Borges Da Silva | Sede I | Livramento De Nossa Senhora, BA | SUS",
+        "short_name": "Unidade Básica De Saúde | UBS Edival Borges Da Silva | Sede I | Livramento De Nossa Senhora, BA | SUS",
+        "website": "https://www.livramento.ba.gov.br/",
+        "wheelchair": "yes",
         "id": "node/12460670790"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -41.8399448,
-          -13.6400288
+          -41.8399664,
+          -13.6399779
         ]
       }
     },

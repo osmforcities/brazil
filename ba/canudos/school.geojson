@@ -5,11 +5,16 @@
       "type": "Feature",
       "id": "way/1064362287",
       "properties": {
-        "timestamp": "2022-05-27T14:37:40Z",
-        "version": 1,
-        "changeset": 121580251,
+        "timestamp": "2025-02-10T00:17:59Z",
+        "version": 2,
+        "changeset": 162332383,
+        "addr:city": "Canudos",
+        "addr:housenumber": "4",
+        "addr:postcode": "48520-000",
+        "addr:street": "Avenida Enok Canário",
+        "addr:suburb": "Centro",
         "amenity": "school",
-        "name": "Colégio Estadual Luis Cabral",
+        "name": "Colégio Estadual Luís Cabral",
         "id": "way/1064362287"
       },
       "geometry": {
@@ -42,6 +47,199 @@
     },
     {
       "type": "Feature",
+      "id": "way/1289625826",
+      "properties": {
+        "timestamp": "2025-02-10T11:05:39Z",
+        "version": 2,
+        "changeset": 162345624,
+        "amenity": "school",
+        "building": "yes",
+        "name": "Colégio Municipal Arnaldo Ferreira",
+        "operator": "Município de Canudos",
+        "operator:type": "public",
+        "id": "way/1289625826"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -39.0308072,
+              -9.8930976
+            ],
+            [
+              -39.0307047,
+              -9.8933523
+            ],
+            [
+              -39.0303231,
+              -9.8932034
+            ],
+            [
+              -39.03035,
+              -9.8931365
+            ],
+            [
+              -39.0302359,
+              -9.893092
+            ],
+            [
+              -39.0302757,
+              -9.8929932
+            ],
+            [
+              -39.0306691,
+              -9.8931468
+            ],
+            [
+              -39.0307049,
+              -9.8930577
+            ],
+            [
+              -39.0308072,
+              -9.8930976
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1358465887",
+      "properties": {
+        "timestamp": "2025-02-10T01:03:03Z",
+        "version": 2,
+        "changeset": 162332870,
+        "addr:city": "Canudos",
+        "addr:postcode": "48520-000",
+        "addr:street": "Avenida Kerto Bezerra Figueiredo",
+        "addr:suburb": "Califórnia",
+        "amenity": "school",
+        "name": "Colégio Modelo Maria José de Souza Alves",
+        "operator": "Município de Canudos",
+        "operator:type": "public",
+        "id": "way/1358465887"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -39.0167342,
+              -9.9020161
+            ],
+            [
+              -39.0162245,
+              -9.9025209
+            ],
+            [
+              -39.0156243,
+              -9.9019408
+            ],
+            [
+              -39.0161283,
+              -9.901422
+            ],
+            [
+              -39.0167342,
+              -9.9020161
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1358465888",
+      "properties": {
+        "timestamp": "2025-02-10T01:03:03Z",
+        "version": 2,
+        "changeset": 162332870,
+        "addr:city": "Canudos",
+        "addr:postcode": "48520-000",
+        "addr:street": "Avenida Rui Barbosa",
+        "addr:suburb": "Califórnia",
+        "amenity": "school",
+        "name": "Centro Municipal de Educação Infantil Valdete Maria Martins Guedes",
+        "operator": "Município de Canudos",
+        "operator:type": "public",
+        "id": "way/1358465888"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -39.0176317,
+              -9.9031289
+            ],
+            [
+              -39.0173797,
+              -9.9033911
+            ],
+            [
+              -39.0169324,
+              -9.9029365
+            ],
+            [
+              -39.0171843,
+              -9.9026715
+            ],
+            [
+              -39.0176317,
+              -9.9031289
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1358566640",
+      "properties": {
+        "timestamp": "2025-02-10T11:05:39Z",
+        "version": 1,
+        "changeset": 162345624,
+        "addr:city": "Canudos",
+        "addr:postcode": "48520-000",
+        "addr:street": "Avenida Santo Antônio",
+        "addr:suburb": "Centro",
+        "amenity": "school",
+        "name": "Escola Municipal Jairo Azi",
+        "operator": "Município de Canudos",
+        "operator:type": "public",
+        "id": "way/1358566640"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -39.0268517,
+              -9.8975
+            ],
+            [
+              -39.0271287,
+              -9.8977295
+            ],
+            [
+              -39.0268468,
+              -9.8980596
+            ],
+            [
+              -39.0265698,
+              -9.8978299
+            ],
+            [
+              -39.0268517,
+              -9.8975
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/3902715260",
       "properties": {
         "timestamp": "2017-06-20T13:54:46Z",
@@ -55,42 +253,6 @@
         "coordinates": [
           -39.0245269,
           -9.8966234
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/3902715267",
-      "properties": {
-        "timestamp": "2017-06-20T13:54:46Z",
-        "version": 2,
-        "changeset": 49694348,
-        "amenity": "school",
-        "id": "node/3902715267"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -39.0277563,
-          -9.8958518
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/3902715272",
-      "properties": {
-        "timestamp": "2021-04-14T20:01:36Z",
-        "version": 3,
-        "changeset": 102950219,
-        "amenity": "school",
-        "id": "node/3902715272"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -39.0306858,
-          -9.8931672
         ]
       }
     },

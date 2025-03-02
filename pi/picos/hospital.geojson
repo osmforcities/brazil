@@ -247,13 +247,18 @@
       "type": "Feature",
       "id": "way/771279995",
       "properties": {
-        "timestamp": "2024-04-23T13:53:02Z",
-        "version": 2,
-        "changeset": 150397073,
+        "timestamp": "2025-02-10T18:00:21Z",
+        "version": 3,
+        "changeset": 162361660,
+        "addr:city": "Picos",
+        "addr:street": "Rua Joaquim Pacifico da Silva",
+        "addr:suburb": "Boa Sorte",
         "amenity": "hospital",
+        "building": "yes",
         "healthcare": "hospital",
         "healthcare:speciality": "community",
-        "name": "UPA",
+        "name": "UPA - Unidade de Pronto Atendimento - Picos, PI",
+        "operator:type": "public",
         "id": "way/771279995"
       },
       "geometry": {
@@ -1198,21 +1203,41 @@
     },
     {
       "type": "Feature",
-      "id": "node/9962854767",
+      "id": "node/12532883946",
       "properties": {
-        "timestamp": "2022-08-19T01:14:10Z",
-        "version": 1,
-        "changeset": 125085004,
+        "timestamp": "2025-02-10T14:45:21Z",
+        "version": 3,
+        "changeset": 162354141,
         "amenity": "hospital",
         "healthcare": "hospital",
-        "name": "Centro Médico Unimed - PIcos",
-        "id": "node/9962854767"
+        "name": "Centro de reabilitação",
+        "id": "node/12532883946"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -41.4436425,
-          -7.077197
+          -41.4672911,
+          -7.0736148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12532884854",
+      "properties": {
+        "timestamp": "2025-02-10T18:00:21Z",
+        "version": 3,
+        "changeset": 162361660,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Centro Médico Unimed - Picos",
+        "id": "node/12532884854"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.4436235,
+          -7.0772004
         ]
       }
     },

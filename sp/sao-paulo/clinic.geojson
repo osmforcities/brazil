@@ -12965,6 +12965,59 @@
     },
     {
       "type": "Feature",
+      "id": "way/1358866865",
+      "properties": {
+        "timestamp": "2025-02-10T20:44:36Z",
+        "version": 1,
+        "changeset": 162367358,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "60",
+        "addr:postcode": "03660-010",
+        "addr:street": "Rua Madalena Júlia",
+        "amenity": "clinic",
+        "barrier": "wall",
+        "healthcare": "clinic",
+        "name": "UBS Vila Granada",
+        "id": "way/1358866865"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.5083973,
+              -23.5234652
+            ],
+            [
+              -46.5086826,
+              -23.5234134
+            ],
+            [
+              -46.5088717,
+              -23.5233793
+            ],
+            [
+              -46.5088913,
+              -23.5234661
+            ],
+            [
+              -46.5089333,
+              -23.5236525
+            ],
+            [
+              -46.50846,
+              -23.523744
+            ],
+            [
+              -46.5083973,
+              -23.5234652
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/462898594",
       "properties": {
         "timestamp": "2023-04-13T13:58:06Z",
@@ -16299,26 +16352,6 @@
         "coordinates": [
           -46.6508122,
           -23.6765016
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/5574860403",
-      "properties": {
-        "timestamp": "2018-04-24T00:35:54Z",
-        "version": 1,
-        "changeset": 58357420,
-        "amenity": "clinic",
-        "healthcare": "clinic",
-        "name": "UBS Vila Granada",
-        "id": "node/5574860403"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -46.5087016,
-          -23.5235405
         ]
       }
     },
@@ -19723,6 +19756,27 @@
         "coordinates": [
           -46.6734851,
           -23.4611407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12576841352",
+      "properties": {
+        "timestamp": "2025-02-10T20:44:36Z",
+        "version": 1,
+        "changeset": 162367358,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "60",
+        "addr:postcode": "03660-010",
+        "addr:street": "Rua Madalena Júlia",
+        "id": "node/12576841352"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5088913,
+          -23.5234661
         ]
       }
     }

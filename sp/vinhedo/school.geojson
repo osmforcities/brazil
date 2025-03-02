@@ -1633,6 +1633,58 @@
     },
     {
       "type": "Feature",
+      "id": "way/1358837114",
+      "properties": {
+        "timestamp": "2025-02-10T19:56:04Z",
+        "version": 2,
+        "changeset": 162365679,
+        "addr:city": "Vinhedo",
+        "addr:housenumber": "235",
+        "addr:postcode": "13283-660",
+        "addr:street": "Rua Estrela Dalva",
+        "addr:suburb": "Mirante Estrelas",
+        "amenity": "school",
+        "brand": "Maple Bear",
+        "brand:wikidata": "Q10324823",
+        "grades": "0 - 7",
+        "name": "Maple Bear Vinhedo",
+        "website": "https://vinhedo.maplebear.com.br/pt/",
+        "id": "way/1358837114"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.9641497,
+              -23.0239543
+            ],
+            [
+              -46.9652252,
+              -23.023863
+            ],
+            [
+              -46.9652065,
+              -23.0241691
+            ],
+            [
+              -46.9640781,
+              -23.0244155
+            ],
+            [
+              -46.9641358,
+              -23.0240438
+            ],
+            [
+              -46.9641497,
+              -23.0239543
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/5534065916",
       "properties": {
         "timestamp": "2018-04-06T15:55:25Z",
@@ -1665,6 +1717,26 @@
         "coordinates": [
           -47.008957,
           -23.0440962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8983171389",
+      "properties": {
+        "timestamp": "2025-02-10T20:02:27Z",
+        "version": 3,
+        "changeset": 162365912,
+        "access": "customers",
+        "barrier": "gate",
+        "locked": "yes",
+        "id": "node/8983171389"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.9641358,
+          -23.0240438
         ]
       }
     }

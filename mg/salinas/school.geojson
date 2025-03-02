@@ -5,14 +5,19 @@
       "type": "Feature",
       "id": "way/488356563",
       "properties": {
-        "timestamp": "2025-02-01T20:59:34Z",
-        "version": 2,
-        "changeset": 162025956,
+        "timestamp": "2025-02-09T14:09:27Z",
+        "version": 3,
+        "changeset": 162315924,
         "addr:city": "Salinas",
         "addr:postcode": "39560-000",
-        "addr:suburb": "Currelinho",
+        "addr:street": "Rua Paulo Teixeira Costa",
+        "addr:suburb": "Curralinho",
         "amenity": "school",
-        "name": "Escola Municipal Paulo Teixeira Costa",
+        "email": "escola.82465@educacao.mg.gov.br",
+        "name": "Escola Estadual Paulo Teixeira Costa",
+        "operator": "Secretaria de Estado de Educação de Minas Gerais",
+        "operator:type": "government",
+        "operator:wikidata": "Q61612780",
         "id": "way/488356563"
       },
       "geometry": {
@@ -20,24 +25,24 @@
         "coordinates": [
           [
             [
-              -42.0716321,
-              -16.1088166
+              -42.0717383,
+              -16.1087092
             ],
             [
-              -42.0714128,
-              -16.1095063
+              -42.0713562,
+              -16.109728
             ],
             [
-              -42.0711376,
-              -16.1094228
+              -42.0710583,
+              -16.1093616
             ],
             [
-              -42.0712969,
-              -16.1087749
+              -42.0712714,
+              -16.1087273
             ],
             [
-              -42.0716321,
-              -16.1088166
+              -42.0717383,
+              -16.1087092
             ]
           ]
         ]
@@ -387,11 +392,11 @@
     },
     {
       "type": "Feature",
-      "id": "node/12542491808",
+      "id": "way/1358351586",
       "properties": {
-        "timestamp": "2025-01-29T19:32:56Z",
+        "timestamp": "2025-02-09T15:02:44Z",
         "version": 1,
-        "changeset": 161911135,
+        "changeset": 162317878,
         "addr:city": "Salinas",
         "addr:housenumber": "333",
         "addr:postcode": "39560-000",
@@ -402,13 +407,95 @@
         "operator": "Secretaria de Estado de Educação de Minas Gerais",
         "operator:type": "government",
         "operator:wikidata": "Q61612780",
-        "id": "node/12542491808"
+        "id": "way/1358351586"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -42.2934479,
-          -16.1711591
+          [
+            [
+              -42.2939322,
+              -16.1713506
+            ],
+            [
+              -42.2937455,
+              -16.1717937
+            ],
+            [
+              -42.2935781,
+              -16.1717277
+            ],
+            [
+              -42.2934902,
+              -16.1719256
+            ],
+            [
+              -42.2927735,
+              -16.1716268
+            ],
+            [
+              -42.2931082,
+              -16.1709961
+            ],
+            [
+              -42.2939322,
+              -16.1713506
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1358351587",
+      "properties": {
+        "timestamp": "2025-02-09T15:02:44Z",
+        "version": 1,
+        "changeset": 162317878,
+        "addr:city": "Salinas",
+        "addr:housenumber": "104",
+        "addr:postcode": "39560-000",
+        "addr:street": "Rua das Flores",
+        "addr:suburb": "Candido Village",
+        "amenity": "school",
+        "name": "Instituto Educacional Nossa Senhora Aparecida - Iensa",
+        "operator": "Instituto Educacional Nossa Senhora Aparecid",
+        "operator:type": "private",
+        "id": "way/1358351587"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.3076099,
+              -16.1634811
+            ],
+            [
+              -42.3078266,
+              -16.1641014
+            ],
+            [
+              -42.3075412,
+              -16.16419
+            ],
+            [
+              -42.3074296,
+              -16.1638623
+            ],
+            [
+              -42.3071678,
+              -16.1639448
+            ],
+            [
+              -42.3070713,
+              -16.1636562
+            ],
+            [
+              -42.3076099,
+              -16.1634811
+            ]
+          ]
         ]
       }
     },

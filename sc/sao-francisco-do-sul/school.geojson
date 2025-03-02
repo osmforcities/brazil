@@ -670,6 +670,92 @@
     },
     {
       "type": "Feature",
+      "id": "way/1358240141",
+      "properties": {
+        "timestamp": "2025-02-09T01:16:58Z",
+        "version": 1,
+        "changeset": 162299239,
+        "amenity": "school",
+        "name": "Escola Familiar do Mar",
+        "id": "way/1358240141"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.644778,
+              -26.2778144
+            ],
+            [
+              -48.6449362,
+              -26.2780862
+            ],
+            [
+              -48.6445849,
+              -26.2782497
+            ],
+            [
+              -48.6444454,
+              -26.2779803
+            ],
+            [
+              -48.644778,
+              -26.2778144
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1358425514",
+      "properties": {
+        "timestamp": "2025-02-09T20:56:44Z",
+        "version": 1,
+        "changeset": 162328620,
+        "addr:street": "Rua Walter Rhinow",
+        "addr:suburb": "Laranjeiras",
+        "amenity": "school",
+        "email": "franciscoanselmocorrea@gmail.com",
+        "mobile": "+55 47 99688 7722",
+        "official_name": "Escola Municipal Francisco Anselmo Corrêa",
+        "operator": "Secretaria da Educação",
+        "operator:type": "government",
+        "religion": "none",
+        "short_name": "EM Francisco Anselmo Corrêa",
+        "id": "way/1358425514"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.6815441,
+              -26.2937035
+            ],
+            [
+              -48.6811352,
+              -26.2940977
+            ],
+            [
+              -48.6808108,
+              -26.2938909
+            ],
+            [
+              -48.6813397,
+              -26.2934926
+            ],
+            [
+              -48.6815441,
+              -26.2937035
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/4117897090",
       "properties": {
         "timestamp": "2021-01-18T02:54:27Z",
@@ -770,25 +856,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/8254695901",
-      "properties": {
-        "timestamp": "2020-12-23T12:40:27Z",
-        "version": 1,
-        "changeset": 96326404,
-        "amenity": "school",
-        "name": "Escola Familiar do Mar",
-        "id": "node/8254695901"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.6448438,
-          -26.2779398
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/8254695906",
       "properties": {
         "timestamp": "2025-02-08T23:05:22Z",
@@ -861,25 +928,6 @@
         "coordinates": [
           -48.6151895,
           -26.2305028
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/8254696970",
-      "properties": {
-        "timestamp": "2020-12-23T12:40:27Z",
-        "version": 1,
-        "changeset": 96326404,
-        "amenity": "school",
-        "name": "Escola Municipal Anselmo Correa",
-        "id": "node/8254696970"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.6814014,
-          -26.2936518
         ]
       }
     },

@@ -5429,14 +5429,15 @@
       "type": "Feature",
       "id": "way/635085252",
       "properties": {
-        "timestamp": "2023-08-09T19:09:07Z",
-        "version": 4,
-        "changeset": 139674617,
+        "timestamp": "2025-02-09T22:23:30Z",
+        "version": 5,
+        "changeset": 162330612,
         "addr:city": "Guarulhos",
         "addr:housenumber": "88",
+        "addr:neighbourhood": "Jardim Dourado",
         "addr:postcode": "07093-200",
         "addr:street": "Rua Mariano Manzoni",
-        "addr:suburb": "Jardim Douradlo",
+        "addr:suburb": "Gopoúva",
         "amenity": "school",
         "contact:phone": "+55 11 2441 1076",
         "email": "e005782a@educacao.sp.gov.br",
@@ -10294,6 +10295,108 @@
     },
     {
       "type": "Feature",
+      "id": "way/1358438925",
+      "properties": {
+        "timestamp": "2025-02-09T22:23:30Z",
+        "version": 1,
+        "changeset": 162330612,
+        "addr:city": "Guarulhos",
+        "addr:street": "Rua Morás",
+        "addr:suburb": "Torres Tibagy",
+        "amenity": "school",
+        "barrier": "wall",
+        "landuse": "school",
+        "name": "Escola Estadual Professora Emilia Anna Antônio",
+        "operator": "Secretaria da Educação do Estado de São Paulo",
+        "operator:type": "government",
+        "id": "way/1358438925"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.5539545,
+              -23.4596041
+            ],
+            [
+              -46.5537183,
+              -23.459666
+            ],
+            [
+              -46.5537176,
+              -23.4596612
+            ],
+            [
+              -46.5536165,
+              -23.4596689
+            ],
+            [
+              -46.5535382,
+              -23.4596689
+            ],
+            [
+              -46.5535574,
+              -23.4594216
+            ],
+            [
+              -46.5535736,
+              -23.4592131
+            ],
+            [
+              -46.5536695,
+              -23.4592231
+            ],
+            [
+              -46.5537572,
+              -23.4592322
+            ],
+            [
+              -46.5537681,
+              -23.4592334
+            ],
+            [
+              -46.5538927,
+              -23.4592404
+            ],
+            [
+              -46.5539816,
+              -23.4592454
+            ],
+            [
+              -46.5539785,
+              -23.4592872
+            ],
+            [
+              -46.5539765,
+              -23.459313
+            ],
+            [
+              -46.5539695,
+              -23.4594056
+            ],
+            [
+              -46.5539672,
+              -23.4594359
+            ],
+            [
+              -46.553962,
+              -23.4595055
+            ],
+            [
+              -46.5539563,
+              -23.4595804
+            ],
+            [
+              -46.5539545,
+              -23.4596041
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1105616450",
       "properties": {
         "timestamp": "2023-06-03T05:03:28Z",
@@ -11383,6 +11486,24 @@
         "coordinates": [
           -46.5563161,
           -23.4446117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12572409636",
+      "properties": {
+        "timestamp": "2025-02-09T22:23:30Z",
+        "version": 1,
+        "changeset": 162330612,
+        "entrance": "yes",
+        "id": "node/12572409636"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5536695,
+          -23.4592231
         ]
       }
     }

@@ -90132,6 +90132,78 @@
     },
     {
       "type": "Feature",
+      "id": "way/1358358876",
+      "properties": {
+        "timestamp": "2025-02-09T15:37:08Z",
+        "version": 1,
+        "changeset": 162319208,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "210",
+        "addr:postcode": "03665-010",
+        "addr:street": "Rua Pangauá",
+        "amenity": "school",
+        "barrier": "wall",
+        "name": "E.E Professora Maria Aparecido de Castro Masiero",
+        "id": "way/1358358876"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.4979687,
+              -23.5297501
+            ],
+            [
+              -46.4983853,
+              -23.5295198
+            ],
+            [
+              -46.4984078,
+              -23.5295544
+            ],
+            [
+              -46.4985903,
+              -23.5298248
+            ],
+            [
+              -46.4990049,
+              -23.5295932
+            ],
+            [
+              -46.4991314,
+              -23.5297886
+            ],
+            [
+              -46.4992718,
+              -23.5300055
+            ],
+            [
+              -46.4992753,
+              -23.5300421
+            ],
+            [
+              -46.499253,
+              -23.5300759
+            ],
+            [
+              -46.4984701,
+              -23.5305153
+            ],
+            [
+              -46.4984584,
+              -23.5305111
+            ],
+            [
+              -46.4979687,
+              -23.5297501
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/222842154",
       "properties": {
         "timestamp": "2023-06-07T15:20:09Z",
@@ -114493,6 +114565,27 @@
         "coordinates": [
           -46.4548578,
           -23.4999167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12571207063",
+      "properties": {
+        "timestamp": "2025-02-09T15:37:08Z",
+        "version": 1,
+        "changeset": 162319208,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "210",
+        "addr:postcode": "03665-010",
+        "addr:street": "Rua Pangauá",
+        "id": "node/12571207063"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4991314,
+          -23.5297886
         ]
       }
     }

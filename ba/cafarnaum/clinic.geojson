@@ -123,15 +123,56 @@
     },
     {
       "type": "Feature",
-      "id": "way/1338483272",
+      "id": "way/1338483270",
       "properties": {
-        "timestamp": "2024-11-28T00:23:43Z",
-        "version": 1,
-        "changeset": 159681930,
+        "timestamp": "2025-02-12T14:22:02Z",
+        "version": 4,
+        "changeset": 162432424,
         "amenity": "clinic",
         "building": "yes",
         "healthcare": "clinic",
-        "name": "Posto de Saúde de Queimada de Tiano",
+        "name": "UBS Joaquim Macambira",
+        "id": "way/1338483270"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.5155754,
+              -11.7781563
+            ],
+            [
+              -41.5153958,
+              -11.7783062
+            ],
+            [
+              -41.5152769,
+              -11.7781697
+            ],
+            [
+              -41.5154566,
+              -11.7780198
+            ],
+            [
+              -41.5155754,
+              -11.7781563
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1338483272",
+      "properties": {
+        "timestamp": "2025-02-12T18:28:57Z",
+        "version": 2,
+        "changeset": 162440938,
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "UBS Ana Maria Barbosa",
         "id": "way/1338483272"
       },
       "geometry": {
@@ -166,13 +207,13 @@
       "type": "Feature",
       "id": "node/12376548470",
       "properties": {
-        "timestamp": "2025-01-30T15:12:15Z",
-        "version": 2,
-        "changeset": 161941414,
+        "timestamp": "2025-02-12T14:22:02Z",
+        "version": 3,
+        "changeset": 162432424,
         "addr:street": "Rua Beira Rio",
         "amenity": "clinic",
         "healthcare": "clinic",
-        "name": "Posto de Saúde Ana Maria - Beira Rio",
+        "name": "Posto de Saúde Ana Maria - Sede II",
         "id": "node/12376548470"
       },
       "geometry": {
@@ -185,16 +226,37 @@
     },
     {
       "type": "Feature",
+      "id": "node/12438976172",
+      "properties": {
+        "timestamp": "2025-02-12T14:22:02Z",
+        "version": 3,
+        "changeset": 162432424,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posto de Saúde Sede III - Dr Alexandre Farias",
+        "operator": "Prefeitura",
+        "id": "node/12438976172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.472571,
+          -11.6881538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/12485764952",
       "properties": {
-        "timestamp": "2025-01-27T20:45:33Z",
-        "version": 2,
-        "changeset": 161834367,
+        "timestamp": "2025-02-12T14:22:02Z",
+        "version": 3,
+        "changeset": 162432424,
         "addr:city": "Cafarnaum",
         "addr:suburb": "Bairro da Caixa",
         "amenity": "clinic",
         "healthcare": "clinic",
-        "name": "PSF Ana Maria Barbosa - Bairro da Caixa (Sede I)",
+        "name": "PSF Ana Maria Barbosa - (Sede I)",
         "id": "node/12485764952"
       },
       "geometry": {

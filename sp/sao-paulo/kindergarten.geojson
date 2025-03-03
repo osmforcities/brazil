@@ -4699,6 +4699,74 @@
     },
     {
       "type": "Feature",
+      "id": "way/1359208678",
+      "properties": {
+        "timestamp": "2025-02-12T02:00:03Z",
+        "version": 1,
+        "changeset": 162412444,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "872",
+        "addr:postcode": "03657-000",
+        "addr:street": "Rua Buriti Alegre",
+        "amenity": "kindergarten",
+        "barrier": "wall",
+        "name": "CEI Vereador José Bustamante",
+        "id": "way/1359208678"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.497601,
+              -23.5311391
+            ],
+            [
+              -46.4978122,
+              -23.5310248
+            ],
+            [
+              -46.4980302,
+              -23.5309069
+            ],
+            [
+              -46.4980782,
+              -23.5308809
+            ],
+            [
+              -46.4981596,
+              -23.5310222
+            ],
+            [
+              -46.4982295,
+              -23.5311392
+            ],
+            [
+              -46.4983212,
+              -23.5312928
+            ],
+            [
+              -46.4979591,
+              -23.5314764
+            ],
+            [
+              -46.4976075,
+              -23.53116
+            ],
+            [
+              -46.4975978,
+              -23.5311487
+            ],
+            [
+              -46.497601,
+              -23.5311391
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/275073411",
       "properties": {
         "timestamp": "2023-06-03T19:07:41Z",
@@ -6033,6 +6101,28 @@
         "coordinates": [
           -46.6415643,
           -23.5340135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12580912724",
+      "properties": {
+        "timestamp": "2025-02-12T02:00:03Z",
+        "version": 1,
+        "changeset": 162412444,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "872",
+        "addr:postcode": "03657-000",
+        "addr:street": "Rua Buriti Alegre",
+        "entrance": "yes",
+        "id": "node/12580912724"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4980302,
+          -23.5309069
         ]
       }
     }

@@ -49,9 +49,14 @@
       "type": "Feature",
       "id": "way/1289625826",
       "properties": {
-        "timestamp": "2025-02-10T11:05:39Z",
-        "version": 2,
-        "changeset": 162345624,
+        "timestamp": "2025-02-12T13:06:32Z",
+        "version": 3,
+        "changeset": 162429531,
+        "addr:city": "Canudos",
+        "addr:housenumber": "18",
+        "addr:postcode": "48520-000",
+        "addr:street": "Rua Acampamento do Dnocs",
+        "addr:suburb": "Acampamento",
         "amenity": "school",
         "building": "yes",
         "name": "Colégio Municipal Arnaldo Ferreira",
@@ -260,17 +265,90 @@
       "type": "Feature",
       "id": "node/4146829259",
       "properties": {
-        "timestamp": "2016-04-25T13:36:24Z",
-        "version": 1,
-        "changeset": 38857204,
+        "timestamp": "2025-02-12T09:57:55Z",
+        "version": 2,
+        "changeset": 162422606,
         "amenity": "school",
         "id": "node/4146829259"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -39.1623106,
-          -9.9648027
+          -39.1621819,
+          -9.9648703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12581786205",
+      "properties": {
+        "timestamp": "2025-02-12T09:39:45Z",
+        "version": 1,
+        "changeset": 162422014,
+        "addr:city": "Canudos",
+        "addr:postcode": "48520-000",
+        "addr:street": "Rodovia Santos Dumont",
+        "addr:suburb": "São Bento",
+        "amenity": "school",
+        "name": "Escola Municipal São Bento",
+        "operator": "Município de Canudos",
+        "operator:type": "public",
+        "id": "node/12581786205"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.1216819,
+          -10.1212379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12582125784",
+      "properties": {
+        "timestamp": "2025-02-12T13:06:32Z",
+        "version": 1,
+        "changeset": 162429531,
+        "addr:city": "Canudos",
+        "addr:street": "Rua Praça do Prédio",
+        "addr:suburb": "Núcleo Dois",
+        "amenity": "school",
+        "name": "Escola Municipal Habitacional Nucleo Dois",
+        "operator": "Município de Canudos",
+        "operator:type": "public",
+        "id": "node/12582125784"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.9982163,
+          -9.8765083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12582139609",
+      "properties": {
+        "timestamp": "2025-02-12T13:06:32Z",
+        "version": 1,
+        "changeset": 162429531,
+        "addr:city": "Canudos",
+        "addr:housenumber": "15",
+        "addr:postcode": "48520-000",
+        "addr:street": "Rua Pajeú",
+        "addr:suburb": "Centro",
+        "amenity": "school",
+        "name": "Escola Castro Silva",
+        "id": "node/12582139609"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.0273864,
+          -9.8930205
         ]
       }
     }

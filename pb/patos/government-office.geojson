@@ -224,9 +224,10 @@
       "type": "Feature",
       "id": "way/421389196",
       "properties": {
-        "timestamp": "2021-05-24T21:05:35Z",
-        "version": 2,
-        "changeset": 105250452,
+        "timestamp": "2025-02-11T16:33:11Z",
+        "version": 3,
+        "changeset": 162398337,
+        "government": "transportation",
         "name": "DNIT/PB - Unidade Local de Patos",
         "office": "government",
         "id": "way/421389196"
@@ -236,24 +237,32 @@
         "coordinates": [
           [
             [
-              -37.2843866,
-              -7.017223
+              -37.284385,
+              -7.0172223
             ],
             [
-              -37.2840523,
-              -7.0169335
+              -37.28409,
+              -7.0169659
             ],
             [
-              -37.2846526,
-              -7.0162508
+              -37.2840522,
+              -7.016933
             ],
             [
-              -37.2849868,
-              -7.0165403
+              -37.2846537,
+              -7.0162513
             ],
             [
-              -37.2843866,
-              -7.017223
+              -37.2849865,
+              -7.0165405
+            ],
+            [
+              -37.284605,
+              -7.0169728
+            ],
+            [
+              -37.284385,
+              -7.0172223
             ]
           ]
         ]
@@ -628,6 +637,28 @@
         "coordinates": [
           -37.2768919,
           -7.0301703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8640408072",
+      "properties": {
+        "timestamp": "2025-02-11T16:33:11Z",
+        "version": 2,
+        "changeset": 162398337,
+        "government": "healthcare",
+        "healthcare": "yes",
+        "name": "6° Gerência Regional de Saúde",
+        "office": "government",
+        "operator": "Governo do Estado da Paraíba",
+        "id": "node/8640408072"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.2834655,
+          -7.0170518
         ]
       }
     }

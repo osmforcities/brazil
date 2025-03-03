@@ -3,6 +3,47 @@
   "features": [
     {
       "type": "Feature",
+      "id": "way/1113402188",
+      "properties": {
+        "timestamp": "2025-02-11T20:47:01Z",
+        "version": 2,
+        "changeset": 162406804,
+        "amenity": "doctors",
+        "building": "yes",
+        "healthcare": "doctor",
+        "name": "UBS IPUEIRAS",
+        "id": "way/1113402188"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.4537428,
+              -7.0670652
+            ],
+            [
+              -41.4535968,
+              -7.0673292
+            ],
+            [
+              -41.4533587,
+              -7.0672143
+            ],
+            [
+              -41.4534874,
+              -7.0669268
+            ],
+            [
+              -41.4537428,
+              -7.0670652
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/9773932730",
       "properties": {
         "timestamp": "2022-08-20T00:11:21Z",
@@ -18,6 +59,67 @@
         "coordinates": [
           -41.4705438,
           -7.0851159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12532884276",
+      "properties": {
+        "timestamp": "2025-02-11T14:52:45Z",
+        "version": 3,
+        "changeset": 162394544,
+        "amenity": "doctors",
+        "healthcare": "doctor",
+        "name": "UBS Parque de Exposição - Maria Alvina de Araújo - Picos",
+        "id": "node/12532884276"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.4372526,
+          -7.0866906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12532884493",
+      "properties": {
+        "timestamp": "2025-02-11T17:49:42Z",
+        "version": 3,
+        "changeset": 162401241,
+        "amenity": "doctors",
+        "healthcare": "doctor",
+        "name": "Clinia Fisio Saúde Dra. Flavia Santos",
+        "id": "node/12532884493"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.4309551,
+          -7.0806541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12532884994",
+      "properties": {
+        "timestamp": "2025-02-11T20:47:01Z",
+        "version": 3,
+        "changeset": 162406804,
+        "amenity": "doctors",
+        "healthcare": "doctor",
+        "healthcare:speciality": "proctology",
+        "name": "CAPS II - Centro de Atenção Psicossocial",
+        "id": "node/12532884994"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.4599954,
+          -7.0721996
         ]
       }
     },

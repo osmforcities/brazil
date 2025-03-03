@@ -84,13 +84,58 @@
     },
     {
       "type": "Feature",
+      "id": "way/1359176283",
+      "properties": {
+        "timestamp": "2025-02-11T22:58:46Z",
+        "version": 1,
+        "changeset": 162409978,
+        "amenity": "school",
+        "id": "way/1359176283"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.753946,
+              -11.859406
+            ],
+            [
+              -41.7535294,
+              -11.8591903
+            ],
+            [
+              -41.7536697,
+              -11.8589308
+            ],
+            [
+              -41.7540863,
+              -11.8591466
+            ],
+            [
+              -41.753946,
+              -11.859406
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/12386618861",
       "properties": {
-        "timestamp": "2024-11-30T16:20:31Z",
-        "version": 1,
-        "changeset": 159779839,
+        "timestamp": "2025-02-11T22:58:46Z",
+        "version": 2,
+        "changeset": 162409978,
+        "addr:city": "Canarana",
+        "addr:housenumber": "103",
+        "addr:postcode": "44890-000",
+        "addr:street": "Praça Honorato Viana",
+        "addr:suburb": "Lagoa Velha",
         "amenity": "school",
         "name": "Centro Educacional Otávio Mangabeira",
+        "operator": "Prefeitura Municipal de Canarana",
+        "operator:type": "public",
         "id": "node/12386618861"
       },
       "geometry": {
@@ -98,6 +143,34 @@
         "coordinates": [
           -41.6400694,
           -11.8311601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12580434958",
+      "properties": {
+        "timestamp": "2025-02-11T22:58:46Z",
+        "version": 1,
+        "changeset": 162409978,
+        "addr:city": "Canarana",
+        "addr:housenumber": "S/N",
+        "addr:postcode": "44892000",
+        "addr:street": "Praça Catão Dourado",
+        "addr:suburb": "Paz de Salobro",
+        "amenity": "school",
+        "grades": "15-18",
+        "name": "Colégio Estadual de Paz de Salobro - Maximino Martins",
+        "operator": "Governo do Estado da Bahia",
+        "operator:type": "government",
+        "operator:wikidata": "Q61641530",
+        "id": "node/12580434958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.7537439,
+          -11.859097
         ]
       }
     }

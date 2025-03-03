@@ -170,9 +170,9 @@
       "type": "Feature",
       "id": "way/1104842396",
       "properties": {
-        "timestamp": "2025-01-25T01:43:21Z",
-        "version": 2,
-        "changeset": 161732957,
+        "timestamp": "2025-02-11T23:25:54Z",
+        "version": 3,
+        "changeset": 162410358,
         "access": "yes",
         "addr:city": "São Francisco do Sul",
         "addr:housenumber": "1586",
@@ -180,16 +180,14 @@
         "addr:street": "Rua Don Fernando Trejo y Sanabria",
         "addr:suburb": "São José do Acaraí",
         "amenity": "clinic",
-        "brand": "Sistema Único de Saúde",
-        "brand:short": "SUS",
-        "brand:wikidata": "Q7531056",
-        "brand:wikipedia": "pt:Sistema Único de Saúde",
         "building": "yes",
         "healthcare": "clinic",
+        "healthcare:speciality": "general",
         "loc_name": "Posto de Saúde Acaraí",
         "name": "Estratégia de Saúde da Família Acaraí",
-        "operator": "Prefeitura Municipal de São Francisco do Sul",
-        "operator:type": "public",
+        "opening_hours": "Mo-Fr 07:30-11:30,13:00-17:00; PH off",
+        "operator": "Secretaria Municipal de Saúde",
+        "operator:type": "government",
         "short_name": "ESF Acaraí",
         "id": "way/1104842396"
       },
@@ -198,40 +196,40 @@
         "coordinates": [
           [
             [
-              -48.6249572,
-              -26.2565251
+              -48.6249657,
+              -26.2564505
             ],
             [
-              -48.6250175,
-              -26.2564746
+              -48.625026,
+              -26.2564
             ],
             [
-              -48.6250709,
-              -26.2565259
+              -48.6250794,
+              -26.2564513
             ],
             [
-              -48.6251459,
-              -26.2564631
+              -48.6251544,
+              -26.2563885
             ],
             [
-              -48.6252115,
-              -26.256526
+              -48.62522,
+              -26.2564514
             ],
             [
-              -48.6249784,
-              -26.2567212
+              -48.6249869,
+              -26.2566466
             ],
             [
-              -48.6249118,
-              -26.2566573
+              -48.6249203,
+              -26.2565827
             ],
             [
-              -48.6250096,
-              -26.2565754
+              -48.6250181,
+              -26.2565008
             ],
             [
-              -48.6249572,
-              -26.2565251
+              -48.6249657,
+              -26.2564505
             ]
           ]
         ]
@@ -323,6 +321,49 @@
             [
               -48.5433947,
               -26.2077752
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1359148764",
+      "properties": {
+        "timestamp": "2025-02-11T20:47:45Z",
+        "version": 1,
+        "changeset": 162406828,
+        "addr:street": "Rua Binot Paulmier de Gonneville",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "Unidade Básica de Saúde Doutor Frederico José Rabe",
+        "short_name": "UBS Tapera",
+        "id": "way/1359148764"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.5902894,
+              -26.2831111
+            ],
+            [
+              -48.5903656,
+              -26.2832438
+            ],
+            [
+              -48.5902341,
+              -26.28328
+            ],
+            [
+              -48.5901982,
+              -26.2831392
+            ],
+            [
+              -48.5902894,
+              -26.2831111
             ]
           ]
         ]

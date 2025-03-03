@@ -568,12 +568,13 @@
       "type": "Feature",
       "id": "way/1358228262",
       "properties": {
-        "timestamp": "2025-02-08T23:05:22Z",
-        "version": 1,
-        "changeset": 162297456,
+        "timestamp": "2025-02-11T23:09:58Z",
+        "version": 2,
+        "changeset": 162410135,
         "addr:street": "Rua Binot Paulmier de Gonneville",
         "amenity": "school",
         "name": "Escola Municipal Álvaro Tancredo Dippold",
+        "religion": "none",
         "id": "way/1358228262"
       },
       "geometry": {
@@ -756,6 +757,51 @@
     },
     {
       "type": "Feature",
+      "id": "way/1359148763",
+      "properties": {
+        "timestamp": "2025-02-11T20:47:45Z",
+        "version": 1,
+        "changeset": 162406828,
+        "addr:street": "Rua Binot Paulmier de Gonneville",
+        "amenity": "school",
+        "religion": "none",
+        "short_name": "EM Izidoro Curvello",
+        "id": "way/1359148763"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.5907798,
+              -26.2828751
+            ],
+            [
+              -48.5907709,
+              -26.2831285
+            ],
+            [
+              -48.5903911,
+              -26.2832452
+            ],
+            [
+              -48.5903013,
+              -26.2830816
+            ],
+            [
+              -48.5902684,
+              -26.2829207
+            ],
+            [
+              -48.5907798,
+              -26.2828751
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/4117897090",
       "properties": {
         "timestamp": "2021-01-18T02:54:27Z",
@@ -851,24 +897,6 @@
         "coordinates": [
           -48.6324618,
           -26.2825926
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/8254695906",
-      "properties": {
-        "timestamp": "2025-02-08T23:05:22Z",
-        "version": 2,
-        "changeset": 162297456,
-        "amenity": "school",
-        "id": "node/8254695906"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.6211201,
-          -26.2591087
         ]
       }
     },

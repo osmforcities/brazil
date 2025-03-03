@@ -90204,6 +90204,148 @@
     },
     {
       "type": "Feature",
+      "id": "way/1359103781",
+      "properties": {
+        "timestamp": "2025-02-11T17:28:17Z",
+        "version": 1,
+        "changeset": 162400404,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "1399",
+        "addr:street": "Rua Itinguçu",
+        "amenity": "school",
+        "name": "Colégio Fênix",
+        "id": "way/1359103781"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.5022284,
+              -23.5269516
+            ],
+            [
+              -46.5019955,
+              -23.5270465
+            ],
+            [
+              -46.5018141,
+              -23.5267762
+            ],
+            [
+              -46.5018853,
+              -23.5267393
+            ],
+            [
+              -46.5018897,
+              -23.5267459
+            ],
+            [
+              -46.5018996,
+              -23.5267418
+            ],
+            [
+              -46.5019772,
+              -23.5266978
+            ],
+            [
+              -46.5019723,
+              -23.5266914
+            ],
+            [
+              -46.5019988,
+              -23.5266766
+            ],
+            [
+              -46.5020368,
+              -23.5267335
+            ],
+            [
+              -46.5020734,
+              -23.5267127
+            ],
+            [
+              -46.502143,
+              -23.52682
+            ],
+            [
+              -46.5022284,
+              -23.5269516
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1359176973",
+      "properties": {
+        "timestamp": "2025-02-11T23:07:23Z",
+        "version": 1,
+        "changeset": 162410097,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "396",
+        "addr:postcode": "03664-000",
+        "addr:street": "Rua São Serapião",
+        "amenity": "school",
+        "barrier": "wall",
+        "name": "E.E Professor José Bartocci",
+        "id": "way/1359176973"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.498561,
+              -23.5275658
+            ],
+            [
+              -46.4988932,
+              -23.5273771
+            ],
+            [
+              -46.4990046,
+              -23.527548
+            ],
+            [
+              -46.4991464,
+              -23.5277657
+            ],
+            [
+              -46.4990039,
+              -23.5278454
+            ],
+            [
+              -46.4987377,
+              -23.5279946
+            ],
+            [
+              -46.4983077,
+              -23.5282349
+            ],
+            [
+              -46.4980579,
+              -23.5278471
+            ],
+            [
+              -46.4984487,
+              -23.527629
+            ],
+            [
+              -46.4984786,
+              -23.5276122
+            ],
+            [
+              -46.498561,
+              -23.5275658
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/222842154",
       "properties": {
         "timestamp": "2023-06-07T15:20:09Z",
@@ -103346,10 +103488,11 @@
       "type": "Feature",
       "id": "node/8117073934",
       "properties": {
-        "timestamp": "2020-11-13T20:28:42Z",
-        "version": 1,
-        "changeset": 94084651,
+        "timestamp": "2025-02-11T19:10:20Z",
+        "version": 2,
+        "changeset": 162403792,
         "amenity": "school",
+        "check_date": "2025-02-11",
         "name": "Kinder Kampus School",
         "id": "node/8117073934"
       },
@@ -114586,6 +114729,27 @@
         "coordinates": [
           -46.4991314,
           -23.5297886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12580439639",
+      "properties": {
+        "timestamp": "2025-02-11T23:07:23Z",
+        "version": 1,
+        "changeset": 162410097,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "396",
+        "addr:postcode": "03664-000",
+        "addr:street": "Rua São Serapião",
+        "id": "node/12580439639"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4990046,
+          -23.527548
         ]
       }
     }

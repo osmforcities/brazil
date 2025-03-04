@@ -1849,9 +1849,9 @@
       "type": "Feature",
       "id": "way/284296045",
       "properties": {
-        "timestamp": "2024-12-12T17:57:30Z",
-        "version": 7,
-        "changeset": 160218133,
+        "timestamp": "2025-02-13T11:10:05Z",
+        "version": 8,
+        "changeset": 162462275,
         "addr:city": "Niterói",
         "addr:postcode": "24370-195",
         "addr:street": "Avenida Prefeito Sylvio Picanço",
@@ -1861,6 +1861,10 @@
         "building:levels": "2",
         "name": "Colégio Estadual Matemático Joaquim Gomes de Sousa - Intercultural Brasil-China",
         "nohousenumber": "yes",
+        "operator": "Governo do Estado do Rio de Janeiro",
+        "operator:type": "government",
+        "operator:wikidata": "Q48855361",
+        "website": "https://ijca.org.br/escolas/brasil-china/",
         "id": "way/284296045"
       },
       "geometry": {
@@ -5689,6 +5693,51 @@
     },
     {
       "type": "Feature",
+      "id": "way/1359588396",
+      "properties": {
+        "timestamp": "2025-02-13T12:47:09Z",
+        "version": 1,
+        "changeset": 162465505,
+        "amenity": "school",
+        "name": "Escola Especial Crescer",
+        "operator": "Escola Especial Crescer",
+        "operator:type": "private",
+        "id": "way/1359588396"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.0645757,
+              -22.9398759
+            ],
+            [
+              -43.0648884,
+              -22.9401681
+            ],
+            [
+              -43.0648807,
+              -22.9401979
+            ],
+            [
+              -43.064662,
+              -22.9403511
+            ],
+            [
+              -43.06436,
+              -22.940066
+            ],
+            [
+              -43.0645757,
+              -22.9398759
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/452654175",
       "properties": {
         "timestamp": "2024-05-26T16:06:43Z",
@@ -8036,6 +8085,54 @@
         "coordinates": [
           -43.1095361,
           -22.9040129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12584877664",
+      "properties": {
+        "timestamp": "2025-02-13T11:30:19Z",
+        "version": 1,
+        "changeset": 162462994,
+        "amenity": "school",
+        "name": "Colégio Estadual Machado de Assis",
+        "operator": "Governo do Estado do Rio de Janeiro",
+        "operator:type": "government",
+        "operator:wikidata": "Q48855361",
+        "id": "node/12584877664"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.0857606,
+          -22.8834914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12584877674",
+      "properties": {
+        "timestamp": "2025-02-13T11:30:19Z",
+        "version": 1,
+        "changeset": 162462994,
+        "addr:city": "Niterói",
+        "addr:housenumber": "36",
+        "addr:street": "Rua Desembargador Lima Castro",
+        "addr:suburb": "Fonseca",
+        "amenity": "school",
+        "name": "Colégio Adventista Niterói",
+        "operator": "Educação Adventista",
+        "operator:type": "private",
+        "website": "https://niteroi.educacaoadventista.org.br/",
+        "id": "node/12584877674"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.086201,
+          -22.8825397
         ]
       }
     }

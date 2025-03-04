@@ -743,9 +743,9 @@
       "type": "Feature",
       "id": "way/282123094",
       "properties": {
-        "timestamp": "2022-04-13T15:04:19Z",
-        "version": 4,
-        "changeset": 119672900,
+        "timestamp": "2025-02-13T18:50:41Z",
+        "version": 5,
+        "changeset": 162477634,
         "addr:city": "Linhares",
         "addr:country": "BR",
         "addr:place": "Nova Esperança",
@@ -765,24 +765,24 @@
         "coordinates": [
           [
             [
-              -40.0451194,
-              -19.3588218
+              -40.0451115,
+              -19.3588387
             ],
             [
-              -40.0448784,
-              -19.3582722
+              -40.0448846,
+              -19.3582654
             ],
             [
-              -40.0452635,
-              -19.3581219
+              -40.0452777,
+              -19.3581269
             ],
             [
-              -40.0455044,
-              -19.3586715
+              -40.0455046,
+              -19.3587002
             ],
             [
-              -40.0451194,
-              -19.3588218
+              -40.0451115,
+              -19.3588387
             ]
           ]
         ]
@@ -1728,6 +1728,45 @@
     },
     {
       "type": "Feature",
+      "id": "way/1359671644",
+      "properties": {
+        "timestamp": "2025-02-13T18:50:41Z",
+        "version": 1,
+        "changeset": 162477634,
+        "amenity": "school",
+        "name": "EEEFM Professora Regina Banhos Paixão",
+        "id": "way/1359671644"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.0521929,
+              -19.3601155
+            ],
+            [
+              -40.0523653,
+              -19.3595947
+            ],
+            [
+              -40.0526276,
+              -19.3597577
+            ],
+            [
+              -40.0524806,
+              -19.3602004
+            ],
+            [
+              -40.0521929,
+              -19.3601155
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/2101327068",
       "properties": {
         "timestamp": "2019-07-11T17:33:19Z",
@@ -1870,36 +1909,6 @@
         "coordinates": [
           -40.1169521,
           -19.4758493
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/3726948438",
-      "properties": {
-        "timestamp": "2016-03-09T19:12:07Z",
-        "version": 2,
-        "changeset": 37716865,
-        "addr:city": "Linhares",
-        "addr:country": "BR",
-        "addr:housenumber": "240",
-        "addr:place": "Centro",
-        "addr:postcode": "29905-360",
-        "addr:state": "ES",
-        "addr:street": "Rua Dinorah Almeida Rodrigues",
-        "alt_name": "Escola Estadual de Ensino Fundamental",
-        "amenity": "school",
-        "classeCnae": "Fundamental",
-        "contact:phone": "(27) 3373-1563 / 3373-2122 / 3373-1563",
-        "name": "EEEF Professora Regina Banhos Paixão",
-        "source": "IJSN",
-        "id": "node/3726948438"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -40.0523726,
-          -19.3599166
         ]
       }
     },

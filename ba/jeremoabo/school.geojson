@@ -266,19 +266,77 @@
     },
     {
       "type": "Feature",
-      "id": "node/2198018382",
+      "id": "node/12585580866",
       "properties": {
-        "timestamp": "2014-03-27T04:37:55Z",
-        "version": 2,
-        "changeset": 21337722,
+        "timestamp": "2025-02-13T17:44:15Z",
+        "version": 1,
+        "changeset": 162475576,
+        "IBGE:COD_UNICO_ENDERECO": "25985689",
+        "addr:housenumber": "37",
+        "addr:postcode": "48540-000",
+        "addr:street": "Travessa para",
+        "addr:suburb": "Centro",
         "amenity": "school",
-        "id": "node/2198018382"
+        "building": "yes",
+        "name": "Colégio Ideal",
+        "id": "node/12585580866"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -38.3528422,
-          -10.0777793
+          -38.3512813,
+          -10.0718954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12585580867",
+      "properties": {
+        "timestamp": "2025-02-13T23:11:24Z",
+        "version": 2,
+        "changeset": 162484314,
+        "IBGE:COD_UNICO_ENDERECO": "25986357",
+        "addr:city": "Jeremoabo",
+        "addr:housenumber": "1",
+        "addr:postcode": "48540-000",
+        "addr:street": "Rua da Escola Municipal João Paulo II",
+        "addr:suburb": "João Paulo II",
+        "amenity": "school",
+        "building": "yes",
+        "name": "Escola Municipal João Paulo II",
+        "id": "node/12585580867"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.3526983,
+          -10.0778096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12585580868",
+      "properties": {
+        "timestamp": "2025-02-13T17:44:15Z",
+        "version": 1,
+        "changeset": 162475576,
+        "IBGE:COD_UNICO_ENDERECO": "191277176",
+        "addr:housenumber": "10",
+        "addr:postcode": "48540-000",
+        "addr:street": "Praça Fiel Nolasco",
+        "addr:suburb": "José Nolasco",
+        "amenity": "school",
+        "building": "yes",
+        "name": "Escola Municipal José Nolasco de Carvalho",
+        "id": "node/12585580868"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.3243412,
+          -10.090921
         ]
       }
     }

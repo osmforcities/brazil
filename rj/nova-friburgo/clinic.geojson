@@ -5,15 +5,17 @@
       "type": "Feature",
       "id": "way/404387140",
       "properties": {
-        "timestamp": "2016-03-18T13:17:41Z",
-        "version": 1,
-        "changeset": 37918784,
+        "timestamp": "2025-02-13T13:13:27Z",
+        "version": 2,
+        "changeset": 162466400,
         "addr:city": "Nova Friburgo",
+        "addr:housenumber": "4",
         "addr:postcode": "28625-630",
         "addr:street": "Rua General Osório",
         "addr:suburb": "Centro",
         "amenity": "clinic",
         "building": "yes",
+        "healthcare": "clinic",
         "name": "Centro Médico Nova Friburgo",
         "source": "Pesquisa de Campo;BING",
         "id": "way/404387140"
@@ -27,8 +29,12 @@
               -22.278986
             ],
             [
-              -42.535244,
-              -22.2792193
+              -42.535227,
+              -22.2790133
+            ],
+            [
+              -42.5352596,
+              -22.2792138
             ],
             [
               -42.5350026,
@@ -473,6 +479,24 @@
         "coordinates": [
           -42.330834,
           -22.3178991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12585083657",
+      "properties": {
+        "timestamp": "2025-02-13T13:13:27Z",
+        "version": 1,
+        "changeset": 162466400,
+        "entrance": "yes",
+        "id": "node/12585083657"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.535227,
+          -22.2790133
         ]
       }
     }

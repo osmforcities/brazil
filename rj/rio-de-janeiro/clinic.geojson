@@ -5695,6 +5695,52 @@
     },
     {
       "type": "Feature",
+      "id": "way/1359550915",
+      "properties": {
+        "timestamp": "2025-02-13T09:35:08Z",
+        "version": 1,
+        "changeset": 162458977,
+        "addr:suburb": "Cocotá",
+        "amenity": "clinic",
+        "email": "cfwilmacosta@gmail.com",
+        "healthcare": "clinic",
+        "name": "Clínica da Família Wilma Costa",
+        "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-12:00",
+        "phone": "+55 21-98901-9700",
+        "source": "data.rio",
+        "start_date": "1970-01-01",
+        "id": "way/1359550915"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.1786792,
+              -22.8035657
+            ],
+            [
+              -43.1789666,
+              -22.803608
+            ],
+            [
+              -43.1788972,
+              -22.8040085
+            ],
+            [
+              -43.1786098,
+              -22.8039662
+            ],
+            [
+              -43.1786792,
+              -22.8035657
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/631344221",
       "properties": {
         "timestamp": "2022-04-21T03:35:38Z",
@@ -12182,32 +12228,6 @@
         "coordinates": [
           -43.2271807,
           -22.8110453
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/7573404584",
-      "properties": {
-        "timestamp": "2022-12-21T02:07:49Z",
-        "version": 2,
-        "changeset": 130311528,
-        "addr:suburb": "Cocotá",
-        "amenity": "clinic",
-        "email": "cfwilmacosta@gmail.com",
-        "healthcare": "clinic",
-        "name": "Clínica da Família Wilma Costa",
-        "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-12:00",
-        "phone": "+55 21-98901-9700",
-        "source": "data.rio",
-        "start_date": "1970-01-01",
-        "id": "node/7573404584"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.1787958,
-          -22.8038329
         ]
       }
     },

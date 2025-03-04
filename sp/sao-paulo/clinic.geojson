@@ -3586,9 +3586,9 @@
       "type": "Feature",
       "id": "way/467705401",
       "properties": {
-        "timestamp": "2023-08-03T23:13:27Z",
-        "version": 3,
-        "changeset": 139415687,
+        "timestamp": "2025-02-14T09:16:38Z",
+        "version": 4,
+        "changeset": 162495102,
         "addr:housenumber": "3033",
         "addr:postcode": "04230-040",
         "addr:street": "Avenida Almirante Delamare",
@@ -3596,7 +3596,7 @@
         "amenity": "clinic",
         "building": "yes",
         "healthcare": "clinic",
-        "healthcare:speciality": "general;paediatrics;vaccination;ginecologia",
+        "healthcare:speciality": "general;gynaecology;paediatrics;vaccination",
         "height": "4.74",
         "name": "Unidade Básica de Saúde Heliópolis",
         "opening_hours": "Mo-Fr 07:00-19:00; Sa,Su,PH off",
@@ -12198,9 +12198,9 @@
       "type": "Feature",
       "id": "way/1193571401",
       "properties": {
-        "timestamp": "2023-07-31T14:40:41Z",
-        "version": 1,
-        "changeset": 139257747,
+        "timestamp": "2025-02-14T09:16:38Z",
+        "version": 2,
+        "changeset": 162495102,
         "addr:housenumber": "250",
         "addr:postcode": "04170-000",
         "addr:street": "Rua Giovanni di Balduccio",
@@ -12208,7 +12208,7 @@
         "amenity": "clinic",
         "building": "yes",
         "healthcare": "clinic",
-        "healthcare:speciality": "general;paediatrics;vaccination;ginecologia",
+        "healthcare:speciality": "general;gynaecology;paediatrics;vaccination",
         "name": "AMA/UBS Integrada Vila Moraes João Paulo Botelho Vieira",
         "opening_hours": "Mo-Sa 07:00-19:00; Su,PH off",
         "phone": "+55 11 5058 0891",
@@ -19778,6 +19778,31 @@
         "coordinates": [
           -46.5088913,
           -23.5234661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12587801631",
+      "properties": {
+        "timestamp": "2025-02-14T16:16:13Z",
+        "version": 2,
+        "changeset": 162509305,
+        "air_conditioning": "yes",
+        "amenity": "clinic",
+        "check_date": "2025-02-14",
+        "healthcare": "clinic",
+        "healthcare:speciality": "cardiology;general;neurology",
+        "name": "Medical Center",
+        "operator:type": "private",
+        "source": "survey",
+        "id": "node/12587801631"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6548687,
+          -23.5576544
         ]
       }
     }

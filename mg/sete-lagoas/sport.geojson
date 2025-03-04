@@ -1605,6 +1605,55 @@
     },
     {
       "type": "Feature",
+      "id": "way/1359891268",
+      "properties": {
+        "timestamp": "2025-02-14T17:19:16Z",
+        "version": 1,
+        "changeset": 162511455,
+        "addr:city": "Sete Lagoas",
+        "addr:housenumber": "2304-2436",
+        "addr:postcode": "35702-314",
+        "addr:street": "Avenida José Sérvulo Soalheiro",
+        "addr:suburb": "Nova Cidade",
+        "alt_name": "Ginásio do Nova Cidade",
+        "building": "yes",
+        "leisure": "sports_hall",
+        "name": "Complexo Esportivo Vinicio Dias Avelar (Ginásio)",
+        "operator": "Prefeitura de Sete Lagoas",
+        "sport": "soccer;futsal;basketball;billiards;volleyball",
+        "wheelchair": "yes",
+        "id": "way/1359891268"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.2315444,
+              -19.4290739
+            ],
+            [
+              -44.231686,
+              -19.4294272
+            ],
+            [
+              -44.2309739,
+              -19.4296812
+            ],
+            [
+              -44.2308323,
+              -19.4293278
+            ],
+            [
+              -44.2315444,
+              -19.4290739
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/5508193972",
       "properties": {
         "timestamp": "2022-10-16T02:55:27Z",
@@ -1647,32 +1696,6 @@
         "coordinates": [
           -44.278888,
           -19.4608002
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/9742366824",
-      "properties": {
-        "timestamp": "2022-05-16T01:46:44Z",
-        "version": 1,
-        "changeset": 121029394,
-        "addr:city": "Sete Lagoas",
-        "addr:housenumber": "2304-2436",
-        "addr:postcode": "35702-314",
-        "addr:street": "Av. José Sérvulo Soalheiro",
-        "addr:suburb": "Nova Cidade",
-        "leisure": "sports_hall",
-        "name": "Complexo Esportivo Vinicio Dias Avelar",
-        "operator": "Prefeitura de Sete Lagoas",
-        "sport": "volleyball;soccer;basketball",
-        "id": "node/9742366824"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.2312082,
-          -19.4293973
         ]
       }
     },

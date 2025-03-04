@@ -161,6 +161,50 @@
     },
     {
       "type": "Feature",
+      "id": "way/209603075",
+      "properties": {
+        "timestamp": "2025-02-14T13:53:20Z",
+        "version": 2,
+        "changeset": 162504352,
+        "addr:city": "Jeremoabo",
+        "addr:postcode": "48540-000",
+        "addr:street": "Rua da Associação",
+        "addr:suburb": "Centro",
+        "leisure": "sports_centre",
+        "name": "Associacao Jeremoabense de Futebol - AJF",
+        "sport": "multi",
+        "id": "way/209603075"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.3434118,
+              -10.0786901
+            ],
+            [
+              -38.3428,
+              -10.0791102
+            ],
+            [
+              -38.3421512,
+              -10.078014
+            ],
+            [
+              -38.3427088,
+              -10.0775944
+            ],
+            [
+              -38.3434118,
+              -10.0786901
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/226081722",
       "properties": {
         "timestamp": "2014-03-26T05:29:48Z",
@@ -398,10 +442,15 @@
       "type": "Feature",
       "id": "way/1359717215",
       "properties": {
-        "timestamp": "2025-02-13T23:11:24Z",
-        "version": 1,
-        "changeset": 162484314,
+        "timestamp": "2025-02-14T18:41:42Z",
+        "version": 2,
+        "changeset": 162514023,
+        "addr:city": "Jeremoabo",
+        "addr:postcode": "48540-000",
+        "addr:street": "Rua do Rio",
+        "addr:suburb": "João Paulo II",
         "leisure": "stadium",
+        "name": "Estádio Municipal João Isaias Montalvão",
         "sport": "soccer",
         "id": "way/1359717215"
       },
@@ -437,12 +486,13 @@
       "type": "Feature",
       "id": "way/1359717217",
       "properties": {
-        "timestamp": "2025-02-13T23:11:24Z",
-        "version": 1,
-        "changeset": 162484314,
+        "timestamp": "2025-02-14T01:02:06Z",
+        "version": 2,
+        "changeset": 162485859,
         "access": "yes",
         "leisure": "pitch",
         "lit": "yes",
+        "name": "Ginásio de Esportes",
         "sport": "multi",
         "surface": "concrete",
         "id": "way/1359717217"
@@ -470,6 +520,105 @@
             [
               -38.3528218,
               -10.0764991
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1359726194",
+      "properties": {
+        "timestamp": "2025-02-14T01:02:06Z",
+        "version": 1,
+        "changeset": 162485859,
+        "addr:city": "Jeremoabo",
+        "addr:housenumber": "20",
+        "addr:postcode": "48540-000",
+        "addr:street": "Rua da Alegria",
+        "addr:suburb": "Centro",
+        "leisure": "sports_centre",
+        "name": "Cajueiro Clube",
+        "sport": "multi",
+        "id": "way/1359726194"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.3532735,
+              -10.0714102
+            ],
+            [
+              -38.352675,
+              -10.0720987
+            ],
+            [
+              -38.3524962,
+              -10.0719898
+            ],
+            [
+              -38.351366,
+              -10.0711268
+            ],
+            [
+              -38.3515074,
+              -10.0710019
+            ],
+            [
+              -38.3516457,
+              -10.0711396
+            ],
+            [
+              -38.3521986,
+              -10.0704975
+            ],
+            [
+              -38.3532735,
+              -10.0714102
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1359890043",
+      "properties": {
+        "timestamp": "2025-02-14T17:08:05Z",
+        "version": 1,
+        "changeset": 162511094,
+        "access": "private",
+        "leisure": "pitch",
+        "lit": "yes",
+        "sport": "multi",
+        "surface": "concrete",
+        "id": "way/1359890043"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.3427423,
+              -10.0792635
+            ],
+            [
+              -38.3424969,
+              -10.0793961
+            ],
+            [
+              -38.3424179,
+              -10.0792545
+            ],
+            [
+              -38.3426634,
+              -10.0791219
+            ],
+            [
+              -38.3427423,
+              -10.0792635
             ]
           ]
         ]

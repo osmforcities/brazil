@@ -5,15 +5,21 @@
       "type": "Feature",
       "id": "way/192973219",
       "properties": {
-        "timestamp": "2022-03-20T20:26:15Z",
-        "version": 7,
-        "changeset": 118709769,
+        "timestamp": "2025-02-14T16:26:59Z",
+        "version": 8,
+        "changeset": 162509597,
         "access": "yes",
+        "addr:city": "São José",
+        "addr:housenumber": "1176",
+        "addr:street": "Rua Vereador Arthur Manoel Mariano",
+        "addr:suburb": "Forquilhinhas",
         "amenity": "clinic",
         "building": "yes",
         "healthcare": "clinic",
+        "healthcare:speciality": "general",
         "loc_name": "Posto de Saúde Forquilhinha",
         "name": "Unidade Básica de Saúde Forquilhinha",
+        "opening_hours": "Mo-Fr 07:00-19:00",
         "operator": "Prefeitura Municipal de São José",
         "operator:type": "public",
         "short_name": "UBS Forquilhinha",
@@ -24,24 +30,32 @@
         "coordinates": [
           [
             [
-              -48.6426906,
-              -27.598068
+              -48.6427039,
+              -27.5980709
             ],
             [
               -48.6429073,
               -27.5981524
             ],
             [
-              -48.6428657,
-              -27.5982362
+              -48.6428624,
+              -27.5982399
             ],
             [
-              -48.6426491,
-              -27.5981517
+              -48.6427642,
+              -27.5982038
             ],
             [
-              -48.6426906,
-              -27.598068
+              -48.6427195,
+              -27.5982809
+            ],
+            [
+              -48.6426093,
+              -27.5982391
+            ],
+            [
+              -48.6427039,
+              -27.5980709
             ]
           ]
         ]
@@ -51,21 +65,27 @@
       "type": "Feature",
       "id": "way/270765968",
       "properties": {
-        "timestamp": "2021-11-15T22:10:42Z",
-        "version": 6,
-        "changeset": 113826963,
+        "timestamp": "2025-02-14T16:26:59Z",
+        "version": 7,
+        "changeset": 162509597,
         "access": "yes",
+        "addr:city": "São José",
         "addr:housenumber": "193",
         "addr:postcode": "88101-420",
         "addr:street": "Rua Governador Jorge Lacerda",
+        "addr:suburb": "Campinas",
+        "air_conditioning": "yes",
+        "alt_name": "Unidade Básica de Saúde Campinas",
         "amenity": "clinic",
-        "building": "clinic",
+        "building": "policlinic",
         "contact:phone": "+55 48 3241-0048",
         "healthcare": "clinic",
-        "name": "Policlínica Municipal de São José",
-        "opening_hours": "Mo-Fr 08:00-17:00; Sa,Su,PH off",
+        "healthcare:speciality": "geriatrics;otolaryngology;pulmonology;general;ambulatório_trans",
+        "name": "Policlínica Municipal de Campinas",
+        "opening_hours": "Mo-Fr 07:00-22:00",
         "operator": "Prefeitura Municipal de São José",
         "operator:type": "public",
+        "short_name": "UBS Campinas",
         "id": "way/270765968"
       },
       "geometry": {
@@ -202,14 +222,22 @@
       "type": "Feature",
       "id": "way/587766907",
       "properties": {
-        "timestamp": "2018-05-12T22:02:17Z",
-        "version": 1,
-        "changeset": 58912588,
+        "timestamp": "2025-02-14T16:26:59Z",
+        "version": 2,
+        "changeset": 162509597,
+        "addr:city": "São José",
         "addr:street": "Rua Antônio Jovita Duarte",
+        "addr:suburb": "Forquilhas",
         "amenity": "clinic",
-        "building": "yes",
+        "building": "clinic",
         "healthcare": "clinic",
+        "healthcare:speciality": "general",
         "name": "Unidade Básica de Sáude Forquilhas",
+        "opening_hours": "Mo-Fr 07:00-17:00",
+        "operator": "Prefeitura de São José",
+        "operator:type": "public",
+        "phone": "+55 48 3281-6027",
+        "short_name": "UBS Forquilhas",
         "id": "way/587766907"
       },
       "geometry": {
@@ -365,21 +393,26 @@
       "type": "Feature",
       "id": "way/603170635",
       "properties": {
-        "timestamp": "2021-09-12T19:18:10Z",
-        "version": 5,
-        "changeset": 111109771,
+        "timestamp": "2025-02-14T16:26:59Z",
+        "version": 6,
+        "changeset": 162509597,
         "access": "yes",
+        "addr:city": "São José",
         "addr:postcode": "88113-280",
         "addr:street": "Rua Independência",
+        "addr:suburb": "Areias",
         "amenity": "clinic",
         "brand": "Sistema Único de Saúde",
         "brand:short": "SUS",
+        "building": "clinic",
         "healthcare": "clinic",
         "healthcare:speciality": "general",
         "loc_name": "Posto de Saúde Areias",
         "name": "Unidade Básica de Saúde Areias",
-        "operator": "Prefeitura Muncipal de São José",
+        "opening_hours": "Mo-Fr 07:00-17:00",
+        "operator": "Prefeitura Municipal de São José",
         "operator:type": "public",
+        "phone": "+55 48 3281-6018",
         "short_name": "UBS Areais",
         "id": "way/603170635"
       },
@@ -567,9 +600,9 @@
       "type": "Feature",
       "id": "way/803823297",
       "properties": {
-        "timestamp": "2022-04-05T15:18:51Z",
-        "version": 5,
-        "changeset": 119349190,
+        "timestamp": "2025-02-14T16:26:59Z",
+        "version": 6,
+        "changeset": 162509597,
         "access": "yes",
         "addr:city": "São José",
         "addr:housenumber": "236",
@@ -577,12 +610,15 @@
         "addr:street": "Rua das Orquídeas",
         "addr:suburb": "Bela Vista",
         "amenity": "clinic",
-        "building": "public",
+        "building": "clinic",
         "healthcare": "centre",
+        "healthcare:speciality": "general",
         "loc_name": "Posto de Saúde Bela Vista",
         "name": "Unidade Básica de Saúde de Saúde Bela Vista",
+        "opening_hours": "Mo-Fr 07:00-19:00",
         "operator": "Prefeitura Municipal de São José",
         "operator:type": "public",
+        "phone": "+55 48 3288-4305",
         "short_name": "UBS Bela Vista",
         "id": "way/803823297"
       },
@@ -714,9 +750,9 @@
       "type": "Feature",
       "id": "way/1053331855",
       "properties": {
-        "timestamp": "2023-08-18T15:38:08Z",
-        "version": 3,
-        "changeset": 140063632,
+        "timestamp": "2025-02-14T16:26:59Z",
+        "version": 4,
+        "changeset": 162509597,
         "access": "yes",
         "addr:city": "São José",
         "addr:street": "Rua Guatemala",
@@ -724,14 +760,15 @@
         "amenity": "clinic",
         "brand": "Sistema Único de Saúde",
         "brand:short": "SUS",
-        "building": "yes",
+        "building": "clinic",
         "healthcare": "clinic",
         "healthcare:speciality": "paediatrics;dentistry;general",
         "loc_name": "Posto de Saúde Procasa",
         "name": "Centro de Saúde Procasa",
-        "opening_hours": "sunrise-sunset",
+        "opening_hours": "Mo-Fr 07:00-17:00",
         "operator": "Prefeitura Municicipal de São José",
         "operator:type": "public",
+        "phone": "+55 48 3281-6003",
         "short_name": "UBS Procasa",
         "id": "way/1053331855"
       },
@@ -832,19 +869,25 @@
       "type": "Feature",
       "id": "way/1059349767",
       "properties": {
-        "timestamp": "2022-05-11T17:47:28Z",
-        "version": 1,
-        "changeset": 120851812,
+        "timestamp": "2025-02-14T16:26:59Z",
+        "version": 2,
+        "changeset": 162509597,
         "access": "yes",
+        "addr:city": "São José",
+        "addr:street": "Rua João Luiz Farias",
+        "addr:suburb": "Fazenda Santo Antônio",
         "amenity": "clinic",
         "brand": "Sistema Único de Saúde",
         "brand:short": "SUS",
-        "building": "yes",
+        "building": "clinic",
         "healthcare": "clinic",
+        "healthcare:speciality": "general",
         "loc_name": "Posto de Saúde Fazenda Santo Antônio",
         "name": "Unidade Básica de Saúde Fazenda Santo Antônio",
+        "opening_hours": "Mo-Fr 07:00-17:00",
         "operator": "Prefeitura Muncipal de São José",
         "operator:type": "public",
+        "phone": "+55 48 3281-6041",
         "short_name": "UBS Fazenda Santo Antônio",
         "id": "way/1059349767"
       },
@@ -878,6 +921,272 @@
     },
     {
       "type": "Feature",
+      "id": "way/1359877279",
+      "properties": {
+        "timestamp": "2025-02-14T16:26:59Z",
+        "version": 1,
+        "changeset": 162509597,
+        "addr:city": "São José",
+        "addr:street": "Rua Virgilino Ferreira de Souza",
+        "addr:suburb": "Barreiros",
+        "amenity": "clinic",
+        "building": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Unidade Básica de Saúde Barreiros",
+        "opening_hours": "Mo-Fr 07:00-17:00",
+        "operator": "Prefeitura Municicipal de São José",
+        "operator:type": "public",
+        "phone": "+55 48 3288-4336",
+        "short_name": "UBS Barreiros",
+        "id": "way/1359877279"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.6072794,
+              -27.5714745
+            ],
+            [
+              -48.6070686,
+              -27.5716959
+            ],
+            [
+              -48.6069258,
+              -27.5715591
+            ],
+            [
+              -48.6071302,
+              -27.571361
+            ],
+            [
+              -48.6072794,
+              -27.5714745
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1359877280",
+      "properties": {
+        "timestamp": "2025-02-14T16:26:59Z",
+        "version": 1,
+        "changeset": 162509597,
+        "addr:city": "São José",
+        "addr:street": "Avenida Ceniro Luiz Ribeiro Martins",
+        "addr:suburb": "Loteamento Ceniro Martins",
+        "amenity": "clinic",
+        "building": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Unidade Básica de Saúde Ceniro Martins",
+        "opening_hours": "Mo-Fr 07:00-17:00",
+        "operator": "Prefeitura Municipal de São José",
+        "operator:type": "public",
+        "phone": "+55 48 3288-4345",
+        "short_name": "UBS Ceniro Martins",
+        "id": "way/1359877280"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.6575789,
+              -27.5760115
+            ],
+            [
+              -48.6575929,
+              -27.576127
+            ],
+            [
+              -48.6574851,
+              -27.5761432
+            ],
+            [
+              -48.6575045,
+              -27.5762884
+            ],
+            [
+              -48.6573666,
+              -27.576296
+            ],
+            [
+              -48.6573376,
+              -27.5760401
+            ],
+            [
+              -48.6575789,
+              -27.5760115
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1359877281",
+      "properties": {
+        "timestamp": "2025-02-14T16:26:59Z",
+        "version": 1,
+        "changeset": 162509597,
+        "addr:city": "São José",
+        "addr:housenumber": "1465",
+        "addr:street": "Avenida Engelberto Koerich",
+        "addr:suburb": "Colônia Santana",
+        "amenity": "clinic",
+        "building": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Unidade Básica de Saúde Colônia Santana",
+        "opening_hours": "Mo-Fr 07:00-17:00",
+        "operator": "Prefeitura Municipal de São José",
+        "operator:type": "public",
+        "phone": "+55 48 3281-6024",
+        "short_name": "UBS Colônia Santana",
+        "id": "way/1359877281"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.7148845,
+              -27.5865741
+            ],
+            [
+              -48.7147628,
+              -27.5866125
+            ],
+            [
+              -48.7147334,
+              -27.5865258
+            ],
+            [
+              -48.7148954,
+              -27.5864637
+            ],
+            [
+              -48.7151992,
+              -27.5866597
+            ],
+            [
+              -48.7151509,
+              -27.5867591
+            ],
+            [
+              -48.7148845,
+              -27.5865741
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1359877282",
+      "properties": {
+        "timestamp": "2025-02-14T16:26:59Z",
+        "version": 1,
+        "changeset": 162509597,
+        "addr:city": "São José",
+        "addr:housenumber": "4534",
+        "addr:street": "Rua Heriberto Hülse",
+        "addr:suburb": "Serraria",
+        "amenity": "clinic",
+        "building": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Unidade Básica de Saúde de Goiabal",
+        "opening_hours": "Mo-Fr 07:00-17:00",
+        "operator": "Prefeitura Municipal de São José",
+        "operator:type": "public",
+        "phone": "+55 48 3281-6050",
+        "short_name": "UBS Goiabal",
+        "id": "way/1359877282"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.6195234,
+              -27.5424356
+            ],
+            [
+              -48.6193451,
+              -27.542559
+            ],
+            [
+              -48.619335,
+              -27.5425436
+            ],
+            [
+              -48.6193147,
+              -27.5425577
+            ],
+            [
+              -48.6192851,
+              -27.5425213
+            ],
+            [
+              -48.619261,
+              -27.5425371
+            ],
+            [
+              -48.6191608,
+              -27.5424333
+            ],
+            [
+              -48.6191987,
+              -27.5424151
+            ],
+            [
+              -48.6191805,
+              -27.5423939
+            ],
+            [
+              -48.6192625,
+              -27.5423431
+            ],
+            [
+              -48.6193219,
+              -27.5424009
+            ],
+            [
+              -48.6193755,
+              -27.5423611
+            ],
+            [
+              -48.6193315,
+              -27.542318
+            ],
+            [
+              -48.6193668,
+              -27.5422943
+            ],
+            [
+              -48.6194103,
+              -27.5423315
+            ],
+            [
+              -48.6194234,
+              -27.5423251
+            ],
+            [
+              -48.6195234,
+              -27.5424356
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/4413789790",
       "properties": {
         "timestamp": "2018-04-08T16:36:41Z",
@@ -900,25 +1209,6 @@
         "coordinates": [
           -48.608573,
           -27.5959844
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/8626385472",
-      "properties": {
-        "timestamp": "2021-04-13T16:07:52Z",
-        "version": 1,
-        "changeset": 102875428,
-        "amenity": "clinic",
-        "name": "Centro de Saúde Colônia Santana",
-        "id": "node/8626385472"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.7148214,
-          -27.58653
         ]
       }
     },

@@ -5,10 +5,17 @@
       "type": "Feature",
       "id": "way/209294150",
       "properties": {
-        "timestamp": "2014-03-27T04:37:49Z",
-        "version": 2,
-        "changeset": 21337722,
+        "timestamp": "2025-02-14T13:39:15Z",
+        "version": 3,
+        "changeset": 162503851,
+        "addr:city": "Jeremoabo",
+        "addr:postcode": "48540-000",
+        "addr:street": "Praça da Matriz",
+        "addr:suburb": "Centro",
         "amenity": "school",
+        "name": "Escola Municipal Doutor Carvalho de Sá",
+        "operator": "Município de Jeremoabo",
+        "operator:type": "public",
         "id": "way/209294150"
       },
       "geometry": {
@@ -16,32 +23,48 @@
         "coordinates": [
           [
             [
-              -38.3475691,
-              -10.0754632
+              -38.3475687,
+              -10.0754641
             ],
             [
-              -38.3476317,
-              -10.0754262
+              -38.3476286,
+              -10.0754428
             ],
             [
-              -38.347663,
-              -10.075508
+              -38.3476687,
+              -10.0755522
             ],
             [
-              -38.3475315,
-              -10.0756005
+              -38.3475244,
+              -10.0756034
             ],
             [
-              -38.3473545,
-              -10.075133
+              -38.3473538,
+              -10.0751374
             ],
             [
-              -38.3474296,
-              -10.0751093
+              -38.3474138,
+              -10.0751162
             ],
             [
-              -38.3475691,
-              -10.0754632
+              -38.3474069,
+              -10.0750975
+            ],
+            [
+              -38.347487,
+              -10.075069
+            ],
+            [
+              -38.347538,
+              -10.0752083
+            ],
+            [
+              -38.3474822,
+              -10.0752281
+            ],
+            [
+              -38.3475687,
+              -10.0754641
             ]
           ]
         ]
@@ -209,39 +232,195 @@
     },
     {
       "type": "Feature",
-      "id": "node/1751007450",
+      "id": "way/1359890035",
       "properties": {
-        "timestamp": "2013-03-11T02:08:05Z",
-        "version": 2,
-        "changeset": 15323166,
+        "timestamp": "2025-02-14T17:08:05Z",
+        "version": 1,
+        "changeset": 162511094,
+        "addr:city": "Jeremoabo",
+        "addr:postcode": "48540-000",
+        "addr:street": "Avenida José Gonçalves de Sá",
+        "addr:suburb": "Centro",
         "amenity": "school",
-        "name": "Escolas Reunidas Cel. João Sá",
-        "id": "node/1751007450"
+        "building": "yes",
+        "building:levels": "2",
+        "name": "Escolas Reunidas Coronel João Sá",
+        "id": "way/1359890035"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -38.3508853,
-          -10.0704693
+          [
+            [
+              -38.3509805,
+              -10.070522
+            ],
+            [
+              -38.3509337,
+              -10.0705985
+            ],
+            [
+              -38.3508147,
+              -10.0705278
+            ],
+            [
+              -38.3508551,
+              -10.0704619
+            ],
+            [
+              -38.350876,
+              -10.0704743
+            ],
+            [
+              -38.3509032,
+              -10.07043
+            ],
+            [
+              -38.350876,
+              -10.0704139
+            ],
+            [
+              -38.3509123,
+              -10.0703547
+            ],
+            [
+              -38.3510223,
+              -10.0704202
+            ],
+            [
+              -38.3510405,
+              -10.0703906
+            ],
+            [
+              -38.3511233,
+              -10.0704398
+            ],
+            [
+              -38.3509948,
+              -10.0706491
+            ],
+            [
+              -38.3509492,
+              -10.070622
+            ],
+            [
+              -38.3510025,
+              -10.0705351
+            ],
+            [
+              -38.3509805,
+              -10.070522
+            ]
+          ]
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "node/1751021156",
+      "id": "way/1359890045",
       "properties": {
-        "timestamp": "2012-05-14T00:54:09Z",
-        "version": 2,
-        "changeset": 11591704,
+        "timestamp": "2025-02-14T17:08:05Z",
+        "version": 1,
+        "changeset": 162511094,
+        "addr:city": "Jeremoabo",
+        "addr:postcode": "48540-000",
+        "addr:street": "Avenida Recife",
+        "addr:suburb": "Centro",
         "amenity": "school",
-        "name": "Escola Municipal Evaristo",
-        "id": "node/1751021156"
+        "name": "Escola Municipal Evaristo Cardoso Varjão",
+        "operator": "Município de Jeremoabo",
+        "operator:type": "public",
+        "id": "way/1359890045"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -38.3426918,
-          -10.0797431
+          [
+            [
+              -38.3429942,
+              -10.0797119
+            ],
+            [
+              -38.3423674,
+              -10.0800537
+            ],
+            [
+              -38.3420396,
+              -10.0794659
+            ],
+            [
+              -38.3426634,
+              -10.0791219
+            ],
+            [
+              -38.3427423,
+              -10.0792635
+            ],
+            [
+              -38.3427779,
+              -10.0793257
+            ],
+            [
+              -38.3428908,
+              -10.0795363
+            ],
+            [
+              -38.3429942,
+              -10.0797119
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1359890047",
+      "properties": {
+        "timestamp": "2025-02-14T17:08:05Z",
+        "version": 1,
+        "changeset": 162511094,
+        "IBGE:COD_UNICO_ENDERECO": "191277176",
+        "addr:housenumber": "10",
+        "addr:postcode": "48540-000",
+        "addr:street": "Praça Fiel Nolasco",
+        "addr:suburb": "José Nolasco",
+        "amenity": "school",
+        "name": "Escola Municipal José Nolasco de Carvalho",
+        "id": "way/1359890047"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.3244872,
+              -10.0907455
+            ],
+            [
+              -38.3243538,
+              -10.090895
+            ],
+            [
+              -38.3243194,
+              -10.0909333
+            ],
+            [
+              -38.3241971,
+              -10.0910865
+            ],
+            [
+              -38.3239201,
+              -10.0908472
+            ],
+            [
+              -38.324217,
+              -10.0905129
+            ],
+            [
+              -38.3244872,
+              -10.0907455
+            ]
+          ]
         ]
       }
     },
@@ -249,18 +428,25 @@
       "type": "Feature",
       "id": "node/1751022070",
       "properties": {
-        "timestamp": "2012-05-14T00:59:51Z",
-        "version": 2,
-        "changeset": 11591704,
+        "timestamp": "2025-02-14T01:02:06Z",
+        "version": 3,
+        "changeset": 162485859,
+        "addr:city": "Jeremoabo",
+        "addr:housenumber": "1",
+        "addr:postcode": "48540-000",
+        "addr:street": "Rua do Colégio",
+        "addr:suburb": "Centro",
         "amenity": "school",
         "name": "Colégio Municipal São João Batista",
+        "operator": "Município de Jeremoabo",
+        "operator:type": "public",
         "id": "node/1751022070"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -38.35223,
-          -10.0670915
+          -38.3528758,
+          -10.0678147
         ]
       }
     },
@@ -268,17 +454,22 @@
       "type": "Feature",
       "id": "node/12585580866",
       "properties": {
-        "timestamp": "2025-02-13T17:44:15Z",
-        "version": 1,
-        "changeset": 162475576,
+        "timestamp": "2025-02-14T01:02:06Z",
+        "version": 2,
+        "changeset": 162485859,
         "IBGE:COD_UNICO_ENDERECO": "25985689",
+        "addr:city": "Jeremoabo",
         "addr:housenumber": "37",
         "addr:postcode": "48540-000",
-        "addr:street": "Travessa para",
+        "addr:street": "Travessa Pará",
         "addr:suburb": "Centro",
         "amenity": "school",
         "building": "yes",
+        "email": "colegioideal29@gmail.com",
         "name": "Colégio Ideal",
+        "operator": "Colégio Ideal",
+        "operator:type": "private",
+        "phone": "+55 75 3203 2583",
         "id": "node/12585580866"
       },
       "geometry": {
@@ -317,26 +508,75 @@
     },
     {
       "type": "Feature",
-      "id": "node/12585580868",
+      "id": "node/12586206194",
       "properties": {
-        "timestamp": "2025-02-13T17:44:15Z",
+        "timestamp": "2025-02-14T01:02:06Z",
         "version": 1,
-        "changeset": 162475576,
-        "IBGE:COD_UNICO_ENDERECO": "191277176",
-        "addr:housenumber": "10",
+        "changeset": 162485859,
+        "addr:city": "Jeremoabo",
+        "addr:housenumber": "2",
         "addr:postcode": "48540-000",
-        "addr:street": "Praça Fiel Nolasco",
-        "addr:suburb": "José Nolasco",
+        "addr:street": "Avenida Recife",
+        "addr:suburb": "Centro",
         "amenity": "school",
-        "building": "yes",
-        "name": "Escola Municipal José Nolasco de Carvalho",
-        "id": "node/12585580868"
+        "name": "Colégio Estadual José Lourenço de Carvalho",
+        "operator": "Secretaria de Educação do Estado da Bahia",
+        "operator:type": "public",
+        "id": "node/12586206194"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -38.3243412,
-          -10.090921
+          -38.3419724,
+          -10.0805609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12587609840",
+      "properties": {
+        "timestamp": "2025-02-14T13:39:15Z",
+        "version": 1,
+        "changeset": 162503851,
+        "addr:city": "Jeremoabo",
+        "addr:postcode": "48540-000",
+        "addr:street": "Rua Delmiro Gouveia",
+        "addr:suburb": "Centro",
+        "amenity": "school",
+        "name": "Colégio Leonardo da Vinci",
+        "operator": "Andrade Goncalves e Santos Ensino Fundamental Ltda",
+        "operator:type": "private",
+        "phone": "+55 75 3203 1599",
+        "id": "node/12587609840"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.3502411,
+          -10.0676921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12588054231",
+      "properties": {
+        "timestamp": "2025-02-14T17:40:47Z",
+        "version": 1,
+        "changeset": 162512142,
+        "addr:city": "Jeremoabo",
+        "addr:postcode": "48540-000",
+        "addr:suburb": "Espinheiro",
+        "amenity": "school",
+        "name": "Escola Municipal Marivaldo Pereira",
+        "id": "node/12588054231"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.3100352,
+          -10.0572876
         ]
       }
     }

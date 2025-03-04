@@ -371,6 +371,57 @@
     },
     {
       "type": "Feature",
+      "id": "way/1359946829",
+      "properties": {
+        "timestamp": "2025-02-14T22:50:48Z",
+        "version": 1,
+        "changeset": 162521198,
+        "addr:street": "Estrada do Forte",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Estratégia de Saúde da Família do Forte",
+        "id": "way/1359946829"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.5342429,
+              -26.1836696
+            ],
+            [
+              -48.5342556,
+              -26.1837883
+            ],
+            [
+              -48.5341958,
+              -26.1837948
+            ],
+            [
+              -48.5341904,
+              -26.1837688
+            ],
+            [
+              -48.5340962,
+              -26.1837802
+            ],
+            [
+              -48.5340799,
+              -26.1836745
+            ],
+            [
+              -48.5342429,
+              -26.1836696
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/1578616892",
       "properties": {
         "timestamp": "2021-03-31T04:43:24Z",
@@ -574,30 +625,6 @@
         "coordinates": [
           -48.6386649,
           -26.2474655
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/11187776472",
-      "properties": {
-        "timestamp": "2025-02-04T18:18:21Z",
-        "version": 2,
-        "changeset": 162137086,
-        "addr:city": "São Francisco do Sul",
-        "addr:street": "Estrada do Forte",
-        "alt_name": "Estratégia de Saúde da Família do Forte",
-        "amenity": "clinic",
-        "healthcare": "clinic",
-        "healthcare:speciality": "general",
-        "name": "Posto de Saúde do Forte",
-        "id": "node/11187776472"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.5341239,
-          -26.1837835
         ]
       }
     }

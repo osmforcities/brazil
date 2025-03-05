@@ -285,6 +285,72 @@
     },
     {
       "type": "Feature",
+      "id": "way/1206950256",
+      "properties": {
+        "timestamp": "2025-02-16T18:39:11Z",
+        "version": 2,
+        "changeset": 162582161,
+        "addr:housenumber": "2506",
+        "addr:street": "Rua Doutor Francisco Mascarenhas",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general;vaccination",
+        "name": "Estratégia de Saúde da Família Paulas",
+        "opening_hours": "Mo-Fr 07:30-11:30,13:00-17:00; PH off",
+        "operator": "Secretaria Municipal de Saúde",
+        "operator:type": "government",
+        "phone": "+55 47 3620 0185",
+        "ref:CNES": "47) 3620-0185",
+        "short_name": "ESF Paulas",
+        "id": "way/1206950256"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.6157325,
+              -26.2304089
+            ],
+            [
+              -48.6158063,
+              -26.2304127
+            ],
+            [
+              -48.6158042,
+              -26.2304449
+            ],
+            [
+              -48.615893,
+              -26.2304495
+            ],
+            [
+              -48.6158864,
+              -26.2305513
+            ],
+            [
+              -48.6156388,
+              -26.2305384
+            ],
+            [
+              -48.6156458,
+              -26.2304304
+            ],
+            [
+              -48.6157309,
+              -26.2304348
+            ],
+            [
+              -48.6157325,
+              -26.2304089
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1357850969",
       "properties": {
         "timestamp": "2025-02-07T19:00:38Z",
@@ -509,26 +575,6 @@
         "coordinates": [
           -48.6551948,
           -26.3354086
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/8254696953",
-      "properties": {
-        "timestamp": "2023-09-11T16:29:02Z",
-        "version": 2,
-        "changeset": 141122526,
-        "amenity": "clinic",
-        "healthcare": "clinic",
-        "name": "ESF Paulas",
-        "id": "node/8254696953"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.6157822,
-          -26.2304859
         ]
       }
     },

@@ -663,6 +663,63 @@
     },
     {
       "type": "Feature",
+      "id": "way/791045286",
+      "properties": {
+        "timestamp": "2025-02-16T13:02:38Z",
+        "version": 2,
+        "changeset": 162569880,
+        "addr:city": "Joinville",
+        "addr:housenumber": "861",
+        "addr:postcode": "89216-295",
+        "addr:street": "Rua Otto Boehm",
+        "addr:suburb": "Atiradores",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmácia Panvel",
+        "opening_hours": "Mo-Fr 08:00-22:00",
+        "phone": "+55 47 3432 9176",
+        "website": "https://www.panvel.com/panvel/nossas-lojas/SC/Joinville",
+        "id": "way/791045286"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.8590451,
+              -26.3032757
+            ],
+            [
+              -48.859153,
+              -26.3032949
+            ],
+            [
+              -48.8591379,
+              -26.3033628
+            ],
+            [
+              -48.8591699,
+              -26.3033682
+            ],
+            [
+              -48.8591506,
+              -26.3034561
+            ],
+            [
+              -48.8590107,
+              -26.3034315
+            ],
+            [
+              -48.8590451,
+              -26.3032757
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/873023101",
       "properties": {
         "timestamp": "2023-04-02T21:55:56Z",
@@ -2470,6 +2527,59 @@
         "coordinates": [
           -48.8722033,
           -26.2513346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7334756279",
+      "properties": {
+        "timestamp": "2025-02-16T13:02:38Z",
+        "version": 2,
+        "changeset": 162569880,
+        "addr:city": "Joinville",
+        "addr:housenumber": "235",
+        "addr:postcode": "89201-908",
+        "addr:street": "Rua Visconde de Taunay",
+        "addr:suburb": "Centro",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Drogaria Catarinense",
+        "opening_hours": "Mo-Sa 10:00-22:00; Su 12:00-21:00",
+        "id": "node/7334756279"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.8491583,
+          -26.303608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7395083209",
+      "properties": {
+        "timestamp": "2025-02-16T13:02:38Z",
+        "version": 2,
+        "changeset": 162569880,
+        "addr:city": "Joinville",
+        "addr:housenumber": "333",
+        "addr:postcode": "89223-005",
+        "addr:street": "Avenida Rolf Wiest",
+        "addr:suburb": "Bom Retiro",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Farmácia Panvel",
+        "phone": "+55 47 3043 9040",
+        "website": "https://www.panvel.com/panvel/nossas-lojas/SC/Joinville",
+        "id": "node/7395083209"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.8528957,
+          -26.2534943
         ]
       }
     },

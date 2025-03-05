@@ -646,18 +646,21 @@
       "type": "Feature",
       "id": "way/435842147",
       "properties": {
-        "timestamp": "2019-04-13T17:40:02Z",
-        "version": 4,
-        "changeset": 69183661,
+        "timestamp": "2025-02-15T19:31:43Z",
+        "version": 5,
+        "changeset": 162548249,
         "addr:housenumber": "355",
         "addr:postcode": "18611-785",
         "addr:street": "Avenida Francisco de Oliveira Leite",
         "addr:suburb": "Jardim Peabiru",
         "amenity": "school",
+        "building": "school",
         "contact:phone": "+55 14 3882 8909",
         "email": "e925755a@educacao.sp.gov.br",
         "name": "Escola Estadual Álvaro José de Souza",
         "operator": "Secretaria da Educação do Estado de São Paulo",
+        "operator:type": "government",
+        "operator:wikidata": "Q10369245",
         "phone": "+55 14 3882 8545",
         "ref": "35925755",
         "source": "http://www.educacao.sp.gov.br/central-de-atendimento/consulta.asp?",
@@ -668,32 +671,32 @@
         "coordinates": [
           [
             [
-              -48.4338919,
-              -22.8744492
+              -48.4333655,
+              -22.8745491
             ],
             [
-              -48.4340321,
-              -22.874895
+              -48.4334316,
+              -22.8748048
             ],
             [
-              -48.4341241,
-              -22.8753903
+              -48.4335157,
+              -22.8751441
             ],
             [
-              -48.4328093,
-              -22.8757032
+              -48.4326982,
+              -22.8753449
             ],
             [
-              -48.4327186,
-              -22.8753571
+              -48.4327001,
+              -22.8753059
             ],
             [
               -48.4325576,
               -22.8747423
             ],
             [
-              -48.4338919,
-              -22.8744492
+              -48.4333655,
+              -22.8745491
             ]
           ]
         ]
@@ -1440,6 +1443,61 @@
     },
     {
       "type": "Feature",
+      "id": "way/1360150445",
+      "properties": {
+        "timestamp": "2025-02-15T19:31:43Z",
+        "version": 1,
+        "changeset": 162548249,
+        "addr:city": "Botucatu",
+        "addr:housenumber": "sn",
+        "addr:postcode": "18611-785",
+        "addr:street": "Avenida Conde de Serra Negra",
+        "addr:suburb": "Jardim Peabiru",
+        "amenity": "school",
+        "loc_name": "Armandão",
+        "name": "Escola Estadual Dr Armando de Salles Oliveira",
+        "phone": "(14) 3882-0470",
+        "source": "http://www.educacao.sp.gov.br/cgrh/escolas/armando-de-salles-oliveira-dr/",
+        "id": "way/1360150445"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.4338693,
+              -22.874416
+            ],
+            [
+              -48.4341682,
+              -22.8753884
+            ],
+            [
+              -48.4327768,
+              -22.8757369
+            ],
+            [
+              -48.4327054,
+              -22.8753665
+            ],
+            [
+              -48.4335333,
+              -22.875152
+            ],
+            [
+              -48.4333655,
+              -22.8745491
+            ],
+            [
+              -48.4338693,
+              -22.874416
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/4331633611",
       "properties": {
         "timestamp": "2016-08-02T02:00:21Z",
@@ -1507,17 +1565,17 @@
       "type": "Feature",
       "id": "node/6402613627",
       "properties": {
-        "timestamp": "2019-04-13T17:11:14Z",
-        "version": 1,
-        "changeset": 69182740,
+        "timestamp": "2025-02-15T19:31:43Z",
+        "version": 2,
+        "changeset": 162548249,
         "entrance": "yes",
         "id": "node/6402613627"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -48.4327186,
-          -22.8753571
+          -48.4327001,
+          -22.8753059
         ]
       }
     },

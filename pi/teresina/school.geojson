@@ -20172,6 +20172,50 @@
     },
     {
       "type": "Feature",
+      "id": "way/1360979233",
+      "properties": {
+        "timestamp": "2025-02-18T19:34:25Z",
+        "version": 2,
+        "changeset": 162674631,
+        "addr:city": "Teresina",
+        "addr:housenumber": "3587",
+        "addr:postcode": "64046-480",
+        "addr:street": "Rua Telegrafista Sebastião Portela",
+        "addr:suburb": "São João",
+        "amenity": "school",
+        "name": "Colégio CEBRAPI",
+        "id": "way/1360979233"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.7679327,
+              -5.0832977
+            ],
+            [
+              -42.7679514,
+              -5.0840987
+            ],
+            [
+              -42.7669884,
+              -5.0839904
+            ],
+            [
+              -42.7669857,
+              -5.0832984
+            ],
+            [
+              -42.7679327,
+              -5.0832977
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/910039648",
       "properties": {
         "timestamp": "2021-02-23T14:39:25Z",
@@ -23998,6 +24042,31 @@
         "coordinates": [
           -42.7387401,
           -5.0939204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12599076880",
+      "properties": {
+        "timestamp": "2025-02-18T19:25:17Z",
+        "version": 2,
+        "changeset": 162674365,
+        "addr:city": "Teresina",
+        "addr:housenumber": "3587",
+        "addr:postcode": "64046-480",
+        "addr:street": "Rua Telegrafista Sebastião Portela",
+        "addr:suburb": "São João",
+        "amenity": "school",
+        "name": "Colégio CEBRAPI",
+        "wheelchair": "yes",
+        "id": "node/12599076880"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.7675761,
+          -5.0836291
         ]
       }
     }

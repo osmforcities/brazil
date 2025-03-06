@@ -52,17 +52,25 @@
       "type": "Feature",
       "id": "node/7131596608",
       "properties": {
-        "timestamp": "2020-01-14T17:00:27Z",
-        "version": 1,
-        "changeset": 79575322,
+        "timestamp": "2025-02-18T17:31:33Z",
+        "version": 2,
+        "changeset": 162670313,
+        "addr:city": "Euclides da Cunha",
+        "addr:housenumber": "1",
+        "addr:postcode": "48500-000",
+        "addr:street": "Avenida A",
+        "addr:suburb": "Nossa Senhora da Conceição",
         "amenity": "school",
+        "name": "Escola Municipal Nossa Senhora da Conceição",
+        "operator": "Município de Euclides da Cunha",
+        "operator:type": "public",
         "id": "node/7131596608"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -39.004823,
-          -10.5154091
+          -39.0047358,
+          -10.5155686
         ]
       }
     },
@@ -118,10 +126,11 @@
       "type": "Feature",
       "id": "node/12596426644",
       "properties": {
-        "timestamp": "2025-02-17T19:41:10Z",
-        "version": 1,
-        "changeset": 162631906,
+        "timestamp": "2025-02-18T13:27:46Z",
+        "version": 2,
+        "changeset": 162661420,
         "addr:city": "Euclides da Cunha",
+        "addr:housenumber": "16",
         "addr:postcode": "48500-000",
         "addr:street": "Rua Oliveira Brito",
         "addr:suburb": "Centro",
@@ -136,6 +145,130 @@
         "coordinates": [
           -39.0154589,
           -10.5089177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12598475871",
+      "properties": {
+        "timestamp": "2025-02-18T13:27:46Z",
+        "version": 1,
+        "changeset": 162661420,
+        "addr:city": "Euclides da Cunha",
+        "addr:housenumber": "101",
+        "addr:postcode": "48500-000",
+        "addr:street": "Rua Jooaquim Santana Lima",
+        "addr:suburb": "Centro",
+        "amenity": "school",
+        "name": "Educandário Oliveira Brito",
+        "operator": "Secretaria de Educação do Estado da Bahia",
+        "operator:type": "public",
+        "id": "node/12598475871"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.0178109,
+          -10.5068585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12598475877",
+      "properties": {
+        "timestamp": "2025-02-18T13:27:46Z",
+        "version": 1,
+        "changeset": 162661420,
+        "addr:city": "Euclides da Cunha",
+        "addr:postcode": "48500-000",
+        "addr:street": "Rua Pedro Monteiro Campos",
+        "amenity": "school",
+        "name": "Instituto de Educação Professora Alice Tereza dos Anjos",
+        "operator": "Município de Euclides da Cunha",
+        "operator:type": "public",
+        "id": "node/12598475877"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.0219622,
+          -10.5039532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12598475879",
+      "properties": {
+        "timestamp": "2025-02-18T13:27:46Z",
+        "version": 1,
+        "changeset": 162661420,
+        "addr:city": "Euclides da Cunha",
+        "addr:housenumber": "116",
+        "addr:postcode": "48500-000",
+        "addr:street": "Rua Pedro Monteiro Campos",
+        "addr:suburb": "Centro",
+        "amenity": "school",
+        "name": "Escola Municipal José Aras",
+        "operator": "Município de Euclides da Cunha",
+        "operator:type": "public",
+        "id": "node/12598475879"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.0175694,
+          -10.505969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12598475884",
+      "properties": {
+        "timestamp": "2025-02-18T13:27:46Z",
+        "version": 1,
+        "changeset": 162661420,
+        "addr:city": "Euclides da Cunha",
+        "addr:postcode": "48500-000",
+        "addr:street": "Avenida Pedro Celestino dos Santos",
+        "addr:suburb": "Alto Bela Vista",
+        "amenity": "school",
+        "name": "Escola Municipal Eva Moura de Oliveira",
+        "operator": "Município de Euclides da Cunha",
+        "operator:type": "public",
+        "id": "node/12598475884"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.0176362,
+          -10.5113801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12598896906",
+      "properties": {
+        "timestamp": "2025-02-18T17:31:33Z",
+        "version": 1,
+        "changeset": 162670313,
+        "addr:city": "Euclides da Cunha",
+        "addr:postcode": "48500-000",
+        "addr:street": "Avenida A",
+        "addr:suburb": "Jardim das Acácias",
+        "amenity": "school",
+        "name": "Centro Educacional Professora Durvalina Abreu De Andrade",
+        "id": "node/12598896906"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.002962,
+          -10.5181679
         ]
       }
     }

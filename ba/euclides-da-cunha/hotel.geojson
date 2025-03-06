@@ -5,10 +5,16 @@
       "type": "Feature",
       "id": "node/12595682570",
       "properties": {
-        "timestamp": "2025-02-17T12:55:08Z",
-        "version": 1,
-        "changeset": 162610927,
+        "timestamp": "2025-02-18T13:27:46Z",
+        "version": 2,
+        "changeset": 162661420,
+        "addr:city": "Euclides da Cunha",
+        "addr:housenumber": "1889",
+        "addr:postcode": "48500-000",
+        "addr:street": "Avenida José Renato Campos",
+        "addr:suburb": "Jeremias",
         "name": "Hotel Bastos",
+        "operator": "Rb Hotel Limitada",
         "tourism": "hotel",
         "id": "node/12595682570"
       },
@@ -24,9 +30,12 @@
       "type": "Feature",
       "id": "node/12596426639",
       "properties": {
-        "timestamp": "2025-02-17T19:41:10Z",
-        "version": 1,
-        "changeset": 162631906,
+        "timestamp": "2025-02-18T13:27:46Z",
+        "version": 2,
+        "changeset": 162661420,
+        "addr:city": "Euclides da Cunha",
+        "addr:street": "Rodovia Santos Dumont",
+        "addr:suburb": "Pau Miúdo",
         "name": "Hotel Caminhos do Sertão",
         "tourism": "hotel",
         "id": "node/12596426639"
@@ -36,6 +45,25 @@
         "coordinates": [
           -39.0143946,
           -10.4965492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12598475870",
+      "properties": {
+        "timestamp": "2025-02-18T13:27:46Z",
+        "version": 1,
+        "changeset": 162661420,
+        "name": "Hotel Alvorada",
+        "tourism": "hotel",
+        "id": "node/12598475870"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.0104411,
+          -10.5042511
         ]
       }
     }

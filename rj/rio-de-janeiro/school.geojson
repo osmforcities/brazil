@@ -21712,9 +21712,9 @@
       "type": "Feature",
       "id": "way/674959753",
       "properties": {
-        "timestamp": "2024-09-30T00:11:48Z",
-        "version": 8,
-        "changeset": 157274524,
+        "timestamp": "2025-02-18T09:55:25Z",
+        "version": 9,
+        "changeset": 162653076,
         "addr:city": "Rio de Janeiro",
         "addr:housenumber": "416",
         "addr:street": "Rua José Higino",
@@ -21733,28 +21733,16 @@
         "coordinates": [
           [
             [
-              -43.2375962,
-              -22.9335818
+              -43.2364058,
+              -22.9340947
             ],
             [
-              -43.2376174,
-              -22.933594
+              -43.2365426,
+              -22.9345284
             ],
             [
-              -43.2376408,
-              -22.9336073
-            ],
-            [
-              -43.2374411,
-              -22.9338722
-            ],
-            [
-              -43.2371155,
-              -22.9344096
-            ],
-            [
-              -43.2367334,
-              -22.9349154
+              -43.2368606,
+              -22.9347612
             ],
             [
               -43.236267,
@@ -21973,12 +21961,12 @@
               -22.9326291
             ],
             [
-              -43.2374031,
-              -22.9338098
+              -43.2368649,
+              -22.9334455
             ],
             [
-              -43.2375962,
-              -22.9335818
+              -43.2364058,
+              -22.9340947
             ]
           ]
         ]
@@ -58188,24 +58176,20 @@
       "type": "Feature",
       "id": "node/823948630",
       "properties": {
-        "timestamp": "2014-01-10T22:02:54Z",
-        "version": 3,
-        "changeset": 19925984,
-        "IPP:BAIRRO": "Jardim Botânico",
-        "IPP:CHAVE": "10830",
-        "IPP:CODATIVIDA": "0",
-        "IPP:CODBAIRRO": "028",
-        "IPP:COD_INEP": "33065810",
-        "IPP:COD_SMA": "010830",
-        "IPP:CRE": "02",
-        "IPP:DESIGNACAO": "0206011",
-        "IPP:ENDERECO": "Rua Jardim Botânico, 563 - Fundos",
-        "IPP:ENDNOVO": "http://webapp.sme.rio.rj.gov.br/jcartela/publico/pesquisa.do?idSetor=10830&cmd=load",
-        "IPP:FLG_VALIDA": "S",
-        "IPP:TELEFONES": "2294-6149",
+        "timestamp": "2025-02-18T10:32:37Z",
+        "version": 4,
+        "changeset": 162654566,
+        "addr:city": "Rio de Janeiro",
+        "addr:housenumber": "563",
+        "addr:street": "Rua Jardim Botânico",
+        "addr:suburb": "Jardim Botânico",
         "amenity": "school",
         "name": "Escola Municipal Shakespeare",
+        "operator": "Prefeitura do Rio",
+        "operator:type": "government",
+        "phone": "+55 21 2294-6149",
         "source": "IPP",
+        "website": "http://webapp.sme.rio.rj.gov.br/jcartela/publico/pesquisa.do?idSetor=10830&cmd=load",
         "id": "node/823948630"
       },
       "geometry": {
@@ -65927,9 +65911,9 @@
       "type": "Feature",
       "id": "node/823951334",
       "properties": {
-        "timestamp": "2014-01-25T00:53:30Z",
-        "version": 2,
-        "changeset": 20186962,
+        "timestamp": "2025-02-18T04:10:29Z",
+        "version": 3,
+        "changeset": 162643896,
         "IPP:BAIRRO": "Tijuca",
         "IPP:CHAVE": "10848",
         "IPP:CODATIVIDA": "0",
@@ -65943,6 +65927,7 @@
         "IPP:FLG_VALIDA": "S",
         "IPP:TELEFONES": "2567-0976",
         "amenity": "school",
+        "check_date": "2025-02-16",
         "name": "Escola Municipal Francisco Cabrita",
         "source": "IPP",
         "id": "node/823951334"
@@ -71814,11 +71799,20 @@
       "type": "Feature",
       "id": "node/2563050862",
       "properties": {
-        "timestamp": "2013-12-03T16:16:31Z",
-        "version": 1,
-        "changeset": 19254527,
+        "timestamp": "2025-02-18T10:32:37Z",
+        "version": 2,
+        "changeset": 162654566,
+        "addr:city": "Rio de Janeiro",
+        "addr:housenumber": "564",
+        "addr:postcode": "22470-050",
+        "addr:street": "Rua Jardim Botânico",
+        "addr:suburb": "Jardim Botânico",
         "amenity": "school",
         "name": "Colégio Estadual Ignácio Azevedo do Amaral",
+        "operator": "Governo do Estado do Rio de Janeiro",
+        "operator:type": "government",
+        "operator:wikidata": "Q48855361",
+        "phone": "+55 21 2334-6761",
         "id": "node/2563050862"
       },
       "geometry": {
@@ -75587,24 +75581,6 @@
         "coordinates": [
           -43.234572,
           -22.9315444
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/7490891574",
-      "properties": {
-        "timestamp": "2020-05-07T02:28:31Z",
-        "version": 1,
-        "changeset": 84794696,
-        "barrier": "gate",
-        "id": "node/7490891574"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.2376174,
-          -22.933594
         ]
       }
     },

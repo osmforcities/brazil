@@ -223,6 +223,63 @@
     },
     {
       "type": "Feature",
+      "id": "way/1360687367",
+      "properties": {
+        "timestamp": "2025-02-17T17:33:42Z",
+        "version": 1,
+        "changeset": 162625136,
+        "addr:city": "Salvador",
+        "addr:housenumber": "240",
+        "addr:postcode": "40110-170",
+        "addr:street": "Rua Padre Feijó",
+        "addr:suburb": "Canela",
+        "alt_name": "Serviço Médico Universitário Prof. Rubens Brasil, M.D. | SMURB | HUPES | UFBA | SUS",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general;community;internal",
+        "loc_name": "Serviço Médico Universitário Prof. Rubens Brasil, M.D. | SMURB | HUPES | UFBA | SUS",
+        "name": "Serviço Médico Universitário Prof. Rubens Brasil, M.D. | SMURB | HUPES | UFBA | SUS",
+        "nat_name": "Serviço Médico Universitário Prof. Rubens Brasil, M.D. | SMURB | HUPES | UFBA | SUS",
+        "official_name": "Serviço Médico Universitário Prof. Rubens Brasil, M.D. | SMURB | HUPES | UFBA | SUS",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "operator": "Universidade Federal Da Bahia | UFBA",
+        "operator:type": "university",
+        "reg_name": "Serviço Médico Universitário Prof. Rubens Brasil, M.D. | SMURB | HUPES | UFBA | SUS",
+        "short_name": "Serviço Médico Universitário Prof. Rubens Brasil, M.D. | SMURB | HUPES | UFBA | SUS",
+        "website": "http://www.smurb.ufba.br/",
+        "id": "way/1360687367"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.5187682,
+              -12.9943261
+            ],
+            [
+              -38.518701,
+              -12.9943652
+            ],
+            [
+              -38.5186453,
+              -12.9942743
+            ],
+            [
+              -38.5187125,
+              -12.9942352
+            ],
+            [
+              -38.5187682,
+              -12.9943261
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/4013135971",
       "properties": {
         "timestamp": "2016-02-18T18:04:26Z",
@@ -386,6 +443,45 @@
         "coordinates": [
           -38.4769935,
           -12.9793842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12596223713",
+      "properties": {
+        "timestamp": "2025-02-17T17:33:42Z",
+        "version": 1,
+        "changeset": 162625136,
+        "addr:city": "Salvador",
+        "addr:housenumber": "240",
+        "addr:postcode": "40110-170",
+        "addr:street": "Rua Padre Feijó",
+        "addr:suburb": "Canela",
+        "alt_name": "Serviço Médico Universitário Prof. Rubens Brasil, M.D. | SMURB | HUPES | UFBA | SUS",
+        "amenity": "social_facility",
+        "level": "2",
+        "loc_name": "Serviço Médico Universitário Prof. Rubens Brasil, M.D. | SMURB | HUPES | UFBA | SUS",
+        "mobile": "+55 71 9 8142-0890.",
+        "name": "Serviço Médico Universitário Prof. Rubens Brasil, M.D. | SMURB | HUPES | UFBA | SUS",
+        "nat_name": "Serviço Médico Universitário Prof. Rubens Brasil, M.D. | SMURB | HUPES | UFBA | SUS",
+        "official_name": "Serviço Médico Universitário Prof. Rubens Brasil, M.D. | SMURB | HUPES | UFBA | SUS",
+        "opening_hours": "Mo-Fr 07:00-16:30",
+        "operator": "Universidade Federal Da Bahia | UFBA",
+        "operator:type": "university",
+        "reg_name": "Serviço Médico Universitário Prof. Rubens Brasil, M.D. | SMURB | HUPES | UFBA | SUS",
+        "short_name": "Serviço Médico Universitário Prof. Rubens Brasil, M.D. | SMURB | HUPES | UFBA | SUS",
+        "social_facility": "ambulatory_care",
+        "social_facility:for": "diseased",
+        "website": "http://www.smurb.ufba.br/",
+        "wheelchair": "limited",
+        "id": "node/12596223713"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5187082,
+          -12.9943067
         ]
       }
     }

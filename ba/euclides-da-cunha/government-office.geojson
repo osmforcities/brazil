@@ -3,42 +3,180 @@
   "features": [
     {
       "type": "Feature",
-      "id": "way/1023091070",
+      "id": "way/1360656836",
       "properties": {
-        "timestamp": "2022-01-21T00:51:05Z",
-        "version": 1,
-        "changeset": 116407857,
-        "building": "yes",
-        "government": "prosecutor",
-        "name": "Promotoria Regional de Justiça de Euclides da Cunha",
+        "timestamp": "2025-02-17T19:41:10Z",
+        "version": 2,
+        "changeset": 162631906,
+        "addr:city": "Euclides da Cunha",
+        "addr:housenumber": "50",
+        "addr:postcode": "48500-000",
+        "addr:street": "Avenida Renato Campos",
+        "addr:suburb": "Pau Miúdo",
+        "government": "transportation",
+        "name": "Unidade Regional do Dnit em Euclides da Cunha",
         "office": "government",
-        "id": "way/1023091070"
+        "operator": "Departamento Nacional de Infraestrutura de Transportes - Dnit",
+        "phone": "+55 71 3646 3396",
+        "id": "way/1360656836"
       },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              -39.0092927,
-              -10.5031801
+              -39.0134641,
+              -10.4991852
             ],
             [
-              -39.0097137,
-              -10.5033369
+              -39.0130756,
+              -10.4990806
             ],
             [
-              -39.0095887,
-              -10.5036493
+              -39.0132107,
+              -10.4987018
             ],
             [
-              -39.0091651,
-              -10.5035
+              -39.0135876,
+              -10.4988409
             ],
             [
-              -39.0092927,
-              -10.5031801
+              -39.0134641,
+              -10.4991852
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12595682528",
+      "properties": {
+        "timestamp": "2025-02-17T12:55:08Z",
+        "version": 1,
+        "changeset": 162610927,
+        "addr:city": "Euclides da Cunha",
+        "addr:postcode": "48500-000",
+        "addr:street": "Rua Desembargador Aloísio Batista",
+        "addr:suburb": "Jeremias",
+        "email": "saude@euclidesdacunha.ba.gov.br",
+        "government": "healthcare",
+        "name": "Secretaria Municipal de Saúde",
+        "office": "government",
+        "phone": "+55 75 3271 1803",
+        "id": "node/12595682528"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.0095727,
+          -10.5031219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12595682550",
+      "properties": {
+        "timestamp": "2025-02-17T12:55:08Z",
+        "version": 1,
+        "changeset": 162610927,
+        "addr:city": "Euclides da Cunha",
+        "addr:postcode": "48500-000",
+        "addr:street": "Rua Desembargador Aloísio Batista de Carvalho",
+        "addr:suburb": "Jeremias",
+        "government": "tax",
+        "name": "Unidades de Atendimento ao Contribuinte de Euclides da Cunha",
+        "office": "government",
+        "operator": "Receita Federal do Brasil",
+        "operator:wikidata": "Q10369254",
+        "phone": "+55 7 3271 1196",
+        "id": "node/12595682550"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.0086599,
+          -10.5028096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12595682567",
+      "properties": {
+        "timestamp": "2025-02-17T12:55:08Z",
+        "version": 1,
+        "changeset": 162610927,
+        "addr:city": "Euclides da Cunha",
+        "addr:postcode": "48500-000",
+        "addr:street": "Rua José Lourenço Pinheiro",
+        "addr:suburb": "Jeremias",
+        "government": "social_security",
+        "name": "Agência da Previdência Social em Euclides da Cunha",
+        "office": "government",
+        "operator": "Instituto Nacional do Seguro Social",
+        "operator:short": "INSS",
+        "operator:wikidata": "Q10302614",
+        "id": "node/12595682567"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.0108334,
+          -10.5021853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12595682568",
+      "properties": {
+        "timestamp": "2025-02-17T14:42:45Z",
+        "version": 2,
+        "changeset": 162616206,
+        "addr:city": "Euclides da Cunha",
+        "addr:postcode": "48500-000",
+        "addr:street": "Rua da Prefeitura",
+        "addr:suburb": "Jeremias",
+        "email": "euclidesdacunha@mpba.mp.br",
+        "government": "prosecutor",
+        "name": "Promotoria Regional de Justiça em Euclides da Cunha",
+        "office": "government",
+        "opening_hours": "Mo-Fr 12:00-18:00",
+        "operator": "Ministério Público do Estado da Bahia",
+        "phone": "+55 75 3271 2173;+55 75 3271 4106",
+        "id": "node/12595682568"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.0087855,
+          -10.5017002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12595682569",
+      "properties": {
+        "timestamp": "2025-02-17T14:42:45Z",
+        "version": 2,
+        "changeset": 162616206,
+        "addr:city": "Euclides da Cunha",
+        "addr:postcode": "48500-000",
+        "addr:street": "Rua José Lourenço Pinheiro",
+        "addr:suburb": "Jeremias",
+        "government": "transportation",
+        "name": "14ª Ciretran em Euclides Cunha",
+        "office": "government",
+        "id": "node/12595682569"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.0103197,
+          -10.5013812
         ]
       }
     }

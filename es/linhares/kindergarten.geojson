@@ -1021,6 +1021,45 @@
     },
     {
       "type": "Feature",
+      "id": "way/1360756776",
+      "properties": {
+        "timestamp": "2025-02-17T22:57:34Z",
+        "version": 1,
+        "changeset": 162638767,
+        "amenity": "kindergarten",
+        "name": "CEIM Manoel Farias de Souza",
+        "id": "way/1360756776"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.0645107,
+              -19.381107
+            ],
+            [
+              -40.0645526,
+              -19.3814964
+            ],
+            [
+              -40.0642955,
+              -19.381521
+            ],
+            [
+              -40.0642536,
+              -19.3811316
+            ],
+            [
+              -40.0645107,
+              -19.381107
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/3726948105",
       "properties": {
         "timestamp": "2015-09-03T03:17:48Z",
@@ -1215,34 +1254,6 @@
         "coordinates": [
           -40.1161003,
           -19.4746074
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/3726948117",
-      "properties": {
-        "timestamp": "2015-09-03T03:17:50Z",
-        "version": 1,
-        "changeset": 33764328,
-        "addr:city": "Linhares",
-        "addr:place": "BNH",
-        "addr:postcode": "29902-060",
-        "addr:street": "Avenida Governador Dias Lopes",
-        "alt_name": "Centro de Educação Infantil Municipal",
-        "amenity": "kindergarten",
-        "classeCnae": "Infantil",
-        "contact:phone": "(27) 3373-1590",
-        "name": "CEIM Manoel Farias de Souza",
-        "short_name": "CEIM",
-        "source": "IJSN",
-        "id": "node/3726948117"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -40.0643933,
-          -19.3812332
         ]
       }
     },

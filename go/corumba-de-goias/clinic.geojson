@@ -109,6 +109,59 @@
     },
     {
       "type": "Feature",
+      "id": "way/1010739294",
+      "properties": {
+        "timestamp": "2025-02-17T16:58:18Z",
+        "version": 3,
+        "changeset": 162622939,
+        "addr:city": "Corumbá de Goiás",
+        "addr:postcode": "72960-000",
+        "addr:street": "Rua Praça Major João Mendes",
+        "addr:suburb": "Centro",
+        "amenity": "clinic",
+        "building": "yes",
+        "contact:mobile": "+55 62 98412 1128",
+        "contact:whatsapp": "https://wa.me/5562984121128",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general;dentistry",
+        "name": "Integrar Life: Odontologia e Medicina",
+        "operator": "P S SILVA CONSULTORIOS INTEGRADOS LTDA",
+        "operator:type": "private",
+        "owner": "Paulo dos Santos da Silva;Andréia Cassia da Silva",
+        "phone": "+55 62 3338 1128;+55 62 3338 1904",
+        "ref:vatin": "BR28695167000133(CNPJ)",
+        "id": "way/1010739294"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.809894,
+              -15.92598
+            ],
+            [
+              -48.8098347,
+              -15.9260678
+            ],
+            [
+              -48.8097952,
+              -15.9260432
+            ],
+            [
+              -48.8098545,
+              -15.9259553
+            ],
+            [
+              -48.809894,
+              -15.92598
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1013620655",
       "properties": {
         "timestamp": "2021-12-20T02:53:10Z",
@@ -142,57 +195,6 @@
             [
               -48.503077,
               -15.8802945
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1186080124",
-      "properties": {
-        "timestamp": "2024-11-23T16:16:23Z",
-        "version": 3,
-        "changeset": 159506403,
-        "addr:city": "Corumbá de Goiás",
-        "addr:postcode": "72960-000",
-        "addr:street": "Avenida Brasília",
-        "addr:suburb": "9 de Julho",
-        "amenity": "clinic",
-        "building": "yes",
-        "contact:mobile": "+55 62 99976 1926",
-        "email": "administracao@corumbadegoias.go.gov.br",
-        "healthcare": "centre",
-        "name": "Secretaria Municipal de Saúde",
-        "opening_hours": "Mo-Fr 07:00-11:00, 13:00-16:00",
-        "operator": "Prefeitura de Corumbá de Goiás",
-        "phone": "+55 62 3338 1939",
-        "website": "https://corumbadegoias.go.gov.br/estrutura-organizacional/?id=5",
-        "id": "way/1186080124"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -48.8050677,
-              -15.9193234
-            ],
-            [
-              -48.8049637,
-              -15.9194673
-            ],
-            [
-              -48.8048681,
-              -15.9194233
-            ],
-            [
-              -48.8049471,
-              -15.9192754
-            ],
-            [
-              -48.8050677,
-              -15.9193234
             ]
           ]
         ]
@@ -359,6 +361,36 @@
         "coordinates": [
           -48.8057543,
           -15.9272505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12596382028",
+      "properties": {
+        "timestamp": "2025-02-17T19:02:36Z",
+        "version": 1,
+        "changeset": 162630072,
+        "addr:city": "Corumbá de Goiás",
+        "addr:postcode": "72960-000",
+        "addr:street": "Avenida Brasília",
+        "addr:suburb": "9 de Julho",
+        "amenity": "clinic",
+        "contact:mobile": "+55 62 99976 1926",
+        "email": "administracao@corumbadegoias.go.gov.br",
+        "healthcare": "centre",
+        "name": "Secretaria Municipal de Saúde",
+        "opening_hours": "Mo-Fr 07:00-11:00, 13:00-16:00",
+        "operator": "Prefeitura de Corumbá de Goiás",
+        "phone": "+55 62 3338 1939",
+        "website": "https://corumbadegoias.go.gov.br/estrutura-organizacional/?id=5",
+        "id": "node/12596382028"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.8049402,
+          -15.9193783
         ]
       }
     }

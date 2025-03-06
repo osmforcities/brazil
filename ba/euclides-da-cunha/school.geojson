@@ -3,6 +3,53 @@
   "features": [
     {
       "type": "Feature",
+      "id": "way/1360632037",
+      "properties": {
+        "timestamp": "2025-02-17T12:55:08Z",
+        "version": 1,
+        "changeset": 162610927,
+        "addr:city": "Euclides da Cunha",
+        "addr:housenumber": "253",
+        "addr:postcode": "48500-000",
+        "addr:street": "Rua Teago Ferreira de Carvalho",
+        "addr:suburb": "Centro",
+        "amenity": "school",
+        "name": "Colégio Modelo Joaquim Silva Dantas",
+        "operator": "Secretaria de Educação do Estado da Bahia",
+        "operator:type": "public",
+        "phone": "+55 75 99934 0059",
+        "id": "way/1360632037"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -39.0137205,
+              -10.503022
+            ],
+            [
+              -39.0134821,
+              -10.5035976
+            ],
+            [
+              -39.0130606,
+              -10.5034385
+            ],
+            [
+              -39.0132948,
+              -10.5028545
+            ],
+            [
+              -39.0137205,
+              -10.503022
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/7131596608",
       "properties": {
         "timestamp": "2020-01-14T17:00:27Z",
@@ -38,6 +85,57 @@
         "coordinates": [
           -38.9253349,
           -10.3091717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12595682523",
+      "properties": {
+        "timestamp": "2025-02-17T12:55:08Z",
+        "version": 1,
+        "changeset": 162610927,
+        "addr:city": "Euclides da Cunha",
+        "addr:postcode": "48500-000",
+        "addr:street": "Rua Desembargador Aloísio Batista",
+        "addr:suburb": "Jeremias",
+        "amenity": "school",
+        "name": "Escola Municipal Professora Erotildes Siqueira",
+        "operator": "Município de Euclides da Cunha",
+        "operator:type": "public",
+        "phone": "+55 75 99854 9669",
+        "id": "node/12595682523"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.0099972,
+          -10.5034803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12596426644",
+      "properties": {
+        "timestamp": "2025-02-17T19:41:10Z",
+        "version": 1,
+        "changeset": 162631906,
+        "addr:city": "Euclides da Cunha",
+        "addr:postcode": "48500-000",
+        "addr:street": "Rua Oliveira Brito",
+        "addr:suburb": "Centro",
+        "amenity": "school",
+        "name": "Escola Municipal Duque de Caxias",
+        "operator": "Município de Euclides da Cunha",
+        "operator:type": "public",
+        "id": "node/12596426644"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.0154589,
+          -10.5089177
         ]
       }
     }

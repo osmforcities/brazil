@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1359048708",
+      "properties": {
+        "timestamp": "2025-02-19T10:12:33Z",
+        "version": 2,
+        "changeset": 162693977,
+        "amenity": "restaurant",
+        "building": "yes",
+        "leisure": "pitch",
+        "name": "ARENA CENTER",
+        "sport": "futsal",
+        "id": "way/1359048708"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -50.8140771,
+              -1.9380871
+            ],
+            [
+              -50.8141576,
+              -1.9381244
+            ],
+            [
+              -50.8140416,
+              -1.938377
+            ],
+            [
+              -50.8139611,
+              -1.938345
+            ],
+            [
+              -50.8140771,
+              -1.9380871
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12600343184",
+      "properties": {
+        "timestamp": "2025-02-19T10:12:33Z",
+        "version": 1,
+        "changeset": 162693977,
+        "leisure": "pitch",
+        "name": "Arena Prime",
+        "sport": "futsal",
+        "id": "node/12600343184"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.821886,
+          -1.938608
+        ]
+      }
+    }
+  ]
+}

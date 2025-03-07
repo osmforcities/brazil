@@ -3543,16 +3543,15 @@
       "type": "Feature",
       "id": "way/1355475947",
       "properties": {
-        "timestamp": "2025-01-30T20:27:34Z",
-        "version": 1,
-        "changeset": 161953583,
+        "timestamp": "2025-02-19T23:35:21Z",
+        "version": 2,
+        "changeset": 162720490,
         "addr:city": "Cariacica",
         "addr:housenumber": "459",
         "addr:postcode": "29146-520",
         "addr:street": "Avenida Alice Coutinho Santos",
         "addr:suburb": "Campo Grande",
         "amenity": "school",
-        "building": "school",
         "denomination": "protestant",
         "name": "Colégio Adventista",
         "operator": "Rede Adventista de Educação",
@@ -3575,6 +3574,10 @@
             [
               -40.377429,
               -20.3407818
+            ],
+            [
+              -40.3769903,
+              -20.3406679
             ],
             [
               -40.3769588,
@@ -4381,15 +4384,16 @@
       "type": "Feature",
       "id": "way/1361005955",
       "properties": {
-        "timestamp": "2025-02-18T21:23:32Z",
-        "version": 1,
-        "changeset": 162677867,
+        "timestamp": "2025-02-19T22:34:42Z",
+        "version": 2,
+        "changeset": 162719420,
         "addr:city": "Cariacica",
         "addr:housenumber": "31",
         "addr:postcode": "29146-070",
         "addr:street": "Avenida Getúlio Vargas",
         "addr:suburb": "Campo Grande",
         "amenity": "school",
+        "mobile": "27995816972",
         "name": "Centro Educacional Passaredo",
         "id": "way/1361005955"
       },
@@ -4448,6 +4452,77 @@
             [
               -40.3903983,
               -20.3400434
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1361276699",
+      "properties": {
+        "timestamp": "2025-02-19T22:34:42Z",
+        "version": 1,
+        "changeset": 162719420,
+        "addr:city": "Cariacica",
+        "addr:housenumber": "33",
+        "addr:postcode": "29146-050",
+        "addr:street": "Rua Padre José Carlos",
+        "addr:suburb": "Campo Grande",
+        "amenity": "school",
+        "name": "Centro de Educação Infantil Brilho de Sol",
+        "phone": "2731273168",
+        "religion": "christian",
+        "website": "https://www.instagram.com/brilhodesol.oficial/",
+        "id": "way/1361276699"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.3919108,
+              -20.3415937
+            ],
+            [
+              -40.3919723,
+              -20.3415231
+            ],
+            [
+              -40.3919869,
+              -20.3415064
+            ],
+            [
+              -40.3920101,
+              -20.3414798
+            ],
+            [
+              -40.3920244,
+              -20.3414633
+            ],
+            [
+              -40.3920508,
+              -20.3414331
+            ],
+            [
+              -40.3922378,
+              -20.3415765
+            ],
+            [
+              -40.3921609,
+              -20.3416647
+            ],
+            [
+              -40.3920978,
+              -20.3417371
+            ],
+            [
+              -40.3919983,
+              -20.3416607
+            ],
+            [
+              -40.3919108,
+              -20.3415937
             ]
           ]
         ]
@@ -4659,36 +4734,6 @@
         "coordinates": [
           -40.3953222,
           -20.3318798
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/3460744545",
-      "properties": {
-        "timestamp": "2019-07-11T17:33:19Z",
-        "version": 3,
-        "changeset": 72146221,
-        "IJSN:administra": "Privada",
-        "IJSN:classeCnae": "Infantil e Fundamental",
-        "addr:city": "Cariacica",
-        "addr:country": "BR",
-        "addr:housenumber": "3",
-        "addr:place": "Campo Grande",
-        "addr:postcode": "29146-420",
-        "addr:state": "ES",
-        "addr:street": "Rua Belarmino Freire",
-        "alt_name": "Centro Educacional",
-        "amenity": "school",
-        "contact:phone": "+55 27 3226-1657",
-        "name": "CE Vinicius de Moraes",
-        "id": "node/3460744545"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -40.3883565,
-          -20.3442138
         ]
       }
     },
@@ -5060,36 +5105,6 @@
         "coordinates": [
           -40.3833158,
           -20.3549158
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/3460745634",
-      "properties": {
-        "timestamp": "2019-07-11T17:33:19Z",
-        "version": 3,
-        "changeset": 72146221,
-        "IJSN:administra": "Estadual",
-        "IJSN:classeCnae": "Fundamental",
-        "addr:city": "Cariacica",
-        "addr:country": "BR",
-        "addr:housenumber": "170",
-        "addr:place": "Antônio Ferreira Borges",
-        "addr:postcode": "29157-856",
-        "addr:state": "ES",
-        "addr:street": "Rua Principal",
-        "alt_name": "Escola Estadual de Ensino Fundamental",
-        "amenity": "school",
-        "contact:phone": "+55 27 3254-1300;+55 27 32542543",
-        "name": "EEEF Welliington Ferreira Broges",
-        "id": "node/3460745634"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -40.4299919,
-          -20.2678688
         ]
       }
     },
@@ -6299,35 +6314,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/3460746402",
-      "properties": {
-        "timestamp": "2019-07-11T17:33:19Z",
-        "version": 3,
-        "changeset": 72146221,
-        "IJSN:administra": "Municipal",
-        "IJSN:classeCnae": "Fundamental",
-        "addr:city": "Cariacica",
-        "addr:country": "BR",
-        "addr:place": "São João Batista",
-        "addr:postcode": "29156-208",
-        "addr:state": "ES",
-        "addr:street": "Praça Olivino Rocha",
-        "alt_name": "Escola Municipal de Ensino Fundamental",
-        "amenity": "school",
-        "contact:phone": "+55 27 3254-2262;+55 27 3254-1031",
-        "name": "EMEF Olivino Rocha",
-        "id": "node/3460746402"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -40.4120794,
-          -20.273751
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/3460746403",
       "properties": {
         "timestamp": "2019-07-11T17:33:19Z",
@@ -7204,6 +7190,42 @@
         "coordinates": [
           -40.3918831,
           -20.3307941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12602046924",
+      "properties": {
+        "timestamp": "2025-02-19T22:34:42Z",
+        "version": 1,
+        "changeset": 162719420,
+        "barrier": "gate",
+        "id": "node/12602046924"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.3920244,
+          -20.3414633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12602046925",
+      "properties": {
+        "timestamp": "2025-02-19T22:34:42Z",
+        "version": 1,
+        "changeset": 162719420,
+        "barrier": "gate",
+        "id": "node/12602046925"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.3919869,
+          -20.3415064
         ]
       }
     }

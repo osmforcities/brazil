@@ -58,11 +58,11 @@
       "type": "Feature",
       "id": "node/12596052340",
       "properties": {
-        "timestamp": "2025-02-17T16:41:02Z",
-        "version": 2,
-        "changeset": 162621827,
+        "timestamp": "2025-02-19T10:19:05Z",
+        "version": 3,
+        "changeset": 162694238,
         "amenity": "clinic",
-        "healthcare": "clinic",
+        "healthcare": "centre",
         "name": "UBS Tijuaca",
         "operator": "Sistema Único de Saúde",
         "operator:short": "SUS",
@@ -82,11 +82,11 @@
       "type": "Feature",
       "id": "node/12596131665",
       "properties": {
-        "timestamp": "2025-02-17T16:41:02Z",
-        "version": 1,
-        "changeset": 162621827,
+        "timestamp": "2025-02-19T10:19:05Z",
+        "version": 2,
+        "changeset": 162694238,
         "amenity": "clinic",
-        "healthcare": "clinic",
+        "healthcare": "centre",
         "name": "Centro De Referencia Da Zona Rural",
         "operator": "Sistema Único de Saúde",
         "operator:short": "SUS",
@@ -106,11 +106,11 @@
       "type": "Feature",
       "id": "node/12596131666",
       "properties": {
-        "timestamp": "2025-02-17T16:41:02Z",
-        "version": 1,
-        "changeset": 162621827,
+        "timestamp": "2025-02-19T10:19:05Z",
+        "version": 2,
+        "changeset": 162694238,
         "amenity": "clinic",
-        "healthcare": "clinic",
+        "healthcare": "centre",
         "name": "Unidade Saude Da Familia Do Bosque",
         "operator": "Sistema Único de Saúde",
         "operator:short": "SUS",
@@ -154,11 +154,11 @@
       "type": "Feature",
       "id": "node/12596131668",
       "properties": {
-        "timestamp": "2025-02-17T16:41:02Z",
-        "version": 1,
-        "changeset": 162621827,
+        "timestamp": "2025-02-19T10:19:05Z",
+        "version": 2,
+        "changeset": 162694238,
         "amenity": "clinic",
-        "healthcare": "clinic",
+        "healthcare": "centre",
         "name": "Unidade Saude Da Familia Amacol",
         "operator": "Sistema Único de Saúde",
         "operator:short": "SUS",
@@ -195,6 +195,148 @@
         "coordinates": [
           -50.8185752,
           -1.9413217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12600343187",
+      "properties": {
+        "timestamp": "2025-02-19T10:12:33Z",
+        "version": 1,
+        "changeset": 162693977,
+        "amenity": "clinic",
+        "healthcare": "centre",
+        "name": "UBSF Perola do Marajo",
+        "operator": "Sistema Único de Saúde",
+        "operator:short": "SUS",
+        "operator:type": "public",
+        "operator:wikidata": "Q7531056",
+        "id": "node/12600343187"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.8222586,
+          -1.9407241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12600343188",
+      "properties": {
+        "timestamp": "2025-02-19T10:12:33Z",
+        "version": 1,
+        "changeset": 162693977,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Posto De Saude Abc",
+        "operator": "Sistema Único de Saúde",
+        "operator:short": "SUS",
+        "operator:type": "public",
+        "operator:wikidata": "Q7531056",
+        "id": "node/12600343188"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.8221146,
+          -1.941945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12600351539",
+      "properties": {
+        "timestamp": "2025-02-19T10:19:05Z",
+        "version": 2,
+        "changeset": 162694238,
+        "amenity": "clinic",
+        "healthcare": "centre",
+        "name": "Unidade Saude Da Familia Cidade Nova",
+        "operator": "Sistema Único de Saúde",
+        "operator:short": "SUS",
+        "operator:type": "public",
+        "operator:wikidata": "Q7531056",
+        "id": "node/12600351539"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.8133736,
+          -1.9440748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12600351540",
+      "properties": {
+        "timestamp": "2025-02-19T10:19:05Z",
+        "version": 2,
+        "changeset": 162694238,
+        "amenity": "clinic",
+        "healthcare": "centre",
+        "name": "Unidade Saude Da Familia Castanheira",
+        "operator": "Sistema Único de Saúde",
+        "operator:short": "SUS",
+        "operator:type": "public",
+        "operator:wikidata": "Q7531056",
+        "id": "node/12600351540"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.8086665,
+          -1.9433916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12600359454",
+      "properties": {
+        "timestamp": "2025-02-19T10:19:05Z",
+        "version": 1,
+        "changeset": 162694238,
+        "amenity": "clinic",
+        "healthcare": "centre",
+        "name": "Unidade Basica De Saude Portelinha",
+        "operator": "Sistema Único de Saúde",
+        "operator:short": "SUS",
+        "operator:type": "public",
+        "operator:wikidata": "Q7531056",
+        "id": "node/12600359454"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.8112481,
+          -1.9538549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12600359455",
+      "properties": {
+        "timestamp": "2025-02-19T10:19:05Z",
+        "version": 1,
+        "changeset": 162694238,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Polo Academia Da Saude Portelinha",
+        "operator": "Private",
+        "operator:type": "private",
+        "id": "node/12600359455"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.8116407,
+          -1.9537778
         ]
       }
     }

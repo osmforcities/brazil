@@ -81,27 +81,23 @@
       "type": "Feature",
       "id": "relation/4430810",
       "properties": {
-        "timestamp": "2016-07-16T20:27:48Z",
-        "version": 2,
-        "changeset": 40787212,
-        "IPP:BAIRRO": "Jacarepaguá",
-        "IPP:CHAVE": "18969",
-        "IPP:CODATIVIDA": "0",
-        "IPP:CODBAIRRO": "115",
-        "IPP:COD_INEP": "33146268",
-        "IPP:COD_SMA": "018969",
-        "IPP:CRE": "07",
-        "IPP:DESIGNACAO": "0716073",
-        "IPP:ENDERECO": "Rua A,Quadra B, Pal 39.024, Condomínio Rio 2",
-        "IPP:ENDNOVO": "http://webapp.sme.rio.rj.gov.br/jcartela/publico/pesquisa.do?idSetor=18969&cmd=load",
-        "IPP:FLG_VALIDA": "N",
-        "IPP:OBS": "O Rio2 está à esquerda, quase em frente ao autódromo.Não localizada segunda dire",
-        "IPP:TELEFONES": "2441-1785",
+        "timestamp": "2025-02-19T13:12:33Z",
+        "version": 3,
+        "changeset": 162700492,
+        "addr:city": "Rio de Janeiro",
+        "addr:housenumber": "80",
+        "addr:postcode": "22775-051",
+        "addr:street": "Rua Franz Weissman",
+        "addr:suburb": "Barra Olímpica",
         "amenity": "school",
         "building": "school",
         "name": "Escola Municipal Roberto Burle Marx",
+        "operator": "Prefeitura do Rio",
+        "operator:type": "government",
+        "phone": "+55 21 2434-1698;+55 21 2434-1903",
         "source": "IPP",
         "type": "multipolygon",
+        "website": "http://webapp.sme.rio.rj.gov.br/jcartela/publico/pesquisa.do?idSetor=18969&cmd=load",
         "id": "relation/4430810"
       },
       "geometry": {
@@ -14955,55 +14951,6 @@
             [
               -43.556558,
               -22.9269008
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/431452014",
-      "properties": {
-        "timestamp": "2016-07-16T20:27:45Z",
-        "version": 1,
-        "changeset": 40787212,
-        "IPP:BAIRRO": "Jacarepaguá",
-        "IPP:CODATIVIDA": "0",
-        "IPP:CODBAIRRO": "115",
-        "IPP:COD_INEP": "33230803",
-        "IPP:CRE": "07",
-        "IPP:DESIGNACAO": "0716613",
-        "IPP:ENDERECO": "Rua Franz Weissman, 100 Rio 2",
-        "IPP:ENDNOVO": "http://webapp.sme.rio.rj.gov.br/jcartela/publico/pesquisa.do?idSetor= &cmd=load",
-        "amenity": "school",
-        "building": "yes",
-        "name": "Creche Municipal Maria da Conceição Silveira de Carvalho",
-        "source": "IPP",
-        "id": "way/431452014"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -43.3896041,
-              -22.9683253
-            ],
-            [
-              -43.389614,
-              -22.968952
-            ],
-            [
-              -43.3894698,
-              -22.9689539
-            ],
-            [
-              -43.3894599,
-              -22.9683273
-            ],
-            [
-              -43.3896041,
-              -22.9683253
             ]
           ]
         ]

@@ -322,6 +322,45 @@
     },
     {
       "type": "Feature",
+      "id": "way/542936275",
+      "properties": {
+        "timestamp": "2025-02-19T18:45:38Z",
+        "version": 2,
+        "changeset": 162713316,
+        "leisure": "sports_centre",
+        "sport": "multi",
+        "id": "way/542936275"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.2620057,
+              -10.1941991
+            ],
+            [
+              -38.2618866,
+              -10.194375
+            ],
+            [
+              -38.2617604,
+              -10.1942922
+            ],
+            [
+              -38.2618795,
+              -10.1941163
+            ],
+            [
+              -38.2620057,
+              -10.1941991
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/542936276",
       "properties": {
         "timestamp": "2017-11-26T15:36:09Z",
@@ -621,6 +660,205 @@
               -10.0792635
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1361035916",
+      "properties": {
+        "timestamp": "2025-02-19T00:18:42Z",
+        "version": 1,
+        "changeset": 162681643,
+        "access": "yes",
+        "leisure": "pitch",
+        "sport": "soccer",
+        "surface": "grass",
+        "id": "way/1361035916"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.3168598,
+              -9.9100359
+            ],
+            [
+              -38.3161413,
+              -9.9101267
+            ],
+            [
+              -38.3160736,
+              -9.9096075
+            ],
+            [
+              -38.3167921,
+              -9.9095166
+            ],
+            [
+              -38.3168598,
+              -9.9100359
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1361226204",
+      "properties": {
+        "timestamp": "2025-02-19T18:45:36Z",
+        "version": 1,
+        "changeset": 162713316,
+        "leisure": "pitch",
+        "sport": "soccer",
+        "surface": "grass",
+        "id": "way/1361226204"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.2356015,
+              -10.1821444
+            ],
+            [
+              -38.2350064,
+              -10.1821641
+            ],
+            [
+              -38.2349795,
+              -10.1813784
+            ],
+            [
+              -38.2355746,
+              -10.1813587
+            ],
+            [
+              -38.2356015,
+              -10.1821444
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1361235920",
+      "properties": {
+        "timestamp": "2025-02-19T19:33:10Z",
+        "version": 1,
+        "changeset": 162714725,
+        "access": "yes",
+        "leisure": "pitch",
+        "sport": "soccer",
+        "surface": "ground",
+        "id": "way/1361235920"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.2871582,
+              -10.2233677
+            ],
+            [
+              -38.2865897,
+              -10.2235604
+            ],
+            [
+              -38.2863194,
+              -10.2227769
+            ],
+            [
+              -38.2868814,
+              -10.2225904
+            ],
+            [
+              -38.2871582,
+              -10.2233677
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12600474509",
+      "properties": {
+        "timestamp": "2025-02-19T11:18:33Z",
+        "version": 1,
+        "changeset": 162696354,
+        "IBGE:COD_UNICO_ENDERECO": "191285075",
+        "addr:housenumber": "1",
+        "addr:postcode": "48540-000",
+        "addr:street": "Povoado Água Branca",
+        "addr:suburb": "Água Branca",
+        "building": "yes",
+        "leisure": "pitch",
+        "name": "Campo de Futebol",
+        "sport": "soccer",
+        "id": "node/12600474509"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.6059927,
+          -10.0040243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12600488618",
+      "properties": {
+        "timestamp": "2025-02-19T11:18:30Z",
+        "version": 1,
+        "changeset": 162696354,
+        "IBGE:COD_UNICO_ENDERECO": "216546735",
+        "addr:housenumber": "234 Térreo",
+        "addr:postcode": "48540-000",
+        "addr:street": "Rua da Alegria",
+        "addr:suburb": "Centro",
+        "building": "yes",
+        "leisure": "sports_hall",
+        "name": "Academia de Jiu-Jítsu",
+        "sport": "jiu-jitsu",
+        "id": "node/12600488618"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.3501525,
+          -10.0722997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12600490109",
+      "properties": {
+        "timestamp": "2025-02-19T11:18:33Z",
+        "version": 1,
+        "changeset": 162696354,
+        "IBGE:COD_UNICO_ENDERECO": "224175446",
+        "addr:housenumber": "3 Prédio Térreo",
+        "addr:postcode": "48540-000",
+        "addr:street": "Rua da Subestação",
+        "addr:suburb": "Centro",
+        "building": "yes",
+        "name": "Estúdio Pilates",
+        "sport": "pilates",
+        "id": "node/12600490109"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.3494034,
+          -10.0707256
         ]
       }
     }

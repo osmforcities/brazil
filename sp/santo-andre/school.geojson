@@ -817,9 +817,9 @@
       "type": "Feature",
       "id": "way/313187829",
       "properties": {
-        "timestamp": "2023-11-26T12:41:26Z",
-        "version": 14,
-        "changeset": 144470187,
+        "timestamp": "2025-02-19T09:40:16Z",
+        "version": 15,
+        "changeset": 162692913,
         "addr:city": "Santo André",
         "addr:housenumber": "7",
         "addr:postcode": "09015-080",
@@ -829,8 +829,9 @@
         "email": "e008266a@educacao.sp.gov.br",
         "loc_name": "Américo Brasiliense",
         "name": "Escola Estadual Doutor Américo Brasiliense",
-        "operator": "Secretária da Educação do Estado de São Paulo",
+        "operator": "Secretaria da Educação do Estado de São Paulo",
         "operator:type": "government",
+        "operator:wikidata": "Q10369245",
         "phone": "+55 11 4438 6071;+55 11 4432 2021",
         "ref": "35008266",
         "id": "way/313187829"
@@ -12783,6 +12784,25 @@
         "coordinates": [
           -46.5330211,
           -23.6514319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12600261635",
+      "properties": {
+        "timestamp": "2025-02-19T09:22:12Z",
+        "version": 1,
+        "changeset": 162692299,
+        "amenity": "school",
+        "name": "Colégio Enigma",
+        "id": "node/12600261635"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5359484,
+          -23.6508377
         ]
       }
     }

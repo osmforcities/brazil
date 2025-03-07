@@ -5,9 +5,9 @@
       "type": "Feature",
       "id": "way/849613875",
       "properties": {
-        "timestamp": "2024-02-02T15:32:52Z",
-        "version": 4,
-        "changeset": 146990165,
+        "timestamp": "2025-02-20T19:09:10Z",
+        "version": 5,
+        "changeset": 162753992,
         "material": "concrete",
         "name": "Barragem Retiro",
         "source": "Sentinel",
@@ -28,6 +28,10 @@
               -6.4918115
             ],
             [
+              -35.9668972,
+              -6.4917157
+            ],
+            [
               -35.9673017,
               -6.4915237
             ],
@@ -42,6 +46,10 @@
             [
               -35.9674948,
               -6.4917049
+            ],
+            [
+              -35.9669385,
+              -6.4919853
             ],
             [
               -35.9667438,
@@ -655,6 +663,91 @@
           [
             -36.1339109,
             -6.4311106
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1361491858",
+      "properties": {
+        "timestamp": "2025-02-20T17:52:07Z",
+        "version": 1,
+        "changeset": 162751679,
+        "material": "soil",
+        "waterway": "dam",
+        "id": "way/1361491858"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -36.0222588,
+            -6.6306121
+          ],
+          [
+            -36.0226045,
+            -6.6308441
+          ],
+          [
+            -36.0227903,
+            -6.6309689
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1361501178",
+      "properties": {
+        "timestamp": "2025-02-20T18:31:30Z",
+        "version": 1,
+        "changeset": 162752932,
+        "waterway": "dam",
+        "id": "way/1361501178"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -35.9959834,
+            -6.5924238
+          ],
+          [
+            -35.9956932,
+            -6.5925691
+          ],
+          [
+            -35.9952796,
+            -6.5927761
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1361501192",
+      "properties": {
+        "timestamp": "2025-02-20T18:31:30Z",
+        "version": 1,
+        "changeset": 162752932,
+        "waterway": "dam",
+        "id": "way/1361501192"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -35.9765307,
+            -6.5869822
+          ],
+          [
+            -35.9761208,
+            -6.5868522
+          ],
+          [
+            -35.9758526,
+            -6.5866646
           ]
         ]
       }

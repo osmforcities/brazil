@@ -45,18 +45,21 @@
       "type": "Feature",
       "id": "node/4698260395",
       "properties": {
-        "timestamp": "2025-02-09T13:53:14Z",
-        "version": 2,
-        "changeset": 162315416,
+        "timestamp": "2025-02-20T21:29:37Z",
+        "version": 3,
+        "changeset": 162757922,
+        "addr:street": "Avenida Prefeito Alberto Natalino Miquelute",
         "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
         "name": "FarmaCerta",
         "id": "node/4698260395"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -48.7979035,
-          -26.4091904
+          -48.7980229,
+          -26.409206
         ]
       }
     },
@@ -105,10 +108,15 @@
       "type": "Feature",
       "id": "node/4698269589",
       "properties": {
-        "timestamp": "2022-08-06T02:53:45Z",
-        "version": 3,
-        "changeset": 124544645,
+        "timestamp": "2025-02-20T23:39:51Z",
+        "version": 5,
+        "changeset": 162760408,
+        "addr:housenumber": "km 24",
+        "addr:postcode": "89245-000",
+        "addr:street": "Rodovia Senador Luiz Henrique da Silveira",
+        "addr:suburb": "Centro",
         "amenity": "pharmacy",
+        "dispensing": "yes",
         "healthcare": "pharmacy",
         "name": "Drogaria Araquari",
         "old_name": "Farmácia Coradelli",
@@ -117,8 +125,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -48.7185215,
-          -26.3756078
+          -48.7185349,
+          -26.3755477
         ]
       }
     },

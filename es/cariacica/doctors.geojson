@@ -107,6 +107,143 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1361546687",
+      "properties": {
+        "timestamp": "2025-02-20T21:44:30Z",
+        "version": 1,
+        "changeset": 162758299,
+        "addr:city": "Cariacica",
+        "addr:housenumber": "38",
+        "addr:postcode": "29146-090",
+        "addr:street": "Rua Presidente Dutra",
+        "addr:suburb": "Campo Grande",
+        "amenity": "doctors",
+        "healthcare": "doctor",
+        "healthcare:speciality": "cardiology",
+        "name": "Instituto do Coração",
+        "phone": "2733571200;2732260901",
+        "website": "https://instituto-es.org.br/",
+        "id": "way/1361546687"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.3895824,
+              -20.3397791
+            ],
+            [
+              -40.3895816,
+              -20.3398881
+            ],
+            [
+              -40.3897312,
+              -20.3398919
+            ],
+            [
+              -40.3897251,
+              -20.3400246
+            ],
+            [
+              -40.3895761,
+              -20.3400224
+            ],
+            [
+              -40.3893797,
+              -20.3400154
+            ],
+            [
+              -40.3894556,
+              -20.3399214
+            ],
+            [
+              -40.3895824,
+              -20.3397791
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1361546693",
+      "properties": {
+        "timestamp": "2025-02-20T21:44:30Z",
+        "version": 1,
+        "changeset": 162758299,
+        "addr:city": "Cariacica",
+        "addr:housenumber": "35",
+        "addr:postcode": "29146-090",
+        "addr:street": "Rua Presidente Dutra",
+        "addr:suburb": "Campo Grande",
+        "amenity": "doctors",
+        "building": "yes",
+        "contact:facebook": "https://web.facebook.com/bioscandiagnostico/?_rdc=1&_rdr",
+        "healthcare": "doctor",
+        "healthcare:speciality": "radiology",
+        "name": "Bio Scan",
+        "phone": "2721040302",
+        "website": "https://www.bioscan.med.br/",
+        "wheelchair": "yes",
+        "id": "way/1361546693"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.3894677,
+              -20.3397685
+            ],
+            [
+              -40.3892871,
+              -20.3396339
+            ],
+            [
+              -40.3894694,
+              -20.339419
+            ],
+            [
+              -40.3896145,
+              -20.3395272
+            ],
+            [
+              -40.3895058,
+              -20.3396554
+            ],
+            [
+              -40.3895412,
+              -20.3396818
+            ],
+            [
+              -40.3894677,
+              -20.3397685
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12605249528",
+      "properties": {
+        "timestamp": "2025-02-20T21:44:30Z",
+        "version": 1,
+        "changeset": 162758299,
+        "barrier": "gate",
+        "id": "node/12605249528"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.3894556,
+          -20.3399214
+        ]
+      }
     }
   ]
 }

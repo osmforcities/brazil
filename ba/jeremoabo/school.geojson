@@ -609,13 +609,18 @@
       "type": "Feature",
       "id": "node/12599645628",
       "properties": {
-        "timestamp": "2025-02-19T00:18:42Z",
-        "version": 1,
-        "changeset": 162681643,
+        "timestamp": "2025-02-20T13:41:18Z",
+        "version": 2,
+        "changeset": 162741873,
+        "IBGE:COD_UNICO_ENDERECO": "25986910",
         "addr:city": "Jeremoabo",
+        "addr:housenumber": "190",
         "addr:postcode": "48540-000",
+        "addr:street": "Quilômetro 22",
         "addr:suburb": "Quilômetro Vinte e Dois",
+        "alt_name": "km 22",
         "amenity": "school",
+        "building": "yes",
         "name": "Escola Municipal Manoel Martins",
         "operator": "Município de Jeremoabo",
         "operator:type": "public",
@@ -738,12 +743,14 @@
       "type": "Feature",
       "id": "node/12600487434",
       "properties": {
-        "timestamp": "2025-02-19T11:18:24Z",
-        "version": 1,
-        "changeset": 162696354,
+        "timestamp": "2025-02-20T13:41:18Z",
+        "version": 2,
+        "changeset": 162741873,
         "IBGE:COD_UNICO_ENDERECO": "25982535",
+        "addr:city": "Jeremoabo",
         "addr:housenumber": "3",
         "addr:postcode": "48540-000",
+        "addr:street": "Rua da Escola",
         "addr:suburb": "Monte Alegre",
         "amenity": "school",
         "building": "yes",
@@ -786,10 +793,11 @@
       "type": "Feature",
       "id": "node/12600490005",
       "properties": {
-        "timestamp": "2025-02-19T11:18:33Z",
-        "version": 1,
-        "changeset": 162696354,
+        "timestamp": "2025-02-20T21:40:31Z",
+        "version": 2,
+        "changeset": 162758182,
         "IBGE:COD_UNICO_ENDERECO": "26906379",
+        "addr:city": "Jeremoabo",
         "addr:housenumber": "42",
         "addr:postcode": "48540-000",
         "addr:street": "Fazenda Carnaíba",
@@ -797,8 +805,10 @@
         "amenity": "school",
         "building": "yes",
         "fixme": "Verificar coordenadas",
-        "name": "Escola Mul Gaudêncio de Oliveira",
+        "name": "Escola Municipal Gaudêncio de Oliveira",
         "note": "Sem dados para mover para dentro da quadra 0500-0105P-0-3",
+        "operator": "Município de Jeremoabo",
+        "operator:type": "public",
         "id": "node/12600490005"
       },
       "geometry": {
@@ -867,10 +877,11 @@
       "type": "Feature",
       "id": "node/12600490335",
       "properties": {
-        "timestamp": "2025-02-19T11:18:33Z",
-        "version": 1,
-        "changeset": 162696354,
+        "timestamp": "2025-02-20T13:41:18Z",
+        "version": 2,
+        "changeset": 162741873,
         "IBGE:COD_UNICO_ENDERECO": "190982937",
+        "addr:city": "Jeremoabo",
         "addr:housenumber": "139",
         "addr:postcode": "48540-000",
         "addr:street": "Povoado Pau d'Água",
@@ -878,16 +889,16 @@
         "addr:unit": "Cisterna",
         "amenity": "school",
         "building": "yes",
-        "fixme": "Verificar coordenadas",
-        "name": "Escola Antônio Manoel Carvalho",
-        "note": "Sem setor ou quadra no bayface do IBGE 0500-0022P-0-89",
+        "name": "Escola Municipal Antônio Manoel Carvalho",
+        "operator": "Município de Jeremoabo",
+        "operator:type": "public",
         "id": "node/12600490335"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -38.382541,
-          -9.892058
+          -38.3827539,
+          -9.8922342
         ]
       }
     },
@@ -970,33 +981,6 @@
         "coordinates": [
           -38.3529434,
           -10.0679
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/12600491168",
-      "properties": {
-        "timestamp": "2025-02-19T11:18:36Z",
-        "version": 1,
-        "changeset": 162696354,
-        "IBGE:COD_UNICO_ENDERECO": "25986910",
-        "addr:housenumber": "190",
-        "addr:postcode": "48540-000",
-        "addr:street": "Quilômetro 22",
-        "addr:suburb": "km 22",
-        "amenity": "school",
-        "building": "yes",
-        "fixme": "Verificar coordenadas",
-        "name": "Escola Mul Manoel Martins",
-        "note": "Sem setor ou quadra no bayface do IBGE 0500-0059P-0-4",
-        "id": "node/12600491168"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -38.268787,
-          -9.906311
         ]
       }
     },

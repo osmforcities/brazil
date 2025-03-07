@@ -1054,46 +1054,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/203109570",
-      "properties": {
-        "timestamp": "2014-02-05T17:21:35Z",
-        "version": 2,
-        "changeset": 20396940,
-        "amenity": "school",
-        "building": "yes",
-        "name": "CIEP",
-        "id": "way/203109570"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -43.0675124,
-              -22.8108861
-            ],
-            [
-              -43.0675829,
-              -22.8110104
-            ],
-            [
-              -43.0669287,
-              -22.8113256
-            ],
-            [
-              -43.0668582,
-              -22.8112013
-            ],
-            [
-              -43.0675124,
-              -22.8108861
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/204186689",
       "properties": {
         "timestamp": "2015-11-16T20:09:15Z",
@@ -3826,6 +3786,103 @@
     },
     {
       "type": "Feature",
+      "id": "way/1361446221",
+      "properties": {
+        "timestamp": "2025-02-20T14:08:52Z",
+        "version": 1,
+        "changeset": 162743045,
+        "addr:city": "São Gonçalo",
+        "addr:postcode": "24466-035",
+        "addr:street": "Rua Veríssimo de Souza",
+        "addr:suburb": "Boa Vista",
+        "amenity": "school",
+        "barrier": "wall",
+        "name": "CIEP 052 - Professora Romanda Gouveia Gonçalves",
+        "official_name": "Centro Integrado de Educação Pública 052 - Professora Romanda Gouveia Gonçalves",
+        "operator": "Governo do Estado do Rio de Janeiro",
+        "operator:type": "government",
+        "operator:wikidata": "Q48855361",
+        "phone": "+55 21 3715-7895",
+        "id": "way/1361446221"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.0677877,
+              -22.8107689
+            ],
+            [
+              -43.0677313,
+              -22.8116539
+            ],
+            [
+              -43.0677174,
+              -22.8116735
+            ],
+            [
+              -43.0676804,
+              -22.8116794
+            ],
+            [
+              -43.0676582,
+              -22.811682
+            ],
+            [
+              -43.0666852,
+              -22.8112983
+            ],
+            [
+              -43.0666741,
+              -22.8112736
+            ],
+            [
+              -43.0666833,
+              -22.8112531
+            ],
+            [
+              -43.0671697,
+              -22.8110049
+            ],
+            [
+              -43.067201,
+              -22.811013
+            ],
+            [
+              -43.0672227,
+              -22.811001
+            ],
+            [
+              -43.0672399,
+              -22.8109914
+            ],
+            [
+              -43.067249,
+              -22.8109644
+            ],
+            [
+              -43.0677072,
+              -22.8107305
+            ],
+            [
+              -43.0677396,
+              -22.8107228
+            ],
+            [
+              -43.067771,
+              -22.8107416
+            ],
+            [
+              -43.0677877,
+              -22.8107689
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/855236755",
       "properties": {
         "timestamp": "2010-08-11T19:43:40Z",
@@ -4527,6 +4584,24 @@
         "coordinates": [
           -43.0147815,
           -22.8077319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12603927240",
+      "properties": {
+        "timestamp": "2025-02-20T14:08:52Z",
+        "version": 1,
+        "changeset": 162743045,
+        "barrier": "gate",
+        "id": "node/12603927240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.0672227,
+          -22.811001
         ]
       }
     }

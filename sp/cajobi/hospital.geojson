@@ -5,11 +5,12 @@
       "type": "Feature",
       "id": "way/182795439",
       "properties": {
-        "timestamp": "2014-01-09T02:29:38Z",
-        "version": 2,
-        "changeset": 19893253,
+        "timestamp": "2025-02-20T19:54:51Z",
+        "version": 3,
+        "changeset": 162755346,
         "amenity": "hospital",
         "emergency": "yes",
+        "healthcare": "hospital",
         "name": "Santa Casa de Miséricórdia",
         "id": "way/182795439"
       },
@@ -61,11 +62,14 @@
       "type": "Feature",
       "id": "way/182795674",
       "properties": {
-        "timestamp": "2012-09-25T00:32:17Z",
-        "version": 1,
-        "changeset": 13240761,
+        "timestamp": "2025-02-20T19:54:51Z",
+        "version": 2,
+        "changeset": 162755346,
+        "addr:street": "Rua João Geraldo",
         "amenity": "hospital",
         "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
         "name": "Pronto Socorro",
         "id": "way/182795674"
       },
@@ -74,24 +78,24 @@
         "coordinates": [
           [
             [
-              -48.8106364,
-              -20.88156
+              -48.8106512,
+              -20.8816314
             ],
             [
-              -48.8106435,
-              -20.8819466
+              -48.8106583,
+              -20.8819341
             ],
             [
-              -48.8104308,
-              -20.8819452
+              -48.8104818,
+              -20.8819414
             ],
             [
-              -48.8104378,
-              -20.8815604
+              -48.8104767,
+              -20.8816418
             ],
             [
-              -48.8106364,
-              -20.88156
+              -48.8106512,
+              -20.8816314
             ]
           ]
         ]

@@ -5358,12 +5358,12 @@
       "type": "Feature",
       "id": "relation/5881344",
       "properties": {
-        "timestamp": "2016-01-19T23:43:06Z",
-        "version": 1,
-        "changeset": 36691704,
+        "timestamp": "2025-02-20T02:13:44Z",
+        "version": 2,
+        "changeset": 162722472,
         "leisure": "sports_centre",
         "name": "Centro Esportivo Waldir Pereira - Didi",
-        "sport": "multi",
+        "sport": "multi;archery",
         "type": "multipolygon",
         "id": "relation/5881344"
       },
@@ -14793,6 +14793,45 @@
             [
               -43.210988,
               -22.7991016
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/40640867",
+      "properties": {
+        "timestamp": "2025-02-20T02:13:44Z",
+        "version": 2,
+        "changeset": 162722472,
+        "leisure": "swimming_pool",
+        "sport": "swimming",
+        "id": "way/40640867"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.4396585,
+              -23.0104248
+            ],
+            [
+              -43.4396794,
+              -23.0103524
+            ],
+            [
+              -43.4398015,
+              -23.0103823
+            ],
+            [
+              -43.4397807,
+              -23.0104546
+            ],
+            [
+              -43.4396585,
+              -23.0104248
             ]
           ]
         ]
@@ -110233,42 +110272,6 @@
           [
             -43.2582003,
             -22.8985857
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/40640867",
-      "properties": {
-        "timestamp": "2009-09-11T19:03:40Z",
-        "version": 1,
-        "changeset": 2449538,
-        "sport": "swimming",
-        "id": "way/40640867"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -43.4396585,
-            -23.0104248
-          ],
-          [
-            -43.4397807,
-            -23.0104546
-          ],
-          [
-            -43.4398015,
-            -23.0103823
-          ],
-          [
-            -43.4396794,
-            -23.0103524
-          ],
-          [
-            -43.4396585,
-            -23.0104248
           ]
         ]
       }

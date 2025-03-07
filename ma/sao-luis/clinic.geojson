@@ -434,12 +434,12 @@
       "type": "Feature",
       "id": "way/813480274",
       "properties": {
-        "timestamp": "2020-12-28T05:47:29Z",
-        "version": 2,
-        "changeset": 96511237,
+        "timestamp": "2025-02-20T20:25:27Z",
+        "version": 4,
+        "changeset": 162756169,
         "amenity": "clinic",
         "healthcare": "clinic",
-        "name": "Centro de Saúde da Cohab",
+        "name": "Centro de Saúde Cohab Anil I",
         "id": "way/813480274"
       },
       "geometry": {
@@ -451,8 +451,20 @@
               -2.535299
             ],
             [
+              -44.2170389,
+              -2.5351796
+            ],
+            [
+              -44.2169927,
+              -2.5351667
+            ],
+            [
               -44.2169876,
               -2.5351653
+            ],
+            [
+              -44.217023,
+              -2.5350309
             ],
             [
               -44.2170713,
@@ -1899,6 +1911,34 @@
               -2.4898704
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/965542894",
+      "properties": {
+        "timestamp": "2025-02-20T20:25:27Z",
+        "version": 4,
+        "changeset": 162756169,
+        "addr:city": "São Luís",
+        "addr:housenumber": "3",
+        "addr:postcode": "65051-300",
+        "addr:street": "Rua 4",
+        "addr:suburb": "Cohab Anil I",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Centro de Saúde Cohab Anil I",
+        "operator": "Prefeitura de São Luís",
+        "operator:type": "government",
+        "id": "node/965542894"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.2170652,
+          -2.535036
         ]
       }
     },

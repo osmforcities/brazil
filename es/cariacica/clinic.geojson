@@ -748,9 +748,9 @@
       "type": "Feature",
       "id": "way/1357541332",
       "properties": {
-        "timestamp": "2025-02-06T16:33:32Z",
-        "version": 1,
-        "changeset": 162215217,
+        "timestamp": "2025-02-20T20:48:05Z",
+        "version": 2,
+        "changeset": 162756770,
         "addr:city": "Cariacica",
         "addr:postcode": "29146-090",
         "addr:street": "Rua Presidente Dutra",
@@ -758,9 +758,9 @@
         "amenity": "clinic",
         "building": "yes",
         "healthcare": "clinic",
-        "healthcare:speciality": "psychiatry;physiatry;child_psychiatry;neurology;fonoaudiologia",
+        "healthcare:speciality": "psychiatry;physiatry;child_psychiatry;neurology;fonoaudiologia;gynaecology",
         "name": "Clinica Barbosa & Multiclin",
-        "phone": "2732162227",
+        "phone": "2732162227;2733437422;27996172210",
         "id": "way/1357541332"
       },
       "geometry": {
@@ -816,8 +816,8 @@
         "coordinates": [
           [
             [
-              -40.3895119,
-              -20.3401868
+              -40.3895124,
+              -20.3401932
             ],
             [
               -40.3894579,
@@ -848,8 +848,58 @@
               -20.3400872
             ],
             [
-              -40.3895119,
-              -20.3401868
+              -40.3895124,
+              -20.3401932
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1361537522",
+      "properties": {
+        "timestamp": "2025-02-20T20:48:05Z",
+        "version": 1,
+        "changeset": 162756770,
+        "addr:city": "Cariacica",
+        "addr:housenumber": "12",
+        "addr:postcode": "29146-180",
+        "addr:street": "Travessa Eugênio Rodrigues",
+        "addr:suburb": "Campo Grande",
+        "air_conditioning": "yes",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "humanistic",
+        "mobile": "27999220995",
+        "name": "Psicóloga Jessica Elaine Tamanhon",
+        "opening_hours": "Mo-Fr 08:00-20:00",
+        "id": "way/1361537522"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.3892159,
+              -20.3403788
+            ],
+            [
+              -40.3892987,
+              -20.3404378
+            ],
+            [
+              -40.3892244,
+              -20.3405294
+            ],
+            [
+              -40.3891416,
+              -20.3404704
+            ],
+            [
+              -40.3892159,
+              -20.3403788
             ]
           ]
         ]

@@ -21923,12 +21923,12 @@
       "type": "Feature",
       "id": "way/680883742",
       "properties": {
-        "timestamp": "2019-04-01T11:50:06Z",
-        "version": 1,
-        "changeset": 68751378,
+        "timestamp": "2025-02-20T11:55:09Z",
+        "version": 2,
+        "changeset": 162737535,
         "addr:street": "Avenida Professor Fausto Moreira",
         "amenity": "school",
-        "name": "Frederico Trotta",
+        "name": "Escola Municipal Frederico Trotta",
         "id": "way/680883742"
       },
       "geometry": {
@@ -21963,12 +21963,26 @@
       "type": "Feature",
       "id": "way/680970382",
       "properties": {
-        "timestamp": "2019-04-01T19:39:00Z",
-        "version": 1,
-        "changeset": 68767570,
+        "timestamp": "2025-02-20T11:55:09Z",
+        "version": 2,
+        "changeset": 162737535,
+        "IPP:BAIRRO": "Barra Da Tijuca",
+        "IPP:CHAVE": "11713",
+        "IPP:CODATIVIDA": "0",
+        "IPP:CODBAIRRO": "128",
+        "IPP:COD_INEP": "33087911",
+        "IPP:COD_SMA": "011713",
+        "IPP:CRE": "07",
+        "IPP:DESIGNACAO": "0724009",
+        "IPP:ENDERECO": "Rua Prof. Fausto Moreira, 250",
+        "IPP:ENDNOVO": "http://webapp.sme.rio.rj.gov.br/jcartela/publico/pesquisa.do?idSetor=11713&cmd=load",
+        "IPP:FLG_VALIDA": "N",
+        "IPP:OBS": "segundo a diretora a localização está correta. Não consta o nome da escola no ma",
+        "IPP:TELEFONES": "2498-0642",
         "addr:street": "Avenida Professor Fausto Moreira",
         "amenity": "school",
-        "name": "Margarida Glória de Faria",
+        "name": "Professora Margarida Glória de Faria",
+        "source": "IPP",
         "id": "way/680970382"
       },
       "geometry": {
@@ -37109,6 +37123,64 @@
     },
     {
       "type": "Feature",
+      "id": "way/1361422794",
+      "properties": {
+        "timestamp": "2025-02-20T11:55:09Z",
+        "version": 1,
+        "changeset": 162737535,
+        "IPP:BAIRRO": "Barra Da Tijuca",
+        "IPP:CHAVE": "11688",
+        "IPP:CODATIVIDA": "0",
+        "IPP:CODBAIRRO": "128",
+        "IPP:COD_INEP": "33087970",
+        "IPP:COD_SMA": "011688",
+        "IPP:CRE": "07",
+        "IPP:DESIGNACAO": "0724501",
+        "IPP:ENDERECO": "Avenida Adolpho de Vasconcelos, 264",
+        "IPP:ENDNOVO": "http://webapp.sme.rio.rj.gov.br/jcartela/publico/pesquisa.do?idSetor=11688&cmd=load",
+        "IPP:FLG_VALIDA": "N",
+        "IPP:OBS": "Não consta o nome da escola no mapa",
+        "IPP:TELEFONES": "2498-0280",
+        "addr:city": "Rio de Janeiro",
+        "addr:housenumber": "264",
+        "addr:street": "Avenida Adolpho de Vasconcelos",
+        "addr:suburb": "Barra da tijuca",
+        "amenity": "school",
+        "area": "yes",
+        "name": "Escola Municipal Vice Almirante Paulo Castro Moreira da Silva",
+        "source": "IPP",
+        "id": "way/1361422794"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.4305038,
+              -23.0083435
+            ],
+            [
+              -43.430341,
+              -23.0089025
+            ],
+            [
+              -43.4297823,
+              -23.0087647
+            ],
+            [
+              -43.4299452,
+              -23.0082056
+            ],
+            [
+              -43.4305038,
+              -23.0083435
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/68521890",
       "properties": {
         "timestamp": "2017-12-01T21:33:09Z",
@@ -46573,39 +46645,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/823943556",
-      "properties": {
-        "timestamp": "2014-01-23T23:08:04Z",
-        "version": 2,
-        "changeset": 20169427,
-        "IPP:BAIRRO": "Barra Da Tijuca",
-        "IPP:CHAVE": "11714",
-        "IPP:CODATIVIDA": "0",
-        "IPP:CODBAIRRO": "128",
-        "IPP:COD_INEP": "33087822",
-        "IPP:COD_SMA": "011714",
-        "IPP:CRE": "07",
-        "IPP:DESIGNACAO": "0724010",
-        "IPP:ENDERECO": "Rua Prof. Fausto Moreira, 200  ",
-        "IPP:ENDNOVO": "http://webapp.sme.rio.rj.gov.br/jcartela/publico/pesquisa.do?idSetor=11714&cmd=load",
-        "IPP:FLG_VALIDA": "S",
-        "IPP:OBS": "SEGUNDO A DIRETORA ADJUNTA CAROLINA A LOCALIZAÇÃO ESTÁ CORRETA",
-        "IPP:TELEFONES": "2498-3934",
-        "amenity": "school",
-        "name": "Escola Municipal Frederico Trotta",
-        "source": "IPP",
-        "id": "node/823943556"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.4279616,
-          -23.0076006
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/823943558",
       "properties": {
         "timestamp": "2010-07-19T01:19:37Z",
@@ -52670,39 +52709,6 @@
         "coordinates": [
           -43.2914123,
           -22.8247265
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/823945057",
-      "properties": {
-        "timestamp": "2019-04-18T13:03:39Z",
-        "version": 2,
-        "changeset": 69344023,
-        "IPP:BAIRRO": "Barra Da Tijuca",
-        "IPP:CHAVE": "11713",
-        "IPP:CODATIVIDA": "0",
-        "IPP:CODBAIRRO": "128",
-        "IPP:COD_INEP": "33087911",
-        "IPP:COD_SMA": "011713",
-        "IPP:CRE": "07",
-        "IPP:DESIGNACAO": "0724009",
-        "IPP:ENDERECO": "Rua Prof. Fausto Moreira, 250",
-        "IPP:ENDNOVO": "http://webapp.sme.rio.rj.gov.br/jcartela/publico/pesquisa.do?idSetor=11713&cmd=load",
-        "IPP:FLG_VALIDA": "N",
-        "IPP:OBS": "segundo a diretora a localização está correta. Não consta o nome da escola no ma",
-        "IPP:TELEFONES": "2498-0642",
-        "amenity": "school",
-        "name": "Professora Margarida Glória de Faria",
-        "source": "IPP",
-        "id": "node/823945057"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.4278306,
-          -23.0080045
         ]
       }
     },
@@ -59848,39 +59854,6 @@
         "coordinates": [
           -43.7079526,
           -22.9690416
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/823949272",
-      "properties": {
-        "timestamp": "2014-01-25T00:53:27Z",
-        "version": 2,
-        "changeset": 20186962,
-        "IPP:BAIRRO": "Barra Da Tijuca",
-        "IPP:CHAVE": "11876",
-        "IPP:CODATIVIDA": "0",
-        "IPP:CODBAIRRO": "128",
-        "IPP:COD_INEP": "33087962",
-        "IPP:COD_SMA": "011876",
-        "IPP:CRE": "07",
-        "IPP:DESIGNACAO": "0724011",
-        "IPP:ENDERECO": "Avenida Adolpho de Vasconcelos, 234  ",
-        "IPP:ENDNOVO": "http://webapp.sme.rio.rj.gov.br/jcartela/publico/pesquisa.do?idSetor=11876&cmd=load",
-        "IPP:FLG_VALIDA": "S",
-        "IPP:OBS": "Confere",
-        "IPP:TELEFONES": "2498-0212",
-        "amenity": "school",
-        "name": "Escola Municipal Vice Almirante Alvaro Alberto da Motta e Silva",
-        "source": "IPP",
-        "id": "node/823949272"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.4299333,
-          -23.00832
         ]
       }
     },
@@ -69516,43 +69489,6 @@
         "coordinates": [
           -43.4300452,
           -22.8674559
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/823951954",
-      "properties": {
-        "timestamp": "2019-07-04T17:33:10Z",
-        "version": 4,
-        "changeset": 71905915,
-        "IPP:BAIRRO": "Barra Da Tijuca",
-        "IPP:CHAVE": "11688",
-        "IPP:CODATIVIDA": "0",
-        "IPP:CODBAIRRO": "128",
-        "IPP:COD_INEP": "33087970",
-        "IPP:COD_SMA": "011688",
-        "IPP:CRE": "07",
-        "IPP:DESIGNACAO": "0724501",
-        "IPP:ENDERECO": "Avenida Adolpho de Vasconcelos, 264",
-        "IPP:ENDNOVO": "http://webapp.sme.rio.rj.gov.br/jcartela/publico/pesquisa.do?idSetor=11688&cmd=load",
-        "IPP:FLG_VALIDA": "N",
-        "IPP:OBS": "Não consta o nome da escola no mapa",
-        "IPP:TELEFONES": "2498-0280",
-        "addr:city": "Rio de Janeiro",
-        "addr:housenumber": "264",
-        "addr:street": "Avenida Adolpho de Vasconcelos",
-        "addr:suburb": "Barra da tijuca",
-        "amenity": "school",
-        "name": "Escola Municipal Vice Almirante Paulo Castro Moreira da Silva",
-        "source": "IPP",
-        "id": "node/823951954"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.4298129,
-          -23.0086573
         ]
       }
     },

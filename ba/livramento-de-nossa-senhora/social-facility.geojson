@@ -3,73 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": "relation/18668520",
-      "properties": {
-        "timestamp": "2025-02-08T12:52:51Z",
-        "version": 1,
-        "changeset": 162278435,
-        "addr:city": "Livramento de Nossa Senhora",
-        "addr:housenumber": "s/n",
-        "addr:postcode": "46140-000",
-        "addr:street": "Rua Lafaiete Coutinho",
-        "addr:suburb": "Centro",
-        "alt_name": "Unidade Básica De Saúde | UBS Edival Borges Da Silva | Sede I | Livramento De Nossa Senhora, BA | SUS",
-        "amenity": "social_facility",
-        "loc_name": "Unidade Básica De Saúde | UBS Edival Borges Da Silva | Sede I | Livramento De Nossa Senhora, BA | SUS",
-        "name": "Unidade Básica De Saúde | UBS Edival Borges Da Silva | Sede I | Livramento De Nossa Senhora, BA | SUS",
-        "nat_name": "Unidade Básica De Saúde | UBS Edival Borges Da Silva | Sede I | Livramento De Nossa Senhora, BA | SUS",
-        "official_name": "Unidade Básica De Saúde | UBS Edival Borges Da Silva | Sede I | Livramento De Nossa Senhora, BA | SUS",
-        "reg_name": "Unidade Básica De Saúde | UBS Edival Borges Da Silva | Sede I | Livramento De Nossa Senhora, BA | SUS",
-        "short_name": "Unidade Básica De Saúde | UBS Edival Borges Da Silva | Sede I | Livramento De Nossa Senhora, BA | SUS",
-        "social_facility": "ambulatory_care",
-        "social_facility:for": "diseased",
-        "type": "multipolygon",
-        "website": "https://www.livramento.ba.gov.br/",
-        "wheelchair": "yes",
-        "id": "relation/18668520"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -41.8398255,
-              -13.6400525
-            ],
-            [
-              -41.8397707,
-              -13.6400609
-            ],
-            [
-              -41.8397594,
-              -13.6399319
-            ],
-            [
-              -41.8398689,
-              -13.6399209
-            ],
-            [
-              -41.8400856,
-              -13.6398962
-            ],
-            [
-              -41.8401017,
-              -13.6400169
-            ],
-            [
-              -41.8399414,
-              -13.6400376
-            ],
-            [
-              -41.8398255,
-              -13.6400525
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/228550517",
       "properties": {
         "timestamp": "2023-01-23T17:49:47Z",
@@ -172,76 +105,21 @@
     },
     {
       "type": "Feature",
-      "id": "way/1358103696",
-      "properties": {
-        "timestamp": "2025-02-08T12:52:51Z",
-        "version": 1,
-        "changeset": 162278435,
-        "indoor": "wall",
-        "level": "0",
-        "loc_name": "Unidade Básica De Saúde | UBS Edival Borges Da Silva | Sede I | Livramento De Nossa Senhora, BA | SUS",
-        "name": "Unidade Básica De Saúde | UBS Edival Borges Da Silva | Sede I | Livramento De Nossa Senhora, BA | SUS",
-        "nat_name": "Unidade Básica De Saúde | UBS Edival Borges Da Silva | Sede I | Livramento De Nossa Senhora, BA | SUS",
-        "official_name": "Unidade Básica De Saúde | UBS Edival Borges Da Silva | Sede I | Livramento De Nossa Senhora, BA | SUS",
-        "reg_name": "Unidade Básica De Saúde | UBS Edival Borges Da Silva | Sede I | Livramento De Nossa Senhora, BA | SUS",
-        "short_name": "Unidade Básica De Saúde | UBS Edival Borges Da Silva | Sede I | Livramento De Nossa Senhora, BA | SUS",
-        "website": "https://www.livramento.ba.gov.br/",
-        "id": "way/1358103696"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -41.8398255,
-              -13.6400525
-            ],
-            [
-              -41.8397707,
-              -13.6400609
-            ],
-            [
-              -41.8397594,
-              -13.6399319
-            ],
-            [
-              -41.8398689,
-              -13.6399209
-            ],
-            [
-              -41.8400856,
-              -13.6398962
-            ],
-            [
-              -41.8401017,
-              -13.6400169
-            ],
-            [
-              -41.8399414,
-              -13.6400376
-            ],
-            [
-              -41.8398255,
-              -13.6400525
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/1358103697",
       "properties": {
-        "timestamp": "2025-02-08T12:52:51Z",
-        "version": 1,
-        "changeset": 162278435,
+        "timestamp": "2025-02-21T21:15:25Z",
+        "version": 2,
+        "changeset": 162796618,
         "addr:city": "Livramento de Nossa Senhora",
-        "addr:housenumber": "s/n",
         "addr:postcode": "46140-000",
         "addr:street": "Rua Lafaiete Coutinho",
         "addr:suburb": "Centro",
-        "alt_name": "Unidade Básica De Saúde | UBS Edival Borges Da Silva | Sede I | Livramento De Nossa Senhora, BA | SUS",
         "amenity": "social_facility",
+        "building": "yes",
+        "emergency": "no",
+        "healthcare": "clinic",
+        "healthcare:speciality": "ambulatório;community;general",
+        "level": "0",
         "loc_name": "Unidade Básica De Saúde | UBS Edival Borges Da Silva | Sede I | Livramento De Nossa Senhora, BA | SUS",
         "name": "Unidade Básica De Saúde | UBS Edival Borges Da Silva | Sede I | Livramento De Nossa Senhora, BA | SUS",
         "nat_name": "Unidade Básica De Saúde | UBS Edival Borges Da Silva | Sede I | Livramento De Nossa Senhora, BA | SUS",
@@ -298,52 +176,13 @@
     },
     {
       "type": "Feature",
-      "id": "node/12460670790",
-      "properties": {
-        "timestamp": "2025-02-08T12:52:51Z",
-        "version": 2,
-        "changeset": 162278435,
-        "addr:city": "Livramento de Nossa Senhora",
-        "addr:housenumber": "s/n",
-        "addr:postcode": "46140-000",
-        "addr:street": "Rua Lafaiete Coutinho",
-        "addr:suburb": "Centro",
-        "alt_name": "Unidade Básica De Saúde | UBS Edival Borges Da Silva | Sede I | Livramento De Nossa Senhora, BA | SUS",
-        "amenity": "clinic",
-        "emergency": "no",
-        "healthcare": "clinic",
-        "healthcare:speciality": "ambulatório;community;general",
-        "level": "0",
-        "loc_name": "Unidade Básica De Saúde | UBS Edival Borges Da Silva | Sede I | Livramento De Nossa Senhora, BA | SUS",
-        "name": "Unidade Básica De Saúde | UBS Edival Borges Da Silva | Sede I | Livramento De Nossa Senhora, BA | SUS",
-        "nat_name": "Unidade Básica De Saúde | UBS Edival Borges Da Silva | Sede I | Livramento De Nossa Senhora, BA | SUS",
-        "official_name": "Unidade Básica De Saúde | UBS Edival Borges Da Silva | Sede I | Livramento De Nossa Senhora, BA | SUS",
-        "opening_hours": "Mo-Fr 07:00-12:00, Mo-Th 14:00-16:00",
-        "phone": "+55 77 3444-2900",
-        "reg_name": "Unidade Básica De Saúde | UBS Edival Borges Da Silva | Sede I | Livramento De Nossa Senhora, BA | SUS",
-        "short_name": "Unidade Básica De Saúde | UBS Edival Borges Da Silva | Sede I | Livramento De Nossa Senhora, BA | SUS",
-        "website": "https://www.livramento.ba.gov.br/",
-        "wheelchair": "yes",
-        "id": "node/12460670790"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -41.8399664,
-          -13.6399779
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/12568245416",
       "properties": {
-        "timestamp": "2025-02-08T12:52:51Z",
-        "version": 1,
-        "changeset": 162278435,
+        "timestamp": "2025-02-21T21:15:25Z",
+        "version": 2,
+        "changeset": 162796618,
         "access": "yes",
         "addr:city": "Livramento de Nossa Senhora",
-        "addr:housenumber": "s/n",
         "addr:postcode": "46140-000",
         "addr:street": "Rua Lafaiete Coutinho",
         "addr:suburb": "Centro",

@@ -114,23 +114,31 @@
       "type": "Feature",
       "id": "relation/8713757",
       "properties": {
-        "timestamp": "2025-02-18T01:27:13Z",
-        "version": 5,
-        "changeset": 162641316,
+        "timestamp": "2025-02-21T02:29:00Z",
+        "version": 6,
+        "changeset": 162762574,
+        "addr:city": "Salvador",
+        "addr:housenumber": "s/n",
         "addr:postcode": "40110-909",
         "addr:street": "Rua Augusto Viana",
+        "addr:suburb": "Canela",
+        "alt_name": "Campus Universitário | Canela | Universidade Federal Da Bahia | UFBA",
         "amenity": "university",
-        "contact:facebook": "https://www.facebook.com/universidadefederaldabahiaempauta",
+        "contact:facebook": "https://www.ufba.br/",
         "contact:instagram": "https://www.instagram.com/ufbaempauta",
         "contact:twitter": "https://twitter.com/ufbaempauta",
-        "description": "Campus Canela",
-        "name": "Universidade Federal da Bahia",
-        "operator": "Universidade Federal da Bahia",
-        "short_name": "UFBA",
+        "internet_access": "no",
+        "loc_name": "Campus Universitário | Canela | Universidade Federal Da Bahia | UFBA",
+        "name": "Campus Universitário | Canela | Universidade Federal Da Bahia | UFBA",
+        "nat_name": "Campus Universitário | Canela | Universidade Federal Da Bahia | UFBA",
+        "official_name": "Campus Universitário | Canela | Universidade Federal Da Bahia | UFBA",
+        "operator": "Universidade Federal Da Bahia | UFBA",
+        "operator:type": "university",
+        "reg_name": "Campus Universitário | Canela | Universidade Federal Da Bahia | UFBA",
+        "short_name": "Campus Universitário | Canela | Universidade Federal Da Bahia | UFBA",
         "type": "multipolygon",
         "website": "https://www.ufba.br/",
-        "wikidata": "Q6614109",
-        "wikipedia": "en:Federal University of Recôncavo da Bahia",
+        "wheelchair": "limited",
         "id": "relation/8713757"
       },
       "geometry": {
@@ -283,8 +291,8 @@
                 -12.9946633
               ],
               [
-                -38.5223028,
-                -12.9947261
+                -38.5222794,
+                -12.9946899
               ],
               [
                 -38.5223437,
@@ -5614,6 +5622,179 @@
     },
     {
       "type": "Feature",
+      "id": "way/1361584659",
+      "properties": {
+        "timestamp": "2025-02-21T02:29:00Z",
+        "version": 1,
+        "changeset": 162762574,
+        "addr:city": "Salvador",
+        "addr:housenumber": "55",
+        "addr:postcode": "40110-913",
+        "addr:street": "Avenida Araújo Pinho",
+        "addr:suburb": "Canela",
+        "alt_name": "Escola De Música | EMUS | UFBA",
+        "amenity": "university",
+        "building:levels": "4",
+        "email": "emus@ufba.br",
+        "internet_access": "yes",
+        "internet_access:fee": "customers",
+        "loc_name": "Escola De Música | EMUS | UFBA",
+        "name": "Escola De Música | EMUS | UFBA",
+        "nat_name": "Escola De Música | EMUS | UFBA",
+        "official_name": "Escola De Música | EMUS | UFBA",
+        "phone": "+55 (71) 3283 7885",
+        "reg_name": "Escola De Música | EMUS | UFBA",
+        "short_name": "Escola De Música | EMUS | UFBA",
+        "website": "http://www.escolademusica.ufba.br/",
+        "wheelchair": "yes",
+        "id": "way/1361584659"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.5227658,
+              -12.9945666
+            ],
+            [
+              -38.5225845,
+              -12.9946865
+            ],
+            [
+              -38.5226041,
+              -12.9947146
+            ],
+            [
+              -38.5224334,
+              -12.9948274
+            ],
+            [
+              -38.5223848,
+              -12.9947576
+            ],
+            [
+              -38.5224221,
+              -12.994733
+            ],
+            [
+              -38.5224305,
+              -12.9947369
+            ],
+            [
+              -38.5224451,
+              -12.9947397
+            ],
+            [
+              -38.5224598,
+              -12.9947377
+            ],
+            [
+              -38.5224732,
+              -12.9947313
+            ],
+            [
+              -38.5224837,
+              -12.9947211
+            ],
+            [
+              -38.5224904,
+              -12.9947081
+            ],
+            [
+              -38.5224925,
+              -12.9946938
+            ],
+            [
+              -38.5224898,
+              -12.9946795
+            ],
+            [
+              -38.5224826,
+              -12.9946668
+            ],
+            [
+              -38.5224702,
+              -12.9946559
+            ],
+            [
+              -38.522469,
+              -12.9946551
+            ],
+            [
+              -38.5224632,
+              -12.9946523
+            ],
+            [
+              -38.5224553,
+              -12.9946506
+            ],
+            [
+              -38.5224398,
+              -12.9946499
+            ],
+            [
+              -38.5224248,
+              -12.9946542
+            ],
+            [
+              -38.5224121,
+              -12.9946631
+            ],
+            [
+              -38.5224033,
+              -12.9946757
+            ],
+            [
+              -38.5223992,
+              -12.9946904
+            ],
+            [
+              -38.5224005,
+              -12.9947055
+            ],
+            [
+              -38.5224028,
+              -12.9947113
+            ],
+            [
+              -38.5223686,
+              -12.9947339
+            ],
+            [
+              -38.5223305,
+              -12.9946792
+            ],
+            [
+              -38.5224955,
+              -12.99457
+            ],
+            [
+              -38.522509,
+              -12.9945894
+            ],
+            [
+              -38.5225789,
+              -12.9945432
+            ],
+            [
+              -38.5225578,
+              -12.9945128
+            ],
+            [
+              -38.5226746,
+              -12.9944356
+            ],
+            [
+              -38.5227658,
+              -12.9945666
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/95841429",
       "properties": {
         "timestamp": "2023-07-12T20:41:17Z",
@@ -6794,6 +6975,40 @@
         "coordinates": [
           -38.5202036,
           -12.9929458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12605693366",
+      "properties": {
+        "timestamp": "2025-02-21T02:29:00Z",
+        "version": 1,
+        "changeset": 162762574,
+        "addr:city": "Salvador",
+        "addr:housenumber": "55",
+        "addr:postcode": "40110-913",
+        "addr:street": "Avenida Araújo Pinho",
+        "addr:suburb": "Canela",
+        "alt_name": "Escola De Música | EMUS | UFBA",
+        "amenity": "university",
+        "email": "emus@ufba.br",
+        "internet_access": "yes",
+        "internet_access:fee": "customers",
+        "loc_name": "Escola De Música | EMUS | UFBA",
+        "name": "Escola De Música | EMUS | UFBA",
+        "nat_name": "Escola De Música | EMUS | UFBA",
+        "official_name": "Escola De Música | EMUS | UFBA",
+        "reg_name": "Escola De Música | EMUS | UFBA",
+        "website": "http://www.escolademusica.ufba.br/",
+        "wheelchair": "yes",
+        "id": "node/12605693366"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5226788,
+          -12.9945314
         ]
       }
     }

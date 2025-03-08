@@ -906,19 +906,18 @@
       "type": "Feature",
       "id": "node/12600491038",
       "properties": {
-        "timestamp": "2025-02-19T11:18:36Z",
-        "version": 1,
-        "changeset": 162696354,
+        "timestamp": "2025-02-21T10:42:24Z",
+        "version": 2,
+        "changeset": 162774278,
         "IBGE:COD_UNICO_ENDERECO": "26909258",
         "addr:housenumber": "1",
         "addr:postcode": "48540-000",
-        "addr:street": "Povoado Cárita",
+        "addr:street": "Escola Agrícola a Baixa da Pedra",
         "addr:suburb": "Escola Agrícola",
+        "alt_name": "Centro Territorial de Ensino Profissional - CETEP",
         "amenity": "school",
         "building": "yes",
-        "fixme": "Verificar coordenadas",
-        "name": "Escola Agrícola",
-        "note": "Sem setor ou quadra no bayface do IBGE 0500-0106P-0-3",
+        "name": "Escola Estadual Agrotécnica de Jeremoabo",
         "id": "node/12600491038"
       },
       "geometry": {
@@ -1006,6 +1005,30 @@
         "coordinates": [
           -38.3527046,
           -10.0778065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12607820841",
+      "properties": {
+        "timestamp": "2025-02-21T19:33:45Z",
+        "version": 1,
+        "changeset": 162794110,
+        "addr:city": "Jeremoabo",
+        "addr:postcode": "48540-000",
+        "addr:suburb": "Jequiá",
+        "amenity": "school",
+        "name": "Escola Municipal Padre José Magalhães",
+        "operator": "Município de Jeremoaba",
+        "operator:type": "public",
+        "id": "node/12607820841"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.2577015,
+          -10.0986794
         ]
       }
     }

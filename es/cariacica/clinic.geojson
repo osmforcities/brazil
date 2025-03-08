@@ -857,56 +857,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/1361537522",
-      "properties": {
-        "timestamp": "2025-02-20T20:48:05Z",
-        "version": 1,
-        "changeset": 162756770,
-        "addr:city": "Cariacica",
-        "addr:housenumber": "12",
-        "addr:postcode": "29146-180",
-        "addr:street": "Travessa Eugênio Rodrigues",
-        "addr:suburb": "Campo Grande",
-        "air_conditioning": "yes",
-        "amenity": "clinic",
-        "building": "yes",
-        "healthcare": "clinic",
-        "healthcare:speciality": "humanistic",
-        "mobile": "27999220995",
-        "name": "Psicóloga Jessica Elaine Tamanhon",
-        "opening_hours": "Mo-Fr 08:00-20:00",
-        "id": "way/1361537522"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -40.3892159,
-              -20.3403788
-            ],
-            [
-              -40.3892987,
-              -20.3404378
-            ],
-            [
-              -40.3892244,
-              -20.3405294
-            ],
-            [
-              -40.3891416,
-              -20.3404704
-            ],
-            [
-              -40.3892159,
-              -20.3403788
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/3460746430",
       "properties": {
         "timestamp": "2019-07-11T17:33:19Z",
@@ -1567,6 +1517,35 @@
         "coordinates": [
           -40.3892169,
           -20.312681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12608492458",
+      "properties": {
+        "timestamp": "2025-02-21T22:37:16Z",
+        "version": 1,
+        "changeset": 162798627,
+        "addr:city": "Cariacica",
+        "addr:housenumber": "12",
+        "addr:postcode": "29146-180",
+        "addr:street": "Travessa Eugênio Rodrigues",
+        "addr:suburb": "Campo Grande",
+        "air_conditioning": "yes",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "humanistic",
+        "mobile": "27999220995",
+        "name": "Psicóloga Jessica Elaine Tamanhon",
+        "opening_hours": "Mo-Fr 08:00-20:00",
+        "id": "node/12608492458"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.3892448,
+          -20.3404348
         ]
       }
     }

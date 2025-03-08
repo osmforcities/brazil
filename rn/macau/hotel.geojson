@@ -5,18 +5,28 @@
       "type": "Feature",
       "id": "node/11756752569",
       "properties": {
-        "timestamp": "2024-03-23T22:42:36Z",
-        "version": 4,
-        "changeset": 149069767,
-        "addr:housenumber": "83",
+        "timestamp": "2025-02-21T15:56:37Z",
+        "version": 6,
+        "changeset": 162786674,
+        "addr:city": "Macau",
         "addr:postcode": "59500000",
         "addr:street": "Rua São José",
+        "air_conditioning": "yes",
+        "brand": "Maria Bonita",
         "contact:instagram": "pousada_mariabonita",
+        "email": "maria-bonita.service761@passinbox.com",
         "internet_access": "wlan",
+        "internet_access:fee": "no",
         "name": "Pousada Maria Bonita",
         "name:en": "Maria Bonita Inn",
         "name:es": "Posada/Pensión María Bonita",
-        "opening_hours": "Mo-Su 07:00-22:00",
+        "opening_hours": "Mo-Su 07:00-23:30",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:lightning": "yes",
+        "phone": "84988152426",
+        "rooms": "3",
         "tourism": "hotel",
         "id": "node/11756752569"
       },
@@ -25,6 +35,44 @@
         "coordinates": [
           -36.6351023,
           -5.1157429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12607170451",
+      "properties": {
+        "timestamp": "2025-02-21T16:15:43Z",
+        "version": 2,
+        "changeset": 162787540,
+        "addr:city": "Macau",
+        "addr:housenumber": "84a",
+        "addr:postcode": "59500000",
+        "addr:street": "Rua Amaro Cavalcante",
+        "addr:suburb": "Centro",
+        "air_conditioning": "yes",
+        "brand": "Maria Bonita",
+        "description": "Pousada no centro de Macau, procurar 84988152426 para mais informações.",
+        "email": "maria-bonita.service761@passinbox.com",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "mobile": "5584988152426",
+        "name": "Pousada Maria Bonita",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:lightning": "yes",
+        "phone": "84988152426",
+        "rooms": "8",
+        "tourism": "hotel",
+        "website": "https://www.instagram.com/pousada_mariabonita?igsh=MWwxeWpucHE4ejhvag==",
+        "id": "node/12607170451"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.6320796,
+          -5.1150507
         ]
       }
     }

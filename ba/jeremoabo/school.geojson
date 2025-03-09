@@ -638,9 +638,9 @@
       "type": "Feature",
       "id": "node/12600485823",
       "properties": {
-        "timestamp": "2025-02-19T11:18:21Z",
-        "version": 1,
-        "changeset": 162696354,
+        "timestamp": "2025-02-24T23:53:58Z",
+        "version": 2,
+        "changeset": 162912465,
         "IBGE:COD_UNICO_ENDERECO": "26909351",
         "addr:housenumber": "7",
         "addr:postcode": "48540-000",
@@ -648,9 +648,7 @@
         "addr:suburb": "Canabravinha da Quixabeira",
         "amenity": "school",
         "building": "yes",
-        "fixme": "Verificar coordenadas",
         "name": "Escola Municipal Santa Joana d'Arc",
-        "note": "Sem setor ou quadra no bayface do IBGE 0500-0032P-0-112",
         "id": "node/12600485823"
       },
       "geometry": {
@@ -846,19 +844,18 @@
       "type": "Feature",
       "id": "node/12600490146",
       "properties": {
-        "timestamp": "2025-02-19T11:18:33Z",
-        "version": 1,
-        "changeset": 162696354,
+        "timestamp": "2025-02-24T23:53:58Z",
+        "version": 2,
+        "changeset": 162912465,
         "IBGE:COD_UNICO_ENDERECO": "25983641",
+        "addr:city": "Jeremoabo",
         "addr:housenumber": "120 B",
         "addr:postcode": "48540-000",
         "addr:street": "Fazenda Bananeirinha",
         "addr:suburb": "Bananeirinha",
         "amenity": "school",
         "building": "yes",
-        "fixme": "Verificar coordenadas",
         "name": "Escola Municipal Nélson Melo",
-        "note": "Sem setor ou quadra no bayface do IBGE 0500-0108P-0-7",
         "id": "node/12600490146"
       },
       "geometry": {
@@ -949,33 +946,6 @@
         "coordinates": [
           -38.331734,
           -9.997445
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/12600491091",
-      "properties": {
-        "timestamp": "2025-02-19T11:18:36Z",
-        "version": 1,
-        "changeset": 162696354,
-        "IBGE:COD_UNICO_ENDERECO": "25985631",
-        "addr:housenumber": "1",
-        "addr:postcode": "48540-000",
-        "addr:street": "Rua do Colégio",
-        "addr:suburb": "Centro",
-        "amenity": "school",
-        "building": "yes",
-        "fixme": "Verificar coordenadas",
-        "name": "Colégio São João Batista",
-        "note": "Sem dados para mover para dentro da quadra 0500-0067P-4-4",
-        "id": "node/12600491091"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -38.3529434,
-          -10.0679
         ]
       }
     },

@@ -5,10 +5,16 @@
       "type": "Feature",
       "id": "way/542722346",
       "properties": {
-        "timestamp": "2017-11-25T09:50:20Z",
-        "version": 1,
-        "changeset": 54068239,
+        "timestamp": "2025-02-24T17:27:18Z",
+        "version": 2,
+        "changeset": 162902217,
+        "addr:city": "Novo Triunfo",
+        "addr:postcode": "48455-000",
+        "addr:suburb": "Lagoa do Barro",
         "amenity": "school",
+        "name": "Escola Municipal São João",
+        "operator": "Município de Novo Triunfo",
+        "operator:type": "public",
         "id": "way/542722346"
       },
       "geometry": {
@@ -43,19 +49,24 @@
       "type": "Feature",
       "id": "node/4245996556",
       "properties": {
-        "timestamp": "2025-02-23T20:10:36Z",
-        "version": 3,
-        "changeset": 162867334,
+        "timestamp": "2025-02-24T17:07:14Z",
+        "version": 5,
+        "changeset": 162901580,
         "addr:city": "Novo Triunfo",
+        "addr:housenumber": "68",
         "addr:postcode": "48455-000",
+        "addr:street": "Rua Sete de Setembro",
         "addr:suburb": "Centro",
         "amenity": "school",
+        "name": "Escola Estadual Rui Bacelar",
+        "operator": "Secretaria de Educação do Estado da Bahia",
+        "operator:type": "public",
         "id": "node/4245996556"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -38.4215018,
+          -38.4214443,
           -10.3329791
         ]
       }
@@ -64,11 +75,13 @@
       "type": "Feature",
       "id": "node/4245996889",
       "properties": {
-        "timestamp": "2025-02-23T20:10:36Z",
-        "version": 3,
-        "changeset": 162867334,
+        "timestamp": "2025-02-24T14:31:43Z",
+        "version": 4,
+        "changeset": 162895381,
         "addr:city": "Novo Triunfo",
+        "addr:housenumber": "12",
         "addr:postcode": "48455-000",
+        "addr:street": "Praça São Pedro",
         "addr:suburb": "Centro",
         "amenity": "school",
         "name": "Escola Municipal Pedro Macário de Carvalho",
@@ -104,17 +117,102 @@
       "type": "Feature",
       "id": "node/4245996903",
       "properties": {
-        "timestamp": "2020-01-12T15:07:45Z",
-        "version": 2,
-        "changeset": 79478356,
+        "timestamp": "2025-02-24T17:07:14Z",
+        "version": 3,
+        "changeset": 162901580,
+        "addr:city": "Novo Triunfo",
+        "addr:postcode": "48445-000",
+        "addr:street": "Rua Luis Eduardo Magalhães",
+        "addr:suburb": "Centro",
         "amenity": "school",
+        "name": "Colégio Municipal Novo Triunfo",
+        "operator": "Município de Novo Triunfo",
+        "operator:type": "public",
         "id": "node/4245996903"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -38.4210458,
-          -10.3306148
+          -38.420884,
+          -10.3305499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12615921608",
+      "properties": {
+        "timestamp": "2025-02-24T14:31:43Z",
+        "version": 1,
+        "changeset": 162895381,
+        "addr:city": "Novo Triunfo",
+        "addr:housenumber": "39",
+        "addr:postcode": "48455-000",
+        "addr:street": "Travessa Nova Esperança",
+        "addr:suburb": "Centro",
+        "amenity": "school",
+        "name": "Colégio Estadual Professora Maria Teresa de Oliveira",
+        "operator": "Secretaria de Educação do Estado da Bahia",
+        "operator:type": "public",
+        "id": "node/12615921608"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4187561,
+          -10.3402515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12616241253",
+      "properties": {
+        "timestamp": "2025-02-24T17:07:14Z",
+        "version": 1,
+        "changeset": 162901580,
+        "addr:city": "Novo Triunfo",
+        "addr:housenumber": "1",
+        "addr:postcode": "48455-000",
+        "addr:street": "Rua do Colégio",
+        "addr:suburb": "Lagoa do Badico",
+        "amenity": "school",
+        "name": "Escola Municipal Santo Antônio",
+        "operator": "Município de Novo Triunfo",
+        "operator:type": "public",
+        "id": "node/12616241253"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.3649189,
+          -10.3336331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12616241300",
+      "properties": {
+        "timestamp": "2025-02-24T17:07:14Z",
+        "version": 1,
+        "changeset": 162901580,
+        "addr:city": "Novo Triunfo",
+        "addr:housenumber": "1",
+        "addr:postcode": "48455-000",
+        "addr:street": "Rua do Colégio",
+        "addr:suburb": "Lagoa do Badico",
+        "amenity": "school",
+        "name": "Escola Municipal Angelo Badico",
+        "operator": "Município de Novo Triunfo",
+        "operator:type": "public",
+        "id": "node/12616241300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.3632197,
+          -10.3332042
         ]
       }
     }

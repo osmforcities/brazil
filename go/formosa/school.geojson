@@ -316,6 +316,55 @@
     },
     {
       "type": "Feature",
+      "id": "way/1362593779",
+      "properties": {
+        "timestamp": "2025-02-24T12:49:25Z",
+        "version": 1,
+        "changeset": 162891364,
+        "addr:city": "Formosa",
+        "addr:housenumber": "320",
+        "addr:postcode": "73801-480",
+        "addr:street": "Rua Professora Auta Vidal",
+        "addr:suburb": "Centro",
+        "amenity": "school",
+        "building": "school",
+        "description": "Centro de Ensino em Período Integral Americano do Brasil. A escola oferta 1ª, 2ª e 3ª série do Ensino Médio.",
+        "name": "CEPI Americano do Brasil",
+        "phone": "+55 (61) 93631-8450",
+        "website": "https://www.instagram.com/cepiamericanodobrasil?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+        "wheelchair": "yes",
+        "id": "way/1362593779"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.3408208,
+              -15.5446024
+            ],
+            [
+              -47.3402151,
+              -15.5447238
+            ],
+            [
+              -47.3401215,
+              -15.5443909
+            ],
+            [
+              -47.3407619,
+              -15.5442616
+            ],
+            [
+              -47.3408208,
+              -15.5446024
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/3095299748",
       "properties": {
         "timestamp": "2014-09-25T09:36:10Z",
@@ -402,6 +451,31 @@
         "coordinates": [
           -47.3391154,
           -15.5401585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12615735779",
+      "properties": {
+        "timestamp": "2025-02-24T12:39:41Z",
+        "version": 1,
+        "changeset": 162890996,
+        "addr:city": "Formosa",
+        "addr:housenumber": "320",
+        "addr:postcode": "73801-480",
+        "addr:street": "Rua Auta Vidal",
+        "addr:suburb": "Centro",
+        "amenity": "school",
+        "name": "CEPI Americano do Brasil",
+        "website": "https://www.instagram.com/cepiamericanodobrasil?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+        "id": "node/12615735779"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.340767,
+          -15.5444903
         ]
       }
     }

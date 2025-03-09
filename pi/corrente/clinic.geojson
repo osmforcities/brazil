@@ -3,6 +3,98 @@
   "features": [
     {
       "type": "Feature",
+      "id": "way/1362593785",
+      "properties": {
+        "timestamp": "2025-02-24T12:49:39Z",
+        "version": 1,
+        "changeset": 162891368,
+        "addr:city": "Corrente",
+        "addr:postcode": "64980000",
+        "addr:street": "Rua Alberto Sabino",
+        "addr:suburb": "Aeroporto",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "UBS 'Aeroporto'",
+        "operator": "Prefeitura Municipal de Corrente",
+        "operator:type": "public",
+        "id": "way/1362593785"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -45.1441046,
+              -10.4525782
+            ],
+            [
+              -45.1441523,
+              -10.4527483
+            ],
+            [
+              -45.1438052,
+              -10.4528424
+            ],
+            [
+              -45.1437575,
+              -10.4526723
+            ],
+            [
+              -45.1441046,
+              -10.4525782
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1362645135",
+      "properties": {
+        "timestamp": "2025-02-24T17:06:02Z",
+        "version": 1,
+        "changeset": 162901543,
+        "addr:city": "Corrente",
+        "addr:postcode": "64980-000",
+        "addr:suburb": "Jacolândia",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "UBS Jacolândia/Nova Corrente",
+        "operator": "Prefeitura Municipal de Corrente",
+        "operator:type": "public",
+        "id": "way/1362645135"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -45.186719,
+              -10.4287779
+            ],
+            [
+              -45.1869069,
+              -10.4289809
+            ],
+            [
+              -45.1866019,
+              -10.4292552
+            ],
+            [
+              -45.1864217,
+              -10.4290582
+            ],
+            [
+              -45.186719,
+              -10.4287779
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/12577400526",
       "properties": {
         "timestamp": "2025-02-11T03:17:39Z",
@@ -31,16 +123,15 @@
       "type": "Feature",
       "id": "node/12577400527",
       "properties": {
-        "timestamp": "2025-02-11T03:17:39Z",
-        "version": 1,
-        "changeset": 162374553,
+        "timestamp": "2025-02-24T17:06:02Z",
+        "version": 2,
+        "changeset": 162901543,
         "addr:city": "Corrente",
         "addr:postcode": "64980-000",
-        "addr:street": "Avenida Manoel Lourenço Cavalcante",
-        "addr:suburb": "Nova Corrente",
+        "addr:suburb": "Jacolândia",
         "amenity": "clinic",
         "healthcare": "clinic",
-        "name": "UBS Jacolândia",
+        "name": "UBS Jacolândia/Nova Corrente",
         "operator": "Prefeitura Municipal de Corrente",
         "operator:type": "public",
         "id": "node/12577400527"
@@ -48,8 +139,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -45.1766287,
-          -10.437079
+          -45.1867344,
+          -10.4289645
         ]
       }
     },
@@ -106,16 +197,18 @@
       "type": "Feature",
       "id": "node/12577400530",
       "properties": {
-        "timestamp": "2025-02-11T03:17:39Z",
-        "version": 1,
-        "changeset": 162374553,
+        "timestamp": "2025-02-24T12:49:39Z",
+        "version": 2,
+        "changeset": 162891368,
         "addr:city": "Corrente",
         "addr:postcode": "64980000",
         "addr:street": "Rua Alberto Sabino",
         "addr:suburb": "Aeroporto",
         "amenity": "clinic",
         "healthcare": "clinic",
-        "name": "UBS Aeroporto",
+        "name": "UBS 'Aeroporto'",
+        "operator": "Prefeitura Municipal de Corrente",
+        "operator:type": "public",
         "id": "node/12577400530"
       },
       "geometry": {

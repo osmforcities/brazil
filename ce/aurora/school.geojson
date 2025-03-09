@@ -243,9 +243,9 @@
       "type": "Feature",
       "id": "way/1168886661",
       "properties": {
-        "timestamp": "2023-05-05T06:26:54Z",
-        "version": 1,
-        "changeset": 135726322,
+        "timestamp": "2025-02-24T23:01:17Z",
+        "version": 2,
+        "changeset": 162911655,
         "addr:city": "Aurora",
         "addr:housenumber": "1 SMS C7",
         "addr:postcode": "63360-000",
@@ -253,6 +253,7 @@
         "addr:suburb": "Mororó",
         "alt_name": "Escola Antonio Landim de Macêdo",
         "amenity": "school",
+        "barrier": "yes",
         "grades": "0-9",
         "name": "E. E. I. F. Antonio Landim de Macêdo",
         "id": "way/1168886661"
@@ -262,24 +263,36 @@
         "coordinates": [
           [
             [
-              -38.964421,
-              -6.9575345
+              -38.9644186,
+              -6.957533
             ],
             [
-              -38.9636103,
-              -6.9571345
+              -38.963607,
+              -6.957133
             ],
             [
-              -38.964016,
-              -6.9563244
+              -38.9640172,
+              -6.956327
             ],
             [
-              -38.9648226,
-              -6.9567326
+              -38.9643782,
+              -6.9565229
             ],
             [
-              -38.964421,
-              -6.9575345
+              -38.9644035,
+              -6.9565361
+            ],
+            [
+              -38.9644288,
+              -6.9565493
+            ],
+            [
+              -38.964826,
+              -6.9567325
+            ],
+            [
+              -38.9644186,
+              -6.957533
             ]
           ]
         ]
@@ -599,6 +612,26 @@
         "coordinates": [
           -38.9581184,
           -6.9435835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12616775210",
+      "properties": {
+        "timestamp": "2025-02-24T23:01:17Z",
+        "version": 1,
+        "changeset": 162911655,
+        "barrier": "gate",
+        "foot": "permissive",
+        "horse": "no",
+        "id": "node/12616775210"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.9644035,
+          -6.9565361
         ]
       }
     }

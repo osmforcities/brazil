@@ -424,53 +424,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/1024545559",
-      "properties": {
-        "timestamp": "2022-01-25T12:56:14Z",
-        "version": 1,
-        "changeset": 116584558,
-        "amenity": "school",
-        "name": "Instituto Batista Correntino",
-        "id": "way/1024545559"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -45.1534806,
-              -10.4496934
-            ],
-            [
-              -45.153905,
-              -10.4493843
-            ],
-            [
-              -45.15404,
-              -10.4494172
-            ],
-            [
-              -45.1542396,
-              -10.4496664
-            ],
-            [
-              -45.1541524,
-              -10.4499273
-            ],
-            [
-              -45.1538249,
-              -10.4501472
-            ],
-            [
-              -45.1534806,
-              -10.4496934
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/1024548364",
       "properties": {
         "timestamp": "2022-01-25T13:05:53Z",
@@ -922,24 +875,26 @@
       "type": "Feature",
       "id": "node/9447454066",
       "properties": {
-        "timestamp": "2022-01-25T13:03:32Z",
-        "version": 1,
-        "changeset": 116584849,
+        "timestamp": "2025-02-24T12:49:39Z",
+        "version": 2,
+        "changeset": 162891368,
         "addr:city": "Corrente",
         "addr:housenumber": "287",
         "addr:postcode": "64980-000",
         "addr:street": "Rua Getúlio Vargas",
         "addr:suburb": "Centro",
         "amenity": "school",
+        "denomination": "catholic",
         "name": "Colegio Mercedario Sao Jose",
         "phone": "+55 89 3573 1304",
+        "religion": "christian",
         "id": "node/9447454066"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -45.1637287,
-          -10.4429979
+          -45.1637694,
+          -10.4431778
         ]
       }
     },
@@ -1077,6 +1032,30 @@
         "coordinates": [
           -45.1849557,
           -10.2143957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12615734544",
+      "properties": {
+        "timestamp": "2025-02-24T12:49:39Z",
+        "version": 1,
+        "changeset": 162891368,
+        "addr:city": "Corrente",
+        "addr:postcode": "64980000",
+        "addr:street": "Rua Professora Joaquina de Oliveira Nogueira",
+        "amenity": "school",
+        "denomination": "baptist",
+        "name": "Instituto Batista Correntino - IBC",
+        "religion": "christian",
+        "id": "node/12615734544"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.1532216,
+          -10.4493621
         ]
       }
     }

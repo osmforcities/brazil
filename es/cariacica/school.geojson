@@ -4640,6 +4640,188 @@
     },
     {
       "type": "Feature",
+      "id": "way/1362242825",
+      "properties": {
+        "timestamp": "2025-02-23T06:43:29Z",
+        "version": 1,
+        "changeset": 162840020,
+        "addr:city": "Cariacica",
+        "addr:postcode": "29146-728",
+        "addr:street": "Rua Nossa Senhora Aparecida",
+        "addr:suburb": "São Geraldo",
+        "amenity": "school",
+        "name": "CMEI Pedro Vieira da Silva",
+        "operator": "Prefeitura Municipal de Cariacica",
+        "operator:type": "government",
+        "phone": "2733548156",
+        "id": "way/1362242825"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.3788735,
+              -20.3431342
+            ],
+            [
+              -40.3789632,
+              -20.3433196
+            ],
+            [
+              -40.3789031,
+              -20.3433488
+            ],
+            [
+              -40.3786602,
+              -20.3434665
+            ],
+            [
+              -40.3786529,
+              -20.3434562
+            ],
+            [
+              -40.3786472,
+              -20.3434481
+            ],
+            [
+              -40.378622,
+              -20.3434422
+            ],
+            [
+              -40.3784468,
+              -20.3433286
+            ],
+            [
+              -40.3788735,
+              -20.3431342
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1362242855",
+      "properties": {
+        "timestamp": "2025-02-23T06:43:29Z",
+        "version": 1,
+        "changeset": 162840020,
+        "addr:city": "Cariacica",
+        "addr:housenumber": "78",
+        "addr:postcode": "29141-020",
+        "addr:street": "Avenida Eduardo Laranja Gomes",
+        "addr:suburb": "Vale Esperança",
+        "amenity": "school",
+        "name": "CMEI Geraldo Menegucci",
+        "operator": "Prefeitura Municipal de Cariacica",
+        "operator:type": "government",
+        "phone": "2733548144",
+        "id": "way/1362242855"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.3686884,
+              -20.3427874
+            ],
+            [
+              -40.3686798,
+              -20.342994
+            ],
+            [
+              -40.3686758,
+              -20.3430878
+            ],
+            [
+              -40.3686101,
+              -20.3430726
+            ],
+            [
+              -40.368459,
+              -20.3429447
+            ],
+            [
+              -40.3685513,
+              -20.3428552
+            ],
+            [
+              -40.3685934,
+              -20.3428142
+            ],
+            [
+              -40.3686355,
+              -20.3427733
+            ],
+            [
+              -40.3686884,
+              -20.3427874
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1362414221",
+      "properties": {
+        "timestamp": "2025-02-23T23:17:10Z",
+        "version": 1,
+        "changeset": 162871864,
+        "addr:city": "Cariacica",
+        "addr:housenumber": "9",
+        "addr:postcode": "29151-075",
+        "addr:street": "Rua Alberico Rodrigues",
+        "addr:suburb": "Alto Lage",
+        "amenity": "school",
+        "name": "Creche Escola Passinhos do Saber",
+        "phone": "2733968017",
+        "id": "way/1362414221"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.3688327,
+              -20.3299771
+            ],
+            [
+              -40.3688093,
+              -20.3300458
+            ],
+            [
+              -40.3688003,
+              -20.3300722
+            ],
+            [
+              -40.3687804,
+              -20.3301305
+            ],
+            [
+              -40.36862,
+              -20.3300657
+            ],
+            [
+              -40.3686869,
+              -20.3299504
+            ],
+            [
+              -40.3687469,
+              -20.3299614
+            ],
+            [
+              -40.3688327,
+              -20.3299771
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/3460744524",
       "properties": {
         "timestamp": "2019-07-11T17:33:19Z",
@@ -4843,35 +5025,6 @@
         "coordinates": [
           -40.3685943,
           -20.3613188
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/3460744589",
-      "properties": {
-        "timestamp": "2019-07-11T17:33:19Z",
-        "version": 3,
-        "changeset": 72146221,
-        "IJSN:administra": "Municipal",
-        "IJSN:classeCnae": "Infantil e Fundamental",
-        "addr:city": "Cariacica",
-        "addr:country": "BR",
-        "addr:place": "São Geraldo",
-        "addr:postcode": "29146-728",
-        "addr:state": "ES",
-        "addr:street": "Rua Aparecida",
-        "alt_name": "Centro Municipal de Educação Infantil",
-        "amenity": "school",
-        "contact:phone": "+55 27 3286-6681/3343-2008",
-        "name": "CMEI Pedro Vieira da Silva",
-        "id": "node/3460744589"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -40.3786807,
-          -20.3432823
         ]
       }
     },
@@ -6157,36 +6310,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/3460745689",
-      "properties": {
-        "timestamp": "2019-07-11T17:33:19Z",
-        "version": 3,
-        "changeset": 72146221,
-        "IJSN:administra": "Municipal",
-        "IJSN:classeCnae": "Fundamental",
-        "addr:city": "Cariacica",
-        "addr:country": "BR",
-        "addr:housenumber": "175",
-        "addr:place": "Boa Sorte",
-        "addr:postcode": "29141-240",
-        "addr:state": "ES",
-        "addr:street": "Rua 7 de Setembro",
-        "alt_name": "Escola Municipal de Ensino Fundamental",
-        "amenity": "school",
-        "contact:phone": "+55 27 3316-1578;+55 27 3326-5351",
-        "name": "EMEF Jones dos Santos Neves",
-        "id": "node/3460745689"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -40.3684509,
-          -20.347825
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/3460745691",
       "properties": {
         "timestamp": "2024-04-23T02:48:42Z",
@@ -7277,6 +7400,103 @@
         "coordinates": [
           -40.3919869,
           -20.3415064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12612177275",
+      "properties": {
+        "timestamp": "2025-02-23T06:43:29Z",
+        "version": 1,
+        "changeset": 162840020,
+        "barrier": "gate",
+        "id": "node/12612177275"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.3789031,
+          -20.3433488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12612177278",
+      "properties": {
+        "timestamp": "2025-02-23T06:43:29Z",
+        "version": 1,
+        "changeset": 162840020,
+        "barrier": "gate",
+        "id": "node/12612177278"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.3786529,
+          -20.3434562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12612221167",
+      "properties": {
+        "timestamp": "2025-02-23T06:43:29Z",
+        "version": 1,
+        "changeset": 162840020,
+        "barrier": "gate",
+        "id": "node/12612221167"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.3685934,
+          -20.3428142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12613922600",
+      "properties": {
+        "timestamp": "2025-02-23T23:17:10Z",
+        "version": 1,
+        "changeset": 162871864,
+        "barrier": "gate",
+        "id": "node/12613922600"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.3688093,
+          -20.3300458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12613959005",
+      "properties": {
+        "timestamp": "2025-02-23T23:17:10Z",
+        "version": 1,
+        "changeset": 162871864,
+        "addr:city": "Cariacica",
+        "addr:housenumber": "28",
+        "addr:postcode": "29151-130",
+        "addr:street": "Rua Arthur Mazelli",
+        "addr:suburb": "Alto Laje",
+        "amenity": "school",
+        "mobile": "27998097927",
+        "name": "Crechezinha Palhacinho Feliz",
+        "id": "node/12613959005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.3666542,
+          -20.3296161
         ]
       }
     }

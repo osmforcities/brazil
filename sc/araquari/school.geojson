@@ -5,9 +5,9 @@
       "type": "Feature",
       "id": "way/279940842",
       "properties": {
-        "timestamp": "2024-10-05T13:35:49Z",
-        "version": 6,
-        "changeset": 157501552,
+        "timestamp": "2025-02-23T23:58:04Z",
+        "version": 7,
+        "changeset": 162872520,
         "addr:city": "Araquari",
         "addr:housenumber": "570, km 5",
         "addr:postcode": "89245-000",
@@ -16,6 +16,10 @@
         "amenity": "school",
         "barrier": "wall",
         "name": "Escola de Ensino Fundamental Prefeito Higino Aguiar",
+        "operator": "Secretaria Municipal da Educação",
+        "operator:type": "government",
+        "religion": "none",
+        "short_name": "E.E.F. Prefeito Higino Aguiar",
         "id": "way/279940842"
       },
       "geometry": {
@@ -27,28 +31,32 @@
               -26.4079327
             ],
             [
-              -48.7991537,
-              -26.4079373
+              -48.7991507,
+              -26.4079714
             ],
             [
-              -48.7991291,
-              -26.408611
+              -48.7991504,
+              -26.4086124
             ],
             [
-              -48.7989297,
-              -26.4088464
+              -48.7989419,
+              -26.4088628
             ],
             [
-              -48.7987003,
-              -26.4089821
+              -48.7986592,
+              -26.4089957
             ],
             [
-              -48.7983651,
-              -26.4087507
+              -48.7983392,
+              -26.4087739
             ],
             [
-              -48.7987927,
-              -26.4082958
+              -48.7984959,
+              -26.4086467
+            ],
+            [
+              -48.7987988,
+              -26.4083231
             ],
             [
               -48.7990355,
@@ -223,6 +231,52 @@
             [
               -48.7217358,
               -26.5519046
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1362337349",
+      "properties": {
+        "timestamp": "2025-02-23T16:32:47Z",
+        "version": 1,
+        "changeset": 162860262,
+        "addr:housenumber": "555",
+        "addr:street": "Rua Joel Elias Steil",
+        "addr:suburb": "Itinga",
+        "amenity": "school",
+        "official_name": "Escola Municipal Francisco Jablonsky",
+        "operator": "Secretaria Municipal de Educação",
+        "operator:type": "government",
+        "religion": "none",
+        "website": "https://araquari.atende.net/cidadao/pagina/escola-municipal-francisco-jablonsky",
+        "id": "way/1362337349"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.7990016,
+              -26.3993398
+            ],
+            [
+              -48.7986151,
+              -26.3997549
+            ],
+            [
+              -48.7980166,
+              -26.3992147
+            ],
+            [
+              -48.7983473,
+              -26.3987871
+            ],
+            [
+              -48.7990016,
+              -26.3993398
             ]
           ]
         ]

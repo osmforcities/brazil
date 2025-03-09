@@ -238,6 +238,91 @@
     },
     {
       "type": "Feature",
+      "id": "way/1362328934",
+      "properties": {
+        "timestamp": "2025-02-23T15:47:29Z",
+        "version": 1,
+        "changeset": 162858016,
+        "access": "yes",
+        "leisure": "pitch",
+        "lit": "yes",
+        "name": "Quadra Sintética",
+        "sport": "soccer",
+        "surface": "artificial_turf",
+        "id": "way/1362328934"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.0106235,
+              -22.5038928
+            ],
+            [
+              -44.0104796,
+              -22.5040955
+            ],
+            [
+              -44.0101514,
+              -22.5038928
+            ],
+            [
+              -44.0102936,
+              -22.5036886
+            ],
+            [
+              -44.0106235,
+              -22.5038928
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1362328935",
+      "properties": {
+        "timestamp": "2025-02-23T15:47:29Z",
+        "version": 1,
+        "changeset": 162858016,
+        "access": "yes",
+        "leisure": "pitch",
+        "lit": "yes",
+        "sport": "basketball;futsal",
+        "surface": "acrylic",
+        "id": "way/1362328935"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.0106054,
+              -22.5036728
+            ],
+            [
+              -44.0105223,
+              -22.5037939
+            ],
+            [
+              -44.0103159,
+              -22.503665
+            ],
+            [
+              -44.0103974,
+              -22.5035462
+            ],
+            [
+              -44.0106054,
+              -22.5036728
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/4330842741",
       "properties": {
         "timestamp": "2016-08-01T12:46:42Z",
@@ -255,6 +340,57 @@
         "coordinates": [
           -44.0156707,
           -22.5534559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12613922654",
+      "properties": {
+        "timestamp": "2025-02-23T23:02:36Z",
+        "version": 2,
+        "changeset": 162871623,
+        "addr:city": "Pinheiral",
+        "addr:housenumber": "107 B",
+        "addr:street": "Rua Valter Valim Botelho",
+        "addr:suburb": "Vale do Sol",
+        "contact:instagram": "https://www.instagram.com/studio.onfit",
+        "leisure": "fitness_centre",
+        "name": "Studio OnFit",
+        "phone": "+55 24 992639687",
+        "sport": "pilates",
+        "id": "node/12613922654"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.0139436,
+          -22.5031128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12613922658",
+      "properties": {
+        "timestamp": "2025-02-23T22:50:01Z",
+        "version": 1,
+        "changeset": 162871393,
+        "addr:city": "Pinheiral",
+        "addr:housenumber": "18",
+        "addr:street": "Rua Valter Valim Botelho",
+        "addr:suburb": "Vale do Sol",
+        "amenity": "dojo",
+        "contact:instagram": "https://www.instagram.com/blackteamdouglasbreujj",
+        "name": "Black Team Jiu-Jitsu",
+        "sport": "jiu-jitsu;boxing",
+        "id": "node/12613922658"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.0133321,
+          -22.503067
         ]
       }
     }

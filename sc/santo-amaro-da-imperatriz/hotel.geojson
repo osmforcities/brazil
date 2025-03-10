@@ -247,65 +247,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/406279640",
-      "properties": {
-        "timestamp": "2017-06-12T23:36:32Z",
-        "version": 3,
-        "changeset": 49484726,
-        "addr:street": "Rua Princesa Leopoldina",
-        "alt_name": "Resort Plaza Caldas da Imperatriz",
-        "building": "hotel",
-        "internet_access": "wlan",
-        "name": "Hotel Plaza Caldas da Imperatriz",
-        "tourism": "hotel",
-        "id": "way/406279640"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -48.8102723,
-              -27.7306982
-            ],
-            [
-              -48.8103763,
-              -27.7308688
-            ],
-            [
-              -48.8101425,
-              -27.7309805
-            ],
-            [
-              -48.8105041,
-              -27.7315737
-            ],
-            [
-              -48.8103014,
-              -27.7316705
-            ],
-            [
-              -48.8099412,
-              -27.7310795
-            ],
-            [
-              -48.8096935,
-              -27.7311978
-            ],
-            [
-              -48.8095881,
-              -27.731025
-            ],
-            [
-              -48.8102723,
-              -27.7306982
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/1218842756",
       "properties": {
         "timestamp": "2023-10-27T18:12:34Z",
@@ -708,6 +649,57 @@
         "coordinates": [
           -48.7800213,
           -27.6893699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12620391214",
+      "properties": {
+        "timestamp": "2025-02-26T11:31:03Z",
+        "version": 1,
+        "changeset": 162967602,
+        "contact:whatsapp": "+55 48 98487-7422",
+        "email": "hotelcaldas@hotelcaldas.com.br",
+        "name": "Hotel Caldas de Imperatriz",
+        "phone": "+55 48 3245-7088",
+        "tourism": "hotel",
+        "website": "https://www.hotelcaldas.com.br/",
+        "id": "node/12620391214"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.8108693,
+          -27.7305585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12620391220",
+      "properties": {
+        "timestamp": "2025-02-26T11:31:03Z",
+        "version": 1,
+        "changeset": 162967602,
+        "addr:city": "Santo Amaro da Imperatriz",
+        "addr:housenumber": "3355",
+        "addr:street": "Rua Princesa Leopoldina",
+        "alt_name": "Plaza Caldas da Imperatriz",
+        "contact:whatsapp": "+55 51 9944-46964",
+        "email": "reservas@plazahoteis.com.br",
+        "internet_access": "wlan",
+        "name": "Plaza Caldas da Imperatriz Resort & SPA",
+        "phone": "0800 70 75 292",
+        "tourism": "hotel",
+        "website": "https://www.plazahoteis.com.br/caldasimperatriz/pt-br/",
+        "id": "node/12620391220"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.810215,
+          -27.7312883
         ]
       }
     }

@@ -4546,12 +4546,15 @@
       "type": "Feature",
       "id": "node/12607744021",
       "properties": {
-        "timestamp": "2025-02-21T19:27:29Z",
-        "version": 1,
-        "changeset": 162793929,
+        "timestamp": "2025-02-26T01:26:40Z",
+        "version": 2,
+        "changeset": 162954514,
         "currency:XBT": "yes",
         "leisure": "pitch",
         "name": "Wasteland Paintball Center",
+        "payment:lightning": "yes",
+        "payment:lightning_contactless": "yes",
+        "payment:onchain": "yes",
         "sport": "paintball",
         "id": "node/12607744021"
       },
@@ -4560,6 +4563,33 @@
         "coordinates": [
           -51.0270109,
           -30.0804719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12619431488",
+      "properties": {
+        "timestamp": "2025-02-26T01:19:25Z",
+        "version": 1,
+        "changeset": 162954416,
+        "addr:city": "Viamão",
+        "addr:housenumber": "20",
+        "addr:street": "Rua Valter de Azevedo",
+        "addr:suburb": "Centro",
+        "currency:XBT": "yes",
+        "leisure": "fitness_centre",
+        "name": "VM Dojô Vida",
+        "payment:lightning": "yes",
+        "payment:onchain": "yes",
+        "sport": "jiu-jitsu",
+        "id": "node/12619431488"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.0373052,
+          -30.0780378
         ]
       }
     }

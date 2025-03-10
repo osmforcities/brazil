@@ -5,14 +5,15 @@
       "type": "Feature",
       "id": "way/907565267",
       "properties": {
-        "timestamp": "2021-02-16T00:05:19Z",
-        "version": 1,
-        "changeset": 99337029,
+        "timestamp": "2025-02-26T19:10:51Z",
+        "version": 2,
+        "changeset": 162985211,
         "addr:city": "Santa Brígida",
         "addr:postcode": "48570000",
         "addr:street": "Avenida Rui Barbosa",
         "addr:suburb": "Centro",
         "building": "yes",
+        "government": "healthcare",
         "name": "Secretaria Municipal da Saúde",
         "office": "government",
         "id": "way/907565267"
@@ -22,24 +23,80 @@
         "coordinates": [
           [
             [
-              -38.1271877,
-              -9.7363801
+              -38.127196,
+              -9.7363963
             ],
             [
-              -38.1274687,
-              -9.7365147
+              -38.1272695,
+              -9.7364287
             ],
             [
-              -38.1272814,
-              -9.7368981
+              -38.1272615,
+              -9.7364464
             ],
             [
-              -38.126996,
-              -9.7367794
+              -38.127467,
+              -9.7365368
             ],
             [
-              -38.1271877,
-              -9.7363801
+              -38.1274185,
+              -9.7366439
+            ],
+            [
+              -38.1273534,
+              -9.7366153
+            ],
+            [
+              -38.1272824,
+              -9.7367722
+            ],
+            [
+              -38.1273454,
+              -9.7367999
+            ],
+            [
+              -38.1273246,
+              -9.736846
+            ],
+            [
+              -38.1272672,
+              -9.7368208
+            ],
+            [
+              -38.1272554,
+              -9.7368468
+            ],
+            [
+              -38.1271314,
+              -9.7367923
+            ],
+            [
+              -38.1271544,
+              -9.7367416
+            ],
+            [
+              -38.1271721,
+              -9.7367494
+            ],
+            [
+              -38.1272619,
+              -9.7365511
+            ],
+            [
+              -38.1272113,
+              -9.7365289
+            ],
+            [
+              -38.127157,
+              -9.7366487
+            ],
+            [
+              -38.1270942,
+              -9.7366211
+            ],
+            [
+              -38.127196,
+              -9.7363963
             ]
           ]
         ]
@@ -49,15 +106,17 @@
       "type": "Feature",
       "id": "way/907565268",
       "properties": {
-        "timestamp": "2021-02-16T00:05:19Z",
-        "version": 1,
-        "changeset": 99337029,
+        "timestamp": "2025-02-26T13:20:25Z",
+        "version": 2,
+        "changeset": 162971594,
         "addr:city": "Santa Brígida",
+        "addr:housenumber": "1",
         "addr:postcode": "4",
         "addr:street": "Avenida Rui Barbosa",
         "addr:suburb": "Centro",
         "building": "yes",
-        "name": "Conselho Tutelar",
+        "government": "social_security",
+        "name": "Centro de Referência em Assistência Social",
         "office": "government",
         "id": "way/907565268"
       },
@@ -66,26 +125,132 @@
         "coordinates": [
           [
             [
-              -38.1277677,
-              -9.7363674
+              -38.1276968,
+              -9.7363802
             ],
             [
-              -38.1276765,
-              -9.7365673
+              -38.1276399,
+              -9.7364881
             ],
             [
-              -38.1273997,
-              -9.7364404
+              -38.1275171,
+              -9.7364252
             ],
             [
-              -38.1275059,
-              -9.7362363
+              -38.1275463,
+              -9.7363699
             ],
             [
-              -38.1277677,
-              -9.7363674
+              -38.1274623,
+              -9.7363268
+            ],
+            [
+              -38.1274899,
+              -9.7362743
+            ],
+            [
+              -38.1276968,
+              -9.7363802
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12620588923",
+      "properties": {
+        "timestamp": "2025-02-26T13:20:25Z",
+        "version": 1,
+        "changeset": 162971594,
+        "addr:city": "Santa Brígida",
+        "addr:housenumber": "1",
+        "addr:postcode": "48570-000",
+        "addr:street": "Rua Presidente Juscelino Kubitschek",
+        "addr:suburb": "Centro",
+        "government": "education",
+        "name": "Secretaria Municipal de Educação e Lazer",
+        "office": "government",
+        "id": "node/12620588923"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.1290974,
+          -9.73569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12620588924",
+      "properties": {
+        "timestamp": "2025-02-26T13:20:25Z",
+        "version": 1,
+        "changeset": 162971594,
+        "addr:city": "Santa Brígida",
+        "addr:postcode": "48570-000",
+        "addr:street": "Praça Mãe Ana",
+        "addr:suburb": "Centro",
+        "government": "social_services",
+        "name": "Secretaria Municipal de Assitência Social",
+        "office": "government",
+        "id": "node/12620588924"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.1281345,
+          -9.7360242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12620588927",
+      "properties": {
+        "timestamp": "2025-02-26T13:20:25Z",
+        "version": 1,
+        "changeset": 162971594,
+        "addr:city": "Santa Brígida",
+        "addr:housenumber": "11",
+        "addr:postcode": "48570-000",
+        "addr:street": "Avenida Rui Barbosa",
+        "addr:suburb": "Centro",
+        "name": "Secretária Municipal de Trabalho e Ação Social",
+        "office": "government",
+        "id": "node/12620588927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.1288363,
+          -9.7371326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12620588928",
+      "properties": {
+        "timestamp": "2025-02-26T13:20:25Z",
+        "version": 1,
+        "changeset": 162971594,
+        "addr:city": "Santa Brígida",
+        "addr:housenumber": "86",
+        "addr:postcode": "48570-000",
+        "addr:street": "Rua Alto Novo",
+        "addr:suburb": "Centro",
+        "government": "agriculture",
+        "name": "Secretaria Municipal de Agricultura",
+        "office": "government",
+        "id": "node/12620588928"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.1305623,
+          -9.7357876
         ]
       }
     }

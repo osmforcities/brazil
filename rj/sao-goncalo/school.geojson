@@ -3883,6 +3883,69 @@
     },
     {
       "type": "Feature",
+      "id": "way/1362834537",
+      "properties": {
+        "timestamp": "2025-02-25T12:34:22Z",
+        "version": 1,
+        "changeset": 162930514,
+        "addr:city": "São Gonçalo",
+        "addr:street": "Rua Itaocara",
+        "addr:suburb": "Trindade",
+        "amenity": "school",
+        "barrier": "wall",
+        "name": "Escola Municipal Marluce Salles Almeida",
+        "note": "S/N",
+        "operator": "Prefeitura de São Gonçalo",
+        "operator:type": "government",
+        "phone": "+55 21 3073-8203",
+        "id": "way/1362834537"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.0088246,
+              -22.8111782
+            ],
+            [
+              -43.0079582,
+              -22.8112351
+            ],
+            [
+              -43.0081272,
+              -22.8106862
+            ],
+            [
+              -43.0086342,
+              -22.8106627
+            ],
+            [
+              -43.0089332,
+              -22.8105997
+            ],
+            [
+              -43.0089339,
+              -22.8106652
+            ],
+            [
+              -43.0089346,
+              -22.8107307
+            ],
+            [
+              -43.0089882,
+              -22.8107517
+            ],
+            [
+              -43.0088246,
+              -22.8111782
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/855236755",
       "properties": {
         "timestamp": "2010-08-11T19:43:40Z",
@@ -4602,6 +4665,24 @@
         "coordinates": [
           -43.0672227,
           -22.811001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12618088705",
+      "properties": {
+        "timestamp": "2025-02-25T12:34:22Z",
+        "version": 1,
+        "changeset": 162930514,
+        "barrier": "gate",
+        "id": "node/12618088705"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.0089339,
+          -22.8106652
         ]
       }
     }

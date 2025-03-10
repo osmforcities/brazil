@@ -1143,19 +1143,31 @@
       "type": "Feature",
       "id": "node/2594280441",
       "properties": {
-        "timestamp": "2022-10-07T10:54:28Z",
-        "version": 3,
-        "changeset": 127145507,
+        "timestamp": "2025-02-25T03:25:45Z",
+        "version": 4,
+        "changeset": 162915217,
+        "addr:city": "Goiânia",
+        "addr:housenumber": "775",
+        "addr:postcode": "74093-020",
+        "addr:street": "Rua 90",
+        "addr:suburb": "Setor Sul",
         "amenity": "pharmacy",
+        "brand": "Vitta",
+        "dispensing": "yes",
+        "facebook": "https://www.facebook.com/drogariavitta",
         "healthcare": "pharmacy",
-        "name": "Drogaria Santa Marta",
+        "image": "http://drogariavitta.com.br/img/vitta/vitta.png",
+        "name": "Vitta Pharma",
+        "name:pt": "Drogaria Vitta",
+        "opening_hours": "Mo-Su 07:00-20:30",
+        "website": "www.drogariavitta.com.br",
         "id": "node/2594280441"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -49.2521031,
-          -16.698015
+          -49.2520676,
+          -16.6979774
         ]
       }
     },
@@ -1814,15 +1826,21 @@
       "type": "Feature",
       "id": "node/7946190698",
       "properties": {
-        "timestamp": "2024-12-13T20:52:11Z",
-        "version": 3,
-        "changeset": 160261357,
+        "timestamp": "2025-02-25T03:33:31Z",
+        "version": 5,
+        "changeset": 162915351,
+        "addr:city": "Goiânia",
         "addr:housenumber": "342",
+        "addr:postcode": "74593210",
         "addr:street": "Avenida Genésio de Lima Brito",
+        "addr:suburb": "Balnário Meio Ponte",
         "amenity": "pharmacy",
+        "dispensing": "yes",
+        "facebook": "https://www.facebook.com/drogariavitta",
         "healthcare": "pharmacy",
+        "image": "http://drogariavitta.com.br/img/vitta/vitta.png",
         "name": "Drogaria Vitta",
-        "opening_hours": "Mo-Su 07:00-21:00",
+        "opening_hours": "Mo-Su 07:00-22:00",
         "phone": "+55 62 3999-5031",
         "website": "www.drogariavitta.com.br",
         "wheelchair": "yes",
@@ -2085,6 +2103,38 @@
         "coordinates": [
           -49.289724,
           -16.6533064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12617112196",
+      "properties": {
+        "timestamp": "2025-02-25T03:25:45Z",
+        "version": 1,
+        "changeset": 162915217,
+        "addr:city": "Goiânia",
+        "addr:housenumber": "2159",
+        "addr:postcode": "74215010",
+        "addr:street": "Avenida T-2",
+        "addr:suburb": "Bueno",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "facebook": "https://www.facebook.com/drogariavitta",
+        "healthcare": "pharmacy",
+        "image": "http://drogariavitta.com.br/img/vitta/vitta.png",
+        "name": "Drogaria Vitta",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "phone": "+55 62 3999-5037",
+        "website": "www.drogariavitta.com.br",
+        "wheelchair": "yes",
+        "id": "node/12617112196"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.2830052,
+          -16.690021
         ]
       }
     }

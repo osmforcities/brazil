@@ -5914,11 +5914,58 @@
     },
     {
       "type": "Feature",
+      "id": "way/459032990",
+      "properties": {
+        "timestamp": "2025-02-28T05:01:02Z",
+        "version": 2,
+        "changeset": 163036606,
+        "addr:city": "São José do Rio Preto",
+        "addr:housenumber": "267",
+        "addr:postcode": "15077-020",
+        "addr:state": "SP",
+        "addr:street": "Rua Maria Ceron Volpe",
+        "addr:suburb": "Vila Toninho",
+        "amenity": "school",
+        "name": "Escola Municipal Flávio Scrignoli",
+        "operator": "Prefeitura Municipal",
+        "social_facility": "shelter",
+        "id": "way/459032990"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.3452524,
+              -20.8450083
+            ],
+            [
+              -49.3447102,
+              -20.8445675
+            ],
+            [
+              -49.3449332,
+              -20.8443165
+            ],
+            [
+              -49.3457513,
+              -20.8444493
+            ],
+            [
+              -49.3452524,
+              -20.8450083
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/459032991",
       "properties": {
-        "timestamp": "2019-09-04T19:24:08Z",
-        "version": 2,
-        "changeset": 74102359,
+        "timestamp": "2025-02-28T05:01:02Z",
+        "version": 3,
+        "changeset": 163036606,
         "addr:city": "São José do Rio Preto",
         "addr:housenumber": "751",
         "addr:state": "SP",
@@ -5953,6 +6000,14 @@
             [
               -49.3452524,
               -20.8450083
+            ],
+            [
+              -49.3451774,
+              -20.8450809
+            ],
+            [
+              -49.3451346,
+              -20.8451411
             ],
             [
               -49.3449064,
@@ -9189,6 +9244,86 @@
     },
     {
       "type": "Feature",
+      "id": "way/1363508889",
+      "properties": {
+        "timestamp": "2025-02-28T06:02:37Z",
+        "version": 1,
+        "changeset": 163037588,
+        "amenity": "school",
+        "mobile": "+55 17 3238 1515",
+        "name": "Escola Municipal Professor Modesto Rodrigues Marques",
+        "id": "way/1363508889"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.3413786,
+              -20.8474512
+            ],
+            [
+              -49.3407594,
+              -20.8481925
+            ],
+            [
+              -49.3404068,
+              -20.8479149
+            ],
+            [
+              -49.341026,
+              -20.8471797
+            ],
+            [
+              -49.3413786,
+              -20.8474512
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1363508891",
+      "properties": {
+        "timestamp": "2025-02-28T06:02:37Z",
+        "version": 1,
+        "changeset": 163037588,
+        "amenity": "school",
+        "mobile": "+55 17 3238 1279",
+        "name": "Escola Estadual Professra Nair Santos Cunha",
+        "id": "way/1363508891"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.341026,
+              -20.8471797
+            ],
+            [
+              -49.3402375,
+              -20.8481064
+            ],
+            [
+              -49.3398169,
+              -20.8477816
+            ],
+            [
+              -49.3406323,
+              -20.8468651
+            ],
+            [
+              -49.341026,
+              -20.8471797
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/2361072637",
       "properties": {
         "timestamp": "2020-05-14T20:24:05Z",
@@ -10323,58 +10458,6 @@
         "coordinates": [
           -49.4246042,
           -20.8114004
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/4551073416",
-      "properties": {
-        "timestamp": "2020-10-15T20:16:15Z",
-        "version": 2,
-        "changeset": 92542455,
-        "addr:city": "São José do Rio Preto",
-        "addr:housenumber": "1203",
-        "addr:state": "SP",
-        "addr:street": "Rua Maria Onofre Lopes Santos",
-        "addr:suburb": "Vila Toninho",
-        "amenity": "school",
-        "name": "Escola Municipal Professor Modesto Rodrigues Marques",
-        "phone": "+55 17 3238 1515",
-        "wheelchair": "yes",
-        "id": "node/4551073416"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.3412518,
-          -20.8475839
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/4551073417",
-      "properties": {
-        "timestamp": "2020-10-15T20:16:15Z",
-        "version": 2,
-        "changeset": 92542455,
-        "addr:city": "São José do Rio Preto",
-        "addr:housenumber": "500",
-        "addr:state": "SP",
-        "addr:street": "Rua Antônio Lopes dos Santos",
-        "addr:suburb": "Vila Toninho",
-        "amenity": "school",
-        "name": "Escola Estadual Professra Nair Santos Cunha",
-        "phone": "+55 17 3238 1279",
-        "wheelchair": "yes",
-        "id": "node/4551073417"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.3400743,
-          -20.8478521
         ]
       }
     },

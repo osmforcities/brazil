@@ -291,12 +291,13 @@
       "type": "Feature",
       "id": "way/725351223",
       "properties": {
-        "timestamp": "2022-12-18T10:21:23Z",
-        "version": 3,
-        "changeset": 130207469,
+        "timestamp": "2025-02-28T15:33:15Z",
+        "version": 4,
+        "changeset": 163057494,
         "access": "yes",
+        "building": "yes",
         "covered": "yes",
-        "leisure": "pitch",
+        "leisure": "sports_hall",
         "lit": "yes",
         "name": "Ginásio de Esportes José Caetano de Andrade",
         "sport": "soccer;multi;basketball",
@@ -1195,6 +1196,46 @@
             [
               -43.4359695,
               -13.6374583
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1363603459",
+      "properties": {
+        "timestamp": "2025-02-28T14:56:18Z",
+        "version": 1,
+        "changeset": 163056223,
+        "building": "yes",
+        "leisure": "sports_hall",
+        "sport": "futsal",
+        "id": "way/1363603459"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.410329,
+              -13.2461535
+            ],
+            [
+              -43.410483,
+              -13.2464539
+            ],
+            [
+              -43.4103185,
+              -13.2465337
+            ],
+            [
+              -43.4101645,
+              -13.2462334
+            ],
+            [
+              -43.410329,
+              -13.2461535
             ]
           ]
         ]

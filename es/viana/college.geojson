@@ -5,19 +5,21 @@
       "type": "Feature",
       "id": "way/1349629327",
       "properties": {
-        "timestamp": "2025-01-08T21:00:43Z",
-        "version": 1,
-        "changeset": 161148232,
+        "timestamp": "2025-02-28T21:11:18Z",
+        "version": 2,
+        "changeset": 163069441,
         "addr:city": "Viana",
         "addr:postcode": "29135-000",
         "addr:street": "Rodovia Governador Mário Covas",
         "addr:suburb": "Universal",
         "amenity": "college",
         "name": "IFES - Campus Viana",
+        "official_name": "IFES -  Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo",
         "operator": "Instituto Federal de Educação, Ciência e Tecnologia",
         "operator:type": "public",
         "operator:wikidata": "Q10302972",
         "phone": "2730834650",
+        "short_name": "IFES - Campus Viana",
         "website": "https://viana.ifes.edu.br/",
         "wheelchair": "yes",
         "id": "way/1349629327"
@@ -41,6 +43,10 @@
             [
               -40.4436875,
               -20.363942
+            ],
+            [
+              -40.4436688,
+              -20.3639345
             ],
             [
               -40.4436356,
@@ -87,6 +93,24 @@
               -20.3636509
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5959779208",
+      "properties": {
+        "timestamp": "2025-02-28T21:11:18Z",
+        "version": 4,
+        "changeset": 163069441,
+        "barrier": "gate",
+        "id": "node/5959779208"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.4436688,
+          -20.3639345
         ]
       }
     }

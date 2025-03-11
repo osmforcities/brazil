@@ -5815,6 +5815,72 @@
     },
     {
       "type": "Feature",
+      "id": "way/1363602233",
+      "properties": {
+        "timestamp": "2025-02-28T14:48:47Z",
+        "version": 1,
+        "changeset": 163055861,
+        "addr:city": "Serra",
+        "addr:housenumber": "9",
+        "addr:postcode": "29165-822",
+        "addr:street": "Rua Setiba",
+        "addr:suburb": "Valparaíso",
+        "amenity": "school",
+        "name": "ABC Universidade Infantil",
+        "phone": "2732282770",
+        "website": "https://www.instagram.com/universidadeinfantil.ceui/",
+        "id": "way/1363602233"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.2623153,
+              -20.2012319
+            ],
+            [
+              -40.262318,
+              -20.2013236
+            ],
+            [
+              -40.2623216,
+              -20.201423
+            ],
+            [
+              -40.2620963,
+              -20.2014295
+            ],
+            [
+              -40.2620846,
+              -20.2014299
+            ],
+            [
+              -40.2620773,
+              -20.2013358
+            ],
+            [
+              -40.2620937,
+              -20.201339
+            ],
+            [
+              -40.2620931,
+              -20.2013048
+            ],
+            [
+              -40.2620906,
+              -20.2012378
+            ],
+            [
+              -40.2623153,
+              -20.2012319
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/648184088",
       "properties": {
         "timestamp": "2010-02-20T14:11:41Z",
@@ -7098,6 +7164,24 @@
         "coordinates": [
           -40.2272713,
           -20.1929047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12625828442",
+      "properties": {
+        "timestamp": "2025-02-28T14:48:47Z",
+        "version": 1,
+        "changeset": 163055861,
+        "barrier": "gate",
+        "id": "node/12625828442"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.2620931,
+          -20.2013048
         ]
       }
     }

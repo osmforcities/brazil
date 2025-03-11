@@ -173,10 +173,11 @@
       "type": "Feature",
       "id": "node/3714285222",
       "properties": {
-        "timestamp": "2025-02-27T13:19:42Z",
-        "version": 2,
-        "changeset": 163012221,
+        "timestamp": "2025-02-28T01:09:34Z",
+        "version": 3,
+        "changeset": 163033425,
         "addr:city": "Pedro Alexandre",
+        "addr:housenumber": "4",
         "addr:postcode": "48580-000",
         "addr:street": "Avenida João Batista de Carvalho",
         "addr:suburb": "Centro",
@@ -298,6 +299,32 @@
         "coordinates": [
           -37.997569,
           -9.9540791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12624543738",
+      "properties": {
+        "timestamp": "2025-02-28T01:18:09Z",
+        "version": 1,
+        "changeset": 163033540,
+        "addr:city": "Pedro Alexandre",
+        "addr:housenumber": "24",
+        "addr:postcode": "48580-000",
+        "addr:street": "Rodovia do Vaqueiro",
+        "addr:suburb": "Lagoa dos Porcos",
+        "amenity": "school",
+        "name": "Escola Municipal José Pereira da Costa",
+        "operator": "Município de Pedro Alexandre",
+        "operator:type": "public",
+        "id": "node/12624543738"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.9970043,
+          -10.1139755
         ]
       }
     }

@@ -3,77 +3,642 @@
   "features": [
     {
       "type": "Feature",
-      "id": "node/3846569481",
+      "id": "way/1363464065",
       "properties": {
-        "timestamp": "2015-11-20T12:12:59Z",
+        "timestamp": "2025-02-28T01:07:11Z",
         "version": 1,
-        "changeset": 35459960,
-        "addr:street": "Rua Afonso A. Feijó",
+        "changeset": 163033393,
+        "addr:city": "Chopinzinho",
+        "addr:housenumber": "4603",
+        "addr:street": "Rua Afonso Pena",
+        "addr:suburb": "São Cristóvão",
         "amenity": "school",
-        "name": "Colégio Estadual José Amim Matte",
-        "id": "node/3846569481"
+        "isced:level": "0;1",
+        "name": "Escola Municipal Coronel Santiago Dantas",
+        "operator": "Secretaria de Educação, Cultura e Esporte de Chopinzinho",
+        "operator:type": "public",
+        "ref:INEP": "41091485",
+        "id": "way/1363464065"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -52.529169,
-          -25.8578005
+          [
+            [
+              -52.5279509,
+              -25.8500368
+            ],
+            [
+              -52.528192,
+              -25.8505868
+            ],
+            [
+              -52.5273616,
+              -25.8508816
+            ],
+            [
+              -52.5272575,
+              -25.8506439
+            ],
+            [
+              -52.5271206,
+              -25.8503317
+            ],
+            [
+              -52.5279509,
+              -25.8500368
+            ]
+          ]
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "node/3846569482",
+      "id": "way/1363464066",
       "properties": {
-        "timestamp": "2015-11-20T12:12:59Z",
+        "timestamp": "2025-02-28T01:07:11Z",
         "version": 1,
-        "changeset": 35459960,
+        "changeset": 163033393,
+        "addr:city": "Chopinzinho",
+        "addr:housenumber": "3824",
+        "addr:street": "Rua Treze de Maio",
+        "addr:suburb": "São Cristóvão",
         "amenity": "school",
+        "isced:level": "2:3",
+        "name": "Colégio Estadual Nova Visão",
+        "operator": "Secretaria de Estado da Educação do Paraná",
+        "operator:type": "public",
+        "ref:INEP": "41091396",
+        "website": "https://www.consultaescolas.pr.gov.br/consultaescolas/pages/templates/initial2.xhtml?codigoMunicipio=540&codigoEstab=14",
+        "id": "way/1363464066"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -52.5279483,
+              -25.8507648
+            ],
+            [
+              -52.5281821,
+              -25.8512772
+            ],
+            [
+              -52.5278788,
+              -25.8513895
+            ],
+            [
+              -52.5276621,
+              -25.8514698
+            ],
+            [
+              -52.5276457,
+              -25.8514629
+            ],
+            [
+              -52.5276294,
+              -25.851456
+            ],
+            [
+              -52.5273995,
+              -25.8509533
+            ],
+            [
+              -52.5279483,
+              -25.8507648
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1363545284",
+      "properties": {
+        "timestamp": "2025-02-28T10:20:18Z",
+        "version": 1,
+        "changeset": 163045447,
+        "addr:city": "Chopinzinho",
+        "addr:housenumber": "4307",
+        "addr:street": "Rua Zacharias de Oliveira",
+        "addr:suburb": "São Sebastião",
+        "alt_name": "Apae de Chopinzinho",
+        "amenity": "school",
+        "name": "Escola de Educação Especial Professora Thereza Furigo",
+        "operator": "Associação de Pais e Amigos dos Excepcionais",
+        "operator:type": "private",
+        "ref:INEP": "41143710",
+        "website": "https://apaebrasil.org.br/mapa/1013665989/detalhes",
+        "id": "way/1363545284"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -52.5215729,
+              -25.8527873
+            ],
+            [
+              -52.5216296,
+              -25.8535735
+            ],
+            [
+              -52.5211613,
+              -25.853626
+            ],
+            [
+              -52.5210953,
+              -25.8529077
+            ],
+            [
+              -52.5212575,
+              -25.8528668
+            ],
+            [
+              -52.5215729,
+              -25.8527873
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1363545285",
+      "properties": {
+        "timestamp": "2025-02-28T10:20:18Z",
+        "version": 1,
+        "changeset": 163045447,
+        "addr:city": "Chopinzinho",
+        "addr:housenumber": "3691",
+        "addr:street": "Rua Frei Vito",
+        "addr:suburb": "Nossa Senhora Aparecida",
+        "amenity": "school",
+        "name": "Centro Municipal de Educação Integral Maria Evanira Silvério",
+        "operator": "Secretaria de Educação, Cultura e Esporte de Chopinzinho",
+        "operator:type": "public",
+        "ref:INEP": "41389751",
+        "id": "way/1363545285"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -52.520181,
+              -25.8471242
+            ],
+            [
+              -52.5202768,
+              -25.8470088
+            ],
+            [
+              -52.5206334,
+              -25.8472767
+            ],
+            [
+              -52.5203652,
+              -25.8475791
+            ],
+            [
+              -52.5201736,
+              -25.847473
+            ],
+            [
+              -52.5199058,
+              -25.8473593
+            ],
+            [
+              -52.5200594,
+              -25.8471871
+            ],
+            [
+              -52.5201388,
+              -25.8470981
+            ],
+            [
+              -52.520181,
+              -25.8471242
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1363549300",
+      "properties": {
+        "timestamp": "2025-02-28T10:34:08Z",
+        "version": 1,
+        "changeset": 163045989,
+        "addr:city": "Chopinzinho",
+        "addr:street": "Rua Frei Everaldo",
+        "addr:suburb": "Centro",
+        "amenity": "school",
+        "isced:level": "0;1",
+        "name": "Escola Municipal de Excelência",
+        "operator": "Secretaria de Educação, Cultura e Esporte de Chopinzinho",
+        "operator:type": "public",
+        "ref:INEP": "41385721",
+        "id": "way/1363549300"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -52.5237678,
+              -25.8569495
+            ],
+            [
+              -52.5237058,
+              -25.8578793
+            ],
+            [
+              -52.5242277,
+              -25.8579074
+            ],
+            [
+              -52.5241963,
+              -25.8583794
+            ],
+            [
+              -52.5236906,
+              -25.8583522
+            ],
+            [
+              -52.5232874,
+              -25.8579588
+            ],
+            [
+              -52.5230364,
+              -25.8579451
+            ],
+            [
+              -52.5230434,
+              -25.8578398
+            ],
+            [
+              -52.5228055,
+              -25.8578269
+            ],
+            [
+              -52.522841,
+              -25.8572966
+            ],
+            [
+              -52.5231848,
+              -25.8573153
+            ],
+            [
+              -52.5232113,
+              -25.8569195
+            ],
+            [
+              -52.5237678,
+              -25.8569495
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1363549302",
+      "properties": {
+        "timestamp": "2025-02-28T10:34:08Z",
+        "version": 1,
+        "changeset": 163045989,
+        "addr:city": "Chopinzinho",
+        "addr:housenumber": "3669",
+        "addr:street": "Rua Santos Dumont",
+        "addr:suburb": "Frei Vito",
+        "amenity": "school",
+        "isced:level": "0;1",
         "name": "Escola Municipal Tasso Azevedo da Silveira",
-        "id": "node/3846569482"
+        "operator": "Secretaria de Educação, Cultura e Esporte de Chopinzinho",
+        "operator:type": "public",
+        "ref:INEP": "41091558",
+        "id": "way/1363549302"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -52.5246558,
-          -25.8584631
+          [
+            [
+              -52.5249532,
+              -25.858137
+            ],
+            [
+              -52.52491,
+              -25.8587086
+            ],
+            [
+              -52.5256641,
+              -25.8587922
+            ],
+            [
+              -52.525649,
+              -25.8590488
+            ],
+            [
+              -52.5246702,
+              -25.8589127
+            ],
+            [
+              -52.5243526,
+              -25.8588369
+            ],
+            [
+              -52.5243807,
+              -25.8581156
+            ],
+            [
+              -52.524667,
+              -25.8581263
+            ],
+            [
+              -52.5249532,
+              -25.858137
+            ]
+          ]
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "node/9024768184",
+      "id": "way/1363556100",
       "properties": {
-        "timestamp": "2021-08-21T12:01:43Z",
+        "timestamp": "2025-02-28T10:59:05Z",
         "version": 1,
-        "changeset": 110025779,
+        "changeset": 163046965,
+        "addr:city": "Chopinzinho",
+        "addr:housenumber": "3810",
+        "addr:street": "Rua Voluntários da Pátria",
+        "addr:suburb": "Centro",
         "amenity": "school",
-        "name": "APAE",
-        "id": "node/9024768184"
+        "isced:level": "2;3",
+        "name": "Colégio Estadual José Armim Matte",
+        "operator": "Secretaria de Estado da Educação do Paraná",
+        "operator:type": "public",
+        "ref:INEP": "41091221",
+        "website": "https://www.consultaescolas.pr.gov.br/consultaescolas/pages/templates/initial2.xhtml?codigoMunicipio=540&codigoEstab=600",
+        "id": "way/1363556100"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -52.5213138,
-          -25.8529375
+          [
+            [
+              -52.5299427,
+              -25.8573378
+            ],
+            [
+              -52.5298689,
+              -25.8582442
+            ],
+            [
+              -52.528682,
+              -25.8581661
+            ],
+            [
+              -52.5287343,
+              -25.8575226
+            ],
+            [
+              -52.5287557,
+              -25.8572595
+            ],
+            [
+              -52.5299427,
+              -25.8573378
+            ]
+          ]
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "node/10264017327",
+      "id": "way/1363556101",
       "properties": {
-        "timestamp": "2022-12-15T02:06:55Z",
+        "timestamp": "2025-02-28T10:59:05Z",
         "version": 1,
-        "changeset": 130094343,
+        "changeset": 163046965,
+        "addr:city": "Chopinzinho",
+        "addr:housenumber": "3879",
+        "addr:street": "Rua das Araucárias",
+        "addr:suburb": "Cristo Rei",
         "amenity": "school",
-        "id": "node/10264017327"
+        "isced:level": "0;1",
+        "name": "Escola Municipal Presidente Tancredo Neves",
+        "operator": "Secretaria de Educação, Cultura e Esporte de Chopinzinho",
+        "operator:type": "public",
+        "ref:INEP": "41091540",
+        "id": "way/1363556101"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -52.5468963,
+              -25.852024
+            ],
+            [
+              -52.5471405,
+              -25.8523682
+            ],
+            [
+              -52.5473112,
+              -25.8526088
+            ],
+            [
+              -52.5470794,
+              -25.852742
+            ],
+            [
+              -52.5466643,
+              -25.8521573
+            ],
+            [
+              -52.5468963,
+              -25.852024
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12624543727",
+      "properties": {
+        "timestamp": "2025-02-28T01:07:11Z",
+        "version": 1,
+        "changeset": 163033393,
+        "entrance": "yes",
+        "id": "node/12624543727"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -52.5511053,
-          -25.8516941
+          -52.5272575,
+          -25.8506439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12624543733",
+      "properties": {
+        "timestamp": "2025-02-28T01:07:11Z",
+        "version": 1,
+        "changeset": 163033393,
+        "entrance": "yes",
+        "id": "node/12624543733"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.5276457,
+          -25.8514629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12624543734",
+      "properties": {
+        "timestamp": "2025-02-28T01:07:11Z",
+        "version": 1,
+        "changeset": 163033393,
+        "entrance": "yes",
+        "id": "node/12624543734"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.5278788,
+          -25.8513895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12624543735",
+      "properties": {
+        "timestamp": "2025-02-28T01:07:11Z",
+        "version": 1,
+        "changeset": 163033393,
+        "addr:city": "Chopinzinho",
+        "addr:housenumber": "4344",
+        "addr:street": "Rua Padre Anchieta",
+        "addr:suburb": "São Miguel",
+        "amenity": "school",
+        "isced:level": "2;3",
+        "name": "Centro Estadual de Educação Básica para Jovens e Adultos de Chopinzinho",
+        "operator": "Secretaria de Estado da Educação do Paraná",
+        "operator:type": "public",
+        "ref:INEP": "41357469",
+        "website": "https://www.consultaescolas.pr.gov.br/consultaescolas/pages/templates/initial2.xhtml?codigoMunicipio=540&codigoEstab=47770",
+        "id": "node/12624543735"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.5259425,
+          -25.8527376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12625344585",
+      "properties": {
+        "timestamp": "2025-02-28T10:20:18Z",
+        "version": 1,
+        "changeset": 163045447,
+        "entrance": "yes",
+        "id": "node/12625344585"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.5212575,
+          -25.8528668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12625344600",
+      "properties": {
+        "timestamp": "2025-02-28T10:20:18Z",
+        "version": 1,
+        "changeset": 163045447,
+        "entrance": "yes",
+        "id": "node/12625344600"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.5200594,
+          -25.8471871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12625402494",
+      "properties": {
+        "timestamp": "2025-02-28T10:34:08Z",
+        "version": 1,
+        "changeset": 163045989,
+        "entrance": "yes",
+        "id": "node/12625402494"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.524667,
+          -25.8581263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12625430078",
+      "properties": {
+        "timestamp": "2025-02-28T10:59:05Z",
+        "version": 1,
+        "changeset": 163046965,
+        "entrance": "yes",
+        "id": "node/12625430078"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.5287343,
+          -25.8575226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12625430083",
+      "properties": {
+        "timestamp": "2025-02-28T10:59:05Z",
+        "version": 1,
+        "changeset": 163046965,
+        "entrance": "yes",
+        "id": "node/12625430083"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.5471405,
+          -25.8523682
         ]
       }
     }

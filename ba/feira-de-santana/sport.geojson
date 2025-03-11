@@ -5,15 +5,16 @@
       "type": "Feature",
       "id": "way/34845570",
       "properties": {
-        "timestamp": "2022-04-22T08:39:43Z",
-        "version": 9,
-        "changeset": 120037119,
+        "timestamp": "2025-02-27T02:51:11Z",
+        "version": 10,
+        "changeset": 162995198,
         "alt_name": "Jóia da Princesa",
         "leisure": "stadium",
         "name": "Estádio Municipal Alberto Sampaio de Oliveira",
         "name:en": "Municipal Stadium Alberto Sampaio de Oliveira",
         "name:es": "Estadio Municipal Alberto Sampaio de Oliveira",
         "sport": "soccer",
+        "wheelchair": "limited",
         "wikidata": "Q5402061",
         "wikipedia": "en:Estádio Joia da Princesa",
         "id": "way/34845570"
@@ -255,11 +256,13 @@
       "type": "Feature",
       "id": "way/35103959",
       "properties": {
-        "timestamp": "2009-05-27T17:44:32Z",
-        "version": 1,
-        "changeset": 1335757,
+        "timestamp": "2025-02-27T13:50:49Z",
+        "version": 3,
+        "changeset": 163013505,
         "leisure": "pitch",
+        "lit": "yes",
         "sport": "soccer",
+        "surface": "dirt",
         "id": "way/35103959"
       },
       "geometry": {
@@ -921,6 +924,111 @@
     },
     {
       "type": "Feature",
+      "id": "way/285116796",
+      "properties": {
+        "timestamp": "2025-02-27T02:51:04Z",
+        "version": 7,
+        "changeset": 162995308,
+        "leisure": "pitch",
+        "lit": "yes",
+        "sport": "soccer",
+        "surface": "grass",
+        "id": "way/285116796"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.9733803,
+              -12.2438596
+            ],
+            [
+              -38.9727376,
+              -12.2446498
+            ],
+            [
+              -38.9726353,
+              -12.2447165
+            ],
+            [
+              -38.972531,
+              -12.2447295
+            ],
+            [
+              -38.97244,
+              -12.2447073
+            ],
+            [
+              -38.9723471,
+              -12.2446739
+            ],
+            [
+              -38.9722523,
+              -12.2446054
+            ],
+            [
+              -38.9721613,
+              -12.2445164
+            ],
+            [
+              -38.9721063,
+              -12.2444333
+            ],
+            [
+              -38.9721011,
+              -12.2443245
+            ],
+            [
+              -38.9721257,
+              -12.2442197
+            ],
+            [
+              -38.9727661,
+              -12.2434381
+            ],
+            [
+              -38.9728571,
+              -12.2433807
+            ],
+            [
+              -38.97295,
+              -12.243364
+            ],
+            [
+              -38.9730504,
+              -12.2433714
+            ],
+            [
+              -38.9731433,
+              -12.243427
+            ],
+            [
+              -38.9732514,
+              -12.2434956
+            ],
+            [
+              -38.9733329,
+              -12.2435604
+            ],
+            [
+              -38.9733905,
+              -12.2436516
+            ],
+            [
+              -38.9734065,
+              -12.2437545
+            ],
+            [
+              -38.9733803,
+              -12.2438596
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/433066682",
       "properties": {
         "timestamp": "2016-07-25T16:18:16Z",
@@ -1001,11 +1109,13 @@
       "type": "Feature",
       "id": "way/612202707",
       "properties": {
-        "timestamp": "2019-10-22T11:03:16Z",
-        "version": 3,
-        "changeset": 76043323,
+        "timestamp": "2025-02-27T02:51:02Z",
+        "version": 5,
+        "changeset": 162995308,
         "leisure": "pitch",
+        "lit": "yes",
         "sport": "soccer",
+        "surface": "grass",
         "id": "way/612202707"
       },
       "geometry": {
@@ -4882,6 +4992,25 @@
         "coordinates": [
           -38.9348828,
           -12.2558805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12622172291",
+      "properties": {
+        "timestamp": "2025-02-27T03:53:55Z",
+        "version": 1,
+        "changeset": 162995819,
+        "leisure": "fitness_station",
+        "sport": "fitness",
+        "id": "node/12622172291"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.9733767,
+          -12.2281449
         ]
       }
     }

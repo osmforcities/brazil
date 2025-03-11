@@ -1397,9 +1397,9 @@
       "type": "Feature",
       "id": "way/1255781829",
       "properties": {
-        "timestamp": "2024-03-01T23:03:06Z",
-        "version": 4,
-        "changeset": 148114908,
+        "timestamp": "2025-02-27T04:37:40Z",
+        "version": 5,
+        "changeset": 162996614,
         "addr:city": "Feira de Santana",
         "addr:postcode": "44028-120",
         "addr:street": "Rua Arivaldo de Carvalho",
@@ -1407,7 +1407,7 @@
         "amenity": "school",
         "building": "school",
         "grades": "6-12",
-        "name": "Centro Integrado de Educação Assis Chateaubriand (CIEAC)",
+        "name": "CIEAC - Centro Integrado de Educação Assis Chateaubriand",
         "id": "way/1255781829"
       },
       "geometry": {
@@ -1486,11 +1486,11 @@
       "type": "Feature",
       "id": "way/1255787095",
       "properties": {
-        "timestamp": "2024-03-01T11:31:36Z",
-        "version": 3,
-        "changeset": 148092506,
+        "timestamp": "2025-02-27T04:37:25Z",
+        "version": 6,
+        "changeset": 162996614,
         "amenity": "school",
-        "name": "Colégio Estadual Carmen Andrade Lima (CECAL)",
+        "name": "CIEAC - Centro Integrado de Educação Assis Chateaubriand",
         "id": "way/1255787095"
       },
       "geometry": {
@@ -2617,6 +2617,44 @@
         "coordinates": [
           -38.9921385,
           -12.2095009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12623467404",
+      "properties": {
+        "timestamp": "2025-02-27T15:16:37Z",
+        "version": 1,
+        "changeset": 163017136,
+        "amenity": "school",
+        "name": "Colegio Municipal Coriolano Carvalho",
+        "id": "node/12623467404"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.9731987,
+          -12.2391331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12623467603",
+      "properties": {
+        "timestamp": "2025-02-27T15:16:03Z",
+        "version": 1,
+        "changeset": 163017111,
+        "amenity": "school",
+        "name": "Seminário Teológico Batista do Nordeste",
+        "id": "node/12623467603"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.9724736,
+          -12.2336833
         ]
       }
     }

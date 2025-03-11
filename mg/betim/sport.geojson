@@ -1376,6 +1376,46 @@
     },
     {
       "type": "Feature",
+      "id": "way/487213135",
+      "properties": {
+        "timestamp": "2025-03-02T18:10:53Z",
+        "version": 2,
+        "changeset": 163132958,
+        "leisure": "pitch",
+        "source": "Bing",
+        "sport": "futsal",
+        "id": "way/487213135"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.2693159,
+              -19.9426105
+            ],
+            [
+              -44.2692068,
+              -19.9428918
+            ],
+            [
+              -44.2690332,
+              -19.9428323
+            ],
+            [
+              -44.2691424,
+              -19.942551
+            ],
+            [
+              -44.2693159,
+              -19.9426105
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/487214649",
       "properties": {
         "timestamp": "2025-02-25T13:55:09Z",
@@ -1662,6 +1702,99 @@
             [
               -44.1807139,
               -19.9780766
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/498408793",
+      "properties": {
+        "timestamp": "2025-03-02T18:10:53Z",
+        "version": 3,
+        "changeset": 163132958,
+        "area": "yes",
+        "leisure": "track",
+        "source": "DigitalGlobe Standart",
+        "sport": "athletics",
+        "id": "way/498408793"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.1806522,
+              -19.9749268
+            ],
+            [
+              -44.1806079,
+              -19.9755407
+            ],
+            [
+              -44.1805892,
+              -19.9756125
+            ],
+            [
+              -44.1805369,
+              -19.9756793
+            ],
+            [
+              -44.1804537,
+              -19.975731
+            ],
+            [
+              -44.1803585,
+              -19.9757386
+            ],
+            [
+              -44.1800715,
+              -19.9757222
+            ],
+            [
+              -44.1799749,
+              -19.9756907
+            ],
+            [
+              -44.1799133,
+              -19.9756402
+            ],
+            [
+              -44.1798878,
+              -19.975576
+            ],
+            [
+              -44.179873,
+              -19.9754903
+            ],
+            [
+              -44.1799414,
+              -19.974792
+            ],
+            [
+              -44.1799763,
+              -19.9747378
+            ],
+            [
+              -44.1800527,
+              -19.9747101
+            ],
+            [
+              -44.1805141,
+              -19.9747416
+            ],
+            [
+              -44.1805959,
+              -19.9747869
+            ],
+            [
+              -44.1806428,
+              -19.9748474
+            ],
+            [
+              -44.1806522,
+              -19.9749268
             ]
           ]
         ]
@@ -3912,10 +4045,9 @@
       "type": "Feature",
       "id": "way/683272042",
       "properties": {
-        "timestamp": "2025-01-09T16:33:15Z",
-        "version": 4,
-        "changeset": 161176676,
-        "access": "permissive",
+        "timestamp": "2025-03-02T18:10:53Z",
+        "version": 5,
+        "changeset": 163132958,
         "leisure": "pitch",
         "sport": "multi",
         "surface": "concrete",
@@ -5123,14 +5255,13 @@
       "type": "Feature",
       "id": "way/687704809",
       "properties": {
-        "timestamp": "2023-09-02T01:25:57Z",
-        "version": 3,
-        "changeset": 140701348,
+        "timestamp": "2025-03-02T22:40:27Z",
+        "version": 4,
+        "changeset": 163140462,
         "access": "permissive",
         "leisure": "pitch",
         "lit": "yes",
-        "name": "Ginásio",
-        "sport": "multi",
+        "sport": "futsal",
         "surface": "concrete",
         "id": "way/687704809"
       },
@@ -7953,12 +8084,11 @@
       "type": "Feature",
       "id": "way/689379751",
       "properties": {
-        "timestamp": "2023-10-19T12:36:06Z",
-        "version": 3,
-        "changeset": 142812923,
+        "timestamp": "2025-03-02T20:27:26Z",
+        "version": 4,
+        "changeset": 163137114,
         "access": "permissive",
         "leisure": "pitch",
-        "name": "Quadra",
         "sport": "multi",
         "id": "way/689379751"
       },
@@ -8034,12 +8164,11 @@
       "type": "Feature",
       "id": "way/689389768",
       "properties": {
-        "timestamp": "2019-08-13T00:59:34Z",
-        "version": 2,
-        "changeset": 73287036,
+        "timestamp": "2025-03-02T20:27:26Z",
+        "version": 3,
+        "changeset": 163137114,
         "leisure": "pitch",
-        "sport": "multi",
-        "surface": "concrete",
+        "sport": "futsal",
         "id": "way/689389768"
       },
       "geometry": {
@@ -12616,67 +12745,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/693843775",
-      "properties": {
-        "timestamp": "2025-02-28T13:55:44Z",
-        "version": 11,
-        "changeset": 163053833,
-        "games": "yes",
-        "grass": "yes",
-        "landuse": "recreation_ground",
-        "leisure": "park",
-        "name": "Area de Lazer",
-        "sport": "multi",
-        "wood": "yes",
-        "wood:density": "normal",
-        "id": "way/693843775"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -44.1196773,
-              -19.9554507
-            ],
-            [
-              -44.1202367,
-              -19.9559732
-            ],
-            [
-              -44.1202056,
-              -19.9567418
-            ],
-            [
-              -44.1200706,
-              -19.9567154
-            ],
-            [
-              -44.1197703,
-              -19.9565037
-            ],
-            [
-              -44.1195701,
-              -19.9564191
-            ],
-            [
-              -44.1194199,
-              -19.9563579
-            ],
-            [
-              -44.1193098,
-              -19.9562168
-            ],
-            [
-              -44.1196773,
-              -19.9554507
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/694072396",
       "properties": {
         "timestamp": "2019-08-18T01:27:08Z",
@@ -13163,11 +13231,11 @@
       "type": "Feature",
       "id": "way/698714613",
       "properties": {
-        "timestamp": "2019-08-18T20:53:14Z",
-        "version": 2,
-        "changeset": 73473492,
+        "timestamp": "2025-03-02T18:10:53Z",
+        "version": 3,
+        "changeset": 163132958,
         "leisure": "pitch",
-        "sport": "multi",
+        "sport": "futsal",
         "surface": "concrete",
         "id": "way/698714613"
       },
@@ -15355,81 +15423,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/823599180",
-      "properties": {
-        "timestamp": "2025-02-28T13:55:44Z",
-        "version": 5,
-        "changeset": 163053833,
-        "description": "Pista pequena usada pelos moradores para ciclismo e ate usada por algumas crianças para competições de carrinhos de controle remoto.",
-        "landuse": "recreation_ground",
-        "leisure": "track",
-        "lit": "yes",
-        "sport": "running",
-        "wood": "wood",
-        "id": "way/823599180"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -44.120086,
-              -19.9561413
-            ],
-            [
-              -44.1200599,
-              -19.9561137
-            ],
-            [
-              -44.1200073,
-              -19.956058
-            ],
-            [
-              -44.1199874,
-              -19.956037
-            ],
-            [
-              -44.1199644,
-              -19.956031
-            ],
-            [
-              -44.119821,
-              -19.9559936
-            ],
-            [
-              -44.119718,
-              -19.9558023
-            ],
-            [
-              -44.1196885,
-              -19.9557474
-            ],
-            [
-              -44.1196793,
-              -19.9556924
-            ],
-            [
-              -44.1200147,
-              -19.9560122
-            ],
-            [
-              -44.1200576,
-              -19.9560532
-            ],
-            [
-              -44.1201044,
-              -19.9560978
-            ],
-            [
-              -44.120086,
-              -19.9561413
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/1073616818",
       "properties": {
         "timestamp": "2022-06-29T19:42:56Z",
@@ -15509,6 +15502,45 @@
     },
     {
       "type": "Feature",
+      "id": "way/1074605361",
+      "properties": {
+        "timestamp": "2025-03-02T18:10:53Z",
+        "version": 2,
+        "changeset": 163132958,
+        "leisure": "pitch",
+        "sport": "futsal",
+        "id": "way/1074605361"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.1843857,
+              -19.9833844
+            ],
+            [
+              -44.1843225,
+              -19.9834496
+            ],
+            [
+              -44.1842809,
+              -19.9834134
+            ],
+            [
+              -44.1843441,
+              -19.9833497
+            ],
+            [
+              -44.1843857,
+              -19.9833844
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1074605369",
       "properties": {
         "timestamp": "2022-06-29T19:42:56Z",
@@ -15542,51 +15574,6 @@
             [
               -44.2182797,
               -19.9638149
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1216789923",
-      "properties": {
-        "timestamp": "2023-10-19T12:37:30Z",
-        "version": 2,
-        "changeset": 142813002,
-        "access": "permissive",
-        "addr:city": "Betim",
-        "addr:street": "Rua Violeta",
-        "addr:suburb": "Jardim Alterosa 2° Seção",
-        "building": "school",
-        "leisure": "sports_hall",
-        "opening_hours": "Mo-Sa 07:00-22:00",
-        "sport": "multi",
-        "id": "way/1216789923"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -44.1699398,
-              -19.948593
-            ],
-            [
-              -44.1701088,
-              -19.9489132
-            ],
-            [
-              -44.1699237,
-              -19.9490039
-            ],
-            [
-              -44.1697493,
-              -19.9486711
-            ],
-            [
-              -44.1699398,
-              -19.948593
             ]
           ]
         ]
@@ -15650,15 +15637,14 @@
       "type": "Feature",
       "id": "way/1313461771",
       "properties": {
-        "timestamp": "2025-02-25T13:55:09Z",
-        "version": 3,
-        "changeset": 162933424,
+        "timestamp": "2025-03-02T19:41:40Z",
+        "version": 4,
+        "changeset": 163135826,
         "addr:city": "Betim",
         "addr:housenumber": "505",
         "addr:postcode": "32678-150",
         "addr:street": "Rua A",
         "addr:suburb": "Granja Verde",
-        "building": "no",
         "covered": "no",
         "leisure": "sports_hall",
         "name": "Segunda quadra",
@@ -15693,6 +15679,47 @@
             [
               -44.1048202,
               -19.9296254
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1315062877",
+      "properties": {
+        "timestamp": "2025-03-02T18:10:53Z",
+        "version": 2,
+        "changeset": 163132958,
+        "access": "yes",
+        "leisure": "pitch",
+        "sport": "futsal",
+        "surface": "asphalt",
+        "id": "way/1315062877"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.2247546,
+              -19.9572589
+            ],
+            [
+              -44.2246785,
+              -19.9574934
+            ],
+            [
+              -44.2244892,
+              -19.9574269
+            ],
+            [
+              -44.2245918,
+              -19.957194
+            ],
+            [
+              -44.2247546,
+              -19.9572589
             ]
           ]
         ]
@@ -17504,97 +17531,6 @@
           [
             -44.1745359,
             -19.9195952
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/498408793",
-      "properties": {
-        "timestamp": "2017-06-06T01:03:14Z",
-        "version": 1,
-        "changeset": 49291203,
-        "area": "no",
-        "leisure": "track",
-        "source": "DigitalGlobe Standart",
-        "sport": "athletics",
-        "id": "way/498408793"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -44.1806522,
-            -19.9749268
-          ],
-          [
-            -44.1806079,
-            -19.9755407
-          ],
-          [
-            -44.1805892,
-            -19.9756125
-          ],
-          [
-            -44.1805369,
-            -19.9756793
-          ],
-          [
-            -44.1804537,
-            -19.975731
-          ],
-          [
-            -44.1803585,
-            -19.9757386
-          ],
-          [
-            -44.1800715,
-            -19.9757222
-          ],
-          [
-            -44.1799749,
-            -19.9756907
-          ],
-          [
-            -44.1799133,
-            -19.9756402
-          ],
-          [
-            -44.1798878,
-            -19.975576
-          ],
-          [
-            -44.179873,
-            -19.9754903
-          ],
-          [
-            -44.1799414,
-            -19.974792
-          ],
-          [
-            -44.1799763,
-            -19.9747378
-          ],
-          [
-            -44.1800527,
-            -19.9747101
-          ],
-          [
-            -44.1805141,
-            -19.9747416
-          ],
-          [
-            -44.1805959,
-            -19.9747869
-          ],
-          [
-            -44.1806428,
-            -19.9748474
-          ],
-          [
-            -44.1806522,
-            -19.9749268
           ]
         ]
       }

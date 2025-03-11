@@ -2930,6 +2930,57 @@
     },
     {
       "type": "Feature",
+      "id": "way/1363937223",
+      "properties": {
+        "timestamp": "2025-03-02T00:24:55Z",
+        "version": 1,
+        "changeset": 163106478,
+        "addr:city": "Contagem",
+        "addr:housenumber": "194",
+        "addr:street": "Rua Refinaria União",
+        "addr:suburb": "Petrolândia",
+        "amenity": "school",
+        "name": "Escola Municipal Isabel Nascimento de Matos",
+        "id": "way/1363937223"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.1140603,
+              -19.9298282
+            ],
+            [
+              -44.1146618,
+              -19.9299391
+            ],
+            [
+              -44.1146249,
+              -19.9301161
+            ],
+            [
+              -44.114812,
+              -19.9301506
+            ],
+            [
+              -44.1147273,
+              -19.9305559
+            ],
+            [
+              -44.1139388,
+              -19.9304104
+            ],
+            [
+              -44.1140603,
+              -19.9298282
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/920244923",
       "properties": {
         "timestamp": "2024-12-11T21:53:29Z",
@@ -3370,33 +3421,6 @@
         "coordinates": [
           -44.030877,
           -19.9216364
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/4630849335",
-      "properties": {
-        "timestamp": "2023-10-19T12:47:56Z",
-        "version": 2,
-        "changeset": 142813597,
-        "addr:city": "Contagem - MG",
-        "addr:housenumber": "194",
-        "addr:postcode": "32072-180",
-        "addr:street": "Rua Refinaria União",
-        "addr:suburb": "Petrolândia",
-        "amenity": "school",
-        "grades": "6-9",
-        "name": "Escola Municipal Isabel Nascimento de Matos",
-        "religion": "none",
-        "source": "IBGE",
-        "id": "node/4630849335"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.114596,
-          -19.9302878
         ]
       }
     },

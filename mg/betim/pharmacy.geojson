@@ -3,48 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": "way/608410424",
-      "properties": {
-        "timestamp": "2018-07-16T16:54:06Z",
-        "version": 1,
-        "changeset": 60770909,
-        "amenity": "pharmacy",
-        "building": "yes",
-        "dispensing": "yes",
-        "healthcare": "pharmacy",
-        "name": "Drogafarma",
-        "id": "way/608410424"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -44.1694022,
-              -19.946793
-            ],
-            [
-              -44.169456,
-              -19.9468956
-            ],
-            [
-              -44.1693192,
-              -19.9469591
-            ],
-            [
-              -44.1692653,
-              -19.9468564
-            ],
-            [
-              -44.1694022,
-              -19.946793
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/686747744",
       "properties": {
         "timestamp": "2025-02-23T04:01:40Z",
@@ -675,6 +633,26 @@
         "coordinates": [
           -44.1031857,
           -19.9387913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12633998664",
+      "properties": {
+        "timestamp": "2025-03-03T19:09:34Z",
+        "version": 1,
+        "changeset": 163174443,
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Drogafarma",
+        "id": "node/12633998664"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.1693967,
+          -19.9468927
         ]
       }
     }

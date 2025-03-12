@@ -489,6 +489,71 @@
     },
     {
       "type": "Feature",
+      "id": "way/1364548645",
+      "properties": {
+        "timestamp": "2025-03-04T17:54:35Z",
+        "version": 1,
+        "changeset": 163213009,
+        "addr:postcode": "89240-000",
+        "addr:street": "Rua Babitonga",
+        "addr:suburb": "Ervino",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Unidade Básica de Saúde Ervino",
+        "opening_hours": "Mo-Fr 08:00-17:00; PH off",
+        "phone": "+55 47 3459 0159",
+        "ref:CNES": "2647575",
+        "short_name": "ESF Ervino",
+        "id": "way/1364548645"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.588707,
+              -26.3872945
+            ],
+            [
+              -48.5888182,
+              -26.387506
+            ],
+            [
+              -48.5887268,
+              -26.3875483
+            ],
+            [
+              -48.5886857,
+              -26.3874623
+            ],
+            [
+              -48.5886125,
+              -26.3874992
+            ],
+            [
+              -48.588579,
+              -26.3874268
+            ],
+            [
+              -48.5886521,
+              -26.3874064
+            ],
+            [
+              -48.5886186,
+              -26.3873313
+            ],
+            [
+              -48.588707,
+              -26.3872945
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/1578616892",
       "properties": {
         "timestamp": "2021-03-31T04:43:24Z",
@@ -529,26 +594,6 @@
         "coordinates": [
           -48.6278172,
           -26.3629192
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/8254695891",
-      "properties": {
-        "timestamp": "2020-12-23T12:40:27Z",
-        "version": 1,
-        "changeset": 96326404,
-        "amenity": "clinic",
-        "healthcare": "clinic",
-        "name": "ESF Ervino",
-        "id": "node/8254695891"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.5887035,
-          -26.387398
         ]
       }
     },

@@ -5,23 +5,26 @@
       "type": "Feature",
       "id": "node/9024768177",
       "properties": {
-        "timestamp": "2021-08-21T12:01:43Z",
-        "version": 1,
-        "changeset": 110025779,
+        "timestamp": "2025-03-04T20:12:01Z",
+        "version": 2,
+        "changeset": 163217762,
         "addr:city": "Chopinzinho",
+        "addr:housenumber": "4864",
         "addr:street": "Rua Coronel Santiago Dantas",
         "addr:suburb": "Centro",
         "amenity": "clinic",
         "healthcare": "clinic",
-        "name": "Posto de Saúde Central",
+        "name": "Unidade Básica de Saúde Central",
         "opening_hours": "Mo-Fr 08:00-17:00",
+        "operator": "Secretaria Municipal de Saúde",
+        "operator:type": "public",
         "id": "node/9024768177"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -52.5372486,
-          -25.853862
+          -52.5372598,
+          -25.8537481
         ]
       }
     },
@@ -46,6 +49,84 @@
         "coordinates": [
           -52.5374468,
           -25.8555017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12637048886",
+      "properties": {
+        "timestamp": "2025-03-04T20:12:01Z",
+        "version": 1,
+        "changeset": 163217762,
+        "addr:city": "Chopinzinho",
+        "addr:housenumber": "4826",
+        "addr:street": "Rua Coronel Santiago Dantas",
+        "addr:suburb": "Centro",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Centro Regional de Especialidades",
+        "operator": "Secretaria Municipal de Saúde",
+        "operator:type": "public",
+        "id": "node/12637048886"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.5369821,
+          -25.8537248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12637048888",
+      "properties": {
+        "timestamp": "2025-03-04T20:12:01Z",
+        "version": 1,
+        "changeset": 163217762,
+        "addr:city": "Chopinzinho",
+        "addr:housenumber": "4652",
+        "addr:street": "Rua Paulo Conte",
+        "addr:suburb": "Frei Vito",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Unidade de Saúde da Família Frei Vito",
+        "operator": "Secretaria Municipal de Saúde",
+        "operator:type": "public",
+        "id": "node/12637048888"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.5231329,
+          -25.8595225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12637048889",
+      "properties": {
+        "timestamp": "2025-03-04T20:12:01Z",
+        "version": 1,
+        "changeset": 163217762,
+        "addr:city": "Chopinzinho",
+        "addr:housenumber": "5228",
+        "addr:street": "Rua Estevão Pires Carneiro",
+        "addr:suburb": "Nossa Senhora Aparecida",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Unidade de Saúde da Família Nossa Senhora Aparecida",
+        "operator": "Secretaria Municipal de Saúde",
+        "operator:type": "public",
+        "id": "node/12637048889"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.5200438,
+          -25.8476399
         ]
       }
     }

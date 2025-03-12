@@ -5,10 +5,11 @@
       "type": "Feature",
       "id": "way/703489991",
       "properties": {
-        "timestamp": "2019-07-11T20:43:37Z",
-        "version": 1,
-        "changeset": 72152284,
+        "timestamp": "2025-03-04T11:11:57Z",
+        "version": 2,
+        "changeset": 163196722,
         "amenity": "school",
+        "name": "Colégio Estadual Santo Antônio",
         "id": "way/703489991"
       },
       "geometry": {
@@ -16,28 +17,28 @@
         "coordinates": [
           [
             [
-              -37.9248946,
-              -10.2783637
+              -37.924856,
+              -10.2783764
             ],
             [
-              -37.9241731,
-              -10.2787437
+              -37.9241237,
+              -10.2787226
             ],
             [
-              -37.9238914,
+              -37.9238485,
               -10.2781657
             ],
             [
-              -37.9245271,
-              -10.2778649
+              -37.9244863,
+              -10.277867
             ],
             [
-              -37.9246746,
-              -10.2778728
+              -37.9246081,
+              -10.2778665
             ],
             [
-              -37.9248946,
-              -10.2783637
+              -37.924856,
+              -10.2783764
             ]
           ]
         ]
@@ -47,9 +48,12 @@
       "type": "Feature",
       "id": "way/703864807",
       "properties": {
-        "timestamp": "2019-07-12T11:15:02Z",
-        "version": 1,
-        "changeset": 72174786,
+        "timestamp": "2025-03-04T11:11:57Z",
+        "version": 2,
+        "changeset": 163196722,
+        "addr:city": "Coronel João Sá",
+        "addr:postcode": "48590-000",
+        "addr:suburb": "Centro",
         "amenity": "school",
         "name": "Escola Municipal Luís Eduardo Magalhães",
         "id": "way/703864807"
@@ -59,24 +63,24 @@
         "coordinates": [
           [
             [
-              -37.9301887,
-              -10.2838477
+              -37.930176,
+              -10.2838366
             ],
             [
-              -37.9304891,
-              -10.2842909
+              -37.9304834,
+              -10.2843007
             ],
             [
-              -37.9299291,
-              -10.2846766
+              -37.9299178,
+              -10.28471
             ],
             [
-              -37.9296771,
-              -10.2842083
+              -37.9296516,
+              -10.2842125
             ],
             [
-              -37.9301887,
-              -10.2838477
+              -37.930176,
+              -10.2838366
             ]
           ]
         ]
@@ -86,17 +90,24 @@
       "type": "Feature",
       "id": "node/4453001257",
       "properties": {
-        "timestamp": "2016-10-18T08:11:18Z",
-        "version": 1,
-        "changeset": 42977576,
+        "timestamp": "2025-03-04T11:11:57Z",
+        "version": 2,
+        "changeset": 163196722,
+        "addr:city": "Coronel João Sá",
+        "addr:postcode": "48590-000",
+        "addr:street": "Avenida Doutor Carvalho de Sá",
+        "addr:suburb": "Centro",
         "amenity": "school",
+        "name": "Creche Sossego da Mamãe",
+        "operator": "Município de Coronel João Sá",
+        "operator:type": "public",
         "id": "node/4453001257"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -37.9241692,
-          -10.278852
+          -37.9242868,
+          -10.2790172
         ]
       }
     },
@@ -104,10 +115,15 @@
       "type": "Feature",
       "id": "node/4453001258",
       "properties": {
-        "timestamp": "2016-10-18T08:11:18Z",
-        "version": 1,
-        "changeset": 42977576,
+        "timestamp": "2025-03-04T11:11:57Z",
+        "version": 2,
+        "changeset": 163196722,
+        "addr:city": "Coronel João Sá",
+        "addr:postcode": "48590-000",
+        "addr:street": "Rua Quinze de Novembro",
+        "addr:suburb": "Centro",
         "amenity": "school",
+        "name": "Colégio Municipal Coronel João Sá",
         "id": "node/4453001258"
       },
       "geometry": {
@@ -115,6 +131,106 @@
         "coordinates": [
           -37.9246278,
           -10.2874926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12635610260",
+      "properties": {
+        "timestamp": "2025-03-04T11:11:57Z",
+        "version": 1,
+        "changeset": 163196722,
+        "addr:city": "Coronel João Sá",
+        "addr:postcode": "48590-000",
+        "addr:street": "Praça da Veneza",
+        "addr:suburb": "Centro",
+        "amenity": "school",
+        "name": "Escola Municipal Rui Barbosa",
+        "operator": "Município de Coronel João Sá",
+        "operator:type": "public",
+        "id": "node/12635610260"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.9253007,
+          -10.2858658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12635610271",
+      "properties": {
+        "timestamp": "2025-03-04T11:11:57Z",
+        "version": 1,
+        "changeset": 163196722,
+        "addr:city": "Coronel João Sá",
+        "addr:postcode": "48590-000",
+        "addr:street": "Avenida Doutor Carvalho de Sá",
+        "addr:suburb": "Centro",
+        "amenity": "school",
+        "name": "Creche Municipal Vó Maria Maroto",
+        "operator": "Município de Coronel João Sá",
+        "operator:type": "public",
+        "id": "node/12635610271"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.9238878,
+          -10.2789278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12635652499",
+      "properties": {
+        "timestamp": "2025-03-04T11:54:45Z",
+        "version": 1,
+        "changeset": 163198172,
+        "addr:city": "Coronel João Sá",
+        "addr:postcode": "48590-000",
+        "addr:street": "Rua Quinze de Novembro",
+        "addr:suburb": "Centro",
+        "amenity": "school",
+        "name": "Escola Municipal Professora Maria Dalva Castor da Silva",
+        "operator": "Município de Coronel João Sá",
+        "operator:type": "public",
+        "id": "node/12635652499"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.9281854,
+          -10.2853072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12635652500",
+      "properties": {
+        "timestamp": "2025-03-04T11:54:45Z",
+        "version": 1,
+        "changeset": 163198172,
+        "addr:city": "Coronel João Sá",
+        "addr:postcode": "48590-000",
+        "addr:street": "Rua Rio do Peixe",
+        "addr:suburb": "Centro",
+        "amenity": "school",
+        "name": "Escola Municipal Coronel João Sá",
+        "operator": "Município de Coronel João Sá",
+        "operator:type": "public",
+        "id": "node/12635652500"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.9288303,
+          -10.285193
         ]
       }
     }

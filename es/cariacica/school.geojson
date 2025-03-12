@@ -5305,6 +5305,76 @@
     },
     {
       "type": "Feature",
+      "id": "way/1364618894",
+      "properties": {
+        "timestamp": "2025-03-04T22:24:14Z",
+        "version": 1,
+        "changeset": 163221929,
+        "addr:city": "Cariacica",
+        "addr:postcode": "29144-765",
+        "addr:street": "Rua das Violetas",
+        "addr:suburb": "Santo André",
+        "amenity": "school",
+        "name": "EMEF Sebastião Rodrigues Sobrinho",
+        "operator": "Prefeitura Municipal de Cariacica",
+        "operator:type": "government",
+        "phone": "2733548167",
+        "id": "way/1364618894"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.4008045,
+              -20.3502629
+            ],
+            [
+              -40.4008095,
+              -20.3502692
+            ],
+            [
+              -40.4008898,
+              -20.3503689
+            ],
+            [
+              -40.4009044,
+              -20.350387
+            ],
+            [
+              -40.400919,
+              -20.3504051
+            ],
+            [
+              -40.4009405,
+              -20.3504318
+            ],
+            [
+              -40.4006332,
+              -20.3506403
+            ],
+            [
+              -40.4006019,
+              -20.3506615
+            ],
+            [
+              -40.4005562,
+              -20.3505981
+            ],
+            [
+              -40.4004729,
+              -20.3504825
+            ],
+            [
+              -40.4008045,
+              -20.3502629
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/3460744524",
       "properties": {
         "timestamp": "2019-07-11T17:33:19Z",
@@ -7117,36 +7187,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/3460746411",
-      "properties": {
-        "timestamp": "2019-07-11T17:33:19Z",
-        "version": 4,
-        "changeset": 72146221,
-        "IJSN:administra": "Municipal",
-        "IJSN:classeCnae": "Fundamental",
-        "addr:city": "Cariacica",
-        "addr:country": "BR",
-        "addr:housenumber": "256",
-        "addr:place": "Flor do Campo",
-        "addr:postcode": "29145-831",
-        "addr:state": "ES",
-        "addr:street": "Rua das Tulipas",
-        "alt_name": "Escola Municipal de Ensino Fundamental",
-        "amenity": "school",
-        "contact:phone": "+55 27 3344-2821;+55 27 3286-1927",
-        "name": "EMEF Sebastião Rodrigues Sobrinho",
-        "id": "node/3460746411"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -40.4006191,
-          -20.3505076
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/3460746415",
       "properties": {
         "timestamp": "2019-07-11T17:33:19Z",
@@ -8166,6 +8206,42 @@
         "coordinates": [
           -40.4030833,
           -20.3494418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12637301916",
+      "properties": {
+        "timestamp": "2025-03-04T22:24:14Z",
+        "version": 1,
+        "changeset": 163221929,
+        "entrance": "main",
+        "id": "node/12637301916"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.4009044,
+          -20.350387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12637301918",
+      "properties": {
+        "timestamp": "2025-03-04T22:24:14Z",
+        "version": 1,
+        "changeset": 163221929,
+        "barrier": "gate",
+        "id": "node/12637301918"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.4005562,
+          -20.3505981
         ]
       }
     }

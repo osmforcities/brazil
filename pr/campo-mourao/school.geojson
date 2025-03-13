@@ -451,12 +451,15 @@
       "type": "Feature",
       "id": "node/12597140201",
       "properties": {
-        "timestamp": "2025-02-18T00:40:10Z",
-        "version": 1,
-        "changeset": 162640543,
+        "timestamp": "2025-03-06T13:40:38Z",
+        "version": 2,
+        "changeset": 163286107,
+        "addr:housenumber": "491",
+        "addr:postcode": "87309-680",
         "addr:street": "Rua Vicente Domanski",
         "amenity": "school",
         "name": "Colégio Estadual Novo Horizonte",
+        "opening_hours": "Su-Th 07:50-16:50",
         "id": "node/12597140201"
       },
       "geometry": {
@@ -464,6 +467,26 @@
         "coordinates": [
           -52.3632218,
           -23.995906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12640860901",
+      "properties": {
+        "timestamp": "2025-03-06T13:42:12Z",
+        "version": 1,
+        "changeset": 163286168,
+        "addr:street": "Rua Vicente Domanski",
+        "amenity": "school",
+        "name": "Quadra Esportiva - Colégio Estadual Novo Horizonte",
+        "id": "node/12640860901"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.3632757,
+          -23.9966938
         ]
       }
     }

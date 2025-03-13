@@ -56,21 +56,25 @@
       "type": "Feature",
       "id": "way/472016567",
       "properties": {
-        "timestamp": "2024-10-16T15:12:42Z",
-        "version": 4,
-        "changeset": 157969850,
+        "timestamp": "2025-03-05T17:28:19Z",
+        "version": 5,
+        "changeset": 163253659,
+        "addr:city": "Londrina",
         "addr:housenumber": "145",
         "addr:postcode": "86015-903",
         "addr:street": "Rua Governador Parigot de Souza",
         "addr:suburb": "86015-903",
+        "air_conditioning": "yes",
         "building": "public",
         "government": "legislative",
         "name": "Câmara Municipal de Londrina",
         "office": "government",
-        "opening_hours": "off",
+        "opening_hours": "Mo-Fr 09:00-12:00; 14:00-19:00",
         "operator": "Câmara Municipal de Londrina",
         "phone": "+55 43 3374 1300",
+        "smoking": "outside",
         "website": "https://www.cml.pr.gov.br/cml/site/index.xhtml",
+        "wheelchair": "yes",
         "id": "way/472016567"
       },
       "geometry": {
@@ -968,33 +972,6 @@
         "coordinates": [
           -51.1540736,
           -23.3188303
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/7206439984",
-      "properties": {
-        "timestamp": "2024-10-16T15:16:14Z",
-        "version": 3,
-        "changeset": 157970032,
-        "addr:city": "Londrina",
-        "addr:housenumber": "311",
-        "addr:street": "Rua Governador Parigot de Souza",
-        "addr:suburb": "Jardim Caiçaras",
-        "alt_name": "Ordem dos Advogados do Brasil",
-        "government": "yes",
-        "name": "O.A.B/ Pr - Subseção Londrina",
-        "office": "government",
-        "phone": "+55 43 3294 5900",
-        "website": "https://www.oablondrina.org.br/",
-        "id": "node/7206439984"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -51.1525898,
-          -23.3348153
         ]
       }
     },

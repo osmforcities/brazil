@@ -5375,6 +5375,76 @@
     },
     {
       "type": "Feature",
+      "id": "way/1364885854",
+      "properties": {
+        "timestamp": "2025-03-05T23:36:44Z",
+        "version": 1,
+        "changeset": 163265292,
+        "addr:city": "Cariacica",
+        "addr:postcode": "29145-670",
+        "addr:street": "Rua Santa Fé",
+        "addr:suburb": "Vila Palestina",
+        "amenity": "school",
+        "name": "EMEF Manoel Mello Sobrinho",
+        "operator": "Prefeitura Municipal de Cariacica",
+        "operator:type": "government",
+        "phone": "2733548171",
+        "id": "way/1364885854"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.3974944,
+              -20.3440181
+            ],
+            [
+              -40.3977084,
+              -20.3440908
+            ],
+            [
+              -40.3976902,
+              -20.3441353
+            ],
+            [
+              -40.3976214,
+              -20.3443031
+            ],
+            [
+              -40.3971141,
+              -20.3441259
+            ],
+            [
+              -40.3971936,
+              -20.343892
+            ],
+            [
+              -40.3972036,
+              -20.3438628
+            ],
+            [
+              -40.397466,
+              -20.3437568
+            ],
+            [
+              -40.39758,
+              -20.3437989
+            ],
+            [
+              -40.3975874,
+              -20.3438007
+            ],
+            [
+              -40.3974944,
+              -20.3440181
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/3460744524",
       "properties": {
         "timestamp": "2019-07-11T17:33:19Z",
@@ -6953,35 +7023,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/3460746394",
-      "properties": {
-        "timestamp": "2019-07-11T17:33:19Z",
-        "version": 3,
-        "changeset": 72146221,
-        "IJSN:administra": "Municipal",
-        "IJSN:classeCnae": "Fundamental",
-        "addr:city": "Cariacica",
-        "addr:country": "BR",
-        "addr:place": "Vila Palestina",
-        "addr:postcode": "29145-760",
-        "addr:state": "ES",
-        "addr:street": "Rua Santa Fé",
-        "alt_name": "Escola Municipal de Ensino Fundamental",
-        "amenity": "school",
-        "contact:phone": "+55 27 3343-3144;+55 27 3344-3075",
-        "name": "EMEF Manoel Melo Sobrinho",
-        "id": "node/3460746394"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -40.3973598,
-          -20.34414
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/3460746396",
       "properties": {
         "timestamp": "2019-07-11T17:33:19Z",
@@ -8242,6 +8283,24 @@
         "coordinates": [
           -40.4005562,
           -20.3505981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12639741964",
+      "properties": {
+        "timestamp": "2025-03-05T23:36:44Z",
+        "version": 1,
+        "changeset": 163265292,
+        "entrance": "main",
+        "id": "node/12639741964"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.3971936,
+          -20.343892
         ]
       }
     }

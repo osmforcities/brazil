@@ -253,18 +253,22 @@
       "type": "Feature",
       "id": "node/3833597223",
       "properties": {
-        "timestamp": "2023-01-29T15:01:18Z",
-        "version": 8,
-        "changeset": 131843747,
+        "timestamp": "2025-03-09T20:01:12Z",
+        "version": 9,
+        "changeset": 163415611,
         "amenity": "bicycle_rental",
-        "capacity": "14",
-        "check_date": "2023-01-29",
+        "brand": "Bicicletar",
+        "brand:wikidata": "Q20052795",
+        "capacity": "12",
+        "check_date": "2025-03-09",
         "description": "Rua Acesso Público próximo à entrada da UFC / Esquina com a Avenida Humberto MonteUFC",
         "internet_access": "no",
-        "name": "Campus do Pici - UFC",
+        "name": "43. Campus do Pici - UFC",
         "network": "Bicicletar",
         "opening_hours": "24/7",
         "operator": "Prefeitura Municipal de Fortaleza",
+        "operator:type": "government",
+        "operator:wikidata": "Q53930902",
         "ref": "43",
         "wheelchair": "yes",
         "id": "node/3833597223"
@@ -578,13 +582,13 @@
       "type": "Feature",
       "id": "node/3833597237",
       "properties": {
-        "timestamp": "2021-03-10T23:44:04Z",
-        "version": 4,
-        "changeset": 100805620,
+        "timestamp": "2025-03-09T20:01:12Z",
+        "version": 5,
+        "changeset": 163415611,
         "amenity": "bicycle_rental",
         "capacity": "12",
         "description": "Rua Professor Lino Encarnação em frente à Paróquia de Santo Afonso – Igreja Redonda / Esquina Avenida Jovita FeitosaIgreja Redonda",
-        "name": "Igreja Redonda",
+        "name": "44. Igreja Redonda",
         "network": "Bicicletar",
         "operator": "Prefeitura Municipal de Fortaleza",
         "ref": "44",
@@ -5212,6 +5216,28 @@
         "coordinates": [
           -38.5107861,
           -3.7202686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12648262422",
+      "properties": {
+        "timestamp": "2025-03-09T20:01:12Z",
+        "version": 1,
+        "changeset": 163415611,
+        "amenity": "bicycle_rental",
+        "capacity": "20",
+        "name": "157. Biblioteca Campus do Pici",
+        "network": "Bicicletar",
+        "operator": "Prefeitura Municipal de Fortaleza",
+        "id": "node/12648262422"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5749474,
+          -3.7422522
         ]
       }
     }

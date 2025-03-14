@@ -5,10 +5,17 @@
       "type": "Feature",
       "id": "way/293769304",
       "properties": {
-        "timestamp": "2014-07-21T19:00:38Z",
-        "version": 1,
-        "changeset": 24279835,
-        "name": "Hotel do China",
+        "timestamp": "2025-03-09T11:07:54Z",
+        "version": 2,
+        "changeset": 163395375,
+        "addr:city": "Canindé de São Francisco",
+        "addr:housenumber": "373",
+        "addr:postcode": "49820-000",
+        "addr:street": "Avenida João Alves Filho",
+        "addr:suburb": "Centro",
+        "building": "yes",
+        "level": "2",
+        "name": "China Hotel",
         "tourism": "hotel",
         "id": "way/293769304"
       },
@@ -17,24 +24,24 @@
         "coordinates": [
           [
             [
-              -37.7885622,
-              -9.662684
+              -37.7885612,
+              -9.6626835
             ],
             [
-              -37.7883402,
-              -9.662761
+              -37.7883907,
+              -9.6627415
             ],
             [
-              -37.7882895,
-              -9.6626189
+              -37.7883411,
+              -9.6625999
             ],
             [
               -37.7885115,
-              -9.6625419
+              -9.6625418
             ],
             [
-              -37.7885622,
-              -9.662684
+              -37.7885612,
+              -9.6626835
             ]
           ]
         ]
@@ -44,17 +51,23 @@
       "type": "Feature",
       "id": "node/1423565943",
       "properties": {
-        "timestamp": "2011-09-05T00:35:00Z",
-        "version": 1,
-        "changeset": 9213754,
+        "timestamp": "2025-03-09T11:07:54Z",
+        "version": 2,
+        "changeset": 163395375,
+        "addr:city": "Canindé de São Francisco",
+        "addr:housenumber": "43",
+        "addr:postcode": "49820-000",
+        "addr:street": "Avenida Ananias Fernandes",
+        "addr:suburb": "Centro",
+        "name": "Hotel Canindé",
         "tourism": "hotel",
         "id": "node/1423565943"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -37.7937741,
-          -9.6664557
+          -37.7936817,
+          -9.666412
         ]
       }
     },
@@ -98,6 +111,49 @@
         "coordinates": [
           -37.7882807,
           -9.6413872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12647311001",
+      "properties": {
+        "timestamp": "2025-03-09T11:07:54Z",
+        "version": 1,
+        "changeset": 163395375,
+        "addr:city": "Canindé de São Francisco",
+        "addr:housenumber": "217",
+        "addr:postcode": "49820-000",
+        "addr:street": "Rua Antônio Figueira dos Santos",
+        "addr:suburb": "Centro",
+        "name": "Pousada Bom Sossego",
+        "tourism": "hotel",
+        "id": "node/12647311001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.7884413,
+          -9.6597917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12647607426",
+      "properties": {
+        "timestamp": "2025-03-09T14:25:10Z",
+        "version": 1,
+        "changeset": 163402900,
+        "name": "Pousada e Restaurante Paraíso das Águas",
+        "tourism": "hotel",
+        "id": "node/12647607426"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.8765705,
+          -9.6060101
         ]
       }
     }

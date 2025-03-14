@@ -5,9 +5,9 @@
       "type": "Feature",
       "id": "way/537272239",
       "properties": {
-        "timestamp": "2020-11-30T02:44:44Z",
-        "version": 2,
-        "changeset": 95010595,
+        "timestamp": "2025-03-09T21:53:05Z",
+        "version": 3,
+        "changeset": 163419117,
         "addr:street": "Avenida Jerônimo de Albuquerque",
         "addr:suburb": "Vinhais",
         "amenity": "pharmacy",
@@ -25,24 +25,32 @@
         "coordinates": [
           [
             [
-              -44.2562854,
-              -2.5181266
+              -44.2563397,
+              -2.5181158
             ],
             [
-              -44.2561405,
-              -2.5181601
+              -44.2562007,
+              -2.5181483
             ],
             [
-              -44.2560762,
-              -2.5179029
+              -44.2560999,
+              -2.5179971
             ],
             [
-              -44.2562183,
-              -2.5178627
+              -44.2561236,
+              -2.5179354
             ],
             [
-              -44.2562854,
-              -2.5181266
+              -44.2562765,
+              -2.5179002
+            ],
+            [
+              -44.2562861,
+              -2.517933
+            ],
+            [
+              -44.2563397,
+              -2.5181158
             ]
           ]
         ]
@@ -2623,25 +2631,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/4141728525",
-      "properties": {
-        "timestamp": "2022-09-28T12:23:25Z",
-        "version": 2,
-        "changeset": 126738608,
-        "amenity": "pharmacy",
-        "healthcare": "pharmacy",
-        "id": "node/4141728525"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.2567702,
-          -2.5177949
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/4411761585",
       "properties": {
         "timestamp": "2016-09-21T15:48:58Z",
@@ -3168,6 +3157,49 @@
         "coordinates": [
           -44.3045011,
           -2.4915738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12648401152",
+      "properties": {
+        "timestamp": "2025-03-09T21:53:05Z",
+        "version": 1,
+        "changeset": 163419117,
+        "amenity": "pharmacy",
+        "brand": "Drogasil",
+        "brand:wikidata": "Q5308185",
+        "healthcare": "pharmacy",
+        "name": "Drogasil",
+        "wheelchair": "yes",
+        "id": "node/12648401152"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.2568401,
+          -2.5178428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12648401154",
+      "properties": {
+        "timestamp": "2025-03-09T21:53:05Z",
+        "version": 1,
+        "changeset": 163419117,
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Garrido",
+        "id": "node/12648401154"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.2567652,
+          -2.5178499
         ]
       }
     }

@@ -6830,6 +6830,65 @@
     },
     {
       "type": "Feature",
+      "id": "way/618173869",
+      "properties": {
+        "timestamp": "2025-03-09T22:12:00Z",
+        "version": 2,
+        "changeset": 163419564,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "467",
+        "addr:postcode": "02336-040",
+        "addr:street": "Rua Casa Forte",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "height": "10.409",
+        "name": "Magna Seiva Manipulação",
+        "source": "pmsp",
+        "id": "way/618173869"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.6175223,
+              -23.481571
+            ],
+            [
+              -46.6175675,
+              -23.4815582
+            ],
+            [
+              -46.6176214,
+              -23.481543
+            ],
+            [
+              -46.617665,
+              -23.4816662
+            ],
+            [
+              -46.617648,
+              -23.4816708
+            ],
+            [
+              -46.6175114,
+              -23.4817081
+            ],
+            [
+              -46.6175221,
+              -23.4815736
+            ],
+            [
+              -46.6175223,
+              -23.481571
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/618179467",
       "properties": {
         "timestamp": "2021-10-07T16:22:09Z",
@@ -38187,6 +38246,28 @@
         "coordinates": [
           -46.6759305,
           -23.5834659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12648463415",
+      "properties": {
+        "timestamp": "2025-03-09T22:12:00Z",
+        "version": 1,
+        "changeset": 163419564,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "465",
+        "addr:postcode": "02336-040",
+        "addr:street": "Rua Casa Forte",
+        "entrance": "yes",
+        "id": "node/12648463415"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6175675,
+          -23.4815582
         ]
       }
     }

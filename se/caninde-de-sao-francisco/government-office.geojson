@@ -78,6 +78,132 @@
     },
     {
       "type": "Feature",
+      "id": "way/293769314",
+      "properties": {
+        "timestamp": "2025-03-09T11:07:54Z",
+        "version": 4,
+        "changeset": 163395375,
+        "addr:city": "Canindé de São Francisco",
+        "addr:housenumber": "51",
+        "addr:postcode": "49820-000",
+        "addr:street": "Rua Antônio Alves Feitosa",
+        "addr:suburb": "Centro",
+        "building": "public",
+        "government": "prosecutor",
+        "name": "Promotorias de Justiça de Justiça da Comarca de Canindé de São Francisco",
+        "office": "government",
+        "operator": "Ministério Público do Estado de Sergipe",
+        "id": "way/293769314"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -37.7898751,
+              -9.6631347
+            ],
+            [
+              -37.7895875,
+              -9.6632347
+            ],
+            [
+              -37.7895362,
+              -9.6630916
+            ],
+            [
+              -37.7895132,
+              -9.6630996
+            ],
+            [
+              -37.7894928,
+              -9.6630425
+            ],
+            [
+              -37.7897583,
+              -9.6629502
+            ],
+            [
+              -37.7897825,
+              -9.6630179
+            ],
+            [
+              -37.7898277,
+              -9.6630022
+            ],
+            [
+              -37.7898751,
+              -9.6631347
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1365658360",
+      "properties": {
+        "timestamp": "2025-03-09T11:07:54Z",
+        "version": 2,
+        "changeset": 163395375,
+        "addr:city": "Canindé de São Francisco",
+        "addr:postcode": "49820-000",
+        "addr:street": "Rua Antônio Caetano de Sá",
+        "addr:suburb": "Centro",
+        "building": "yes",
+        "building:levels": "1",
+        "government": "register_office",
+        "name": "28° Zona Eleitoral de Canindé de São Francisco",
+        "office": "government",
+        "operator": "Tribunal Regional Eleitoral do Estado de Sergipe",
+        "id": "way/1365658360"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -37.790084,
+              -9.6641194
+            ],
+            [
+              -37.7900493,
+              -9.6641323
+            ],
+            [
+              -37.7900543,
+              -9.6641456
+            ],
+            [
+              -37.7899926,
+              -9.6641685
+            ],
+            [
+              -37.789985,
+              -9.6641484
+            ],
+            [
+              -37.7899522,
+              -9.6641605
+            ],
+            [
+              -37.789913,
+              -9.6640579
+            ],
+            [
+              -37.7900423,
+              -9.66401
+            ],
+            [
+              -37.790084,
+              -9.6641194
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/12643468053",
       "properties": {
         "timestamp": "2025-03-08T13:06:54Z",
@@ -121,6 +247,60 @@
         "coordinates": [
           -37.7900533,
           -9.6609417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12647311003",
+      "properties": {
+        "timestamp": "2025-03-09T11:07:54Z",
+        "version": 1,
+        "changeset": 163395375,
+        "addr:city": "Canindé de São Francisco",
+        "addr:housenumber": "1162",
+        "addr:postcode": "49820-000",
+        "addr:street": "Avenida Ananias Fernandes Santos",
+        "addr:suburb": "Centro",
+        "government": "agriculture",
+        "name": "Emdagro",
+        "office": "government",
+        "id": "node/12647311003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.7894923,
+          -9.6572335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12647311007",
+      "properties": {
+        "timestamp": "2025-03-09T11:07:54Z",
+        "version": 1,
+        "changeset": 163395375,
+        "addr:city": "Canindé de São Francisco",
+        "addr:postcode": "49820-000",
+        "addr:street": "Avenida Ananias Fernandes Santos",
+        "addr:suburb": "Centro",
+        "email": "aps22001150@inss.gov.br",
+        "government": "social_security",
+        "name": "Agência da Previdência Social",
+        "office": "government",
+        "operator": "Instituto Nacional do Seguro Social",
+        "operator:short": "INSS",
+        "operator:wikidata": "Q10302614",
+        "phone": "+55 79 3346 1341",
+        "id": "node/12647311007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.7918314,
+          -9.6622092
         ]
       }
     }

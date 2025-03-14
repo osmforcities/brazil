@@ -3,6 +3,83 @@
   "features": [
     {
       "type": "Feature",
+      "id": "way/1327387794",
+      "properties": {
+        "timestamp": "2025-03-08T22:07:45Z",
+        "version": 2,
+        "changeset": 163381205,
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "UBSF- Costa Leitão",
+        "operator": "Sistema Único de Saúde",
+        "operator:short": "SUS",
+        "operator:type": "public",
+        "operator:wikidata": "Q7531056",
+        "id": "way/1327387794"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -37.0707073,
+              -8.4179406
+            ],
+            [
+              -37.070758,
+              -8.4180401
+            ],
+            [
+              -37.0707927,
+              -8.4180228
+            ],
+            [
+              -37.0708426,
+              -8.4181207
+            ],
+            [
+              -37.0706081,
+              -8.4182377
+            ],
+            [
+              -37.0705567,
+              -8.4181368
+            ],
+            [
+              -37.0706407,
+              -8.4180949
+            ],
+            [
+              -37.0706188,
+              -8.4180518
+            ],
+            [
+              -37.0706482,
+              -8.4180371
+            ],
+            [
+              -37.0706465,
+              -8.4180104
+            ],
+            [
+              -37.0706894,
+              -8.417989
+            ],
+            [
+              -37.0706733,
+              -8.4179575
+            ],
+            [
+              -37.0707073,
+              -8.4179406
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1328262041",
       "properties": {
         "timestamp": "2024-10-26T00:22:04Z",
@@ -115,6 +192,60 @@
     },
     {
       "type": "Feature",
+      "id": "way/1365626049",
+      "properties": {
+        "timestamp": "2025-03-08T22:07:45Z",
+        "version": 1,
+        "changeset": 163381205,
+        "addr:city": "Arcoverde",
+        "addr:housenumber": "152A",
+        "addr:postcode": "56500-000",
+        "addr:street": "Rua Martins Júnior",
+        "addr:suburb": "São Geraldo",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "UBSF - Carlos H. Bradley.",
+        "operator": "Sistema Único de Saúde",
+        "operator:short": "SUS",
+        "operator:type": "public",
+        "operator:wikidata": "Q7531056",
+        "id": "way/1365626049"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -37.0450097,
+              -8.4182936
+            ],
+            [
+              -37.0449795,
+              -8.4179653
+            ],
+            [
+              -37.044902,
+              -8.4176285
+            ],
+            [
+              -37.0453717,
+              -8.4175965
+            ],
+            [
+              -37.0453739,
+              -8.4183
+            ],
+            [
+              -37.0450097,
+              -8.4182936
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/4441125698",
       "properties": {
         "timestamp": "2016-10-10T19:17:28Z",
@@ -148,6 +279,90 @@
         "coordinates": [
           -37.066153,
           -8.4258545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12646547055",
+      "properties": {
+        "timestamp": "2025-03-08T22:07:45Z",
+        "version": 1,
+        "changeset": 163381205,
+        "addr:city": "Arcoverde",
+        "addr:housenumber": "119",
+        "addr:postcode": "56500-000",
+        "addr:street": "Rua Vânia Alves de Vasconcelos",
+        "addr:suburb": "Sucupira",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "UBSF - Luiz de Almeida Souza",
+        "operator": "Sistema Único de Saúde",
+        "operator:short": "SUS",
+        "operator:type": "public",
+        "operator:wikidata": "Q7531056",
+        "wheelchair": "yes",
+        "id": "node/12646547055"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.0511985,
+          -8.4244671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12646547056",
+      "properties": {
+        "timestamp": "2025-03-08T22:07:45Z",
+        "version": 1,
+        "changeset": 163381205,
+        "addr:city": "Arcoverde",
+        "addr:housenumber": "325",
+        "addr:postcode": "56512-170",
+        "addr:street": "Rua Teixeira de Freitas",
+        "addr:suburb": "São Cristovão",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "UBSF - Dr. José Cavalcanti Alves",
+        "operator": "Sistema Único de Saúde",
+        "operator:short": "SUS",
+        "operator:type": "public",
+        "operator:wikidata": "Q7531056",
+        "id": "node/12646547056"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.0679268,
+          -8.4171295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12646547057",
+      "properties": {
+        "timestamp": "2025-03-08T22:07:45Z",
+        "version": 1,
+        "changeset": 163381205,
+        "addr:street": "Rua D",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Eulália Camêlo De Almeida",
+        "operator": "Sistema Único de Saúde",
+        "operator:short": "SUS",
+        "operator:type": "public",
+        "operator:wikidata": "Q7531056",
+        "id": "node/12646547057"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.0706745,
+          -8.3991572
         ]
       }
     }

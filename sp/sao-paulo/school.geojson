@@ -65003,10 +65003,11 @@
       "type": "Feature",
       "id": "way/904198903",
       "properties": {
-        "timestamp": "2025-02-24T18:03:28Z",
-        "version": 3,
-        "changeset": 162903533,
+        "timestamp": "2025-03-08T20:56:46Z",
+        "version": 4,
+        "changeset": 163379317,
         "amenity": "school",
+        "barrier": "wall",
         "name": "Instituto Ana Rosa",
         "id": "way/904198903"
       },
@@ -65029,6 +65030,22 @@
             [
               -46.7314843,
               -23.5883242
+            ],
+            [
+              -46.7310974,
+              -23.5888109
+            ],
+            [
+              -46.7308912,
+              -23.5890702
+            ],
+            [
+              -46.7308034,
+              -23.5891806
+            ],
+            [
+              -46.7307542,
+              -23.5892425
             ],
             [
               -46.730275,
@@ -90574,10 +90591,15 @@
       "type": "Feature",
       "id": "way/1361534739",
       "properties": {
-        "timestamp": "2025-02-24T18:03:28Z",
-        "version": 2,
-        "changeset": 162903533,
+        "timestamp": "2025-03-08T20:56:46Z",
+        "version": 3,
+        "changeset": 163379317,
         "amenity": "school",
+        "barrier": "wall",
+        "grades": "1-12",
+        "isced:level": "0-3",
+        "name": "Colégio João Paulo I",
+        "wheelchair": "yes",
         "id": "way/1361534739"
       },
       "geometry": {
@@ -90609,6 +90631,10 @@
               -23.5878404
             ],
             [
+              -46.7310724,
+              -23.5875109
+            ],
+            [
               -46.7310911,
               -23.5874917
             ],
@@ -90619,6 +90645,10 @@
             [
               -46.731395,
               -23.5876741
+            ],
+            [
+              -46.7314779,
+              -23.5877488
             ],
             [
               -46.7317108,
@@ -91107,6 +91137,91 @@
             [
               -46.6288044,
               -23.4702968
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1365443289",
+      "properties": {
+        "timestamp": "2025-03-08T02:35:52Z",
+        "version": 1,
+        "changeset": 163349195,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "145",
+        "addr:postcode": "05537-000",
+        "addr:street": "Rua Geremia Lunardelli",
+        "addr:suburb": "Peri Peri",
+        "amenity": "school",
+        "name": "Escola Estadual Alcides da Costa Vidigal",
+        "website": "http://www.educacao.sp.gov.br/cgrh/escolas/alcides-da-costa-vidigal/",
+        "id": "way/1365443289"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.7355176,
+              -23.5858321
+            ],
+            [
+              -46.735539,
+              -23.5853754
+            ],
+            [
+              -46.7355399,
+              -23.5853564
+            ],
+            [
+              -46.735566,
+              -23.5852689
+            ],
+            [
+              -46.7356628,
+              -23.5853108
+            ],
+            [
+              -46.7357735,
+              -23.5848838
+            ],
+            [
+              -46.7358719,
+              -23.5849044
+            ],
+            [
+              -46.7360827,
+              -23.5849534
+            ],
+            [
+              -46.7361558,
+              -23.5849998
+            ],
+            [
+              -46.7364539,
+              -23.5854455
+            ],
+            [
+              -46.7365214,
+              -23.5855563
+            ],
+            [
+              -46.7365495,
+              -23.5856671
+            ],
+            [
+              -46.7364511,
+              -23.5858321
+            ],
+            [
+              -46.7362936,
+              -23.5858836
+            ],
+            [
+              -46.7355176,
+              -23.5858321
             ]
           ]
         ]
@@ -115642,6 +115757,48 @@
         "coordinates": [
           -46.6288996,
           -23.4706207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12646062932",
+      "properties": {
+        "timestamp": "2025-03-08T20:56:46Z",
+        "version": 1,
+        "changeset": 163379317,
+        "access": "private",
+        "door": "yes",
+        "entrance": "main",
+        "wheelchair": "no",
+        "id": "node/12646062932"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7314779,
+          -23.5877488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12646062933",
+      "properties": {
+        "timestamp": "2025-03-08T20:56:46Z",
+        "version": 1,
+        "changeset": 163379317,
+        "access": "private",
+        "door": "yes",
+        "entrance": "entrance",
+        "wheelchair": "yes",
+        "id": "node/12646062933"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7310724,
+          -23.5875109
         ]
       }
     }

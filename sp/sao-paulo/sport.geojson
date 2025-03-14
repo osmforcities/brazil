@@ -39028,6 +39028,59 @@
     },
     {
       "type": "Feature",
+      "id": "way/405663412",
+      "properties": {
+        "timestamp": "2025-03-08T13:14:30Z",
+        "version": 4,
+        "changeset": 163363821,
+        "amenity": "dojo",
+        "building": "sports_centre",
+        "building:use": "sport",
+        "height": "3.9",
+        "roof:material": "metal",
+        "roof:orientation": "across",
+        "roof:shape": "skillion",
+        "sport": "judo",
+        "id": "way/405663412"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.7224343,
+              -23.5741897
+            ],
+            [
+              -46.7224808,
+              -23.5742144
+            ],
+            [
+              -46.7223322,
+              -23.5744521
+            ],
+            [
+              -46.7222553,
+              -23.5744112
+            ],
+            [
+              -46.722353,
+              -23.5742646
+            ],
+            [
+              -46.7223789,
+              -23.5742784
+            ],
+            [
+              -46.7224343,
+              -23.5741897
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/408407805",
       "properties": {
         "timestamp": "2016-04-06T19:53:07Z",
@@ -110761,12 +110814,12 @@
       "type": "Feature",
       "id": "way/1362654297",
       "properties": {
-        "timestamp": "2025-02-24T18:03:28Z",
-        "version": 1,
-        "changeset": 162903533,
+        "timestamp": "2025-03-08T20:56:46Z",
+        "version": 2,
+        "changeset": 163379317,
         "access": "private",
         "leisure": "pitch",
-        "sport": "soccer",
+        "sport": "soccer;basketball;volleyball",
         "id": "way/1362654297"
       },
       "geometry": {
@@ -110782,8 +110835,12 @@
               -23.587656
             ],
             [
-              -46.7310384,
-              -23.5878747
+              -46.7310968,
+              -23.5878008
+            ],
+            [
+              -46.7310426,
+              -23.5878698
             ],
             [
               -46.7309016,
@@ -110792,6 +110849,53 @@
             [
               -46.7310893,
               -23.5875626
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1362654301",
+      "properties": {
+        "timestamp": "2025-03-08T20:56:46Z",
+        "version": 2,
+        "changeset": 163379317,
+        "leisure": "pitch",
+        "sport": "multi;soccer;volleyball",
+        "id": "way/1362654301"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.7311139,
+              -23.5879587
+            ],
+            [
+              -46.7310213,
+              -23.587901
+            ],
+            [
+              -46.7310426,
+              -23.5878698
+            ],
+            [
+              -46.7310968,
+              -23.5878008
+            ],
+            [
+              -46.7311852,
+              -23.5878682
+            ],
+            [
+              -46.7311327,
+              -23.5879317
+            ],
+            [
+              -46.7311139,
+              -23.5879587
             ]
           ]
         ]

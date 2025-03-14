@@ -134,6 +134,62 @@
     },
     {
       "type": "Feature",
+      "id": "way/1365575605",
+      "properties": {
+        "timestamp": "2025-03-08T18:30:40Z",
+        "version": 1,
+        "changeset": 163375247,
+        "addr:city": "Assu",
+        "addr:housenumber": "2083",
+        "addr:postcode": "59650-000",
+        "addr:street": "Rua Doutor Adalberto Amorim",
+        "addr:suburb": "Vertentes",
+        "building": "yes",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "Hotel União",
+        "phone": "+55 84 99654-5775",
+        "tourism": "hotel",
+        "id": "way/1365575605"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -36.9110442,
+              -5.5850501
+            ],
+            [
+              -36.9109908,
+              -5.5853342
+            ],
+            [
+              -36.9104746,
+              -5.5852382
+            ],
+            [
+              -36.9105391,
+              -5.5848948
+            ],
+            [
+              -36.9107683,
+              -5.5849374
+            ],
+            [
+              -36.9107572,
+              -5.5849967
+            ],
+            [
+              -36.9110442,
+              -5.5850501
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/2110021968",
       "properties": {
         "timestamp": "2014-10-19T14:14:31Z",
@@ -149,25 +205,6 @@
         "coordinates": [
           -36.9047764,
           -5.5746693
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/3138493971",
-      "properties": {
-        "timestamp": "2015-05-23T14:33:12Z",
-        "version": 2,
-        "changeset": 31399033,
-        "name": "Pousada",
-        "tourism": "hotel",
-        "id": "node/3138493971"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.9110085,
-          -5.5852495
         ]
       }
     }

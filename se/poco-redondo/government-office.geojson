@@ -1,0 +1,123 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/382134404",
+      "properties": {
+        "timestamp": "2025-03-07T01:27:49Z",
+        "version": 4,
+        "changeset": 163307024,
+        "access": "yes",
+        "addr:city": "Poço Redondo",
+        "addr:housenumber": "193",
+        "addr:postcode": "49810-000",
+        "addr:street": "Avenida Alcino Alves Costa",
+        "addr:suburb": "Centro",
+        "building": "yes",
+        "emergency": "no",
+        "government": "healthcare",
+        "name": "Secretaria Municipal de Saúde",
+        "office": "government",
+        "id": "way/382134404"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -37.6837372,
+              -9.807064
+            ],
+            [
+              -37.6836546,
+              -9.8071384
+            ],
+            [
+              -37.6835898,
+              -9.8070685
+            ],
+            [
+              -37.6835816,
+              -9.8070759
+            ],
+            [
+              -37.6835108,
+              -9.8069995
+            ],
+            [
+              -37.6836275,
+              -9.8068946
+            ],
+            [
+              -37.6837007,
+              -9.8069737
+            ],
+            [
+              -37.683675,
+              -9.8069968
+            ],
+            [
+              -37.6837372,
+              -9.807064
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12641953911",
+      "properties": {
+        "timestamp": "2025-03-07T01:27:49Z",
+        "version": 1,
+        "changeset": 163307024,
+        "addr:city": "Poço Redondo",
+        "addr:housenumber": "776",
+        "addr:postcode": "49810-000",
+        "addr:street": "Avenida Alcino Alves Costa",
+        "addr:suburb": "Centro",
+        "email": "aps22001130@inss.gov.br",
+        "government": "social_security",
+        "name": "Agência da Previdência Social em Poço Verde",
+        "office": "government",
+        "operator": "Instituto Nacional do Seguro Social",
+        "operator:short": "INSS",
+        "operator:wikidata": "Q10302614",
+        "id": "node/12641953911"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.6809745,
+          -9.8120188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12641953913",
+      "properties": {
+        "timestamp": "2025-03-07T01:27:49Z",
+        "version": 1,
+        "changeset": 163307024,
+        "addr:city": "Poço Redondo",
+        "addr:housenumber": "319",
+        "addr:postcode": "49810-000",
+        "addr:street": "Avenida Alcino Alves Costa",
+        "addr:suburb": "Centro",
+        "government": "agriculture",
+        "name": "Emdagro",
+        "office": "government",
+        "id": "node/12641953913"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.6830004,
+          -9.8079943
+        ]
+      }
+    }
+  ]
+}

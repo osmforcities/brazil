@@ -5,12 +5,15 @@
       "type": "Feature",
       "id": "way/169268687",
       "properties": {
-        "timestamp": "2012-06-27T20:26:34Z",
-        "version": 1,
-        "changeset": 12040631,
+        "timestamp": "2025-03-07T13:46:12Z",
+        "version": 2,
+        "changeset": 163328178,
+        "access": "private",
         "leisure": "pitch",
+        "lit": "yes",
         "name": "Campo de Futebol do Canindé",
         "sport": "soccer",
+        "surface": "grass",
         "id": "way/169268687"
       },
       "geometry": {
@@ -18,24 +21,143 @@
         "coordinates": [
           [
             [
-              -37.7926694,
-              -9.6678399
+              -37.7925866,
+              -9.6679348
             ],
             [
-              -37.7927524,
-              -9.6688629
+              -37.7926612,
+              -9.6688729
             ],
             [
-              -37.7920968,
-              -9.6689038
+              -37.792063,
+              -9.6689121
             ],
             [
-              -37.7919864,
-              -9.6678957
+              -37.7920084,
+              -9.6679807
             ],
             [
-              -37.7926694,
-              -9.6678399
+              -37.7925866,
+              -9.6679348
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293769371",
+      "properties": {
+        "timestamp": "2025-03-07T10:57:57Z",
+        "version": 2,
+        "changeset": 163322085,
+        "access": "yes",
+        "leisure": "pitch",
+        "sport": "soccer",
+        "surface": "dirt",
+        "id": "way/293769371"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -37.7843005,
+              -9.6552169
+            ],
+            [
+              -37.7835935,
+              -9.6556077
+            ],
+            [
+              -37.783339,
+              -9.6551603
+            ],
+            [
+              -37.784046,
+              -9.6547694
+            ],
+            [
+              -37.7843005,
+              -9.6552169
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293769372",
+      "properties": {
+        "timestamp": "2025-03-07T14:36:10Z",
+        "version": 2,
+        "changeset": 163330068,
+        "leisure": "pitch",
+        "sport": "multi",
+        "id": "way/293769372"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -37.7885856,
+              -9.6562636
+            ],
+            [
+              -37.7881787,
+              -9.6564032
+            ],
+            [
+              -37.7880782,
+              -9.656116
+            ],
+            [
+              -37.7884743,
+              -9.6559817
+            ],
+            [
+              -37.7885856,
+              -9.6562636
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293769373",
+      "properties": {
+        "timestamp": "2025-03-07T14:36:10Z",
+        "version": 2,
+        "changeset": 163330068,
+        "leisure": "pitch",
+        "sport": "multi",
+        "id": "way/293769373"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -37.7936576,
+              -9.6644614
+            ],
+            [
+              -37.7935842,
+              -9.6642378
+            ],
+            [
+              -37.7937475,
+              -9.6641856
+            ],
+            [
+              -37.7938211,
+              -9.6644092
+            ],
+            [
+              -37.7936576,
+              -9.6644614
             ]
           ]
         ]
@@ -123,6 +245,49 @@
     },
     {
       "type": "Feature",
+      "id": "way/842430822",
+      "properties": {
+        "timestamp": "2025-03-07T13:46:12Z",
+        "version": 2,
+        "changeset": 163328178,
+        "access": "yes",
+        "leisure": "pitch",
+        "lit": "yes",
+        "name": "Ginásio Poliesportivo Cenivaldo Calindo",
+        "sport": "multi",
+        "surface": "concrete",
+        "id": "way/842430822"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -37.7926114,
+              -9.6674029
+            ],
+            [
+              -37.7924763,
+              -9.6669678
+            ],
+            [
+              -37.7930097,
+              -9.6668068
+            ],
+            [
+              -37.7931448,
+              -9.6672419
+            ],
+            [
+              -37.7926114,
+              -9.6674029
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/997180795",
       "properties": {
         "timestamp": "2021-11-11T01:38:14Z",
@@ -168,6 +333,45 @@
             [
               -37.9215669,
               -9.6383465
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/997180797",
+      "properties": {
+        "timestamp": "2025-03-07T18:46:58Z",
+        "version": 2,
+        "changeset": 163339496,
+        "leisure": "sports_centre",
+        "sport": "multi",
+        "id": "way/997180797"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -37.9197799,
+              -9.6387406
+            ],
+            [
+              -37.9197946,
+              -9.639027
+            ],
+            [
+              -37.9196254,
+              -9.6390355
+            ],
+            [
+              -37.9196107,
+              -9.6387491
+            ],
+            [
+              -37.9197799,
+              -9.6387406
             ]
           ]
         ]
@@ -336,6 +540,50 @@
             [
               -37.9324999,
               -9.6446323
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1365309576",
+      "properties": {
+        "timestamp": "2025-03-07T13:46:12Z",
+        "version": 1,
+        "changeset": 163328178,
+        "addr:city": "Canindé de São Francisco",
+        "addr:postcode": "49820-00",
+        "addr:street": "Avenida Otávio Fernandes de Souza",
+        "addr:suburb": "Centro",
+        "leisure": "sports_centre",
+        "name": "Clube Altemar Dutra",
+        "sport": "multi",
+        "id": "way/1365309576"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -37.7899276,
+              -9.6612106
+            ],
+            [
+              -37.78956,
+              -9.6613512
+            ],
+            [
+              -37.7893852,
+              -9.6608641
+            ],
+            [
+              -37.7897569,
+              -9.6607292
+            ],
+            [
+              -37.7899276,
+              -9.6612106
             ]
           ]
         ]

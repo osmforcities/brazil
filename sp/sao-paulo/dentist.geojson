@@ -3562,6 +3562,46 @@
     },
     {
       "type": "Feature",
+      "id": "way/1366064840",
+      "properties": {
+        "timestamp": "2025-03-10T20:30:09Z",
+        "version": 1,
+        "changeset": 163459118,
+        "amenity": "dentist",
+        "building": "yes",
+        "healthcare": "dentist",
+        "id": "way/1366064840"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.7086723,
+              -23.6076293
+            ],
+            [
+              -46.7086678,
+              -23.6075969
+            ],
+            [
+              -46.7087715,
+              -23.607585
+            ],
+            [
+              -46.7087768,
+              -23.607621
+            ],
+            [
+              -46.7086723,
+              -23.6076293
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/745741446",
       "properties": {
         "timestamp": "2017-12-01T22:48:05Z",
@@ -6598,6 +6638,27 @@
         "coordinates": [
           -46.7198663,
           -23.584817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12650027776",
+      "properties": {
+        "timestamp": "2025-03-10T14:26:35Z",
+        "version": 1,
+        "changeset": 163445137,
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "Clínica Krystal",
+        "phone": "+55 11 94819-4601",
+        "id": "node/12650027776"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7331607,
+          -23.6009384
         ]
       }
     }

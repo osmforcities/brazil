@@ -1275,13 +1275,14 @@
       "type": "Feature",
       "id": "way/439358902",
       "properties": {
-        "timestamp": "2016-08-27T13:14:02Z",
-        "version": 1,
-        "changeset": 41735834,
+        "timestamp": "2025-03-10T20:34:59Z",
+        "version": 2,
+        "changeset": 163459295,
         "addr:city": "São Paulo",
         "addr:street": "Rua Joaquim Candido de Azevedo Marques",
         "amenity": "kindergarten",
-        "name": "Escola Quintal",
+        "name": "Escola Dream Kids",
+        "preschool": "yes",
         "id": "way/439358902"
       },
       "geometry": {
@@ -1289,24 +1290,24 @@
         "coordinates": [
           [
             [
-              -46.7102305,
-              -23.611169
+              -46.7103519,
+              -23.6111464
             ],
             [
-              -46.7101175,
-              -23.6112467
+              -46.7101196,
+              -23.6112841
             ],
             [
-              -46.7100121,
+              -46.7100046,
               -23.6111178
             ],
             [
-              -46.7101251,
-              -23.6110401
+              -46.7102186,
+              -23.6109722
             ],
             [
-              -46.7102305,
-              -23.611169
+              -46.7103519,
+              -23.6111464
             ]
           ]
         ]
@@ -5084,6 +5085,46 @@
             [
               -46.7701186,
               -23.5905295
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1366005760",
+      "properties": {
+        "timestamp": "2025-03-10T15:22:01Z",
+        "version": 1,
+        "changeset": 163447610,
+        "amenity": "kindergarten",
+        "name": "CEI Monsenhor Jonas Abib",
+        "preschool": "yes",
+        "id": "way/1366005760"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.7261337,
+              -23.6054015
+            ],
+            [
+              -46.7261512,
+              -23.6055229
+            ],
+            [
+              -46.7257814,
+              -23.6055734
+            ],
+            [
+              -46.7257667,
+              -23.605447
+            ],
+            [
+              -46.7261337,
+              -23.6054015
             ]
           ]
         ]

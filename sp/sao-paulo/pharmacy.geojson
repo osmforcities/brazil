@@ -11211,47 +11211,61 @@
     },
     {
       "type": "Feature",
-      "id": "way/727135945",
+      "id": "way/727140766",
       "properties": {
-        "timestamp": "2019-09-21T18:36:45Z",
-        "version": 1,
-        "changeset": 74756440,
+        "timestamp": "2025-03-10T15:57:37Z",
+        "version": 2,
+        "changeset": 163449045,
         "addr:street": "Avenida Morumbi",
         "amenity": "pharmacy",
+        "atm": "yes",
         "brand": "Drogaria São Paulo",
         "brand:wikidata": "Q5308184",
-        "brand:wikipedia": "en:Grupo DPSP",
         "building": "yes",
-        "dispensing": "yes",
         "drive_through": "no",
         "healthcare": "pharmacy",
         "name": "Drogaria São Paulo",
-        "opening_hours": "06:00-23:00",
-        "id": "way/727135945"
+        "id": "way/727140766"
       },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              -46.7051072,
-              -23.6171937
+              -46.7038989,
+              -23.6174365
             ],
             [
-              -46.7051187,
-              -23.6173258
+              -46.7037385,
+              -23.6174608
             ],
             [
-              -46.7049141,
-              -23.6173416
+              -46.7037011,
+              -23.6173182
             ],
             [
-              -46.7049083,
-              -23.6172069
+              -46.7037496,
+              -23.6173041
             ],
             [
-              -46.7051072,
-              -23.6171937
+              -46.7037702,
+              -23.6173236
+            ],
+            [
+              -46.7038158,
+              -23.6173125
+            ],
+            [
+              -46.7038299,
+              -23.6173614
+            ],
+            [
+              -46.7038805,
+              -23.6173574
+            ],
+            [
+              -46.7038989,
+              -23.6174365
             ]
           ]
         ]
@@ -22615,8 +22629,8 @@
               -23.5871904
             ],
             [
-              -46.7371526,
-              -23.5872396
+              -46.7371547,
+              -23.5872353
             ],
             [
               -46.7370664,
@@ -22630,9 +22644,9 @@
       "type": "Feature",
       "id": "way/1221808850",
       "properties": {
-        "timestamp": "2023-11-07T17:17:42Z",
-        "version": 1,
-        "changeset": 143746287,
+        "timestamp": "2025-03-10T18:47:08Z",
+        "version": 2,
+        "changeset": 163455682,
         "addr:housenumber": "340;344;348",
         "addr:street": "Avenida Ministro Laudo Ferreira de Camargo",
         "amenity": "pharmacy",
@@ -22651,40 +22665,36 @@
         "coordinates": [
           [
             [
-              -46.7369984,
-              -23.5866535
+              -46.7369716,
+              -23.5866569
             ],
             [
-              -46.7369397,
-              -23.5867781
+              -46.7369179,
+              -23.5867764
             ],
             [
-              -46.7368459,
-              -23.5867409
+              -46.7368347,
+              -23.5867415
             ],
             [
-              -46.7368539,
-              -23.5867239
+              -46.7368445,
+              -23.5867228
             ],
             [
               -46.7367879,
               -23.5866978
             ],
             [
-              -46.7368013,
-              -23.5866693
+              -46.7368019,
+              -23.5866699
             ],
             [
-              -46.7369198,
-              -23.5866372
+              -46.7369441,
+              -23.5866285
             ],
             [
-              -46.7369709,
-              -23.5866234
-            ],
-            [
-              -46.7369984,
-              -23.5866535
+              -46.7369716,
+              -23.5866569
             ]
           ]
         ]
@@ -25330,6 +25340,238 @@
             [
               -46.5889896,
               -23.4822723
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1366005743",
+      "properties": {
+        "timestamp": "2025-03-10T15:22:01Z",
+        "version": 1,
+        "changeset": 163447610,
+        "amenity": "pharmacy",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "id": "way/1366005743"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.7338719,
+              -23.6110755
+            ],
+            [
+              -46.7338498,
+              -23.6112587
+            ],
+            [
+              -46.7337498,
+              -23.6112449
+            ],
+            [
+              -46.7337528,
+              -23.6112272
+            ],
+            [
+              -46.7337817,
+              -23.611052
+            ],
+            [
+              -46.7338719,
+              -23.6110755
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1366005756",
+      "properties": {
+        "timestamp": "2025-03-10T15:22:01Z",
+        "version": 1,
+        "changeset": 163447610,
+        "amenity": "pharmacy",
+        "brand": "Drogasil",
+        "brand:wikidata": "Q5308185",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Drogasil",
+        "wheelchair": "yes",
+        "id": "way/1366005756"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.725728,
+              -23.6063795
+            ],
+            [
+              -46.7257413,
+              -23.6064665
+            ],
+            [
+              -46.7255237,
+              -23.6064877
+            ],
+            [
+              -46.7255082,
+              -23.6063987
+            ],
+            [
+              -46.725728,
+              -23.6063795
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1366009510",
+      "properties": {
+        "timestamp": "2025-03-10T15:37:18Z",
+        "version": 1,
+        "changeset": 163448242,
+        "amenity": "pharmacy",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Weleda",
+        "id": "way/1366009510"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.7159313,
+              -23.5890171
+            ],
+            [
+              -46.7159176,
+              -23.5890439
+            ],
+            [
+              -46.7159242,
+              -23.5890488
+            ],
+            [
+              -46.7158973,
+              -23.5891035
+            ],
+            [
+              -46.7158149,
+              -23.5890668
+            ],
+            [
+              -46.7158585,
+              -23.5889842
+            ],
+            [
+              -46.7159313,
+              -23.5890171
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1366064846",
+      "properties": {
+        "timestamp": "2025-03-10T20:30:09Z",
+        "version": 1,
+        "changeset": 163459118,
+        "amenity": "pharmacy",
+        "brand": "Drogaria São Paulo",
+        "brand:wikidata": "Q5308184",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Drogaria São Paulo",
+        "id": "way/1366064846"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.7081461,
+              -23.6070651
+            ],
+            [
+              -46.7082086,
+              -23.6071437
+            ],
+            [
+              -46.7081809,
+              -23.6071561
+            ],
+            [
+              -46.7082086,
+              -23.6071946
+            ],
+            [
+              -46.7081435,
+              -23.6072342
+            ],
+            [
+              -46.7080564,
+              -23.6071213
+            ],
+            [
+              -46.7081461,
+              -23.6070651
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1366064847",
+      "properties": {
+        "timestamp": "2025-03-10T20:30:09Z",
+        "version": 1,
+        "changeset": 163459118,
+        "amenity": "pharmacy",
+        "brand": "Droga Raia",
+        "brand:wikidata": "Q10357101",
+        "building": "yes",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Droga Raia",
+        "id": "way/1366064847"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.7071251,
+              -23.6091052
+            ],
+            [
+              -46.7069656,
+              -23.6092026
+            ],
+            [
+              -46.7068835,
+              -23.6090978
+            ],
+            [
+              -46.7070462,
+              -23.6090048
+            ],
+            [
+              -46.7071251,
+              -23.6091052
             ]
           ]
         ]
@@ -31416,32 +31658,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/5516539623",
-      "properties": {
-        "timestamp": "2020-05-01T23:22:58Z",
-        "version": 2,
-        "changeset": 84497459,
-        "addr:street": "Avenida Barão de Melgaco",
-        "amenity": "pharmacy",
-        "brand": "Droga Raia",
-        "brand:wikidata": "Q10357101",
-        "brand:wikipedia": "pt:RaiaDrogasil",
-        "dispensing": "yes",
-        "drive_through": "no",
-        "healthcare": "pharmacy",
-        "name": "Droga Raia",
-        "id": "node/5516539623"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -46.7069672,
-          -23.6090497
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/5520989608",
       "properties": {
         "timestamp": "2018-04-01T19:40:56Z",
@@ -36898,9 +37114,9 @@
       "type": "Feature",
       "id": "node/11362005853",
       "properties": {
-        "timestamp": "2023-11-19T15:00:06Z",
-        "version": 1,
-        "changeset": 144211638,
+        "timestamp": "2025-03-10T15:37:18Z",
+        "version": 2,
+        "changeset": 163448242,
         "amenity": "pharmacy",
         "brand": "Droga Raia",
         "brand:wikidata": "Q10357101",
@@ -36911,8 +37127,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -46.7160451,
-          -23.5898269
+          -46.7160668,
+          -23.5898411
         ]
       }
     },
@@ -38268,6 +38484,28 @@
         "coordinates": [
           -46.6175675,
           -23.4815582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12650683942",
+      "properties": {
+        "timestamp": "2025-03-10T20:30:09Z",
+        "version": 1,
+        "changeset": 163459118,
+        "amenity": "pharmacy",
+        "brand": "Drogaria São Paulo",
+        "brand:wikidata": "Q5308184",
+        "healthcare": "pharmacy",
+        "name": "Drogaria São Paulo",
+        "id": "node/12650683942"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7076,
+          -23.5946344
         ]
       }
     }

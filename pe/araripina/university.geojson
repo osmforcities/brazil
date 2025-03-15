@@ -103,9 +103,9 @@
       "type": "Feature",
       "id": "way/1159011528",
       "properties": {
-        "timestamp": "2023-05-06T15:11:57Z",
-        "version": 2,
-        "changeset": 135781152,
+        "timestamp": "2025-03-11T02:11:50Z",
+        "version": 3,
+        "changeset": 163466191,
         "addr:city": "Araripina - PE",
         "addr:postcode": "56280-000",
         "amenity": "university",
@@ -134,6 +134,14 @@
               -7.5795692
             ],
             [
+              -40.4906044,
+              -7.5795622
+            ],
+            [
+              -40.4895904,
+              -7.5795316
+            ],
+            [
               -40.4895148,
               -7.5795293
             ],
@@ -146,6 +154,42 @@
               -7.5786944
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12650990826",
+      "properties": {
+        "timestamp": "2025-03-11T02:11:50Z",
+        "version": 1,
+        "changeset": 163466191,
+        "barrier": "gate",
+        "id": "node/12650990826"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.4895904,
+          -7.5795316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12650990833",
+      "properties": {
+        "timestamp": "2025-03-11T02:11:50Z",
+        "version": 1,
+        "changeset": 163466191,
+        "barrier": "gate",
+        "id": "node/12650990833"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.4906044,
+          -7.5795622
         ]
       }
     }

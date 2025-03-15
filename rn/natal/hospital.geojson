@@ -3,6 +3,69 @@
   "features": [
     {
       "type": "Feature",
+      "id": "relation/18808591",
+      "properties": {
+        "timestamp": "2025-03-11T18:24:45Z",
+        "version": 1,
+        "changeset": 163497407,
+        "access": "permissive",
+        "addr:city": "Natal",
+        "addr:housenumber": "1385",
+        "addr:postcode": "59015-145",
+        "addr:street": "Avenida Hermes da Fonseca",
+        "addr:suburb": "Tirol",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "landuse": "military",
+        "name": "Hospital de Guarnição de Natal",
+        "phone": "+55 (84) 3092-6710",
+        "type": "multipolygon",
+        "website": "hgunatal.eb.mil.br",
+        "id": "relation/18808591"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -35.1995596,
+              -5.8045021
+            ],
+            [
+              -35.1988596,
+              -5.8047756
+            ],
+            [
+              -35.1985323,
+              -5.8040511
+            ],
+            [
+              -35.1991761,
+              -5.8037669
+            ],
+            [
+              -35.2000612,
+              -5.80342
+            ],
+            [
+              -35.2013714,
+              -5.8028951
+            ],
+            [
+              -35.201657,
+              -5.803657
+            ],
+            [
+              -35.1995596,
+              -5.8045021
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/93197757",
       "properties": {
         "timestamp": "2018-08-14T12:11:11Z",
@@ -666,54 +729,6 @@
             [
               -35.2166068,
               -5.7935369
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/610551560",
-      "properties": {
-        "timestamp": "2018-07-24T14:21:57Z",
-        "version": 1,
-        "changeset": 61026090,
-        "addr:city": "Natal - RN",
-        "addr:housenumber": "1385",
-        "addr:postcode": "59015-145",
-        "addr:street": "Avenida Hermes da Fonseca",
-        "addr:suburb": "Tirol",
-        "amenity": "hospital",
-        "emergency": "yes",
-        "healthcare": "hospital",
-        "name": "Hospital de Guarnição de Natal",
-        "phone": "+55 (84) 3092-6710",
-        "website": "hgunatal.eb.mil.br",
-        "id": "way/610551560"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -35.2003904,
-              -5.8036081
-            ],
-            [
-              -35.2004718,
-              -5.8038229
-            ],
-            [
-              -35.2001976,
-              -5.8039232
-            ],
-            [
-              -35.2001002,
-              -5.8037049
-            ],
-            [
-              -35.2003904,
-              -5.8036081
             ]
           ]
         ]

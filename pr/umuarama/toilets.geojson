@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/1366112264",
+      "properties": {
+        "timestamp": "2025-03-11T13:13:59Z",
+        "version": 3,
+        "changeset": 163484635,
+        "access": "yes",
+        "amenity": "toilets",
+        "building": "yes",
+        "female": "yes",
+        "male": "yes",
+        "wheelchair": "no",
+        "id": "way/1366112264"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -53.3082782,
+              -23.7563092
+            ],
+            [
+              -53.308247,
+              -23.7563612
+            ],
+            [
+              -53.3082291,
+              -23.7563539
+            ],
+            [
+              -53.3081725,
+              -23.756331
+            ],
+            [
+              -53.3081911,
+              -23.7563014
+            ],
+            [
+              -53.3082043,
+              -23.7562808
+            ],
+            [
+              -53.3082346,
+              -23.7562924
+            ],
+            [
+              -53.3082782,
+              -23.7563092
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12651124240",
+      "properties": {
+        "timestamp": "2025-03-11T13:13:59Z",
+        "version": 2,
+        "changeset": 163484635,
+        "amenity": "toilets",
+        "name": "Banheiro Bosque",
+        "toilets:disposal": "flush",
+        "id": "node/12651124240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.3082125,
+          -23.7563181
+        ]
+      }
+    }
+  ]
+}

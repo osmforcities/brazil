@@ -5,11 +5,17 @@
       "type": "Feature",
       "id": "way/339827779",
       "properties": {
-        "timestamp": "2019-06-19T09:37:26Z",
-        "version": 2,
-        "changeset": 71394579,
+        "timestamp": "2025-03-11T18:32:57Z",
+        "version": 3,
+        "changeset": 163497723,
+        "addr:city": "Nossa Senhora da Glória",
+        "addr:housenumber": "204",
+        "addr:postcode": "49680-000",
+        "addr:street": "Rua Senador Leite Neto",
+        "addr:suburb": "Centro",
         "amenity": "school",
         "name": "Colégio Estadual Cícero Bezerra",
+        "operator": "Secretaria de Educação do Estado de Sergipe",
         "id": "way/339827779"
       },
       "geometry": {
@@ -17,8 +23,8 @@
         "coordinates": [
           [
             [
-              -37.4189576,
-              -10.2161802
+              -37.4189272,
+              -10.2161968
             ],
             [
               -37.4186282,
@@ -29,12 +35,12 @@
               -10.215707
             ],
             [
-              -37.4185055,
-              -10.2155338
+              -37.4184818,
+              -10.2155571
             ],
             [
-              -37.4189576,
-              -10.2161802
+              -37.4189272,
+              -10.2161968
             ]
           ]
         ]
@@ -83,9 +89,12 @@
       "type": "Feature",
       "id": "way/383715515",
       "properties": {
-        "timestamp": "2015-12-01T01:22:41Z",
-        "version": 1,
-        "changeset": 35677561,
+        "timestamp": "2025-03-11T14:32:25Z",
+        "version": 2,
+        "changeset": 163487655,
+        "addr:city": "Nossa Senhora da Glória",
+        "addr:postcode": "49680-000",
+        "addr:suburb": "Centro",
         "amenity": "school",
         "name": "Colégio Estadual Professora Evangelina Azevedo",
         "id": "way/383715515"
@@ -122,11 +131,15 @@
       "type": "Feature",
       "id": "way/383715516",
       "properties": {
-        "timestamp": "2015-12-01T01:22:41Z",
-        "version": 1,
-        "changeset": 35677561,
+        "timestamp": "2025-03-11T18:32:57Z",
+        "version": 3,
+        "changeset": 163497723,
+        "addr:city": "Nossa Senhora da Glória",
         "addr:housename": "Colégio Estadual Manoel Messias Feitosa",
+        "addr:housenumber": "500",
+        "addr:postcode": "49680-000",
         "addr:street": "Avenida 26 de Setembro",
+        "addr:suburb": "Centro",
         "alt_name": "Colégio Manoel Messias",
         "amenity": "school",
         "name": "Colégio estadual Manoel Messias Feitosa",
@@ -195,6 +208,167 @@
               -10.2659113
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1366286914",
+      "properties": {
+        "timestamp": "2025-03-11T18:32:57Z",
+        "version": 1,
+        "changeset": 163497723,
+        "addr:city": "Nossa Senhora da Glória",
+        "addr:postcode": "49680-000",
+        "addr:street": "Avenida Vinte e Seis de Setembro",
+        "addr:suburb": "Cohab",
+        "amenity": "school",
+        "name": "Creche Municipal Marcelo Deda Chagas",
+        "operator": "Município de Nossa Senhora da Glória",
+        "operator:type": "public",
+        "id": "way/1366286914"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -37.3983487,
+              -10.2129795
+            ],
+            [
+              -37.3980631,
+              -10.2132538
+            ],
+            [
+              -37.3978435,
+              -10.213021
+            ],
+            [
+              -37.3981409,
+              -10.2127516
+            ],
+            [
+              -37.3983487,
+              -10.2129795
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1366286915",
+      "properties": {
+        "timestamp": "2025-03-11T18:32:57Z",
+        "version": 1,
+        "changeset": 163497723,
+        "addr:city": "Nossa Senhora da Glória",
+        "addr:postcode": "49680-000",
+        "addr:street": "Avenida Vinte e Seis de Setembro",
+        "addr:suburb": "Jardim do Sertão",
+        "amenity": "school",
+        "name": "Escola Municipal Editon Oliveira da Silva",
+        "operator": "Município de Nossa Senhora da Glória",
+        "operator:type": "public",
+        "id": "way/1366286915"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -37.4010498,
+              -10.2104926
+            ],
+            [
+              -37.4007226,
+              -10.2107882
+            ],
+            [
+              -37.4004463,
+              -10.2105137
+            ],
+            [
+              -37.4007789,
+              -10.2101996
+            ],
+            [
+              -37.4010498,
+              -10.2104926
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12652380367",
+      "properties": {
+        "timestamp": "2025-03-11T14:32:25Z",
+        "version": 1,
+        "changeset": 163487655,
+        "addr:city": "Nossa Senhora da Glória",
+        "addr:housenumber": "111",
+        "addr:postcode": "49680-000",
+        "addr:street": "Rua Padre José de Anchieta",
+        "addr:suburb": "Portal do Sertão",
+        "amenity": "school",
+        "name": "Escola Municipal Professor José Valmir de Souza",
+        "operator": "Município de Nossa Senhora da Glória",
+        "operator:type": "public",
+        "id": "node/12652380367"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.4188415,
+          -10.22139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12652391714",
+      "properties": {
+        "timestamp": "2025-03-11T14:32:25Z",
+        "version": 1,
+        "changeset": 163487655,
+        "addr:city": "Nossa Senhora da Glória",
+        "addr:housenumber": "530",
+        "addr:postcode": "49680-000",
+        "addr:street": "Avenida Lourival Batista",
+        "addr:suburb": "Divinéia",
+        "amenity": "school",
+        "name": "Escola Municipal Tiradentes",
+        "id": "node/12652391714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.4231145,
+          -10.221661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12652841958",
+      "properties": {
+        "timestamp": "2025-03-11T18:32:57Z",
+        "version": 1,
+        "changeset": 163497723,
+        "amenity": "school",
+        "name": "Escola Municipal Professor José Augusto Barreto",
+        "operator": "Município",
+        "operator:type": "public",
+        "id": "node/12652841958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.4140582,
+          -10.2149743
         ]
       }
     }

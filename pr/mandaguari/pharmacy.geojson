@@ -3,30 +3,131 @@
   "features": [
     {
       "type": "Feature",
-      "id": "node/12650556839",
+      "id": "way/1354158843",
       "properties": {
-        "timestamp": "2025-03-10T19:30:42Z",
+        "timestamp": "2025-03-11T11:20:05Z",
         "version": 3,
-        "changeset": 163457022,
+        "changeset": 163480363,
         "addr:city": "Mandaguari",
         "addr:housenumber": "2073",
         "addr:postcode": "86975000",
         "addr:street": "Avenida Amazonas",
         "addr:suburb": "Centro",
         "amenity": "pharmacy",
+        "building": "yes",
         "dispensing": "yes",
         "healthcare": "pharmacy",
         "name": "Farmácias São Paulo",
         "opening_hours": "Mo-Sa 07:00-23:00, Su 08:00-22:00",
         "phone": "+55 44 3033 9889",
         "website": "https://www.farmaciassaopaulo.com.br/",
-        "id": "node/12650556839"
+        "id": "way/1354158843"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.6818965,
+              -23.517924
+            ],
+            [
+              -51.6818222,
+              -23.5179897
+            ],
+            [
+              -51.6817981,
+              -23.5179657
+            ],
+            [
+              -51.6817281,
+              -23.517896
+            ],
+            [
+              -51.6816717,
+              -23.5178394
+            ],
+            [
+              -51.6817459,
+              -23.517776
+            ],
+            [
+              -51.6818965,
+              -23.517924
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1366207538",
+      "properties": {
+        "timestamp": "2025-03-11T12:11:57Z",
+        "version": 1,
+        "changeset": 163482284,
+        "addr:city": "Mandaguari",
+        "addr:housenumber": "1139",
+        "addr:postcode": "86975000",
+        "addr:street": "Avenida Amazonas",
+        "addr:suburb": "Centro",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Lavisk Farma & Beauty",
+        "id": "way/1366207538"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.6778849,
+              -23.5255737
+            ],
+            [
+              -51.6777565,
+              -23.5256329
+            ],
+            [
+              -51.6775706,
+              -23.5252938
+            ],
+            [
+              -51.6776989,
+              -23.5252346
+            ],
+            [
+              -51.6778849,
+              -23.5255737
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12653016122",
+      "properties": {
+        "timestamp": "2025-03-11T19:56:41Z",
+        "version": 2,
+        "changeset": 163500427,
+        "addr:housenumber": "112",
+        "addr:postcode": "86975-000",
+        "addr:street": "Rua Francisco de Mattos",
+        "addr:suburb": "Jardim Progresso 1",
+        "amenity": "pharmacy",
+        "name": "Farmácia Progresso",
+        "source": "IBGE",
+        "id": "node/12653016122"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -51.6817811,
-          -23.5178521
+          -51.6978218,
+          -23.5119362
         ]
       }
     }

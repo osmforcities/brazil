@@ -229,9 +229,9 @@
       "type": "Feature",
       "id": "way/243319759",
       "properties": {
-        "timestamp": "2020-12-02T19:41:08Z",
-        "version": 8,
-        "changeset": 95174648,
+        "timestamp": "2025-03-11T17:01:03Z",
+        "version": 9,
+        "changeset": 163494308,
         "addr:city": "Cerquilho",
         "addr:housenumber": "478",
         "addr:postcode": "18520-000",
@@ -240,7 +240,8 @@
         "name": "Escola Presidente Arthur da Silva Bernardes",
         "official_name": "Escola Estadual Presidente Arthur da Silva Bernardes",
         "operator": "Secretaria da Educação do Estado de São Paulo",
-        "operator:type": "public",
+        "operator:type": "government",
+        "operator:wikidata": "Q10369245",
         "phone": "+55 15 3284-1030;+55 15 3284-4234",
         "id": "way/243319759"
       },
@@ -276,9 +277,9 @@
       "type": "Feature",
       "id": "way/605896426",
       "properties": {
-        "timestamp": "2020-12-10T02:20:37Z",
-        "version": 5,
-        "changeset": 95582106,
+        "timestamp": "2025-03-11T17:01:03Z",
+        "version": 6,
+        "changeset": 163494308,
         "addr:city": "Cerquilho",
         "addr:housenumber": "4",
         "addr:street": "Rua Sabadim",
@@ -287,7 +288,8 @@
         "name": "Escola Monteiro Lobato",
         "official_name": "Escola Municipal de Ensino Infantil Monteiro Lobato",
         "operator": "Secretaria Municipal de Educação e Cultura de Cerquilho",
-        "operator:type": "public",
+        "operator:type": "government",
+        "operator:wikidata": "Q100154106",
         "short_name": "EMEI Monteiro Lobato",
         "id": "way/605896426"
       },
@@ -512,11 +514,96 @@
     },
     {
       "type": "Feature",
+      "id": "way/757746949",
+      "properties": {
+        "timestamp": "2025-03-11T17:01:03Z",
+        "version": 5,
+        "changeset": 163494308,
+        "addr:city": "Cerquilho",
+        "addr:housenumber": "29",
+        "addr:street": "Rua Vinte e Treis de Maio",
+        "addr:suburb": "Centro",
+        "amenity": "school",
+        "name": "Escola Padre Artur Silveira",
+        "official_name": "Escola Municipal de Educação Infantil Integral Padre Artur Silveira",
+        "operator": "Secretaria Municipal de Educação e Cultura de Cerquilho",
+        "operator:type": "government",
+        "operator:wikidata": "Q100154106",
+        "preschool": "yes",
+        "short_name": "EMEII Padre Artur Silveira",
+        "id": "way/757746949"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.7425699,
+              -23.1552421
+            ],
+            [
+              -47.7428803,
+              -23.1551131
+            ],
+            [
+              -47.7429296,
+              -23.1552134
+            ],
+            [
+              -47.7430263,
+              -23.1554101
+            ],
+            [
+              -47.7430267,
+              -23.1554249
+            ],
+            [
+              -47.7430232,
+              -23.1554368
+            ],
+            [
+              -47.7430152,
+              -23.1554485
+            ],
+            [
+              -47.7430035,
+              -23.1554595
+            ],
+            [
+              -47.7427722,
+              -23.1555443
+            ],
+            [
+              -47.7427528,
+              -23.1555457
+            ],
+            [
+              -47.7427337,
+              -23.1555417
+            ],
+            [
+              -47.742721,
+              -23.1555337
+            ],
+            [
+              -47.7427091,
+              -23.1555198
+            ],
+            [
+              -47.7425699,
+              -23.1552421
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/864751116",
       "properties": {
-        "timestamp": "2020-12-02T19:41:08Z",
-        "version": 4,
-        "changeset": 95174648,
+        "timestamp": "2025-03-11T17:01:03Z",
+        "version": 5,
+        "changeset": 163494308,
         "addr:city": "Cerquilho",
         "addr:housenumber": "268",
         "addr:street": "Rua Achiles Audi",
@@ -525,7 +612,8 @@
         "name": "Escola João Toledo",
         "official_name": "Escola Municipal de Educação Fundamental Professor João Toledo",
         "operator": "Secretaria Municipal de Educação e Cultura de Cerquilho",
-        "operator:type": "public",
+        "operator:type": "government",
+        "operator:wikidata": "Q100154106",
         "short_name": "EMEF Prof. João Toledo",
         "id": "way/864751116"
       },
@@ -648,14 +736,15 @@
       "type": "Feature",
       "id": "way/871164765",
       "properties": {
-        "timestamp": "2024-08-02T13:39:03Z",
-        "version": 6,
-        "changeset": 154737303,
+        "timestamp": "2025-03-11T17:01:03Z",
+        "version": 7,
+        "changeset": 163494308,
         "amenity": "school",
         "name": "Escola Yolanda Biagioni Camargo",
         "official_name": "Escola Municipal de Educação Fundamental Professora Yolanda Biagioni Camargo",
         "operator": "Secretaria Municipal de Educação e Cultura de Cerquilho",
-        "operator:type": "public",
+        "operator:type": "government",
+        "operator:wikidata": "Q100154106",
         "short_name": "EMEF Profª Yolanda Biagioni Camargo",
         "id": "way/871164765"
       },
@@ -731,14 +820,15 @@
       "type": "Feature",
       "id": "way/871615114",
       "properties": {
-        "timestamp": "2020-12-05T14:45:10Z",
-        "version": 3,
-        "changeset": 95336759,
+        "timestamp": "2025-03-11T17:01:03Z",
+        "version": 4,
+        "changeset": 163494308,
         "amenity": "school",
         "name": "Escola Artur Silveira",
         "official_name": "Escola Municipal de Educação Infantil Integral Padre Artur Silveira",
         "operator": "Secretaria Municipal de Educação e Cultura de Cerquilho",
-        "operator:type": "public",
+        "operator:type": "government",
+        "operator:wikidata": "Q100154106",
         "short_name": "EMEII Padre Artur Silveira",
         "id": "way/871615114"
       },
@@ -1026,6 +1116,24 @@
     },
     {
       "type": "Feature",
+      "id": "node/2498771340",
+      "properties": {
+        "timestamp": "2020-10-29T21:59:19Z",
+        "version": 4,
+        "changeset": 93258364,
+        "entrance": "yes",
+        "id": "node/2498771340"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.7429296,
+          -23.1552134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/8118496085",
       "properties": {
         "timestamp": "2020-11-14T13:53:21Z",
@@ -1118,9 +1226,9 @@
       "type": "Feature",
       "id": "node/8334222706",
       "properties": {
-        "timestamp": "2023-01-20T15:55:08Z",
-        "version": 2,
-        "changeset": 131513886,
+        "timestamp": "2025-03-11T17:01:03Z",
+        "version": 3,
+        "changeset": 163494308,
         "addr:city": "Cerquilho",
         "addr:housenumber": "30",
         "addr:postcode": "18520-000",
@@ -1131,7 +1239,8 @@
         "name": "Escola José Bepe Módolo",
         "official_name": "Escola Municipal de Educação Básica Especial José Bepe Módolo",
         "operator": "Secretaria Municipal de Educação e Cultura de Cerquilho",
-        "operator:type": "public",
+        "operator:type": "government",
+        "operator:wikidata": "Q100154106",
         "phone": "+55 15 3284 1671",
         "short_name": "EMEBE José Bepe Módolo",
         "id": "node/8334222706"

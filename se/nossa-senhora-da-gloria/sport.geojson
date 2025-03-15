@@ -42,6 +42,49 @@
     },
     {
       "type": "Feature",
+      "id": "way/383715499",
+      "properties": {
+        "timestamp": "2025-03-11T18:32:57Z",
+        "version": 2,
+        "changeset": 163497723,
+        "access": "yes",
+        "leisure": "pitch",
+        "lit": "yes",
+        "name": "Ginásio de Esportes Padre Leon Gregório",
+        "sport": "multi",
+        "surface": "concrete",
+        "id": "way/383715499"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -37.4111546,
+              -10.2091336
+            ],
+            [
+              -37.4109026,
+              -10.2095381
+            ],
+            [
+              -37.4105973,
+              -10.2093656
+            ],
+            [
+              -37.410851,
+              -10.2089489
+            ],
+            [
+              -37.4111546,
+              -10.2091336
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/599820226",
       "properties": {
         "timestamp": "2018-06-20T13:06:54Z",
@@ -83,10 +126,11 @@
       "type": "Feature",
       "id": "way/698210250",
       "properties": {
-        "timestamp": "2019-06-19T09:37:26Z",
-        "version": 1,
-        "changeset": 71394579,
-        "building": "yes",
+        "timestamp": "2025-03-11T18:32:57Z",
+        "version": 2,
+        "changeset": 163497723,
+        "building:levels": "1",
+        "leisure": "pitch",
         "sport": "soccer",
         "id": "way/698210250"
       },
@@ -95,26 +139,106 @@
         "coordinates": [
           [
             [
-              -37.4187282,
-              -10.2161062
+              -37.4187094,
+              -10.2161457
             ],
             [
-              -37.4185939,
-              -10.2161977
+              -37.4185751,
+              -10.2162372
             ],
             [
-              -37.4184237,
-              -10.2159558
+              -37.4184049,
+              -10.2159953
             ],
             [
-              -37.418558,
-              -10.2158643
+              -37.4185392,
+              -10.2159038
             ],
             [
-              -37.4187282,
-              -10.2161062
+              -37.4187094,
+              -10.2161457
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1366286912",
+      "properties": {
+        "timestamp": "2025-03-11T18:32:57Z",
+        "version": 1,
+        "changeset": 163497723,
+        "addr:city": "Nossa Senhora da Glória",
+        "addr:housenumber": "4255",
+        "addr:postcode": "49680-000",
+        "addr:street": "Avenida Vinte e Seis de Setembro",
+        "addr:suburb": "Silos",
+        "brand": "AABB",
+        "brand:wikidata": "Q9633503",
+        "leisure": "sports_centre",
+        "name": "Associação Atlética Banco do Brasil",
+        "name:en": "Banco do Brasil Athletic Association",
+        "name:pt": "Associação Atlética Banco do Brasil",
+        "short_name": "AABB",
+        "sport": "multi",
+        "id": "way/1366286912"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -37.4063418,
+              -10.2086774
+            ],
+            [
+              -37.4065615,
+              -10.2104588
+            ],
+            [
+              -37.4065274,
+              -10.2105636
+            ],
+            [
+              -37.4057871,
+              -10.2107492
+            ],
+            [
+              -37.4056744,
+              -10.2098191
+            ],
+            [
+              -37.4055321,
+              -10.2086454
+            ],
+            [
+              -37.4059471,
+              -10.2086598
+            ],
+            [
+              -37.4063418,
+              -10.2086774
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12652841981",
+      "properties": {
+        "timestamp": "2025-03-11T18:32:57Z",
+        "version": 1,
+        "changeset": 163497723,
+        "entrance": "yes",
+        "id": "node/12652841981"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.4059471,
+          -10.2086598
         ]
       }
     }

@@ -34,15 +34,17 @@
       "type": "Feature",
       "id": "node/5864365154",
       "properties": {
-        "timestamp": "2024-12-28T02:38:02Z",
-        "version": 2,
-        "changeset": 160699010,
+        "timestamp": "2025-03-13T21:19:19Z",
+        "version": 3,
+        "changeset": 163588765,
         "addr:city": "Areal",
+        "addr:housenumber": "12B",
         "addr:postcode": "25845000",
         "addr:street": "Avenida Ernani de Amaral Peixoto",
         "addr:suburb": "Centro",
         "amenity": "pharmacy",
         "dispensing": "no",
+        "drive_through": "no",
         "healthcare": "pharmacy",
         "name": "Drogaria Ki Saúde",
         "opening_hours": "Mo-Sa 08:00-20:00",
@@ -107,6 +109,35 @@
         "coordinates": [
           -43.1009516,
           -22.238052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12660891500",
+      "properties": {
+        "timestamp": "2025-03-13T20:58:34Z",
+        "version": 1,
+        "changeset": 163588148,
+        "addr:city": "Areal",
+        "addr:housenumber": "305 - Lj 5",
+        "addr:postcode": "25845-000",
+        "addr:street": "Praça Presidente Castelo Branco",
+        "addr:suburb": "Centro",
+        "amenity": "pharmacy",
+        "dispensing": "no",
+        "drive_through": "no",
+        "email": "areal.artedecurar@gmail.com",
+        "healthcare": "pharmacy",
+        "name": "Arte de Curar",
+        "phone": "024 98839-8194",
+        "id": "node/12660891500"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1020308,
+          -22.2352079
         ]
       }
     }

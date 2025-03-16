@@ -117,9 +117,9 @@
       "type": "Feature",
       "id": "way/1071803013",
       "properties": {
-        "timestamp": "2022-07-28T16:06:12Z",
-        "version": 2,
-        "changeset": 124193651,
+        "timestamp": "2025-03-13T15:13:20Z",
+        "version": 3,
+        "changeset": 163574820,
         "addr:city": "Pouso Alegre",
         "addr:postcode": "37550016",
         "addr:street": "Rua Doutor Antônio Krepp Filho",
@@ -129,6 +129,7 @@
         "name": "Unidade de Pronto Atendimento - UPA 24H",
         "operator": "Sistema Único de Saúde",
         "operator:short": "SUS",
+        "operator:type": "public",
         "operator:wikidata": "Q7531056",
         "phone": "+55 35  3449 4154",
         "id": "way/1071803013"
@@ -165,13 +166,14 @@
       "type": "Feature",
       "id": "way/1315972473",
       "properties": {
-        "timestamp": "2024-09-16T17:00:23Z",
-        "version": 1,
-        "changeset": 156697507,
+        "timestamp": "2025-03-13T15:13:20Z",
+        "version": 2,
+        "changeset": 163574820,
         "amenity": "hospital",
         "healthcare": "hospital",
         "name": "Unimed",
         "operator": "Unimed",
+        "operator:type": "private",
         "operator:wikidata": "Q7865295",
         "id": "way/1315972473"
       },
@@ -272,11 +274,12 @@
       "type": "Feature",
       "id": "node/2458180115",
       "properties": {
-        "timestamp": "2013-09-14T15:49:21Z",
-        "version": 1,
-        "changeset": 17835243,
+        "timestamp": "2025-03-13T15:13:20Z",
+        "version": 2,
+        "changeset": 163574820,
         "amenity": "hospital",
         "emergency": "yes",
+        "healthcare": "hospital",
         "name": "Hospital das Clínicas Samuel Libânio",
         "id": "node/2458180115"
       },
@@ -292,10 +295,11 @@
       "type": "Feature",
       "id": "node/4746174937",
       "properties": {
-        "timestamp": "2017-03-21T03:57:27Z",
-        "version": 1,
-        "changeset": 47029250,
+        "timestamp": "2025-03-13T15:13:20Z",
+        "version": 2,
+        "changeset": 163574820,
         "amenity": "hospital",
+        "healthcare": "hospital",
         "id": "node/4746174937"
       },
       "geometry": {

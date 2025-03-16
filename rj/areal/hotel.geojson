@@ -5,9 +5,9 @@
       "type": "Feature",
       "id": "way/620721590",
       "properties": {
-        "timestamp": "2021-11-29T19:04:39Z",
-        "version": 2,
-        "changeset": 114373671,
+        "timestamp": "2025-03-13T21:19:19Z",
+        "version": 3,
+        "changeset": 163588765,
         "addr:city": "Areal",
         "addr:housenumber": "39",
         "addr:postcode": "25845000",
@@ -44,6 +44,10 @@
               -22.2375419
             ],
             [
+              -43.1025029,
+              -22.2375506
+            ],
+            [
               -43.1025253,
               -22.2375592
             ],
@@ -52,6 +56,25 @@
               -22.2377387
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12660913072",
+      "properties": {
+        "timestamp": "2025-03-13T21:19:19Z",
+        "version": 1,
+        "changeset": 163588765,
+        "access": "private",
+        "barrier": "gate",
+        "id": "node/12660913072"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1025029,
+          -22.2375506
         ]
       }
     }

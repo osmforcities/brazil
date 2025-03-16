@@ -553,68 +553,6 @@
     },
     {
       "type": "Feature",
-      "id": "relation/4814911",
-      "properties": {
-        "timestamp": "2015-04-20T14:37:16Z",
-        "version": 1,
-        "changeset": 30355699,
-        "amenity": "school",
-        "building": "commercial",
-        "name": "CNA",
-        "training": "language",
-        "type": "multipolygon",
-        "id": "relation/4814911"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -51.3877327,
-              -22.1208286
-            ],
-            [
-              -51.3877617,
-              -22.120885
-            ],
-            [
-              -51.387787,
-              -22.1209341
-            ],
-            [
-              -51.3877326,
-              -22.1209582
-            ],
-            [
-              -51.3876238,
-              -22.1210063
-            ],
-            [
-              -51.3875843,
-              -22.12093
-            ],
-            [
-              -51.3875381,
-              -22.1208401
-            ],
-            [
-              -51.3876374,
-              -22.1207962
-            ],
-            [
-              -51.3877013,
-              -22.1207679
-            ],
-            [
-              -51.3877327,
-              -22.1208286
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "relation/5011794",
       "properties": {
         "timestamp": "2015-05-08T15:04:40Z",
@@ -2186,16 +2124,18 @@
       "type": "Feature",
       "id": "way/230065487",
       "properties": {
-        "timestamp": "2018-12-22T02:15:11Z",
-        "version": 6,
-        "changeset": 65684192,
+        "timestamp": "2025-03-13T17:27:44Z",
+        "version": 7,
+        "changeset": 163580477,
         "addr:city": "Presidente Prudente",
         "addr:housenumber": "1801",
         "addr:street": "Avenida Ana Jacinta",
         "amenity": "school",
         "barrier": "wall",
         "name": "Escola Estadual Professora Mirella Pesce Desidere",
-        "operator": "Estado de São Paulo",
+        "operator": "Governo do Estado de São Paulo",
+        "operator:type": "government",
+        "operator:wikidata": "Q10290787",
         "phone": "+55 18 3906-1690",
         "wheelchair": "limited",
         "id": "way/230065487"

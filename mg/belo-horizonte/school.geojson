@@ -14434,94 +14434,60 @@
     },
     {
       "type": "Feature",
-      "id": "way/1297782359",
+      "id": "way/1312114164",
       "properties": {
-        "timestamp": "2024-07-01T22:10:04Z",
+        "timestamp": "2025-03-15T12:22:55Z",
         "version": 2,
-        "changeset": 153431567,
+        "changeset": 163648419,
         "addr:city": "Belo Horizonte",
-        "addr:housenumber": "255",
-        "addr:postcode": "30640-130",
-        "addr:street": "Rua Cipriano de Carvalho",
-        "addr:suburb": "Barreiro",
+        "addr:housenumber": "126",
+        "addr:street": "Rua Madre Paulina",
+        "addr:suburb": "Diamante",
         "amenity": "school",
+        "fee": "yes",
         "grades": "6-18",
+        "isced:level": "1;2;3",
         "loc_name": "Escola SESI Barreiro",
         "name": "Escola SESI General Onésimo Becker de Araújo",
+        "opening_hours": "Mo-Fr 07:30-18:00",
+        "operator": "Serviço Social da Indústria do Estado de Minas Gerais",
+        "operator:short": "SESI MG",
+        "operator:wikidata": "Q98912231",
+        "owner": "Federação das Indústrias do Estado de Minas Gerais",
+        "owner:wikidata": "Q10280713",
         "religion": "none",
-        "id": "way/1297782359"
+        "school:gender": "mixed",
+        "school:language": "pt-BR",
+        "short_name": "GOBA",
+        "id": "way/1312114164"
       },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              -44.0193857,
-              -19.9774598
+              -44.0340842,
+              -19.9864568
             ],
             [
-              -44.0193725,
-              -19.9775145
+              -44.0337395,
+              -19.9865389
             ],
             [
-              -44.0193087,
-              -19.977778
+              -44.0324202,
+              -19.9863157
             ],
             [
-              -44.0191805,
-              -19.9783073
+              -44.0325272,
+              -19.9851561
             ],
             [
-              -44.0191658,
-              -19.9783041
+              -44.0335464,
+              -19.9853718
             ],
             [
-              -44.0189264,
-              -19.9782529
-            ],
-            [
-              -44.0189056,
-              -19.9782485
-            ],
-            [
-              -44.019146,
-              -19.9772555
-            ],
-            [
-              -44.0191604,
-              -19.977196
-            ],
-            [
-              -44.019405,
-              -19.9772484
-            ],
-            [
-              -44.0194353,
-              -19.9772548
-            ],
-            [
-              -44.0194179,
-              -19.9773268
-            ],
-            [
-              -44.0193876,
-              -19.9773204
-            ],
-            [
-              -44.0193865,
-              -19.9773247
-            ],
-            [
-              -44.0193671,
-              -19.9774048
-            ],
-            [
-              -44.0193554,
-              -19.9774534
-            ],
-            [
-              -44.0193857,
-              -19.9774598
+              -44.0340842,
+              -19.9864568
             ]
           ]
         ]
@@ -18743,63 +18709,6 @@
         "coordinates": [
           -44.0110684,
           -20.0014061
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/12023711208",
-      "properties": {
-        "timestamp": "2024-07-01T22:10:04Z",
-        "version": 2,
-        "changeset": 153431567,
-        "access": "private",
-        "entrance": "main",
-        "id": "node/12023711208"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.0193087,
-          -19.977778
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/12023711209",
-      "properties": {
-        "timestamp": "2024-07-01T22:10:04Z",
-        "version": 2,
-        "changeset": 153431567,
-        "access": "permissive",
-        "entrance": "yes",
-        "id": "node/12023711209"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.0193725,
-          -19.9775145
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/12026880353",
-      "properties": {
-        "timestamp": "2024-07-01T22:10:04Z",
-        "version": 1,
-        "changeset": 153431567,
-        "access": "private",
-        "entrance": "exit",
-        "id": "node/12026880353"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.0193671,
-          -19.9774048
         ]
       }
     },

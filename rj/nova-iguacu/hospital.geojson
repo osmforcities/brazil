@@ -55,6 +55,54 @@
     },
     {
       "type": "Feature",
+      "id": "way/397631003",
+      "properties": {
+        "timestamp": "2025-03-15T00:23:37Z",
+        "version": 4,
+        "changeset": 163631560,
+        "addr:city": "Nova Iguaçu",
+        "addr:housenumber": "457",
+        "addr:postcode": "26210060",
+        "addr:street": "Avenida Marechal Floriano Peixoto",
+        "addr:suburb": "Centro",
+        "amenity": "hospital",
+        "building:levels": "3",
+        "healthcare": "hospital",
+        "layer": "1",
+        "name": "Galeria Veplan",
+        "smoking": "no",
+        "id": "way/397631003"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.4521718,
+              -22.7593913
+            ],
+            [
+              -43.4519472,
+              -22.7594953
+            ],
+            [
+              -43.4514945,
+              -22.758664
+            ],
+            [
+              -43.4517192,
+              -22.75856
+            ],
+            [
+              -43.4521718,
+              -22.7593913
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/451947674",
       "properties": {
         "timestamp": "2021-09-20T22:04:50Z",
@@ -789,6 +837,44 @@
         "coordinates": [
           -43.4959691,
           -22.7438645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12608559421",
+      "properties": {
+        "timestamp": "2025-03-15T00:23:37Z",
+        "version": 4,
+        "changeset": 163631560,
+        "addr:city": "Nova Iguaçu",
+        "addr:housenumber": "427",
+        "addr:postcode": "26210060",
+        "addr:street": "Galeria Veplan",
+        "addr:suburb": "Centro",
+        "amenity": "hospital",
+        "currency:XBT": "yes",
+        "diet:gluten_free": "yes",
+        "diet:vegetarian": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "vaccination",
+        "name": "Saude Livre Nova Iguaçu - Clinica de Vacinação",
+        "opening_hours": "Mo-Sa 08:00-17:00",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:cryptocurrencies": "yes",
+        "payment:debit_cards": "yes",
+        "payment:lightning": "yes",
+        "phone": "+55(21) 96692-5417",
+        "website": "https://g.co/kgs/u7rSnaQ",
+        "id": "node/12608559421"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.4517911,
+          -22.7589004
         ]
       }
     }

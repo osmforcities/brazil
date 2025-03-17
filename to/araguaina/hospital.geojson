@@ -116,6 +116,54 @@
     },
     {
       "type": "Feature",
+      "id": "way/1367347852",
+      "properties": {
+        "timestamp": "2025-03-14T15:10:57Z",
+        "version": 1,
+        "changeset": 163614196,
+        "addr:city": "Araguaína",
+        "addr:street": "Avenida Tocantins",
+        "addr:suburb": "Centro",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "emergency",
+        "name": "Hospital regional de araguaina",
+        "id": "way/1367347852"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.2106209,
+              -7.1935929
+            ],
+            [
+              -48.2107312,
+              -7.1939154
+            ],
+            [
+              -48.2100895,
+              -7.1941064
+            ],
+            [
+              -48.2099848,
+              -7.193744
+            ],
+            [
+              -48.210383,
+              -7.1936481
+            ],
+            [
+              -48.2106209,
+              -7.1935929
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/9063927391",
       "properties": {
         "timestamp": "2024-12-10T20:11:05Z",
@@ -200,6 +248,33 @@
         "coordinates": [
           -48.1858472,
           -7.1926946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12662911913",
+      "properties": {
+        "timestamp": "2025-03-14T15:13:18Z",
+        "version": 1,
+        "changeset": 163614278,
+        "addr:city": "Araguaína",
+        "addr:postcode": "77803-060",
+        "addr:street": "Avenida Tocantins",
+        "addr:suburb": "Centro",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "hospital regional de araguaina",
+        "operator": "Gabriel barnabe",
+        "operator:type": "private",
+        "id": "node/12662911913"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.2106134,
+          -7.1939158
         ]
       }
     }

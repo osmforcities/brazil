@@ -5,9 +5,9 @@
       "type": "Feature",
       "id": "way/297639812",
       "properties": {
-        "timestamp": "2023-02-18T02:20:00Z",
-        "version": 4,
-        "changeset": 132700908,
+        "timestamp": "2025-03-14T12:48:04Z",
+        "version": 5,
+        "changeset": 163608940,
         "addr:postcode": "13876-419",
         "addr:street": "Rua Lourival Alves Moraes",
         "addr:suburb": "Jardim Progresso",
@@ -17,6 +17,7 @@
         "name": "Escola Estadual Professor Francisco Dias Paschoal",
         "operator": "Secretaria da Educação do Estado de São Paulo",
         "operator:type": "government",
+        "operator:wikidata": "Q10369245",
         "phone": "+55 19 3622 2689",
         "ref": "INEP-35042754",
         "religion": "none",
@@ -227,11 +228,76 @@
     },
     {
       "type": "Feature",
+      "id": "way/417582384",
+      "properties": {
+        "timestamp": "2025-03-14T12:48:04Z",
+        "version": 10,
+        "changeset": 163608940,
+        "addr:city": "São João da Boa Vista",
+        "addr:housenumber": "681",
+        "addr:postcode": "13872-551",
+        "addr:street": "Estrada Vicinal Doutor João Batista Merlin",
+        "addr:suburb": "Parque Itália",
+        "amenity": "school",
+        "name": "SESI 156 Centro Educacional",
+        "operator": "Serviço Social da Indústria",
+        "operator:type": "ngo",
+        "operator:wikidata": "Q6027748",
+        "phone": "+55 19 3622 2705",
+        "website": "https://www.sesisp.org.br/educacao/sao-joao-da-boa-vista",
+        "id": "way/417582384"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.8152783,
+              -21.9666981
+            ],
+            [
+              -46.8147524,
+              -21.9675893
+            ],
+            [
+              -46.8145571,
+              -21.967588
+            ],
+            [
+              -46.8130757,
+              -21.9675783
+            ],
+            [
+              -46.8132056,
+              -21.9669105
+            ],
+            [
+              -46.8132141,
+              -21.9668668
+            ],
+            [
+              -46.8144378,
+              -21.9668332
+            ],
+            [
+              -46.8147603,
+              -21.9668375
+            ],
+            [
+              -46.8152783,
+              -21.9666981
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/424283762",
       "properties": {
-        "timestamp": "2024-12-23T09:21:14Z",
-        "version": 3,
-        "changeset": 160529444,
+        "timestamp": "2025-03-14T12:48:04Z",
+        "version": 4,
+        "changeset": 163608940,
         "addr:city": "São João da Boa Vista",
         "addr:housenumber": "42",
         "addr:street": "Largo do Rosário",
@@ -241,7 +307,9 @@
         "contact:phone": "+55 19 3633 4046",
         "email": "e020710a@educacao.sp.gov.br",
         "name": "Escola Estadual Doutor Teófilo de Andrade",
-        "operator": "Secretaria de Educação do Estado de São Paulo",
+        "operator": "Secretaria da Educação do Estado de São Paulo",
+        "operator:type": "government",
+        "operator:wikidata": "Q10369245",
         "phone": "+55 19 3622 2220",
         "id": "way/424283762"
       },
@@ -356,9 +424,9 @@
       "type": "Feature",
       "id": "way/623276544",
       "properties": {
-        "timestamp": "2023-02-18T02:20:00Z",
-        "version": 2,
-        "changeset": 132700908,
+        "timestamp": "2025-03-14T12:48:04Z",
+        "version": 3,
+        "changeset": 163608940,
         "addr:housenumber": "355",
         "addr:postcode": "13875-040",
         "addr:street": "Rua Manoel Molina Martins",
@@ -369,6 +437,7 @@
         "name": "Escola Estadual Padre Josué Silveira de Mattos",
         "operator": "Secretaria da Educação do Estado de São Paulo",
         "operator:type": "government",
+        "operator:wikidata": "Q10369245",
         "phone": "+55 19 362 22191",
         "ref": "INEP-35020540",
         "religion": "none",
@@ -407,9 +476,9 @@
       "type": "Feature",
       "id": "way/669014884",
       "properties": {
-        "timestamp": "2019-02-07T22:54:05Z",
-        "version": 1,
-        "changeset": 67009369,
+        "timestamp": "2025-03-14T12:48:04Z",
+        "version": 2,
+        "changeset": 163608940,
         "addr:housenumber": "90",
         "addr:postcode": "13874-000",
         "addr:street": "Avenida Doutor Oscar Pirajá Martins",
@@ -419,6 +488,8 @@
         "email": "e020692a@educacao.sp.gov.br",
         "name": "Escola Estadual Coronel Cristiano Osório de Oliveira",
         "operator": "Secretaria da Educação do Estado de São Paulo",
+        "operator:type": "government",
+        "operator:wikidata": "Q10369245",
         "phone": "+55 19 3622 2247",
         "id": "way/669014884"
       },
@@ -454,9 +525,9 @@
       "type": "Feature",
       "id": "way/669869776",
       "properties": {
-        "timestamp": "2019-02-12T02:41:11Z",
-        "version": 1,
-        "changeset": 67118553,
+        "timestamp": "2025-03-14T12:48:04Z",
+        "version": 2,
+        "changeset": 163608940,
         "addr:postcode": "13870-617",
         "addr:street": "Rua Francisco Antônio Martins Júnior",
         "addr:suburb": "Vila Loyola",
@@ -466,6 +537,8 @@
         "name": "Escola Estadual Domingos Theodoro de Oliveira Azevedo",
         "note": "Sem numeração",
         "operator": "Secretaria da Educação do Estado de São Paulo",
+        "operator:type": "government",
+        "operator:wikidata": "Q10369245",
         "phone": "+55 19 3622 3416",
         "ref": "35020709",
         "id": "way/669869776"
@@ -702,25 +775,6 @@
         "coordinates": [
           -46.7969543,
           -21.9681498
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/3018335782",
-      "properties": {
-        "timestamp": "2014-08-15T15:41:12Z",
-        "version": 1,
-        "changeset": 24770014,
-        "amenity": "school",
-        "name": "Wizard",
-        "id": "node/3018335782"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -46.7974777,
-          -21.9796055
         ]
       }
     },

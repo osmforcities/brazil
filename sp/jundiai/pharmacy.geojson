@@ -273,12 +273,13 @@
       "type": "Feature",
       "id": "node/3371665107",
       "properties": {
-        "timestamp": "2018-10-21T17:41:38Z",
-        "version": 2,
-        "changeset": 63733808,
+        "timestamp": "2025-03-14T20:24:16Z",
+        "version": 3,
+        "changeset": 163626104,
         "addr:city": "Jundiaí",
         "addr:street": "Avenida Francisco Nobre",
         "amenity": "pharmacy",
+        "healthcare": "pharmacy",
         "name": "Drogaria Japi",
         "source": "survey",
         "id": "node/3371665107"
@@ -295,10 +296,11 @@
       "type": "Feature",
       "id": "node/3455889398",
       "properties": {
-        "timestamp": "2015-04-14T17:39:20Z",
-        "version": 1,
-        "changeset": 30218114,
+        "timestamp": "2025-03-14T20:24:16Z",
+        "version": 2,
+        "changeset": 163626104,
         "amenity": "pharmacy",
+        "healthcare": "pharmacy",
         "id": "node/3455889398"
       },
       "geometry": {
@@ -349,6 +351,60 @@
         "coordinates": [
           -46.881627,
           -23.1958008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4658508595",
+      "properties": {
+        "timestamp": "2025-03-14T20:24:16Z",
+        "version": 2,
+        "changeset": 163626104,
+        "addr:city": "Jundiaí",
+        "addr:housenumber": "364",
+        "addr:street": "Rua Suiça",
+        "addr:suburb": "Jardim Cica",
+        "amenity": "pharmacy",
+        "brand": "Droga Raia",
+        "brand:wikidata": "Q10357101",
+        "healthcare": "pharmacy",
+        "name": "Droga Raia",
+        "shop": "chemist",
+        "id": "node/4658508595"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.8817961,
+          -23.2015091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4658548344",
+      "properties": {
+        "timestamp": "2025-03-14T20:24:16Z",
+        "version": 3,
+        "changeset": 163626104,
+        "addr:city": "Jundiaí",
+        "addr:housenumber": "30",
+        "addr:street": "Rua Messina",
+        "amenity": "pharmacy",
+        "brand": "Drogasil",
+        "brand:wikidata": "Q5308185",
+        "healthcare": "pharmacy",
+        "name": "Drogasil",
+        "shop": "chemist",
+        "wheelchair": "yes",
+        "id": "node/4658548344"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.8858065,
+          -23.2031064
         ]
       }
     },

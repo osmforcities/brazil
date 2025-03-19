@@ -385,19 +385,20 @@
       "type": "Feature",
       "id": "way/378990746",
       "properties": {
-        "timestamp": "2022-10-18T20:01:41Z",
-        "version": 4,
-        "changeset": 127745761,
+        "timestamp": "2025-03-16T23:01:59Z",
+        "version": 5,
+        "changeset": 163709522,
         "addr:city": "Fernandópolis",
         "addr:district": "Brasilândia",
         "addr:housenumber": "607",
         "addr:street": "Avenida Carlos Barozzi",
         "amenity": "school",
-        "brand:wikidata": "Q10290787",
         "name": "Escola Estadual Carlos Barozzi",
-        "operator": "Governo do Estado de São Paulo",
+        "operator": "Secretaria da Educação do Estado de São Paulo",
         "operator:type": "government",
+        "operator:wikidata": "Q10369245",
         "phone": "+55 17 3442 1473",
+        "religion": "none",
         "id": "way/378990746"
       },
       "geometry": {
@@ -844,67 +845,23 @@
     },
     {
       "type": "Feature",
-      "id": "way/389917467",
-      "properties": {
-        "timestamp": "2022-10-18T20:01:41Z",
-        "version": 3,
-        "changeset": 127745761,
-        "addr:housenumber": "351",
-        "addr:street": "Avenida Getúlio Vargas",
-        "amenity": "school",
-        "name": "Cemei Antônio Maurício da Silva",
-        "operator": "Prefeitura Municipal",
-        "id": "way/389917467"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -50.2375897,
-              -20.2765937
-            ],
-            [
-              -50.2376358,
-              -20.2765921
-            ],
-            [
-              -50.2378131,
-              -20.2763842
-            ],
-            [
-              -50.2384797,
-              -20.2767617
-            ],
-            [
-              -50.2381933,
-              -20.2772126
-            ],
-            [
-              -50.2374175,
-              -20.2767649
-            ],
-            [
-              -50.2375897,
-              -20.2765937
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/390653227",
       "properties": {
-        "timestamp": "2016-01-10T19:47:05Z",
-        "version": 1,
-        "changeset": 36490113,
+        "timestamp": "2025-03-16T23:58:54Z",
+        "version": 2,
+        "changeset": 163710524,
         "addr:housenumber": "420",
+        "addr:postcode": "15608-028",
         "addr:street": "Avenida dos Bicudos",
         "addr:suburb": "Jardim Araguaia",
         "amenity": "school",
-        "name": "E E Fernando Barbosa Lima",
+        "official_name": "Escola Estadual Fernando Barbosa Lima",
+        "operator": "Secretaria da Educação do Estado de São Paulo",
+        "operator:type": "government",
+        "operator:wikidata": "Q10369245",
         "phone": "+55 17 3442 1998",
+        "religion": "none",
+        "short_name": "E E Fernando Barbosa Lima",
         "id": "way/390653227"
       },
       "geometry": {
@@ -981,9 +938,9 @@
       "type": "Feature",
       "id": "way/394945102",
       "properties": {
-        "timestamp": "2020-08-13T18:53:25Z",
-        "version": 5,
-        "changeset": 89371309,
+        "timestamp": "2025-03-16T23:01:59Z",
+        "version": 6,
+        "changeset": 163709522,
         "addr:city": "Fernandópolis",
         "addr:housenumber": "45",
         "addr:street": "Rua Ceres",
@@ -991,6 +948,7 @@
         "amenity": "school",
         "name": "Centro Municipal de Educação Infantil João Pereira Zequinha",
         "operator": "Prefeitura Municipal",
+        "operator:type": "government",
         "phone": "+55 17 3442-3633",
         "short_name": "Cemei João Pereira Zequinha",
         "id": "way/394945102"
@@ -1131,9 +1089,9 @@
       "type": "Feature",
       "id": "way/415876513",
       "properties": {
-        "timestamp": "2022-10-18T20:01:41Z",
-        "version": 3,
-        "changeset": 127745761,
+        "timestamp": "2025-03-16T23:58:54Z",
+        "version": 4,
+        "changeset": 163710524,
         "addr:housenumber": "522",
         "addr:street": "Rua Tiradentes",
         "addr:suburb": "Jardim do Trevo",
@@ -1142,7 +1100,9 @@
         "name": "Escola Estadual Professor Antônio Tanuri",
         "operator": "Governo do Estado de São Paulo",
         "operator:type": "government",
-        "phone": "+55 17 3442-1798",
+        "operator:wikidata": "Q10290787",
+        "phone": "+55 17 3442 1798",
+        "religion": "none",
         "id": "way/415876513"
       },
       "geometry": {

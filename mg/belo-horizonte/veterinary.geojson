@@ -332,20 +332,49 @@
     },
     {
       "type": "Feature",
-      "id": "node/1827674193",
+      "id": "way/1368007929",
       "properties": {
-        "timestamp": "2024-09-19T23:14:29Z",
-        "version": 2,
-        "changeset": 156843744,
+        "timestamp": "2025-03-16T01:20:53Z",
+        "version": 1,
+        "changeset": 163672519,
         "amenity": "veterinary",
-        "name": "Veterinária São Judas Tadeu 24h",
-        "id": "node/1827674193"
+        "building": "yes",
+        "name": "Veterinária São Judas Tadeu",
+        "id": "way/1368007929"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -44.0118112,
-          -19.9777363
+          [
+            [
+              -44.011841,
+              -19.9776913
+            ],
+            [
+              -44.0119151,
+              -19.9777166
+            ],
+            [
+              -44.0119735,
+              -19.9777366
+            ],
+            [
+              -44.011937,
+              -19.9778309
+            ],
+            [
+              -44.0118045,
+              -19.9777855
+            ],
+            [
+              -44.0118319,
+              -19.9777148
+            ],
+            [
+              -44.011841,
+              -19.9776913
+            ]
+          ]
         ]
       }
     },
@@ -641,6 +670,24 @@
         "coordinates": [
           -43.9279515,
           -19.9138791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12669229345",
+      "properties": {
+        "timestamp": "2025-03-16T01:20:53Z",
+        "version": 1,
+        "changeset": 163672519,
+        "entrance": "main",
+        "id": "node/12669229345"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.0118319,
+          -19.9777148
         ]
       }
     }

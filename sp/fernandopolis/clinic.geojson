@@ -5,9 +5,9 @@
       "type": "Feature",
       "id": "way/389917468",
       "properties": {
-        "timestamp": "2023-08-06T22:47:04Z",
-        "version": 4,
-        "changeset": 139534949,
+        "timestamp": "2025-03-16T23:01:59Z",
+        "version": 5,
+        "changeset": 163709522,
         "addr:housenumber": "629",
         "addr:postcode": "15606-040",
         "addr:street": "Avenida Belo Horizonte",
@@ -15,11 +15,13 @@
         "amenity": "clinic",
         "building": "yes",
         "healthcare": "clinic",
-        "name": "Ubs Antonio Pivato",
+        "name": "Unidade Básica de Saúde Antônio Pivato",
         "operator": "Prefeitura",
         "operator:ref:vatin": "BR47842836000105",
+        "operator:type": "government",
         "phone": "+55 17 3462 7019",
         "ref:CNES": "6544894",
+        "short_name": "Ubs Antonio Pivato",
         "id": "way/389917468"
       },
       "geometry": {
@@ -31,12 +33,12 @@
               -20.27727
             ],
             [
-              -50.2390938,
-              -20.2773378
+              -50.2390855,
+              -20.2773368
             ],
             [
-              -50.2388949,
-              -20.2776058
+              -50.2388824,
+              -20.277597
             ],
             [
               -50.2387948,
@@ -78,16 +80,19 @@
       "type": "Feature",
       "id": "way/390653228",
       "properties": {
-        "timestamp": "2016-01-10T19:47:05Z",
-        "version": 1,
-        "changeset": 36490113,
+        "timestamp": "2025-03-16T23:58:54Z",
+        "version": 2,
+        "changeset": 163710524,
         "addr:housenumber": "381",
         "addr:street": "Avenida das Patativas",
         "addr:suburb": "Jardim Araguaia",
         "amenity": "clinic",
         "building": "yes",
-        "name": "UBS Heitor Maldonado",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Unidade Básica de Saúde Heitor Maldonado",
         "phone": "+55 17 3442 3936",
+        "short_name": "UBS Heitor Maldonado",
         "id": "way/390653228"
       },
       "geometry": {

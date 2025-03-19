@@ -210,9 +210,9 @@
       "type": "Feature",
       "id": "way/364583697",
       "properties": {
-        "timestamp": "2020-12-25T03:06:34Z",
-        "version": 2,
-        "changeset": 96407382,
+        "timestamp": "2025-03-17T12:10:35Z",
+        "version": 3,
+        "changeset": 163729118,
         "amenity": "university",
         "name": "UESPI - Universidade Estadual do Piauí",
         "website": "https://www.uespi.br",
@@ -225,6 +225,14 @@
             [
               -41.5399946,
               -7.0468576
+            ],
+            [
+              -41.5400347,
+              -7.0468297
+            ],
+            [
+              -41.5409004,
+              -7.0462264
             ],
             [
               -41.540939,
@@ -290,6 +298,44 @@
               -7.0558268
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10131438829",
+      "properties": {
+        "timestamp": "2025-03-17T12:10:35Z",
+        "version": 3,
+        "changeset": 163729118,
+        "access": "permissive",
+        "barrier": "gate",
+        "id": "node/10131438829"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.5400347,
+          -7.0468297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10131438830",
+      "properties": {
+        "timestamp": "2025-03-17T12:10:35Z",
+        "version": 3,
+        "changeset": 163729118,
+        "access": "permissive",
+        "barrier": "gate",
+        "id": "node/10131438830"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.5409004,
+          -7.0462264
         ]
       }
     },

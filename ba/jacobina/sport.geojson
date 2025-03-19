@@ -2423,40 +2423,161 @@
     },
     {
       "type": "Feature",
-      "id": "way/1368168040",
+      "id": "way/1368221511",
       "properties": {
-        "timestamp": "2025-03-16T20:45:41Z",
-        "version": 1,
-        "changeset": 163705879,
-        "highway": "raceway",
-        "name": "Pista de skate",
-        "sport": "skate",
-        "surface": "half",
-        "id": "way/1368168040"
+        "timestamp": "2025-03-17T18:49:21Z",
+        "version": 3,
+        "changeset": 163745919,
+        "area": "yes",
+        "barrier": "wall",
+        "height": "1",
+        "material": "concrete",
+        "name": "Rampa de Skate",
+        "sport": "skateboard",
+        "wall": "practice_pitch",
+        "id": "way/1368221511"
       },
       "geometry": {
-        "type": "LineString",
+        "type": "Polygon",
         "coordinates": [
           [
-            -40.5183517,
-            -11.1777931
-          ],
-          [
-            -40.5181679,
-            -11.1779043
-          ],
-          [
-            -40.5181988,
-            -11.1779549
-          ],
-          [
-            -40.5183845,
-            -11.1778444
-          ],
-          [
-            -40.5183517,
-            -11.1777931
+            [
+              -40.5183546,
+              -11.1777951
+            ],
+            [
+              -40.5183855,
+              -11.1778418
+            ],
+            [
+              -40.5181952,
+              -11.1779581
+            ],
+            [
+              -40.5181595,
+              -11.1779063
+            ],
+            [
+              -40.5183546,
+              -11.1777951
+            ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1368279540",
+      "properties": {
+        "timestamp": "2025-03-17T04:57:48Z",
+        "version": 1,
+        "changeset": 163714911,
+        "access": "yes",
+        "leisure": "pitch",
+        "lit": "yes",
+        "name": "Campo de futebol society",
+        "sport": "soccer;fitness;orienteering",
+        "surface": "grass",
+        "id": "way/1368279540"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.5188164,
+              -11.1778732
+            ],
+            [
+              -40.5191342,
+              -11.1782784
+            ],
+            [
+              -40.5188392,
+              -11.1785021
+            ],
+            [
+              -40.5185133,
+              -11.1780785
+            ],
+            [
+              -40.5188164,
+              -11.1778732
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12673376358",
+      "properties": {
+        "timestamp": "2025-03-17T15:21:04Z",
+        "version": 1,
+        "changeset": 163737223,
+        "access": "yes",
+        "addr:city": "Jacobina",
+        "addr:housenumber": "170",
+        "addr:postcode": "44700-000",
+        "addr:street": "Rua Florisvaldo Barberino",
+        "addr:suburb": "Félix Tomaz",
+        "covered": "yes",
+        "leisure": "pitch",
+        "lit": "yes",
+        "name": "Quadra Poliesportiva",
+        "sport": "volleyball;fitness;soccer;multi;gymnastics;handball",
+        "surface": "paved",
+        "id": "node/12673376358"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.5181757,
+          -11.1777621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12673907439",
+      "properties": {
+        "timestamp": "2025-03-17T19:02:26Z",
+        "version": 1,
+        "changeset": 163746422,
+        "ele": "1",
+        "name": "Rampa de skate",
+        "sport": "skateboard",
+        "id": "node/12673907439"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.5182763,
+          -11.1778686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12673925140",
+      "properties": {
+        "timestamp": "2025-03-17T19:07:39Z",
+        "version": 2,
+        "changeset": 163746616,
+        "access": "yes",
+        "covered": "no",
+        "leisure": "pitch",
+        "lit": "yes",
+        "name": "Quadra poliesportiva",
+        "sport": "basketball;multi;volleyball;futsal;handball",
+        "surface": "paved",
+        "id": "node/12673925140"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.5193425,
+          -11.1768174
         ]
       }
     }

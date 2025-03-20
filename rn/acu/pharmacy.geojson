@@ -3,6 +3,117 @@
   "features": [
     {
       "type": "Feature",
+      "id": "relation/18858559",
+      "properties": {
+        "timestamp": "2025-03-18T22:58:20Z",
+        "version": 1,
+        "changeset": 163795596,
+        "addr:city": "Assu",
+        "addr:housenumber": "21",
+        "addr:postcode": "59650-000",
+        "addr:street": "Praça do Rosário",
+        "addr:suburb": "Centro",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "mobile": "+55 84 3331-2461",
+        "name": "Farmácia Santa Cecília",
+        "opening_hours": "Mo-Sa 07:00-18:00",
+        "type": "multipolygon",
+        "id": "relation/18858559"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -36.9071393,
+              -5.5745307
+            ],
+            [
+              -36.9072991,
+              -5.5745022
+            ],
+            [
+              -36.9072875,
+              -5.5745847
+            ],
+            [
+              -36.9072163,
+              -5.5745971
+            ],
+            [
+              -36.9071482,
+              -5.574609
+            ],
+            [
+              -36.9070274,
+              -5.5746301
+            ],
+            [
+              -36.907013,
+              -5.5745532
+            ],
+            [
+              -36.9071393,
+              -5.5745307
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/18858561",
+      "properties": {
+        "timestamp": "2025-03-18T22:58:20Z",
+        "version": 1,
+        "changeset": 163795596,
+        "addr:city": "Assu",
+        "addr:housenumber": "264",
+        "addr:postcode": "59650-000",
+        "addr:street": "Avenida Senador João Câmara",
+        "addr:suburb": "Centro",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "mobile": "+55 84 3331-2717",
+        "name": "Drogaria Continental",
+        "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-12:00",
+        "type": "multipolygon",
+        "id": "relation/18858561"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -36.9072698,
+              -5.5747093
+            ],
+            [
+              -36.9072045,
+              -5.5747059
+            ],
+            [
+              -36.9072163,
+              -5.5745971
+            ],
+            [
+              -36.9072875,
+              -5.5745847
+            ],
+            [
+              -36.9072698,
+              -5.5747093
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1356738996",
       "properties": {
         "timestamp": "2025-02-07T18:35:14Z",
@@ -114,20 +225,89 @@
     },
     {
       "type": "Feature",
-      "id": "node/3138440688",
+      "id": "way/1368848483",
       "properties": {
-        "timestamp": "2022-09-29T13:37:56Z",
-        "version": 2,
-        "changeset": 126781662,
+        "timestamp": "2025-03-18T22:58:20Z",
+        "version": 1,
+        "changeset": 163795596,
+        "addr:city": "Assu",
+        "addr:housenumber": "20",
+        "addr:postcode": "59650-000",
+        "addr:street": "Praça Pedro Velho",
+        "addr:suburb": "Centro",
         "amenity": "pharmacy",
+        "building": "yes",
         "healthcare": "pharmacy",
-        "id": "node/3138440688"
+        "name": "Farmácia dos Trabalhadores",
+        "id": "way/1368848483"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -36.9066025,
-          -5.5740372
+          [
+            [
+              -36.906637,
+              -5.5739643
+            ],
+            [
+              -36.9066445,
+              -5.5740667
+            ],
+            [
+              -36.906586,
+              -5.574071
+            ],
+            [
+              -36.9065784,
+              -5.5739686
+            ],
+            [
+              -36.906637,
+              -5.5739643
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1368848484",
+      "properties": {
+        "timestamp": "2025-03-18T22:58:20Z",
+        "version": 1,
+        "changeset": 163795596,
+        "addr:street": "Praça do Rosário",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmácias Betel",
+        "id": "way/1368848484"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -36.9066435,
+              -5.5740721
+            ],
+            [
+              -36.9066481,
+              -5.5741367
+            ],
+            [
+              -36.9065982,
+              -5.5741403
+            ],
+            [
+              -36.9065935,
+              -5.5740756
+            ],
+            [
+              -36.9066435,
+              -5.5740721
+            ]
+          ]
         ]
       }
     }

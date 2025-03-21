@@ -4545,15 +4545,16 @@
       "type": "Feature",
       "id": "node/5284207865",
       "properties": {
-        "timestamp": "2021-09-10T10:49:40Z",
-        "version": 2,
-        "changeset": 111018028,
+        "timestamp": "2025-03-19T18:49:14Z",
+        "version": 3,
+        "changeset": 163831301,
         "addr:city": "Belo Horizonte",
         "addr:housenumber": "940",
         "addr:postcode": "30260-270",
         "addr:street": "Avenida Mem de Sá",
         "addr:suburb": "Santa Efigênia",
         "amenity": "pharmacy",
+        "check_date": "2025-03-19",
         "dispensing": "yes",
         "healthcare": "pharmacy",
         "name": "Farmácia REDEFARMA",
@@ -5010,6 +5011,48 @@
         "coordinates": [
           -44.0140837,
           -19.9755589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12681046261",
+      "properties": {
+        "timestamp": "2025-03-19T14:09:14Z",
+        "version": 1,
+        "changeset": 163818754,
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Raia",
+        "id": "node/12681046261"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.0064866,
+          -19.8979182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12682012915",
+      "properties": {
+        "timestamp": "2025-03-19T19:12:36Z",
+        "version": 1,
+        "changeset": 163831865,
+        "amenity": "pharmacy",
+        "brand": "Droga Raia",
+        "brand:wikidata": "Q10357101",
+        "healthcare": "pharmacy",
+        "name": "Droga Raia",
+        "id": "node/12682012915"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.9253137,
+          -19.9353431
         ]
       }
     }

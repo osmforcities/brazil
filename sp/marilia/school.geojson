@@ -3,6 +3,86 @@
   "features": [
     {
       "type": "Feature",
+      "id": "relation/5821291",
+      "properties": {
+        "timestamp": "2025-03-19T19:57:48Z",
+        "version": 6,
+        "changeset": 163834197,
+        "addr:housenumber": "737",
+        "addr:postcode": "17525-900",
+        "addr:street": "Avenida Hygino Muzzi Filho",
+        "addr:suburb": "Mirante",
+        "amenity": "school",
+        "description": "Faculdade de Filosofia e Ciências - Câmpus de Marília",
+        "name": "Universidade Estadual de São Paulo Júlio de Mesquita Filho",
+        "official_name": "Universidade Estadual Paulista Júlio de Mesquita Filho",
+        "operator": "Governo do Estado de São Paulo",
+        "operator:type": "government",
+        "operator:wikidata": "Q10290787",
+        "phone": "+55 14 3402 1300",
+        "short_name": "UNESP",
+        "type": "multipolygon",
+        "website": "https://www.marilia.unesp.br/",
+        "id": "relation/5821291"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.9620589,
+              -22.2355639
+            ],
+            [
+              -49.9683942,
+              -22.2325106
+            ],
+            [
+              -49.9699898,
+              -22.23413
+            ],
+            [
+              -49.9693922,
+              -22.2344016
+            ],
+            [
+              -49.9658163,
+              -22.2360269
+            ],
+            [
+              -49.9644054,
+              -22.2366575
+            ],
+            [
+              -49.9643228,
+              -22.2368743
+            ],
+            [
+              -49.9640878,
+              -22.2374912
+            ],
+            [
+              -49.9636222,
+              -22.2387132
+            ],
+            [
+              -49.9634612,
+              -22.2389092
+            ],
+            [
+              -49.9632106,
+              -22.2390205
+            ],
+            [
+              -49.9620589,
+              -22.2355639
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "relation/5950448",
       "properties": {
         "timestamp": "2024-10-15T21:54:26Z",
@@ -143,9 +223,9 @@
       "type": "Feature",
       "id": "way/374670096",
       "properties": {
-        "timestamp": "2024-10-15T18:22:58Z",
-        "version": 4,
-        "changeset": 157933476,
+        "timestamp": "2025-03-19T20:05:17Z",
+        "version": 5,
+        "changeset": 163834473,
         "addr:city": "Marilia",
         "addr:housenumber": "2687",
         "addr:postcode": "17506-030",
@@ -155,6 +235,7 @@
         "official_name": "Escola Estadual Professor Baltazar de Godoy Moreira",
         "operator": "Secretaria da Educação do Estado de São Paulo",
         "operator:type": "government",
+        "operator:wikidata": "Q10369245",
         "phone": "+ 55 14 3433 0536",
         "religion": "none",
         "short_name": "E.E. Professor Baltazar de Godoy Moreira",
@@ -569,9 +650,9 @@
       "type": "Feature",
       "id": "way/1111619029",
       "properties": {
-        "timestamp": "2024-10-02T16:37:49Z",
-        "version": 2,
-        "changeset": 157387375,
+        "timestamp": "2025-03-19T20:01:49Z",
+        "version": 3,
+        "changeset": 163834336,
         "addr:city": "Marília",
         "addr:housenumber": "70",
         "addr:postcode": "17522-390",
@@ -580,6 +661,7 @@
         "amenity": "school",
         "operator": "Secretaria da Educação do Estado de São Paulo",
         "operator:type": "government",
+        "operator:wikidata": "Q10369245",
         "religion": "none",
         "short_name": "E.E Professora Maria Cecilia Ferraz de Freitas",
         "id": "way/1111619029"
@@ -698,9 +780,9 @@
       "type": "Feature",
       "id": "way/1180781440",
       "properties": {
-        "timestamp": "2024-10-17T14:51:18Z",
-        "version": 3,
-        "changeset": 158012241,
+        "timestamp": "2025-03-19T20:01:49Z",
+        "version": 4,
+        "changeset": 163834336,
         "addr:city": "Marília",
         "addr:housenumber": "86",
         "addr:postcode": "17521-250",
@@ -710,6 +792,7 @@
         "official_name": "Escola Estadual Professor Nelson Cabrini",
         "operator": "Secretaria da Educação do Estado de São Paulo",
         "operator:type": "government",
+        "operator:wikidata": "Q10369245",
         "phone": "+ 55 14 3417 3066",
         "religion": "none",
         "short_name": "E.E Professor Nelson Cabrini",
@@ -931,9 +1014,9 @@
       "type": "Feature",
       "id": "way/1320128070",
       "properties": {
-        "timestamp": "2024-10-02T16:37:49Z",
-        "version": 1,
-        "changeset": 157387375,
+        "timestamp": "2025-03-19T20:01:49Z",
+        "version": 2,
+        "changeset": 163834336,
         "addr:housenumber": "1306",
         "addr:postcode": "17520-240",
         "addr:street": "Avenida João Ramalho",
@@ -942,7 +1025,8 @@
         "email": "sumarilia@sesisp.org.br",
         "mobile": "+55 14 99716 5825",
         "operator": "Serviço Social da Indústria",
-        "operator:type": "private_non_profit",
+        "operator:type": "ngo",
+        "operator:wikidata": "Q6027748",
         "phone": "+55 14 3401 1500",
         "religion": "none",
         "website": "https://marilia.sesisp.org.br/",

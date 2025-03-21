@@ -780,6 +780,57 @@
     },
     {
       "type": "Feature",
+      "id": "way/1369177389",
+      "properties": {
+        "timestamp": "2025-03-19T14:40:52Z",
+        "version": 1,
+        "changeset": 163820872,
+        "addr:city": "Jacobina",
+        "addr:housenumber": "108",
+        "addr:postcode": "44700-000",
+        "addr:street": "Rua Renato Rocha",
+        "addr:suburb": "Missão",
+        "amenity": "school",
+        "building": "school",
+        "email": "ems.jacobina@hotmail.com",
+        "grades": "0-6",
+        "mobile": "+5574981141945",
+        "name": "Escola Mundo do Saber",
+        "phone": "+557436217862",
+        "source": "https://leadscard.com.br/escolamundodosaber;https://www.instagram.com/ems.jacobina/",
+        "wheelchair": "yes",
+        "id": "way/1369177389"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.5169428,
+              -11.1782499
+            ],
+            [
+              -40.5171138,
+              -11.1784183
+            ],
+            [
+              -40.5169663,
+              -11.1785005
+            ],
+            [
+              -40.5168013,
+              -11.1783512
+            ],
+            [
+              -40.5169428,
+              -11.1782499
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/10712845772",
       "properties": {
         "timestamp": "2023-03-05T18:48:39Z",
@@ -820,6 +871,39 @@
         "coordinates": [
           -40.5334732,
           -11.1733817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12681186206",
+      "properties": {
+        "timestamp": "2025-03-19T14:54:21Z",
+        "version": 1,
+        "changeset": 163821399,
+        "addr:city": "Jacobina",
+        "addr:housenumber": "108",
+        "addr:postcode": "44700-000",
+        "addr:street": "Rua Renato Rocha",
+        "addr:suburb": "Missão",
+        "amenity": "school",
+        "building": "school",
+        "email": "ems.jacobina@hotmail.com",
+        "grades": "1-6",
+        "mobile": "+5574981141945",
+        "name": "Escola Mundo do Saber",
+        "operator": "privado",
+        "operator:type": "private",
+        "phone": "+557436217862",
+        "source": "https://leadscard.com.br/escolamundodosaber;https://www.instagram.com/ems.jacobina/",
+        "wheelchair": "yes",
+        "id": "node/12681186206"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.5169871,
+          -11.1784466
         ]
       }
     }

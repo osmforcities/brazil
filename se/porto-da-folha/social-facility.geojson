@@ -5,9 +5,13 @@
       "type": "Feature",
       "id": "way/381803493",
       "properties": {
-        "timestamp": "2015-11-21T19:31:39Z",
-        "version": 1,
-        "changeset": 35495439,
+        "timestamp": "2025-03-20T13:39:36Z",
+        "version": 3,
+        "changeset": 163863780,
+        "addr:city": "Porto da Folha",
+        "addr:postcode": "49800-000",
+        "addr:street": "Rua Barra da Onça",
+        "addr:suburb": "Coroa do Meio",
         "amenity": "social_facility",
         "landuse": "recreation_ground",
         "name": "Associação Atlética Banco do Brasil",
@@ -38,6 +42,34 @@
               -9.9238217
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12684725748",
+      "properties": {
+        "timestamp": "2025-03-20T13:39:36Z",
+        "version": 1,
+        "changeset": 163863780,
+        "addr:city": "Porto da Folha",
+        "addr:housenumber": "844",
+        "addr:postcode": "49800-000",
+        "addr:street": "Praça Padre Manoel José de Oliveira Lima",
+        "addr:suburb": "Centro",
+        "amenity": "social_facility",
+        "name": "Centro de Referência em Assistência Social Antonio Loureiro Feitosa",
+        "operator": "Município de Porto da Folha",
+        "operator:type": "public",
+        "social_facility": "outreach",
+        "social_facility:for": "community",
+        "id": "node/12684725748"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.2794977,
+          -9.9153302
         ]
       }
     }

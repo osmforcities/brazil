@@ -3,47 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": "way/381803525",
-      "properties": {
-        "timestamp": "2015-11-21T19:31:40Z",
-        "version": 1,
-        "changeset": 35495439,
-        "access": "public",
-        "amenity": "clinic",
-        "emergency": "no",
-        "name": "Clinica da Familia",
-        "id": "way/381803525"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -37.2758383,
-              -9.9210573
-            ],
-            [
-              -37.2756755,
-              -9.9212615
-            ],
-            [
-              -37.2754407,
-              -9.9210615
-            ],
-            [
-              -37.2756078,
-              -9.9208885
-            ],
-            [
-              -37.2758383,
-              -9.9210573
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/543286184",
       "properties": {
         "timestamp": "2017-11-28T12:22:58Z",
@@ -79,6 +38,63 @@
               -9.7801385
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12682496790",
+      "properties": {
+        "timestamp": "2025-03-20T00:32:24Z",
+        "version": 1,
+        "changeset": 163841021,
+        "addr:city": "Porto da Folha",
+        "addr:housenumber": "55",
+        "addr:postcode": "49800-000",
+        "addr:suburb": "Lagoa Salgada",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Unidade de Saúde Antônio Ricardo",
+        "operator": "Município de Porto da Folha",
+        "id": "node/12682496790"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.2947596,
+          -9.9142267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12684725783",
+      "properties": {
+        "timestamp": "2025-03-20T13:39:36Z",
+        "version": 1,
+        "changeset": 163863780,
+        "access": "yes",
+        "addr:city": "Porto da Folha",
+        "addr:housenumber": "155",
+        "addr:postcode": "49800-000",
+        "addr:street": "Rua Augusto César Leite",
+        "addr:suburb": "Centro",
+        "amenity": "clinic",
+        "emergency": "no",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Clinica de Saude da Família Vereador Jones José de Santana",
+        "opening_hours": "Mo-Fr 09:00-17:00",
+        "operator": "Município de Porto da Folha",
+        "operator:type": "public",
+        "id": "node/12684725783"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.2757111,
+          -9.9209955
         ]
       }
     }

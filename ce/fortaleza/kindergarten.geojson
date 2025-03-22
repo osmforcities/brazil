@@ -263,9 +263,9 @@
       "type": "Feature",
       "id": "relation/16460617",
       "properties": {
-        "timestamp": "2023-10-09T15:04:52Z",
-        "version": 1,
-        "changeset": 142354222,
+        "timestamp": "2025-03-20T11:51:08Z",
+        "version": 2,
+        "changeset": 163859406,
         "addr:city": "Fortaleza",
         "addr:housenumber": "1605",
         "addr:postcode": "60712-165",
@@ -274,9 +274,10 @@
         "amenity": "kindergarten",
         "isced:level": "0",
         "name": "Creche Augusto Pontes",
+        "not:operator:wikidata": "Q53930902",
         "official_name": "Centro de Educação Infantil Augusto Pontes",
         "operator": "Secretaria Municipal da Educação de Fortaleza",
-        "operator:type": "public",
+        "operator:type": "government",
         "ref:INEP": "23256656",
         "short_name": "CEI Augusto Pontes",
         "source": "Secretaria Municipal da Educação de Fortaleza",
@@ -293,12 +294,24 @@
               -3.8014681
             ],
             [
+              -38.5603989,
+              -3.8014994
+            ],
+            [
+              -38.5603882,
+              -3.8015305
+            ],
+            [
               -38.5602675,
               -3.8018714
             ],
             [
               -38.5597541,
               -3.801689
+            ],
+            [
+              -38.5598719,
+              -3.8013521
             ],
             [
               -38.5599657,
@@ -5378,6 +5391,24 @@
         "coordinates": [
           -38.5389394,
           -3.8062685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12684399242",
+      "properties": {
+        "timestamp": "2025-03-20T11:51:08Z",
+        "version": 1,
+        "changeset": 163859406,
+        "barrier": "gate",
+        "id": "node/12684399242"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5603989,
+          -3.8014994
         ]
       }
     }

@@ -558,13 +558,16 @@
       "type": "Feature",
       "id": "relation/16460619",
       "properties": {
-        "timestamp": "2023-10-09T15:04:52Z",
-        "version": 1,
-        "changeset": 142354222,
+        "timestamp": "2025-03-20T11:47:08Z",
+        "version": 2,
+        "changeset": 163859225,
         "amenity": "hospital",
         "healthcare": "hospital",
+        "healthcare:speciality": "haematology;oncology;urology;vascular_surgery",
         "name": "Hospital Universitário do Ceará",
-        "short_name": "HUCE",
+        "operator": "Instituto de Saúde e Gestão Hospitalar",
+        "short_name": "HUC",
+        "start_date": "2025-03-19",
         "type": "multipolygon",
         "id": "relation/16460619"
       },
@@ -583,6 +586,10 @@
             [
               -38.5599657,
               -3.8010839
+            ],
+            [
+              -38.5598719,
+              -3.8013521
             ],
             [
               -38.5597541,

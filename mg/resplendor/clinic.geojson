@@ -5,16 +5,19 @@
       "type": "Feature",
       "id": "way/315088518",
       "properties": {
-        "timestamp": "2015-07-21T16:26:09Z",
-        "version": 7,
-        "changeset": 32781722,
+        "timestamp": "2025-03-20T19:03:12Z",
+        "version": 8,
+        "changeset": 163877048,
         "access": "yes",
         "addr:city": "Resplendor",
-        "addr:street": "Rua Pedro Fernandes Moreira",
+        "addr:housenumber": "100",
+        "addr:postcode": "35230000",
+        "addr:street": "Rua Jacob Shwenck",
+        "addr:suburb": "Nossa Senhora de Fátima",
         "amenity": "clinic",
         "building": "yes",
         "emergency": "no",
-        "name": "Posto de Saúde do Norte",
+        "name": "UAPS José Pinto Neto",
         "id": "way/315088518"
       },
       "geometry": {
@@ -34,12 +37,16 @@
               -19.3283523
             ],
             [
-              -41.2481925,
-              -19.3283224
+              -41.2481879,
+              -19.3283195
             ],
             [
               -41.2481495,
               -19.3282932
+            ],
+            [
+              -41.248174,
+              -19.3282615
             ],
             [
               -41.2482773,
@@ -226,9 +233,9 @@
       "type": "Feature",
       "id": "node/3660534200",
       "properties": {
-        "timestamp": "2015-07-21T16:26:08Z",
-        "version": 1,
-        "changeset": 32781722,
+        "timestamp": "2025-03-20T19:03:12Z",
+        "version": 2,
+        "changeset": 163877048,
         "entrance": "yes",
         "name": "Entrada Posto de Saúde do Norte",
         "id": "node/3660534200"
@@ -236,8 +243,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -41.2481925,
-          -19.3283224
+          -41.248174,
+          -19.3282615
         ]
       }
     },

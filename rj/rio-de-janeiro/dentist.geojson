@@ -329,6 +329,46 @@
     },
     {
       "type": "Feature",
+      "id": "way/1369799071",
+      "properties": {
+        "timestamp": "2025-03-20T23:04:35Z",
+        "version": 1,
+        "changeset": 163883657,
+        "amenity": "dentist",
+        "building": "yes",
+        "healthcare": "dentist",
+        "id": "way/1369799071"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.23424,
+              -22.9263035
+            ],
+            [
+              -43.2341255,
+              -22.9263669
+            ],
+            [
+              -43.2340732,
+              -22.9262965
+            ],
+            [
+              -43.234197,
+              -22.9262446
+            ],
+            [
+              -43.23424,
+              -22.9263035
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/340463777",
       "properties": {
         "timestamp": "2009-02-04T20:35:27Z",
@@ -1935,6 +1975,35 @@
         "coordinates": [
           -43.3373668,
           -22.8826289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12685897271",
+      "properties": {
+        "timestamp": "2025-03-20T23:04:35Z",
+        "version": 1,
+        "changeset": 163883657,
+        "addr:city": "Rio de Janeiro",
+        "addr:housenumber": "13",
+        "addr:postcode": "20520130",
+        "addr:street": "Rua Camaragibe",
+        "addr:suburb": "Tijuca",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "healthcare:speciality": "orthodontics;endodontia;implantodontista;clínico_geral",
+        "level": "térreo",
+        "mobile": "+55 21 98855-2005",
+        "name": "Tijuca Odontologia",
+        "opening_hours": "Mo-Su 09:00-18:00",
+        "id": "node/12685897271"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2342167,
+          -22.9262421
         ]
       }
     }

@@ -129,9 +129,9 @@
       "type": "Feature",
       "id": "way/543299471",
       "properties": {
-        "timestamp": "2017-11-28T13:47:15Z",
-        "version": 1,
-        "changeset": 54149642,
+        "timestamp": "2025-03-20T18:47:47Z",
+        "version": 2,
+        "changeset": 163876516,
         "amenity": "school",
         "id": "way/543299471"
       },
@@ -140,24 +140,32 @@
         "coordinates": [
           [
             [
-              -37.4807247,
-              -9.9250808
+              -37.4808787,
+              -9.9248776
             ],
             [
-              -37.4806273,
-              -9.925314
+              -37.4808001,
+              -9.9250501
             ],
             [
-              -37.4803625,
-              -9.9252066
+              -37.4806482,
+              -9.9253906
             ],
             [
-              -37.4804599,
-              -9.9249734
+              -37.4803515,
+              -9.9252609
             ],
             [
-              -37.4807247,
-              -9.9250808
+              -37.480504,
+              -9.9249192
+            ],
+            [
+              -37.4805826,
+              -9.9247468
+            ],
+            [
+              -37.4808787,
+              -9.9248776
             ]
           ]
         ]
@@ -167,18 +175,25 @@
       "type": "Feature",
       "id": "node/3849702898",
       "properties": {
-        "timestamp": "2015-11-21T19:31:35Z",
-        "version": 1,
-        "changeset": 35495439,
+        "timestamp": "2025-03-20T13:39:36Z",
+        "version": 3,
+        "changeset": 163863780,
+        "addr:city": "Porto da Folha",
+        "addr:housenumber": "1744",
+        "addr:postcode": "49800-000",
+        "addr:street": "Rua Major João Gonçalves",
+        "addr:suburb": "Centro",
         "amenity": "school",
-        "name": "Colégio Estadual Governador Lourival Batista",
+        "name": "Colégio Estadual Governador Lourival Baptista",
+        "operator": "Secretaria de Educação do Estado de Sergipe",
+        "operator:type": "public",
         "id": "node/3849702898"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -37.2738664,
-          -9.9198776
+          -37.2734449,
+          -9.9203222
         ]
       }
     },
@@ -186,18 +201,25 @@
       "type": "Feature",
       "id": "node/3849702901",
       "properties": {
-        "timestamp": "2015-11-21T19:31:36Z",
-        "version": 1,
-        "changeset": 35495439,
+        "timestamp": "2025-03-20T13:39:36Z",
+        "version": 2,
+        "changeset": 163863780,
+        "addr:city": "Porto da Folha",
+        "addr:housenumber": "1486",
+        "addr:postcode": "49800-000",
+        "addr:street": "Avenida Minervino Farias Lima",
+        "addr:suburb": "Centro",
         "amenity": "school",
         "name": "Escola Estadual Coronel Maynard Gomes",
+        "operator": "Secretaria de Educação do Estado de Sergipe",
+        "operator:type": "public",
         "id": "node/3849702901"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -37.2760851,
-          -9.9197124
+          -37.2760587,
+          -9.919667
         ]
       }
     },
@@ -224,18 +246,25 @@
       "type": "Feature",
       "id": "node/3849702903",
       "properties": {
-        "timestamp": "2015-11-21T19:31:36Z",
-        "version": 1,
-        "changeset": 35495439,
+        "timestamp": "2025-03-20T13:39:36Z",
+        "version": 3,
+        "changeset": 163863780,
+        "addr:city": "Porto da Folha",
+        "addr:housenumber": "164",
+        "addr:postcode": "49800-000",
+        "addr:street": "Rua Coronel João Fernando de Brito",
+        "addr:suburb": "Centro",
         "amenity": "school",
-        "name": "Grupo escola Moanl Rodrigues Velho",
+        "name": "Escola Municipal Manoel Rodrigues Velho",
+        "operator": "Município de Porto da Folha",
+        "operator:type": "public",
         "id": "node/3849702903"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -37.2851609,
-          -9.913986
+          -37.2850021,
+          -9.914021
         ]
       }
     },
@@ -258,6 +287,132 @@
         "coordinates": [
           -37.2964848,
           -9.8330957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12685348515",
+      "properties": {
+        "timestamp": "2025-03-20T18:29:36Z",
+        "version": 1,
+        "changeset": 163875950,
+        "addr:city": "Porto da Folha",
+        "addr:postcode": "49800-000",
+        "addr:street": "Rua Principal",
+        "addr:suburb": "Niterói",
+        "amenity": "school",
+        "name": "Escola Municipal Professora Estela Rodrigues Lima de Sá",
+        "operator": "Município de Porto da Folha",
+        "operator:type": "public",
+        "id": "node/12685348515"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.4340729,
+          -9.7634456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12685348524",
+      "properties": {
+        "timestamp": "2025-03-20T18:29:36Z",
+        "version": 1,
+        "changeset": 163875950,
+        "addr:city": "Porto da Folha",
+        "addr:housenumber": "2",
+        "addr:postcode": "49800-000",
+        "addr:street": "Praça da Matriz",
+        "addr:suburb": "Centro",
+        "amenity": "school",
+        "name": "Escola Municipal Professor José Francisco da Silva",
+        "operator": "Município de Porto da Folha",
+        "operator:type": "public",
+        "id": "node/12685348524"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.4307219,
+          -9.9806557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12685348537",
+      "properties": {
+        "timestamp": "2025-03-20T18:29:36Z",
+        "version": 1,
+        "changeset": 163875950,
+        "addr:city": "Porto da Folha",
+        "addr:district": "Lagoa do Rancho",
+        "addr:housenumber": "76",
+        "addr:postcode": "49800-000",
+        "addr:street": "Avenida João Américo",
+        "addr:suburb": "Centro",
+        "amenity": "school",
+        "name": "Colégio Estadual Professora Clemência da Silva",
+        "operator": "Secretaria de Educação do Estado de Sergipe",
+        "operator:type": "public",
+        "id": "node/12685348537"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.4331101,
+          -9.983407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12685348558",
+      "properties": {
+        "timestamp": "2025-03-20T18:29:36Z",
+        "version": 1,
+        "changeset": 163875950,
+        "addr:city": "Porto da Folha",
+        "addr:postcode": "49800-000",
+        "addr:suburb": "Campinas",
+        "amenity": "school",
+        "name": "Escola Municipal Tibúrcio Lúcio Pó",
+        "operator": "Município de Porto da Folha",
+        "operator:type": "public",
+        "id": "node/12685348558"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.5202491,
+          -9.998338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12685355977",
+      "properties": {
+        "timestamp": "2025-03-20T18:29:36Z",
+        "version": 1,
+        "changeset": 163875950,
+        "addr:city": "Porto da Folha",
+        "addr:postcode": "49800-000",
+        "addr:suburb": "Esperança",
+        "amenity": "school",
+        "name": "Escola Municipal José de Oliveira Rezende",
+        "operator": "Município de Porto da Folha",
+        "operator:type": "public",
+        "id": "node/12685355977"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.4739134,
+          -9.8597937
         ]
       }
     }

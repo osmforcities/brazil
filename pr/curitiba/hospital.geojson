@@ -1551,68 +1551,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/136502273",
-      "properties": {
-        "timestamp": "2025-03-18T18:17:11Z",
-        "version": 8,
-        "changeset": 163787109,
-        "addr:city": "Curitiba",
-        "addr:housenumber": "401",
-        "addr:street": "Avenida Vicente Machado",
-        "amenity": "hospital",
-        "building": "hospital",
-        "emergency": "yes",
-        "healthcare": "hospital",
-        "name": "Hospital São Vicente",
-        "website": "https://www.funef.com.br/",
-        "id": "way/136502273"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -49.2795687,
-              -25.4351891
-            ],
-            [
-              -49.2801619,
-              -25.4346452
-            ],
-            [
-              -49.2804727,
-              -25.4349216
-            ],
-            [
-              -49.280252,
-              -25.435124
-            ],
-            [
-              -49.2802846,
-              -25.435153
-            ],
-            [
-              -49.2801003,
-              -25.435322
-            ],
-            [
-              -49.2799583,
-              -25.4351957
-            ],
-            [
-              -49.2797701,
-              -25.4353682
-            ],
-            [
-              -49.2795687,
-              -25.4351891
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/164417901",
       "properties": {
         "timestamp": "2019-08-30T16:55:25Z",
@@ -3724,10 +3662,11 @@
       "type": "Feature",
       "id": "way/513347962",
       "properties": {
-        "timestamp": "2017-08-06T16:37:45Z",
-        "version": 1,
-        "changeset": 50889844,
+        "timestamp": "2025-03-20T11:22:28Z",
+        "version": 2,
+        "changeset": 163857920,
         "amenity": "hospital",
+        "healthcare": "hospital",
         "name": "Hospital São Vicente - Estacionamento Médicos",
         "id": "way/513347962"
       },
@@ -4906,6 +4845,62 @@
             [
               -49.2843616,
               -25.4222712
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1369612823",
+      "properties": {
+        "timestamp": "2025-03-20T11:22:28Z",
+        "version": 1,
+        "changeset": 163857920,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hospital São Vicente",
+        "id": "way/1369612823"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -49.2801548,
+              -25.4346356
+            ],
+            [
+              -49.2808635,
+              -25.4349084
+            ],
+            [
+              -49.2807902,
+              -25.4349755
+            ],
+            [
+              -49.2804534,
+              -25.4352839
+            ],
+            [
+              -49.2800252,
+              -25.4356759
+            ],
+            [
+              -49.2796435,
+              -25.4353636
+            ],
+            [
+              -49.2796636,
+              -25.4353458
+            ],
+            [
+              -49.2795116,
+              -25.435206
+            ],
+            [
+              -49.2801548,
+              -25.4346356
             ]
           ]
         ]

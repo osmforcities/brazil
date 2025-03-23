@@ -50,6 +50,67 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1361037427",
+      "properties": {
+        "timestamp": "2025-03-21T20:27:17Z",
+        "version": 2,
+        "changeset": 163923422,
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "vaccination;community",
+        "name": "Posto de Saúde",
+        "id": "way/1361037427"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.4943609,
+              -12.446967
+            ],
+            [
+              -41.4942724,
+              -12.4470141
+            ],
+            [
+              -41.4941773,
+              -12.446844
+            ],
+            [
+              -41.4942658,
+              -12.4467969
+            ],
+            [
+              -41.4943609,
+              -12.446967
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12688602751",
+      "properties": {
+        "timestamp": "2025-03-21T20:27:17Z",
+        "version": 1,
+        "changeset": 163923422,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "id": "node/12688602751"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.4942607,
+          -12.4469167
+        ]
+      }
     }
   ]
 }

@@ -70,9 +70,9 @@
       "type": "Feature",
       "id": "way/258146282",
       "properties": {
-        "timestamp": "2021-01-27T01:28:02Z",
-        "version": 6,
-        "changeset": 98189635,
+        "timestamp": "2025-03-21T07:19:02Z",
+        "version": 7,
+        "changeset": 163891900,
         "amenity": "hospital",
         "healthcare": "hospital",
         "name": "Hospital Metropolitano - Unimed",
@@ -85,6 +85,10 @@
             [
               -42.6025977,
               -19.5278415
+            ],
+            [
+              -42.6027119,
+              -19.5277602
             ],
             [
               -42.604543,
@@ -456,6 +460,25 @@
         "coordinates": [
           -42.615667,
           -19.4998722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12686437905",
+      "properties": {
+        "timestamp": "2025-03-21T07:19:02Z",
+        "version": 1,
+        "changeset": 163891900,
+        "access": "permissive",
+        "barrier": "gate",
+        "id": "node/12686437905"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.6027119,
+          -19.5277602
         ]
       }
     }

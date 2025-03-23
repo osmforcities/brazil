@@ -312,6 +312,48 @@
     },
     {
       "type": "Feature",
+      "id": "way/176409073",
+      "properties": {
+        "timestamp": "2025-03-21T15:48:31Z",
+        "version": 4,
+        "changeset": 163912451,
+        "amenity": "pharmacy",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Araújo",
+        "source": "Bing",
+        "id": "way/176409073"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.962816,
+              -19.9071838
+            ],
+            [
+              -43.962912,
+              -19.9070763
+            ],
+            [
+              -43.9630696,
+              -19.9071838
+            ],
+            [
+              -43.9629931,
+              -19.9072941
+            ],
+            [
+              -43.962816,
+              -19.9071838
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/219435143",
       "properties": {
         "timestamp": "2024-09-12T01:03:36Z",
@@ -3056,9 +3098,9 @@
       "type": "Feature",
       "id": "node/1561391356",
       "properties": {
-        "timestamp": "2021-03-24T19:16:51Z",
-        "version": 2,
-        "changeset": 101669878,
+        "timestamp": "2025-03-21T15:02:28Z",
+        "version": 3,
+        "changeset": 163910479,
         "amenity": "pharmacy",
         "healthcare": "pharmacy",
         "id": "node/1561391356"
@@ -3066,8 +3108,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -43.9374471,
-          -19.9247747
+          -43.9375327,
+          -19.9248065
         ]
       }
     },
@@ -5053,6 +5095,26 @@
         "coordinates": [
           -43.9253137,
           -19.9353431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12688018605",
+      "properties": {
+        "timestamp": "2025-03-21T15:47:03Z",
+        "version": 1,
+        "changeset": 163912451,
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Araújo",
+        "id": "node/12688018605"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.95963,
+          -19.9079704
         ]
       }
     }

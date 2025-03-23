@@ -104,6 +104,60 @@
     },
     {
       "type": "Feature",
+      "id": "way/1370098278",
+      "properties": {
+        "timestamp": "2025-03-21T20:19:57Z",
+        "version": 1,
+        "changeset": 163923229,
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "covered": "no",
+        "fee": "no",
+        "id": "way/1370098278"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.1133258,
+              -22.8835051
+            ],
+            [
+              -43.1132981,
+              -22.8835121
+            ],
+            [
+              -43.1132866,
+              -22.883515
+            ],
+            [
+              -43.1132751,
+              -22.8835178
+            ],
+            [
+              -43.1131326,
+              -22.8835537
+            ],
+            [
+              -43.1131175,
+              -22.8835019
+            ],
+            [
+              -43.1133111,
+              -22.8834543
+            ],
+            [
+              -43.1133258,
+              -22.8835051
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/1814465619",
       "properties": {
         "timestamp": "2023-07-27T14:28:37Z",
@@ -10956,6 +11010,24 @@
         "coordinates": [
           -43.0717887,
           -22.936303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12688547596",
+      "properties": {
+        "timestamp": "2025-03-21T20:19:57Z",
+        "version": 1,
+        "changeset": 163923229,
+        "barrier": "bollard",
+        "id": "node/12688547596"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1132866,
+          -22.883515
         ]
       }
     }

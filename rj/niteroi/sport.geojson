@@ -237,6 +237,119 @@
     },
     {
       "type": "Feature",
+      "id": "relation/9340326",
+      "properties": {
+        "timestamp": "2025-03-21T19:11:38Z",
+        "version": 4,
+        "changeset": 163921157,
+        "alt_name": "Praça Associação de Moradores do Bairro Peixoto",
+        "blind": "limited",
+        "fitness_station": "parallel_bars",
+        "leisure": "fitness_station",
+        "name": "Praça do Bairro Peixoto",
+        "sport": "fitness",
+        "type": "multipolygon",
+        "wheelchair": "yes",
+        "id": "relation/9340326"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.0262313,
+              -22.9550442
+            ],
+            [
+              -43.0262386,
+              -22.9551325
+            ],
+            [
+              -43.0262429,
+              -22.9551851
+            ],
+            [
+              -43.026264,
+              -22.9555778
+            ],
+            [
+              -43.026252,
+              -22.9555951
+            ],
+            [
+              -43.0262348,
+              -22.9556082
+            ],
+            [
+              -43.0262141,
+              -22.9556158
+            ],
+            [
+              -43.0261919,
+              -22.9556173
+            ],
+            [
+              -43.0256662,
+              -22.9552839
+            ],
+            [
+              -43.0256474,
+              -22.955251
+            ],
+            [
+              -43.02564,
+              -22.9552145
+            ],
+            [
+              -43.0256447,
+              -22.9551777
+            ],
+            [
+              -43.0258532,
+              -22.9548853
+            ],
+            [
+              -43.0260551,
+              -22.9546022
+            ],
+            [
+              -43.0260773,
+              -22.9545902
+            ],
+            [
+              -43.0261026,
+              -22.9545854
+            ],
+            [
+              -43.0261282,
+              -22.9545884
+            ],
+            [
+              -43.0261514,
+              -22.9545988
+            ],
+            [
+              -43.0261697,
+              -22.9546155
+            ],
+            [
+              -43.0261812,
+              -22.9546368
+            ],
+            [
+              -43.0262042,
+              -22.9548126
+            ],
+            [
+              -43.0262313,
+              -22.9550442
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/27605024",
       "properties": {
         "timestamp": "2024-12-29T15:56:53Z",
@@ -9772,9 +9885,9 @@
       "type": "Feature",
       "id": "way/1168128648",
       "properties": {
-        "timestamp": "2023-05-02T20:05:57Z",
-        "version": 1,
-        "changeset": 135631931,
+        "timestamp": "2025-03-21T19:11:38Z",
+        "version": 2,
+        "changeset": 163921157,
         "access": "yes",
         "leisure": "pitch",
         "lit": "yes",
@@ -9792,6 +9905,10 @@
               -22.9552704
             ],
             [
+              -43.0260226,
+              -22.955289
+            ],
+            [
               -43.0261564,
               -22.9553181
             ],
@@ -9802,6 +9919,10 @@
             [
               -43.025897,
               -22.9553619
+            ],
+            [
+              -43.0259311,
+              -22.9552861
             ],
             [
               -43.0259381,
@@ -11315,6 +11436,114 @@
     },
     {
       "type": "Feature",
+      "id": "way/29162260",
+      "properties": {
+        "timestamp": "2025-03-21T19:11:38Z",
+        "version": 6,
+        "changeset": 163921157,
+        "blind": "yes",
+        "footway": "sidewalk",
+        "ford": "no",
+        "highway": "footway",
+        "wheelchair": "yes",
+        "id": "way/29162260"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.0262313,
+            -22.9550442
+          ],
+          [
+            -43.0262042,
+            -22.9548126
+          ],
+          [
+            -43.0261812,
+            -22.9546368
+          ],
+          [
+            -43.0261697,
+            -22.9546155
+          ],
+          [
+            -43.0261514,
+            -22.9545988
+          ],
+          [
+            -43.0261282,
+            -22.9545884
+          ],
+          [
+            -43.0261026,
+            -22.9545854
+          ],
+          [
+            -43.0260773,
+            -22.9545902
+          ],
+          [
+            -43.0260551,
+            -22.9546022
+          ],
+          [
+            -43.0258532,
+            -22.9548853
+          ],
+          [
+            -43.0256447,
+            -22.9551777
+          ],
+          [
+            -43.02564,
+            -22.9552145
+          ],
+          [
+            -43.0256474,
+            -22.955251
+          ],
+          [
+            -43.0256662,
+            -22.9552839
+          ],
+          [
+            -43.0261919,
+            -22.9556173
+          ],
+          [
+            -43.0262141,
+            -22.9556158
+          ],
+          [
+            -43.0262348,
+            -22.9556082
+          ],
+          [
+            -43.026252,
+            -22.9555951
+          ],
+          [
+            -43.026264,
+            -22.9555778
+          ],
+          [
+            -43.0262429,
+            -22.9551851
+          ],
+          [
+            -43.0262386,
+            -22.9551325
+          ],
+          [
+            -43.0262313,
+            -22.9550442
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/202272654",
       "properties": {
         "timestamp": "2013-01-21T12:40:33Z",
@@ -12555,6 +12784,115 @@
         "coordinates": [
           -43.0982388,
           -22.9318586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12688453085",
+      "properties": {
+        "timestamp": "2025-03-21T19:11:38Z",
+        "version": 1,
+        "changeset": 163921157,
+        "access": "yes",
+        "hoops": "1",
+        "leisure": "playground",
+        "lit": "yes",
+        "sport": "basketball",
+        "surface": "asphalt",
+        "id": "node/12688453085"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.0258275,
+          -22.9551975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12688453086",
+      "properties": {
+        "timestamp": "2025-03-21T19:11:38Z",
+        "version": 1,
+        "changeset": 163921157,
+        "blind": "limited",
+        "fitness_station": "rings",
+        "leisure": "fitness_station",
+        "sport": "fitness",
+        "wheelchair": "limited",
+        "id": "node/12688453086"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.0258541,
+          -22.9549598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12688453087",
+      "properties": {
+        "timestamp": "2025-03-21T19:11:38Z",
+        "version": 1,
+        "changeset": 163921157,
+        "blind": "limited",
+        "fitness_station": "hyperextension",
+        "leisure": "fitness_station",
+        "sport": "fitness",
+        "wheelchair": "limited",
+        "id": "node/12688453087"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.0258565,
+          -22.9549862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12688453088",
+      "properties": {
+        "timestamp": "2025-03-21T19:11:38Z",
+        "version": 1,
+        "changeset": 163921157,
+        "blind": "limited",
+        "fitness_station": "parallel_bars",
+        "leisure": "fitness_station",
+        "sport": "fitness",
+        "wheelchair": "limited",
+        "id": "node/12688453088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.0258751,
+          -22.9549657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12688453089",
+      "properties": {
+        "timestamp": "2025-03-21T19:11:38Z",
+        "version": 1,
+        "changeset": 163921157,
+        "fitness_station": "elliptical_trainer",
+        "leisure": "fitness_station",
+        "sport": "fitness",
+        "id": "node/12688453089"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.0258751,
+          -22.9549888
         ]
       }
     }

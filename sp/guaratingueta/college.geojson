@@ -186,11 +186,62 @@
     },
     {
       "type": "Feature",
+      "id": "way/322580014",
+      "properties": {
+        "timestamp": "2025-03-21T20:42:18Z",
+        "version": 4,
+        "changeset": 163923858,
+        "addr:city": "Guaratinguetá",
+        "addr:housenumber": "1501",
+        "addr:postcode": "12517-475",
+        "addr:street": "Avenida João Rodrigues Alckmin",
+        "addr:suburb": "Jardim Esperança",
+        "amenity": "college",
+        "name": "Faculdade de Tecnologia de Guaratinguetá",
+        "operator": "Centro Paula Souza",
+        "operator:type": "public",
+        "operator:wikidata": "Q52637715",
+        "phone": "+55 12 3126 2643",
+        "source": "http://fatecguaratingueta.edu.br/",
+        "website": "http://fatecguaratingueta.edu.br/",
+        "wikipedia": "pt:Faculdade de Tecnologia de Guaratinguetá",
+        "id": "way/322580014"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -45.1816616,
+              -22.7862695
+            ],
+            [
+              -45.1808518,
+              -22.7863937
+            ],
+            [
+              -45.180563,
+              -22.7847935
+            ],
+            [
+              -45.1813728,
+              -22.7846692
+            ],
+            [
+              -45.1816616,
+              -22.7862695
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/544241091",
       "properties": {
-        "timestamp": "2020-12-12T18:23:42Z",
-        "version": 5,
-        "changeset": 95732403,
+        "timestamp": "2025-03-21T20:42:18Z",
+        "version": 6,
+        "changeset": 163923858,
         "addr:housenumber": "350",
         "addr:postcode": "12515-160",
         "addr:street": "Rua Alfonso Giannico",
@@ -199,7 +250,8 @@
         "contact:phone": "+55 12 3125 3821",
         "name": "Etec Professor Alfredo de Barros Santos",
         "operator": "Centro Paula Souza",
-        "operator:type": "government",
+        "operator:type": "public",
+        "operator:wikidata": "Q52637715",
         "ref": "INEP-35012658",
         "website": "https://eteabs.com.br/",
         "id": "way/544241091"

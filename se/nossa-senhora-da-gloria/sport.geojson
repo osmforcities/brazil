@@ -166,15 +166,16 @@
       "type": "Feature",
       "id": "way/1366286912",
       "properties": {
-        "timestamp": "2025-03-11T18:32:57Z",
-        "version": 1,
-        "changeset": 163497723,
+        "timestamp": "2025-03-22T12:24:22Z",
+        "version": 2,
+        "changeset": 163945103,
         "addr:city": "Nossa Senhora da Glória",
         "addr:housenumber": "4255",
         "addr:postcode": "49680-000",
         "addr:street": "Avenida Vinte e Seis de Setembro",
         "addr:suburb": "Silos",
-        "brand": "AABB",
+        "brand": "Associação Atlética Banco do Brasil",
+        "brand:short": "AABB",
         "brand:wikidata": "Q9633503",
         "leisure": "sports_centre",
         "name": "Associação Atlética Banco do Brasil",
@@ -341,6 +342,90 @@
             [
               -37.5858009,
               -10.2070724
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1370313398",
+      "properties": {
+        "timestamp": "2025-03-22T12:24:22Z",
+        "version": 1,
+        "changeset": 163945103,
+        "access": "yes",
+        "leisure": "pitch",
+        "lit": "yes",
+        "name": "Quadra Municipal Joaquim Teles dos Santos",
+        "sport": "multi",
+        "surface": "concrete",
+        "id": "way/1370313398"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -37.3766659,
+              -10.1988359
+            ],
+            [
+              -37.3764288,
+              -10.1988873
+            ],
+            [
+              -37.376353,
+              -10.1985488
+            ],
+            [
+              -37.3765901,
+              -10.1984974
+            ],
+            [
+              -37.3766659,
+              -10.1988359
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1370313399",
+      "properties": {
+        "timestamp": "2025-03-22T12:24:22Z",
+        "version": 1,
+        "changeset": 163945103,
+        "access": "yes",
+        "leisure": "pitch",
+        "sport": "soccer",
+        "surface": "grass",
+        "id": "way/1370313399"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -37.3764442,
+              -10.1982244
+            ],
+            [
+              -37.3758624,
+              -10.1984021
+            ],
+            [
+              -37.3756296,
+              -10.1976636
+            ],
+            [
+              -37.3762114,
+              -10.1974859
+            ],
+            [
+              -37.3764442,
+              -10.1982244
             ]
           ]
         ]

@@ -834,52 +834,16 @@
     },
     {
       "type": "Feature",
-      "id": "way/1123522236",
-      "properties": {
-        "timestamp": "2023-01-06T06:47:00Z",
-        "version": 2,
-        "changeset": 130934233,
-        "amenity": "university",
-        "name": "Faculdade FAEL de Macapá",
-        "phone": "+55 0800 642 6002",
-        "website": "httpa://fael.edu.br/",
-        "id": "way/1123522236"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -51.0575357,
-              0.0345895
-            ],
-            [
-              -51.0575611,
-              0.0342081
-            ],
-            [
-              -51.0574187,
-              0.0342028
-            ],
-            [
-              -51.0573938,
-              0.0345832
-            ],
-            [
-              -51.0575357,
-              0.0345895
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/1123522237",
       "properties": {
-        "timestamp": "2022-12-20T06:04:13Z",
-        "version": 1,
-        "changeset": 130273768,
+        "timestamp": "2025-03-24T07:24:04Z",
+        "version": 2,
+        "changeset": 164016966,
+        "addr:city": "Macapá",
+        "addr:housenumber": "958",
+        "addr:postcode": "68900-030",
+        "addr:street": "Avenida Padre Júlio Maria Lombaerd",
+        "addr:suburb": "Central",
         "amenity": "university",
         "name": "Uninter Macapá",
         "id": "way/1123522237"
@@ -891,6 +855,14 @@
             [
               -51.0576418,
               0.0351129
+            ],
+            [
+              -51.0576468,
+              0.0350341
+            ],
+            [
+              -51.0576591,
+              0.0348408
             ],
             [
               -51.0576638,
@@ -1240,6 +1212,31 @@
         "coordinates": [
           -51.0805393,
           -0.0083241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12695954983",
+      "properties": {
+        "timestamp": "2025-03-24T07:24:04Z",
+        "version": 1,
+        "changeset": 164016966,
+        "addr:city": "Macapá",
+        "addr:housenumber": "937",
+        "addr:postcode": "68900-030",
+        "addr:street": "Avenida Padre Júlio Maria Lombaerd",
+        "addr:suburb": "Central",
+        "amenity": "university",
+        "name": "UNIFAEL - Macapá",
+        "website": "https://unifael.edu,br/",
+        "id": "node/12695954983"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.0574776,
+          0.0345358
         ]
       }
     }

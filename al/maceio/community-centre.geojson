@@ -898,6 +898,58 @@
     },
     {
       "type": "Feature",
+      "id": "way/1371000922",
+      "properties": {
+        "timestamp": "2025-03-24T23:59:09Z",
+        "version": 1,
+        "changeset": 164055653,
+        "addr:city": "Maceió",
+        "addr:housenumber": "110",
+        "addr:postcode": "57022-230",
+        "addr:street": "Rua Melo Póvoas",
+        "addr:suburb": "Jaraguá",
+        "amenity": "community_centre",
+        "building": "yes",
+        "community_centre": "polo_tecnologico",
+        "layer": "-1",
+        "name": "Centro de Inovação do Polo Tecnológico",
+        "operator": "Secretaria de Estado da Ciência, da Tecnologia e da Inovação (Secti)",
+        "operator:type": "government",
+        "short_name": "CIPT",
+        "source": "https://alagoas.al.gov.br/noticia/nesta-quinta-feira-21-governo-de-alagoas-inaugura-centro-de-inovacao-do-polo-de-tecnologia;https://alagoas.al.gov.br/noticia/centro-de-inovacao-do-jaragua-oferece-a-empreendedores-espacos-gratuitos-de-trabalho;https://ala",
+        "wheelchair": "yes",
+        "id": "way/1371000922"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -35.7217144,
+              -9.6691525
+            ],
+            [
+              -35.7215683,
+              -9.6698228
+            ],
+            [
+              -35.7208669,
+              -9.6696642
+            ],
+            [
+              -35.7210184,
+              -9.6689939
+            ],
+            [
+              -35.7217144,
+              -9.6691525
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/812519816",
       "properties": {
         "timestamp": "2014-03-19T04:58:06Z",
@@ -998,6 +1050,39 @@
         "coordinates": [
           -35.7432736,
           -9.6476964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12697584631",
+      "properties": {
+        "timestamp": "2025-03-24T23:37:04Z",
+        "version": 2,
+        "changeset": 164055339,
+        "addr:city": "Maceió",
+        "addr:housenumber": "104",
+        "addr:postcode": "57022-230",
+        "addr:street": "Rua Melo Póvoas",
+        "addr:suburb": "Jaraguá",
+        "amenity": "community_centre",
+        "community_centre": "centro_de_pesquisa",
+        "description": "6.130 m² de área construída:\n42 salas;\n3 salas de reunião, uma por andar;\nauditório para 330 pessoas;\n92 vagas de estacionamento;\n2 galpões multiuso;\nespaços interativos;\n6 salas destinadas a parceiros;\n4 salas de informática; e\n2 de treinamento.",
+        "level": "3",
+        "name": "Centro de Inovação do Jaraguá",
+        "opening_hours": "24/7",
+        "operator": "Secretaria da Ciência, da Tecnologia e da Inovação (Secti)",
+        "operator:type": "government",
+        "short_name": "CIPT",
+        "source": "https://alagoas.al.gov.br/noticia/nesta-quinta-feira-21-governo-de-alagoas-inaugura-centro-de-inovacao-do-polo-de-tecnologia",
+        "wheelchair": "yes",
+        "id": "node/12697584631"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.7213175,
+          -9.6694888
         ]
       }
     }

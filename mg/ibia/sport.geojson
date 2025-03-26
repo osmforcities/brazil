@@ -248,12 +248,13 @@
       "type": "Feature",
       "id": "way/313505210",
       "properties": {
-        "timestamp": "2022-07-25T17:41:19Z",
-        "version": 4,
-        "changeset": 124062722,
+        "timestamp": "2025-03-24T11:29:13Z",
+        "version": 5,
+        "changeset": 164027151,
         "landuse": "recreation_ground",
+        "leisure": "pitch",
         "name": "Quadra de Esportes Gameleiras",
-        "sport": "soccer",
+        "sport": "futsal;soccer;basketball;volleyball;multi",
         "id": "way/313505210"
       },
       "geometry": {
@@ -983,6 +984,54 @@
             [
               -46.5472965,
               -19.4912853
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1370844070",
+      "properties": {
+        "timestamp": "2025-03-24T11:36:03Z",
+        "version": 1,
+        "changeset": 164027525,
+        "addr:city": "ibiá",
+        "addr:postcode": "38950-000",
+        "addr:street": "Praça Das Gameleiras",
+        "addr:suburb": "GAMELEIERAS",
+        "blind": "yes",
+        "building": "outbuilding",
+        "leisure": "fitness_centre",
+        "name": "Academia ao ar livre Gameleiras",
+        "opening_hours": "24/7",
+        "sport": "fitness",
+        "wheelchair": "yes",
+        "id": "way/1370844070"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.5521198,
+              -19.4921823
+            ],
+            [
+              -46.5521332,
+              -19.4923108
+            ],
+            [
+              -46.5520842,
+              -19.4923154
+            ],
+            [
+              -46.5520717,
+              -19.4921866
+            ],
+            [
+              -46.5521198,
+              -19.4921823
             ]
           ]
         ]

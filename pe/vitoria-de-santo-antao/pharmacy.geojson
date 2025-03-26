@@ -112,46 +112,46 @@
     },
     {
       "type": "Feature",
-      "id": "way/637149359",
+      "id": "way/637149358",
       "properties": {
-        "timestamp": "2018-12-08T22:22:03Z",
-        "version": 2,
-        "changeset": 65302461,
+        "timestamp": "2025-03-24T14:04:06Z",
+        "version": 3,
+        "changeset": 164034394,
         "addr:city": "Vitória de Santo Antão",
+        "addr:housenumber": "345",
         "addr:street": "Avenida Mariana Amália",
         "addr:suburb": "Centro",
         "amenity": "pharmacy",
         "building": "yes",
-        "dispensing": "yes",
         "healthcare": "pharmacy",
         "name": "Farmácia Nossa Senhora de Fátima",
-        "opening_hours": "24/7",
-        "phone": "+55 81 3523-4500",
-        "id": "way/637149359"
+        "opening_hours": "Mo-Fr 08:00-18:00",
+        "phone": "+55 81 3523-2940",
+        "id": "way/637149358"
       },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              -35.2955884,
-              -8.1192551
+              -35.2957214,
+              -8.1194874
             ],
             [
-              -35.295772,
-              -8.1193233
+              -35.2956865,
+              -8.1195796
             ],
             [
-              -35.2957128,
-              -8.1194795
+              -35.2954677,
+              -8.1194984
             ],
             [
-              -35.2955292,
-              -8.1194114
+              -35.2955026,
+              -8.1194063
             ],
             [
-              -35.2955884,
-              -8.1192551
+              -35.2957214,
+              -8.1194874
             ]
           ]
         ]
@@ -243,6 +243,99 @@
             [
               -35.2845361,
               -8.1141354
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/652997532",
+      "properties": {
+        "timestamp": "2025-03-24T11:53:57Z",
+        "version": 2,
+        "changeset": 164028342,
+        "addr:city": "Vitória de Santo Antão",
+        "addr:housenumber": "95",
+        "addr:street": "Rua Ambrosio Machado",
+        "addr:suburb": "Centro",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Drogaria Vitoria",
+        "id": "way/652997532"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -35.296449,
+              -8.1193237
+            ],
+            [
+              -35.2965108,
+              -8.1193386
+            ],
+            [
+              -35.2964745,
+              -8.1194681
+            ],
+            [
+              -35.296413,
+              -8.1194478
+            ],
+            [
+              -35.296449,
+              -8.1193237
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/652997540",
+      "properties": {
+        "timestamp": "2025-03-24T11:53:57Z",
+        "version": 2,
+        "changeset": 164028342,
+        "addr:city": "Vitória de Santo Antão",
+        "addr:street": "Rua Primitivo de Miranda",
+        "addr:suburb": "Centro",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Farmacia Diariamente",
+        "id": "way/652997540"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -35.2958404,
+              -8.1200267
+            ],
+            [
+              -35.2959496,
+              -8.1200664
+            ],
+            [
+              -35.2959575,
+              -8.1200693
+            ],
+            [
+              -35.2959356,
+              -8.1201282
+            ],
+            [
+              -35.2958185,
+              -8.1200856
+            ],
+            [
+              -35.2958404,
+              -8.1200267
             ]
           ]
         ]

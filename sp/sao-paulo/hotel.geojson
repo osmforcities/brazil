@@ -19845,6 +19845,112 @@
     },
     {
       "type": "Feature",
+      "id": "way/1370988007",
+      "properties": {
+        "timestamp": "2025-03-24T22:14:15Z",
+        "version": 1,
+        "changeset": 164053742,
+        "addr:city": "Sao Paulo",
+        "addr:country": "BR",
+        "addr:housenumber": "508",
+        "addr:postcode": "01323-000",
+        "addr:street": "Rua Maestro Cardim",
+        "addr:suburb": "Bela Vista",
+        "contact:email": "gerencia@cardimplaza.com.br;cardim.plaza@globo.com",
+        "contact:fax": "+55 11 3253-0867",
+        "contact:phone": "+55 11 3287-1826;+55 11 3266-4166;+55 11 3251-1566",
+        "contact:website": "http://www.cardimplaza.com.br/",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Cardim Plaza",
+        "opening_hours": "24/7",
+        "stars": "3",
+        "tourism": "hotel",
+        "id": "way/1370988007"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.6418232,
+              -23.5652457
+            ],
+            [
+              -46.6418555,
+              -23.5653747
+            ],
+            [
+              -46.6418851,
+              -23.5654932
+            ],
+            [
+              -46.641769,
+              -23.5655208
+            ],
+            [
+              -46.6417356,
+              -23.5655038
+            ],
+            [
+              -46.641691,
+              -23.5653795
+            ],
+            [
+              -46.6416573,
+              -23.5652855
+            ],
+            [
+              -46.6418232,
+              -23.5652457
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1370988008",
+      "properties": {
+        "timestamp": "2025-03-24T22:14:15Z",
+        "version": 1,
+        "changeset": 164053742,
+        "addr:housenumber": "130",
+        "addr:street": "Rua Pio XII",
+        "name": "Rio Minho",
+        "tourism": "hotel",
+        "id": "way/1370988008"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.6419356,
+              -23.5653565
+            ],
+            [
+              -46.6419666,
+              -23.5654737
+            ],
+            [
+              -46.6418851,
+              -23.5654932
+            ],
+            [
+              -46.6418555,
+              -23.5653747
+            ],
+            [
+              -46.6419356,
+              -23.5653565
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/905643820",
       "properties": {
         "timestamp": "2021-02-10T02:03:22Z",
@@ -21893,27 +21999,6 @@
         "coordinates": [
           -46.6548557,
           -23.5188502
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/4359583389",
-      "properties": {
-        "timestamp": "2016-08-21T04:11:36Z",
-        "version": 1,
-        "changeset": 41586286,
-        "addr:housenumber": "130",
-        "addr:street": "Rua Pio XII",
-        "name": "Rio Minho",
-        "tourism": "hotel",
-        "id": "node/4359583389"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -46.6418465,
-          -23.5655153
         ]
       }
     },
@@ -24622,39 +24707,6 @@
         "coordinates": [
           -46.600596,
           -23.5383193
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/5265007030",
-      "properties": {
-        "timestamp": "2017-12-10T21:35:00Z",
-        "version": 2,
-        "changeset": 54523267,
-        "addr:city": "Sao Paulo",
-        "addr:country": "BR",
-        "addr:housenumber": "508",
-        "addr:postcode": "01323-000",
-        "addr:street": "Rua Maestro Cardim",
-        "addr:suburb": "Bela Vista",
-        "contact:email": "gerencia@cardimplaza.com.br;cardim.plaza@globo.com",
-        "contact:fax": "+55 11 3253-0867",
-        "contact:phone": "+55 11 3287-1826;+55 11 3266-4166;+55 11 3251-1566",
-        "contact:website": "http://www.cardimplaza.com.br/",
-        "internet_access": "wlan",
-        "internet_access:fee": "no",
-        "name": "Cardim Plaza",
-        "opening_hours": "24/7",
-        "stars": "3",
-        "tourism": "hotel",
-        "id": "node/5265007030"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -46.6417125,
-          -23.5653181
         ]
       }
     },

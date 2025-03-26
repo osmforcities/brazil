@@ -89,9 +89,13 @@
       "type": "Feature",
       "id": "way/636629447",
       "properties": {
-        "timestamp": "2025-01-04T12:01:52Z",
-        "version": 6,
-        "changeset": 160982647,
+        "timestamp": "2025-03-24T11:53:57Z",
+        "version": 8,
+        "changeset": 164028342,
+        "addr:city": "Vitória de Santo Antão",
+        "addr:postcode": "55602-230",
+        "addr:street": "Rua Ambrosio Machado",
+        "addr:suburb": "Livramento",
         "amenity": "school",
         "name": "Colégio Municipal Três de Agosto",
         "id": "way/636629447"
@@ -136,11 +140,15 @@
       "type": "Feature",
       "id": "way/653663314",
       "properties": {
-        "timestamp": "2025-01-19T12:02:53Z",
-        "version": 4,
-        "changeset": 161521429,
+        "timestamp": "2025-03-24T14:04:06Z",
+        "version": 5,
+        "changeset": 164034394,
         "addr:city": "Vitória de Santo Antão",
+        "addr:housenumber": "100",
+        "addr:street": "Rua Anísio Costa",
+        "addr:suburb": "Livramento",
         "amenity": "school",
+        "name": "Centro Educacional Josefa Álvares",
         "id": "way/653663314"
       },
       "geometry": {
@@ -177,12 +185,58 @@
     },
     {
       "type": "Feature",
+      "id": "way/653724965",
+      "properties": {
+        "timestamp": "2025-03-24T14:07:49Z",
+        "version": 3,
+        "changeset": 164034581,
+        "addr:city": "Vitória de Santo Antão",
+        "addr:housenumber": "125",
+        "addr:street": "Rua Primitivo de Miranda",
+        "addr:suburb": "Livramento",
+        "amenity": "school",
+        "building": "yes",
+        "name": "Colégio Projeção",
+        "phone": "+55 (81) 3523-1037",
+        "id": "way/653724965"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -35.2980989,
+              -8.1206326
+            ],
+            [
+              -35.2981304,
+              -8.1207226
+            ],
+            [
+              -35.2980224,
+              -8.1207581
+            ],
+            [
+              -35.2979926,
+              -8.1206699
+            ],
+            [
+              -35.2980989,
+              -8.1206326
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/653725818",
       "properties": {
-        "timestamp": "2025-01-16T00:14:49Z",
-        "version": 3,
-        "changeset": 161399708,
+        "timestamp": "2025-03-24T14:04:06Z",
+        "version": 4,
+        "changeset": 164034394,
         "addr:city": "Vitória de Santo Antão",
+        "addr:street": "Rua Doutor Demócrito Cavalcante",
         "addr:suburb": "Mangueira",
         "amenity": "school",
         "name": "Escola Técnica Estadual José Joaquim da Silva Filho",
@@ -228,14 +282,14 @@
       "type": "Feature",
       "id": "way/653725819",
       "properties": {
-        "timestamp": "2025-01-16T00:14:49Z",
-        "version": 5,
-        "changeset": 161399708,
+        "timestamp": "2025-03-24T00:55:12Z",
+        "version": 6,
+        "changeset": 164010402,
         "addr:city": "Vitória de Santo Antão",
         "addr:street": "Rua Doutor Demócrito Cavalcante",
         "addr:suburb": "Mangueira",
         "amenity": "school",
-        "name": "Mariana Malha",
+        "name": "Escola Mariana Malha",
         "id": "way/653725819"
       },
       "geometry": {
@@ -267,8 +321,16 @@
               -8.1247812
             ],
             [
+              -35.2991883,
+              -8.1246141
+            ],
+            [
               -35.2992459,
               -8.1245381
+            ],
+            [
+              -35.2993965,
+              -8.1244506
             ],
             [
               -35.2995078,
@@ -281,6 +343,48 @@
             [
               -35.2996336,
               -8.1243129
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/653771939",
+      "properties": {
+        "timestamp": "2025-03-24T14:20:01Z",
+        "version": 2,
+        "changeset": 164035188,
+        "addr:city": "Vitoria de Santo Antão",
+        "addr:street": "Rua Doutor Demócrito Cavalcante",
+        "amenity": "school",
+        "building": "yes",
+        "name": "IPA",
+        "id": "way/653771939"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -35.3047639,
+              -8.1291238
+            ],
+            [
+              -35.3047213,
+              -8.1291626
+            ],
+            [
+              -35.3046314,
+              -8.1290658
+            ],
+            [
+              -35.3046741,
+              -8.129027
+            ],
+            [
+              -35.3047639,
+              -8.1291238
             ]
           ]
         ]
@@ -785,6 +889,42 @@
         "coordinates": [
           -35.3343798,
           -8.1267922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12695559552",
+      "properties": {
+        "timestamp": "2025-03-24T00:55:12Z",
+        "version": 1,
+        "changeset": 164010402,
+        "barrier": "gate",
+        "id": "node/12695559552"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2993965,
+          -8.1244506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12695559554",
+      "properties": {
+        "timestamp": "2025-03-24T00:55:12Z",
+        "version": 1,
+        "changeset": 164010402,
+        "barrier": "gate",
+        "id": "node/12695559554"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.2991883,
+          -8.1246141
         ]
       }
     }

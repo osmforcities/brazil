@@ -695,9 +695,9 @@
       "type": "Feature",
       "id": "relation/18815997",
       "properties": {
-        "timestamp": "2025-03-13T01:25:15Z",
-        "version": 1,
-        "changeset": 163550834,
+        "timestamp": "2025-03-24T00:36:06Z",
+        "version": 2,
+        "changeset": 164010079,
         "addr:city": "Livramento de Nossa Senhora",
         "addr:housenumber": "27",
         "addr:postcode": "46140-000",
@@ -3234,9 +3234,9 @@
       "type": "Feature",
       "id": "way/1366719490",
       "properties": {
-        "timestamp": "2025-03-22T02:34:03Z",
-        "version": 2,
-        "changeset": 163930462,
+        "timestamp": "2025-03-24T00:36:06Z",
+        "version": 3,
+        "changeset": 164010079,
         "addr:city": "Livramento de Nossa Senhora",
         "addr:housenumber": "27",
         "addr:postcode": "46140-000",
@@ -3246,7 +3246,7 @@
         "baby_feeding": "room",
         "building:levels": "3",
         "government": "healthcare",
-        "landuse": "flowerbed",
+        "leisure": "park",
         "loc_name": "Secretaria De Saúde | SESAU | Poder Executivo | Livramento De Nossa Senhora, BA",
         "name": "Secretaria De Saúde | SESAU | Poder Executivo | Livramento De Nossa Senhora, BA",
         "nat_name": "Secretaria De Saúde | SESAU | Poder Executivo | Livramento De Nossa Senhora, BA",
@@ -5361,6 +5361,28 @@
         "coordinates": [
           -41.8407618,
           -13.6489192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12657379695",
+      "properties": {
+        "timestamp": "2025-03-12T20:54:22Z",
+        "version": 1,
+        "changeset": 163545168,
+        "denotation": "urban",
+        "height": "10",
+        "leaf_cycle": "evergreen",
+        "leaf_type": "broadleaved",
+        "natural": "tree",
+        "id": "node/12657379695"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.8407201,
+          -13.6489388
         ]
       }
     },

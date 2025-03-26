@@ -5,15 +5,17 @@
       "type": "Feature",
       "id": "way/46040483",
       "properties": {
-        "timestamp": "2024-04-08T22:20:33Z",
-        "version": 12,
-        "changeset": 149754635,
+        "timestamp": "2025-03-24T01:43:25Z",
+        "version": 13,
+        "changeset": 164011090,
         "addr:city": "Itaboraí",
         "addr:street": "Rua Doutor Mesquita",
         "addr:suburb": "Centro",
         "concrete": "yes",
         "leisure": "stadium",
+        "loc_name": "Estádio Alzirão",
         "name": "Estádio Municipal Alziro de Almeida",
+        "operator": "Prefeitura de Itaboraí",
         "sport": "soccer",
         "wikidata": "Q10277162",
         "wikipedia": "pt:Estádio Municipal Alziro de Almeida",
@@ -32,12 +34,32 @@
               -22.7437296
             ],
             [
-              -42.8597425,
-              -22.7441429
+              -42.859774,
+              -22.7441569
             ],
             [
-              -42.8588379,
-              -22.7436409
+              -42.859574,
+              -22.7441084
+            ],
+            [
+              -42.8594771,
+              -22.7440784
+            ],
+            [
+              -42.8594271,
+              -22.7440623
+            ],
+            [
+              -42.8593659,
+              -22.7440358
+            ],
+            [
+              -42.8593078,
+              -22.7440013
+            ],
+            [
+              -42.8588134,
+              -22.7436807
             ],
             [
               -42.8592318,
@@ -2297,6 +2319,46 @@
             [
               -42.9157059,
               -22.7885444
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1370758790",
+      "properties": {
+        "timestamp": "2025-03-24T01:43:25Z",
+        "version": 1,
+        "changeset": 164011090,
+        "leisure": "pitch",
+        "sport": "soccer",
+        "surface": "grass",
+        "id": "way/1370758790"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42.8592846,
+              -22.7430878
+            ],
+            [
+              -42.8600884,
+              -22.7435585
+            ],
+            [
+              -42.859717,
+              -22.7440979
+            ],
+            [
+              -42.8589133,
+              -22.743627
+            ],
+            [
+              -42.8592846,
+              -22.7430878
             ]
           ]
         ]

@@ -5845,6 +5845,85 @@
     },
     {
       "type": "Feature",
+      "id": "way/1370939091",
+      "properties": {
+        "timestamp": "2025-03-24T18:09:21Z",
+        "version": 2,
+        "changeset": 164045652,
+        "addr:city": "Rio de Janeiro",
+        "addr:street": "Estrada Marechal Alencastro",
+        "addr:suburb": "Vila Militar",
+        "amenity": "clinic",
+        "email": "cfivanirdemello@gmail.com",
+        "healthcare": "clinic",
+        "name": "Clínica da Família Ivanir de Mello",
+        "opening_hours": "Mo-Fr 07:00-18:00; Sa 08:00-12:00",
+        "operator": "Prefeitura da Cidade do Rio de Janeiro",
+        "operator:type": "government",
+        "operator:wikidata": "Q8678",
+        "phone": "+55 21 97510 1888",
+        "source": "data.rio",
+        "start_date": "2016-08-26",
+        "id": "way/1370939091"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.397397,
+              -22.848033
+            ],
+            [
+              -43.3972484,
+              -22.8480473
+            ],
+            [
+              -43.3972303,
+              -22.8480413
+            ],
+            [
+              -43.39657,
+              -22.8477044
+            ],
+            [
+              -43.3967238,
+              -22.8474507
+            ],
+            [
+              -43.3969034,
+              -22.8475698
+            ],
+            [
+              -43.3970766,
+              -22.8476794
+            ],
+            [
+              -43.3972885,
+              -22.8477937
+            ],
+            [
+              -43.3973763,
+              -22.8478318
+            ],
+            [
+              -43.3975288,
+              -22.8478854
+            ],
+            [
+              -43.397481,
+              -22.8480009
+            ],
+            [
+              -43.397397,
+              -22.848033
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/429947325",
       "properties": {
         "timestamp": "2016-07-08T21:16:40Z",
@@ -12394,30 +12473,6 @@
         "coordinates": [
           -43.1750618,
           -22.7944806
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/7573404586",
-      "properties": {
-        "timestamp": "2020-05-30T21:12:03Z",
-        "version": 1,
-        "changeset": 85993345,
-        "addr:suburb": "Vila Militar",
-        "amenity": "clinic",
-        "email": "cfivanirdemello@gmail.com",
-        "name": "Clínica da Família Ivanir de Mello",
-        "opening_hours": "Mo-Fr 07:00-18:00; Sa 08:00-12:00",
-        "source": "data.rio",
-        "start_date": "2016-08-26",
-        "id": "node/7573404586"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.3970804,
-          -22.8478022
         ]
       }
     },

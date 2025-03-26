@@ -3,46 +3,56 @@
   "features": [
     {
       "type": "Feature",
-      "id": "way/951563860",
+      "id": "relation/18890330",
       "properties": {
-        "timestamp": "2024-10-05T13:35:56Z",
-        "version": 4,
-        "changeset": 157501552,
+        "timestamp": "2025-03-24T21:56:50Z",
+        "version": 1,
+        "changeset": 164053263,
         "addr:city": "Cuité",
         "addr:housenumber": "km 6",
         "addr:postcode": "58175-000",
         "addr:street": "BR-104",
+        "alt_name": "Escola Estadual Cidadã Integral Técnica de Cuité",
         "amenity": "college",
         "name": "Escola Estadual Cidadã Integral Técnica Jornalista José Itamar da Rocha Cândido",
         "operator": "Secretaria de Educação do Estado da Paraíba",
         "operator:type": "public",
         "phone": "+55 83 999438435",
         "ref:INEP": "25129279",
-        "id": "way/951563860"
+        "type": "multipolygon",
+        "id": "relation/18890330"
       },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              -36.1731976,
-              -6.4762612
+              -36.1733038,
+              -6.4764613
             ],
             [
-              -36.1740655,
-              -6.478031
+              -36.174111,
+              -6.4780941
             ],
             [
-              -36.1731385,
-              -6.4786191
+              -36.1730833,
+              -6.4786246
             ],
             [
-              -36.172519,
-              -6.4765884
+              -36.1725866,
+              -6.4767858
             ],
             [
-              -36.1731976,
-              -6.4762612
+              -36.1726613,
+              -6.476752
+            ],
+            [
+              -36.1731429,
+              -6.4765341
+            ],
+            [
+              -36.1733038,
+              -6.4764613
             ]
           ]
         ]
@@ -85,6 +95,106 @@
               -6.4809582
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/951563860",
+      "properties": {
+        "timestamp": "2025-03-24T21:56:50Z",
+        "version": 5,
+        "changeset": 164053263,
+        "barrier": "wall",
+        "id": "way/951563860"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -36.1725866,
+            -6.4767858
+          ],
+          [
+            -36.1730833,
+            -6.4786246
+          ],
+          [
+            -36.174111,
+            -6.4780941
+          ],
+          [
+            -36.1733038,
+            -6.4764613
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1370985336",
+      "properties": {
+        "timestamp": "2025-03-24T21:56:50Z",
+        "version": 1,
+        "changeset": 164053263,
+        "barrier": "fence",
+        "id": "way/1370985336"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -36.1733038,
+            -6.4764613
+          ],
+          [
+            -36.1731429,
+            -6.4765341
+          ],
+          [
+            -36.1726613,
+            -6.476752
+          ],
+          [
+            -36.1725866,
+            -6.4767858
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12697562029",
+      "properties": {
+        "timestamp": "2025-03-24T21:56:50Z",
+        "version": 1,
+        "changeset": 164053263,
+        "entrance": "yes",
+        "id": "node/12697562029"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.1726613,
+          -6.476752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12697562034",
+      "properties": {
+        "timestamp": "2025-03-24T21:56:50Z",
+        "version": 1,
+        "changeset": 164053263,
+        "entrance": "yes",
+        "id": "node/12697562034"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.1731429,
+          -6.4765341
         ]
       }
     }

@@ -3,6 +3,50 @@
   "features": [
     {
       "type": "Feature",
+      "id": "way/156497231",
+      "properties": {
+        "timestamp": "2025-03-24T21:52:57Z",
+        "version": 5,
+        "changeset": 164053146,
+        "alt_name": "Subestação Auxiliadora",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "location": "outdoor",
+        "name": "Subestação Botucatu II",
+        "operator": "CPFL Paulista",
+        "substation": "distribution",
+        "id": "way/156497231"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.4279009,
+              -22.8874584
+            ],
+            [
+              -48.4283193,
+              -22.8883134
+            ],
+            [
+              -48.4270873,
+              -22.8884559
+            ],
+            [
+              -48.4269782,
+              -22.8875572
+            ],
+            [
+              -48.4279009,
+              -22.8874584
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/436598793",
       "properties": {
         "timestamp": "2022-12-26T00:48:14Z",
@@ -187,9 +231,9 @@
       "type": "Feature",
       "id": "node/2112739852",
       "properties": {
-        "timestamp": "2021-01-03T21:13:12Z",
-        "version": 3,
-        "changeset": 96864747,
+        "timestamp": "2025-03-24T21:52:57Z",
+        "version": 4,
+        "changeset": 164053146,
         "amenity": "hospital",
         "emergency": "no",
         "healthcare": "hospital",
@@ -199,8 +243,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -48.4456343,
-          -22.8876718
+          -48.4456721,
+          -22.8875861
         ]
       }
     },

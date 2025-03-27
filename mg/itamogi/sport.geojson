@@ -287,6 +287,58 @@
     },
     {
       "type": "Feature",
+      "id": "way/1371171719",
+      "properties": {
+        "timestamp": "2025-03-25T13:17:21Z",
+        "version": 1,
+        "changeset": 164076778,
+        "addr:city": "Itamogi",
+        "addr:housenumber": "1035",
+        "addr:postcode": "37973000",
+        "addr:street": "Avenida Geraldo Meireles Suzano",
+        "addr:suburb": "Nova Itamogi",
+        "building": "yes",
+        "club": "sport",
+        "name": "Arena 035 | Deck Club",
+        "phone": "35998666639",
+        "sport": "soccer;beachvolleyball;beach_tennis",
+        "website": "https://www.instagram.com/arena_035/",
+        "id": "way/1371171719"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.0543683,
+              -21.0729644
+            ],
+            [
+              -47.0546423,
+              -21.0728553
+            ],
+            [
+              -47.0547763,
+              -21.0731063
+            ],
+            [
+              -47.0545012,
+              -21.0732539
+            ],
+            [
+              -47.0544379,
+              -21.0731141
+            ],
+            [
+              -47.0543683,
+              -21.0729644
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/10163789354",
       "properties": {
         "timestamp": "2022-11-06T20:26:24Z",
@@ -304,6 +356,31 @@
         "coordinates": [
           -47.0411906,
           -21.0793446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12698801489",
+      "properties": {
+        "timestamp": "2025-03-25T13:17:21Z",
+        "version": 1,
+        "changeset": 164076778,
+        "addr:city": "Itamogi",
+        "addr:housenumber": "1035",
+        "addr:postcode": "37973000",
+        "addr:street": "Avenida Geraldo Meireles Suzano",
+        "addr:suburb": "Nova Itamogi",
+        "club": "sport",
+        "name": "Arena 035 | Deck Club",
+        "sport": "beachvolleyball;soccer;beachtennis",
+        "id": "node/12698801489"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.0544876,
+          -21.0729344
         ]
       }
     }

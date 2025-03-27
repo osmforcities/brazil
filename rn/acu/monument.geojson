@@ -3,47 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": "way/548172170",
-      "properties": {
-        "timestamp": "2025-03-08T23:46:41Z",
-        "version": 3,
-        "changeset": 163383188,
-        "alt_name": "Cristo Redentor",
-        "description": "Marco virada do século 1900",
-        "historic": "monument",
-        "name": "Marco Zero",
-        "id": "way/548172170"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -36.906554,
-              -5.5727524
-            ],
-            [
-              -36.9065519,
-              -5.5728439
-            ],
-            [
-              -36.9064618,
-              -5.5728418
-            ],
-            [
-              -36.9064639,
-              -5.5727503
-            ],
-            [
-              -36.906554,
-              -5.5727524
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/5313864490",
       "properties": {
         "timestamp": "2025-02-13T15:37:37Z",
@@ -59,6 +18,27 @@
         "coordinates": [
           -36.9072041,
           -5.5771009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12700156616",
+      "properties": {
+        "timestamp": "2025-03-25T19:09:49Z",
+        "version": 1,
+        "changeset": 164093156,
+        "alt_name": "Cristo Redentor",
+        "description": "Marco virada do século 1900",
+        "historic": "monument",
+        "name": "Marco Zero",
+        "id": "node/12700156616"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.9065178,
+          -5.5727912
         ]
       }
     }

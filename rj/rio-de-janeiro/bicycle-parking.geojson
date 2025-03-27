@@ -536,6 +536,187 @@
     },
     {
       "type": "Feature",
+      "id": "way/1371028558",
+      "properties": {
+        "timestamp": "2025-03-25T05:02:31Z",
+        "version": 1,
+        "changeset": 164059712,
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "building",
+        "building": "yes",
+        "capacity": "600",
+        "covered": "yes",
+        "fee": "no",
+        "name": "Bicicletário Terminal Pingo d'Água",
+        "id": "way/1371028558"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.647029,
+              -22.9656201
+            ],
+            [
+              -43.6467224,
+              -22.9658701
+            ],
+            [
+              -43.646665,
+              -22.9658104
+            ],
+            [
+              -43.6469717,
+              -22.9655605
+            ],
+            [
+              -43.6469972,
+              -22.965587
+            ],
+            [
+              -43.647029,
+              -22.9656201
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1371237005",
+      "properties": {
+        "timestamp": "2025-03-25T17:35:55Z",
+        "version": 1,
+        "changeset": 164089134,
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "building",
+        "building": "yes",
+        "capacity": "250",
+        "covered": "yes",
+        "fee": "no",
+        "id": "way/1371237005"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.6212478,
+              -22.9681503
+            ],
+            [
+              -43.6210858,
+              -22.9681871
+            ],
+            [
+              -43.621064,
+              -22.9681061
+            ],
+            [
+              -43.6212261,
+              -22.9680692
+            ],
+            [
+              -43.6212478,
+              -22.9681503
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1371241572",
+      "properties": {
+        "timestamp": "2025-03-25T17:57:57Z",
+        "version": 1,
+        "changeset": 164090112,
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "building",
+        "building": "yes",
+        "capacity": "250",
+        "covered": "yes",
+        "fee": "no",
+        "name": "Bicicletário Terminal Mato Alto - Norte",
+        "id": "way/1371241572"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.5952713,
+              -22.9937151
+            ],
+            [
+              -43.5952648,
+              -22.993796
+            ],
+            [
+              -43.595105,
+              -22.993785
+            ],
+            [
+              -43.5951115,
+              -22.9937042
+            ],
+            [
+              -43.5952713,
+              -22.9937151
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1371241573",
+      "properties": {
+        "timestamp": "2025-03-25T17:57:57Z",
+        "version": 1,
+        "changeset": 164090112,
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "building",
+        "building": "yes",
+        "capacity": "250",
+        "covered": "yes",
+        "fee": "no",
+        "name": "Bicicletário Terminal Mato Alto - Sul",
+        "id": "way/1371241573"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.5979631,
+              -22.9939247
+            ],
+            [
+              -43.5979284,
+              -22.9940074
+            ],
+            [
+              -43.5977883,
+              -22.9939574
+            ],
+            [
+              -43.5978231,
+              -22.9938747
+            ],
+            [
+              -43.5979631,
+              -22.9939247
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/208537789",
       "properties": {
         "timestamp": "2011-01-09T04:09:53Z",
@@ -10118,50 +10299,6 @@
         "coordinates": [
           -43.5590252,
           -23.0050957
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/2811493574",
-      "properties": {
-        "timestamp": "2024-05-17T17:06:15Z",
-        "version": 3,
-        "changeset": 151464320,
-        "access": "yes",
-        "amenity": "bicycle_parking",
-        "fee": "no",
-        "id": "node/2811493574"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.5951726,
-          -22.9936794
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/2812235813",
-      "properties": {
-        "timestamp": "2019-09-25T23:03:23Z",
-        "version": 2,
-        "changeset": 74930020,
-        "access": "yes",
-        "amenity": "bicycle_parking",
-        "bicycle_parking": "wall_loops",
-        "capacity": "15",
-        "covered": "no",
-        "fee": "no",
-        "note": "Na verdade, dois bicicletários, sendo 10 vagas antes da estação e 5 depois. Verificar posição com GPS.",
-        "id": "node/2812235813"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.6220926,
-          -22.9682756
         ]
       }
     },
@@ -25909,24 +26046,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/4320644233",
-      "properties": {
-        "timestamp": "2016-07-26T06:07:41Z",
-        "version": 1,
-        "changeset": 41028962,
-        "amenity": "bicycle_parking",
-        "id": "node/4320644233"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.6214974,
-          -22.9685251
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/4326186912",
       "properties": {
         "timestamp": "2016-07-28T22:10:03Z",
@@ -30869,17 +30988,20 @@
       "type": "Feature",
       "id": "node/6648419864",
       "properties": {
-        "timestamp": "2019-07-26T00:09:44Z",
-        "version": 1,
-        "changeset": 72665449,
+        "timestamp": "2025-03-25T22:00:50Z",
+        "version": 2,
+        "changeset": 164098885,
+        "access": "private",
         "amenity": "bicycle_parking",
+        "covered": "yes",
+        "fee": "no",
         "id": "node/6648419864"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -43.4631268,
-          -22.9830658
+          -43.4630143,
+          -22.9830494
         ]
       }
     },
@@ -33500,36 +33622,17 @@
       "type": "Feature",
       "id": "node/11954356601",
       "properties": {
-        "timestamp": "2024-06-03T18:27:02Z",
-        "version": 1,
-        "changeset": 152212380,
+        "timestamp": "2025-03-25T05:02:31Z",
+        "version": 2,
+        "changeset": 164059712,
         "amenity": "bicycle_parking",
         "id": "node/11954356601"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -43.6468835,
-          -22.9655787
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/12143793879",
-      "properties": {
-        "timestamp": "2024-08-29T08:55:03Z",
-        "version": 1,
-        "changeset": 155916662,
-        "amenity": "bicycle_parking",
-        "bicycle_parking": "shed",
-        "id": "node/12143793879"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.5978821,
-          -22.9939366
+          -43.6469481,
+          -22.9655662
         ]
       }
     },

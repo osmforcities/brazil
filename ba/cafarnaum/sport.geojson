@@ -372,46 +372,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/1337266961",
-      "properties": {
-        "timestamp": "2024-11-23T22:25:34Z",
-        "version": 1,
-        "changeset": 159516221,
-        "leisure": "pitch",
-        "sport": "soccer",
-        "surface": "gravel",
-        "id": "way/1337266961"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -41.4709115,
-              -11.7008801
-            ],
-            [
-              -41.4709331,
-              -11.7011486
-            ],
-            [
-              -41.4703199,
-              -11.7011909
-            ],
-            [
-              -41.4702922,
-              -11.7009073
-            ],
-            [
-              -41.4709115,
-              -11.7008801
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/1337743336",
       "properties": {
         "timestamp": "2024-11-25T15:55:25Z",
@@ -470,24 +430,24 @@
         "coordinates": [
           [
             [
-              -41.4756073,
-              -11.6890589
+              -41.4756083,
+              -11.6890497
             ],
             [
-              -41.4757565,
-              -11.6892386
+              -41.4757744,
+              -11.6892399
             ],
             [
-              -41.4754805,
-              -11.6894882
+              -41.4754807,
+              -11.6894859
             ],
             [
-              -41.4752871,
-              -11.6892935
+              -41.4753146,
+              -11.6892957
             ],
             [
-              -41.4756073,
-              -11.6890589
+              -41.4756083,
+              -11.6890497
             ]
           ]
         ]
@@ -1149,6 +1109,55 @@
     },
     {
       "type": "Feature",
+      "id": "way/1371203297",
+      "properties": {
+        "timestamp": "2025-03-25T15:11:22Z",
+        "version": 1,
+        "changeset": 164081982,
+        "access": "permissive",
+        "leisure": "pitch",
+        "sport": "soccer",
+        "surface": "dirt",
+        "id": "way/1371203297"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.4702817,
+              -11.7009066
+            ],
+            [
+              -41.4705733,
+              -11.700886
+            ],
+            [
+              -41.470895,
+              -11.7008633
+            ],
+            [
+              -41.4709194,
+              -11.7011942
+            ],
+            [
+              -41.4706208,
+              -11.7012153
+            ],
+            [
+              -41.470306,
+              -11.7012375
+            ],
+            [
+              -41.4702817,
+              -11.7009066
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/12355436509",
       "properties": {
         "timestamp": "2024-11-19T15:47:48Z",
@@ -1166,6 +1175,33 @@
         "coordinates": [
           -41.4696331,
           -11.697171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12640894920",
+      "properties": {
+        "timestamp": "2025-03-25T15:11:22Z",
+        "version": 2,
+        "changeset": 164081982,
+        "addr:city": "Cafarnaum",
+        "addr:housenumber": "S/N",
+        "addr:postcode": "44881-550",
+        "addr:street": "Rua Carmelita Alves",
+        "addr:suburb": "Vila Imperial",
+        "leisure": "stadium",
+        "loc_name": "Veredão",
+        "name": "Estádio Municipal Veredão - Valdemar Peixoto da Silva",
+        "operator": "Prefeitura Municipal de Cafarnaum",
+        "sport": "soccer",
+        "id": "node/12640894920"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.4689253,
+          -11.6982973
         ]
       }
     }

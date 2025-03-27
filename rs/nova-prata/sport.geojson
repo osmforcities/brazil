@@ -120,6 +120,92 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1371374677",
+      "properties": {
+        "timestamp": "2025-03-25T23:45:54Z",
+        "version": 1,
+        "changeset": 164100960,
+        "area": "yes",
+        "highway": "raceway",
+        "name": "Kartódromo De Nova Prata",
+        "sport": "karting",
+        "surface": "asphalt",
+        "website": "http://serrakartclube.com.br/",
+        "id": "way/1371374677"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.5945743,
+              -28.8066757
+            ],
+            [
+              -51.5953639,
+              -28.8077437
+            ],
+            [
+              -51.5938362,
+              -28.8084281
+            ],
+            [
+              -51.5932697,
+              -28.8072097
+            ],
+            [
+              -51.5945743,
+              -28.8066757
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12700723654",
+      "properties": {
+        "timestamp": "2025-03-25T23:38:19Z",
+        "version": 1,
+        "changeset": 164100865,
+        "addr:city": "Nova Prata",
+        "addr:postcode": "95320000",
+        "addr:street": "BR 470",
+        "addr:suburb": "Retiro",
+        "leisure": "sports_hall",
+        "name": "Ginásio do Retiro",
+        "sport": "volleyball;soccer",
+        "id": "node/12700723654"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.5875741,
+          -28.8228381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12700735884",
+      "properties": {
+        "timestamp": "2025-03-25T23:45:54Z",
+        "version": 1,
+        "changeset": 164100960,
+        "name": "Kartódromo De Nova Prata",
+        "official_name": "Kartódromo De Nova Prata",
+        "id": "node/12700735884"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.5932697,
+          -28.8072097
+        ]
+      }
     }
   ]
 }

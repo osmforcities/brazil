@@ -106,8 +106,8 @@
               -11.7028523
             ],
             [
-              -41.4705107,
-              -11.7026128
+              -41.4705129,
+              -11.7026123
             ],
             [
               -41.4707786,
@@ -205,6 +205,33 @@
     },
     {
       "type": "Feature",
+      "id": "node/12355436546",
+      "properties": {
+        "timestamp": "2025-03-25T15:11:22Z",
+        "version": 4,
+        "changeset": 164081982,
+        "addr:city": "Cafarnaum",
+        "addr:housenumber": "S/N",
+        "addr:postcode": "44881285",
+        "addr:street": "Rua Beca",
+        "addr:suburb": "Beca",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "basic",
+        "name": "Unidade de Saúde da Família Dete Bezerra",
+        "operator": "Prefeitura Municipal de Cafarnaum",
+        "id": "node/12355436546"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.470603,
+          -11.7027086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/12376548470",
       "properties": {
         "timestamp": "2025-02-12T14:22:02Z",
@@ -256,14 +283,14 @@
       "type": "Feature",
       "id": "node/12485764952",
       "properties": {
-        "timestamp": "2025-02-12T14:22:02Z",
-        "version": 3,
-        "changeset": 162432424,
+        "timestamp": "2025-03-25T15:11:22Z",
+        "version": 4,
+        "changeset": 164081982,
         "addr:city": "Cafarnaum",
         "addr:suburb": "Bairro da Caixa",
         "amenity": "clinic",
         "healthcare": "clinic",
-        "name": "PSF Ana Maria Barbosa - (Sede I)",
+        "name": "Unidade Básica de Saúde Ana Maria Barbosa - Vila Imperial",
         "id": "node/12485764952"
       },
       "geometry": {
@@ -271,6 +298,33 @@
         "coordinates": [
           -41.4722967,
           -11.6928794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12699067528",
+      "properties": {
+        "timestamp": "2025-03-25T15:11:22Z",
+        "version": 1,
+        "changeset": 164081982,
+        "addr:city": "Cafarnaum",
+        "addr:housenumber": "S/N",
+        "addr:postcode": "44882899",
+        "addr:street": "Rua Reinaldo Alves da Silva",
+        "addr:suburb": "Canal",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Unidade de Saúde da Família Francisca Rosa (Mãe Dona)",
+        "opening_hours": "24/7",
+        "id": "node/12699067528"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.5993005,
+          -11.8241959
         ]
       }
     }

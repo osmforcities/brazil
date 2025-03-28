@@ -12768,9 +12768,9 @@
       "type": "Feature",
       "id": "way/204739192",
       "properties": {
-        "timestamp": "2023-11-07T16:37:25Z",
-        "version": 5,
-        "changeset": 143744903,
+        "timestamp": "2025-03-26T10:28:11Z",
+        "version": 6,
+        "changeset": 164114837,
         "addr:city": "São Paulo",
         "addr:housenumber": "1061",
         "addr:street": "Alameda Jaú",
@@ -12792,6 +12792,10 @@
             [
               -46.6578012,
               -23.5637575
+            ],
+            [
+              -46.6582371,
+              -23.5633734
             ],
             [
               -46.6588694,
@@ -91507,6 +91511,76 @@
     },
     {
       "type": "Feature",
+      "id": "way/1371860626",
+      "properties": {
+        "timestamp": "2025-03-26T17:24:37Z",
+        "version": 1,
+        "changeset": 164131743,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "1377",
+        "addr:postcode": "02204-001",
+        "addr:street": "Rua José de Almeida",
+        "amenity": "school",
+        "barrier": "wall",
+        "name": "E.E Professor David Euguênio Dos Santos",
+        "operator": "Secretária da Educação",
+        "operator:type": "government",
+        "id": "way/1371860626"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.5898512,
+              -23.483564
+            ],
+            [
+              -46.5902259,
+              -23.4834884
+            ],
+            [
+              -46.5902441,
+              -23.4835185
+            ],
+            [
+              -46.5905961,
+              -23.4840917
+            ],
+            [
+              -46.5906946,
+              -23.4842445
+            ],
+            [
+              -46.590309,
+              -23.4844632
+            ],
+            [
+              -46.589887,
+              -23.4837199
+            ],
+            [
+              -46.589819,
+              -23.4836002
+            ],
+            [
+              -46.5898203,
+              -23.4835851
+            ],
+            [
+              -46.5898333,
+              -23.4835714
+            ],
+            [
+              -46.5898512,
+              -23.483564
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/222842154",
       "properties": {
         "timestamp": "2023-06-07T15:20:09Z",
@@ -116168,6 +116242,47 @@
         "coordinates": [
           -46.7273301,
           -23.6047341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12702007919",
+      "properties": {
+        "timestamp": "2025-03-26T10:28:11Z",
+        "version": 1,
+        "changeset": 164114837,
+        "barrier": "gate",
+        "id": "node/12702007919"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6582371,
+          -23.5633734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12703165505",
+      "properties": {
+        "timestamp": "2025-03-26T17:24:37Z",
+        "version": 1,
+        "changeset": 164131743,
+        "access": "permissive",
+        "addr:city": "São Paulo",
+        "addr:housenumber": "1377",
+        "addr:postcode": "02204-001",
+        "addr:street": "Rua José de Almeida",
+        "entrance": "main",
+        "id": "node/12703165505"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.589887,
+          -23.4837199
         ]
       }
     }

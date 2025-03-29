@@ -10931,9 +10931,9 @@
       "type": "Feature",
       "id": "way/33798359",
       "properties": {
-        "timestamp": "2024-12-27T00:18:01Z",
-        "version": 29,
-        "changeset": 160657996,
+        "timestamp": "2025-03-27T10:39:52Z",
+        "version": 39,
+        "changeset": 164157546,
         "addr:city": "São Paulo",
         "addr:housenumber": "1361",
         "addr:postcode": "04001-140",
@@ -10952,11 +10952,15 @@
         "old_name": "Ginásio Estadual",
         "operator": "Governo do Estado de São Paulo",
         "operator:type": "government",
+        "operator:wikidata": "Q10290787",
         "phone": "(11) 3887-3500",
+        "roof:colour": "white",
         "roof:shape": "dome",
         "source": "pmsp",
-        "sport": "multi;gymnastics",
+        "sport": "basketball;gymnastics;volleyball;multi",
         "start_date": "1957-01-25",
+        "surface": "concrete",
+        "surface:note": "detachable",
         "website": "https://parqueibirapuera.org/equipamentos-parque-ibirapuera/ginasio-do-ibirapuera/",
         "wikidata": "Q3106847",
         "wikimedia_commons": "Category:Ginásio do Ibirapuera",
@@ -20812,10 +20816,9 @@
       "type": "Feature",
       "id": "way/165472951",
       "properties": {
-        "timestamp": "2024-12-13T14:25:55Z",
-        "version": 23,
-        "changeset": 160248358,
-        "access": "no",
+        "timestamp": "2025-03-27T07:44:55Z",
+        "version": 24,
+        "changeset": 164151057,
         "addr:city": "São Paulo",
         "addr:postcode": "01246-020",
         "addr:street": "Rua Capivari",
@@ -20824,7 +20827,6 @@
         "depth": "2",
         "fee": "no",
         "heating": "yes",
-        "landuse": "construction",
         "leisure": "swimming_pool",
         "length": "50",
         "lit": "yes",
@@ -20837,7 +20839,6 @@
         "old_phone": "(11) 3664-4650",
         "old_source": "Prefeitura de São Paulo",
         "old_website": "https://www.prefeitura.sp.gov.br/cidade/secretarias/esportes/estadio_pacaembu/centro_esportivo/index.php?p=746",
-        "opening_hours": "off",
         "operator": "Allegra Pacaembu",
         "operator:type": "private",
         "owner": "Prefeitura de São Paulo",
@@ -41905,10 +41906,9 @@
       "type": "Feature",
       "id": "way/420931965",
       "properties": {
-        "timestamp": "2024-08-11T22:50:17Z",
-        "version": 15,
-        "changeset": 155124219,
-        "access": "no",
+        "timestamp": "2025-03-27T10:42:11Z",
+        "version": 24,
+        "changeset": 164157636,
         "addr:city": "São Paulo",
         "addr:housenumber": "240;256",
         "addr:postcode": "01246-020",
@@ -41916,21 +41916,24 @@
         "addr:suburb": "Pacaembu",
         "building": "sports_hall",
         "capacity": "3000",
+        "covered": "yes",
+        "fee": "yes",
         "height": "13.9",
         "leisure": "sports_hall",
+        "lit": "yes",
         "name": "Ginásio Poliesportivo Mercado Livre",
         "official_name": "Ginásio do Pacaembu",
         "old_operator": "Prefeitura de São Paulo",
         "old_operator:type": "government",
-        "opening_hours": "off",
         "operator": "Allegra Pacaembu",
         "operator:type": "private",
         "owner": "Prefeitura de São Paulo",
         "ownership": "municipal",
         "roof:colour": "white",
         "roof:shape": "gabled",
-        "sport": "multi;volleyball;basketball",
+        "sport": "basketball;futsal;handball;volleyball",
         "start_date": "1940",
+        "surface": "parquetry",
         "wikidata": "Q5563327",
         "wikipedia": "en:Ginásio do Pacaembu",
         "id": "way/420931965"
@@ -42069,6 +42072,284 @@
     },
     {
       "type": "Feature",
+      "id": "way/420931967",
+      "properties": {
+        "timestamp": "2025-03-27T10:44:56Z",
+        "version": 10,
+        "changeset": 164157742,
+        "building": "sports_hall",
+        "building:levels": "4",
+        "covered": "yes",
+        "fee": "yes",
+        "height": "18.555",
+        "leisure": "sports_hall",
+        "lit": "yes",
+        "old_operator": "Prefeitura de São Paulo",
+        "old_operator:type": "government",
+        "operator": "Allegra Pacaembu",
+        "operator:type": "private",
+        "owner": "Prefeitura de São Paulo",
+        "ownership": "municipal",
+        "roof:colour": "grey",
+        "roof:shape": "gabled",
+        "sport": "tennis",
+        "surface": "clay",
+        "id": "way/420931967"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.6639359,
+              -23.5498495
+            ],
+            [
+              -46.6642696,
+              -23.5498476
+            ],
+            [
+              -46.6642715,
+              -23.5498524
+            ],
+            [
+              -46.6642695,
+              -23.5499388
+            ],
+            [
+              -46.6642644,
+              -23.5501526
+            ],
+            [
+              -46.6642624,
+              -23.5502387
+            ],
+            [
+              -46.6639227,
+              -23.5502263
+            ],
+            [
+              -46.6639189,
+              -23.550224
+            ],
+            [
+              -46.6639209,
+              -23.5501782
+            ],
+            [
+              -46.6639207,
+              -23.5501737
+            ],
+            [
+              -46.6639148,
+              -23.5501698
+            ],
+            [
+              -46.6639091,
+              -23.5501657
+            ],
+            [
+              -46.6639036,
+              -23.5501613
+            ],
+            [
+              -46.6638983,
+              -23.5501568
+            ],
+            [
+              -46.6638931,
+              -23.550152
+            ],
+            [
+              -46.6638882,
+              -23.5501471
+            ],
+            [
+              -46.6638836,
+              -23.550142
+            ],
+            [
+              -46.6638791,
+              -23.5501367
+            ],
+            [
+              -46.6638749,
+              -23.5501312
+            ],
+            [
+              -46.6638709,
+              -23.5501256
+            ],
+            [
+              -46.6638672,
+              -23.5501199
+            ],
+            [
+              -46.6638638,
+              -23.550114
+            ],
+            [
+              -46.6638606,
+              -23.550108
+            ],
+            [
+              -46.6638577,
+              -23.5501018
+            ],
+            [
+              -46.663855,
+              -23.5500956
+            ],
+            [
+              -46.6638527,
+              -23.5500893
+            ],
+            [
+              -46.6638506,
+              -23.5500829
+            ],
+            [
+              -46.6638488,
+              -23.5500764
+            ],
+            [
+              -46.6638473,
+              -23.5500698
+            ],
+            [
+              -46.6638461,
+              -23.5500632
+            ],
+            [
+              -46.6638452,
+              -23.5500566
+            ],
+            [
+              -46.6638446,
+              -23.5500499
+            ],
+            [
+              -46.6638442,
+              -23.5500432
+            ],
+            [
+              -46.6638442,
+              -23.5500365
+            ],
+            [
+              -46.6638445,
+              -23.5500299
+            ],
+            [
+              -46.6638451,
+              -23.5500232
+            ],
+            [
+              -46.6638459,
+              -23.5500165
+            ],
+            [
+              -46.6638471,
+              -23.5500099
+            ],
+            [
+              -46.6638486,
+              -23.5500034
+            ],
+            [
+              -46.6638503,
+              -23.5499969
+            ],
+            [
+              -46.6638524,
+              -23.5499905
+            ],
+            [
+              -46.6638547,
+              -23.5499841
+            ],
+            [
+              -46.6638573,
+              -23.5499779
+            ],
+            [
+              -46.6638601,
+              -23.5499717
+            ],
+            [
+              -46.6638633,
+              -23.5499657
+            ],
+            [
+              -46.6638667,
+              -23.5499598
+            ],
+            [
+              -46.6638704,
+              -23.549954
+            ],
+            [
+              -46.6638743,
+              -23.5499484
+            ],
+            [
+              -46.6638785,
+              -23.5499429
+            ],
+            [
+              -46.6638829,
+              -23.5499376
+            ],
+            [
+              -46.6638875,
+              -23.5499325
+            ],
+            [
+              -46.6638921,
+              -23.549928
+            ],
+            [
+              -46.6638972,
+              -23.5499243
+            ],
+            [
+              -46.6639031,
+              -23.5499211
+            ],
+            [
+              -46.6639096,
+              -23.5499185
+            ],
+            [
+              -46.6639166,
+              -23.5499166
+            ],
+            [
+              -46.6639237,
+              -23.5499154
+            ],
+            [
+              -46.6639308,
+              -23.5499151
+            ],
+            [
+              -46.6639325,
+              -23.5499103
+            ],
+            [
+              -46.6639338,
+              -23.549854
+            ],
+            [
+              -46.6639359,
+              -23.5498495
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/420948326",
       "properties": {
         "timestamp": "2018-11-18T17:16:37Z",
@@ -42113,10 +42394,9 @@
       "type": "Feature",
       "id": "way/420950232",
       "properties": {
-        "timestamp": "2024-12-13T14:25:55Z",
-        "version": 17,
-        "changeset": 160248358,
-        "access": "no",
+        "timestamp": "2025-03-27T08:44:46Z",
+        "version": 19,
+        "changeset": 164152943,
         "addr:city": "São Paulo",
         "addr:postcode": "01246-020",
         "addr:street": "Rua Capivari",
@@ -42130,13 +42410,12 @@
         "official_name": "Quadra de Tênis",
         "old_operator": "Prefeitura de São Paulo",
         "old_operator:type": "government",
-        "opening_hours": "off",
         "operator": "Allegra Pacaembu",
         "operator:type": "private",
         "owner": "Prefeitura de São Paulo",
         "ownership": "municipal",
         "sport": "tennis",
-        "surface": "cement",
+        "surface": "asphalt",
         "id": "way/420950232"
       },
       "geometry": {
@@ -70693,9 +70972,9 @@
       "type": "Feature",
       "id": "way/666148829",
       "properties": {
-        "timestamp": "2024-12-13T14:25:55Z",
-        "version": 13,
-        "changeset": 160248358,
+        "timestamp": "2025-03-27T08:06:57Z",
+        "version": 15,
+        "changeset": 164151777,
         "addr:city": "São Paulo",
         "addr:postcode": "01234-010",
         "addr:street": "Praça Charles Miller",
@@ -70703,14 +70982,15 @@
         "alt_name": "Estádio do Pacaembu",
         "architect": "Ramos de Azevedo",
         "architect:wikidata": "Q9300159",
-        "capacity": "40199",
+        "capacity": "25968",
         "contact:phone": "+55 11 3664-4650",
         "contact:website": "http://www.prefeitura.sp.gov.br/cidade/secretarias/esportes/estadio_pacaembu/",
-        "landuse": "construction",
         "leisure": "stadium",
         "name": "Mercado Livre Arena Pacaembu",
         "nohousenumber": "yes",
         "official_name": "Estádio Municipal Paulo Machado de Carvalho",
+        "old_capacity": "40199",
+        "old_name": "Estádio Municipal do Pacaembu",
         "old_operator": "Prefeitura de São Paulo",
         "old_operator:type": "government",
         "operator": "Allegra Pacaembu",
@@ -103127,22 +103407,19 @@
       "type": "Feature",
       "id": "way/1270303519",
       "properties": {
-        "timestamp": "2024-11-22T02:38:26Z",
-        "version": 11,
-        "changeset": 159441374,
-        "access": "no",
+        "timestamp": "2025-03-27T07:44:55Z",
+        "version": 12,
+        "changeset": 164151057,
         "addr:city": "São Paulo",
         "addr:housenumber": "240;256",
         "addr:postcode": "01246-020",
         "addr:street": "Rua Capivari",
         "addr:suburb": "Pacaembu",
-        "landuse": "construction",
         "leisure": "sports_centre",
         "name": "Mercado Pago Hall",
         "official_name": "Complexo Esportivo do Pacaembu",
         "old_operator": "Prefeitura de São Paulo",
         "old_operator:type": "government",
-        "opening_hours": "off",
         "operator": "Allegra Pacaembu",
         "operator:type": "private",
         "owner": "Prefeitura de São Paulo",
@@ -112321,6 +112598,86 @@
             [
               -46.5902352,
               -23.4835133
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1372205603",
+      "properties": {
+        "timestamp": "2025-03-27T22:17:39Z",
+        "version": 1,
+        "changeset": 164185406,
+        "access": "private",
+        "leisure": "pitch",
+        "sport": "tennis",
+        "id": "way/1372205603"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.7071816,
+              -23.6115912
+            ],
+            [
+              -46.707264,
+              -23.611721
+            ],
+            [
+              -46.7069956,
+              -23.6118886
+            ],
+            [
+              -46.7069052,
+              -23.6117486
+            ],
+            [
+              -46.7071816,
+              -23.6115912
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1372205611",
+      "properties": {
+        "timestamp": "2025-03-27T22:17:39Z",
+        "version": 1,
+        "changeset": 164185406,
+        "leisure": "pitch",
+        "sport": "beachvolleyball",
+        "surface": "sand",
+        "id": "way/1372205611"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.7053416,
+              -23.6101242
+            ],
+            [
+              -46.7053666,
+              -23.6103126
+            ],
+            [
+              -46.7049568,
+              -23.6103414
+            ],
+            [
+              -46.7049435,
+              -23.6101498
+            ],
+            [
+              -46.7053416,
+              -23.6101242
             ]
           ]
         ]
@@ -123306,9 +123663,9 @@
       "type": "Feature",
       "id": "node/6071047856",
       "properties": {
-        "timestamp": "2024-12-27T00:18:57Z",
-        "version": 6,
-        "changeset": 160658005,
+        "timestamp": "2025-03-27T10:09:23Z",
+        "version": 9,
+        "changeset": 164156293,
         "addr:city": "São Paulo",
         "addr:housenumber": "1361",
         "addr:postcode": "04001-140",
@@ -123320,9 +123677,11 @@
         "name": "Estádio Ícaro de Castro Melo",
         "operator": "Governo do Estado de São Paulo",
         "operator:type": "government",
-        "sport": "multi;athletics",
+        "operator:wikidata": "Q10290787",
+        "sport": "athletics;multi",
         "start_date": "1954-08-21",
         "wikidata": "Q5402255",
+        "wikimedia_commons": "File:Ginasio Ibirapuera.jpg",
         "wikipedia": "pt:Estádio Ícaro de Castro Melo",
         "id": "node/6071047856"
       },
@@ -125710,15 +126069,13 @@
       "type": "Feature",
       "id": "node/8681030908",
       "properties": {
-        "timestamp": "2025-01-13T05:43:12Z",
-        "version": 6,
-        "changeset": 161295963,
-        "access": "no",
+        "timestamp": "2025-03-27T07:47:25Z",
+        "version": 8,
+        "changeset": 164151129,
         "barrier": "gate",
         "entrance": "yes",
         "maxheight": "2.35",
         "name": "Portão 23",
-        "opening_hours": "off",
         "ref": "23",
         "id": "node/8681030908"
       },
@@ -125825,14 +126182,12 @@
       "type": "Feature",
       "id": "node/8973468168",
       "properties": {
-        "timestamp": "2024-08-11T22:55:03Z",
-        "version": 5,
-        "changeset": 155124288,
-        "access": "no",
+        "timestamp": "2025-03-27T07:47:25Z",
+        "version": 7,
+        "changeset": 164151129,
         "barrier": "gate",
         "entrance": "yes",
         "name": "Portão 23A",
-        "opening_hours": "off",
         "ref": "23A",
         "id": "node/8973468168"
       },
@@ -127421,14 +127776,12 @@
       "type": "Feature",
       "id": "node/11794556716",
       "properties": {
-        "timestamp": "2024-08-11T22:55:03Z",
-        "version": 4,
-        "changeset": 155124288,
-        "access": "no",
+        "timestamp": "2025-03-27T07:47:25Z",
+        "version": 6,
+        "changeset": 164151129,
         "barrier": "gate",
         "entrance": "yes",
         "name": "Portão 23",
-        "opening_hours": "off",
         "ref": "23",
         "id": "node/11794556716"
       },
@@ -127444,10 +127797,9 @@
       "type": "Feature",
       "id": "node/11794650726",
       "properties": {
-        "timestamp": "2024-08-10T05:02:07Z",
-        "version": 3,
-        "changeset": 155046950,
-        "access": "no",
+        "timestamp": "2025-03-27T07:46:37Z",
+        "version": 4,
+        "changeset": 164151111,
         "entrance": "yes",
         "name": "Entrada",
         "wheelchair": "yes",
@@ -127465,10 +127817,9 @@
       "type": "Feature",
       "id": "node/11794650727",
       "properties": {
-        "timestamp": "2024-08-10T05:02:07Z",
-        "version": 3,
-        "changeset": 155046950,
-        "access": "no",
+        "timestamp": "2025-03-27T07:46:37Z",
+        "version": 4,
+        "changeset": 164151111,
         "entrance": "yes",
         "name": "Entrada",
         "wheelchair": "yes",
@@ -127486,10 +127837,9 @@
       "type": "Feature",
       "id": "node/11794650728",
       "properties": {
-        "timestamp": "2024-08-10T05:02:07Z",
-        "version": 3,
-        "changeset": 155046950,
-        "access": "no",
+        "timestamp": "2025-03-27T07:46:37Z",
+        "version": 4,
+        "changeset": 164151111,
         "entrance": "yes",
         "name": "Entrada",
         "wheelchair": "yes",
@@ -127507,10 +127857,9 @@
       "type": "Feature",
       "id": "node/11794650729",
       "properties": {
-        "timestamp": "2024-08-10T05:02:07Z",
-        "version": 3,
-        "changeset": 155046950,
-        "access": "no",
+        "timestamp": "2025-03-27T07:46:37Z",
+        "version": 4,
+        "changeset": 164151111,
         "entrance": "yes",
         "name": "Entrada",
         "wheelchair": "yes",
@@ -127521,6 +127870,42 @@
         "coordinates": [
           -46.6649353,
           -23.5502562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11794928927",
+      "properties": {
+        "timestamp": "2024-04-06T06:07:16Z",
+        "version": 1,
+        "changeset": 149640594,
+        "entrance": "yes",
+        "id": "node/11794928927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6642695,
+          -23.5499388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11794928929",
+      "properties": {
+        "timestamp": "2024-04-06T06:07:16Z",
+        "version": 1,
+        "changeset": 149640594,
+        "entrance": "yes",
+        "id": "node/11794928929"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6642644,
+          -23.5501526
         ]
       }
     },

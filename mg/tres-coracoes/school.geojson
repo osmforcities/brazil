@@ -54,67 +54,6 @@
     },
     {
       "type": "Feature",
-      "id": "relation/6630160",
-      "properties": {
-        "timestamp": "2024-05-13T01:10:14Z",
-        "version": 3,
-        "changeset": 151246094,
-        "addr:housenumber": "532",
-        "addr:street": "Rua Bem-te-vi",
-        "addr:suburb": "Bela Vista",
-        "amenity": "school",
-        "contact:email": "CAICTC.SEDUC@GMAIL.COM",
-        "contact:phone": "+55(35)3691-1079",
-        "contact:phone1": "+55(35)3232-0206",
-        "loc_name": "CAIC",
-        "name": "CAIC Escola Municipal Professora Candida Junqueira",
-        "short_name": "E. M. Profª. Candida Junqueira",
-        "source": "MEC;survey",
-        "type": "multipolygon",
-        "id": "relation/6630160"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -45.246478,
-              -21.6850513
-            ],
-            [
-              -45.2470853,
-              -21.6848022
-            ],
-            [
-              -45.2480429,
-              -21.6843949
-            ],
-            [
-              -45.248365,
-              -21.684838
-            ],
-            [
-              -45.2481408,
-              -21.6852984
-            ],
-            [
-              -45.246434,
-              -21.6856983
-            ],
-            [
-              -45.2464606,
-              -21.6854646
-            ],
-            [
-              -45.246478,
-              -21.6850513
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/136002733",
       "properties": {
         "timestamp": "2022-05-23T17:48:50Z",
@@ -557,17 +496,87 @@
     },
     {
       "type": "Feature",
+      "id": "way/441787380",
+      "properties": {
+        "timestamp": "2025-03-27T18:39:55Z",
+        "version": 4,
+        "changeset": 164177693,
+        "addr:housenumber": "532",
+        "addr:street": "Rua Bem-te-vi",
+        "addr:suburb": "Bela Vista",
+        "amenity": "school",
+        "contact:email": "CAICTC.SEDUC@GMAIL.COM",
+        "contact:phone": "+55(35)3691-1079;+55(35)3232-0206",
+        "loc_name": "CAIC",
+        "name": "CAIC Escola Municipal Professora Candida Junqueira",
+        "short_name": "E. M. Profª. Candida Junqueira",
+        "source": "MEC;survey",
+        "id": "way/441787380"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -45.2479716,
+              -21.6843361
+            ],
+            [
+              -45.2484482,
+              -21.684511
+            ],
+            [
+              -45.247998,
+              -21.6855725
+            ],
+            [
+              -45.2470138,
+              -21.6857954
+            ],
+            [
+              -45.2469303,
+              -21.6856016
+            ],
+            [
+              -45.246434,
+              -21.6856922
+            ],
+            [
+              -45.2464606,
+              -21.6854904
+            ],
+            [
+              -45.2465554,
+              -21.685067
+            ],
+            [
+              -45.2470853,
+              -21.6848022
+            ],
+            [
+              -45.2471671,
+              -21.6847469
+            ],
+            [
+              -45.2479716,
+              -21.6843361
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/444627543",
       "properties": {
-        "timestamp": "2018-07-09T16:32:59Z",
-        "version": 3,
-        "changeset": 60546277,
+        "timestamp": "2025-03-27T18:18:09Z",
+        "version": 4,
+        "changeset": 164176686,
         "addr:housenumber": "8",
         "addr:street": "Rua dos Boiadeiros",
         "amenity": "school",
         "contact:email": "MARIALAURA.SEDUC@GMAIL.COM",
-        "contact:phone": "+55(35)3691-1119",
-        "contact:phone1": "+55(35)3232-0288",
+        "contact:phone": "+55(35)3691-1119;+55(35)3232-0288",
         "loc_name": "Maria Laura",
         "name": "Escola Municipal Dona Maria Laura",
         "operator": "Prefeitura de Três Corações",
@@ -688,15 +697,14 @@
       "type": "Feature",
       "id": "way/444665567",
       "properties": {
-        "timestamp": "2016-10-02T17:24:57Z",
-        "version": 2,
-        "changeset": 42587545,
+        "timestamp": "2025-03-27T18:16:26Z",
+        "version": 3,
+        "changeset": 164176608,
         "addr:housenumber": "945",
         "addr:street": "Rua Antônio Raposo Tavares",
         "amenity": "school",
         "contact:email": "HENRIQUETAGOMES.SEDUC@GMAIL.COM",
-        "contact:phone": "+55(35)3691-1082",
-        "contact:phone1": "+55(35)3232-0290",
+        "contact:phone": "+55(35)3691-1082;+55(35)3232-0290",
         "loc_name": "Henriqueta Gomes",
         "name": "Escola Municipal Professora Henriqueta Gomes",
         "operator": "Prefeitura Municipal",
@@ -814,15 +822,14 @@
       "type": "Feature",
       "id": "way/444986017",
       "properties": {
-        "timestamp": "2024-05-27T20:25:50Z",
-        "version": 2,
-        "changeset": 151917385,
+        "timestamp": "2025-03-27T18:17:44Z",
+        "version": 3,
+        "changeset": 164176660,
         "addr:housenumber": "253",
         "addr:street": "Rua Alfredo Thiago Filho",
         "amenity": "school",
         "contact:email": "COELHONETO.SEDUC@GMAIL.COM",
-        "contact:phone": "+55(35)3691-1168",
-        "contact:phone1": "+55(35)3234-0017",
+        "contact:phone": "+55(35)3691-1168;+55(35)3234-0017",
         "loc_name": "Escola Coelho Neto",
         "name": "Escola Municipal Maria José Coelho Neto",
         "short_name": "E. M. Maria José Coelho Neto",
@@ -1092,15 +1099,14 @@
       "type": "Feature",
       "id": "way/445107241",
       "properties": {
-        "timestamp": "2016-09-30T20:23:21Z",
-        "version": 1,
-        "changeset": 42551891,
+        "timestamp": "2025-03-27T18:18:54Z",
+        "version": 2,
+        "changeset": 164176711,
         "addr:housenumber": "303",
         "addr:street": "Rua Doutor José Domingos",
         "amenity": "school",
         "contact:email": "ROTARY.SEDUC@GMAIL.COM",
-        "contact:phone": "+55(35)3691-1147",
-        "contact:phone1": "+55(35)3232-0110",
+        "contact:phone": "+55(35)3691-1147;+55(35)3232-0110",
         "loc_name": "Rotary",
         "name": "Escola Municipal Rotary",
         "short_name": "E. M. Rotary",
@@ -1143,15 +1149,14 @@
       "type": "Feature",
       "id": "way/445108160",
       "properties": {
-        "timestamp": "2016-09-30T20:31:32Z",
-        "version": 1,
-        "changeset": 42552048,
+        "timestamp": "2025-03-27T18:15:59Z",
+        "version": 2,
+        "changeset": 164176580,
         "addr:housenumber": "141",
         "addr:street": "Rua São Paulo",
         "amenity": "school",
         "contact:email": "EUFRANIACORREAPOTTING@YAHOO.COM.BR",
-        "contact:phone": "+55(35)3691-1169",
-        "contact:phone1": "+55(35)3233-0016",
+        "contact:phone": "+55(35)3691-1169;+55(35)3233-0016",
         "name": "Escola Municipal José Joaquim Alves Pereira",
         "short_name": "E. M. José Joaquim Alves Pereira",
         "source": "Bing",
@@ -1198,15 +1203,14 @@
       "type": "Feature",
       "id": "way/445109690",
       "properties": {
-        "timestamp": "2016-09-30T20:44:54Z",
-        "version": 1,
-        "changeset": 42552275,
+        "timestamp": "2025-03-27T18:19:12Z",
+        "version": 2,
+        "changeset": 164176722,
         "addr:housenumber": "462",
         "addr:street": "Rua Filogênio Vilas Boas",
         "amenity": "school",
         "contact:email": "SAGRADOCORACAO.SEDUC@GMAIL.COM",
-        "contact:phone": "+55(35)3691-1083",
-        "contact:phone1": "+55(35)3232-0179",
+        "contact:phone": "+55(35)3691-1083;+55(35)3232-0179",
         "loc_name": "Escola Sagrado Coração",
         "name": "Escola Municipal Sagrado Coração de Jesus",
         "short_name": "E. M. Sagrado Coração",
@@ -1367,16 +1371,15 @@
       "type": "Feature",
       "id": "way/447329771",
       "properties": {
-        "timestamp": "2025-01-02T19:39:02Z",
-        "version": 2,
-        "changeset": 160923523,
+        "timestamp": "2025-03-27T18:18:35Z",
+        "version": 3,
+        "changeset": 164176698,
         "addr:housenumber": "115",
         "addr:street": "Praça Monsenhor Fonseca",
         "amenity": "school",
         "check_date": "2025-01-02",
         "contact:email": "MORBELLOVENDRAMINI.SEDUC@GMAIL.COM",
-        "contact:phone": "+55(35)3691-1162",
-        "contact:phone1": "+55(35)3232-0392",
+        "contact:phone": "+55(35)3691-1162;+55(35)3232-0392",
         "name": "Escola Municipal Capitão Morbello Vendramini",
         "operator": "Prefeitura de Três Corações",
         "short_name": "E. M. Cap. Morbello Vendramini",

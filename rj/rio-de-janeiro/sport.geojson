@@ -50414,50 +50414,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/414205971",
-      "properties": {
-        "timestamp": "2016-04-28T15:32:15Z",
-        "version": 1,
-        "changeset": 38954855,
-        "leisure": "pitch",
-        "name": "Centro de Treinamento Mané Garrincha - Botafogo de Futebol e Regatas",
-        "sport": "soccer",
-        "id": "way/414205971"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -43.3785118,
-              -22.8636379
-            ],
-            [
-              -43.3776553,
-              -22.8640694
-            ],
-            [
-              -43.3775382,
-              -22.8641319
-            ],
-            [
-              -43.3768604,
-              -22.8629168
-            ],
-            [
-              -43.3778648,
-              -22.8624285
-            ],
-            [
-              -43.3785118,
-              -22.8636379
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/415182032",
       "properties": {
         "timestamp": "2016-05-03T03:50:05Z",
@@ -113435,6 +113391,50 @@
     },
     {
       "type": "Feature",
+      "id": "way/414205971",
+      "properties": {
+        "timestamp": "2025-03-27T18:26:57Z",
+        "version": 2,
+        "changeset": 164177084,
+        "disused:leisure": "sports_centre",
+        "name": "Escola de Futebol Mané Garrincha",
+        "operator": "Botafogo de Futebol e Regatas",
+        "operator:type": "private",
+        "sport": "soccer",
+        "id": "way/414205971"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.3785704,
+            -22.863614
+          ],
+          [
+            -43.3778648,
+            -22.8624285
+          ],
+          [
+            -43.3768365,
+            -22.8629104
+          ],
+          [
+            -43.3775312,
+            -22.864161
+          ],
+          [
+            -43.3778734,
+            -22.8639809
+          ],
+          [
+            -43.3785704,
+            -22.863614
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/424171311",
       "properties": {
         "timestamp": "2024-08-08T21:09:17Z",
@@ -114669,6 +114669,80 @@
           [
             -43.2145346,
             -22.9207767
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1372136511",
+      "properties": {
+        "timestamp": "2025-03-27T18:26:57Z",
+        "version": 1,
+        "changeset": 164177084,
+        "disused:leisure": "pitch",
+        "sport": "soccer",
+        "id": "way/1372136511"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.3769317,
+            -22.86294
+          ],
+          [
+            -43.3772431,
+            -22.8634844
+          ],
+          [
+            -43.3781471,
+            -22.8630455
+          ],
+          [
+            -43.3778358,
+            -22.862501
+          ],
+          [
+            -43.3769317,
+            -22.86294
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1372136512",
+      "properties": {
+        "timestamp": "2025-03-27T18:26:57Z",
+        "version": 1,
+        "changeset": 164177084,
+        "disused:leisure": "pitch",
+        "sport": "soccer",
+        "id": "way/1372136512"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.3772494,
+            -22.8634982
+          ],
+          [
+            -43.3775608,
+            -22.8640426
+          ],
+          [
+            -43.3784648,
+            -22.8636037
+          ],
+          [
+            -43.3781535,
+            -22.8630592
+          ],
+          [
+            -43.3772494,
+            -22.8634982
           ]
         ]
       }

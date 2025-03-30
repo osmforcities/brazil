@@ -1582,20 +1582,92 @@
     },
     {
       "type": "Feature",
-      "id": "node/12172367740",
+      "id": "way/1372469025",
       "properties": {
-        "timestamp": "2024-09-12T13:10:57Z",
-        "version": 1,
-        "changeset": 156528088,
+        "timestamp": "2025-03-28T18:42:47Z",
+        "version": 3,
+        "changeset": 164221232,
+        "addr:city": "Ananindeua",
+        "addr:housenumber": "S/N",
+        "addr:postcode": "67010-255",
+        "addr:street": "Passagem Olinto Meira",
+        "addr:suburb": "Guanabara",
         "amenity": "clinic",
+        "building": "yes",
         "healthcare": "clinic",
-        "id": "node/12172367740"
+        "name": "CSF 24h da Guanabara",
+        "id": "way/1372469025"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -48.422826,
-          -1.4054614
+          [
+            [
+              -48.4229847,
+              -1.405334
+            ],
+            [
+              -48.4229578,
+              -1.4057255
+            ],
+            [
+              -48.4226869,
+              -1.4056611
+            ],
+            [
+              -48.422754,
+              -1.4053085
+            ],
+            [
+              -48.4227824,
+              -1.4053116
+            ],
+            [
+              -48.4229847,
+              -1.405334
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1372474424",
+      "properties": {
+        "timestamp": "2025-03-28T18:35:44Z",
+        "version": 1,
+        "changeset": 164220960,
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "Reabilitar",
+        "id": "way/1372474424"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.4060525,
+              -1.370049
+            ],
+            [
+              -48.4061076,
+              -1.3702371
+            ],
+            [
+              -48.4059232,
+              -1.3702809
+            ],
+            [
+              -48.4058738,
+              -1.3700851
+            ],
+            [
+              -48.4060525,
+              -1.370049
+            ]
+          ]
         ]
       }
     }

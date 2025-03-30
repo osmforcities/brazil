@@ -801,9 +801,9 @@
       "type": "Feature",
       "id": "way/1333221597",
       "properties": {
-        "timestamp": "2024-11-12T13:55:13Z",
-        "version": 1,
-        "changeset": 159051485,
+        "timestamp": "2025-03-28T18:52:10Z",
+        "version": 2,
+        "changeset": 164221636,
         "amenity": "pharmacy",
         "building": "yes",
         "healthcare": "pharmacy",
@@ -822,8 +822,20 @@
               -1.4676721
             ],
             [
-              -48.4654646,
-              -1.4677502
+              -48.4655904,
+              -1.467718
+            ],
+            [
+              -48.4655542,
+              -1.467756
+            ],
+            [
+              -48.4654695,
+              -1.4677975
+            ],
+            [
+              -48.4654249,
+              -1.4677582
             ],
             [
               -48.4654245,
@@ -836,6 +848,48 @@
             [
               -48.4655962,
               -1.4674135
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1372472695",
+      "properties": {
+        "timestamp": "2025-03-28T18:24:01Z",
+        "version": 1,
+        "changeset": 164220493,
+        "amenity": "pharmacy",
+        "building": "yes",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Drogarias Maxi Popular",
+        "id": "way/1372472695"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.4895588,
+              -1.4615942
+            ],
+            [
+              -48.489645,
+              -1.4617035
+            ],
+            [
+              -48.4894247,
+              -1.4618821
+            ],
+            [
+              -48.4893369,
+              -1.4617651
+            ],
+            [
+              -48.4895588,
+              -1.4615942
             ]
           ]
         ]
@@ -922,31 +976,6 @@
         "coordinates": [
           -48.488008,
           -1.4457914
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/621054033",
-      "properties": {
-        "timestamp": "2024-03-14T10:27:44Z",
-        "version": 5,
-        "changeset": 148633937,
-        "addr:housenumber": "1760",
-        "addr:postcode": "66033-110",
-        "addr:street": "Rua dos Pariquis",
-        "addr:suburb": "Batista Campos",
-        "amenity": "pharmacy",
-        "healthcare": "pharmacy",
-        "name": "Big Ben",
-        "source": "survey",
-        "id": "node/621054033"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.4885886,
-          -1.4619586
         ]
       }
     },
@@ -2394,6 +2423,106 @@
         "coordinates": [
           -48.443543,
           -1.3317279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12708175151",
+      "properties": {
+        "timestamp": "2025-03-28T18:58:48Z",
+        "version": 1,
+        "changeset": 164221960,
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "id": "node/12708175151"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.472024,
+          -1.4282555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12708175154",
+      "properties": {
+        "timestamp": "2025-03-28T18:58:48Z",
+        "version": 1,
+        "changeset": 164221960,
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "id": "node/12708175154"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.470335,
+          -1.4257547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12708203774",
+      "properties": {
+        "timestamp": "2025-03-28T19:03:27Z",
+        "version": 1,
+        "changeset": 164222122,
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "id": "node/12708203774"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.4727336,
+          -1.4292858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12708212965",
+      "properties": {
+        "timestamp": "2025-03-28T18:59:11Z",
+        "version": 1,
+        "changeset": 164221974,
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "id": "node/12708212965"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.4712101,
+          -1.426947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12708222623",
+      "properties": {
+        "timestamp": "2025-03-28T19:03:48Z",
+        "version": 1,
+        "changeset": 164222136,
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "id": "node/12708222623"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.4730667,
+          -1.4290434
         ]
       }
     }

@@ -46,8 +46,8 @@
               -1.4626134
             ],
             [
-              -48.4876525,
-              -1.4628695
+              -48.4876404,
+              -1.4628611
             ],
             [
               -48.4873373,
@@ -247,9 +247,9 @@
       "type": "Feature",
       "id": "way/362271798",
       "properties": {
-        "timestamp": "2024-03-26T16:33:23Z",
-        "version": 5,
-        "changeset": 149186077,
+        "timestamp": "2025-03-28T20:12:01Z",
+        "version": 6,
+        "changeset": 164224985,
         "amenity": "hospital",
         "emergency": "yes",
         "healthcare": "hospital",
@@ -287,6 +287,10 @@
             [
               -48.4811533,
               -1.4400068
+            ],
+            [
+              -48.4811427,
+              -1.4395204
             ],
             [
               -48.4811398,
@@ -589,9 +593,9 @@
       "type": "Feature",
       "id": "way/543752513",
       "properties": {
-        "timestamp": "2024-04-07T00:28:27Z",
-        "version": 3,
-        "changeset": 149675284,
+        "timestamp": "2025-03-28T18:34:43Z",
+        "version": 4,
+        "changeset": 164220902,
         "amenity": "hospital",
         "emergency": "yes",
         "healthcare": "hospital",
@@ -626,6 +630,10 @@
             [
               -48.4697128,
               -1.4596319
+            ],
+            [
+              -48.4697316,
+              -1.4593426
             ],
             [
               -48.4697428,
@@ -1013,6 +1021,60 @@
     },
     {
       "type": "Feature",
+      "id": "way/1278347870",
+      "properties": {
+        "timestamp": "2025-03-28T20:10:19Z",
+        "version": 2,
+        "changeset": 164224897,
+        "addr:housenumber": "988",
+        "addr:street": "Bernal do Couto",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Santa Casa de Misericórdia do Pará",
+        "id": "way/1278347870"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.4826462,
+              -1.4404112
+            ],
+            [
+              -48.4827426,
+              -1.4404356
+            ],
+            [
+              -48.4827059,
+              -1.4409603
+            ],
+            [
+              -48.4826261,
+              -1.4409738
+            ],
+            [
+              -48.4823145,
+              -1.4408302
+            ],
+            [
+              -48.4824071,
+              -1.4405207
+            ],
+            [
+              -48.4826116,
+              -1.4405485
+            ],
+            [
+              -48.4826462,
+              -1.4404112
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1316554091",
       "properties": {
         "timestamp": "2024-09-19T01:58:39Z",
@@ -1155,6 +1217,232 @@
             [
               -48.4352562,
               -1.4014369
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1372360182",
+      "properties": {
+        "timestamp": "2025-03-28T10:34:38Z",
+        "version": 1,
+        "changeset": 164201041,
+        "amenity": "hospital",
+        "building": "hospital",
+        "name": "Hospital Geral da Unimed",
+        "id": "way/1372360182"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.4714261,
+              -1.4438007
+            ],
+            [
+              -48.4714249,
+              -1.4438243
+            ],
+            [
+              -48.4711014,
+              -1.4438076
+            ],
+            [
+              -48.4711087,
+              -1.4436668
+            ],
+            [
+              -48.4710782,
+              -1.4436652
+            ],
+            [
+              -48.4710813,
+              -1.4436047
+            ],
+            [
+              -48.4711751,
+              -1.4436096
+            ],
+            [
+              -48.4711741,
+              -1.4436294
+            ],
+            [
+              -48.4712452,
+              -1.4436331
+            ],
+            [
+              -48.4712467,
+              -1.4436043
+            ],
+            [
+              -48.4711929,
+              -1.4436015
+            ],
+            [
+              -48.4711983,
+              -1.4434976
+            ],
+            [
+              -48.4713146,
+              -1.4435036
+            ],
+            [
+              -48.4713131,
+              -1.4435337
+            ],
+            [
+              -48.4713091,
+              -1.44361
+            ],
+            [
+              -48.4713619,
+              -1.4436127
+            ],
+            [
+              -48.4713611,
+              -1.4436283
+            ],
+            [
+              -48.4715068,
+              -1.4436358
+            ],
+            [
+              -48.4714981,
+              -1.4438044
+            ],
+            [
+              -48.4714261,
+              -1.4438007
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1372471587",
+      "properties": {
+        "timestamp": "2025-03-28T18:14:42Z",
+        "version": 1,
+        "changeset": 164220132,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "id": "way/1372471587"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.4690961,
+              -1.4137171
+            ],
+            [
+              -48.4690555,
+              -1.4138836
+            ],
+            [
+              -48.469023,
+              -1.4140602
+            ],
+            [
+              -48.4687306,
+              -1.4139749
+            ],
+            [
+              -48.4687489,
+              -1.4138816
+            ],
+            [
+              -48.4690961,
+              -1.4137171
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1372472696",
+      "properties": {
+        "timestamp": "2025-03-28T18:24:01Z",
+        "version": 1,
+        "changeset": 164220493,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "HAPVIDA",
+        "id": "way/1372472696"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.4880398,
+              -1.4620916
+            ],
+            [
+              -48.4882324,
+              -1.4623149
+            ],
+            [
+              -48.4881307,
+              -1.4624011
+            ],
+            [
+              -48.4879489,
+              -1.462167
+            ],
+            [
+              -48.4880398,
+              -1.4620916
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1372500128",
+      "properties": {
+        "timestamp": "2025-03-28T20:12:01Z",
+        "version": 1,
+        "changeset": 164224985,
+        "addr:housenumber": "500",
+        "addr:street": "Travessa 14 de Março",
+        "addr:suburb": "Umarizal",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hospital Pronto Socorro Municipal Mário Pinotti - PSMda 14",
+        "id": "way/1372500128"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.4811427,
+              -1.4395204
+            ],
+            [
+              -48.4811737,
+              -1.4400421
+            ],
+            [
+              -48.4807728,
+              -1.4400192
+            ],
+            [
+              -48.4807708,
+              -1.439299
+            ],
+            [
+              -48.4811427,
+              -1.4395204
             ]
           ]
         ]
@@ -1314,25 +1602,6 @@
         "coordinates": [
           -48.4360679,
           -1.3192761
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/4770813321",
-      "properties": {
-        "timestamp": "2017-04-02T10:41:53Z",
-        "version": 1,
-        "changeset": 47377726,
-        "amenity": "hospital",
-        "name": "Hospital Geral da Unimed",
-        "id": "node/4770813321"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.4712708,
-          -1.4438737
         ]
       }
     },
@@ -1646,6 +1915,45 @@
         "coordinates": [
           -48.43498,
           -1.4009838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12708144202",
+      "properties": {
+        "timestamp": "2025-03-28T18:03:12Z",
+        "version": 1,
+        "changeset": 164219699,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "id": "node/12708144202"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.4653861,
+          -1.3379552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12708170535",
+      "properties": {
+        "timestamp": "2025-03-28T18:24:01Z",
+        "version": 1,
+        "changeset": 164220493,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "HEMOPA",
+        "id": "node/12708170535"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.4872203,
+          -1.4627461
         ]
       }
     }

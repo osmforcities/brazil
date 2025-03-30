@@ -3011,9 +3011,9 @@
       "type": "Feature",
       "id": "way/1287354725",
       "properties": {
-        "timestamp": "2024-05-28T11:19:13Z",
-        "version": 1,
-        "changeset": 151939210,
+        "timestamp": "2025-03-28T18:12:51Z",
+        "version": 2,
+        "changeset": 164220048,
         "amenity": "school",
         "building": "yes",
         "name": "UEI Irmã Nair Bezerra",
@@ -3167,6 +3167,142 @@
     },
     {
       "type": "Feature",
+      "id": "way/1372472029",
+      "properties": {
+        "timestamp": "2025-03-28T18:20:55Z",
+        "version": 2,
+        "changeset": 164220359,
+        "addr:city": "Ananindeua",
+        "addr:housenumber": "315",
+        "addr:postcode": "67010-570",
+        "addr:street": "Avenida Margalhães",
+        "addr:suburb": "Guanabara",
+        "amenity": "school",
+        "name": "Escola Senador Alvaro Adolfo",
+        "id": "way/1372472029"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.4191447,
+              -1.3969323
+            ],
+            [
+              -48.4191402,
+              -1.3971732
+            ],
+            [
+              -48.4192842,
+              -1.3971855
+            ],
+            [
+              -48.4192919,
+              -1.3972763
+            ],
+            [
+              -48.41895,
+              -1.3972671
+            ],
+            [
+              -48.418954,
+              -1.3969256
+            ],
+            [
+              -48.4191447,
+              -1.3969323
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1372474804",
+      "properties": {
+        "timestamp": "2025-03-28T18:38:03Z",
+        "version": 1,
+        "changeset": 164221050,
+        "addr:city": "Ananindeua",
+        "addr:housenumber": "574",
+        "addr:postcode": "67010-370",
+        "addr:street": "Passagem São José",
+        "addr:suburb": "Guanabara",
+        "amenity": "school",
+        "name": "EEEF Escola Ramiro Olavo Ribeiro de Castro",
+        "id": "way/1372474804"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.420933,
+              -1.4040623
+            ],
+            [
+              -48.4210698,
+              -1.404124
+            ],
+            [
+              -48.4209867,
+              -1.4042608
+            ],
+            [
+              -48.4210511,
+              -1.4042956
+            ],
+            [
+              -48.4209599,
+              -1.4044699
+            ],
+            [
+              -48.4207828,
+              -1.4043627
+            ],
+            [
+              -48.420748,
+              -1.4044056
+            ],
+            [
+              -48.4206541,
+              -1.4043546
+            ],
+            [
+              -48.4206541,
+              -1.4043144
+            ],
+            [
+              -48.4207346,
+              -1.4041267
+            ],
+            [
+              -48.4205307,
+              -1.4039926
+            ],
+            [
+              -48.4205897,
+              -1.4039015
+            ],
+            [
+              -48.4207963,
+              -1.4040194
+            ],
+            [
+              -48.4208365,
+              -1.4040007
+            ],
+            [
+              -48.420933,
+              -1.4040623
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/4570139295",
       "properties": {
         "timestamp": "2016-12-24T12:04:15Z",
@@ -3225,6 +3361,32 @@
         "coordinates": [
           -48.3789543,
           -1.3385665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5931414324",
+      "properties": {
+        "timestamp": "2025-03-28T18:12:51Z",
+        "version": 3,
+        "changeset": 164220048,
+        "addr:city": "Ananindeua",
+        "addr:housenumber": "Loja A",
+        "addr:postcode": "67010-550",
+        "addr:street": "Passagem Manoel Rodrigues",
+        "addr:suburb": "Guanabara",
+        "name": "Ótica Pop Design",
+        "opening_hours": "Mo-Fr 08:00-12:00, 16:00-19:00; Sa 08:00-12:00",
+        "shop": "optician",
+        "website": "https://ananindeuatem.com.br/oticapopdesign",
+        "id": "node/5931414324"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.4179244,
+          -1.3985783
         ]
       }
     },

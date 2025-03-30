@@ -147,6 +147,52 @@
     },
     {
       "type": "Feature",
+      "id": "way/1372481203",
+      "properties": {
+        "timestamp": "2025-03-28T19:02:02Z",
+        "version": 1,
+        "changeset": 164222069,
+        "addr:city": "Belém",
+        "addr:housenumber": "1346",
+        "addr:postcode": "66080-971",
+        "addr:street": "Avenida Pedro Miranda",
+        "addr:suburb": "Pedreira",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "Unidade Básica de Saúde (UBS)",
+        "id": "way/1372481203"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.4718887,
+              -1.4280488
+            ],
+            [
+              -48.4718083,
+              -1.4281063
+            ],
+            [
+              -48.4716836,
+              -1.4279197
+            ],
+            [
+              -48.4717737,
+              -1.4278728
+            ],
+            [
+              -48.4718887,
+              -1.4280488
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/3683193226",
       "properties": {
         "timestamp": "2015-08-06T01:27:37Z",
@@ -685,9 +731,9 @@
       "type": "Feature",
       "id": "node/12400613163",
       "properties": {
-        "timestamp": "2024-12-06T16:37:39Z",
-        "version": 1,
-        "changeset": 160001763,
+        "timestamp": "2025-03-28T17:58:40Z",
+        "version": 2,
+        "changeset": 164219500,
         "amenity": "clinic",
         "check_date": "2024-12-06",
         "healthcare": "clinic",
@@ -697,8 +743,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -48.4877494,
-          -1.4605846
+          -48.4877715,
+          -1.4605692
         ]
       }
     }

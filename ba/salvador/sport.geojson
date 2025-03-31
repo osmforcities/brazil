@@ -1182,6 +1182,79 @@
     },
     {
       "type": "Feature",
+      "id": "way/48869316",
+      "properties": {
+        "timestamp": "2025-03-29T19:53:42Z",
+        "version": 11,
+        "changeset": 164263778,
+        "addr:housenumber": "676",
+        "addr:street": "Avenida Santiago de Compostela",
+        "capacity": "8000",
+        "leisure": "fitness_centre",
+        "name": "Arena Parque Santiago",
+        "source": "wikipedia:en",
+        "source:start_date": "http://mavalem.sites.uol.com.br/ba/Salvador4.htm",
+        "sport": "soccer;tennis;crossfit;volleyball;futvolley",
+        "start_date": "1995-02-11",
+        "wikidata": "Q9255539",
+        "wikipedia": "pt:Arena Parque Santiago",
+        "wikipedia:en": "Estádio Parque Santiago",
+        "id": "way/48869316"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.4739872,
+              -12.9836453
+            ],
+            [
+              -38.4744633,
+              -12.9836484
+            ],
+            [
+              -38.4745133,
+              -12.9840582
+            ],
+            [
+              -38.4733572,
+              -12.9841802
+            ],
+            [
+              -38.4731184,
+              -12.9841777
+            ],
+            [
+              -38.4729491,
+              -12.9841356
+            ],
+            [
+              -38.4724832,
+              -12.9834207
+            ],
+            [
+              -38.4723208,
+              -12.9831192
+            ],
+            [
+              -38.4734235,
+              -12.9824704
+            ],
+            [
+              -38.4739339,
+              -12.9830523
+            ],
+            [
+              -38.4739872,
+              -12.9836453
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/48869334",
       "properties": {
         "timestamp": "2023-09-10T10:50:29Z",
@@ -9873,24 +9946,24 @@
         "coordinates": [
           [
             [
-              -38.4736654,
-              -12.9837005
+              -38.4736656,
+              -12.9837001
             ],
             [
-              -38.4731044,
+              -38.4731049,
               -12.9840475
             ],
             [
-              -38.4725829,
-              -12.9832471
+              -38.4725827,
+              -12.9832475
             ],
             [
-              -38.4731439,
+              -38.4731434,
               -12.9829001
             ],
             [
-              -38.4736654,
-              -12.9837005
+              -38.4736656,
+              -12.9837001
             ]
           ]
         ]
@@ -41729,6 +41802,28 @@
         "coordinates": [
           -38.4524642,
           -13.0016116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12710504630",
+      "properties": {
+        "timestamp": "2025-03-29T19:53:42Z",
+        "version": 1,
+        "changeset": 164263778,
+        "contact:instagram": "https://www.instagram.com/alcateiacrossfit",
+        "leisure": "fitness_centre",
+        "mobile": "+5571983038019",
+        "name": "Alcateia Arena CrossFit",
+        "sport": "crossfit",
+        "id": "node/12710504630"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4741045,
+          -12.9837688
         ]
       }
     }

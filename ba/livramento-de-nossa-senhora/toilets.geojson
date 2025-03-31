@@ -89,29 +89,120 @@
     },
     {
       "type": "Feature",
-      "id": "node/5996368164",
+      "id": "way/1372643459",
       "properties": {
-        "timestamp": "2018-10-18T19:28:30Z",
+        "timestamp": "2025-03-29T11:48:49Z",
         "version": 1,
-        "changeset": 63658322,
+        "changeset": 164246023,
         "access": "yes",
+        "alt_name": "Banheiro Público | Praça Manoel Mesquita Ramos",
         "amenity": "toilets",
-        "drinking_water": "no",
-        "fee": "no",
-        "female": "yes",
-        "male": "yes",
-        "operator": "municipal",
+        "building": "yes",
+        "loc_name": "Banheiro Público | Praça Manoel Mesquita Ramos",
+        "name": "Banheiro Público | Praça Manoel Mesquita Ramos",
+        "nat_name": "Banheiro Público | Praça Manoel Mesquita Ramos",
+        "official_name": "Banheiro Público | Praça Manoel Mesquita Ramos",
+        "opening_hours": "24/7",
+        "reg_name": "Banheiro Público | Praça Manoel Mesquita Ramos",
+        "short_name": "Banheiro Público | Praça Manoel Mesquita Ramos",
         "toilets:disposal": "flush",
-        "toilets:position": "seated",
-        "unisex": "no",
+        "unisex": "yes",
         "wheelchair": "limited",
-        "id": "node/5996368164"
+        "id": "way/1372643459"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.8481784,
+              -13.6587788
+            ],
+            [
+              -41.8482363,
+              -13.6587716
+            ],
+            [
+              -41.8482393,
+              -13.6587944
+            ],
+            [
+              -41.8482431,
+              -13.6588231
+            ],
+            [
+              -41.8481853,
+              -13.6588303
+            ],
+            [
+              -41.8481784,
+              -13.6587788
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12709660958",
+      "properties": {
+        "timestamp": "2025-03-29T11:50:56Z",
+        "version": 1,
+        "changeset": 164246108,
+        "access": "yes",
+        "alt_name": "Banheiro Público | Praça Manoel Mesquita Ramos",
+        "amenity": "toilets",
+        "changing_table": "no",
+        "level": "0",
+        "loc_name": "Banheiro Público | Praça Manoel Mesquita Ramos",
+        "name": "Banheiro Público | Praça Manoel Mesquita Ramos",
+        "nat_name": "Banheiro Público | Praça Manoel Mesquita Ramos",
+        "official_name": "Banheiro Público | Praça Manoel Mesquita Ramos",
+        "opening_hours": "24/7",
+        "reg_name": "Banheiro Público | Praça Manoel Mesquita Ramos",
+        "short_name": "Banheiro Público | Praça Manoel Mesquita Ramos",
+        "toilets:disposal": "flush",
+        "unisex": "yes",
+        "wheelchair": "yes",
+        "id": "node/12709660958"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -41.848112,
-          -13.6588104
+          -41.8482108,
+          -13.6587998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12709680214",
+      "properties": {
+        "timestamp": "2025-03-29T11:48:49Z",
+        "version": 1,
+        "changeset": 164246023,
+        "access": "yes",
+        "addr:city": "Livramento de Nossa Senhora",
+        "addr:housenumber": "s/n",
+        "addr:postcode": "46140-000",
+        "addr:street": "Praça Manoel Mesquita Ramos",
+        "addr:suburb": "Taquari",
+        "alt_name": "Banheiro Público | Praça Manoel Mesquita Ramos",
+        "entrance": "main",
+        "level": "0",
+        "loc_name": "Banheiro Público | Praça Manoel Mesquita Ramos",
+        "name": "Banheiro Público | Praça Manoel Mesquita Ramos",
+        "nat_name": "Banheiro Público | Praça Manoel Mesquita Ramos",
+        "official_name": "Banheiro Público | Praça Manoel Mesquita Ramos",
+        "reg_name": "Banheiro Público | Praça Manoel Mesquita Ramos",
+        "short_name": "Banheiro Público | Praça Manoel Mesquita Ramos",
+        "id": "node/12709680214"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.8482393,
+          -13.6587944
         ]
       }
     }

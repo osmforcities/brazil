@@ -11775,6 +11775,64 @@
     },
     {
       "type": "Feature",
+      "id": "way/1372649892",
+      "properties": {
+        "timestamp": "2025-03-29T12:36:25Z",
+        "version": 1,
+        "changeset": 164247705,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "1264",
+        "addr:street": "Avenida Lins de Vasconcelos",
+        "amenity": "university",
+        "name": "FIAP",
+        "id": "way/1372649892"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.62366,
+              -23.5742165
+            ],
+            [
+              -46.6237343,
+              -23.5745952
+            ],
+            [
+              -46.6234596,
+              -23.5746446
+            ],
+            [
+              -46.6233002,
+              -23.5746733
+            ],
+            [
+              -46.6232716,
+              -23.5746563
+            ],
+            [
+              -46.6232502,
+              -23.5745455
+            ],
+            [
+              -46.6234294,
+              -23.5745161
+            ],
+            [
+              -46.6233715,
+              -23.5742694
+            ],
+            [
+              -46.62366,
+              -23.5742165
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/498611602",
       "properties": {
         "timestamp": "2023-06-03T15:34:47Z",
@@ -14449,25 +14507,6 @@
         "coordinates": [
           -46.6697962,
           -23.5546706
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/9885241187",
-      "properties": {
-        "timestamp": "2022-07-13T13:44:54Z",
-        "version": 1,
-        "changeset": 123566507,
-        "amenity": "university",
-        "name": "FIAP",
-        "id": "node/9885241187"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -46.6231701,
-          -23.5741147
         ]
       }
     },

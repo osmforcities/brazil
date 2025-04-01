@@ -3,117 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": "relation/18858559",
-      "properties": {
-        "timestamp": "2025-03-18T22:58:20Z",
-        "version": 1,
-        "changeset": 163795596,
-        "addr:city": "Assu",
-        "addr:housenumber": "21",
-        "addr:postcode": "59650-000",
-        "addr:street": "Praça do Rosário",
-        "addr:suburb": "Centro",
-        "amenity": "pharmacy",
-        "building": "yes",
-        "drive_through": "no",
-        "healthcare": "pharmacy",
-        "mobile": "+55 84 3331-2461",
-        "name": "Farmácia Santa Cecília",
-        "opening_hours": "Mo-Sa 07:00-18:00",
-        "type": "multipolygon",
-        "id": "relation/18858559"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -36.9071393,
-              -5.5745307
-            ],
-            [
-              -36.9072991,
-              -5.5745022
-            ],
-            [
-              -36.9072875,
-              -5.5745847
-            ],
-            [
-              -36.9072163,
-              -5.5745971
-            ],
-            [
-              -36.9071482,
-              -5.574609
-            ],
-            [
-              -36.9070274,
-              -5.5746301
-            ],
-            [
-              -36.907013,
-              -5.5745532
-            ],
-            [
-              -36.9071393,
-              -5.5745307
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "relation/18858561",
-      "properties": {
-        "timestamp": "2025-03-18T22:58:20Z",
-        "version": 1,
-        "changeset": 163795596,
-        "addr:city": "Assu",
-        "addr:housenumber": "264",
-        "addr:postcode": "59650-000",
-        "addr:street": "Avenida Senador João Câmara",
-        "addr:suburb": "Centro",
-        "amenity": "pharmacy",
-        "building": "yes",
-        "healthcare": "pharmacy",
-        "mobile": "+55 84 3331-2717",
-        "name": "Drogaria Continental",
-        "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-12:00",
-        "type": "multipolygon",
-        "id": "relation/18858561"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -36.9072698,
-              -5.5747093
-            ],
-            [
-              -36.9072045,
-              -5.5747059
-            ],
-            [
-              -36.9072163,
-              -5.5745971
-            ],
-            [
-              -36.9072875,
-              -5.5745847
-            ],
-            [
-              -36.9072698,
-              -5.5747093
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/1356738996",
       "properties": {
         "timestamp": "2025-03-29T04:37:04Z",
@@ -139,24 +28,24 @@
         "coordinates": [
           [
             [
-              -36.9139596,
-              -5.5751572
+              -36.9139573,
+              -5.5751658
             ],
             [
-              -36.9139286,
-              -5.5754756
+              -36.9139251,
+              -5.5754824
             ],
             [
-              -36.9137509,
-              -5.5754585
+              -36.9137494,
+              -5.5754647
             ],
             [
-              -36.913782,
-              -5.5751401
+              -36.9137816,
+              -5.5751481
             ],
             [
-              -36.9139596,
-              -5.5751572
+              -36.9139573,
+              -5.5751658
             ]
           ]
         ]
@@ -390,6 +279,105 @@
             [
               -36.9150509,
               -5.5747549
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1373129219",
+      "properties": {
+        "timestamp": "2025-03-30T17:30:50Z",
+        "version": 1,
+        "changeset": 164297225,
+        "addr:city": "Assu",
+        "addr:housenumber": "21",
+        "addr:postcode": "59650-000",
+        "addr:street": "Praça do Rosário",
+        "addr:suburb": "Centro",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "mobile": "+55 84 3331-2461",
+        "name": "Farmácia Santa Cecília",
+        "opening_hours": "Mo-Sa 07:00-18:00",
+        "type": "multipolygon",
+        "id": "way/1373129219"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -36.9071503,
+              -5.5745201
+            ],
+            [
+              -36.9071639,
+              -5.5746017
+            ],
+            [
+              -36.9070174,
+              -5.5746258
+            ],
+            [
+              -36.9070038,
+              -5.5745443
+            ],
+            [
+              -36.9071503,
+              -5.5745201
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1373129221",
+      "properties": {
+        "timestamp": "2025-03-30T17:30:50Z",
+        "version": 1,
+        "changeset": 164297225,
+        "addr:city": "Assu",
+        "addr:housenumber": "264",
+        "addr:postcode": "59650-000",
+        "addr:street": "Avenida Senador João Câmara",
+        "addr:suburb": "Centro",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "mobile": "+55 84 3331-2717",
+        "name": "Drogaria Continental",
+        "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-12:00",
+        "type": "multipolygon",
+        "id": "way/1373129221"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -36.9072746,
+              -5.5745848
+            ],
+            [
+              -36.9072549,
+              -5.5747003
+            ],
+            [
+              -36.9071926,
+              -5.5746997
+            ],
+            [
+              -36.9071916,
+              -5.5745986
+            ],
+            [
+              -36.9072746,
+              -5.5745848
             ]
           ]
         ]

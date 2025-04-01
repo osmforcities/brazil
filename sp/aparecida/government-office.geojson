@@ -3,43 +3,185 @@
   "features": [
     {
       "type": "Feature",
-      "id": "way/829903058",
+      "id": "way/1372897978",
       "properties": {
-        "timestamp": "2020-07-25T00:35:52Z",
+        "timestamp": "2025-03-30T05:10:19Z",
         "version": 1,
-        "changeset": 88480736,
-        "addr:housenumber": "1120",
-        "addr:street": "Avenida Padroeira do Brasil",
-        "government": "administrative",
-        "name": "Secretaria do Meio Ambiente",
+        "changeset": 164273398,
+        "building": "yes",
+        "name": "Secretaria Municipal de Segurança e Trânsito",
         "office": "government",
-        "id": "way/829903058"
+        "id": "way/1372897978"
       },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              -45.2152011,
-              -22.8303007
+              -45.2151224,
+              -22.8302729
             ],
             [
-              -45.2148125,
-              -22.8307398
+              -45.2149682,
+              -22.8304762
             ],
             [
-              -45.2141261,
-              -22.8302721
+              -45.2148859,
+              -22.8304231
             ],
             [
-              -45.2145178,
-              -22.8298046
+              -45.2150402,
+              -22.8302199
             ],
             [
-              -45.2152011,
-              -22.8303007
+              -45.2151224,
+              -22.8302729
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1372897979",
+      "properties": {
+        "timestamp": "2025-03-30T05:10:19Z",
+        "version": 1,
+        "changeset": 164273398,
+        "building": "yes",
+        "office": "government",
+        "id": "way/1372897979"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -45.2147831,
+              -22.8304096
+            ],
+            [
+              -45.2147268,
+              -22.8304781
+            ],
+            [
+              -45.214518,
+              -22.8303326
+            ],
+            [
+              -45.2144371,
+              -22.8304312
+            ],
+            [
+              -45.2143562,
+              -22.8303748
+            ],
+            [
+              -45.2144934,
+              -22.8302077
+            ],
+            [
+              -45.2147831,
+              -22.8304096
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1372897980",
+      "properties": {
+        "timestamp": "2025-03-30T05:10:19Z",
+        "version": 1,
+        "changeset": 164273398,
+        "building": "yes",
+        "name": "Guarda  Civil Municipal",
+        "office": "government",
+        "id": "way/1372897980"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -45.2144473,
+              -22.8301245
+            ],
+            [
+              -45.2143374,
+              -22.8302487
+            ],
+            [
+              -45.2142519,
+              -22.8301844
+            ],
+            [
+              -45.2143618,
+              -22.8300602
+            ],
+            [
+              -45.2144473,
+              -22.8301245
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12712316748",
+      "properties": {
+        "timestamp": "2025-03-30T05:10:19Z",
+        "version": 1,
+        "changeset": 164273398,
+        "name": "Secretaria do Meio Ambiente do Estado de São Paulo",
+        "office": "government",
+        "id": "node/12712316748"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.2147038,
+          -22.8304083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12712316749",
+      "properties": {
+        "timestamp": "2025-03-30T05:10:19Z",
+        "version": 1,
+        "changeset": 164273398,
+        "name": "Secretaria Municipal de Meio Ambiente",
+        "office": "government",
+        "id": "node/12712316749"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.2146067,
+          -22.8303388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12712316750",
+      "properties": {
+        "timestamp": "2025-03-30T05:10:19Z",
+        "version": 1,
+        "changeset": 164273398,
+        "name": "Departamento de Água e Energia Elétrica do Estado de São Paulo",
+        "office": "government",
+        "id": "node/12712316750"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.2145079,
+          -22.8302848
         ]
       }
     }

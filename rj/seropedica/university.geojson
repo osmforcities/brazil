@@ -5,13 +5,13 @@
       "type": "Feature",
       "id": "way/379841564",
       "properties": {
-        "timestamp": "2025-03-05T08:26:42Z",
-        "version": 12,
-        "changeset": 163233760,
+        "timestamp": "2025-03-30T15:30:42Z",
+        "version": 13,
+        "changeset": 164292521,
         "addr:city": "Seropédica",
         "addr:housenumber": "km 07",
         "addr:street": "BR-465 (Antiga Estrada Rio-São Paulo)",
-        "addr:suburb": "UFRRJ",
+        "addr:suburb": "Cidade Universitária da UFRRJ",
         "alt_name": "Rural",
         "alt_name_1": "UFRRJ Seropédica",
         "alt_name_2": "Universidade Rural",
@@ -268,6 +268,110 @@
               -22.7697288
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/546877850",
+      "properties": {
+        "timestamp": "2025-03-30T16:19:16Z",
+        "version": 6,
+        "changeset": 164294610,
+        "addr:city": "Seropédica",
+        "addr:housenumber": "km 07",
+        "addr:street": "BR-465 (Antiga Estrada Rio-São Paulo)",
+        "addr:suburb": "Cidade Universitária da UFRRJ",
+        "amenity": "university",
+        "building": "roof",
+        "education": "university",
+        "entrance": "main",
+        "layer": "1",
+        "name": "Pórtico da UFRRJ",
+        "short_name": "UFRRJ",
+        "wikidata": "Q7834196",
+        "wikipedia": "pt:Universidade Federal Rural do Rio de Janeiro",
+        "id": "way/546877850"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.6870372,
+              -22.7614583
+            ],
+            [
+              -43.687145,
+              -22.7615847
+            ],
+            [
+              -43.6870544,
+              -22.7616531
+            ],
+            [
+              -43.6869491,
+              -22.7617268
+            ],
+            [
+              -43.6868572,
+              -22.7617935
+            ],
+            [
+              -43.6867494,
+              -22.7616671
+            ],
+            [
+              -43.6868404,
+              -22.7616011
+            ],
+            [
+              -43.6869451,
+              -22.7615266
+            ],
+            [
+              -43.6870372,
+              -22.7614583
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3603692728",
+      "properties": {
+        "timestamp": "2018-08-04T17:58:13Z",
+        "version": 4,
+        "changeset": 61359027,
+        "access": "permissive",
+        "entrance": "exit",
+        "id": "node/3603692728"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.6868404,
+          -22.7616011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4955871067",
+      "properties": {
+        "timestamp": "2023-04-11T20:06:50Z",
+        "version": 4,
+        "changeset": 134789168,
+        "access": "permissive",
+        "entrance": "main",
+        "id": "node/4955871067"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.6869451,
+          -22.7615266
         ]
       }
     },

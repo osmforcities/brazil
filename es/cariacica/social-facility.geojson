@@ -221,6 +221,69 @@
     },
     {
       "type": "Feature",
+      "id": "way/1373040855",
+      "properties": {
+        "timestamp": "2025-03-30T12:51:00Z",
+        "version": 1,
+        "changeset": 164286152,
+        "addr:city": "Cariacica",
+        "addr:postcode": "29153-010",
+        "addr:street": "Rua Gabino Rios",
+        "addr:suburb": "Porto de Santana",
+        "amenity": "social_facility",
+        "name": "CRAS de Porto de Santana",
+        "operator": "Prefeitura Municipal de Cariacica",
+        "operator:type": "government",
+        "phone": "2733547102",
+        "wheelchair": "yes",
+        "id": "way/1373040855"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.3679897,
+              -20.3101908
+            ],
+            [
+              -40.3679954,
+              -20.3102153
+            ],
+            [
+              -40.368067,
+              -20.3105253
+            ],
+            [
+              -40.3679212,
+              -20.3105549
+            ],
+            [
+              -40.3678492,
+              -20.310243
+            ],
+            [
+              -40.3678439,
+              -20.3102204
+            ],
+            [
+              -40.3678516,
+              -20.3102189
+            ],
+            [
+              -40.3679163,
+              -20.3102057
+            ],
+            [
+              -40.3679897,
+              -20.3101908
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/3705966909",
       "properties": {
         "timestamp": "2015-08-20T03:12:54Z",
@@ -398,6 +461,24 @@
         "coordinates": [
           -40.394189,
           -20.3165194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12713273447",
+      "properties": {
+        "timestamp": "2025-03-30T12:51:00Z",
+        "version": 1,
+        "changeset": 164286152,
+        "barrier": "gate",
+        "id": "node/12713273447"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.3678516,
+          -20.3102189
         ]
       }
     }

@@ -5,9 +5,14 @@
       "type": "Feature",
       "id": "way/288109022",
       "properties": {
-        "timestamp": "2014-06-14T21:41:02Z",
-        "version": 1,
-        "changeset": 22934393,
+        "timestamp": "2025-03-31T12:50:38Z",
+        "version": 2,
+        "changeset": 164329136,
+        "addr:city": "Itabi",
+        "addr:housenumber": "281",
+        "addr:postcode": "49870-000",
+        "addr:street": "Rua José Maria do Couto",
+        "addr:suburb": "Centro",
         "amenity": "school",
         "name": "Colégio Estadual Professora Maria das Graças Menezes Moura",
         "id": "way/288109022"
@@ -83,9 +88,14 @@
       "type": "Feature",
       "id": "way/288109026",
       "properties": {
-        "timestamp": "2014-06-14T21:41:02Z",
-        "version": 1,
-        "changeset": 22934393,
+        "timestamp": "2025-03-31T12:50:38Z",
+        "version": 2,
+        "changeset": 164329136,
+        "addr:city": "Itabi",
+        "addr:housenumber": "103",
+        "addr:postcode": "49870-000",
+        "addr:street": "Rua Historiador Miguel Arcanjo do Couto",
+        "addr:suburb": "Centro",
         "amenity": "school",
         "name": "Escola Municipal Mariana Menezes de Santana",
         "id": "way/288109026"
@@ -95,24 +105,24 @@
         "coordinates": [
           [
             [
-              -37.1037407,
-              -10.126345
+              -37.1038599,
+              -10.1263324
             ],
             [
-              -37.1035229,
-              -10.1263688
+              -37.1035325,
+              -10.1263405
             ],
             [
-              -37.1034799,
-              -10.1261968
+              -37.1035214,
+              -10.1261779
             ],
             [
-              -37.1037219,
-              -10.1261676
+              -37.1037698,
+              -10.1261603
             ],
             [
-              -37.1037407,
-              -10.126345
+              -37.1038599,
+              -10.1263324
             ]
           ]
         ]
@@ -193,6 +203,99 @@
               -10.1246793
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1373470934",
+      "properties": {
+        "timestamp": "2025-03-31T17:48:48Z",
+        "version": 1,
+        "changeset": 164342196,
+        "addr:city": "Itabi",
+        "addr:postcode": "49870-000",
+        "addr:street": "Rodovia SE-170",
+        "addr:suburb": "Mata Grande",
+        "amenity": "school",
+        "name": "Escola Municipal Manoel Conde Sobral",
+        "operator": "Município de Itabi",
+        "operator:type": "public",
+        "id": "way/1373470934"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -37.1396176,
+              -10.1538234
+            ],
+            [
+              -37.1391727,
+              -10.1540246
+            ],
+            [
+              -37.1389918,
+              -10.153749
+            ],
+            [
+              -37.1394282,
+              -10.1535007
+            ],
+            [
+              -37.1396176,
+              -10.1538234
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12716771759",
+      "properties": {
+        "timestamp": "2025-03-31T17:48:48Z",
+        "version": 1,
+        "changeset": 164342196,
+        "addr:city": "Itabi",
+        "addr:postcode": "49870-000",
+        "addr:suburb": "Bom Nome",
+        "amenity": "school",
+        "name": "Escola Municipal Doutor Lourival Batista",
+        "operator": "Município de Itabi",
+        "operator:type": "public",
+        "id": "node/12716771759"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.1918584,
+          -10.1526149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12716772521",
+      "properties": {
+        "timestamp": "2025-03-31T17:48:48Z",
+        "version": 1,
+        "changeset": 164342196,
+        "addr:city": "Itabi",
+        "addr:postcode": "49870-000",
+        "addr:suburb": "Mão Esquerda",
+        "amenity": "school",
+        "name": "Escola Municipal Jizuino de Melo Rezende",
+        "operator": "Município de Itabi",
+        "operator:type": "public",
+        "id": "node/12716772521"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.182451,
+          -10.1235406
         ]
       }
     }

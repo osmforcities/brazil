@@ -3,13 +3,121 @@
   "features": [
     {
       "type": "Feature",
+      "id": "way/288109045",
+      "properties": {
+        "timestamp": "2025-03-31T17:48:48Z",
+        "version": 3,
+        "changeset": 164342196,
+        "addr:city": "Itabi",
+        "addr:postcode": "49870-000",
+        "addr:street": "Rua Manoel Alves de Souza",
+        "addr:suburb": "Centro",
+        "building": "yes",
+        "name": "Secretaria Municipal de Agricultura e Meio Ambiente",
+        "office": "government",
+        "id": "way/288109045"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -37.1061903,
+              -10.1256204
+            ],
+            [
+              -37.1061337,
+              -10.125707
+            ],
+            [
+              -37.1060038,
+              -10.1256247
+            ],
+            [
+              -37.1060604,
+              -10.1255381
+            ],
+            [
+              -37.1061903,
+              -10.1256204
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/288109047",
+      "properties": {
+        "timestamp": "2025-03-31T12:50:38Z",
+        "version": 2,
+        "changeset": 164329136,
+        "addr:city": "Itabi",
+        "addr:housenumber": "103",
+        "addr:street": "Rua da Floresta",
+        "addr:suburb": "Centro",
+        "building": "yes",
+        "government": "healthcare",
+        "name": "Secretaria Municipal de Saúde",
+        "office": "government",
+        "id": "way/288109047"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -37.0992069,
+              -10.125358
+            ],
+            [
+              -37.0989991,
+              -10.1255004
+            ],
+            [
+              -37.0989418,
+              -10.1254194
+            ],
+            [
+              -37.0990079,
+              -10.1253742
+            ],
+            [
+              -37.0989921,
+              -10.1253519
+            ],
+            [
+              -37.0990537,
+              -10.1253097
+            ],
+            [
+              -37.0990712,
+              -10.1253345
+            ],
+            [
+              -37.0991514,
+              -10.1252796
+            ],
+            [
+              -37.0992069,
+              -10.125358
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/2916508289",
       "properties": {
-        "timestamp": "2021-03-14T21:48:38Z",
-        "version": 2,
-        "changeset": 101009047,
+        "timestamp": "2025-03-31T17:48:48Z",
+        "version": 4,
+        "changeset": 164342196,
         "addr:city": "Itabi",
-        "addr:street": "Rua do Jokei",
+        "addr:housenumber": "273",
+        "addr:postcode": "49870-000",
+        "addr:street": "Rua Luiz José de Sá Gouveia",
+        "addr:suburb": "Centro",
         "description": "Escritório Comercial de Itabi (DESO)",
         "government": "public_service",
         "name": "Unidade de Atendimento ao Cliente (DESO)",
@@ -22,6 +130,56 @@
         "coordinates": [
           -37.1058376,
           -10.1253812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2916508290",
+      "properties": {
+        "timestamp": "2025-03-31T12:50:38Z",
+        "version": 3,
+        "changeset": 164329136,
+        "addr:city": "Itabi",
+        "addr:housenumber": "82",
+        "addr:postcode": "49870-000",
+        "addr:street": "Avenida Francisco Hold",
+        "addr:suburb": "Centro",
+        "government": "environment",
+        "name": "Emdagro",
+        "office": "government",
+        "id": "node/2916508290"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.0998762,
+          -10.1245513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12716033206",
+      "properties": {
+        "timestamp": "2025-03-31T12:50:38Z",
+        "version": 1,
+        "changeset": 164329136,
+        "addr:city": "Itabi",
+        "addr:housenumber": "65",
+        "addr:postcode": "49870-000",
+        "addr:street": "Praça Teófilo Batista de Melo",
+        "addr:suburb": "Centro",
+        "government": "education",
+        "name": "Secretaria Municipal de Educação",
+        "office": "government",
+        "id": "node/12716033206"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.1015185,
+          -10.1261734
         ]
       }
     }

@@ -71463,9 +71463,9 @@
       "type": "Feature",
       "id": "way/666148829",
       "properties": {
-        "timestamp": "2025-03-28T01:40:57Z",
-        "version": 16,
-        "changeset": 164188768,
+        "timestamp": "2025-03-31T09:24:45Z",
+        "version": 17,
+        "changeset": 164320349,
         "addr:city": "São Paulo",
         "addr:postcode": "01234-010",
         "addr:street": "Praça Charles Miller",
@@ -71474,7 +71474,6 @@
         "architect": "Ramos de Azevedo",
         "architect:wikidata": "Q9300159",
         "capacity": "25968",
-        "contact:old_website": "http://www.prefeitura.sp.gov.br/cidade/secretarias/esportes/estadio_pacaembu/",
         "contact:phone": "+55 11 3664-4650",
         "contact:website": "https://mercadolivrearenapacaembu.com/",
         "leisure": "stadium",
@@ -71494,6 +71493,7 @@
         "reservation": "recommended",
         "sport": "soccer",
         "start_date": "1940-04-27",
+        "was:website": "http://www.prefeitura.sp.gov.br/cidade/secretarias/esportes/estadio_pacaembu/",
         "wikidata": "Q655175",
         "wikimedia_commons": "Category:Estádio do Pacaembu",
         "wikipedia": "pt:Estádio do Pacaembu",
@@ -113383,6 +113383,45 @@
             [
               -46.7702828,
               -23.5901289
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1373231823",
+      "properties": {
+        "timestamp": "2025-03-31T03:05:35Z",
+        "version": 1,
+        "changeset": 164311106,
+        "leisure": "pitch",
+        "sport": "basketball",
+        "id": "way/1373231823"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.6434507,
+              -23.4885332
+            ],
+            [
+              -46.6434345,
+              -23.4886274
+            ],
+            [
+              -46.6433889,
+              -23.4886208
+            ],
+            [
+              -46.6434052,
+              -23.4885266
+            ],
+            [
+              -46.6434507,
+              -23.4885332
             ]
           ]
         ]

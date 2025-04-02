@@ -5,13 +5,22 @@
       "type": "Feature",
       "id": "way/288109048",
       "properties": {
-        "timestamp": "2014-06-14T21:41:03Z",
-        "version": 1,
-        "changeset": 22934393,
-        "access": "public",
+        "timestamp": "2025-03-31T17:48:48Z",
+        "version": 2,
+        "changeset": 164342196,
+        "access": "yes",
+        "addr:city": "Itabi",
+        "addr:housenumber": "970",
+        "addr:postcode": "49870-000",
+        "addr:street": "Rua do Jóquei",
+        "addr:suburb": "Centro",
         "amenity": "clinic",
         "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
         "name": "Unidade de Saúde Laudelina Figueiredo",
+        "operator": "Município de Itabi",
+        "operator:type": "public",
         "id": "way/288109048"
       },
       "geometry": {
@@ -19,24 +28,52 @@
         "coordinates": [
           [
             [
-              -37.1088818,
-              -10.1303902
+              -37.1089217,
+              -10.1305082
             ],
             [
-              -37.1089105,
-              -10.1306027
+              -37.108934,
+              -10.1306095
             ],
             [
-              -37.1086202,
-              -10.1306415
+              -37.1086931,
+              -10.1306379
             ],
             [
-              -37.1086354,
-              -10.1304254
+              -37.1086868,
+              -10.1305859
             ],
             [
-              -37.1088818,
-              -10.1303902
+              -37.1086526,
+              -10.1305573
+            ],
+            [
+              -37.108703,
+              -10.1304318
+            ],
+            [
+              -37.1087359,
+              -10.1304446
+            ],
+            [
+              -37.1087686,
+              -10.1304348
+            ],
+            [
+              -37.1088191,
+              -10.1304588
+            ],
+            [
+              -37.1088834,
+              -10.1304512
+            ],
+            [
+              -37.1088907,
+              -10.1305118
+            ],
+            [
+              -37.1089217,
+              -10.1305082
             ]
           ]
         ]
@@ -46,9 +83,9 @@
       "type": "Feature",
       "id": "node/9696037922",
       "properties": {
-        "timestamp": "2022-04-26T19:58:24Z",
-        "version": 1,
-        "changeset": 120228543,
+        "timestamp": "2025-03-31T12:50:38Z",
+        "version": 2,
+        "changeset": 164329136,
         "addr:city": "Itabi",
         "addr:housenumber": "04",
         "addr:postcode": "49870000",
@@ -61,8 +98,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -37.10307,
-          -10.1269439
+          -37.1031987,
+          -10.1270429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12716771747",
+      "properties": {
+        "timestamp": "2025-03-31T17:48:48Z",
+        "version": 1,
+        "changeset": 164342196,
+        "addr:city": "Itabi",
+        "addr:postcode": "49870-000",
+        "addr:street": "Rua da Clínica",
+        "addr:suburb": "Mata Grande",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Unidade da Saúde da Família do Povoado de Mata Grande",
+        "operator": "Município de Itabi",
+        "operator:type": "public",
+        "id": "node/12716771747"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.1386277,
+          -10.1534934
         ]
       }
     }

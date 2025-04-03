@@ -210,11 +210,17 @@
       "type": "Feature",
       "id": "way/699929018",
       "properties": {
-        "timestamp": "2025-01-13T02:35:35Z",
-        "version": 2,
-        "changeset": 161293588,
+        "timestamp": "2025-04-01T18:19:25Z",
+        "version": 3,
+        "changeset": 164388116,
+        "addr:city": "Betim",
+        "addr:housenumber": "180",
+        "addr:postcode": "32684-010",
+        "addr:street": "Rua Gaturana",
+        "addr:suburb": "Santo Antônio",
         "amenity": "hospital",
         "healthcare": "hospital",
+        "name": "Centro de Especialidades Odontológicas (CEO)",
         "id": "way/699929018"
       },
       "geometry": {
@@ -222,12 +228,12 @@
         "coordinates": [
           [
             [
-              -44.1119116,
-              -19.9490988
+              -44.1119307,
+              -19.9490771
             ],
             [
-              -44.1120008,
-              -19.9496606
+              -44.1119801,
+              -19.9496446
             ],
             [
               -44.11155,
@@ -238,12 +244,12 @@
               -19.949611
             ],
             [
-              -44.1115262,
-              -19.9491508
+              -44.1114787,
+              -19.9491118
             ],
             [
-              -44.1119116,
-              -19.9490988
+              -44.1119307,
+              -19.9490771
             ]
           ]
         ]
@@ -253,12 +259,20 @@
       "type": "Feature",
       "id": "way/699978046",
       "properties": {
-        "timestamp": "2020-01-07T14:19:43Z",
-        "version": 3,
-        "changeset": 79297395,
+        "timestamp": "2025-04-01T18:19:25Z",
+        "version": 4,
+        "changeset": 164388116,
+        "addr:city": "Betim",
+        "addr:housenumber": "3400",
+        "addr:postcode": "32671-150",
+        "addr:street": "Avenida Juiz Marco Túlio Isaac",
+        "addr:suburb": "Betim Industrial",
         "amenity": "hospital",
         "healthcare": "hospital",
         "name": "Hospital Unimed Betim",
+        "operator": "Unimed",
+        "operator:type": "private",
+        "operator:wikidata": "Q7865295",
         "id": "way/699978046"
       },
       "geometry": {
@@ -441,6 +455,67 @@
             [
               -44.0970113,
               -19.939361
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1373790043",
+      "properties": {
+        "timestamp": "2025-04-01T18:19:25Z",
+        "version": 1,
+        "changeset": 164388116,
+        "addr:city": "Betim",
+        "addr:housenumber": "1500",
+        "addr:postcode": "32670-250",
+        "addr:street": "Avenida Juiz Marco Túlio Isaac",
+        "addr:suburb": "Chácara",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Centro de Referência Divino Braga",
+        "id": "way/1373790043"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.1881366,
+              -19.9588087
+            ],
+            [
+              -44.188322,
+              -19.9590868
+            ],
+            [
+              -44.1878325,
+              -19.9594522
+            ],
+            [
+              -44.1870747,
+              -19.9590135
+            ],
+            [
+              -44.1869593,
+              -19.9588652
+            ],
+            [
+              -44.1871707,
+              -19.9588698
+            ],
+            [
+              -44.1873756,
+              -19.9588408
+            ],
+            [
+              -44.1877561,
+              -19.9587873
+            ],
+            [
+              -44.1881366,
+              -19.9588087
             ]
           ]
         ]

@@ -330,6 +330,111 @@
     },
     {
       "type": "Feature",
+      "id": "way/689411148",
+      "properties": {
+        "timestamp": "2025-04-01T18:19:25Z",
+        "version": 2,
+        "changeset": 164388116,
+        "addr:city": "Betim",
+        "addr:housenumber": "1500",
+        "addr:postcode": "32670-250",
+        "addr:street": "Avenida Juiz Marco Túlio Isaac",
+        "addr:suburb": "Chácara",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "id": "way/689411148"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.1870208,
+              -19.9588968
+            ],
+            [
+              -44.1871127,
+              -19.9588784
+            ],
+            [
+              -44.1873004,
+              -19.9589777
+            ],
+            [
+              -44.1873689,
+              -19.9588931
+            ],
+            [
+              -44.1874236,
+              -19.9589336
+            ],
+            [
+              -44.1874686,
+              -19.9588803
+            ],
+            [
+              -44.1875859,
+              -19.9589372
+            ],
+            [
+              -44.1875977,
+              -19.9588619
+            ],
+            [
+              -44.187891,
+              -19.9588674
+            ],
+            [
+              -44.1878871,
+              -19.9590402
+            ],
+            [
+              -44.1877971,
+              -19.9590457
+            ],
+            [
+              -44.1878988,
+              -19.95911
+            ],
+            [
+              -44.1879125,
+              -19.9591523
+            ],
+            [
+              -44.1879516,
+              -19.9591504
+            ],
+            [
+              -44.1879614,
+              -19.9592956
+            ],
+            [
+              -44.1879105,
+              -19.9593067
+            ],
+            [
+              -44.1878753,
+              -19.9593453
+            ],
+            [
+              -44.1877913,
+              -19.959428
+            ],
+            [
+              -44.1870501,
+              -19.9589593
+            ],
+            [
+              -44.1870208,
+              -19.9588968
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/748960690",
       "properties": {
         "timestamp": "2025-02-26T13:57:00Z",
@@ -606,6 +711,47 @@
     },
     {
       "type": "Feature",
+      "id": "way/1373790018",
+      "properties": {
+        "timestamp": "2025-04-01T18:19:25Z",
+        "version": 1,
+        "changeset": 164388116,
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "Ubs Alcides Bráz",
+        "id": "way/1373790018"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.1896933,
+              -19.9613634
+            ],
+            [
+              -44.1898318,
+              -19.9615868
+            ],
+            [
+              -44.1896321,
+              -19.9616961
+            ],
+            [
+              -44.1894937,
+              -19.9614727
+            ],
+            [
+              -44.1896933,
+              -19.9613634
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/4692021430",
       "properties": {
         "timestamp": "2021-01-03T21:13:12Z",
@@ -659,6 +805,31 @@
         "coordinates": [
           -44.2716486,
           -19.9434544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12719491584",
+      "properties": {
+        "timestamp": "2025-04-01T18:19:25Z",
+        "version": 1,
+        "changeset": 164388116,
+        "addr:city": "Betim",
+        "addr:housenumber": "63",
+        "addr:postcode": "32677-580",
+        "addr:street": "Rua Progresso",
+        "addr:suburb": "São Caetano",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "operator": "Clinica de Olhos Especialidades Médicas Provida Betim",
+        "id": "node/12719491584"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.1144561,
+          -19.9361866
         ]
       }
     }

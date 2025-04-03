@@ -5,13 +5,22 @@
       "type": "Feature",
       "id": "way/293722329",
       "properties": {
-        "timestamp": "2021-07-23T21:41:56Z",
-        "version": 2,
-        "changeset": 108514160,
+        "timestamp": "2025-04-01T17:51:04Z",
+        "version": 3,
+        "changeset": 164386854,
         "access": "yes",
+        "addr:city": "Canhoba",
+        "addr:housenumber": "177",
+        "addr:postcode": "49880-000",
+        "addr:street": "Avenida Governador Eronides Ferreira de Carvalho",
+        "addr:suburb": "Centro",
         "amenity": "clinic",
         "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
         "name": "Unidade de Saúde Joselita Guilherme dos Santos",
+        "operator": "Município de Canhoba",
+        "operator:type": "public",
         "id": "way/293722329"
       },
       "geometry": {
@@ -39,6 +48,110 @@
               -10.1379586
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1373775495",
+      "properties": {
+        "timestamp": "2025-04-01T17:51:04Z",
+        "version": 1,
+        "changeset": 164386854,
+        "addr:city": "Canhoba",
+        "addr:housenumber": "161",
+        "addr:postcode": "49880-000",
+        "addr:street": "Rodovia Governador Eronides Ferreira de Carvalho",
+        "addr:suburb": "Centro",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Clínica de Saúde da Família Edgard Gomes Menezes",
+        "operator": "Município de Canhoba",
+        "operator:type": "public",
+        "id": "way/1373775495"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -36.9769411,
+              -10.1402324
+            ],
+            [
+              -36.9768657,
+              -10.1402584
+            ],
+            [
+              -36.9768718,
+              -10.1402755
+            ],
+            [
+              -36.9767935,
+              -10.1403024
+            ],
+            [
+              -36.9768076,
+              -10.1403424
+            ],
+            [
+              -36.9767033,
+              -10.1403783
+            ],
+            [
+              -36.9766821,
+              -10.1403184
+            ],
+            [
+              -36.9766594,
+              -10.1403262
+            ],
+            [
+              -36.9766037,
+              -10.1401693
+            ],
+            [
+              -36.9768193,
+              -10.1400951
+            ],
+            [
+              -36.9768347,
+              -10.1401387
+            ],
+            [
+              -36.9768999,
+              -10.1401163
+            ],
+            [
+              -36.9769411,
+              -10.1402324
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12719797722",
+      "properties": {
+        "timestamp": "2025-04-01T19:04:36Z",
+        "version": 1,
+        "changeset": 164389791,
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Posto de Saúde de Sítios Novos",
+        "operator": "Município de Canhoba",
+        "operator:type": "public",
+        "id": "node/12719797722"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.035511,
+          -10.1444412
         ]
       }
     }

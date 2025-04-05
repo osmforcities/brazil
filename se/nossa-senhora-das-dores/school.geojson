@@ -18,12 +18,12 @@
         "coordinates": [
           [
             [
-              -37.1935252,
+              -37.1935212,
               -10.4892424
             ],
             [
-              -37.1925705,
-              -10.489257
+              -37.1925535,
+              -10.4892591
             ],
             [
               -37.1925623,
@@ -42,7 +42,7 @@
               -10.4887186
             ],
             [
-              -37.1935252,
+              -37.1935212,
               -10.4892424
             ]
           ]
@@ -185,9 +185,9 @@
       "type": "Feature",
       "id": "way/1374275045",
       "properties": {
-        "timestamp": "2025-04-02T23:04:05Z",
-        "version": 2,
-        "changeset": 164442184,
+        "timestamp": "2025-04-03T09:34:29Z",
+        "version": 3,
+        "changeset": 164455432,
         "addr:city": "Nossa Senhora das Dores",
         "addr:housenumber": "261",
         "addr:postcode": "49600-000",
@@ -196,6 +196,7 @@
         "amenity": "school",
         "name": "Escola Municipal Arnaldo Rolemberg Garcez",
         "operator": "Município de Nossa Senhora das Dores",
+        "operator:type": "public",
         "id": "way/1374275045"
       },
       "geometry": {
@@ -229,6 +230,51 @@
             [
               -37.1950133,
               -10.498407
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1374494675",
+      "properties": {
+        "timestamp": "2025-04-03T18:12:28Z",
+        "version": 1,
+        "changeset": 164478007,
+        "addr:city": "Nossa Senhora das Dores",
+        "addr:postcode": "49600-000",
+        "addr:street": "Avenida Liberdade",
+        "addr:suburb": "Cruzeiro das Moças",
+        "amenity": "school",
+        "name": "Escola Municipal Professora Hozana Azevedo",
+        "operator": "Município de Nossa Senhora das Dores",
+        "operator:type": "public",
+        "id": "way/1374494675"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -37.1842842,
+              -10.4844064
+            ],
+            [
+              -37.1842521,
+              -10.4848547
+            ],
+            [
+              -37.1838598,
+              -10.4848276
+            ],
+            [
+              -37.1838919,
+              -10.4843792
+            ],
+            [
+              -37.1842842,
+              -10.4844064
             ]
           ]
         ]

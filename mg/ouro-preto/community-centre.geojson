@@ -46,15 +46,15 @@
       "type": "Feature",
       "id": "way/600495036",
       "properties": {
-        "timestamp": "2018-06-22T02:22:56Z",
-        "version": 1,
-        "changeset": 60060388,
+        "timestamp": "2025-04-03T17:54:57Z",
+        "version": 2,
+        "changeset": 164477335,
         "addr:street": "Avenida Perimetral",
         "amenity": "community_centre",
         "building": "yes",
         "building:levels": "3",
         "height": "8",
-        "name": "Pró-melhoramentos",
+        "name": "Associação de Moradores - Pro Melhoramentos",
         "id": "way/600495036"
       },
       "geometry": {
@@ -134,6 +134,26 @@
               -20.3990298
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12726384535",
+      "properties": {
+        "timestamp": "2025-04-03T17:54:57Z",
+        "version": 1,
+        "changeset": 164477335,
+        "amenity": "community_centre",
+        "community_centre": "cultural_centre",
+        "name": "Centro pastoral",
+        "id": "node/12726384535"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.5101026,
+          -20.4015591
         ]
       }
     }

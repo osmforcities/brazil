@@ -13084,6 +13084,51 @@
     },
     {
       "type": "Feature",
+      "id": "way/1373999493",
+      "properties": {
+        "timestamp": "2025-04-02T04:28:53Z",
+        "version": 1,
+        "changeset": 164400897,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "305",
+        "addr:postcode": "02067-020",
+        "addr:street": "Rua José Pereira Jorge",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "AMA+ UBS Carandiru",
+        "id": "way/1373999493"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.6106409,
+              -23.5043087
+            ],
+            [
+              -46.611116,
+              -23.5041068
+            ],
+            [
+              -46.6112235,
+              -23.5043241
+            ],
+            [
+              -46.6106302,
+              -23.504577
+            ],
+            [
+              -46.6106409,
+              -23.5043087
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/462898594",
       "properties": {
         "timestamp": "2023-04-13T13:58:06Z",
@@ -17651,26 +17696,6 @@
         "coordinates": [
           -46.5688107,
           -23.5421887
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/7079628288",
-      "properties": {
-        "timestamp": "2021-06-22T03:14:49Z",
-        "version": 2,
-        "changeset": 106744066,
-        "amenity": "clinic",
-        "healthcare": "clinic",
-        "name": "AMA Carandiru",
-        "id": "node/7079628288"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -46.6106612,
-          -23.5044258
         ]
       }
     },

@@ -5,11 +5,13 @@
       "type": "Feature",
       "id": "way/170937133",
       "properties": {
-        "timestamp": "2019-04-03T00:28:28Z",
-        "version": 3,
-        "changeset": 68817831,
-        "leisure": "stadium",
+        "timestamp": "2025-04-02T21:37:34Z",
+        "version": 4,
+        "changeset": 164440629,
+        "access": "private",
+        "leisure": "pitch",
         "sport": "soccer",
+        "surface": "grass",
         "id": "way/170937133"
       },
       "geometry": {
@@ -17,24 +19,103 @@
         "coordinates": [
           [
             [
-              -37.1922863,
-              -10.4872444
+              -37.1922169,
+              -10.4872458
             ],
             [
-              -37.1920078,
-              -10.4878145
+              -37.191937,
+              -10.4877992
             ],
             [
-              -37.1911224,
-              -10.4873963
+              -37.1911068,
+              -10.4873768
             ],
             [
               -37.1914009,
               -10.4868262
             ],
             [
-              -37.1922863,
-              -10.4872444
+              -37.1922169,
+              -10.4872458
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/319963182",
+      "properties": {
+        "timestamp": "2025-04-02T21:37:34Z",
+        "version": 3,
+        "changeset": 164440629,
+        "access": "yes",
+        "addr:city": "Nossa Senhora das Dores",
+        "addr:postcode": "49600-000",
+        "addr:suburb": "Centro",
+        "building": "yes",
+        "leisure": "pitch",
+        "lit": "yes",
+        "name": "Ginásio de Esportes Tancredo Vieira",
+        "sport": "multi",
+        "surface": "concrete",
+        "id": "way/319963182"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -37.1952889,
+              -10.48717
+            ],
+            [
+              -37.1952555,
+              -10.4871894
+            ],
+            [
+              -37.195267,
+              -10.4872086
+            ],
+            [
+              -37.1950202,
+              -10.4873522
+            ],
+            [
+              -37.195012,
+              -10.4873385
+            ],
+            [
+              -37.1949894,
+              -10.4873516
+            ],
+            [
+              -37.1947563,
+              -10.4869643
+            ],
+            [
+              -37.1947801,
+              -10.4869504
+            ],
+            [
+              -37.1947541,
+              -10.4869071
+            ],
+            [
+              -37.1950086,
+              -10.4867591
+            ],
+            [
+              -37.1950334,
+              -10.4868002
+            ],
+            [
+              -37.1950579,
+              -10.486786
+            ],
+            [
+              -37.1952889,
+              -10.48717
             ]
           ]
         ]
@@ -44,14 +125,15 @@
       "type": "Feature",
       "id": "way/410881379",
       "properties": {
-        "timestamp": "2016-04-16T15:10:02Z",
-        "version": 1,
-        "changeset": 38625252,
+        "timestamp": "2025-04-02T21:37:34Z",
+        "version": 2,
+        "changeset": 164440629,
+        "access": "private",
         "leisure": "pitch",
         "lit": "yes",
         "name": "Quadra Poliesportiva do Colégio Estadual General Clazans",
-        "sport": "football",
-        "surface": "paved",
+        "sport": "multi",
+        "surface": "concrete",
         "id": "way/410881379"
       },
       "geometry": {
@@ -59,24 +141,24 @@
         "coordinates": [
           [
             [
-              -37.1930189,
-              -10.4887306
+              -37.1930235,
+              -10.4887266
             ],
             [
-              -37.1925663,
-              -10.4887372
+              -37.1926425,
+              -10.4887296
             ],
             [
-              -37.1925663,
-              -10.4883928
+              -37.19264,
+              -10.488425
             ],
             [
-              -37.1930286,
-              -10.488402
+              -37.193021,
+              -10.488422
             ],
             [
-              -37.1930189,
-              -10.4887306
+              -37.1930235,
+              -10.4887266
             ]
           ]
         ]
@@ -155,6 +237,67 @@
             [
               -37.2797335,
               -10.4825789
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1374275042",
+      "properties": {
+        "timestamp": "2025-04-02T21:37:34Z",
+        "version": 1,
+        "changeset": 164440629,
+        "addr:city": "Nossa Senhora das Dores",
+        "addr:postcode": "49600-000",
+        "addr:street": "Avenida Doutor Lourival Baptista",
+        "addr:suburb": "Centro",
+        "leisure": "stadium",
+        "name": "Estádio Ariston Azevedo",
+        "operator": "Dorense Futebol Clube",
+        "sport": "soccer",
+        "id": "way/1374275042"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -37.1923822,
+              -10.4872334
+            ],
+            [
+              -37.1919553,
+              -10.4879505
+            ],
+            [
+              -37.1906679,
+              -10.4873599
+            ],
+            [
+              -37.1908256,
+              -10.486943
+            ],
+            [
+              -37.1911188,
+              -10.4870868
+            ],
+            [
+              -37.1912469,
+              -10.4868874
+            ],
+            [
+              -37.1912775,
+              -10.4869023
+            ],
+            [
+              -37.1913679,
+              -10.486737
+            ],
+            [
+              -37.1923822,
+              -10.4872334
             ]
           ]
         ]

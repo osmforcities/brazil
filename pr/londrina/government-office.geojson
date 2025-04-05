@@ -546,6 +546,54 @@
     },
     {
       "type": "Feature",
+      "id": "way/472203519",
+      "properties": {
+        "timestamp": "2025-04-02T22:46:02Z",
+        "version": 2,
+        "changeset": 164441958,
+        "addr:city": "Londrina",
+        "addr:housenumber": "1213",
+        "addr:street": "Rua Professor João Cândido",
+        "addr:suburb": "Centro",
+        "building": "yes",
+        "government": "administrative",
+        "name": "CMTU Londrina",
+        "office": "government",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "phone": "+55 43 3379 7900",
+        "website": "https://cmtu.londrina.pr.gov.br/",
+        "id": "way/472203519"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.1613321,
+              -23.3200517
+            ],
+            [
+              -51.1613283,
+              -23.3203231
+            ],
+            [
+              -51.1611891,
+              -23.3203214
+            ],
+            [
+              -51.1611929,
+              -23.32005
+            ],
+            [
+              -51.1613321,
+              -23.3200517
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/472205449",
       "properties": {
         "timestamp": "2024-01-16T02:38:30Z",
@@ -881,79 +929,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/1269173519",
-      "properties": {
-        "timestamp": "2024-04-04T21:54:01Z",
-        "version": 1,
-        "changeset": 149589022,
-        "addr:housenumber": "2948",
-        "addr:street": "Avenida Juscelino Kubitschek",
-        "building": "yes",
-        "office": "government",
-        "id": "way/1269173519"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -51.1598503,
-              -23.3201362
-            ],
-            [
-              -51.1598541,
-              -23.3203564
-            ],
-            [
-              -51.1598071,
-              -23.3203459
-            ],
-            [
-              -51.1597539,
-              -23.3203447
-            ],
-            [
-              -51.159712,
-              -23.3203517
-            ],
-            [
-              -51.1596765,
-              -23.3203622
-            ],
-            [
-              -51.15966,
-              -23.3203704
-            ],
-            [
-              -51.1596587,
-              -23.3201501
-            ],
-            [
-              -51.1596993,
-              -23.320135
-            ],
-            [
-              -51.1597221,
-              -23.3201292
-            ],
-            [
-              -51.1597615,
-              -23.3201233
-            ],
-            [
-              -51.1598097,
-              -23.3201233
-            ],
-            [
-              -51.1598503,
-              -23.3201362
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/4534580066",
       "properties": {
         "timestamp": "2020-08-23T05:46:18Z",
@@ -1049,29 +1024,6 @@
         "coordinates": [
           -51.1573971,
           -23.3107841
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/11788056159",
-      "properties": {
-        "timestamp": "2024-04-04T21:54:01Z",
-        "version": 1,
-        "changeset": 149589022,
-        "addr:housenumber": "2948",
-        "addr:street": "Avenida Juscelino Kubitschek",
-        "addr:suburb": "Centro",
-        "government": "administrative",
-        "name": "ACESF – Administração dos Cemitérios e Serviços Funerários de Londrina",
-        "office": "government",
-        "id": "node/11788056159"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -51.1597107,
-          -23.3201769
         ]
       }
     }

@@ -5,9 +5,9 @@
       "type": "Feature",
       "id": "way/319963172",
       "properties": {
-        "timestamp": "2024-07-08T13:58:55Z",
-        "version": 3,
-        "changeset": 153705515,
+        "timestamp": "2025-04-02T21:37:34Z",
+        "version": 4,
+        "changeset": 164440629,
         "amenity": "school",
         "check_date": "2024-07-08",
         "name": "Colégio Estadual General Calazans",
@@ -18,28 +18,32 @@
         "coordinates": [
           [
             [
-              -37.1934729,
-              -10.4892522
+              -37.1935252,
+              -10.4892424
             ],
             [
-              -37.192886,
-              -10.4892615
+              -37.1925705,
+              -10.489257
             ],
             [
-              -37.1928862,
-              -10.4887359
+              -37.1925623,
+              -10.4887333
             ],
             [
-              -37.1930189,
-              -10.4887306
+              -37.1926425,
+              -10.4887296
             ],
             [
-              -37.193454,
-              -10.4887123
+              -37.1930235,
+              -10.4887266
             ],
             [
-              -37.1934729,
-              -10.4892522
+              -37.1935168,
+              -10.4887186
+            ],
+            [
+              -37.1935252,
+              -10.4892424
             ]
           ]
         ]
@@ -49,11 +53,18 @@
       "type": "Feature",
       "id": "way/319963173",
       "properties": {
-        "timestamp": "2015-01-02T02:44:39Z",
-        "version": 1,
-        "changeset": 27853862,
+        "timestamp": "2025-04-02T21:37:34Z",
+        "version": 2,
+        "changeset": 164440629,
+        "addr:city": "Nossa Senhora das Dores",
+        "addr:housenumber": "214",
+        "addr:postcode": "49600-000",
+        "addr:street": "Avenida Presidente Médici",
+        "addr:suburb": "Centro",
         "amenity": "school",
         "name": "Colégio Estadual Professor Fernando Azevedo",
+        "operator": "Secretaria de Educação do Estado de Sergipe",
+        "operator:type": "public",
         "id": "way/319963173"
       },
       "geometry": {
@@ -61,24 +72,24 @@
         "coordinates": [
           [
             [
-              -37.1935731,
-              -10.4861482
+              -37.1935915,
+              -10.48608
             ],
             [
-              -37.1930376,
-              -10.4864181
+              -37.1929866,
+              -10.4863903
             ],
             [
-              -37.1928535,
-              -10.4854472
+              -37.1928846,
+              -10.4854486
             ],
             [
-              -37.1934694,
-              -10.4853814
+              -37.1934991,
+              -10.4853786
             ],
             [
-              -37.1935731,
-              -10.4861482
+              -37.1935915,
+              -10.48608
             ]
           ]
         ]
@@ -88,11 +99,19 @@
       "type": "Feature",
       "id": "way/334440550",
       "properties": {
-        "timestamp": "2015-03-24T00:57:19Z",
-        "version": 1,
-        "changeset": 29694967,
+        "timestamp": "2025-04-02T21:37:34Z",
+        "version": 2,
+        "changeset": 164440629,
+        "addr:city": "Nossa Senhora das Dores",
+        "addr:housenumber": "116",
+        "addr:postcode": "49600-000",
+        "addr:street": "Avenida Doutor Lourival Baptista",
+        "addr:suburb": "Centro",
         "amenity": "school",
+        "email": "0981.secretaria@cnec.br",
         "name": "Colégio Cenecista Francisco Porto",
+        "phone": "+55 79 3265 1213",
+        "website": "https://colegios.cnec.br/franciscoporto/contato",
         "id": "way/334440550"
       },
       "geometry": {
@@ -100,24 +119,24 @@
         "coordinates": [
           [
             [
-              -37.1927733,
-              -10.4874271
+              -37.1927393,
+              -10.4874229
             ],
             [
-              -37.1924186,
-              -10.4881823
+              -37.1923564,
+              -10.4881753
             ],
             [
-              -37.1909933,
-              -10.4874655
+              -37.1919553,
+              -10.4879505
             ],
             [
-              -37.1914294,
-              -10.4867488
+              -37.1923822,
+              -10.4872334
             ],
             [
-              -37.1927733,
-              -10.4874271
+              -37.1927393,
+              -10.4874229
             ]
           ]
         ]
@@ -157,6 +176,59 @@
             [
               -37.185795,
               -10.4763922
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1374275045",
+      "properties": {
+        "timestamp": "2025-04-02T23:04:05Z",
+        "version": 2,
+        "changeset": 164442184,
+        "addr:city": "Nossa Senhora das Dores",
+        "addr:housenumber": "261",
+        "addr:postcode": "49600-000",
+        "addr:street": "Avenida Augusto Franco",
+        "addr:suburb": "Centro",
+        "amenity": "school",
+        "name": "Escola Municipal Arnaldo Rolemberg Garcez",
+        "operator": "Município de Nossa Senhora das Dores",
+        "id": "way/1374275045"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -37.1950133,
+              -10.498407
+            ],
+            [
+              -37.1942279,
+              -10.4986868
+            ],
+            [
+              -37.1941043,
+              -10.4983558
+            ],
+            [
+              -37.1944783,
+              -10.4982231
+            ],
+            [
+              -37.1944994,
+              -10.4982806
+            ],
+            [
+              -37.1948848,
+              -10.4981207
+            ],
+            [
+              -37.1950133,
+              -10.498407
             ]
           ]
         ]

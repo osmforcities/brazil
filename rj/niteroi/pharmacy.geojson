@@ -2359,27 +2359,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/2292514060",
-      "properties": {
-        "timestamp": "2013-05-05T15:13:41Z",
-        "version": 1,
-        "changeset": 15985567,
-        "amenity": "pharmacy",
-        "dispensing": "yes",
-        "name": "Tamoio",
-        "source": "survey",
-        "id": "node/2292514060"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.0296869,
-          -22.9434483
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/2379107790",
       "properties": {
         "timestamp": "2023-05-22T23:16:48Z",
@@ -3188,20 +3167,20 @@
       "type": "Feature",
       "id": "node/9611865180",
       "properties": {
-        "timestamp": "2022-03-28T00:39:17Z",
-        "version": 1,
-        "changeset": 118999764,
+        "timestamp": "2025-04-04T15:45:54Z",
+        "version": 2,
+        "changeset": 164516352,
         "amenity": "pharmacy",
         "dispensing": "yes",
         "healthcare": "pharmacy",
-        "name": "Drogaria Cristal",
+        "name": "Drogarias Imperial",
         "id": "node/9611865180"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -43.1094786,
-          -22.9064266
+          -43.1094818,
+          -22.9064138
         ]
       }
     },
@@ -3350,13 +3329,19 @@
       "type": "Feature",
       "id": "node/11062690750",
       "properties": {
-        "timestamp": "2023-07-23T04:01:17Z",
-        "version": 1,
-        "changeset": 138877799,
+        "timestamp": "2025-04-04T16:12:38Z",
+        "version": 2,
+        "changeset": 164517922,
+        "addr:city": "Niterói",
+        "addr:housenumber": "5140",
+        "addr:street": "Estrada Francisco da Cruz Nunes",
+        "addr:suburb": "Cafubá",
         "amenity": "pharmacy",
+        "dispensing": "yes",
         "healthcare": "pharmacy",
         "name": "Drogaria Cristal",
         "opening_hours": "24/7",
+        "website": "https://drogariacristal.com",
         "id": "node/11062690750"
       },
       "geometry": {
@@ -3411,19 +3396,19 @@
       "type": "Feature",
       "id": "node/11175524990",
       "properties": {
-        "timestamp": "2023-09-07T22:11:41Z",
-        "version": 1,
-        "changeset": 140960175,
+        "timestamp": "2025-04-04T15:56:29Z",
+        "version": 2,
+        "changeset": 164516996,
         "amenity": "pharmacy",
         "healthcare": "pharmacy",
-        "name": "Tamoio",
+        "name": "Drogaria Tamoio",
         "id": "node/11175524990"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -43.0298131,
-          -22.9434185
+          -43.0297761,
+          -22.9433958
         ]
       }
     },
@@ -3564,6 +3549,60 @@
         "coordinates": [
           -43.0857442,
           -22.8815474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12729246265",
+      "properties": {
+        "timestamp": "2025-04-04T15:45:54Z",
+        "version": 1,
+        "changeset": 164516352,
+        "addr:city": "Niterói",
+        "addr:housenumber": "296",
+        "addr:postcode": "24230-063",
+        "addr:street": "Rua Ator Paulo Gustavo",
+        "addr:suburb": "Icaraí",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Drogaria Cristal",
+        "id": "node/12729246265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1092718,
+          -22.9083687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12729258546",
+      "properties": {
+        "timestamp": "2025-04-04T15:56:29Z",
+        "version": 1,
+        "changeset": 164516996,
+        "addr:city": "Niterói",
+        "addr:housenumber": "391",
+        "addr:postcode": "24340-100",
+        "addr:street": "Avenida Ewerton da Costa Xavier",
+        "addr:suburb": "Itaipu",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Drogaria Cristal - Itaipu",
+        "website": "https://drogariacristal.com",
+        "wheelchair": "yes",
+        "id": "node/12729258546"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.0301195,
+          -22.9434959
         ]
       }
     }

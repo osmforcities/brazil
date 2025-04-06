@@ -11694,9 +11694,9 @@
       "type": "Feature",
       "id": "way/182192478",
       "properties": {
-        "timestamp": "2021-04-28T20:59:05Z",
-        "version": 7,
-        "changeset": 103801310,
+        "timestamp": "2025-04-04T18:55:00Z",
+        "version": 8,
+        "changeset": 164524540,
         "addr:city": "São Paulo",
         "addr:housenumber": "18",
         "addr:postcode": "03227-020",
@@ -11721,8 +11721,24 @@
               -23.5885744
             ],
             [
-              -46.5708249,
-              -23.5889957
+              -46.5708735,
+              -23.5889484
+            ],
+            [
+              -46.5708531,
+              -23.5889687
+            ],
+            [
+              -46.5708336,
+              -23.5889723
+            ],
+            [
+              -46.5708147,
+              -23.5889587
+            ],
+            [
+              -46.5708027,
+              -23.588938
             ],
             [
               -46.57044,
@@ -29788,11 +29804,12 @@
       "type": "Feature",
       "id": "way/456243254",
       "properties": {
-        "timestamp": "2021-04-28T17:29:28Z",
-        "version": 6,
-        "changeset": 103793104,
+        "timestamp": "2025-04-04T19:30:06Z",
+        "version": 7,
+        "changeset": 164525710,
         "addr:city": "São Paulo",
         "addr:country": "BR",
+        "addr:housenumber": "S/N",
         "addr:postcode": "03227-110",
         "addr:state": "SP",
         "addr:street": "Rua Mendonça Corte Real",
@@ -29803,6 +29820,8 @@
         "name": "Escola Estadual Professor Américo de Moura",
         "note": "Sem número.",
         "operator": "Secretaria da Educação do Estado de São Paulo",
+        "operator:type": "government",
+        "operator:wikidata": "Q10369245",
         "phone": "+55 11 2345-6633",
         "ref": "35001855",
         "short_name": "E.E. Professor Américo de Moura",
@@ -29813,32 +29832,40 @@
         "coordinates": [
           [
             [
-              -46.5745362,
-              -23.5835552
+              -46.5745143,
+              -23.5835461
             ],
             [
-              -46.5741232,
-              -23.5842828
+              -46.5737377,
+              -23.5849761
             ],
             [
-              -46.5737048,
-              -23.5850227
+              -46.5734248,
+              -23.5849609
             ],
             [
-              -46.5730637,
-              -23.5849465
+              -46.5730594,
+              -23.5850209
+            ],
+            [
+              -46.5730398,
+              -23.5850123
+            ],
+            [
+              -46.5730348,
+              -23.5849922
             ],
             [
               -46.573441,
               -23.5841819
             ],
             [
-              -46.5738496,
-              -23.5833536
+              -46.5738586,
+              -23.5833527
             ],
             [
-              -46.5745362,
-              -23.5835552
+              -46.5745143,
+              -23.5835461
             ]
           ]
         ]
@@ -38230,9 +38257,9 @@
       "type": "Feature",
       "id": "way/499319598",
       "properties": {
-        "timestamp": "2024-09-10T13:54:35Z",
-        "version": 6,
-        "changeset": 156442045,
+        "timestamp": "2025-04-04T22:40:45Z",
+        "version": 7,
+        "changeset": 164530605,
         "addr:city": "São Paulo",
         "addr:country": "BR",
         "addr:housenumber": "80",
@@ -38242,7 +38269,7 @@
         "amenity": "school",
         "contact:phone": "+55 11 3719 2343",
         "loc_name": "CEU Jaguaré",
-        "name": "CEU JAGUARÉ",
+        "name": "CEU Jaguaré",
         "phone": "+55 11 3719 2250",
         "ref": "35455520",
         "website": "http://portal.sme.prefeitura.sp.gov.br/CEU-Jaguare",
@@ -88629,15 +88656,18 @@
       "type": "Feature",
       "id": "way/1314653754",
       "properties": {
-        "timestamp": "2024-09-10T14:10:50Z",
-        "version": 1,
-        "changeset": 156442839,
+        "timestamp": "2025-04-04T22:40:45Z",
+        "version": 2,
+        "changeset": 164530605,
         "addr:city": "São Paulo",
         "addr:street": "Rua Eulo Maroni",
-        "addr:suburb": "JAGUARÉ",
+        "addr:suburb": "Jaguaré",
         "amenity": "school",
-        "name": "ESCOLA ESTADUAL DEPUTADO AUGUSTO AMARAL",
-        "operator": "GOVERNO DO ESTADO",
+        "name": "Escola Estadual Deputado Augusto Amaral",
+        "operator": "Secretaria da Educação do Estado de São Paulo",
+        "operator:type": "government",
+        "operator:wikidata": "Q10369245",
+        "religion": "none",
         "id": "way/1314653754"
       },
       "geometry": {

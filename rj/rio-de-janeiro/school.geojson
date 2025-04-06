@@ -3019,6 +3019,48 @@
     },
     {
       "type": "Feature",
+      "id": "way/95339195",
+      "properties": {
+        "timestamp": "2025-04-04T15:27:19Z",
+        "version": 2,
+        "changeset": 164515218,
+        "addr:street": "Rua Gustavo Sampaio",
+        "amenity": "school",
+        "building": "yes",
+        "name": "escola municipal São Tomás de Aquino",
+        "source": "Bing",
+        "id": "way/95339195"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.1646323,
+              -22.9615301
+            ],
+            [
+              -43.1646784,
+              -22.9612914
+            ],
+            [
+              -43.1653847,
+              -22.961407
+            ],
+            [
+              -43.1653386,
+              -22.9616457
+            ],
+            [
+              -43.1646323,
+              -22.9615301
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/102746759",
       "properties": {
         "timestamp": "2021-11-30T09:37:26Z",
@@ -78011,6 +78053,30 @@
         "coordinates": [
           -43.3347235,
           -22.8827716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12729730437",
+      "properties": {
+        "timestamp": "2025-04-04T20:45:24Z",
+        "version": 1,
+        "changeset": 164528158,
+        "addr:city": "Rio de Janeiro",
+        "addr:housenumber": "178",
+        "addr:postcode": "22745282",
+        "addr:street": "Rua Comandante Rubens Silva",
+        "addr:suburb": "Freguesia",
+        "amenity": "school",
+        "name": "Avanço Colégio Curso",
+        "id": "node/12729730437"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.3376505,
+          -22.9369879
         ]
       }
     }

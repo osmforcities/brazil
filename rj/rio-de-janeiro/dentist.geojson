@@ -369,103 +369,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/1373210830",
-      "properties": {
-        "timestamp": "2025-03-30T23:00:58Z",
-        "version": 1,
-        "changeset": 164308076,
-        "addr:city": "Rio de Janeiro",
-        "addr:housenumber": "n° 101 Sala 203",
-        "addr:postcode": "22790-340",
-        "addr:street": "R. Prudente de Morais Neto",
-        "addr:suburb": "Recreio dos Bandeirantes",
-        "amenity": "dentist",
-        "building": "commercial",
-        "healthcare": "dentist",
-        "healthcare:speciality": "dentistry;odontologia;consultório_odontológico;dentista;especialista_em_prótese_dentaria",
-        "name": "HB OdontoCare",
-        "id": "way/1373210830"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -43.4585206,
-              -23.01756
-            ],
-            [
-              -43.4585206,
-              -23.0175665
-            ],
-            [
-              -43.4585152,
-              -23.0175793
-            ],
-            [
-              -43.458509,
-              -23.0175999
-            ],
-            [
-              -43.4584672,
-              -23.01759
-            ],
-            [
-              -43.4584788,
-              -23.0175494
-            ],
-            [
-              -43.4585206,
-              -23.01756
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1374324270",
-      "properties": {
-        "timestamp": "2025-04-03T05:16:18Z",
-        "version": 1,
-        "changeset": 164446964,
-        "amenity": "dentist",
-        "building": "yes",
-        "healthcare": "dentist",
-        "healthcare:speciality": "dentistry;especialista_em_prótese_dentaria;saúde;dentista;consultório_odontológico",
-        "name": "HB OdontoCare",
-        "id": "way/1374324270"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -43.4591659,
-              -23.0177322
-            ],
-            [
-              -43.4591509,
-              -23.0177862
-            ],
-            [
-              -43.4590818,
-              -23.0177735
-            ],
-            [
-              -43.4591118,
-              -23.0177153
-            ],
-            [
-              -43.4591659,
-              -23.0177322
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/340463777",
       "properties": {
         "timestamp": "2009-02-04T20:35:27Z",
@@ -590,12 +493,13 @@
       "type": "Feature",
       "id": "node/452657799",
       "properties": {
-        "timestamp": "2009-07-31T21:39:18Z",
-        "version": 1,
-        "changeset": 1998430,
+        "timestamp": "2025-04-05T15:03:55Z",
+        "version": 2,
+        "changeset": 164555902,
         "addr:housenumber": "202",
         "addr:street": "Rua do Catete",
         "amenity": "dentist",
+        "wheelchair": "no",
         "id": "node/452657799"
       },
       "geometry": {
@@ -610,11 +514,12 @@
       "type": "Feature",
       "id": "node/452657825",
       "properties": {
-        "timestamp": "2023-04-26T22:24:18Z",
-        "version": 4,
-        "changeset": 135404143,
+        "timestamp": "2025-04-05T14:51:21Z",
+        "version": 5,
+        "changeset": 164555297,
         "amenity": "dentist",
         "healthcare": "dentist",
+        "wheelchair": "no",
         "id": "node/452657825"
       },
       "geometry": {
@@ -2106,11 +2011,11 @@
     },
     {
       "type": "Feature",
-      "id": "node/12724747477",
+      "id": "node/12730170521",
       "properties": {
-        "timestamp": "2025-04-03T05:16:18Z",
+        "timestamp": "2025-04-05T01:58:06Z",
         "version": 1,
-        "changeset": 164446964,
+        "changeset": 164533331,
         "addr:city": "Rio de Janeiro",
         "addr:housenumber": "101 Sala 203",
         "addr:postcode": "22790-340",
@@ -2118,15 +2023,15 @@
         "addr:suburb": "Recreio dos Bandeirantes",
         "amenity": "dentist",
         "healthcare": "dentist",
-        "healthcare:speciality": "dentistry;dentista;saúde;odontologia;consultório_odontológico;especialista_em_prótese_dentária",
+        "healthcare:speciality": "dentist;dentistry;especialista_em_prótese_dentária;odontologia;saúde",
         "name": "HB OdontoCare",
-        "id": "node/12724747477"
+        "id": "node/12730170521"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -43.4591279,
-          -23.0177534
+          -43.4585008,
+          -23.0175718
         ]
       }
     }

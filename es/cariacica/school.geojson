@@ -628,22 +628,23 @@
       "type": "Feature",
       "id": "way/571623553",
       "properties": {
-        "timestamp": "2018-03-21T10:05:22Z",
-        "version": 1,
-        "changeset": 57379365,
+        "timestamp": "2025-04-05T16:42:25Z",
+        "version": 2,
+        "changeset": 164559831,
         "IJSN:administra": "Estadual",
         "IJSN:classeCnae": "Fundamental e Médio",
         "addr:city": "Cariacica",
         "addr:country": "BR",
-        "addr:housenumber": "2",
-        "addr:place": "Nova Rosa da Penha",
         "addr:postcode": "29157-288",
         "addr:state": "ES",
-        "addr:street": "Rua 108",
-        "alt_name": "Escola Estadual de Ensino Fundamental e Médio",
+        "addr:street": "Rua Cento e Oito",
+        "addr:suburb": "Nova Rosa da Penha",
         "amenity": "school",
-        "contact:phone": "(27) 3284-5391 / 3254-7079",
-        "name": "EEEFM Teotônio Brandão Vilela",
+        "contact:phone": "2733548242",
+        "name": "EMEF Teotônio Brandão Vilela",
+        "operator": "Prefeitura Municipal de Cariacica",
+        "operator:type": "government",
+        "operator:wikidata": "Q56450050",
         "id": "way/571623553"
       },
       "geometry": {
@@ -651,24 +652,44 @@
         "coordinates": [
           [
             [
-              -40.3843344,
-              -20.2516571
+              -40.3842544,
+              -20.251733
             ],
             [
-              -40.3846126,
-              -20.2518913
+              -40.3842761,
+              -20.2517503
             ],
             [
-              -40.3840656,
-              -20.2524632
+              -40.3845387,
+              -20.2519606
             ],
             [
-              -40.3837874,
-              -20.252229
+              -40.3842937,
+              -20.2522151
             ],
             [
-              -40.3843344,
-              -20.2516571
+              -40.3842597,
+              -20.2522504
+            ],
+            [
+              -40.3842237,
+              -20.2522879
+            ],
+            [
+              -40.3840783,
+              -20.2524388
+            ],
+            [
+              -40.3838254,
+              -20.2522266
+            ],
+            [
+              -40.3838031,
+              -20.2522079
+            ],
+            [
+              -40.3842544,
+              -20.251733
             ]
           ]
         ]
@@ -5445,6 +5466,199 @@
     },
     {
       "type": "Feature",
+      "id": "way/1375052793",
+      "properties": {
+        "timestamp": "2025-04-05T16:35:20Z",
+        "version": 1,
+        "changeset": 164559572,
+        "addr:city": "Cariacica",
+        "addr:postcode": "29156-603",
+        "addr:street": "Avenida Bonina",
+        "addr:suburb": "Porto de Cariacica",
+        "amenity": "school",
+        "name": "EMEF Rosa Maria Reis",
+        "operator": "Prefeitura Municipal de Cariacica",
+        "operator:type": "government",
+        "operator:wikidata": "Q56450050",
+        "phone": "2733548243",
+        "id": "way/1375052793"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.3943666,
+              -20.2688512
+            ],
+            [
+              -40.3946991,
+              -20.2686604
+            ],
+            [
+              -40.3952947,
+              -20.2693596
+            ],
+            [
+              -40.3948964,
+              -20.2696052
+            ],
+            [
+              -40.3943873,
+              -20.2689163
+            ],
+            [
+              -40.394377,
+              -20.2688837
+            ],
+            [
+              -40.3943666,
+              -20.2688512
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1375052797",
+      "properties": {
+        "timestamp": "2025-04-05T16:35:20Z",
+        "version": 1,
+        "changeset": 164559572,
+        "addr:city": "Cariacica",
+        "addr:postcode": "29156-602",
+        "addr:street": "Rua Alecrim",
+        "addr:suburb": "Porto de Cariacica",
+        "amenity": "school",
+        "name": "CMEI Maria Custódia de Jesus",
+        "operator": "Prefeitura Municipal de Cariacica",
+        "operator:type": "government",
+        "operator:wikidata": "Q56450050",
+        "phone": "2733548139",
+        "id": "way/1375052797"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.3948964,
+              -20.2696052
+            ],
+            [
+              -40.3952947,
+              -20.2693596
+            ],
+            [
+              -40.3953816,
+              -20.2693114
+            ],
+            [
+              -40.3956123,
+              -20.2696209
+            ],
+            [
+              -40.3956048,
+              -20.2696376
+            ],
+            [
+              -40.3955955,
+              -20.2696565
+            ],
+            [
+              -40.3955833,
+              -20.2696775
+            ],
+            [
+              -40.3953205,
+              -20.2698173
+            ],
+            [
+              -40.3952553,
+              -20.2698519
+            ],
+            [
+              -40.3952122,
+              -20.2698749
+            ],
+            [
+              -40.3951166,
+              -20.2699257
+            ],
+            [
+              -40.3948964,
+              -20.2696052
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1375075408",
+      "properties": {
+        "timestamp": "2025-04-05T18:33:16Z",
+        "version": 1,
+        "changeset": 164563616,
+        "addr:city": "Cariacica",
+        "addr:postcode": "29150-550",
+        "addr:street": "Rua Paulicéia",
+        "addr:suburb": "Oriente",
+        "amenity": "school",
+        "name": "EMEF Nossa Senhora Aparecida",
+        "operator": "Prefeitura Municipal de Cariacica",
+        "operator:type": "government",
+        "operator:wikidata": "Q56450050",
+        "phone": "2733548244",
+        "id": "way/1375075408"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.3810773,
+              -20.3300333
+            ],
+            [
+              -40.381055,
+              -20.3300373
+            ],
+            [
+              -40.3807592,
+              -20.3300908
+            ],
+            [
+              -40.3807245,
+              -20.3299222
+            ],
+            [
+              -40.3807179,
+              -20.3298902
+            ],
+            [
+              -40.3806782,
+              -20.3296973
+            ],
+            [
+              -40.3809751,
+              -20.3296436
+            ],
+            [
+              -40.3809964,
+              -20.3296397
+            ],
+            [
+              -40.3810773,
+              -20.3300333
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/3460744524",
       "properties": {
         "timestamp": "2019-07-11T17:33:19Z",
@@ -5756,36 +5970,6 @@
         "coordinates": [
           -40.3642316,
           -20.3344208
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/3460745615",
-      "properties": {
-        "timestamp": "2019-07-11T17:33:19Z",
-        "version": 3,
-        "changeset": 72146221,
-        "IJSN:administra": "Estadual",
-        "IJSN:classeCnae": "Fundamental",
-        "addr:city": "Cariacica",
-        "addr:country": "BR",
-        "addr:housenumber": "71",
-        "addr:place": "Mochuara",
-        "addr:postcode": "29155-700",
-        "addr:state": "ES",
-        "addr:street": "Rua São Luiz",
-        "alt_name": "Escola Estadual de Ensino Fundamental",
-        "amenity": "school",
-        "contact:phone": "+55 27 3254-0164;+55 27 3254-0517",
-        "name": "EEEF Adalberto Queiroz",
-        "id": "node/3460745615"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -40.4117184,
-          -20.2882118
         ]
       }
     },
@@ -6171,35 +6355,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/3460745648",
-      "properties": {
-        "timestamp": "2019-07-11T17:33:19Z",
-        "version": 3,
-        "changeset": 72146221,
-        "IJSN:administra": "Estadual",
-        "IJSN:classeCnae": "Fundamental e Médio",
-        "addr:city": "Cariacica",
-        "addr:country": "BR",
-        "addr:place": "Oriente",
-        "addr:postcode": "29150-550",
-        "addr:state": "ES",
-        "addr:street": "Rua Pauliceia",
-        "alt_name": "Escola Estadual de Ensino Fundamental e Médio",
-        "amenity": "school",
-        "contact:phone": "+55 27 3343-3508",
-        "name": "EEEFM Nossa Senhora Aparecida",
-        "id": "node/3460745648"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -40.3808016,
-          -20.3297981
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/3460745651",
       "properties": {
         "timestamp": "2025-01-28T01:29:42Z",
@@ -6255,35 +6410,6 @@
         "coordinates": [
           -40.3682645,
           -20.3295976
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/3460745654",
-      "properties": {
-        "timestamp": "2019-07-11T17:33:19Z",
-        "version": 3,
-        "changeset": 72146221,
-        "IJSN:administra": "Estadual",
-        "IJSN:classeCnae": "Fundamental e Médio",
-        "addr:city": "Cariacica",
-        "addr:country": "BR",
-        "addr:place": "Porto de Cariacica",
-        "addr:postcode": "29156-603",
-        "addr:state": "ES",
-        "addr:street": "Avenida Virgilio Francisco Schwab",
-        "alt_name": "Escola Estadual de Ensino Fundamental e Médio",
-        "amenity": "school",
-        "contact:phone": "+55 27 3254-4729",
-        "name": "EEEFM Rosa Maria Reis",
-        "id": "node/3460745654"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -40.3953685,
-          -20.270799
         ]
       }
     },
@@ -8301,6 +8427,60 @@
         "coordinates": [
           -40.3971936,
           -20.343892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12731507117",
+      "properties": {
+        "timestamp": "2025-04-05T16:42:25Z",
+        "version": 1,
+        "changeset": 164559831,
+        "entrance": "main",
+        "id": "node/12731507117"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.3842597,
+          -20.2522504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12731539235",
+      "properties": {
+        "timestamp": "2025-04-05T16:35:20Z",
+        "version": 1,
+        "changeset": 164559572,
+        "entrance": "main",
+        "id": "node/12731539235"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.394377,
+          -20.2688837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12731539242",
+      "properties": {
+        "timestamp": "2025-04-05T16:35:20Z",
+        "version": 1,
+        "changeset": 164559572,
+        "entrance": "main",
+        "id": "node/12731539242"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.3952553,
+          -20.2698519
         ]
       }
     }

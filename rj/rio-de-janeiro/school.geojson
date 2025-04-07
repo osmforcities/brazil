@@ -30827,13 +30827,20 @@
       "type": "Feature",
       "id": "way/1026230197",
       "properties": {
-        "timestamp": "2022-01-30T22:31:24Z",
-        "version": 1,
-        "changeset": 116798888,
+        "timestamp": "2025-04-05T20:31:43Z",
+        "version": 2,
+        "changeset": 164567462,
+        "addr:city": "Rio de Janeiro",
+        "addr:housenumber": "97",
+        "addr:postcode": "22430-190",
+        "addr:street": "Rua Humberto de Campos",
+        "addr:suburb": "Leblon",
         "amenity": "school",
+        "building": "school",
         "name": "Escola Municipal Santos Anjos",
-        "operator": "Prefeitura do Rio",
-        "operator:type": "public",
+        "operator": "Prefeitura do Rio de Janeiro",
+        "operator:type": "government",
+        "operator:wikidata": "Q53930899",
         "id": "way/1026230197"
       },
       "geometry": {
@@ -30841,28 +30848,44 @@
         "coordinates": [
           [
             [
-              -43.2174085,
-              -22.9815003
+              -43.2173873,
+              -22.9815555
             ],
             [
-              -43.2174073,
-              -22.9816333
+              -43.2173815,
+              -22.9816942
             ],
             [
-              -43.2174055,
-              -22.9817197
+              -43.2173818,
+              -22.9817334
             ],
             [
-              -43.2170365,
-              -22.9817197
+              -43.2173827,
+              -22.9818039
             ],
             [
-              -43.2170412,
-              -22.9814574
+              -43.2173392,
+              -22.9818058
             ],
             [
-              -43.2174085,
-              -22.9815003
+              -43.2171132,
+              -22.9818092
+            ],
+            [
+              -43.2170051,
+              -22.9818109
+            ],
+            [
+              -43.2170053,
+              -22.9817813
+            ],
+            [
+              -43.2170093,
+              -22.9815574
+            ],
+            [
+              -43.2173873,
+              -22.9815555
             ]
           ]
         ]
@@ -37216,6 +37239,56 @@
             [
               -43.4305038,
               -23.0083435
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1374904485",
+      "properties": {
+        "timestamp": "2025-04-05T02:51:23Z",
+        "version": 1,
+        "changeset": 164533989,
+        "addr:city": "Rio de Janeiro",
+        "addr:street": "Rua Gago Coutinho",
+        "addr:suburb": "Laranjeiras",
+        "amenity": "school",
+        "name": "Edem",
+        "id": "way/1374904485"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.1805974,
+              -22.9300577
+            ],
+            [
+              -43.1803114,
+              -22.9309176
+            ],
+            [
+              -43.1799738,
+              -22.9308101
+            ],
+            [
+              -43.1802081,
+              -22.9301652
+            ],
+            [
+              -43.180388,
+              -22.9302201
+            ],
+            [
+              -43.1804397,
+              -22.9300175
+            ],
+            [
+              -43.1805974,
+              -22.9300577
             ]
           ]
         ]
@@ -72144,28 +72217,6 @@
         "coordinates": [
           -43.3835966,
           -23.0021989
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/2860698514",
-      "properties": {
-        "timestamp": "2020-11-03T13:56:30Z",
-        "version": 3,
-        "changeset": 93487444,
-        "addr:city": "Rio de Janeiro",
-        "addr:street": "Rua Gago Coutinho",
-        "addr:suburb": "Laranjeiras",
-        "amenity": "school",
-        "name": "Edem",
-        "id": "node/2860698514"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.1802089,
-          -22.9307569
         ]
       }
     },

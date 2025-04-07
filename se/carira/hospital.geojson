@@ -5,14 +5,20 @@
       "type": "Feature",
       "id": "way/351034481",
       "properties": {
-        "timestamp": "2023-01-23T22:59:43Z",
-        "version": 2,
-        "changeset": 131627650,
+        "timestamp": "2025-04-05T00:00:20Z",
+        "version": 3,
+        "changeset": 164531842,
+        "addr:city": "Carira",
+        "addr:housenumber": "32",
+        "addr:postcode": "49550-000",
+        "addr:street": "Praça José Durval Matos",
+        "addr:suburb": "Centro",
         "amenity": "hospital",
         "building": "hospital",
         "emergency": "yes",
         "healthcare": "hospital",
-        "name": "Hospital de Carira",
+        "healthcare:speciality": "general",
+        "name": "Clínica 24 Horas Alda Chagas Nunes",
         "id": "way/351034481"
       },
       "geometry": {
@@ -20,46 +26,34 @@
         "coordinates": [
           [
             [
-              -37.7028797,
-              -10.357724
+              -37.7028548,
+              -10.357685
             ],
             [
-              -37.7024963,
-              -10.3579356
+              -37.7024764,
+              -10.3579207
             ],
             [
-              -37.7023965,
-              -10.3577884
+              -37.7023647,
+              -10.3577471
             ],
             [
-              -37.7027924,
-              -10.3575676
+              -37.702774,
+              -10.357492
             ],
             [
-              -37.7028797,
-              -10.357724
+              -37.7028226,
+              -10.3575675
+            ],
+            [
+              -37.7027916,
+              -10.3575868
+            ],
+            [
+              -37.7028548,
+              -10.357685
             ]
           ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/3371122574",
-      "properties": {
-        "timestamp": "2015-02-24T23:41:49Z",
-        "version": 1,
-        "changeset": 29081720,
-        "amenity": "hospital",
-        "emergency": "no",
-        "name": "Maternidade Maria Neuza Alves Chagas",
-        "id": "node/3371122574"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -37.609566,
-          -10.3746951
         ]
       }
     }

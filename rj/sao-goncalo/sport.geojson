@@ -76,12 +76,12 @@
       "type": "Feature",
       "id": "way/46039964",
       "properties": {
-        "timestamp": "2024-07-19T21:05:28Z",
-        "version": 2,
-        "changeset": 154159294,
+        "timestamp": "2025-04-05T19:54:01Z",
+        "version": 3,
+        "changeset": 164566361,
         "leisure": "stadium",
         "name": "Campo Novo Horizonte",
-        "sport": "soccer",
+        "sport": "soccer;running",
         "id": "way/46039964"
       },
       "geometry": {
@@ -6772,6 +6772,32 @@
         "coordinates": [
           -43.0790208,
           -22.8332586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12060130491",
+      "properties": {
+        "timestamp": "2025-04-05T19:49:50Z",
+        "version": 2,
+        "changeset": 164566227,
+        "addr:city": "São Gonçalo",
+        "addr:housenumber": "165",
+        "addr:postcode": "24722-470",
+        "addr:street": "Estrada Almirante Pena Boto",
+        "addr:suburb": "Vista Alegre",
+        "leisure": "fitness_centre",
+        "name": "Academia Style Fitness",
+        "phone": "+55 213605-0665",
+        "sport": "fitness;swimming",
+        "id": "node/12060130491"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.9659264,
+          -22.8052311
         ]
       }
     }

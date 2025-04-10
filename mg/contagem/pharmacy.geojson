@@ -101,13 +101,21 @@
       "type": "Feature",
       "id": "way/699483295",
       "properties": {
-        "timestamp": "2019-06-24T19:17:30Z",
-        "version": 1,
-        "changeset": 71573703,
+        "timestamp": "2025-04-07T14:21:24Z",
+        "version": 2,
+        "changeset": 164637460,
+        "addr:city": "Contagem",
+        "addr:housenumber": "777",
+        "addr:postcode": "32013650",
+        "addr:street": "Avenida Prefeito Gil Diniz Júnior",
+        "addr:suburb": "Centro",
         "amenity": "pharmacy",
+        "brand": "Drogaria Araujo",
+        "brand:wikidata": "Q10268807",
         "building": "yes",
         "dispensing": "yes",
         "healthcare": "pharmacy",
+        "name": "Drogaria Araujo",
         "id": "way/699483295"
       },
       "geometry": {
@@ -229,6 +237,103 @@
     },
     {
       "type": "Feature",
+      "id": "way/1375463547",
+      "properties": {
+        "timestamp": "2025-04-07T03:14:12Z",
+        "version": 1,
+        "changeset": 164614272,
+        "addr:city": "Contagem",
+        "addr:housenumber": "663",
+        "addr:postcode": "32072-170",
+        "addr:street": "Rua Refinaria Duque de Caxias",
+        "addr:suburb": "Petrolândia",
+        "amenity": "pharmacy",
+        "brand": "Drogaria Araujo",
+        "brand:wikidata": "Q10268807",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Drogaria Araujo",
+        "id": "way/1375463547"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.1178085,
+              -19.9294755
+            ],
+            [
+              -44.1179146,
+              -19.9296894
+            ],
+            [
+              -44.1178085,
+              -19.9297359
+            ],
+            [
+              -44.1177024,
+              -19.929522
+            ],
+            [
+              -44.1178085,
+              -19.9294755
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1375602977",
+      "properties": {
+        "timestamp": "2025-04-07T14:21:24Z",
+        "version": 1,
+        "changeset": 164637460,
+        "addr:city": "Contagem",
+        "addr:housenumber": "440",
+        "addr:postcode": "32015-740",
+        "addr:street": "Rua Coronel Augusto Camargos",
+        "addr:suburb": "Centro",
+        "amenity": "pharmacy",
+        "brand": "Droga Raia",
+        "brand:wikidata": "Q10357101",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Droga Raia",
+        "postal_code": "32015-740",
+        "id": "way/1375602977"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.0840364,
+              -19.9180753
+            ],
+            [
+              -44.0840845,
+              -19.9183429
+            ],
+            [
+              -44.0839656,
+              -19.9183229
+            ],
+            [
+              -44.0839302,
+              -19.9180926
+            ],
+            [
+              -44.0840364,
+              -19.9180753
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/315970852",
       "properties": {
         "timestamp": "2008-12-01T02:07:59Z",
@@ -282,33 +387,6 @@
         "coordinates": [
           -44.0395545,
           -19.9425457
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/461425124",
-      "properties": {
-        "timestamp": "2020-11-04T21:21:54Z",
-        "version": 3,
-        "changeset": 93563388,
-        "addr:city": "contagem",
-        "addr:housenumber": "777",
-        "addr:postcode": "32013350",
-        "addr:street": "Avenida Prefeito Gil Diniz",
-        "addr:suburb": "Centro",
-        "amenity": "pharmacy",
-        "drive_through": "no",
-        "healthcare": "pharmacy",
-        "name": "Drogaria Araújo",
-        "opening_hours": "07:00-23:00",
-        "id": "node/461425124"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.0821802,
-          -19.9155496
         ]
       }
     },
@@ -551,31 +629,6 @@
         "coordinates": [
           -44.019652,
           -19.8929454
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/9419606034",
-      "properties": {
-        "timestamp": "2022-01-15T00:55:04Z",
-        "version": 1,
-        "changeset": 116168992,
-        "amenity": "pharmacy",
-        "brand": "Droga Raia",
-        "dispensing": "yes",
-        "healthcare": "pharmacy",
-        "level": "1",
-        "name": "Droga Raia",
-        "opening_hours": "24/7",
-        "wheelchair": "yes",
-        "id": "node/9419606034"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.0839151,
-          -19.9182625
         ]
       }
     }

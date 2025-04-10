@@ -3,6 +3,60 @@
   "features": [
     {
       "type": "Feature",
+      "id": "way/699929032",
+      "properties": {
+        "timestamp": "2025-04-07T03:14:12Z",
+        "version": 3,
+        "changeset": 164614272,
+        "addr:city": "Contagem",
+        "addr:housenumber": "137",
+        "addr:postcode": "32072-180",
+        "addr:street": "Rua Refinaria União",
+        "addr:suburb": "Petrolândia",
+        "amenity": "clinic",
+        "building": "hospital",
+        "healthcare": "clinic",
+        "name": "UPA Petrolândia",
+        "operator": "Sistema Único de Saúde",
+        "operator:short": "SUS",
+        "operator:type": "public",
+        "operator:wikidata": "Q7531056",
+        "id": "way/699929032"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.1137342,
+              -19.9304815
+            ],
+            [
+              -44.113888,
+              -19.9305127
+            ],
+            [
+              -44.1138396,
+              -19.9307236
+            ],
+            [
+              -44.1136169,
+              -19.9308191
+            ],
+            [
+              -44.1135016,
+              -19.9305812
+            ],
+            [
+              -44.1137342,
+              -19.9304815
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1330301888",
       "properties": {
         "timestamp": "2024-11-02T23:55:41Z",
@@ -48,6 +102,52 @@
     },
     {
       "type": "Feature",
+      "id": "way/1375681314",
+      "properties": {
+        "timestamp": "2025-04-07T20:26:28Z",
+        "version": 1,
+        "changeset": 164651900,
+        "addr:city": "Contagem",
+        "addr:housenumber": "242",
+        "addr:postcode": "32073-030",
+        "addr:street": "Rua Itutinga",
+        "addr:suburb": "Industrial São Luiz",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "Ubs São Luiz 1",
+        "id": "way/1375681314"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.1278431,
+              -19.9255901
+            ],
+            [
+              -44.1280722,
+              -19.9256635
+            ],
+            [
+              -44.1280368,
+              -19.9257609
+            ],
+            [
+              -44.1278078,
+              -19.9256876
+            ],
+            [
+              -44.1278431,
+              -19.9255901
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/4617315266",
       "properties": {
         "timestamp": "2017-01-18T23:19:48Z",
@@ -74,14 +174,14 @@
       "type": "Feature",
       "id": "node/8479503208",
       "properties": {
-        "timestamp": "2021-03-02T16:14:45Z",
-        "version": 2,
-        "changeset": 100292225,
-        "addr:city": "CONTAGEM",
+        "timestamp": "2025-04-07T14:21:24Z",
+        "version": 3,
+        "changeset": 164637460,
+        "addr:city": "Contagem",
         "addr:housenumber": "105",
         "addr:postcode": "32017170",
         "addr:street": "Rua Bernardo Monteiro",
-        "addr:suburb": "CENTRO",
+        "addr:suburb": "Centro",
         "amenity": "clinic",
         "email": "medaqui@medaqui.com.br",
         "healthcare": "clinic",
@@ -93,7 +193,7 @@
         "payment:cash": "yes",
         "payment:credit_cards": "yes",
         "phone": "+553120108180",
-        "website": "www.medaqui.com.br",
+        "website": "http://www.medaqui.com.br",
         "wheelchair": "yes",
         "id": "node/8479503208"
       },

@@ -55,6 +55,51 @@
     },
     {
       "type": "Feature",
+      "id": "way/1320092480",
+      "properties": {
+        "timestamp": "2025-04-07T10:47:57Z",
+        "version": 4,
+        "changeset": 164627890,
+        "addr:city": "Panorama",
+        "addr:housenumber": "586",
+        "addr:street": "Rua Porfírio Augusto Pires",
+        "addr:suburb": "Marrecas",
+        "name": "Almoxarifado Municipal",
+        "office": "government",
+        "opening_hours": "Mo-Fr 07:00-17:00",
+        "phone": "+55 18 3871-9090",
+        "id": "way/1320092480"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -51.8586945,
+              -21.3544881
+            ],
+            [
+              -51.8590522,
+              -21.3552302
+            ],
+            [
+              -51.8586695,
+              -21.3554012
+            ],
+            [
+              -51.8583009,
+              -21.3546516
+            ],
+            [
+              -51.8586945,
+              -21.3544881
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1344045616",
       "properties": {
         "timestamp": "2024-12-20T10:55:53Z",
@@ -227,9 +272,9 @@
       "type": "Feature",
       "id": "way/1375367666",
       "properties": {
-        "timestamp": "2025-04-06T18:08:11Z",
-        "version": 1,
-        "changeset": 164603696,
+        "timestamp": "2025-04-07T10:21:28Z",
+        "version": 2,
+        "changeset": 164626775,
         "addr:city": "Panorama",
         "addr:housenumber": "2314",
         "addr:street": "Avenida Rodion Podolsky",
@@ -240,6 +285,9 @@
         "office": "government",
         "opening_hours": "Mo-Fr 07:30-17:00",
         "phone": "+55 18 3871-1331",
+        "roof:colour": "brown",
+        "roof:material": "tiles",
+        "roof:shape": "gabled",
         "website": "https://www.panorama.sp.gov.br/?pag=T1RjPU9EZz1PVFU9T0dVPU9HST1PVEE9T0dFPU9HRT0=&idmenu=229",
         "id": "way/1375367666"
       },

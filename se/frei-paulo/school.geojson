@@ -5,9 +5,14 @@
       "type": "Feature",
       "id": "way/334254061",
       "properties": {
-        "timestamp": "2023-01-23T23:31:36Z",
-        "version": 2,
-        "changeset": 131628223,
+        "timestamp": "2025-04-07T14:03:05Z",
+        "version": 4,
+        "changeset": 164636571,
+        "addr:city": "Frei Paulo",
+        "addr:housenumber": "386",
+        "addr:postcode": "49514-000",
+        "addr:street": "Praça João Alves Filho",
+        "addr:suburb": "Centro",
         "amenity": "school",
         "name": "Escola Municipal Alice Oliviera",
         "id": "way/334254061"
@@ -17,24 +22,40 @@
         "coordinates": [
           [
             [
-              -37.5375754,
-              -10.5483711
+              -37.5375585,
+              -10.548401
             ],
             [
-              -37.5370886,
-              -10.5485341
+              -37.5370717,
+              -10.548564
             ],
             [
-              -37.5368404,
-              -10.547818
+              -37.5369784,
+              -10.5482895
             ],
             [
-              -37.5373273,
-              -10.547655
+              -37.5369993,
+              -10.5482386
             ],
             [
-              -37.5375754,
-              -10.5483711
+              -37.5369743,
+              -10.5481666
+            ],
+            [
+              -37.536929,
+              -10.5481578
+            ],
+            [
+              -37.5368235,
+              -10.5478479
+            ],
+            [
+              -37.5373104,
+              -10.5476849
+            ],
+            [
+              -37.5375585,
+              -10.548401
             ]
           ]
         ]
@@ -83,11 +104,19 @@
       "type": "Feature",
       "id": "way/1163486986",
       "properties": {
-        "timestamp": "2023-04-17T21:59:28Z",
-        "version": 1,
-        "changeset": 135034127,
+        "timestamp": "2025-04-07T14:03:05Z",
+        "version": 2,
+        "changeset": 164636571,
+        "addr:city": "Frei Paulo",
+        "addr:housenumber": "25",
+        "addr:postcode": "49514-000",
+        "addr:street": "Rua Alice Oliveira",
+        "addr:suburb": "Centro",
+        "alt_name": "Colégio Estadual Professor Gentil Tavares da Mota",
         "amenity": "school",
-        "name": "Colégio Estadual Gentil Tavares da Mota",
+        "name": "Centro Excelência Professor Gentil Tavares da Mota",
+        "operator": "Secretaria de Educação do Estado de Sergipe",
+        "operator:type": "public",
         "id": "way/1163486986"
       },
       "geometry": {
@@ -95,23 +124,23 @@
         "coordinates": [
           [
             [
-              -37.535034,
+              -37.535007,
               -10.5473708
             ],
             [
-              -37.5351788,
-              -10.5477663
+              -37.5351653,
+              -10.5477829
             ],
             [
-              -37.5347282,
-              -10.5479192
+              -37.5345648,
+              -10.547964
             ],
             [
-              -37.5345887,
-              -10.5475211
+              -37.5344176,
+              -10.5475679
             ],
             [
-              -37.535034,
+              -37.535007,
               -10.5473708
             ]
           ]
@@ -122,9 +151,12 @@
       "type": "Feature",
       "id": "way/1163486987",
       "properties": {
-        "timestamp": "2023-04-17T21:59:28Z",
-        "version": 1,
-        "changeset": 135034127,
+        "timestamp": "2025-04-07T14:03:05Z",
+        "version": 2,
+        "changeset": 164636571,
+        "addr:city": "Frei Paulo",
+        "addr:postcode": "49514-000",
+        "addr:suburb": "Centro",
         "amenity": "school",
         "name": "Escola Estadual Martinho Garcez",
         "id": "way/1163486987"
@@ -198,39 +230,93 @@
     },
     {
       "type": "Feature",
-      "id": "node/10820446601",
+      "id": "way/1375565037",
       "properties": {
-        "timestamp": "2023-04-17T21:59:28Z",
+        "timestamp": "2025-04-07T10:55:41Z",
         "version": 1,
-        "changeset": 135034127,
+        "changeset": 164628145,
+        "addr:city": "Frei Paulo",
+        "addr:housenumber": "202",
+        "addr:postcode": "49514-000",
+        "addr:street": "Rua Barão do Rio Branco",
+        "addr:suburb": "Centro",
         "amenity": "school",
-        "name": "Escola Municipal Cõnego João Lima Feitosa",
-        "id": "node/10820446601"
+        "name": "Escola Municipal Juvina Moreira",
+        "id": "way/1375565037"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -37.5350051,
-          -10.5486126
+          [
+            [
+              -37.5354938,
+              -10.549058
+            ],
+            [
+              -37.535032,
+              -10.5492147
+            ],
+            [
+              -37.5349295,
+              -10.5489045
+            ],
+            [
+              -37.5352235,
+              -10.5488041
+            ],
+            [
+              -37.535393,
+              -10.5487463
+            ],
+            [
+              -37.5354938,
+              -10.549058
+            ]
+          ]
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "node/10820446602",
+      "id": "way/1375565038",
       "properties": {
-        "timestamp": "2023-04-17T21:59:28Z",
+        "timestamp": "2025-04-07T10:55:41Z",
         "version": 1,
-        "changeset": 135034127,
+        "changeset": 164628145,
+        "addr:city": "Frei Paulo",
+        "addr:housenumber": "171",
+        "addr:postcode": "49514-000",
+        "addr:street": "Rua José Onofre Barbosa dos Santos",
+        "addr:suburb": "Centro",
         "amenity": "school",
-        "name": "Escola Municipal Juvina Moreira",
-        "id": "node/10820446602"
+        "name": "Escola Municipal Cõnego João Lima Feitosa",
+        "id": "way/1375565038"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -37.5351778,
-          -10.5491073
+          [
+            [
+              -37.5352235,
+              -10.5488041
+            ],
+            [
+              -37.5349295,
+              -10.5489045
+            ],
+            [
+              -37.5348288,
+              -10.5486136
+            ],
+            [
+              -37.5351216,
+              -10.548516
+            ],
+            [
+              -37.5352235,
+              -10.5488041
+            ]
+          ]
         ]
       }
     },

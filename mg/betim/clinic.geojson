@@ -336,9 +336,9 @@
       "type": "Feature",
       "id": "way/689411148",
       "properties": {
-        "timestamp": "2025-04-01T18:19:25Z",
-        "version": 2,
-        "changeset": 164388116,
+        "timestamp": "2025-04-07T02:05:27Z",
+        "version": 3,
+        "changeset": 164613416,
         "addr:city": "Betim",
         "addr:housenumber": "1500",
         "addr:postcode": "32670-250",
@@ -347,6 +347,7 @@
         "amenity": "clinic",
         "building": "yes",
         "healthcare": "clinic",
+        "name": "Centro de Referência Divino Braga",
         "id": "way/689411148"
       },
       "geometry": {
@@ -576,6 +577,52 @@
     },
     {
       "type": "Feature",
+      "id": "way/1348585548",
+      "properties": {
+        "timestamp": "2025-04-07T16:55:56Z",
+        "version": 2,
+        "changeset": 164644269,
+        "addr:city": "Betim",
+        "addr:housenumber": "831",
+        "addr:postcode": "32676-550",
+        "addr:street": "Rua Antônio Machado",
+        "addr:suburb": "Laranjeiras",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "UBS Laranjeiras",
+        "id": "way/1348585548"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.1279661,
+              -19.9447645
+            ],
+            [
+              -44.128204,
+              -19.9449255
+            ],
+            [
+              -44.1279626,
+              -19.9452405
+            ],
+            [
+              -44.1277247,
+              -19.9450794
+            ],
+            [
+              -44.1279661,
+              -19.9447645
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1352399847",
       "properties": {
         "timestamp": "2025-03-02T22:40:27Z",
@@ -749,6 +796,52 @@
             [
               -44.1896933,
               -19.9613634
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1375635542",
+      "properties": {
+        "timestamp": "2025-04-07T16:55:56Z",
+        "version": 1,
+        "changeset": 164644269,
+        "addr:city": "Betim",
+        "addr:housenumber": "51",
+        "addr:postcode": "32676-250",
+        "addr:street": "Rua Acaiaca",
+        "addr:suburb": "Laranjeiras",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "Usb Nova Baden",
+        "id": "way/1375635542"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.1380259,
+              -19.9485916
+            ],
+            [
+              -44.1381762,
+              -19.9488014
+            ],
+            [
+              -44.1379826,
+              -19.9489239
+            ],
+            [
+              -44.1378324,
+              -19.9487141
+            ],
+            [
+              -44.1380259,
+              -19.9485916
             ]
           ]
         ]

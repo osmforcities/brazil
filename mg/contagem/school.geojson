@@ -2932,11 +2932,12 @@
       "type": "Feature",
       "id": "way/1363937223",
       "properties": {
-        "timestamp": "2025-03-02T00:24:55Z",
-        "version": 1,
-        "changeset": 163106478,
+        "timestamp": "2025-04-07T03:14:12Z",
+        "version": 2,
+        "changeset": 164614272,
         "addr:city": "Contagem",
         "addr:housenumber": "194",
+        "addr:postcode": "32072-180",
         "addr:street": "Rua Refinaria União",
         "addr:suburb": "Petrolândia",
         "amenity": "school",
@@ -2974,6 +2975,122 @@
             [
               -44.1140603,
               -19.9298282
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1375603013",
+      "properties": {
+        "timestamp": "2025-04-07T14:21:24Z",
+        "version": 1,
+        "changeset": 164637460,
+        "addr:city": "Contagem",
+        "addr:housenumber": "214",
+        "addr:postcode": "32310-090",
+        "addr:street": "Rua Marechal Hermes da Fonseca",
+        "addr:suburb": "JK",
+        "amenity": "school",
+        "name": "Escola Estadual Gastão da Cunha",
+        "operator": "Governo do Estado de Minas Gerais",
+        "operator:type": "government",
+        "operator:wikidata": "Q61612780",
+        "short_name": "EE Gastão da Cunha",
+        "id": "way/1375603013"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.0303077,
+              -19.9443778
+            ],
+            [
+              -44.0306515,
+              -19.9447137
+            ],
+            [
+              -44.030606,
+              -19.9447549
+            ],
+            [
+              -44.030393,
+              -19.9449474
+            ],
+            [
+              -44.0300494,
+              -19.9446114
+            ],
+            [
+              -44.0303077,
+              -19.9443778
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1375664325",
+      "properties": {
+        "timestamp": "2025-04-07T19:12:21Z",
+        "version": 1,
+        "changeset": 164649505,
+        "addr:city": "Contagem",
+        "addr:housenumber": "5",
+        "addr:postcode": "32070-630",
+        "addr:street": "Rua 20",
+        "addr:suburb": "Tropical",
+        "amenity": "school",
+        "name": "Escola Estadual Vinícius de Moraes",
+        "id": "way/1375664325"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -44.1165087,
+              -19.9255732
+            ],
+            [
+              -44.1173015,
+              -19.9257649
+            ],
+            [
+              -44.1179102,
+              -19.9258288
+            ],
+            [
+              -44.1179116,
+              -19.9265568
+            ],
+            [
+              -44.117453,
+              -19.9265728
+            ],
+            [
+              -44.1173213,
+              -19.9264729
+            ],
+            [
+              -44.1168739,
+              -19.9263146
+            ],
+            [
+              -44.1164563,
+              -19.9262227
+            ],
+            [
+              -44.1164691,
+              -19.9256025
+            ],
+            [
+              -44.1165087,
+              -19.9255732
             ]
           ]
         ]
@@ -3354,28 +3471,6 @@
         "coordinates": [
           -44.0466956,
           -19.9697791
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/4617149936",
-      "properties": {
-        "timestamp": "2017-09-23T11:36:23Z",
-        "version": 2,
-        "changeset": 52301661,
-        "amenity": "school",
-        "name": "Escola Estadual Gastão da Cunha",
-        "operator": "Secretaria de Estado de Educação de Minas Gerais",
-        "short_name": "EE Gastão da Cunha",
-        "source": "IBGE",
-        "id": "node/4617149936"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.030407,
-          -19.9446863
         ]
       }
     },

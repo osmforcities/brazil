@@ -11479,9 +11479,9 @@
       "type": "Feature",
       "id": "way/170987464",
       "properties": {
-        "timestamp": "2024-10-07T00:00:43Z",
-        "version": 5,
-        "changeset": 157560793,
+        "timestamp": "2025-04-09T16:42:18Z",
+        "version": 6,
+        "changeset": 164733862,
         "addr:city": "São Paulo",
         "addr:country": "BR",
         "addr:housenumber": "1025",
@@ -11491,12 +11491,15 @@
         "amenity": "school",
         "barrier": "wall",
         "email": "e001545a@educacao.sp.gov.br",
+        "material": "brick",
         "name": "Escola Estadual Pandiá Calógeras",
         "operator": "Secretaria da Educação do Estado de São Paulo",
         "operator:type": "government",
+        "operator:wikidata": "Q10369245",
         "phone": "+55 11 2605-2759;+55 11 2605-4938",
         "ref": "35001545",
         "short_name": "EE Pandiá Calógeras",
+        "wall": "brick",
         "id": "way/170987464"
       },
       "geometry": {
@@ -11504,24 +11507,60 @@
         "coordinates": [
           [
             [
-              -46.5958289,
-              -23.5639182
+              -46.5958171,
+              -23.5639185
             ],
             [
-              -46.5965151,
-              -23.5632054
+              -46.59602,
+              -23.563726
             ],
             [
-              -46.5969416,
-              -23.5634734
+              -46.5961512,
+              -23.5635939
             ],
             [
-              -46.5962205,
-              -23.5642432
+              -46.5963445,
+              -23.5633882
             ],
             [
-              -46.5958289,
-              -23.5639182
+              -46.5964075,
+              -23.5633191
+            ],
+            [
+              -46.5965135,
+              -23.563193
+            ],
+            [
+              -46.5965331,
+              -23.563171
+            ],
+            [
+              -46.5969868,
+              -23.5634706
+            ],
+            [
+              -46.5967654,
+              -23.5637404
+            ],
+            [
+              -46.5964677,
+              -23.5640719
+            ],
+            [
+              -46.596425,
+              -23.5641134
+            ],
+            [
+              -46.5962483,
+              -23.564285
+            ],
+            [
+              -46.5962041,
+              -23.5642491
+            ],
+            [
+              -46.5958171,
+              -23.5639185
             ]
           ]
         ]
@@ -91812,6 +91851,56 @@
     },
     {
       "type": "Feature",
+      "id": "way/1376178282",
+      "properties": {
+        "timestamp": "2025-04-09T17:47:35Z",
+        "version": 1,
+        "changeset": 164736323,
+        "amenity": "school",
+        "id": "way/1376178282"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.6978548,
+              -23.5577859
+            ],
+            [
+              -46.6976984,
+              -23.5576263
+            ],
+            [
+              -46.6976738,
+              -23.5576007
+            ],
+            [
+              -46.6978979,
+              -23.5574222
+            ],
+            [
+              -46.6979263,
+              -23.5574531
+            ],
+            [
+              -46.6980422,
+              -23.5575713
+            ],
+            [
+              -46.6979972,
+              -23.5577314
+            ],
+            [
+              -46.6978548,
+              -23.5577859
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/222842154",
       "properties": {
         "timestamp": "2023-06-07T15:20:09Z",
@@ -116514,6 +116603,29 @@
         "coordinates": [
           -46.589887,
           -23.4837199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12741908308",
+      "properties": {
+        "timestamp": "2025-04-09T16:42:18Z",
+        "version": 1,
+        "changeset": 164733862,
+        "access": "permissive",
+        "addr:city": "São Paulo",
+        "addr:housenumber": "1025",
+        "addr:postcode": "03115-020",
+        "addr:street": "Avenida Paes de Barros",
+        "entrance": "main",
+        "id": "node/12741908308"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.596425,
+          -23.5641134
         ]
       }
     }

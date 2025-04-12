@@ -1702,6 +1702,54 @@
     },
     {
       "type": "Feature",
+      "id": "way/1376493185",
+      "properties": {
+        "timestamp": "2025-04-10T14:46:58Z",
+        "version": 1,
+        "changeset": 164772982,
+        "addr:city": "Santo André",
+        "addr:housenumber": "100",
+        "addr:street": "Rua Ibertioga",
+        "addr:suburb": "Parque Represa Billings II",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "UBS Parque Andreense",
+        "id": "way/1376493185"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.4603831,
+              -23.7589454
+            ],
+            [
+              -46.460762,
+              -23.7587424
+            ],
+            [
+              -46.4609777,
+              -23.7586352
+            ],
+            [
+              -46.4610671,
+              -23.7588129
+            ],
+            [
+              -46.4604693,
+              -23.7591005
+            ],
+            [
+              -46.4603831,
+              -23.7589454
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/3216227529",
       "properties": {
         "timestamp": "2024-07-01T01:23:12Z",
@@ -1791,6 +1839,31 @@
         "coordinates": [
           -46.5205518,
           -23.6681193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12744833058",
+      "properties": {
+        "timestamp": "2025-04-10T14:46:58Z",
+        "version": 1,
+        "changeset": 164772982,
+        "addr:city": "Santo André",
+        "addr:housenumber": "100",
+        "addr:street": "Rua Ibertioga",
+        "addr:suburb": "Parque Represa Billings II",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "ubs",
+        "name": "UBS Parque Andreense",
+        "id": "node/12744833058"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.460788,
+          -23.7588354
         ]
       }
     }

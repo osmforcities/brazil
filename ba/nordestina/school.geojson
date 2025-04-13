@@ -49,6 +49,57 @@
     },
     {
       "type": "Feature",
+      "id": "way/1376631003",
+      "properties": {
+        "timestamp": "2025-04-11T01:32:27Z",
+        "version": 1,
+        "changeset": 164793613,
+        "addr:city": "Nordestina",
+        "addr:housenumber": "999",
+        "addr:postcode": "488870-000",
+        "addr:street": "Avenida Luís Eduardo Magalhães",
+        "addr:suburb": "Entrada da Cidade",
+        "amenity": "school",
+        "name": "Colégio Estadual Manoel Guimarães",
+        "operator": "Governo do Estado da Bahia",
+        "operator:type": "government",
+        "operator:wikidata": "Q61641530",
+        "id": "way/1376631003"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -39.4338721,
+              -10.824719
+            ],
+            [
+              -39.433914,
+              -10.8254211
+            ],
+            [
+              -39.4339435,
+              -10.8259489
+            ],
+            [
+              -39.4330833,
+              -10.8258617
+            ],
+            [
+              -39.4330537,
+              -10.8247553
+            ],
+            [
+              -39.4338721,
+              -10.824719
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/4213504678",
       "properties": {
         "timestamp": "2021-04-30T23:53:26Z",
@@ -105,31 +156,6 @@
         "coordinates": [
           -39.4464573,
           -10.8236976
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/8686014431",
-      "properties": {
-        "timestamp": "2025-03-20T01:38:44Z",
-        "version": 2,
-        "changeset": 163842015,
-        "amenity": "school",
-        "grades": "10-12",
-        "name": "Colégio Estadual Manoel Guimarães",
-        "operator": "Governo do Estado da Bahia",
-        "operator:type": "government",
-        "operator:wikidata": "Q61641530",
-        "polling_station": "yes",
-        "wheelchair": "yes",
-        "id": "node/8686014431"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -39.4336847,
-          -10.8248644
         ]
       }
     },

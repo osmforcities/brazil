@@ -308,13 +308,14 @@
       "type": "Feature",
       "id": "way/468790964",
       "properties": {
-        "timestamp": "2023-11-22T00:40:43Z",
-        "version": 5,
-        "changeset": 144307064,
+        "timestamp": "2025-04-11T13:59:31Z",
+        "version": 6,
+        "changeset": 164817886,
         "addr:city": "Belém",
         "addr:housenumber": "4487",
         "addr:street": "Rua dos Mundurucus",
         "amenity": "hospital",
+        "healthcare": "hospital",
         "name": "Hospital Universitário João de Barros Barreto",
         "id": "way/468790964"
       },
@@ -1443,6 +1444,53 @@
             [
               -48.4811427,
               -1.4395204
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1376742619",
+      "properties": {
+        "timestamp": "2025-04-11T14:01:31Z",
+        "version": 1,
+        "changeset": 164817979,
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "id": "way/1376742619"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.4495059,
+              -1.4573376
+            ],
+            [
+              -48.4494775,
+              -1.45736
+            ],
+            [
+              -48.44945,
+              -1.4573163
+            ],
+            [
+              -48.4494348,
+              -1.4573224
+            ],
+            [
+              -48.4494205,
+              -1.4572868
+            ],
+            [
+              -48.4494643,
+              -1.4572625
+            ],
+            [
+              -48.4495059,
+              -1.4573376
             ]
           ]
         ]

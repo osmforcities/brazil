@@ -55967,20 +55967,21 @@
       "type": "Feature",
       "id": "way/717004118",
       "properties": {
-        "timestamp": "2019-09-04T01:31:59Z",
-        "version": 2,
-        "changeset": 74061883,
+        "timestamp": "2025-04-12T21:48:54Z",
+        "version": 3,
+        "changeset": 164873656,
         "addr:district": "Vila Prudente",
         "addr:housenumber": "350",
         "addr:postcode": "03205-060",
         "addr:street": "Rua Visconde de Alcântara",
         "addr:subdistrict": "Vila Alpina",
         "amenity": "school",
+        "barrier": "wall",
         "email": "e001879a@educacao.sp.gov.br",
         "name": "Escola Estadual Professor João Firmino de Campos",
         "phone": "+55 11 2912-7911;+55 11 2917-1999",
         "ref": "35001879",
-        "short_name": "EE Professor João Firmino de Campos",
+        "short_name": "E.E Professor João Firmino de Campos",
         "id": "way/717004118"
       },
       "geometry": {
@@ -88048,8 +88049,8 @@
               -23.5957719
             ],
             [
-              -46.6718084,
-              -23.5951845
+              -46.6717934,
+              -23.5951884
             ],
             [
               -46.6719154,
@@ -91993,6 +91994,58 @@
             [
               -46.6140522,
               -23.4566433
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1377074843",
+      "properties": {
+        "timestamp": "2025-04-12T21:48:54Z",
+        "version": 1,
+        "changeset": 164873656,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "314",
+        "addr:postcode": "03211-060",
+        "addr:street": "Rua Caruso",
+        "amenity": "school",
+        "barrier": "wall",
+        "name": "E.E Professor Oswaldo Guerner Gonzales",
+        "id": "way/1377074843"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -46.5551526,
+              -23.6022684
+            ],
+            [
+              -46.5546823,
+              -23.6025048
+            ],
+            [
+              -46.5546551,
+              -23.60252
+            ],
+            [
+              -46.5541877,
+              -23.6027553
+            ],
+            [
+              -46.5538336,
+              -23.6021883
+            ],
+            [
+              -46.5548497,
+              -23.6017847
+            ],
+            [
+              -46.5551526,
+              -23.6022684
             ]
           ]
         ]
@@ -116725,6 +116778,26 @@
         "coordinates": [
           -46.596425,
           -23.5641134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12749897605",
+      "properties": {
+        "timestamp": "2025-04-12T13:27:01Z",
+        "version": 1,
+        "changeset": 164856104,
+        "amenity": "school",
+        "check_date": "2025-04-12",
+        "name": "Escola da Vila",
+        "id": "node/12749897605"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.7134186,
+          -23.568528
         ]
       }
     }

@@ -3931,9 +3931,9 @@
       "type": "Feature",
       "id": "way/466023011",
       "properties": {
-        "timestamp": "2024-12-18T22:11:48Z",
-        "version": 2,
-        "changeset": 160370745,
+        "timestamp": "2025-04-12T23:08:47Z",
+        "version": 3,
+        "changeset": 164875120,
         "addr:city": "São Paulo",
         "addr:housenumber": "3691",
         "addr:street": "Rua da Mooca",
@@ -3990,6 +3990,10 @@
             [
               -46.5897728,
               -23.5586414
+            ],
+            [
+              -46.5897639,
+              -23.5586379
             ],
             [
               -46.5897452,
@@ -4529,9 +4533,9 @@
       "type": "Feature",
       "id": "way/519797904",
       "properties": {
-        "timestamp": "2022-05-09T19:12:55Z",
-        "version": 2,
-        "changeset": 120762502,
+        "timestamp": "2025-04-12T23:02:32Z",
+        "version": 3,
+        "changeset": 164874954,
         "addr:city": "São Paulo",
         "addr:housenumber": "1446",
         "addr:postcode": "05023-000",
@@ -4541,6 +4545,7 @@
         "brand": "Droga Raia",
         "brand:wikidata": "Q10357101",
         "building": "yes",
+        "check_date": "2025-04-12",
         "healthcare": "pharmacy",
         "height": "11.1",
         "name": "Droga Raia",
@@ -15996,9 +16001,9 @@
       "type": "Feature",
       "id": "way/1062148372",
       "properties": {
-        "timestamp": "2022-05-20T16:58:19Z",
-        "version": 1,
-        "changeset": 121253813,
+        "timestamp": "2025-04-12T22:59:14Z",
+        "version": 2,
+        "changeset": 164874954,
         "addr:city": "São Paulo",
         "addr:housenumber": "568",
         "addr:postcode": "01254-000",
@@ -16008,6 +16013,7 @@
         "brand": "Drogaria São Paulo",
         "brand:wikidata": "Q5308184",
         "brand:wikipedia": "pt:Drogasil",
+        "check_date": "2025-04-12",
         "dispensing": "yes",
         "healthcare": "pharmacy",
         "name": "Drogaria São Paulo",
@@ -16127,14 +16133,15 @@
       "type": "Feature",
       "id": "way/1065928307",
       "properties": {
-        "timestamp": "2022-06-01T17:29:05Z",
-        "version": 1,
-        "changeset": 121821320,
+        "timestamp": "2025-04-12T23:23:17Z",
+        "version": 2,
+        "changeset": 164874954,
         "addr:city": "São Paulo",
         "addr:housenumber": "1244",
         "addr:street": "Rua Heitor Penteado",
         "addr:suburb": "Sumaré",
         "amenity": "pharmacy",
+        "check_date": "2025-04-12",
         "dispensing": "yes",
         "healthcare": "pharmacy",
         "name": "Ultrafarma Popular",
@@ -27482,9 +27489,9 @@
       "type": "Feature",
       "id": "node/3372549456",
       "properties": {
-        "timestamp": "2019-05-22T17:50:49Z",
-        "version": 3,
-        "changeset": 70524477,
+        "timestamp": "2025-04-12T22:59:18Z",
+        "version": 4,
+        "changeset": 164874954,
         "addr:city": "São Paulo",
         "addr:country": "BR",
         "addr:housenumber": "531",
@@ -27495,6 +27502,7 @@
         "brand": "Droga Raia",
         "brand:wikidata": "Q10357101",
         "brand:wikipedia": "pt:RaiaDrogasil",
+        "check_date": "2025-04-12",
         "contact:phone": "+55 11 3672-2346",
         "contact:website": "http://www.drogaraia.com.br",
         "healthcare": "pharmacy",
@@ -38908,6 +38916,31 @@
         "coordinates": [
           -46.5482217,
           -23.6019021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12749171568",
+      "properties": {
+        "timestamp": "2025-04-12T01:47:30Z",
+        "version": 1,
+        "changeset": 164838424,
+        "addr:city": "São Paulo",
+        "addr:housenumber": "902",
+        "addr:street": "Rua Jerônimo Dias Ribeiro",
+        "addr:suburb": "Guaianases",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Droga Leste",
+        "opening_hours": "24/7",
+        "id": "node/12749171568"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.3998889,
+          -23.5592546
         ]
       }
     }

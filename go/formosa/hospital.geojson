@@ -293,6 +293,78 @@
     },
     {
       "type": "Feature",
+      "id": "way/1377045150",
+      "properties": {
+        "timestamp": "2025-04-12T19:09:31Z",
+        "version": 1,
+        "changeset": 164869321,
+        "addr:city": "Formosa",
+        "addr:housenumber": "202",
+        "addr:street": "Rua 16",
+        "addr:suburb": "Formosinha",
+        "amenity": "hospital",
+        "description": "Posto de saúde UBS 1 do município de Formosa, GO.",
+        "healthcare": "hospital",
+        "healthcare:speciality": "community",
+        "name": "UBS 1 Formosinha",
+        "operator": "Secretaria de Saúde de Formosa, GO",
+        "operator:type": "public",
+        "id": "way/1377045150"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.334688,
+              -15.5617502
+            ],
+            [
+              -47.3346845,
+              -15.5617355
+            ],
+            [
+              -47.3346016,
+              -15.5617625
+            ],
+            [
+              -47.3345712,
+              -15.5616782
+            ],
+            [
+              -47.3346962,
+              -15.5616309
+            ],
+            [
+              -47.3346938,
+              -15.5616186
+            ],
+            [
+              -47.3347277,
+              -15.5616062
+            ],
+            [
+              -47.3347335,
+              -15.5616163
+            ],
+            [
+              -47.3347674,
+              -15.5616062
+            ],
+            [
+              -47.3348082,
+              -15.5617097
+            ],
+            [
+              -47.334688,
+              -15.5617502
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/322217920",
       "properties": {
         "timestamp": "2021-04-15T12:35:33Z",
@@ -524,6 +596,35 @@
         "coordinates": [
           -47.340901,
           -15.5473691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12750371384",
+      "properties": {
+        "timestamp": "2025-04-12T19:09:31Z",
+        "version": 1,
+        "changeset": 164869321,
+        "addr:city": "Formosa",
+        "addr:housenumber": "202",
+        "addr:street": "Rua 16",
+        "addr:suburb": "Formosinha",
+        "amenity": "hospital",
+        "description": "Posto de saúde UBS 1 do município de Formosa, GO",
+        "healthcare": "hospital",
+        "healthcare:speciality": "community",
+        "name": "UBS 1 Formosinha",
+        "operator": "Secretaria de Saúde de Formosa, GO",
+        "operator:type": "public",
+        "phone": "+55 61 3631 3002",
+        "id": "node/12750371384"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.334695,
+          -15.5616793
         ]
       }
     }

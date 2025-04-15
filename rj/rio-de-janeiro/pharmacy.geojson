@@ -2965,6 +2965,61 @@
     },
     {
       "type": "Feature",
+      "id": "way/1377609859",
+      "properties": {
+        "timestamp": "2025-04-14T22:18:21Z",
+        "version": 1,
+        "changeset": 164959310,
+        "amenity": "pharmacy",
+        "brand": "Pacheco",
+        "brand:wikidata": "Q10268813",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Pacheco",
+        "id": "way/1377609859"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.3216891,
+              -22.8091467
+            ],
+            [
+              -43.321673,
+              -22.8092674
+            ],
+            [
+              -43.3216368,
+              -22.8092638
+            ],
+            [
+              -43.3215805,
+              -22.809251
+            ],
+            [
+              -43.3215597,
+              -22.8092361
+            ],
+            [
+              -43.3215359,
+              -22.8091999
+            ],
+            [
+              -43.3215482,
+              -22.8091176
+            ],
+            [
+              -43.3216891,
+              -22.8091467
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/332153100",
       "properties": {
         "timestamp": "2025-04-06T13:50:55Z",
@@ -5604,6 +5659,32 @@
         "coordinates": [
           -43.1786885,
           -22.9403873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2162577556",
+      "properties": {
+        "timestamp": "2025-04-14T01:35:42Z",
+        "version": 5,
+        "changeset": 164917429,
+        "addr:city": "Rio de Janeiro",
+        "addr:street": "Rua Marquês de Abrantes",
+        "addr:suburb": "flamengo",
+        "amenity": "pharmacy",
+        "brand": "Drogasmil",
+        "brand:wikidata": "Q3064093",
+        "healthcare": "pharmacy",
+        "name": "Drogasmil",
+        "source": "local knowledge",
+        "id": "node/2162577556"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1782265,
+          -22.9390174
         ]
       }
     },

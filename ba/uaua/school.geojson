@@ -205,9 +205,9 @@
       "type": "Feature",
       "id": "way/666796167",
       "properties": {
-        "timestamp": "2025-04-13T01:55:53Z",
-        "version": 2,
-        "changeset": 164877075,
+        "timestamp": "2025-04-14T11:01:28Z",
+        "version": 3,
+        "changeset": 164933442,
         "addr:city": "Uauá",
         "addr:postcode": "48950-000",
         "addr:street": "Avenida João Borges de Sá",
@@ -221,24 +221,67 @@
         "coordinates": [
           [
             [
-              -39.4835222,
-              -9.8395295
+              -39.4835144,
+              -9.8395276
             ],
             [
-              -39.4834081,
-              -9.8392955
+              -39.4834012,
+              -9.8392883
             ],
             [
               -39.4837467,
               -9.8391836
             ],
             [
-              -39.4838684,
+              -39.4838513,
               -9.8394007
             ],
             [
-              -39.4835222,
-              -9.8395295
+              -39.4835144,
+              -9.8395276
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/666805092",
+      "properties": {
+        "timestamp": "2025-04-14T12:41:23Z",
+        "version": 4,
+        "changeset": 164937367,
+        "addr:city": "Uauá",
+        "addr:postcode": "48950-000",
+        "amenity": "school",
+        "name": "Centro de Educação Integral de Uauá - Ceiu",
+        "operator": "Município de Uauá",
+        "operator:type": "public",
+        "id": "way/666805092"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -39.4878886,
+              -9.8355715
+            ],
+            [
+              -39.4874277,
+              -9.8361232
+            ],
+            [
+              -39.4863015,
+              -9.8355394
+            ],
+            [
+              -39.4867404,
+              -9.8349572
+            ],
+            [
+              -39.4878886,
+              -9.8355715
             ]
           ]
         ]
@@ -544,6 +587,82 @@
         "coordinates": [
           -39.6301793,
           -9.7391212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12755181256",
+      "properties": {
+        "timestamp": "2025-04-14T18:13:29Z",
+        "version": 1,
+        "changeset": 164951813,
+        "addr:city": "Uauá",
+        "addr:street": "Estrada de Uauá",
+        "addr:suburb": "Fazenda Volta",
+        "amenity": "school",
+        "name": "Escola Municipal José de Anchieta",
+        "operator": "Município de Uauá",
+        "operator:type": "public",
+        "id": "node/12755181256"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.4971341,
+          -9.9542051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12755181272",
+      "properties": {
+        "timestamp": "2025-04-14T18:13:29Z",
+        "version": 1,
+        "changeset": 164951813,
+        "addr:city": "Uauá",
+        "addr:postcode": "48950-000",
+        "addr:street": "Praça Floresta do Navio",
+        "addr:suburb": "Caldeirão",
+        "amenity": "school",
+        "name": "Colégio Estadual do Campo Integração Lagoa do Pires",
+        "operator": "Secretaria de Educação do Estado da Bahia",
+        "operator:type": "government",
+        "operator:wikidata": "Q98140020",
+        "id": "node/12755181272"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.6118012,
+          -10.0471594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12755181289",
+      "properties": {
+        "timestamp": "2025-04-14T18:13:29Z",
+        "version": 1,
+        "changeset": 164951813,
+        "addr:city": "Uauá",
+        "addr:housenumber": "140",
+        "addr:postcode": "48950-000",
+        "addr:street": "Praça Floresta do Navio",
+        "addr:suburb": "Caldeirão",
+        "amenity": "school",
+        "name": "Escola Municipal Nossa Senhora da Graça",
+        "operator": "Município de Uauá",
+        "operator:type": "public",
+        "id": "node/12755181289"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.6121729,
+          -10.0470387
         ]
       }
     }

@@ -70,13 +70,13 @@
       "type": "Feature",
       "id": "way/666202130",
       "properties": {
-        "timestamp": "2025-04-13T01:55:53Z",
-        "version": 3,
-        "changeset": 164877075,
+        "timestamp": "2025-04-14T14:31:04Z",
+        "version": 4,
+        "changeset": 164942319,
         "addr:city": "Uauá",
         "addr:housenumber": "36",
         "addr:postcode": "48950000",
-        "addr:street": "Travessa Antônio Vila Nova",
+        "addr:street": "Rua Pajeú",
         "addr:suburb": "Alto do Conselheiro",
         "amenity": "clinic",
         "building": "yes",
@@ -151,12 +151,20 @@
       "type": "Feature",
       "id": "way/666202928",
       "properties": {
-        "timestamp": "2019-01-25T22:59:56Z",
-        "version": 1,
-        "changeset": 66645963,
+        "timestamp": "2025-04-14T12:41:23Z",
+        "version": 2,
+        "changeset": 164937367,
+        "addr:city": "Uauá",
+        "addr:postcode": "48950-000",
+        "addr:street": "Rua Paulo Almeida Machado",
+        "addr:suburb": "Vila dos Gomes",
         "amenity": "clinic",
         "building": "yes",
         "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Posto de Saúde da Família Guiomar Gomes da Silva",
+        "operator": "Município de Uauá",
+        "operator:type": "public",
         "id": "way/666202928"
       },
       "geometry": {
@@ -164,28 +172,40 @@
         "coordinates": [
           [
             [
-              -39.4779064,
-              -9.8393697
+              -39.4778234,
+              -9.8394208
             ],
             [
-              -39.4776828,
-              -9.8394098
+              -39.4777371,
+              -9.8394354
             ],
             [
-              -39.4776674,
-              -9.8393109
+              -39.4776933,
+              -9.8391855
             ],
             [
-              -39.4776462,
-              -9.8391755
+              -39.4777785,
+              -9.839171
             ],
             [
-              -39.4778597,
-              -9.8391354
+              -39.4777825,
+              -9.8391938
             ],
             [
-              -39.4779064,
-              -9.8393697
+              -39.4778016,
+              -9.8391906
+            ],
+            [
+              -39.4778069,
+              -9.839221
+            ],
+            [
+              -39.477789,
+              -9.8392241
+            ],
+            [
+              -39.4778234,
+              -9.8394208
             ]
           ]
         ]
@@ -234,6 +254,33 @@
         "coordinates": [
           -39.6350717,
           -9.7556279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12755181273",
+      "properties": {
+        "timestamp": "2025-04-14T18:13:29Z",
+        "version": 1,
+        "changeset": 164951813,
+        "addr:city": "Uauá",
+        "addr:postcode": "48950-000",
+        "addr:street": "Praça Floresta do Navio",
+        "addr:suburb": "Caldeirão",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Unidade de Saúde da Família João Ribeiro de Moraes",
+        "operator": "Município de uauá",
+        "operator:type": "public",
+        "id": "node/12755181273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.611566,
+          -10.0475126
         ]
       }
     }

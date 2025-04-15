@@ -53,15 +53,18 @@
       "type": "Feature",
       "id": "way/666145293",
       "properties": {
-        "timestamp": "2025-04-12T23:15:22Z",
-        "version": 4,
-        "changeset": 164875263,
+        "timestamp": "2025-04-13T01:55:53Z",
+        "version": 5,
+        "changeset": 164877075,
         "addr:city": "Uauá",
+        "addr:housenumber": "494",
         "addr:postcode": "48950-000",
         "addr:street": "Avenida João borges de Sá",
         "addr:suburb": "Centro",
         "amenity": "school",
-        "name": "Escola João Borges de Sá",
+        "name": "Escola Municipal João Borges de Sá",
+        "operator": "Município de Uauá",
+        "operator:type": "public",
         "id": "way/666145293"
       },
       "geometry": {
@@ -69,27 +72,23 @@
         "coordinates": [
           [
             [
-              -39.4836776,
+              -39.4836703,
               -9.8398953
             ],
             [
-              -39.483826,
-              -9.8402793
+              -39.4838286,
+              -9.8402695
             ],
             [
-              -39.4833645,
-              -9.8404565
+              -39.4833131,
+              -9.8404811
             ],
             [
-              -39.4833155,
-              -9.8404753
+              -39.4831549,
+              -9.8401069
             ],
             [
-              -39.483153,
-              -9.8401062
-            ],
-            [
-              -39.4836776,
+              -39.4836703,
               -9.8398953
             ]
           ]
@@ -100,11 +99,18 @@
       "type": "Feature",
       "id": "way/666145295",
       "properties": {
-        "timestamp": "2025-04-12T23:15:22Z",
-        "version": 3,
-        "changeset": 164875263,
+        "timestamp": "2025-04-13T01:55:53Z",
+        "version": 4,
+        "changeset": 164877075,
+        "addr:city": "Uauá",
+        "addr:housenumber": "494",
+        "addr:postcode": "48950-000",
+        "addr:street": "Avenida João Borges de Sá",
+        "addr:suburb": "Centro",
         "amenity": "school",
         "name": "Colégio Municipal Senhor do Bonfim",
+        "operator": "Município de Uauá",
+        "operator:type": "public",
         "id": "way/666145295"
       },
       "geometry": {
@@ -112,24 +118,84 @@
         "coordinates": [
           [
             [
-              -39.4836776,
+              -39.4836703,
               -9.8398953
             ],
             [
-              -39.4843284,
-              -9.839622
+              -39.4843304,
+              -9.839624
             ],
             [
-              -39.4845108,
-              -9.8399845
+              -39.4844889,
+              -9.8400013
             ],
             [
-              -39.483826,
-              -9.8402793
+              -39.4838286,
+              -9.8402695
             ],
             [
-              -39.4836776,
+              -39.4836703,
               -9.8398953
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/666145533",
+      "properties": {
+        "timestamp": "2025-04-13T01:55:53Z",
+        "version": 6,
+        "changeset": 164877075,
+        "addr:city": "Uauá",
+        "addr:postcode": "48950-000",
+        "addr:street": "Avenida João Borges de Sá",
+        "addr:suburb": "Centro",
+        "amenity": "school",
+        "name": "Centro Territorial de Educação Profissional - Sertão do São Francisco II - Antônio Conselheiro - Uauá/BA",
+        "operator": "Secretaria de Educação do Estado da Bahia",
+        "operator:type": "government",
+        "operator:wikidata": "Q98140020",
+        "phone": "+55 74 99991 0734",
+        "website": "https://portal.cetepdeuaua.com.br/",
+        "id": "way/666145533"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -39.4856262,
+              -9.8389072
+            ],
+            [
+              -39.4862204,
+              -9.839846
+            ],
+            [
+              -39.4861648,
+              -9.8398755
+            ],
+            [
+              -39.4863318,
+              -9.8401722
+            ],
+            [
+              -39.4858558,
+              -9.8404596
+            ],
+            [
+              -39.4855769,
+              -9.840087
+            ],
+            [
+              -39.4850675,
+              -9.8392252
+            ],
+            [
+              -39.4856262,
+              -9.8389072
             ]
           ]
         ]
@@ -139,11 +205,15 @@
       "type": "Feature",
       "id": "way/666796167",
       "properties": {
-        "timestamp": "2019-01-29T00:57:28Z",
-        "version": 1,
-        "changeset": 66722491,
+        "timestamp": "2025-04-13T01:55:53Z",
+        "version": 2,
+        "changeset": 164877075,
+        "addr:city": "Uauá",
+        "addr:postcode": "48950-000",
+        "addr:street": "Avenida João Borges de Sá",
+        "addr:suburb": "Centro",
         "amenity": "school",
-        "name": "Escola Recanto da Criança",
+        "name": "Escola Municipal Recanto da Criança",
         "id": "way/666796167"
       },
       "geometry": {
@@ -151,28 +221,24 @@
         "coordinates": [
           [
             [
-              -39.4835541,
-              -9.8395366
+              -39.4835222,
+              -9.8395295
             ],
             [
-              -39.4834595,
-              -9.8393148
+              -39.4834081,
+              -9.8392955
             ],
             [
-              -39.4837598,
-              -9.8391882
+              -39.4837467,
+              -9.8391836
             ],
             [
               -39.4838684,
               -9.8394007
             ],
             [
-              -39.4836163,
-              -9.8395097
-            ],
-            [
-              -39.4835541,
-              -9.8395366
+              -39.4835222,
+              -9.8395295
             ]
           ]
         ]
@@ -182,11 +248,18 @@
       "type": "Feature",
       "id": "way/666817210",
       "properties": {
-        "timestamp": "2019-01-29T04:12:26Z",
-        "version": 1,
-        "changeset": 66725402,
+        "timestamp": "2025-04-13T01:55:53Z",
+        "version": 2,
+        "changeset": 164877075,
+        "addr:city": "Uauá",
+        "addr:housenumber": "312",
+        "addr:postcode": "48950-000",
+        "addr:street": "Rua José Venâncio",
+        "addr:suburb": "Alto do Conselheiro",
         "amenity": "school",
-        "name": "Escola Cora Coralina",
+        "name": "Escola Municipal Cora Coralina",
+        "operator": "Município de Uauá",
+        "operator:type": "public",
         "id": "way/666817210"
       },
       "geometry": {
@@ -194,24 +267,24 @@
         "coordinates": [
           [
             [
-              -39.4866703,
-              -9.8405221
+              -39.4866766,
+              -9.8405238
             ],
             [
-              -39.4862139,
-              -9.8407614
+              -39.4862044,
+              -9.8407696
             ],
             [
-              -39.4860588,
-              -9.8405855
+              -39.4860393,
+              -9.8405974
             ],
             [
-              -39.4865591,
-              -9.8403376
+              -39.486562,
+              -9.8403277
             ],
             [
-              -39.4866703,
-              -9.8405221
+              -39.4866766,
+              -9.8405238
             ]
           ]
         ]

@@ -14564,10 +14564,11 @@
       "type": "Feature",
       "id": "way/33300393",
       "properties": {
-        "timestamp": "2013-03-02T21:52:07Z",
-        "version": 3,
-        "changeset": 15227181,
+        "timestamp": "2025-04-13T20:38:31Z",
+        "version": 4,
+        "changeset": 164911983,
         "barrier": "fence",
+        "check_date:surface": "2025-04-13",
         "leisure": "pitch",
         "source": "survey",
         "sport": "tennis",
@@ -14614,10 +14615,11 @@
       "type": "Feature",
       "id": "way/33300394",
       "properties": {
-        "timestamp": "2013-03-02T21:52:08Z",
-        "version": 3,
-        "changeset": 15227181,
+        "timestamp": "2025-04-13T20:38:34Z",
+        "version": 4,
+        "changeset": 164911983,
         "barrier": "fence",
+        "check_date:surface": "2025-04-13",
         "leisure": "pitch",
         "source": "survey",
         "sport": "tennis",
@@ -27058,11 +27060,13 @@
       "type": "Feature",
       "id": "way/261940496",
       "properties": {
-        "timestamp": "2016-07-03T17:14:33Z",
-        "version": 3,
-        "changeset": 40462523,
+        "timestamp": "2025-04-13T20:45:12Z",
+        "version": 5,
+        "changeset": 164912186,
         "leisure": "pitch",
+        "lit": "yes",
         "sport": "soccer",
+        "surface": "concrete",
         "id": "way/261940496"
       },
       "geometry": {
@@ -27097,11 +27101,13 @@
       "type": "Feature",
       "id": "way/261940497",
       "properties": {
-        "timestamp": "2025-01-11T19:10:34Z",
-        "version": 3,
-        "changeset": 161250910,
+        "timestamp": "2025-04-13T20:45:09Z",
+        "version": 5,
+        "changeset": 164912186,
         "leisure": "pitch",
+        "lit": "yes",
         "sport": "soccer",
+        "surface": "concrete",
         "id": "way/261940497"
       },
       "geometry": {
@@ -122110,6 +122116,34 @@
     },
     {
       "type": "Feature",
+      "id": "node/10866042885",
+      "properties": {
+        "timestamp": "2025-04-13T23:50:26Z",
+        "version": 4,
+        "changeset": 164916077,
+        "addr:city": "Rio de Janeiro",
+        "addr:housenumber": "92",
+        "addr:postcode": "20560-185",
+        "addr:street": "Rua Marechal Jofre",
+        "addr:suburb": "Grajaú",
+        "leisure": "fitness_centre",
+        "name": "Life Up Fitness",
+        "opening_hours": "Mo-Fr 06:00-22:00 Sa 8:30-14:00",
+        "phone": "(21) 3217-3513",
+        "sport": "musculação;gymnastics;fitness;jiu-jitsu",
+        "website": "https://www.instagram.com/lifeupacademia_grajau/",
+        "id": "node/10866042885"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2656946,
+          -22.918781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/10867379105",
       "properties": {
         "timestamp": "2023-10-25T10:13:02Z",
@@ -123669,6 +123703,26 @@
         "coordinates": [
           -43.3388948,
           -22.935814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12752980332",
+      "properties": {
+        "timestamp": "2025-04-13T20:42:44Z",
+        "version": 1,
+        "changeset": 164912036,
+        "fitness_station": "box",
+        "leisure": "fitness_station",
+        "sport": "fitness",
+        "id": "node/12752980332"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2185564,
+          -22.9760826
         ]
       }
     }

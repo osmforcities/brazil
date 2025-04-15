@@ -3763,11 +3763,18 @@
       "type": "Feature",
       "id": "way/1040907985",
       "properties": {
-        "timestamp": "2022-03-16T18:22:58Z",
-        "version": 1,
-        "changeset": 118562934,
+        "timestamp": "2025-04-13T22:58:04Z",
+        "version": 2,
+        "changeset": 164915225,
+        "addr:city": "Niterói",
+        "addr:housenumber": "124",
+        "addr:postcode": "24350-680",
+        "addr:street": "Rua Professsor Ernãni Faria Alves",
+        "addr:suburb": "Piratininga",
         "amenity": "school",
+        "grades": "1º ano do fundamental a 3º ano do ensino médio.",
         "name": "Colégio Itapuca",
+        "website": "https://itapuca.criadorlw.com.br/",
         "id": "way/1040907985"
       },
       "geometry": {
@@ -5688,6 +5695,54 @@
             [
               -43.0645757,
               -22.9398759
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1377319972",
+      "properties": {
+        "timestamp": "2025-04-13T23:04:15Z",
+        "version": 1,
+        "changeset": 164915333,
+        "addr:city": "Niterói",
+        "addr:housenumber": "1808",
+        "addr:postcode": "24340-090",
+        "addr:street": "Avenida Professora Romanda Gonçalves",
+        "addr:suburb": "Serra Grande",
+        "amenity": "school",
+        "grades": "Maternao ao 5° ano do fundamental",
+        "name": "Instituto Teresa de Lisieux",
+        "operator": "Instituto de Educação Aplicada Teresa de Lisieux",
+        "operator:type": "private",
+        "website": "https://itl.crecheescola.com/",
+        "id": "way/1377319972"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.0150642,
+              -22.9320664
+            ],
+            [
+              -43.014935,
+              -22.9322278
+            ],
+            [
+              -43.0147828,
+              -22.9321324
+            ],
+            [
+              -43.0149111,
+              -22.9319629
+            ],
+            [
+              -43.0150642,
+              -22.9320664
             ]
           ]
         ]

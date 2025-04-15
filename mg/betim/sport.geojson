@@ -233,6 +233,78 @@
     },
     {
       "type": "Feature",
+      "id": "relation/18986939",
+      "properties": {
+        "timestamp": "2025-04-13T16:37:34Z",
+        "version": 1,
+        "changeset": 164903555,
+        "addr:city": "Betim",
+        "addr:housenumber": "150",
+        "addr:postcode": "32604-146",
+        "addr:street": "Rua Espanha",
+        "addr:suburb": "Angola",
+        "leisure": "pitch",
+        "name": "Liga de Desportos de Betim",
+        "sport": "soccer",
+        "type": "multipolygon",
+        "id": "relation/18986939"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -44.1996488,
+                -19.9594414
+              ],
+              [
+                -44.1997542,
+                -19.9595355
+              ],
+              [
+                -44.1995866,
+                -19.9597013
+              ],
+              [
+                -44.1994812,
+                -19.9596072
+              ],
+              [
+                -44.1996488,
+                -19.9594414
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -44.199386,
+                -19.9596884
+              ],
+              [
+                -44.1995099,
+                -19.9597981
+              ],
+              [
+                -44.1992607,
+                -19.9600468
+              ],
+              [
+                -44.1991368,
+                -19.9599373
+              ],
+              [
+                -44.199386,
+                -19.9596884
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/155516888",
       "properties": {
         "timestamp": "2017-06-06T22:47:06Z",
@@ -2009,12 +2081,12 @@
       "type": "Feature",
       "id": "way/501477286",
       "properties": {
-        "timestamp": "2017-06-18T20:53:51Z",
-        "version": 1,
-        "changeset": 49643944,
+        "timestamp": "2025-04-13T04:43:31Z",
+        "version": 2,
+        "changeset": 164879046,
         "leisure": "pitch",
         "source": "Bing",
-        "sport": "multi",
+        "sport": "skateboard",
         "surface": "concrete",
         "id": "way/501477286"
       },
@@ -17024,24 +17096,24 @@
         "coordinates": [
           [
             [
-              -44.1809412,
-              -19.9630643
+              -44.1809326,
+              -19.9630098
             ],
             [
-              -44.1812253,
-              -19.9634049
+              -44.1812167,
+              -19.9633504
             ],
             [
-              -44.1809563,
-              -19.9636031
+              -44.1809477,
+              -19.9635486
             ],
             [
-              -44.1806722,
-              -19.9632626
+              -44.1806636,
+              -19.9632081
             ],
             [
-              -44.1809412,
-              -19.9630643
+              -44.1809326,
+              -19.9630098
             ]
           ]
         ]
@@ -18260,38 +18332,43 @@
     },
     {
       "type": "Feature",
-      "id": "way/1376013680",
+      "id": "way/1376013679",
       "properties": {
-        "timestamp": "2025-04-09T04:10:29Z",
-        "version": 1,
-        "changeset": 164704694,
-        "leisure": "pitch",
-        "sport": "soccer",
-        "id": "way/1376013680"
+        "timestamp": "2025-04-13T16:37:34Z",
+        "version": 2,
+        "changeset": 164903555,
+        "addr:city": "Betim",
+        "addr:housenumber": "150",
+        "addr:postcode": "32604-146",
+        "addr:street": "Rua Espanha",
+        "addr:suburb": "Angola",
+        "building": "yes",
+        "name": "Liga de Desportos de Betim",
+        "id": "way/1376013679"
       },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              -44.199386,
-              -19.9596884
+              -44.1996488,
+              -19.9594414
             ],
             [
-              -44.1995099,
-              -19.9597981
+              -44.1997542,
+              -19.9595355
             ],
             [
-              -44.1992607,
-              -19.9600468
+              -44.1995866,
+              -19.9597013
             ],
             [
-              -44.1991368,
-              -19.9599373
+              -44.1994812,
+              -19.9596072
             ],
             [
-              -44.199386,
-              -19.9596884
+              -44.1996488,
+              -19.9594414
             ]
           ]
         ]
@@ -19373,9 +19450,9 @@
       "type": "Feature",
       "id": "node/12717740918",
       "properties": {
-        "timestamp": "2025-04-01T05:42:27Z",
-        "version": 1,
-        "changeset": 164357507,
+        "timestamp": "2025-04-13T03:28:55Z",
+        "version": 2,
+        "changeset": 164878250,
         "leisure": "fitness_station",
         "sport": "fitness",
         "id": "node/12717740918"
@@ -19383,8 +19460,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -44.1145119,
-          -19.9359548
+          -44.114355,
+          -19.9359864
         ]
       }
     },
@@ -19506,6 +19583,122 @@
         "coordinates": [
           -44.102644,
           -19.9445269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12740628902",
+      "properties": {
+        "timestamp": "2025-04-09T04:10:29Z",
+        "version": 1,
+        "changeset": 164704694,
+        "addr:city": "Betim",
+        "addr:housenumber": "150",
+        "addr:postcode": "32604-146",
+        "addr:street": "Rua Espanha",
+        "addr:suburb": "Angola",
+        "id": "node/12740628902"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.1997473,
+          -19.9593577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12740628906",
+      "properties": {
+        "timestamp": "2025-04-13T16:37:34Z",
+        "version": 2,
+        "changeset": 164903555,
+        "entrance": "yes",
+        "id": "node/12740628906"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.199667,
+          -19.9594279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12751516940",
+      "properties": {
+        "timestamp": "2025-04-13T02:46:20Z",
+        "version": 1,
+        "changeset": 164877788,
+        "leisure": "fitness_station",
+        "sport": "fitness",
+        "id": "node/12751516940"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.1261212,
+          -19.9443515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12751516941",
+      "properties": {
+        "timestamp": "2025-04-13T02:46:20Z",
+        "version": 1,
+        "changeset": 164877788,
+        "leisure": "fitness_station",
+        "sport": "fitness",
+        "id": "node/12751516941"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.1261504,
+          -19.9443407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12751628703",
+      "properties": {
+        "timestamp": "2025-04-13T03:28:55Z",
+        "version": 1,
+        "changeset": 164878250,
+        "leisure": "fitness_station",
+        "sport": "fitness",
+        "id": "node/12751628703"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.1144358,
+          -19.9359306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12751628704",
+      "properties": {
+        "timestamp": "2025-04-13T03:28:55Z",
+        "version": 1,
+        "changeset": 164878250,
+        "leisure": "fitness_station",
+        "sport": "fitness",
+        "id": "node/12751628704"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.1143955,
+          -19.9359345
         ]
       }
     }

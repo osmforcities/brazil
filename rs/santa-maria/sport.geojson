@@ -2119,6 +2119,65 @@
     },
     {
       "type": "Feature",
+      "id": "way/295240374",
+      "properties": {
+        "timestamp": "2025-04-13T15:54:58Z",
+        "version": 11,
+        "changeset": 164901822,
+        "addr:city": "Santa Maria",
+        "addr:postcode": "97110-320",
+        "addr:street": "Rua Gonçalves Ledo",
+        "addr:suburb": "Camobi",
+        "contact:phone": "+55 55 99101-9809",
+        "leisure": "sports_centre",
+        "name": "Ginásio Minuano",
+        "roof:shape": "round",
+        "sport": "futsal;volleyball;multi",
+        "website": "https://www.instagram.com/ginasiominuano",
+        "id": "way/295240374"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -53.7084212,
+              -29.7010242
+            ],
+            [
+              -53.7083147,
+              -29.7007568
+            ],
+            [
+              -53.7083261,
+              -29.700753
+            ],
+            [
+              -53.7082828,
+              -29.7006397
+            ],
+            [
+              -53.7085505,
+              -29.700558
+            ],
+            [
+              -53.708697,
+              -29.7009416
+            ],
+            [
+              -53.7085574,
+              -29.700982
+            ],
+            [
+              -53.7084212,
+              -29.7010242
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/296187505",
       "properties": {
         "timestamp": "2014-08-06T13:03:34Z",
@@ -16904,6 +16963,30 @@
         "coordinates": [
           -53.7122818,
           -29.7056943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4024030854",
+      "properties": {
+        "timestamp": "2025-04-13T18:02:16Z",
+        "version": 6,
+        "changeset": 164906973,
+        "addr:city": "Santa Maria",
+        "addr:postcode": "97110-320",
+        "addr:street": "Rua Gonçalves Ledo",
+        "addr:suburb": "Camobi",
+        "entrance": "main",
+        "loc_name": "Ginásio de Esportes Minuano",
+        "wheelchair": "yes",
+        "id": "node/4024030854"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.7085574,
+          -29.700982
         ]
       }
     },

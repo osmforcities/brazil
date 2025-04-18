@@ -202,6 +202,63 @@
     },
     {
       "type": "Feature",
+      "id": "way/1149186355",
+      "properties": {
+        "timestamp": "2025-04-16T03:01:13Z",
+        "version": 3,
+        "changeset": 165008516,
+        "addr:housenumber": "670",
+        "addr:street": "Avenida Marechal Deodoro da Fonseca",
+        "building": "apartments",
+        "building:levels": "5",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Hotel 4 Woo",
+        "tourism": "hotel",
+        "id": "way/1149186355"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -50.6293848,
+              -24.3348735
+            ],
+            [
+              -50.6292786,
+              -24.3349633
+            ],
+            [
+              -50.6290443,
+              -24.3346937
+            ],
+            [
+              -50.6291735,
+              -24.3346126
+            ],
+            [
+              -50.6292924,
+              -24.3347391
+            ],
+            [
+              -50.6293725,
+              -24.3348315
+            ],
+            [
+              -50.629362,
+              -24.3348441
+            ],
+            [
+              -50.6293848,
+              -24.3348735
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1150503844",
       "properties": {
         "timestamp": "2023-03-01T17:41:14Z",
@@ -338,25 +395,6 @@
         "coordinates": [
           -50.6208527,
           -24.3392779
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/10646599512",
-      "properties": {
-        "timestamp": "2023-02-10T18:15:48Z",
-        "version": 1,
-        "changeset": 132374528,
-        "name": "hotel 4woo",
-        "tourism": "hotel",
-        "id": "node/10646599512"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -50.6291208,
-          -24.3346155
         ]
       }
     },

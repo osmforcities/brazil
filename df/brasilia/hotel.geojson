@@ -2657,6 +2657,46 @@
     },
     {
       "type": "Feature",
+      "id": "way/563689042",
+      "properties": {
+        "timestamp": "2025-04-17T18:13:50Z",
+        "version": 2,
+        "changeset": 165084237,
+        "building": "yes",
+        "name": "Meliá Brasil 21",
+        "tourism": "hotel",
+        "id": "way/563689042"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.8941281,
+              -15.7925934
+            ],
+            [
+              -47.8942187,
+              -15.7928465
+            ],
+            [
+              -47.8938089,
+              -15.7929822
+            ],
+            [
+              -47.8937183,
+              -15.7927291
+            ],
+            [
+              -47.8941281,
+              -15.7925934
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/690502116",
       "properties": {
         "timestamp": "2019-10-22T12:21:14Z",
@@ -4703,6 +4743,35 @@
         "coordinates": [
           -47.8474743,
           -15.7913199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12762876710",
+      "properties": {
+        "timestamp": "2025-04-17T18:11:30Z",
+        "version": 1,
+        "changeset": 165084154,
+        "addr:city": "Brasília",
+        "addr:postcode": "70316-901",
+        "addr:street": "SHS Quadra 6 bl B",
+        "addr:suburb": "Asa Sul",
+        "brand": "Affiliated By Meliá",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "Hotel Brasil 21 Convention Affiliated By Meliá",
+        "phone": "+556132184700",
+        "rooms": "133",
+        "tourism": "hotel",
+        "website": "https://www.melia.com/pt/hoteis/brasil/brasilia/brasil-21-convention-by-melia",
+        "id": "node/12762876710"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.8927668,
+          -15.7926499
         ]
       }
     }
